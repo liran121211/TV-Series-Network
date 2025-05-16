@@ -1,0 +1,62 @@
+{
+    "1": {
+        "title": "Currahee",
+        "released": "2001-09-09",
+        "rating": "8.6",
+        "imdb_id": "tt1245384"
+    },
+    "2": {
+        "title": "Day of Days",
+        "released": "2001-09-09",
+        "rating": "9.1",
+        "imdb_id": "tt1247465"
+    },
+    "3": {
+        "title": "Carentan",
+        "released": "2001-09-16",
+        "rating": "9.0",
+        "imdb_id": "tt1247463"
+    },
+    "4": {
+        "title": "Replacements",
+        "released": "2001-09-23",
+        "rating": "8.8",
+        "imdb_id": "tt1247467"
+    },
+    "5": {
+        "title": "Crossroads",
+        "released": "2001-09-30",
+        "rating": "8.8",
+        "imdb_id": "tt1247464"
+    },
+    "6": {
+        "title": "Bastogne",
+        "released": "2001-10-07",
+        "rating": "9.2",
+        "imdb_id": "tt1247462"
+    },
+    "7": {
+        "title": "The Breaking Point",
+        "released": "2001-10-14",
+        "rating": "9.4",
+        "imdb_id": "tt1247468"
+    },
+    "8": {
+        "title": "The Last Patrol",
+        "released": "2001-10-21",
+        "rating": "8.7",
+        "imdb_id": "tt1247469"
+    },
+    "9": {
+        "title": "Why We Fight",
+        "released": "2001-10-28",
+        "rating": "9.5",
+        "imdb_id": "tt1247470"
+    },
+    "10": {
+        "title": "Points",
+        "released": "2001-11-04",
+        "rating": "9.2",
+        "imdb_id": "tt1247466"
+    }
+}

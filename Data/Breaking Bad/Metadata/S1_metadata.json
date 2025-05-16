@@ -1,0 +1,44 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2008-01-20",
+        "rating": "9.0",
+        "imdb_id": "tt0959621"
+    },
+    "2": {
+        "title": "Cat's in the Bag...",
+        "released": "2008-01-27",
+        "rating": "8.6",
+        "imdb_id": "tt1054724"
+    },
+    "3": {
+        "title": "...And the Bag's in the River",
+        "released": "2008-02-10",
+        "rating": "8.7",
+        "imdb_id": "tt1054725"
+    },
+    "4": {
+        "title": "Cancer Man",
+        "released": "2008-02-17",
+        "rating": "8.2",
+        "imdb_id": "tt1054726"
+    },
+    "5": {
+        "title": "Gray Matter",
+        "released": "2008-02-24",
+        "rating": "8.3",
+        "imdb_id": "tt1054727"
+    },
+    "6": {
+        "title": "Crazy Handful of Nothin'",
+        "released": "2008-03-02",
+        "rating": "9.3",
+        "imdb_id": "tt1054728"
+    },
+    "7": {
+        "title": "A No-Rough-Stuff-Type Deal",
+        "released": "2008-03-09",
+        "rating": "8.8",
+        "imdb_id": "tt1054729"
+    }
+}
