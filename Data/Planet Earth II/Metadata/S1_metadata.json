@@ -1,0 +1,38 @@
+{
+    "1": {
+        "title": "Islands",
+        "released": "2017-02-18",
+        "rating": "9.4",
+        "imdb_id": "tt6142646"
+    },
+    "2": {
+        "title": "Mountains",
+        "released": "2017-02-25",
+        "rating": "9.1",
+        "imdb_id": "tt6209126"
+    },
+    "3": {
+        "title": "Jungles",
+        "released": "2017-03-04",
+        "rating": "8.9",
+        "imdb_id": "tt6209130"
+    },
+    "4": {
+        "title": "Deserts",
+        "released": "2017-03-11",
+        "rating": "8.8",
+        "imdb_id": "tt6209134"
+    },
+    "5": {
+        "title": "Grasslands",
+        "released": "2017-03-18",
+        "rating": "8.7",
+        "imdb_id": "tt6209140"
+    },
+    "6": {
+        "title": "Cities",
+        "released": "2017-03-25",
+        "rating": "9.0",
+        "imdb_id": "tt6209144"
+    }
+}
