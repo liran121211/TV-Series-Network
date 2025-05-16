@@ -22,6 +22,11 @@ from nltk.tokenize import word_tokenize, sent_tokenize
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.preprocessing import StandardScaler
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.decomposition import LatentDirichletAllocation
+
+from sentence_transformers import SentenceTransformer
+from sklearn.metrics.pairwise import cosine_similarity
 
 
 # --------------------------------------------------------------------------- #
@@ -299,6 +304,156 @@ class SubtitlesAnalyzer:
 
         return {k: v / total_tokens for k, v in pos_counts.items()}
 
+    def get_pronoun_usage(self):
+        """
+        Calculate the ratio of personal pronouns in the subtitle lines using spaCy.
+
+        Returns:
+            float: proportion of pronouns out of all tokens.
+        """
+        import spacy
+
+        nlp = spacy.load(SPACY_CURRENT_MODEL)
+        total_tokens = 0
+        pronoun_count = 0
+
+        for line in self.lines:
+            doc = nlp(line)
+            total_tokens += len(doc)
+            pronoun_count += sum(1 for token in doc if token.pos_ == "PRON")
+
+        return pronoun_count / total_tokens if total_tokens > 0 else 0.0
+
+    def get_tense_distribution(self):
+        """
+        Estimate the distribution of verb tenses: past, present, future using spaCy's morphological analysis.
+
+        Returns:
+            dict: Ratio of past, present, and future verbs.
+        """
+        import spacy
+        from collections import Counter
+
+        nlp = spacy.load(SPACY_CURRENT_MODEL)
+        tense_counts = Counter()
+
+        for line in self.lines:
+            doc = nlp(line)
+            for token in doc:
+                if token.tag_ in {"VBD", "VBN"}:
+                    tense_counts["past"] += 1
+                elif token.tag_ in {"VB", "VBP", "VBZ", "VBG"}:
+                    tense_counts["present"] += 1
+                elif token.tag_ == "MD":
+                    tense_counts["future"] += 1
+
+        total = sum(tense_counts.values())
+        if total == 0:
+            return {"past": 0.0, "present": 0.0, "future": 0.0}
+
+        return {k: v / total for k, v in tense_counts.items()}
+
+# -------------------Structural Features-------------------
+    def get_dialogue_density(self):
+        """
+        Number of subtitle lines per minute of episode.
+
+        Returns:
+            float: lines per minute
+        """
+        duration = self.get_duration_seconds()
+        return (len(self.lines) / (duration / 60)) if duration > 0 else 0.0
+
+    def get_duration_seconds(self):
+        """
+        Total duration of the episode in seconds, inferred from last subtitle timestamp.
+
+        Returns:
+            float: duration in seconds
+        """
+        if not self.subs:
+            return 0.0
+        return self.subs[-1].end.ordinal / 1000.0  # ordinal is in milliseconds
+
+    def get_scene_change_density(self, threshold_seconds=20):
+        """
+        Estimate number of scene changes per minute based on large time gaps between subtitle entries.
+
+        Parameters:
+            threshold_seconds (float): Time gap threshold to consider a scene change.
+
+        Returns:
+            float: scene changes per minute
+        """
+        if len(self.timestamps) < 2:
+            return 0.0
+
+        gaps = np.diff(self.timestamps)
+        scene_changes = sum(1 for gap in gaps if gap >= threshold_seconds)
+
+        duration_minutes = self.get_duration_seconds() / 60.0
+        return scene_changes / duration_minutes if duration_minutes > 0 else 0.0
+
+# -------------------Semantic Features-------------------
+    def get_topic_distribution(self, n_topics=5):
+        """
+        Perform topic modeling using LDA to find distribution of topics in subtitle lines.
+
+        Returns:
+            list[float]: topic proportions (length = n_topics)
+        """
+        if not self.lines:
+            return [0.0] * n_topics
+
+        vectorizer = CountVectorizer(stop_words='english')
+        X = vectorizer.fit_transform(self.lines)
+
+        lda = LatentDirichletAllocation(n_components=n_topics, random_state=42)
+        lda.fit(X)
+
+        topic_distribution = lda.transform(X).mean(axis=0)
+        return topic_distribution.tolist()
+
+    def get_semantic_similarity_score(self, model_name='all-MiniLM-L6-v2'):
+        """
+        Calculate average semantic similarity between all pairs of subtitle lines.
+
+        Returns:
+            float: average pairwise cosine similarity
+        """
+        if len(self.lines) < 2:
+            return 0.0
+
+        model = SentenceTransformer(model_name)
+        embeddings = model.encode(self.lines, show_progress_bar=True)
+
+        sim_matrix = cosine_similarity(embeddings)
+        upper_tri = sim_matrix[np.triu_indices_from(sim_matrix, k=1)]
+
+        return float(np.mean(upper_tri))
+
+    def get_coherence_score(self, model_name='all-MiniLM-L6-v2'):
+        """
+        Estimate content coherence by computing average similarity between consecutive lines.
+
+        Returns:
+            float: average similarity of consecutive subtitle lines
+        """
+        if len(self.lines) < 2:
+            return 0.0
+
+        model = SentenceTransformer(model_name)
+        embeddings = model.encode(self.lines, show_progress_bar=True)
+
+        scores = []
+        for i in range(len(embeddings) - 1):
+            sim = cosine_similarity([embeddings[i]], [embeddings[i + 1]])[0][0]
+            scores.append(sim)
+
+        return float(np.mean(scores))
+
+# -------------------------------------------------------------
+
     def get_all_linguistic_features(self):
         """Returns all computed features as a dictionary"""
         return {
@@ -307,33 +462,84 @@ class SubtitlesAnalyzer:
             "avg_sentence_length": self.get_avg_sentence_length(),
             "lexical_diversity": self.get_lexical_diversity(),
             "tfidf_keywords": self.get_tfidf_keywords(),
-            'repetition_rate': self.get_repetition_rate(),
-            'stopword_ratio': self.get_stopword_ratio(),
+            "repetition_rate": self.get_repetition_rate(),
+            "stopword_ratio": self.get_stopword_ratio(),
             }
 
-    def get_all_sentiment_style_features(self):
+    def __get_all_sentiment_style_features(self):
         return {
             "avg_sentiment": self.get_avg_sentiment(),
             "sentiment_std": self.get_sentiment_std(),
             "question_rate": self.get_question_rate(),
-            'emotion_distribution': self.get_emotion_distribution(),
-            'exclamation_rate': self.get_exclamation_rate(),
-            'intensity_score': self.get_intensity_score(),
+            "emotion_distribution": self.get_emotion_distribution(),
+            "exclamation_rate": self.get_exclamation_rate(),
+            "intensity_score": self.get_intensity_score(),
         }
 
-    def get_all_clustering_content_features(self):
+    def __get_all_clustering_content_features(self):
         return {
             "num_clusters": self.get_num_clusters(),
             "dominant_cluster_ratio": self.get_dominant_cluster_ratio(),
             "semantic_variance_spacy": self.get_semantic_variance_spacy(),
         }
 
-    def get_all_syntactic_grammatical_features(self):
+    def __get_all_syntactic_grammatical_features(self):
         return {
             "pos_distribution": self.get_pos_distribution(),
+            "pronoun_usage": self.get_pronoun_usage(),
+            "tense_distribution": self.get_tense_distribution(),
         }
+
+    def __get_all_structural_features(self):
+        return {
+            "dialogue_density": self.get_dialogue_density(),
+            "duration_seconds": self.get_duration_seconds(),
+            "scene_change_density": self.get_scene_change_density(),
+        }
+
+    def __get_all_semantic_features(self):
+        return {
+            "topic_distribution": self.get_topic_distribution(),
+            "semantic_similarity_score": self.get_semantic_similarity_score(),
+            "coherence_score": self.get_coherence_score(),
+        }
+
+    def calculate_all_features(self):
+        """
+        Runs all feature extraction groups with tqdm progress and returns a single flat dictionary.
+
+        Returns:
+            dict: feature_name -> value
+        """
+        results = dict()
+
+        print("Extracting linguistic features...", end='', flush=True)
+        results['linguistic_features'] = self.get_all_linguistic_features()
+        print("\rExtracting linguistic features...[DONE]", end='\n')
+
+        print("Extracting sentiment style features...", end='', flush=True)
+        results['sentiment_style_features'] = self.__get_all_sentiment_style_features()
+        print("\rExtracting sentiment style features...[DONE]", end='\n')
+
+        print("Extracting clustering content features...", end='', flush=True)
+        results['clustering_content_features'] = self.__get_all_clustering_content_features()
+        print("\rExtracting clustering content features...[DONE]", end='\n')
+
+        print("Extracting syntactic grammatical features...", end='', flush=True)
+        results['syntactic_grammatical_features'] = self.__get_all_syntactic_grammatical_features()
+        print("\rExtracting syntactic grammatical features...[DONE]", end='\n')
+
+        print("Extracting structural features...", end='', flush=True)
+        results['structural_features'] = self.__get_all_structural_features()
+        print("\rExtracting structural features...[DONE]", end='\n')
+
+        print("Extracting semantic features...", end='', flush=True)
+        results['semantic_features'] = self.__get_all_semantic_features()
+        print("\rExtracting semantic features....[DONE]", end='')
+
+        return results
 
 
 instance = SubtitlesAnalyzer(srt_path='Data/Titles/Breaking_Bed/Subtitles/Breaking.Bad.S01E01.720p.BluRay.X264-REWARD-en.srt',
                              emotion_file_path='NRC-Emotion-Lexicon-Wordlevel-v0.92.txt')
-print(instance.get_all_syntactic_grammatical_features())
+print(instance.calculate_all_features())
