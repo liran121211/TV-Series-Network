@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Live Free or Die",
+        "released": "2012-07-15",
+        "rating": "9.2",
+        "imdb_id": "tt2081647"
+    },
+    "2": {
+        "title": "Madrigal",
+        "released": "2012-07-22",
+        "rating": "N/A",
+        "imdb_id": "tt2301457"
+    },
+    "3": {
+        "title": "Hazard Pay",
+        "released": "2012-07-29",
+        "rating": "8.8",
+        "imdb_id": "tt2301459"
+    },
+    "4": {
+        "title": "Fifty-One",
+        "released": "2012-08-05",
+        "rating": "8.8",
+        "imdb_id": "tt2301461"
+    },
+    "5": {
+        "title": "Dead Freight",
+        "released": "2012-08-12",
+        "rating": "9.7",
+        "imdb_id": "tt2301463"
+    },
+    "6": {
+        "title": "Buyout",
+        "released": "2012-08-19",
+        "rating": "9.0",
+        "imdb_id": "tt2301465"
+    },
+    "7": {
+        "title": "Say My Name",
+        "released": "2012-08-26",
+        "rating": "9.6",
+        "imdb_id": "tt2301467"
+    },
+    "8": {
+        "title": "Gliding Over All",
+        "released": "2012-09-02",
+        "rating": "9.6",
+        "imdb_id": "tt2301469"
+    },
+    "9": {
+        "title": "Blood Money",
+        "released": "2013-08-11",
+        "rating": "9.4",
+        "imdb_id": "tt2301471"
+    },
+    "10": {
+        "title": "Buried",
+        "released": "2013-08-18",
+        "rating": "N/A",
+        "imdb_id": "tt2301443"
+    },
+    "11": {
+        "title": "Confessions",
+        "released": "2013-08-25",
+        "rating": "9.6",
+        "imdb_id": "tt2301445"
+    },
+    "12": {
+        "title": "Rabid Dog",
+        "released": "2013-09-01",
+        "rating": "9.1",
+        "imdb_id": "tt2301447"
+    },
+    "13": {
+        "title": "To'hajiilee",
+        "released": "2013-09-08",
+        "rating": "9.8",
+        "imdb_id": "tt2301449"
+    },
+    "14": {
+        "title": "Ozymandias",
+        "released": "2013-09-15",
+        "rating": "N/A",
+        "imdb_id": "tt2301451"
+    },
+    "15": {
+        "title": "Granite State",
+        "released": "2013-09-22",
+        "rating": "9.7",
+        "imdb_id": "tt2301453"
+    },
+    "16": {
+        "title": "Felina",
+        "released": "2013-09-29",
+        "rating": "9.9",
+        "imdb_id": "tt2301455"
+    }
+}
