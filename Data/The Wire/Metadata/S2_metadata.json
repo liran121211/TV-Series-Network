@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Ebb Tide",
+        "released": "2003-06-01",
+        "rating": "7.7",
+        "imdb_id": "tt0749428"
+    },
+    "2": {
+        "title": "Collateral Damage",
+        "released": "2003-06-08",
+        "rating": "8.1",
+        "imdb_id": "tt0749425"
+    },
+    "3": {
+        "title": "Hot Shots",
+        "released": "2003-06-15",
+        "rating": "8.1",
+        "imdb_id": "tt0749432"
+    },
+    "4": {
+        "title": "Hard Cases",
+        "released": "2003-06-22",
+        "rating": "N/A",
+        "imdb_id": "tt0749430"
+    },
+    "5": {
+        "title": "Undertow",
+        "released": "2003-06-29",
+        "rating": "8.1",
+        "imdb_id": "tt0749454"
+    },
+    "6": {
+        "title": "All Prologue",
+        "released": "2003-07-06",
+        "rating": "8.8",
+        "imdb_id": "tt0749419"
+    },
+    "7": {
+        "title": "Backwash",
+        "released": "2003-07-13",
+        "rating": "8.2",
+        "imdb_id": "tt0749422"
+    },
+    "8": {
+        "title": "Duck and Cover",
+        "released": "2003-07-27",
+        "rating": "8.4",
+        "imdb_id": "tt0749427"
+    },
+    "9": {
+        "title": "Stray Rounds",
+        "released": "2003-08-03",
+        "rating": "8.5",
+        "imdb_id": "tt0749445"
+    },
+    "10": {
+        "title": "Storm Warnings",
+        "released": "2003-08-10",
+        "rating": "9.0",
+        "imdb_id": "tt0749443"
+    },
+    "11": {
+        "title": "Bad Dreams",
+        "released": "2003-08-17",
+        "rating": "9.2",
+        "imdb_id": "tt0749423"
+    },
+    "12": {
+        "title": "Port in a Storm",
+        "released": "2003-08-24",
+        "rating": "9.0",
+        "imdb_id": "tt0749439"
+    }
+}

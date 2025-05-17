@@ -1,0 +1,32 @@
+{
+    "1": {
+        "title": "1:23:45",
+        "released": "2019-05-06",
+        "rating": "9.4",
+        "imdb_id": "tt8162428"
+    },
+    "2": {
+        "title": "Please Remain Calm",
+        "released": "2019-05-13",
+        "rating": "9.6",
+        "imdb_id": "tt8482972"
+    },
+    "3": {
+        "title": "Open Wide, O Earth",
+        "released": "2019-05-20",
+        "rating": "9.5",
+        "imdb_id": "tt9166672"
+    },
+    "4": {
+        "title": "The Happiness of All Mankind",
+        "released": "2019-05-27",
+        "rating": "9.3",
+        "imdb_id": "tt9166678"
+    },
+    "5": {
+        "title": "Vichnaya Pamyat",
+        "released": "2019-06-03",
+        "rating": "9.8",
+        "imdb_id": "tt9166696"
+    }
+}
