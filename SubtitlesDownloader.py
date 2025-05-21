@@ -1,8 +1,14 @@
+import json
+import os
+import re
+import shutil
+import zipfile
+
 import requests
 from bs4 import BeautifulSoup
 
 
-def get_subdl_first_result_page(imdb_id, season_id: int, episode_id: int, language: str):
+def get_subtitles_of_tv_show(imdb_id, season_id: int, episode_id: int, language: str):
     search_url = f"https://subdl.com/search/{imdb_id}"
     headers = {
         "User-Agent": "Mozilla/5.0"
@@ -39,7 +45,7 @@ def get_subdl_first_result_page(imdb_id, season_id: int, episode_id: int, langua
         response.raise_for_status()
         # soup = BeautifulSoup(response.text, "html.parser")
 
-        season_page_link = title_page_link + '/' + season_convert_table[season_id] + '/' + language
+        season_page_link = title_page_link + '/' + season_convert_table.get(season_id, 'N/A') + '/' + language
         response = requests.get(season_page_link, headers=headers)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, "html.parser")
@@ -64,11 +70,67 @@ def get_subdl_first_result_page(imdb_id, season_id: int, episode_id: int, langua
         print(f"Error: {ex}")
     return None
 
+
+def is_tv_show_folder_exists(base_path, substring):
+    for entry in os.listdir(base_path):
+        full_path = os.path.join(base_path, entry)
+        if os.path.isdir(full_path) and substring in entry:
+            return True
+    return False
+
+
+def download_zip_to_folder(url, save_to_folder, zip_name):
+    # Ensure destination folder exists
+    os.makedirs(save_to_folder, exist_ok=True)
+
+    # Determine filename from URL or headers
+    local_filename = url.split("/")[-1]
+    save_path = os.path.join(save_to_folder, zip_name)
+
+    # Download the file
+    headers = {"User-Agent": "Mozilla/5.0"}
+    with requests.get(url, headers=headers, stream=True) as r:
+        r.raise_for_status()
+        if 'zip' not in r.headers.get('Content-Type', '') and not local_filename.endswith(".zip"):
+            raise ValueError("Downloaded file is not a ZIP")
+
+        with open(save_path, 'wb') as f:
+            for chunk in r.iter_content(chunk_size=8192):
+                if chunk:
+                    f.write(chunk)
+
+    print(f"✅ ZIP saved to: {save_path}")
+    return save_path
+
 # Example usage
 if __name__ == "__main__":
-    st_name, st_link = get_subdl_first_result_page(imdb_id='tt0098904', season_id=2, episode_id=2, language='english')
-    if st_name and st_name:
-        print("Successfully retrieved the subtitle page.")
-        print("Subtitles Name: ", st_name)
-        print("Subtitles Link: ", st_link)
+    with open('Data/top_250_tv_shows.json', "r", encoding="utf-8") as f:
+        json_tv_shows_data = json.load(f)
+        for tv_show in json_tv_shows_data:
+            tv_show_name = re.sub(r"\s*\(\d{4}\)$", "", tv_show["title"])
+            tv_show_id = tv_show["imdb_id"]
+
+            if is_tv_show_folder_exists(base_path='Data', substring=tv_show_name):
+                full_tv_show_folder_path = os.path.join('Data', tv_show_name, 'Metadata')
+
+                season_id = 0
+                for season_metadata in os.listdir(full_tv_show_folder_path):
+                    season_metadata_path = os.path.join(full_tv_show_folder_path, season_metadata)
+
+                    if os.path.isfile(season_metadata_path):
+                        with open(season_metadata_path, "r", encoding="utf-8") as f:
+                            json_season_data = json.load(f)
+                            season_id += 1
+
+                            for episode_id, episode_data in enumerate(json_season_data, 1):
+                                st_name, st_link = get_subtitles_of_tv_show(imdb_id=tv_show_id, season_id=season_id, episode_id=episode_id, language='english')
+
+                                if st_name and st_name:
+                                    # Create directories if they don't exist
+                                    current_subtiitles_path = os.path.join(os.getcwd(), full_tv_show_folder_path, '../Subtitles', 'S' + str(season_id))
+                                    os.makedirs(current_subtiitles_path, exist_ok=True)
+
+                                    zip_name = st_name.replace(' ', '_') + 'S' + str(season_id) + 'E' + str(episode_id) + '.zip'
+                                    download_zip_to_folder(url=st_link, save_to_folder=current_subtiitles_path, zip_name=zip_name)
+
 
