@@ -394,8 +394,8 @@ if __name__ == "__main__":
     #             break
 
     # x = client.get_episode_metadata(metadata_file_path=r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data\Avatar_ The Last Airbender\Metadata\S2_metadata.json')
-    with open(
-            r"C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data\Avatar_ The Last Airbender\Metadata\S2_E1_metadata.json",
-            "r", encoding="utf-8") as f:
-        x = client.extract_imdb_features(json.load(f))
-        y = 1
+    # with open(
+    #         r"C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data\Avatar_ The Last Airbender\Metadata\S2_E1_metadata.json",
+    #         "r", encoding="utf-8") as f:
+    #     x = client.extract_imdb_features(json.load(f))
+
