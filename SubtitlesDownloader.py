@@ -1,12 +1,28 @@
 import json
+import logging
 import os
 import re
 import shutil
 import zipfile
+from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
 
+# --------------------------------------------------------------------------- #
+#  Logging configuration
+# --------------------------------------------------------------------------- #
+_LOG_PATH = Path(__file__).with_suffix(".log")
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="[%(asctime)s] %(levelname)-8s %(name)s – %(message)s",
+    handlers=[
+        logging.StreamHandler(),  # print()‑like console output
+        logging.FileHandler(_LOG_PATH, encoding="utf‑8")
+    ],
+)
+logger = logging.getLogger("Logs/SubtitlesDownloader")
 
 def get_subtitles_of_tv_show(imdb_id, season_id: int, episode_id: int, language: str):
     search_url = f"https://subdl.com/search/{imdb_id}"
@@ -38,6 +54,7 @@ def get_subtitles_of_tv_show(imdb_id, season_id: int, episode_id: int, language:
         # Step 2: Find the first result link
         first_result = soup.select_one(_class=search_page_first_result_html_token, selector=search_page_first_result_html_type).select(selector='a')[0].attrs.get('href', 'N/A')
         if first_result == 'N/A':
+            logger.critical("No results found for the given IMDb ID")
             raise ValueError("No results found for the given IMDb ID")
 
         title_page_link = "https://subdl.com" + first_result
@@ -65,9 +82,9 @@ def get_subtitles_of_tv_show(imdb_id, season_id: int, episode_id: int, language:
         return 'N/A', 'N/A'
 
     except requests.RequestException as e:
-        print(f"Request error: {e}")
+        logger.exception(f"Request error: {e}")
     except Exception as ex:
-        print(f"Error: {ex}")
+        logger.exception(f"Error: {ex}")
     return None
 
 
@@ -87,11 +104,20 @@ def download_zip_to_folder(url, save_to_folder, zip_name):
     local_filename = url.split("/")[-1]
     save_path = os.path.join(save_to_folder, zip_name)
 
+    if url == 'N/A':
+        logger.critical(f'invalid url: {url}')
+        return save_path
+
+    if os.path.exists(save_path):
+        logger.info(f"ZIP already exists in: {save_path}")
+        return save_path
+
     # Download the file
     headers = {"User-Agent": "Mozilla/5.0"}
     with requests.get(url, headers=headers, stream=True) as r:
         r.raise_for_status()
         if 'zip' not in r.headers.get('Content-Type', '') and not local_filename.endswith(".zip"):
+            logger.critical("Downloaded file is not a ZIP")
             raise ValueError("Downloaded file is not a ZIP")
 
         with open(save_path, 'wb') as f:
@@ -99,7 +125,7 @@ def download_zip_to_folder(url, save_to_folder, zip_name):
                 if chunk:
                     f.write(chunk)
 
-    print(f"✅ ZIP saved to: {save_path}")
+    logger.info(f"✅ ZIP saved to: {save_path}")
     return save_path
 
 # Example usage
