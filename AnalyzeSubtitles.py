@@ -69,7 +69,7 @@ class SubtitlesAnalyzer:
                 logging.FileHandler(_LOG_PATH, encoding="utf‑8")
             ],
         )
-        self.logger = logging.getLogger("CinemagoerClient")
+        self.logger = logging.getLogger("Logs/AnalyzeSubtitles")
 
     def parse_emolex_file(self) -> pd.DataFrame:
         """

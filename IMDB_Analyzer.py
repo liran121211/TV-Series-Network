@@ -1,4 +1,6 @@
 from __future__ import annotations
+
+import glob
 import os
 import json
 import logging
@@ -9,7 +11,7 @@ from typing import Dict, Any, List
 from collections import Counter
 from scipy.stats import entropy
 import requests
-from imdb import Cinemagoer, IMDbError
+from imdb import Cinemagoer, IMDbError, IMDbDataAccessError
 from dotenv import load_dotenv
 from tqdm import tqdm
 
@@ -26,11 +28,10 @@ SERIES_NOT_FOUN_ERROR = -1
 #  Environment Variables
 # --------------------------------------------------------------------------- #
 load_dotenv()  # loads from .env by default
-
 OMDB_API_KEY = os.getenv("OMDB_API_KEY")
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 OPENSUBTITLES_API_KEY = os.getenv("OPENSUBTITLES_API_KEY")
-
+CURR_OMDB_API_KEY_IDX = OMDB_API_KEY.split('|')[1]
 # --------------------------------------------------------------------------- #
 #  Logging configuration
 # --------------------------------------------------------------------------- #
@@ -92,7 +93,7 @@ class CinemagoerClient:
 
     def __init__(self, language: str | None = None) -> None:
         self.ia = Cinemagoer()
-        self.logger = logging.getLogger("CinemagoerClient")
+        self.logger = logging.getLogger("Logs/IMDB_Analyzer")
         if language:
             self.ia.set_locale(language)
             self.logger.info("Locale set to %s", language)
@@ -238,8 +239,7 @@ class CinemagoerClient:
             self.logger.error("Search failed: %s", exc)
             raise
 
-    def get_series_episodes(self, series: Title | str, season: int | None = None,
-                            is_data_saved: bool = False) -> List | SERIES_NOT_FOUN_ERROR:
+    def get_series_episodes(self, series: Title | str, season: int | None = None, is_data_saved: bool = False) -> List | SERIES_NOT_FOUN_ERROR:
         if isinstance(series, Title):
             metadata_path = f"Data/{series.title}/Metadata/S{str(season)}_metadata.json"
             series.title = sanitize_tv_show_name(series.title)
@@ -255,9 +255,9 @@ class CinemagoerClient:
             self.logger.info(f"Fetching {series} - Season {str(season)} episodes from IMDB")
 
         if isinstance(series, Title):
-            url = f"http://www.omdbapi.com/?t={series.title.replace(' ', '+')}&Season={season}&apikey={OMDB_API_KEY}"
+            url = f"http://www.omdbapi.com/?t={series.title.replace(' ', '+')}&Season={season}&apikey={CURR_OMDB_API_KEY_IDX}"
         else:
-            url = f"http://www.omdbapi.com/?t={series.replace(' ', '+')}&Season={season}&apikey={OMDB_API_KEY}"
+            url = f"http://www.omdbapi.com/?t={series.replace(' ', '+')}&Season={season}&apikey={CURR_OMDB_API_KEY_IDX}"
 
         response = requests.get(url)
 
@@ -285,7 +285,11 @@ class CinemagoerClient:
         episodes_imdb_data = []
         for episode_data in tqdm(episodes_by_number.values(), desc="Processing episodes"):
             # Fetch episode details using the IMDb API
-            episodes_imdb_data.append(self.ia.get_episode(episode_data["imdb_id"].replace("tt", "")))
+            try:
+                episodes_imdb_data.append(self.ia.get_episode(episode_data["imdb_id"].replace("tt", "")))
+            except IMDbDataAccessError:
+                self.logger.error(f"IMDB URL is not available for this title {episode_data['imdb_id']}")
+                continue
 
         if is_data_saved:
             # Construct the path
@@ -384,16 +388,30 @@ class CinemagoerClient:
 
 if __name__ == "__main__":
     client = CinemagoerClient()
+
+    # extract metadata of each TV Show
     # list_of_tv_shows_data = client.get_top_tv_shows(top_n=250)
-    #
     # for tv_show_data in list_of_tv_shows_data:
     #     tv_show_name = client.get_title(imdb_id=tv_show_data["imdb_id"])
-    #     for curr_season in range(1, 99):
+    #     for curr_season in range(1, 250):
     #         result = client.get_series_episodes(tv_show_name, season=curr_season, is_data_saved=True)
     #         if result == SERIES_NOT_FOUN_ERROR:
     #             break
 
-    # x = client.get_episode_metadata(metadata_file_path=r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data\Avatar_ The Last Airbender\Metadata\S2_metadata.json')
+    # extract metadata of each episode of TV Show
+    matched_files = []
+    for root, dirs, files in os.walk(r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data'):
+        if os.path.basename(root) == "Metadata":
+            for file in files:
+                if re.match(r"S\d{1}_metadata\.json$", file):
+                    matched_files.append(os.path.join(root, file))
+
+    for json_metadata_path in matched_files:
+        try:
+            client.get_episode_metadata(metadata_file_path=json_metadata_path)
+        except Exception:
+            x = 1
+
     # with open(
     #         r"C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data\Avatar_ The Last Airbender\Metadata\S2_E1_metadata.json",
     #         "r", encoding="utf-8") as f:
