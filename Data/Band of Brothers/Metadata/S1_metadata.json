@@ -3,60 +3,80 @@
         "title": "Currahee",
         "released": "2001-09-09",
         "rating": "8.6",
-        "imdb_id": "tt1245384"
+        "imdb_id": "tt1245384",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Band of Brothers\\Subtitles\\S1\\Band.of.Brothers.S00E01.We.Stand.Alone.Together_[BluRay_MVGroup]S1E1.zip"
     },
     "2": {
         "title": "Day of Days",
         "released": "2001-09-09",
         "rating": "9.1",
-        "imdb_id": "tt1247465"
+        "imdb_id": "tt1247465",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Band of Brothers\\Subtitles\\S1\\Band.of.Brothers.S01E02S1E2.zip"
     },
     "3": {
         "title": "Carentan",
         "released": "2001-09-16",
         "rating": "9.0",
-        "imdb_id": "tt1247463"
+        "imdb_id": "tt1247463",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Band of Brothers\\Subtitles\\S1\\Band.of.Brothers.S01E03S1E3.zip"
     },
     "4": {
         "title": "Replacements",
         "released": "2001-09-23",
         "rating": "8.8",
-        "imdb_id": "tt1247467"
+        "imdb_id": "tt1247467",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Band of Brothers\\Subtitles\\S1\\Band.of.Brothers.S01E04S1E4.zip"
     },
     "5": {
         "title": "Crossroads",
         "released": "2001-09-30",
         "rating": "8.8",
-        "imdb_id": "tt1247464"
+        "imdb_id": "tt1247464",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "6": {
         "title": "Bastogne",
         "released": "2001-10-07",
         "rating": "9.2",
-        "imdb_id": "tt1247462"
+        "imdb_id": "tt1247462",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "7": {
         "title": "The Breaking Point",
         "released": "2001-10-14",
         "rating": "9.4",
-        "imdb_id": "tt1247468"
+        "imdb_id": "tt1247468",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Band of Brothers\\Subtitles\\S1\\Band.Of.Brothers.S01E07.2001.BluRay.1080p.x264.DTS-WiKiS1E7.zip"
     },
     "8": {
         "title": "The Last Patrol",
         "released": "2001-10-21",
         "rating": "8.7",
-        "imdb_id": "tt1247469"
+        "imdb_id": "tt1247469",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "9": {
         "title": "Why We Fight",
         "released": "2001-10-28",
         "rating": "9.5",
-        "imdb_id": "tt1247470"
+        "imdb_id": "tt1247470",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "10": {
         "title": "Points",
         "released": "2001-11-04",
         "rating": "9.2",
-        "imdb_id": "tt1247466"
+        "imdb_id": "tt1247466",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Band of Brothers\\Subtitles\\S1\\Band.of.Brothers.S01E10.Points.1080p.Blu-ray.Remux.AVC.DTS-HD.MA.5.1-KRaLiMaRKoS1E10.zip"
     }
 }

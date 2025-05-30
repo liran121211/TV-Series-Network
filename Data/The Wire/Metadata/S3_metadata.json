@@ -3,72 +3,96 @@
         "title": "Time After Time",
         "released": "2004-09-19",
         "rating": "8.0",
-        "imdb_id": "tt0749453"
+        "imdb_id": "tt0749453",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "2": {
         "title": "All Due Respect",
         "released": "2004-09-26",
         "rating": "8.3",
-        "imdb_id": "tt0749418"
+        "imdb_id": "tt0749418",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "3": {
         "title": "Dead Soldiers",
         "released": "2004-10-03",
         "rating": "8.4",
-        "imdb_id": "tt0749426"
+        "imdb_id": "tt0749426",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "4": {
         "title": "Amsterdam",
         "released": "2004-10-10",
         "rating": "8.4",
-        "imdb_id": "tt0749420"
+        "imdb_id": "tt0749420",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "5": {
         "title": "Straight and True",
         "released": "2004-10-17",
         "rating": "8.5",
-        "imdb_id": "tt0749444"
+        "imdb_id": "tt0749444",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "6": {
         "title": "Homecoming",
         "released": "2004-10-31",
         "rating": "8.6",
-        "imdb_id": "tt0749431"
+        "imdb_id": "tt0749431",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "7": {
         "title": "Back Burners",
         "released": "2004-11-07",
         "rating": "8.5",
-        "imdb_id": "tt0749421"
+        "imdb_id": "tt0749421",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "8": {
         "title": "Moral Midgetry",
         "released": "2004-11-14",
         "rating": "8.9",
-        "imdb_id": "tt0749436"
+        "imdb_id": "tt0749436",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "9": {
         "title": "Slapstick",
         "released": "2004-11-21",
         "rating": "8.7",
-        "imdb_id": "tt0749442"
+        "imdb_id": "tt0749442",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "10": {
         "title": "Reformation",
         "released": "2004-11-28",
         "rating": "8.7",
-        "imdb_id": "tt0749440"
+        "imdb_id": "tt0749440",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "11": {
         "title": "Middle Ground",
         "released": "2004-12-12",
         "rating": "9.6",
-        "imdb_id": "tt0749434"
+        "imdb_id": "tt0749434",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "12": {
         "title": "Mission Accomplished",
         "released": "2004-12-19",
         "rating": "9.3",
-        "imdb_id": "tt0749435"
+        "imdb_id": "tt0749435",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     }
 }

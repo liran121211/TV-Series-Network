@@ -3,60 +3,80 @@
         "title": "More with Less",
         "released": "2008-01-06",
         "rating": "N/A",
-        "imdb_id": "tt0977178"
+        "imdb_id": "tt0977178",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S5\\The_Wire_S05E01S5E1.zip"
     },
     "2": {
         "title": "Unconfirmed Reports",
         "released": "2008-01-13",
         "rating": "8.1",
-        "imdb_id": "tt0985516"
+        "imdb_id": "tt0985516",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S5\\The_Wire_S05E02S5E2.zip"
     },
     "3": {
         "title": "Not for Attribution",
         "released": "2008-01-20",
         "rating": "N/A",
-        "imdb_id": "tt0977180"
+        "imdb_id": "tt0977180",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S5\\The_Wire_S05E03_PDTV_XviD-2HDS5E3.zip"
     },
     "4": {
         "title": "Transitions",
         "released": "2008-01-27",
         "rating": "8.8",
-        "imdb_id": "tt0977181"
+        "imdb_id": "tt0977181",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S5\\The.Wire.S05E04.REPACK.PDTV.XviD-2HDS5E4.zip"
     },
     "5": {
         "title": "React Quotes",
         "released": "2008-02-03",
         "rating": "8.6",
-        "imdb_id": "tt0977182"
+        "imdb_id": "tt0977182",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S5\\The.Wire.S05E05.PDTV.XviD-2HDS5E5.zip"
     },
     "6": {
         "title": "The Dickensian Aspect",
         "released": "2008-02-10",
         "rating": "8.3",
-        "imdb_id": "tt0977183"
+        "imdb_id": "tt0977183",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S5\\The.Wire.S05E06.PDTV.XviD-LOLS5E6.zip"
     },
     "7": {
         "title": "Took",
         "released": "2008-02-17",
         "rating": "8.4",
-        "imdb_id": "tt0977184"
+        "imdb_id": "tt0977184",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S5\\The.Wire.S05E07.PDTV.XviD-LOLS5E7.zip"
     },
     "8": {
         "title": "Clarifications",
         "released": "2008-02-24",
         "rating": "8.9",
-        "imdb_id": "tt0977185"
+        "imdb_id": "tt0977185",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S5\\The.Wire.S05E08.PDTV.XviD-LOLS5E8.zip"
     },
     "9": {
         "title": "Late Editions",
         "released": "2008-03-02",
         "rating": "N/A",
-        "imdb_id": "tt0977186"
+        "imdb_id": "tt0977186",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S5\\The.Wire.S05E09.PDTV.XviD-0TVS5E9.zip"
     },
     "10": {
         "title": "-30-",
         "released": "2008-03-09",
         "rating": "9.6",
-        "imdb_id": "tt0977179"
+        "imdb_id": "tt0977179",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S5\\The.Wire.S05E10.PDTV.XviD-0TVS5E10.zip"
     }
 }

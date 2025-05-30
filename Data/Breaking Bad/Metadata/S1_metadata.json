@@ -3,42 +3,56 @@
         "title": "Pilot",
         "released": "2008-01-20",
         "rating": "9.0",
-        "imdb_id": "tt0959621"
+        "imdb_id": "tt0959621",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S1\\Breaking.Bad.S01E01-7.DSR-HDTV.engS1E1.zip"
     },
     "2": {
         "title": "Cat's in the Bag...",
         "released": "2008-01-27",
         "rating": "8.6",
-        "imdb_id": "tt1054724"
+        "imdb_id": "tt1054724",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S1\\Breaking.Bad.S01E02.480p.BRRip.x264-BoBS1E2.zip"
     },
     "3": {
         "title": "...And the Bag's in the River",
         "released": "2008-02-10",
         "rating": "8.7",
-        "imdb_id": "tt1054725"
+        "imdb_id": "tt1054725",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S1\\Breaking.Bad.S01E03.480p.BRRip.x264-BoBS1E3.zip"
     },
     "4": {
         "title": "Cancer Man",
         "released": "2008-02-17",
         "rating": "8.2",
-        "imdb_id": "tt1054726"
+        "imdb_id": "tt1054726",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S1\\Breaking.Bad.S01E04.480p.BRRip.x264-BoBS1E4.zip"
     },
     "5": {
         "title": "Gray Matter",
         "released": "2008-02-24",
         "rating": "8.3",
-        "imdb_id": "tt1054727"
+        "imdb_id": "tt1054727",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S1\\Breaking.Bad.S01E05.480p.BRRip.x264-BoBS1E5.zip"
     },
     "6": {
         "title": "Crazy Handful of Nothin'",
         "released": "2008-03-02",
         "rating": "9.3",
-        "imdb_id": "tt1054728"
+        "imdb_id": "tt1054728",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S1\\Breaking.Bad.S01E06.HDTV.XviD-LOLS1E6.zip"
     },
     "7": {
         "title": "A No-Rough-Stuff-Type Deal",
         "released": "2008-03-09",
         "rating": "8.8",
-        "imdb_id": "tt1054729"
+        "imdb_id": "tt1054729",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S1\\Breaking.Bad.S01E07.HDTV.XviD-LOLS1E7.zip"
     }
 }

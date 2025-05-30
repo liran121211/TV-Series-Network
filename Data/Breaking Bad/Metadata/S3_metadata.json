@@ -3,78 +3,104 @@
         "title": "No Más",
         "released": "2010-03-21",
         "rating": "8.5",
-        "imdb_id": "tt1528116"
+        "imdb_id": "tt1528116",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S3\\Breaking.Bad.S03E01.720p.HDTV.X264-DIMENSIONS3E1.zip"
     },
     "2": {
         "title": "Caballo sin Nombre",
         "released": "2010-03-28",
         "rating": "N/A",
-        "imdb_id": "tt1615186"
+        "imdb_id": "tt1615186",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S3\\Breaking.Bad.S03E02.HDTV-FQM.eng.[Removed.HI]S3E2.zip"
     },
     "3": {
         "title": "I.F.T.",
         "released": "2010-04-04",
         "rating": "8.4",
-        "imdb_id": "tt1615187"
+        "imdb_id": "tt1615187",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S3\\Breaking.Bad.S03E03.PROPER.720p.HDTV.x264-ORENJIS3E3.zip"
     },
     "4": {
         "title": "Green Light",
         "released": "2010-04-11",
         "rating": "8.2",
-        "imdb_id": "tt1615554"
+        "imdb_id": "tt1615554",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S3\\Breaking.Bad.S03E04.HDTV.XviD-FQMS3E4.zip"
     },
     "5": {
         "title": "Más",
         "released": "2010-04-18",
         "rating": "8.5",
-        "imdb_id": "tt1615555"
+        "imdb_id": "tt1615555",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S3\\Breaking.Bad.S03E05.HDTV.XviD-FEVERS3E5.zip"
     },
     "6": {
         "title": "Sunset",
         "released": "2010-04-25",
         "rating": "9.3",
-        "imdb_id": "tt1615556"
+        "imdb_id": "tt1615556",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S3\\Breaking.Bad.S03E06.HDTV-LOL.eng.[Removed.HI]S3E6.zip"
     },
     "7": {
         "title": "One Minute",
         "released": "2010-05-02",
         "rating": "9.6",
-        "imdb_id": "tt1615944"
+        "imdb_id": "tt1615944",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S3\\Breaking.Bad.S03E07.HDTV.XviD-LOLS3E7.zip"
     },
     "8": {
         "title": "I See You",
         "released": "2010-05-09",
         "rating": "N/A",
-        "imdb_id": "tt1615557"
+        "imdb_id": "tt1615557",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S3\\Breaking.Bad.S03E08.HDTV.XviD-FQMS3E8.zip"
     },
     "9": {
         "title": "Kafkaesque",
         "released": "2010-05-16",
         "rating": "8.4",
-        "imdb_id": "tt1615558"
+        "imdb_id": "tt1615558",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S3\\Breaking.Bad.S03E09.HDTV.XviD-FQM.HIS3E9.zip"
     },
     "10": {
         "title": "Fly",
         "released": "2010-05-23",
         "rating": "7.9",
-        "imdb_id": "tt1615550"
+        "imdb_id": "tt1615550",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S3\\Breaking.Bad.S03E10.HDTV-FQM.eng.[Removed.HI]S3E10.zip"
     },
     "11": {
         "title": "Abiquiu",
         "released": "2010-05-30",
         "rating": "8.4",
-        "imdb_id": "tt1615551"
+        "imdb_id": "tt1615551",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S3\\Breaking.Bad.S03E11.Abiquiu.HDTV.XviD-FQMS3E11.zip"
     },
     "12": {
         "title": "Half Measures",
         "released": "2010-06-06",
         "rating": "N/A",
-        "imdb_id": "tt1615552"
+        "imdb_id": "tt1615552",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S3\\Breaking.Bad.S03E12.HDTV-FQM.eng.[Removed.HI]S3E12.zip"
     },
     "13": {
         "title": "Full Measure",
         "released": "2010-06-13",
         "rating": "9.7",
-        "imdb_id": "tt1615553"
+        "imdb_id": "tt1615553",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S3\\Breaking_Bad_Season_3_2010_MovieFull-HD_BLURAY_720P_27_E01-E13_COMPLETEDS3E13.zip"
     }
 }
