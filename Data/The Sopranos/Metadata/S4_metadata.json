@@ -3,78 +3,104 @@
         "title": "For All Debts Public and Private",
         "released": "2002-09-15",
         "rating": "8.2",
-        "imdb_id": "tt0705245"
+        "imdb_id": "tt0705245",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "2": {
         "title": "No Show",
         "released": "2002-09-22",
         "rating": "8.3",
-        "imdb_id": "tt0705268"
+        "imdb_id": "tt0705268",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "3": {
         "title": "Christopher",
         "released": "2002-09-29",
         "rating": "7.8",
-        "imdb_id": "tt0705234"
+        "imdb_id": "tt0705234",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "4": {
         "title": "The Weight",
         "released": "2002-10-06",
         "rating": "8.4",
-        "imdb_id": "tt0705286"
+        "imdb_id": "tt0705286",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "5": {
         "title": "Pie-o-My",
         "released": "2002-10-13",
         "rating": "8.0",
-        "imdb_id": "tt0705271"
+        "imdb_id": "tt0705271",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "6": {
         "title": "Everybody Hurts",
         "released": "2002-10-20",
         "rating": "8.4",
-        "imdb_id": "tt0705244"
+        "imdb_id": "tt0705244",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "7": {
         "title": "Watching Too Much Television",
         "released": "2002-10-27",
         "rating": "8.1",
-        "imdb_id": "tt0705292"
+        "imdb_id": "tt0705292",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "8": {
         "title": "Mergers and Acquisitions",
         "released": "2002-11-03",
         "rating": "8.1",
-        "imdb_id": "tt0705265"
+        "imdb_id": "tt0705265",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S4\\The.Sopranos.S04E08_-_Only_the_Italian_partS4E8.zip"
     },
     "9": {
         "title": "Whoever Did This",
         "released": "2002-11-10",
         "rating": "9.3",
-        "imdb_id": "tt0705295"
+        "imdb_id": "tt0705295",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "10": {
         "title": "The Strong, Silent Type",
         "released": "2002-11-17",
         "rating": "8.9",
-        "imdb_id": "tt0705283"
+        "imdb_id": "tt0705283",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "11": {
         "title": "Calling All Cars",
         "released": "2002-11-24",
         "rating": "8.0",
-        "imdb_id": "tt0705233"
+        "imdb_id": "tt0705233",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "12": {
         "title": "Eloise",
         "released": "2002-12-01",
         "rating": "8.2",
-        "imdb_id": "tt0705242"
+        "imdb_id": "tt0705242",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "13": {
         "title": "Whitecaps",
         "released": "2002-12-08",
         "rating": "9.3",
-        "imdb_id": "tt0705294"
+        "imdb_id": "tt0705294",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     }
 }
