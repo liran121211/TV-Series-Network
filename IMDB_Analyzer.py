@@ -1,8 +1,10 @@
 from __future__ import annotations
 
+import concurrent
 import os
 import json
 import logging
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 import pandas as pd
 import numpy as np
@@ -21,7 +23,9 @@ from selenium.webdriver.common.by import By
 import time
 import re
 
-SERIES_NOT_FOUN_ERROR = -1
+from SubtitlesDownloader import MAX_CPU_THREADS
+
+SERIES_NOT_FOUND_ERROR = -1
 
 # --------------------------------------------------------------------------- #
 #  Environment Variables
@@ -131,6 +135,56 @@ class CinemagoerClient:
 
         self.logger.info(f"\nSummary:\n  Found: {len(found_files)} JSON files\n  Deleted: {len(deleted_files)} empty files")
         return deleted_files
+
+    def delete_empty_folders_recursively(self, data_dir_path):
+        if not os.path.isdir(data_dir_path):
+            return
+        # Recursively process all subfolders first
+        for entry in os.listdir(data_dir_path):
+            entry_path = os.path.join(data_dir_path, entry)
+            if os.path.isdir(entry_path):
+                self.delete_empty_folders_recursively(entry_path)
+
+        # After subfolders processed, check if the current folder is empty
+        if not os.listdir(data_dir_path):
+            os.rmdir(data_dir_path)
+            self.logger.info(f"Deleted empty folder: {data_dir_path}")
+
+    def repair_faulty_jsons(self, data_dir_path):
+        success_repair = 0
+        failed_repair = 0
+        self.logger.info("Repairing faulty jsons...")
+        for root, dirs, files in os.walk(data_dir_path):
+            if os.path.basename(root) == "Metadata":
+                for file in files:
+                    if re.match(r"S\d{1,2}_E\d{1,2}_metadata\.json$", file):
+
+                        with open(os.path.join(root, file), "r", encoding="utf-8") as f:
+                            data = f.read()
+
+                        # Remove both keys regardless of value (assumes numbers, strings, or null values)
+                        data = re.sub(r'"number of episodes"\s*:\s*[^,}{\[\]]+,?', '', data)
+
+                        # Optional: Clean up any double commas left behind
+                        data = re.sub(r',\s*,', ',', data)
+                        data = re.sub(r',\s*}', '}', data)
+                        data = re.sub(r'{\s*,', '{', data)
+
+                        # Now try loading as JSON
+                        import json
+                        try:
+                            _ = json.loads(data)
+                            success_repair += 1
+                        except Exception as e:
+                            self.logger.info(f"Reading {os.path.join(root, file)} was Failed!")
+                            failed_repair += 1
+
+                        # (Optional) Save the cleaned JSON back to file
+                        with open(os.path.join(root, file), "w", encoding="utf-8") as f:
+                            f.write(data)
+
+        self.logger.info(f'Loaded {success_repair} valid json files.')
+        self.logger.info(f'Loaded {failed_repair} invalid json files.')
 
     def get_top_tv_shows(self, top_n: int = 100):
         top_n_tv_shows_path = f"Data/top_{top_n}_tv_shows.json"
@@ -262,6 +316,7 @@ class CinemagoerClient:
                     # save the data
                     self.logger.info(f"Extracted Metadata of {output_path}")
                     json.dump(episode_metadata, out_file)
+        time.sleep(5)
 
     def search(self, query: str, limit: int = 10) -> List[Title]:
         """Search IMDb and return the first *limit* results as Title objects."""
@@ -273,7 +328,7 @@ class CinemagoerClient:
             self.logger.error("Search failed: %s", exc)
             raise
 
-    def get_series_episodes(self, series: Title | str, season: int | None = None, is_data_saved: bool = False) -> List | SERIES_NOT_FOUN_ERROR:
+    def get_series_episodes(self, series: Title | str, season: int | None = None, is_data_saved: bool = False) -> List | SERIES_NOT_FOUND_ERROR:
         if isinstance(series, Title):
             metadata_path = f"Data/{series.title}/Metadata/S{str(season)}_metadata.json"
             series.title = sanitize_tv_show_name(series.title)
@@ -289,9 +344,15 @@ class CinemagoerClient:
             self.logger.info(f"Fetching {series} - Season {str(season)} episodes from IMDB")
 
         if isinstance(series, Title):
-            url = f"http://www.omdbapi.com/?t={series.title.replace(' ', '+')}&Season={season}&apikey={CURR_OMDB_API_KEY_IDX}"
+            if season == 0:
+                url = f"http://www.omdbapi.com/?t={series.title.replace(' ', '+')}&apikey={CURR_OMDB_API_KEY_IDX}"
+            else:
+                url = f"http://www.omdbapi.com/?t={series.title.replace(' ', '+')}&Season={season}&apikey={CURR_OMDB_API_KEY_IDX}"
         else:
-            url = f"http://www.omdbapi.com/?t={series.replace(' ', '+')}&Season={season}&apikey={CURR_OMDB_API_KEY_IDX}"
+            if season == 0:
+                url = f"http://www.omdbapi.com/?t={series.replace(' ', '+')}&Season={season}&apikey={CURR_OMDB_API_KEY_IDX}"
+            else:
+                url = f"http://www.omdbapi.com/?t={series.title.replace(' ', '+')}&Season={season}&apikey={CURR_OMDB_API_KEY_IDX}"
 
         response = requests.get(url)
 
@@ -302,21 +363,26 @@ class CinemagoerClient:
         json_data = response.json()
 
         if json_data.get('Error', 'N/A') == 'Series or season not found!':
-            self.logger.info(f"{series} Season {str(season)} - Series or season not found!")
-            return SERIES_NOT_FOUN_ERROR
+            self.get_series_episodes(series, 0, is_data_saved)
+            if season == 0:
+                self.logger.info(f"{series} Season {str(season)} - Series or season not found!")
+                return SERIES_NOT_FOUND_ERROR
 
         # Extract episode info into a dict by episode number
-        episodes_by_number = {
-            int(ep["Episode"]): {
-                "title": ep["Title"],
-                "released": ep["Released"],
-                "rating": ep["imdbRating"],
-                "imdb_id": ep["imdbID"],
-                "subtitle_exists": False,
-                "subtitles_full_path": '',
+        try:
+            episodes_by_number = {
+                int(ep["Episode"]): {
+                    "title": ep["Title"],
+                    "released": ep["Released"],
+                    "rating": ep["imdbRating"],
+                    "imdb_id": ep["imdbID"],
+                    "subtitles_exists": False,
+                    "subtitles_full_path": '',
+                }
+                for ep in json_data["Episodes"]
             }
-            for ep in json_data["Episodes"]
-        }
+        except KeyError:
+            return SERIES_NOT_FOUND_ERROR
 
         episodes_imdb_data = []
         for episode_data in tqdm(episodes_by_number.values(), desc="Processing episodes"):
@@ -422,69 +488,95 @@ class CinemagoerClient:
         })
 
 
-if __name__ == "__main__":
-    client = CinemagoerClient()
+def process_episode_metadata_file(file_path):
+    # Dummy: load json and return info, or whatever you want
+    try:
+        with open(file_path, encoding='utf-8') as f:
+            data = json.load(f)
+            client.get_episode_metadata(metadata_file_path=file_path)
 
-    # extract metadata of each TV Show
-    # list_of_tv_shows_data = client.get_top_tv_shows(top_n=250)
-    # for tv_show_data in list_of_tv_shows_data:
-    #     tv_show_name = client.get_title(imdb_id=tv_show_data["imdb_id"])
-    #     for curr_season in range(1, 250):
-    #         result = client.get_series_episodes(tv_show_name, season=curr_season, is_data_saved=True)
-    #         if result == SERIES_NOT_FOUN_ERROR:
-    #             break
+        return file_path, data
+    except Exception as e:
+        return file_path, str(e)
+
+
+def process_tv_show_metadata(tv_show_data):
+    imdb_id = tv_show_data["imdb_id"]
+    tv_show_name = client.get_title(imdb_id=imdb_id)
+
+    for curr_season in range(1, 100):  # Replace 100 with max expected seasons if needed
+        result = client.get_series_episodes(tv_show_name, season=curr_season, is_data_saved=True)
+        time.sleep(15)
+        if result == SERIES_NOT_FOUND_ERROR:
+            break
+
+
+if __name__ == "__main__":
+
+    client = CinemagoerClient()
 
     # verify that all JSON files are not empty (e.g. {}, [])
     client.find_and_delete_empty_json_files(data_dir_path="Data")
+    client.delete_empty_folders_recursively(data_dir_path="Data")
+    client.repair_faulty_jsons(data_dir_path="Data")
 
-    # # extract metadata of each episode of TV Show
-    # matched_files = []
-    # for root, dirs, files in os.walk(r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data'):
-    #     if os.path.basename(root) == "Metadata":
-    #         for file in files:
-    #             if re.match(r"S\d{1,2}_metadata\.json$", file):
-    #                 matched_files.append(os.path.join(root, file))
+    # # Read the json data #TODO: done for now
+    # with open(os.path.join('Data/worst_tv_shows_2.json'), "r", encoding="utf-8") as f:
+    #     json_data = json.load(f)
     #
-    # for json_metadata_path in matched_files:
-    #     try:
-    #         client.get_episode_metadata(metadata_file_path=json_metadata_path)
-    #     except Exception as e:
-    #         print(e)
+    # # Parallelize TV show processing
+    # with ThreadPoolExecutor(max_workers=4) as executor:
+    #     all_results = list(executor.map(process_tv_show_metadata, json_data))
 
-    # extract features of all episodes
-    columns = [
-        'tv_show_name',
-        'season',
-        'episode_number',
-        "cast_size",
-        "cast_unique_names_count",
-        "cast_id_entropy",
-        "cast_character_name_length_avg",
-        "cast_character_name_token_count_avg",
-        "genre_count",
-        "is_multigenre",
-        "runtime_minutes",
-        "number_of_episodes"
-        'imdbID',
-        'rating',
-        'votes',
-    ]
 
-    imdb_features_data = pd.DataFrame(columns=columns)
+
+    # extract metadata of each episode of TV Show
+    matched_files = []
     for root, dirs, files in os.walk(r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data'):
         if os.path.basename(root) == "Metadata":
             for file in files:
-                if re.match(r"S\d{1,2}_E\d{1,2}_metadata\.json$", file):
-                            with open(os.path.join(root, file), "r", encoding="utf-8") as f:
-                                json_data = json.load(f)
-                                new_row = client.extract_imdb_features(json_data)
-                                new_row['tv_show_name'] = os.path.basename(os.path.dirname(root))
-                                new_row['season'] = int(re.search(r'S(\d{1,2})_', file).group(1))
-                                new_row['episode_number'] = int(re.search(r'E(\d{1,2})_', file).group(1))
-                                new_row['imdbID'] = json_data['imdbID'].replace("tt", "")
-                                new_row['rating'] = json_data.get('rating', 0)
-                                new_row['votes'] = json_data.get('votes', 0)
-                                imdb_features_data.loc[len(imdb_features_data)] = new_row
-    # Save the DataFrame to a CSV file
-    imdb_features_data.to_csv("Data/imdb_features_data.csv", index=False, encoding='utf-8-sig')
+                if re.match(r"S\d{1,2}_metadata\.json$", file):
+                    matched_files.append(os.path.join(root, file))
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_CPU_THREADS) as executor:
+        results = list(executor.map(process_episode_metadata_file, matched_files))
+
+    exit(0)
+
+    # # extract features of all episodes
+    # columns = [
+    #     'tv_show_name',
+    #     'season',
+    #     'episode_number',
+    #     "cast_size",
+    #     "cast_unique_names_count",
+    #     "cast_id_entropy",
+    #     "cast_character_name_length_avg",
+    #     "cast_character_name_token_count_avg",
+    #     "genre_count",
+    #     "is_multigenre",
+    #     "runtime_minutes",
+    #     "number_of_episodes"
+    #     'imdbID',
+    #     'rating',
+    #     'votes',
+    # ]
+    #
+    # imdb_features_data = pd.DataFrame(columns=columns)
+    # for root, dirs, files in os.walk(r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data'):
+    #     if os.path.basename(root) == "Metadata":
+    #         for file in files:
+    #             if re.match(r"S\d{1,2}_E\d{1,2}_metadata\.json$", file):
+    #                         with open(os.path.join(root, file), "r", encoding="utf-8") as f:
+    #                             json_data = json.load(f)
+    #                             new_row = client.extract_imdb_features(json_data)
+    #                             new_row['tv_show_name'] = os.path.basename(os.path.dirname(root))
+    #                             new_row['season'] = int(re.search(r'S(\d{1,2})_', file).group(1))
+    #                             new_row['episode_number'] = int(re.search(r'E(\d{1,2})_', file).group(1))
+    #                             new_row['imdbID'] = json_data['imdbID'].replace("tt", "")
+    #                             new_row['rating'] = json_data.get('rating', 0)
+    #                             new_row['votes'] = json_data.get('votes', 0)
+    #                             imdb_features_data.loc[len(imdb_features_data)] = new_row
+    # # Save the DataFrame to a CSV file
+    # imdb_features_data.to_csv("Data/imdb_features_data.csv", index=False, encoding='utf-8-sig')
 
