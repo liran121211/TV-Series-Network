@@ -12,80 +12,80 @@
         "released": "2003-06-08",
         "rating": "8.1",
         "imdb_id": "tt0749425",
-        "subtitles_exists": false,
-        "subtitles_full_path": ""
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S2\\The_Wire_S2E2.zip"
     },
     "3": {
         "title": "Hot Shots",
         "released": "2003-06-15",
         "rating": "8.1",
         "imdb_id": "tt0749432",
-        "subtitles_exists": false,
-        "subtitles_full_path": ""
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S2\\The_Wire_S2E3.zip"
     },
     "4": {
         "title": "Hard Cases",
         "released": "2003-06-22",
         "rating": "N/A",
         "imdb_id": "tt0749430",
-        "subtitles_exists": false,
-        "subtitles_full_path": ""
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S2\\The_Wire_S2E4.zip"
     },
     "5": {
         "title": "Undertow",
         "released": "2003-06-29",
         "rating": "8.1",
         "imdb_id": "tt0749454",
-        "subtitles_exists": false,
-        "subtitles_full_path": ""
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S2\\The_Wire_S2E5.zip"
     },
     "6": {
         "title": "All Prologue",
         "released": "2003-07-06",
         "rating": "8.8",
         "imdb_id": "tt0749419",
-        "subtitles_exists": false,
-        "subtitles_full_path": ""
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S2\\The_Wire_S2E6.zip"
     },
     "7": {
         "title": "Backwash",
         "released": "2003-07-13",
         "rating": "8.2",
         "imdb_id": "tt0749422",
-        "subtitles_exists": false,
-        "subtitles_full_path": ""
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S2\\The_Wire_S2E7.zip"
     },
     "8": {
         "title": "Duck and Cover",
         "released": "2003-07-27",
         "rating": "8.4",
         "imdb_id": "tt0749427",
-        "subtitles_exists": false,
-        "subtitles_full_path": ""
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S2\\The_Wire_S2E8.zip"
     },
     "9": {
         "title": "Stray Rounds",
         "released": "2003-08-03",
         "rating": "8.5",
         "imdb_id": "tt0749445",
-        "subtitles_exists": false,
-        "subtitles_full_path": ""
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S2\\The_Wire_S2E9.zip"
     },
     "10": {
         "title": "Storm Warnings",
         "released": "2003-08-10",
         "rating": "9.0",
         "imdb_id": "tt0749443",
-        "subtitles_exists": false,
-        "subtitles_full_path": ""
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S2\\The_Wire_S2E10.zip"
     },
     "11": {
         "title": "Bad Dreams",
         "released": "2003-08-17",
         "rating": "9.2",
         "imdb_id": "tt0749423",
-        "subtitles_exists": false,
-        "subtitles_full_path": ""
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S2\\The_Wire_S2E11.zip"
     },
     "12": {
         "title": "Port in a Storm",

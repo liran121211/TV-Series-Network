@@ -2,12 +2,22 @@ import json
 import logging
 import os
 import re
-import shutil
-import zipfile
+import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+import inflect
 from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
+from dotenv import load_dotenv
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+
+# --------------------------------------------------------------------------- #
+#  Environment Variables
+# --------------------------------------------------------------------------- #
+load_dotenv()  # loads from .env by default
 
 # --------------------------------------------------------------------------- #
 #  Logging configuration
@@ -24,6 +34,165 @@ logging.basicConfig(
 )
 logger = logging.getLogger("Logs/SubtitlesDownloader")
 
+# --------------------------------------------------------------------------- #
+#  Utils configuration
+# --------------------------------------------------------------------------- #
+# Create the inflect engine to convert numbers to words
+p = inflect.engine()
+
+# Create the dictionary
+season_convert_table = {i: f"{p.number_to_words(p.ordinal(i))}-season" for i in range(1, 100)}
+
+# get max cpu available for threading
+MAX_CPU_THREADS = os.cpu_count()
+
+
+class SubDownloader:
+    def __init__(self):
+        """
+        Initialize the APIKeyManager.
+        :param usage_limit_per_key: Max number of uses allowed per key.
+        """
+
+        self.available_api_keys = {
+            os.getenv("SUBDL_API_KEY_1"): {'status': 'Available', 'usage': 0},
+            os.getenv("SUBDL_API_KEY_2"): {'status': 'Available', 'usage': 0},
+            os.getenv("SUBDL_API_KEY_3"): {'status': 'Available', 'usage': 0},
+        }
+
+        # utilize usage
+        self.set_api_keys_usage()
+        self.active_api_key = self.get_active_api_key()
+
+    def get_active_api_key(self):
+        for api_key, api_key_data in self.available_api_keys.items():
+            if api_key_data['status'] == 'Available':
+                return api_key
+        return 'NO_AVAILABLE_KEY'
+
+    def set_api_keys_usage(self):
+        for api_key, api_key_data in self.available_api_keys.items():
+            self.check_usage_limit(api_key=api_key)
+
+    def check_usage_limit(self, api_key):
+        status_url = f'https://api.subdl.com/api/v1/subtitles?api_key={api_key}'
+
+        # Make the GET request to the SubDL API
+        response = requests.get(status_url)
+
+        # Parse the JSON response
+        if response.status_code == 200:
+            result = response.json()
+
+            if result.get('message', '') == "Daily Limit" or result.get('statusCode', '') == "429":
+                self.available_api_keys[api_key] = {'status': 'Exhausted', 'usage': 1000}
+                return 'Exhausted'
+            else:
+                return 'Available'
+
+        return 'ERROR'
+
+    def get_subtitles(self, film_name=None, file_name=None, sd_id=None, imdb_id=None, tmdb_id=None, season_number=None,
+                      episode_number=None, type=None, year=None, languages=None, subs_per_page=10):
+        # Define the base URL for the SubDL API
+        BASE_URL = "https://api.subdl.com/api/v1/subtitles"
+
+        # Define the prefix for subtitle download links
+        LINK_PREFIX = "https://dl.subdl.com"
+
+        # Construct the query parameters based on provided arguments
+        params = {
+            "api_key": self.active_api_key,
+            "film_name": film_name,
+            "file_name": file_name,
+            "sd_id": sd_id,
+            "imdb_id": imdb_id,
+            "tmdb_id": tmdb_id,
+            "season_number": season_number,
+            "episode_number": episode_number,
+            "type": type,  # movie or tv
+            "year": year,
+            "languages": languages,  # seperate them by comma
+            "subs_per_page": min(subs_per_page, 30)  # Limit subs_per_page to maximum 30
+        }
+
+        # Make the GET request to the SubDL API
+        response = requests.get(BASE_URL, params=params)
+
+        # Parse the JSON response
+        if response.status_code == 200:
+            result = response.json()
+            if result["status"]:
+                for subtitle in result["subtitles"]:
+                    if "url" in subtitle:
+                        return subtitle['name'], LINK_PREFIX + subtitle["url"]
+        else:
+            return 'N/A', 'N/A'
+
+
+def fetch_opensubtitles_by_imdb(imdb_id, imdb_name, season=None, episode=None):
+    """
+    Fetches the HTML of the OpenSubtitles search page for a given IMDb ID.
+    You can optionally provide a season and/or episode for TV series.
+
+    Args:
+        imdb_id (str): IMDb ID, e.g., "tt0944947"
+        season (int or str, optional): Season number, e.g., 2
+        episode (int or str, optional): Episode number
+
+    Returns:
+        str: HTML content of the search page
+    """
+    base_name = 'https://www.opensubtitles.org'
+    url = "https://www.opensubtitles.org/en/search2"
+    params = {
+        "MovieName": imdb_id,
+        "id": 8,
+        "action": "search",
+        "SubLanguageID": "all",
+        "Season": season or "",
+        "Episode": episode or "",
+        # Other params left blank for generic search
+    }
+
+    response = requests.get(url, params=params)
+    response.raise_for_status()
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    # Find all <a> tags with itemprop="url"
+    seasons_links = []
+    for a in soup.find_all("a", itemprop="url"):
+        if 'season' in a.text.lower():
+            href = a.get("href")
+            if href:
+                href = href.replace('sublanguageid-all', 'sublanguageid-eng')
+                seasons_links.append(base_name + href + f'/episode-{episode}')
+
+    for link in seasons_links:
+        response = requests.get(link)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, "html.parser")
+
+        # Find all <tr> tags with class="change even expandable"
+        subtitle_tags = soup.find_all("td", class_="sb_star_odd")
+
+        for subtitle_tag in subtitle_tags:
+            subtitle_a_tag = subtitle_tag.find("a")
+            if subtitle_a_tag and subtitle_a_tag.has_attr("href"):
+                subtitle_href = subtitle_a_tag["href"]
+            else:
+                break
+
+            response = requests.get(base_name + subtitle_href)
+            response.raise_for_status()
+            soup = BeautifulSoup(response.text, "html.parser")
+
+            download_link_tag = soup.find_all("a", class_='bt-dwl external adds_trigger')[0]
+            download_link = download_link_tag['href']
+            download_name = imdb_name + f'_S{str(season_id)}' + f'E{str(episode_id)}.zip'
+            return download_name, (base_name + download_link)
+
+
 def get_subtitles_of_tv_show(imdb_id, season_id: int, episode_id: int, language: str):
     search_url = f"https://subdl.com/search/{imdb_id}"
     headers = {
@@ -37,19 +206,6 @@ def get_subtitles_of_tv_show(imdb_id, season_id: int, episode_id: int, language:
         "_gat_gtag_UA_57662958_1": "1",
     }
 
-    season_convert_table = {
-        1: 'first-season',
-        2: 'second-season',
-        3: 'third-season',
-        4: 'fourth-season',
-        5: 'fifth-season',
-        6: 'sixth-season',
-        7: 'seventh-season',
-        8: 'eighth-season',
-        9: 'ninth-season',
-        10: 'tenth-season',
-    }
-
     try:
         # Step 1: Get search results page
         response = requests.get(search_url, headers=headers, cookies=cookies)
@@ -59,7 +215,9 @@ def get_subtitles_of_tv_show(imdb_id, season_id: int, episode_id: int, language:
         search_page_first_result_html_token, search_page_first_result_html_type = "container mx-auto px-5 flex flex-col gap-1 rounded-md", 'div'
 
         # Step 2: Find the first result link
-        first_result = soup.select_one(_class=search_page_first_result_html_token, selector=search_page_first_result_html_type).select(selector='a')[0].attrs.get('href', 'N/A')
+        first_result = \
+        soup.select_one(_class=search_page_first_result_html_token, selector=search_page_first_result_html_type).select(
+            selector='a')[0].attrs.get('href', 'N/A')
         if first_result == 'N/A':
             logger.critical("No results found for the given IMDb ID")
             return 'RNE', 'RNE'  # Result Not Exist
@@ -90,18 +248,23 @@ def get_subtitles_of_tv_show(imdb_id, season_id: int, episode_id: int, language:
         if soup.select_one(selector='h2', _class='text-2xl font-bold'):
             if soup.select_one(selector='h2', _class='text-2xl font-bold').text.strip() == 'No subtitles found':
                 logger.critical("No subtitles found for the given season and language")
-                return 'NSF', 'NSF' # No Show Found
+                return 'NSF', 'NSF'  # No Show Found
 
-        subtitles_list_li_element = soup.find_all("li", class_="flex justify-between flex-col lg:flex-row gap-1 items-start lg:items-center")
+        subtitles_list_li_element = soup.find_all("li",
+                                                  class_="flex justify-between flex-col lg:flex-row gap-1 items-start lg:items-center")
         for selected_subtitles in subtitles_list_li_element:
             selected_subtitles_link = selected_subtitles.select_one("a.inline-flex")["href"]
             selected_subtitles_name = selected_subtitles.select_one("h4", class_="inline-flex").text.strip()
 
             if 1 <= episode_id <= 9:
                 if 'E0' + str(episode_id) in selected_subtitles_name:
+                    selected_subtitles_name = selected_subtitles_name.replace(' ', '_') + 'S' + str(
+                        season_id) + 'E' + str(episode_id) + '.zip'
                     return selected_subtitles_name, selected_subtitles_link
             else:
                 if 'E' + str(episode_id) in selected_subtitles_name:
+                    selected_subtitles_name = selected_subtitles_name.replace(' ', '_') + 'S' + str(
+                        season_id) + 'E' + str(episode_id) + '.zip'
                     return selected_subtitles_name, selected_subtitles_link
                 else:
                     return 'NTF', 'NTF'  # Non-Template Filename
@@ -181,6 +344,29 @@ def is_tv_show_folder_exists(base_path, substring):
     return False
 
 
+def download_with_selenium(info_page_url, download_dir):
+    # Set Chrome preferences for automatic download
+    chrome_options = Options()
+    chrome_options.add_experimental_option("prefs", {
+        "download.default_directory": os.path.abspath(download_dir),
+        "download.prompt_for_download": False,
+        "directory_upgrade": True,
+        "safebrowsing.enabled": True
+    })
+    # Optional: run headless (no browser window)
+    # chrome_options.add_argument("--headless")
+
+    # Start Chrome
+    driver = webdriver.Chrome(options=chrome_options)
+    driver.get(info_page_url)
+
+    # Wait for the download to finish (increase time for large files)
+    time.sleep(10)  # or use a more robust wait
+    logger.info(f"✅ ZIP saved to: {download_dir}")
+
+    driver.quit()
+
+
 def download_zip_to_folder(url, save_to_folder, zip_name):
     # Ensure destination folder exists
     os.makedirs(save_to_folder, exist_ok=True)
@@ -201,12 +387,35 @@ def download_zip_to_folder(url, save_to_folder, zip_name):
         return save_path
 
     # Download the file
-    headers = {"User-Agent": "Mozilla/5.0"}
-    with requests.get(url, headers=headers, stream=True) as r:
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/120.0.0.0 Safari/537.36"
+        ),
+        "Referer": 'https://google.com'
+    }
+
+    cookies = {
+        "PHPSESSID": "0a2bnUhJwukK6ss-3r50eddFV74",
+        "download-counter": "1",
+        "server": "1",
+    }
+
+    session = requests.Session()
+    session.headers.update(headers)
+    session.cookies.update(cookies)
+
+    with session.get(url, stream=True) as r:
         r.raise_for_status()
+        if r.status_code != 200:
+            logger.exception(f"Error downloading subtitles.")
+            return 'SPNE'  # Save path not exists
+
         if 'zip' not in r.headers.get('Content-Type', '') and not local_filename.endswith(".zip"):
             logger.critical("Downloaded file is not a ZIP")
-            raise ValueError("Downloaded file is not a ZIP")
+            download_with_selenium(info_page_url=url, download_dir=save_to_folder)
+            return save_path
 
         try:
             with open(save_path, 'wb') as f:
@@ -215,13 +424,17 @@ def download_zip_to_folder(url, save_to_folder, zip_name):
                         f.write(chunk)
         except Exception as e:
             logger.exception(f"Error writing to file {save_path}: {e}")
-            return
+            return 'SPNE'  # Save path not exists
 
     logger.info(f"✅ ZIP saved to: {save_path}")
     return save_path
 
 
 def fetch_list_season_metadata_files(folder_path):
+    if not os.path.exists(folder_path):
+        logger.error(f"Folder does not exist: {folder_path}")
+        return [], 0
+
     pattern = re.compile(r'^S\d{1,2}_metadata\.json$')
     seasons_list = [
         os.path.join(folder_path, f)
@@ -231,84 +444,90 @@ def fetch_list_season_metadata_files(folder_path):
     return seasons_list, len(seasons_list)
 
 
+def process_episode(args):
+    tv_show_name, tv_show_id, season_id, episode_id, season_metadata_path, base_path = args
+
+    try:
+        # Load the JSON for this season (ideally, do this once per season, but for simplicity, per episode)
+        with open(season_metadata_path, "r", encoding="utf-8") as f:
+            json_season_data = json.load(f)
+
+        # Check if subtitles already exist
+        try:
+            if json_season_data[str(episode_id)]['subtitles_exists'] is True and json_season_data[str(episode_id)][
+                'subtitles_full_path'] != '':
+                return f"Subtitles already exist for {tv_show_name} S{season_id} E{episode_id}, skipping..."
+        except KeyError:
+            pass
+
+        # Fetch subtitle info
+        # st_name, st_link = get_subtitles_of_tv_show(imdb_id=tv_show_id, season_id=season_id, episode_id=episode_id, language='english')
+        # st_name, st_link = fetch_opensubtitles_by_imdb(imdb_id=tv_show_id, season=season_id, episode=episode_id, imdb_name=tv_show_name.replace(' ', '_'))
+        st_name, st_link = sub_dl.get_subtitles(imdb_id=tv_show_id, season_number=season_id, episode_number=episode_id, languages='EN')
+        time.sleep(5)
+
+        # Handle possible responses (NSF, NTF, SNE, RNE, etc.)
+        if st_name in ['N/A', 'NSF', 'NTF', 'SNE', 'RNE'] or st_link in ['N/A', 'NSF', 'NTF', 'SNE', 'RNE']:
+            return f"Skipping {tv_show_name} S{season_id} E{episode_id} due to status {st_name or st_link}"
+
+        # Prepare directory for subtitles
+        current_subtitles_path = os.path.normpath(
+            os.path.join(os.getcwd(), base_path, tv_show_name, 'Subtitles', 'S' + str(season_id)))
+        os.makedirs(current_subtitles_path, exist_ok=True)
+
+        # Download subtitles
+        download_zip_to_folder(url=st_link, save_to_folder=current_subtitles_path, zip_name=st_name)
+
+        # Update JSON metadata
+        json_season_data[str(episode_id)]['subtitles_exists'] = True
+        json_season_data[str(episode_id)]['subtitles_full_path'] = os.path.abspath(
+            os.path.join(current_subtitles_path, st_name))
+
+        # Write back the season metadata (make sure only one thread writes at a time!)
+        with open(season_metadata_path, 'w', encoding='utf-8') as f:
+            json.dump(json_season_data, f, indent=4, ensure_ascii=False)
+
+        return f"Downloaded subtitles for {tv_show_name} S{season_id} E{episode_id}"
+
+    except Exception as e:
+        return f"Error processing {tv_show_name} S{season_id} E{episode_id}: {e}"
+
+
 # Example usage
 if __name__ == "__main__":
-    # update_season_metadata_with_subtitles(base_path=r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data')
-
+    sub_dl = SubDownloader()
     season_pattern = re.compile(r'^S\d{1,2}_metadata\.json$')
-    flag = False
-    with open('Data/top_250_tv_shows.json', "r", encoding="utf-8") as tv_show_f:
+    base_path = r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data'
+    work_list = []
+
+    with open('Data/worst_tv_shows_2.json', "r", encoding="utf-8") as tv_show_f:
         json_tv_shows_data = json.load(tv_show_f)
         for tv_show in json_tv_shows_data:
-            tv_show_name = re.sub(r"\s*\(\d{4}\)$", "", tv_show["title"])
+            tv_show_name = re.sub(r'[\\/:*?"<>|]', '_', tv_show['title'])
             tv_show_id = tv_show["imdb_id"]
-
-            # if not 'Ted Lasso' in tv_show_name:
-            #     continue
-            if 'Ted Lasso' not in tv_show_name and not flag:
-                continue
-
-            if not flag:
-                flag = True
-
-                logger.info(f"Skipping {tv_show_name} as it is in the ignore list")
-                continue
 
             if is_tv_show_folder_exists(base_path='Data', substring=tv_show_name):
                 full_tv_show_folder_path = os.path.join('Data', tv_show_name, 'Metadata')
-
                 seasons_files, max_seasons = fetch_list_season_metadata_files(full_tv_show_folder_path)
                 for season_id, season_metadata_path in enumerate(seasons_files, start=1):
-
                     if os.path.isfile(season_metadata_path):
                         with open(season_metadata_path, "r", encoding="utf-8") as f:
                             json_season_data = json.load(f)
-
-                            for episode_id, episode_data in enumerate(json_season_data, start=0):
+                            first_json_key = next(iter(json_season_data.items()))[0]
+                            for episode_id, episode_data in enumerate(json_season_data.items(),
+                                                                      start=int(first_json_key)):
+                                # If subtitles need to be fetched, add to work list
                                 try:
-                                    json_season_data[str(episode_id)]['subtitles_exists']
-                                except KeyError:
-                                    episode_id += 1
-
-                                try:
-                                    if json_season_data[str(episode_id)]['subtitles_exists'] is True and json_season_data[str(episode_id)]['subtitles_full_path'] != '':
-                                        logger.info(f"Subtitles already exist for {tv_show_name} S{season_id}, skipping...")
+                                    if json_season_data[str(episode_id)]['subtitles_exists'] is True and \
+                                            json_season_data[str(episode_id)]['subtitles_full_path'] != '':
                                         continue
-                                except KeyError:
+                                except KeyError as e:
                                     continue
+                                work_list.append(
+                                    (tv_show_name, tv_show_id, season_id, episode_id, season_metadata_path, base_path))
 
-                                st_name, st_link = get_subtitles_of_tv_show(imdb_id=tv_show_id, season_id=season_id, episode_id=episode_id, language='english')
-                                if st_name == 'N/A' or st_link == 'N/A':
-                                    logger.critical(f"Failed to fetch subtitles for {tv_show_name} S{season_id} E{episode_id}")
-                                    continue
-
-                                if st_name == 'NSF' or st_link == 'NSF':
-                                    break
-
-                                if st_name == 'NTF' or st_link == 'NTF':
-                                    logger.info(f"Non-Template Filename for {tv_show_name} S{season_id} E{episode_id}")
-                                    continue
-
-                                if st_name == 'SNE' or st_link == 'SNE':
-                                    logger.info(f"Season {season_id} does not exist for the given TV show")
-                                    break
-
-                                if st_name == 'RNE' or st_link == 'RNE':
-                                    logger.info(f"Search result for Season {season_id} does not exist for the given TV show")
-                                    break
-
-                                if st_name and st_name:
-                                    # Create directories if they don't exist
-                                    current_subtiitles_path = os.path.normpath(os.path.join(os.getcwd(), full_tv_show_folder_path, '../Subtitles', 'S' + str(season_id)))
-                                    os.makedirs(current_subtiitles_path, exist_ok=True)
-
-                                    zip_name = st_name.replace(' ', '_') + 'S' + str(season_id) + 'E' + str(episode_id) + '.zip'
-                                    download_zip_to_folder(url=st_link, save_to_folder=current_subtiitles_path, zip_name=zip_name)
-
-                                    json_season_data[str(episode_id)]['subtitles_exists'] = True
-                                    json_season_data[str(episode_id)]['subtitles_full_path'] = os.path.abspath(os.path.join(current_subtiitles_path, zip_name))
-                                    # Save updated metadata
-                                    with open(season_metadata_path, 'w', encoding='utf-8') as f:
-                                        json.dump(json_season_data, f, indent=4, ensure_ascii=False)
-
-
+    # Now, process in parallel!
+    with ThreadPoolExecutor(max_workers=MAX_CPU_THREADS) as executor:
+        future_to_work = {executor.submit(process_episode, args): args for args in work_list}
+        for future in as_completed(future_to_work):
+            print(future.result())

@@ -4,24 +4,24 @@
         "released": "2004-09-19",
         "rating": "8.0",
         "imdb_id": "tt0749453",
-        "subtitles_exists": false,
-        "subtitles_full_path": ""
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S3\\The_Wire_S3E1.zip"
     },
     "2": {
         "title": "All Due Respect",
         "released": "2004-09-26",
         "rating": "8.3",
         "imdb_id": "tt0749418",
-        "subtitles_exists": false,
-        "subtitles_full_path": ""
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S3\\The_Wire_S3E2.zip"
     },
     "3": {
         "title": "Dead Soldiers",
         "released": "2004-10-03",
         "rating": "8.4",
         "imdb_id": "tt0749426",
-        "subtitles_exists": false,
-        "subtitles_full_path": ""
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S3\\The_Wire_S3E3.zip"
     },
     "4": {
         "title": "Amsterdam",
