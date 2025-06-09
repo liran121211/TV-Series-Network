@@ -328,7 +328,7 @@ class CinemagoerClient:
             self.logger.error("Search failed: %s", exc)
             raise
 
-    def get_series_episodes(self, series: Title | str, season: int | None = None, is_data_saved: bool = False) -> List | SERIES_NOT_FOUND_ERROR:
+    def get_series_episodes(self, series: Title | str, series_id: str, season: int | None = None, is_data_saved: bool = False) -> List | SERIES_NOT_FOUND_ERROR:
         if isinstance(series, Title):
             metadata_path = f"Data/{series.title}/Metadata/S{str(season)}_metadata.json"
             series.title = sanitize_tv_show_name(series.title)
@@ -345,14 +345,14 @@ class CinemagoerClient:
 
         if isinstance(series, Title):
             if season == 0:
-                url = f"http://www.omdbapi.com/?t={series.title.replace(' ', '+')}&apikey={CURR_OMDB_API_KEY_IDX}"
+                url = f"http://www.omdbapi.com/?i={series_id}&apikey={CURR_OMDB_API_KEY_IDX}"
             else:
-                url = f"http://www.omdbapi.com/?t={series.title.replace(' ', '+')}&Season={season}&apikey={CURR_OMDB_API_KEY_IDX}"
+                url = f"http://www.omdbapi.com/?i={series_id}&Season={season}&apikey={CURR_OMDB_API_KEY_IDX}"
         else:
             if season == 0:
-                url = f"http://www.omdbapi.com/?t={series.replace(' ', '+')}&Season={season}&apikey={CURR_OMDB_API_KEY_IDX}"
+                url = f"http://www.omdbapi.com/?i={series_id}&Season={season}&apikey={CURR_OMDB_API_KEY_IDX}"
             else:
-                url = f"http://www.omdbapi.com/?t={series.title.replace(' ', '+')}&Season={season}&apikey={CURR_OMDB_API_KEY_IDX}"
+                url = f"http://www.omdbapi.com/?i={series_id}&Season={season}&apikey={CURR_OMDB_API_KEY_IDX}"
 
         response = requests.get(url)
 
@@ -502,11 +502,13 @@ def process_episode_metadata_file(file_path):
 
 def process_tv_show_metadata(tv_show_data):
     imdb_id = tv_show_data["imdb_id"]
+    # if not imdb_id.startswith("tt21650832"):
+    #     return  # Skip if not the specific show
     tv_show_name = client.get_title(imdb_id=imdb_id)
 
     for curr_season in range(1, 100):  # Replace 100 with max expected seasons if needed
-        result = client.get_series_episodes(tv_show_name, season=curr_season, is_data_saved=True)
-        time.sleep(15)
+        result = client.get_series_episodes(series=tv_show_name, series_id=imdb_id,  season=curr_season, is_data_saved=True)
+        time.sleep(7)
         if result == SERIES_NOT_FOUND_ERROR:
             break
 
@@ -520,14 +522,14 @@ if __name__ == "__main__":
     client.delete_empty_folders_recursively(data_dir_path="Data")
     client.repair_faulty_jsons(data_dir_path="Data")
 
-    # # Read the json data #TODO: done for now
-    # with open(os.path.join('Data/worst_tv_shows_2.json'), "r", encoding="utf-8") as f:
-    #     json_data = json.load(f)
-    #
-    # # Parallelize TV show processing
-    # with ThreadPoolExecutor(max_workers=4) as executor:
-    #     all_results = list(executor.map(process_tv_show_metadata, json_data))
+    # Read the json data #TODO: done for now
+    with open(os.path.join('Utils/approve_relevant_tv_shows.json'), "r", encoding="utf-8") as f:
+        json_data = json.load(f)
 
+    # Parallelize TV show processing
+    with ThreadPoolExecutor(max_workers=MAX_CPU_THREADS) as executor:
+        all_results = list(executor.map(process_tv_show_metadata, json_data))
+    exit(0)
 
 
     # extract metadata of each episode of TV Show
