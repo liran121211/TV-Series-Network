@@ -2,6 +2,7 @@ import json
 import logging
 import os
 import re
+import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -58,6 +59,11 @@ class SubDownloader:
             os.getenv("SUBDL_API_KEY_1"): {'status': 'Available', 'usage': 0},
             os.getenv("SUBDL_API_KEY_2"): {'status': 'Available', 'usage': 0},
             os.getenv("SUBDL_API_KEY_3"): {'status': 'Available', 'usage': 0},
+            os.getenv("SUBDL_API_KEY_4"): {'status': 'Available', 'usage': 0},
+            os.getenv("SUBDL_API_KEY_5"): {'status': 'Available', 'usage': 0},
+            os.getenv("SUBDL_API_KEY_6"): {'status': 'Available', 'usage': 0},
+            os.getenv("SUBDL_API_KEY_7"): {'status': 'Available', 'usage': 0},
+            os.getenv("SUBDL_API_KEY_8"): {'status': 'Available', 'usage': 0},
         }
 
         # utilize usage
@@ -67,8 +73,9 @@ class SubDownloader:
     def get_active_api_key(self):
         for api_key, api_key_data in self.available_api_keys.items():
             if api_key_data['status'] == 'Available':
+                logger.warning("Key is exhausted, setting different api key...")
                 return api_key
-        return 'NO_AVAILABLE_KEY'
+        raise LookupError('No available api keys for use. try tomorrow or add more.')
 
     def set_api_keys_usage(self):
         for api_key, api_key_data in self.available_api_keys.items():
@@ -92,8 +99,38 @@ class SubDownloader:
 
         return 'ERROR'
 
-    def get_subtitles(self, film_name=None, file_name=None, sd_id=None, imdb_id=None, tmdb_id=None, season_number=None,
-                      episode_number=None, type=None, year=None, languages=None, subs_per_page=10):
+    def is_subtitle_exists(self, imdb_id):
+        BASE_URL = 'https://api.subdl.com/api/v1/subtitles'
+
+        params = {
+            "api_key": self.active_api_key,
+            "imdb_id": imdb_id,
+            "languages": 'EN',  # separate them by comma
+        }
+
+        # Make the GET request to the SubDL API
+        response = requests.get(BASE_URL, params=params)
+
+        # Parse the JSON response
+        if response.status_code == 200:
+            result = response.json()
+
+            if result.get('message', '') == "Daily Limit" or result.get('statusCode', '') == "429":
+                self.set_api_keys_usage()
+                self.active_api_key = self.get_active_api_key()
+                self.is_subtitle_exists(imdb_id=imdb_id)
+
+            print(f'Checking Title: {imdb_id}...')
+            if result.get('error', 'N/A') == "can't find movie or tv":
+                return False
+
+            if result.get('subtitles', 'N/A') != 'N/A':
+                if len(result['subtitles']) > 0:
+                    return True
+        return False
+
+
+    def get_subtitles(self, film_name=None, file_name=None, sd_id=None, imdb_id=None, tmdb_id=None, season_number=None, episode_number=None, type=None, year=None, languages=None, subs_per_page=10):
         # Define the base URL for the SubDL API
         BASE_URL = "https://api.subdl.com/api/v1/subtitles"
 
@@ -122,6 +159,12 @@ class SubDownloader:
         # Parse the JSON response
         if response.status_code == 200:
             result = response.json()
+
+            if result.get('message', '') == "Daily Limit" or result.get('statusCode', '') == "429":
+                self.set_api_keys_usage()
+                self.active_api_key = self.get_active_api_key()
+                self.is_subtitle_exists(imdb_id=imdb_id)
+
             if result["status"]:
                 for subtitle in result["subtitles"]:
                     if "url" in subtitle:
@@ -454,8 +497,7 @@ def process_episode(args):
 
         # Check if subtitles already exist
         try:
-            if json_season_data[str(episode_id)]['subtitles_exists'] is True and json_season_data[str(episode_id)][
-                'subtitles_full_path'] != '':
+            if json_season_data[str(episode_id)]['subtitles_exists'] is True and json_season_data[str(episode_id)]['subtitles_full_path'] != '':
                 return f"Subtitles already exist for {tv_show_name} S{season_id} E{episode_id}, skipping..."
         except KeyError:
             pass
@@ -500,7 +542,7 @@ if __name__ == "__main__":
     base_path = r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data'
     work_list = []
 
-    with open('Data/worst_tv_shows_2.json', "r", encoding="utf-8") as tv_show_f:
+    with open('Utils/approve_relevant_tv_shows.json', "r", encoding="utf-8") as tv_show_f:
         json_tv_shows_data = json.load(tv_show_f)
         for tv_show in json_tv_shows_data:
             tv_show_name = re.sub(r'[\\/:*?"<>|]', '_', tv_show['title'])
