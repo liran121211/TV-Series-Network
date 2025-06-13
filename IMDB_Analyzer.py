@@ -1,17 +1,21 @@
 from __future__ import annotations
 
-import concurrent
+
 import os
 import json
 import logging
+import zipfile
+import requests
+import concurrent
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
+
+import pandas
 import pandas as pd
 import numpy as np
 from typing import Dict, Any, List
 from collections import Counter
 from scipy.stats import entropy
-import requests
 from imdb import Cinemagoer, IMDbError, IMDbDataAccessError
 from dotenv import load_dotenv
 from tqdm import tqdm
@@ -23,6 +27,7 @@ from selenium.webdriver.common.by import By
 import time
 import re
 
+from AnalyzeSubtitles import SubtitlesAnalyzer, EMOTION_FILE_PATH
 from SubtitlesDownloader import MAX_CPU_THREADS
 
 SERIES_NOT_FOUND_ERROR = -1
@@ -35,6 +40,7 @@ OMDB_API_KEY = os.getenv("OMDB_API_KEY")
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 OPENSUBTITLES_API_KEY = os.getenv("OPENSUBTITLES_API_KEY")
 CURR_OMDB_API_KEY_IDX = OMDB_API_KEY.split('|')[1]
+ZIP_FILE_NOT_FOUND = -1
 # --------------------------------------------------------------------------- #
 #  Logging configuration
 # --------------------------------------------------------------------------- #
@@ -487,98 +493,261 @@ class CinemagoerClient:
             "number_of_episodes": feature_number_of_episodes(episode),
         })
 
+    def match_zip_to_json(self, json_file_path: str) -> str | None:
+        """
+        Search for a zip file in the specified folder path that contains the given search string.
 
-def process_episode_metadata_file(file_path):
+        Args:
+            folder_path (str): The absolute path of the folder to search in.
+
+        Returns:
+            str | None: The full path of the first matching zip file found, or None if no match is found.
+
+        Raises:
+            FileNotFoundError: If the provided folder path does not exist.
+            NotADirectoryError: If the provided path is not a directory.
+            :param json_file_path: series contain all episode files metadata
+        """
+        # Check if the folder exists
+        if not os.path.exists(json_file_path):
+            raise FileNotFoundError(f"The json file path '{json_file_path}' does not exist.")
+
+        series_pattern = r'^S(\d+)_metadata\.json$'
+        json_series_id = 'N/A'
+        series_match = re.match(series_pattern, os.path.basename(json_file_path), re.IGNORECASE)
+        if series_match:
+            json_series_id = series_match.group(1)
+
+        with open(json_file_path, "r", encoding="utf-8") as f:
+            series_data = json.load(f)
+
+        for json_episode_id, (_, __) in enumerate(series_data.items(), start=1):
+
+            # Iterate through all files in the folder
+            subtitles_path = os.path.join(os.path.dirname(os.path.dirname(json_file_path)), 'Subtitles')
+            for root, dirs, files in os.walk(subtitles_path):
+                for filename in files:
+                    if filename.endswith('.zip'):
+                        subtitle_pattern = r'S(\d{1,2})E(\d{1,2})'
+
+                        subtitle_match = re.search(subtitle_pattern, filename, re.IGNORECASE)
+                        if subtitle_match:
+                            zip_series_id = subtitle_match.group(1)
+                            zip_episode_id = subtitle_match.group(2)
+                            if json_series_id in zip_series_id and str(json_episode_id) in zip_episode_id:
+
+                                if str(json_episode_id) not in series_data.keys():
+                                    continue
+
+                                if series_data[str(json_series_id)]['subtitles_exists'] is True:
+                                    continue
+
+                                series_data[str(json_series_id)]['subtitles_exists'] = True
+                                series_data[str(json_series_id)]['subtitles_full_path'] = os.path.join(root, filename)
+
+                                with open(json_file_path, "w", encoding="utf-8") as f:
+                                    json.dump(series_data, f, ensure_ascii=False, indent=4)
+                                    self.logger.info(f"✅ Updated {json_file_path} | S{str(json_series_id)}E{str(json_episode_id)}")
+                                    break
+
+        # Return None if no matching zip file is found
+        return None
+
+
+def process_episode_metadata_file(imdb_analyzer_instance: CinemagoerClient, file_path: str):
     # Dummy: load json and return info, or whatever you want
     try:
         with open(file_path, encoding='utf-8') as f:
             data = json.load(f)
-            client.get_episode_metadata(metadata_file_path=file_path)
+            imdb_analyzer_instance.get_episode_metadata(metadata_file_path=file_path)
 
         return file_path, data
     except Exception as e:
         return file_path, str(e)
 
 
-def process_tv_show_metadata(tv_show_data):
+def process_tv_show_metadata(imdb_analyzer_instance: CinemagoerClient, tv_show_data: dict):
     imdb_id = tv_show_data["imdb_id"]
     # if not imdb_id.startswith("tt21650832"):
     #     return  # Skip if not the specific show
-    tv_show_name = client.get_title(imdb_id=imdb_id)
+    tv_show_name = imdb_analyzer_instance.get_title(imdb_id=imdb_id)
 
     for curr_season in range(1, 100):  # Replace 100 with max expected seasons if needed
-        result = client.get_series_episodes(series=tv_show_name, series_id=imdb_id,  season=curr_season, is_data_saved=True)
+        result = imdb_analyzer_instance.get_series_episodes(series=tv_show_name, series_id=imdb_id,  season=curr_season, is_data_saved=True)
         time.sleep(7)
         if result == SERIES_NOT_FOUND_ERROR:
             break
 
+def extract_zip_to_same_folder(zip_path, overwrite=False):
+    zip_path = os.path.abspath(zip_path)
+    output_folder = os.path.dirname(zip_path)
+    extracted_files = []
+
+    if os.path.exists(zip_path) is False:
+        print(f'❌ zip_path not found - {zip_path}')
+        return [ZIP_FILE_NOT_FOUND]
+
+    with zipfile.ZipFile(zip_path, 'r') as zip_ref:
+        for member in zip_ref.infolist():
+            extracted_path = os.path.join(output_folder, member.filename)
+
+            if os.path.exists(extracted_path) and not overwrite:
+                print(f"Skipping existing file: {extracted_path}")
+                continue
+
+            # Create directories if needed
+            os.makedirs(os.path.dirname(extracted_path), exist_ok=True)
+
+            # Extract file
+            with zip_ref.open(member) as source, open(extracted_path, "wb") as target:
+                target.write(source.read())
+
+            extracted_files.append(os.path.abspath(extracted_path))
+            print(f"✅ Extracted: {extracted_path}")
+
+    return extracted_files
+
+
+def extract_all_imdb_features(base_path: str, output_csv_path: str, extract_zip_fn, extract_imdb_features_fn) -> pd.DataFrame:
+    """
+    Extract IMDb-related features for all episodes in a given data directory.
+
+    Args:
+        base_path (str): Path to the root data folder.
+        output_csv_path (str): Where to save the output CSV.
+        extract_zip_fn (Callable): Function to extract subtitle zip files.
+        extract_imdb_features_fn (Callable): Function to extract features from episode metadata.
+
+    Returns:
+        pd.DataFrame: A DataFrame containing extracted features for all valid episodes.
+    """
+
+    columns = [
+        "cast_size",
+        "cast_unique_names_count",
+        "cast_id_entropy",
+        "cast_character_name_length_avg",
+        "cast_character_name_token_count_avg",
+        "genre_count",
+        "is_multigenre",
+        "runtime_minutes",
+        "number_of_episodes",
+        'tv_show_name',
+        'season',
+        'episode_number',
+        'imdbID',
+        'rating',
+        'votes',
+    ]
+
+    all_data = []
+
+    for root, dirs, files in os.walk(base_path):
+        if os.path.basename(root) != "Metadata":
+            continue
+
+        for file in files:
+            if not re.match(r"S\d{1,2}_metadata\.json$", file):
+                continue
+
+            with open(os.path.join(root, file), "r", encoding="utf-8") as f:
+                series_json_data = json.load(f)
+
+            for episode_number_str, episode_info in series_json_data.items():
+                if not episode_info.get('subtitles_exists'):
+                    print(f'❌ subtitles_exists = False - {os.path.join(root, file)}')
+                    continue
+
+                subtitle_paths = extract_zip_fn(zip_path=episode_info['subtitles_full_path'], overwrite=True)[0]
+                if subtitle_paths == ZIP_FILE_NOT_FOUND:
+                    continue
+
+                if not subtitle_paths:
+                    print(f'❌ subtitle_paths is EMPTY - {os.path.join(root, file)}')
+                    continue
+
+                if not os.path.exists(subtitle_paths):
+                    continue
+
+                episode_metadata_file = os.path.join(root, file).replace('_metadata.json', f'_E{episode_number_str}_metadata.json')
+                if not os.path.exists(episode_metadata_file):
+                    print(f'❌ episode_metadata_file not found - {episode_metadata_file}')
+                    continue
+
+                with open(episode_metadata_file, "r", encoding="utf-8") as ef:
+                    episode_json = json.load(ef)
+
+                imdb_features = extract_imdb_features_fn(episode_json)
+                if not isinstance(imdb_features, pandas.Series):
+                    continue
+
+                season_match = re.search(r'S(\d{1,2})_', file)
+                _ = int(season_match.group(1)) if season_match else -1
+
+                try:
+                    _ = int(episode_number_str)
+                except ValueError:
+                    continue
+
+                subtitles_analyzer = SubtitlesAnalyzer(srt_path=subtitle_paths, emotion_file_path=EMOTION_FILE_PATH)
+                subtitles_features_dict = subtitles_analyzer.calculate_all_features()
+
+                imdb_features_dict = imdb_features.to_dict()
+                imdb_features_dict.update({
+                    "tv_show_name": os.path.basename(os.path.dirname(root)),
+                    "season": int(re.search(r'S(\d{1,2})_', file).group(1)),
+                    "episode_number": int(episode_number_str),
+                    "imdbID": episode_json.get("imdbID", "").replace("tt", ""),
+                    "rating": episode_json.get("rating", 0),
+                    "votes": episode_json.get("votes", 0),
+                })
+
+                for subtitle_feature_set in subtitles_features_dict.values():
+                    imdb_features_dict.update(subtitle_feature_set)
+                all_data.append(imdb_features_dict)
+
+    df = pd.DataFrame(all_data, columns=columns)
+    df.to_csv(output_csv_path, index=False, encoding='utf-8-sig')
+    return df
+
 
 if __name__ == "__main__":
 
-    client = CinemagoerClient()
+    imdb_analyzer = CinemagoerClient()
 
     # verify that all JSON files are not empty (e.g. {}, [])
-    client.find_and_delete_empty_json_files(data_dir_path="Data")
-    client.delete_empty_folders_recursively(data_dir_path="Data")
-    client.repair_faulty_jsons(data_dir_path="Data")
+    imdb_analyzer.find_and_delete_empty_json_files(data_dir_path="Data")
+    imdb_analyzer.delete_empty_folders_recursively(data_dir_path="Data")
+    imdb_analyzer.repair_faulty_jsons(data_dir_path="Data")
 
-    # Read the json data #TODO: done for now
-    with open(os.path.join('Utils/approve_relevant_tv_shows.json'), "r", encoding="utf-8") as f:
-        json_data = json.load(f)
-
-    # Parallelize TV show processing
-    with ThreadPoolExecutor(max_workers=MAX_CPU_THREADS) as executor:
-        all_results = list(executor.map(process_tv_show_metadata, json_data))
-    exit(0)
-
-
-    # extract metadata of each episode of TV Show
-    matched_files = []
-    for root, dirs, files in os.walk(r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data'):
-        if os.path.basename(root) == "Metadata":
-            for file in files:
-                if re.match(r"S\d{1,2}_metadata\.json$", file):
-                    matched_files.append(os.path.join(root, file))
-
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_CPU_THREADS) as executor:
-        results = list(executor.map(process_episode_metadata_file, matched_files))
-
-    exit(0)
-
-    # # extract features of all episodes
-    # columns = [
-    #     'tv_show_name',
-    #     'season',
-    #     'episode_number',
-    #     "cast_size",
-    #     "cast_unique_names_count",
-    #     "cast_id_entropy",
-    #     "cast_character_name_length_avg",
-    #     "cast_character_name_token_count_avg",
-    #     "genre_count",
-    #     "is_multigenre",
-    #     "runtime_minutes",
-    #     "number_of_episodes"
-    #     'imdbID',
-    #     'rating',
-    #     'votes',
-    # ]
+    # # Read the json data #TODO: done for now
+    # with open(os.path.join('Utils/approve_relevant_tv_shows.json'), "r", encoding="utf-8") as f:
+    #     json_data = json.load(f)
     #
-    # imdb_features_data = pd.DataFrame(columns=columns)
+    # # Parallelize TV show processing
+    # with ThreadPoolExecutor(max_workers=MAX_CPU_THREADS) as executor:
+    #     all_results = list(executor.map(process_tv_show_metadata, json_data))
+    # exit(0)
+
+
+    # # extract metadata of each episode of TV Show
+    # matched_files = []
     # for root, dirs, files in os.walk(r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data'):
     #     if os.path.basename(root) == "Metadata":
     #         for file in files:
-    #             if re.match(r"S\d{1,2}_E\d{1,2}_metadata\.json$", file):
-    #                         with open(os.path.join(root, file), "r", encoding="utf-8") as f:
-    #                             json_data = json.load(f)
-    #                             new_row = client.extract_imdb_features(json_data)
-    #                             new_row['tv_show_name'] = os.path.basename(os.path.dirname(root))
-    #                             new_row['season'] = int(re.search(r'S(\d{1,2})_', file).group(1))
-    #                             new_row['episode_number'] = int(re.search(r'E(\d{1,2})_', file).group(1))
-    #                             new_row['imdbID'] = json_data['imdbID'].replace("tt", "")
-    #                             new_row['rating'] = json_data.get('rating', 0)
-    #                             new_row['votes'] = json_data.get('votes', 0)
-    #                             imdb_features_data.loc[len(imdb_features_data)] = new_row
-    # # Save the DataFrame to a CSV file
-    # imdb_features_data.to_csv("Data/imdb_features_data.csv", index=False, encoding='utf-8-sig')
+    #             if re.match(r"S\d{1,2}_metadata\.json$", file):
+    #                 matched_files.append(os.path.join(root, file))
+
+
+    # # with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_CPU_THREADS) as executor:
+    #     results = list(executor.map(client.match_zip_to_json, matched_files))
+    #
+    # with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_CPU_THREADS) as executor:
+    #     results = list(executor.map(process_episode_metadata_file, matched_files))
+
+    extract_all_imdb_features(base_path=r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data',
+                              output_csv_path='Data/imdb_features_data.csv',
+                              extract_zip_fn=extract_zip_to_same_folder,
+                              extract_imdb_features_fn=imdb_analyzer.extract_imdb_features,
+                              )
 

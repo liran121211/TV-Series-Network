@@ -35,6 +35,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 load_dotenv()  # loads from .env by default
 
 SPACY_CURRENT_MODEL = os.getenv("SPACY_CURRENT_MODEL")
+EMOTION_FILE_PATH = 'Utils/NRC-Emotion-Lexicon-Wordlevel-v0.92.txt'
 
 # --------------------------------------------------------------------------- #
 # Load English NLP model
@@ -538,8 +539,3 @@ class SubtitlesAnalyzer:
         print("\rExtracting semantic features....[DONE]", end='')
 
         return results
-
-
-instance = SubtitlesAnalyzer(srt_path='Data/Titles/Breaking_Bed/Subtitles/Breaking.Bad.S01E01.720p.BluRay.X264-REWARD-en.srt',
-                             emotion_file_path='NRC-Emotion-Lexicon-Wordlevel-v0.92.txt')
-print(instance.calculate_all_features())
