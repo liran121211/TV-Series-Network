@@ -4,6 +4,7 @@ import os
 import re
 import threading
 import time
+import zipfile
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import inflect
@@ -171,69 +172,6 @@ class SubDownloader:
                         return subtitle['name'], LINK_PREFIX + subtitle["url"]
         else:
             return 'N/A', 'N/A'
-
-
-def fetch_opensubtitles_by_imdb(imdb_id, imdb_name, season=None, episode=None):
-    """
-    Fetches the HTML of the OpenSubtitles search page for a given IMDb ID.
-    You can optionally provide a season and/or episode for TV series.
-
-    Args:
-        imdb_id (str): IMDb ID, e.g., "tt0944947"
-        season (int or str, optional): Season number, e.g., 2
-        episode (int or str, optional): Episode number
-
-    Returns:
-        str: HTML content of the search page
-    """
-    base_name = 'https://www.opensubtitles.org'
-    url = "https://www.opensubtitles.org/en/search2"
-    params = {
-        "MovieName": imdb_id,
-        "id": 8,
-        "action": "search",
-        "SubLanguageID": "all",
-        "Season": season or "",
-        "Episode": episode or "",
-        # Other params left blank for generic search
-    }
-
-    response = requests.get(url, params=params)
-    response.raise_for_status()
-    soup = BeautifulSoup(response.text, "html.parser")
-
-    # Find all <a> tags with itemprop="url"
-    seasons_links = []
-    for a in soup.find_all("a", itemprop="url"):
-        if 'season' in a.text.lower():
-            href = a.get("href")
-            if href:
-                href = href.replace('sublanguageid-all', 'sublanguageid-eng')
-                seasons_links.append(base_name + href + f'/episode-{episode}')
-
-    for link in seasons_links:
-        response = requests.get(link)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, "html.parser")
-
-        # Find all <tr> tags with class="change even expandable"
-        subtitle_tags = soup.find_all("td", class_="sb_star_odd")
-
-        for subtitle_tag in subtitle_tags:
-            subtitle_a_tag = subtitle_tag.find("a")
-            if subtitle_a_tag and subtitle_a_tag.has_attr("href"):
-                subtitle_href = subtitle_a_tag["href"]
-            else:
-                break
-
-            response = requests.get(base_name + subtitle_href)
-            response.raise_for_status()
-            soup = BeautifulSoup(response.text, "html.parser")
-
-            download_link_tag = soup.find_all("a", class_='bt-dwl external adds_trigger')[0]
-            download_link = download_link_tag['href']
-            download_name = imdb_name + f'_S{str(season_id)}' + f'E{str(episode_id)}.zip'
-            return download_name, (base_name + download_link)
 
 
 def get_subtitles_of_tv_show(imdb_id, season_id: int, episode_id: int, language: str):
@@ -504,7 +442,6 @@ def process_episode(args):
 
         # Fetch subtitle info
         # st_name, st_link = get_subtitles_of_tv_show(imdb_id=tv_show_id, season_id=season_id, episode_id=episode_id, language='english')
-        # st_name, st_link = fetch_opensubtitles_by_imdb(imdb_id=tv_show_id, season=season_id, episode=episode_id, imdb_name=tv_show_name.replace(' ', '_'))
         st_name, st_link = sub_dl.get_subtitles(imdb_id=tv_show_id, season_number=season_id, episode_number=episode_id, languages='EN')
         time.sleep(5)
 
@@ -556,17 +493,14 @@ if __name__ == "__main__":
                         with open(season_metadata_path, "r", encoding="utf-8") as f:
                             json_season_data = json.load(f)
                             first_json_key = next(iter(json_season_data.items()))[0]
-                            for episode_id, episode_data in enumerate(json_season_data.items(),
-                                                                      start=int(first_json_key)):
+                            for episode_id, episode_data in enumerate(json_season_data.items(), start=int(first_json_key)):
                                 # If subtitles need to be fetched, add to work list
                                 try:
-                                    if json_season_data[str(episode_id)]['subtitles_exists'] is True and \
-                                            json_season_data[str(episode_id)]['subtitles_full_path'] != '':
+                                    if json_season_data[str(episode_id)]['subtitles_exists'] is True and json_season_data[str(episode_id)]['subtitles_full_path'] != '':
                                         continue
                                 except KeyError as e:
                                     continue
-                                work_list.append(
-                                    (tv_show_name, tv_show_id, season_id, episode_id, season_metadata_path, base_path))
+                                work_list.append((tv_show_name, tv_show_id, season_id, episode_id, season_metadata_path, base_path))
 
     # Now, process in parallel!
     with ThreadPoolExecutor(max_workers=MAX_CPU_THREADS) as executor:
