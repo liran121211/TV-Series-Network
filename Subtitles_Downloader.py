@@ -24,7 +24,7 @@ load_dotenv()  # loads from .env by default
 # --------------------------------------------------------------------------- #
 #  Logging configuration
 # --------------------------------------------------------------------------- #
-_LOG_PATH = Path(__file__).with_suffix(".log")
+_LOG_PATH = Path(__file__).parent / "Logs" / (Path(__file__).stem + ".log")
 
 logging.basicConfig(
     level=logging.INFO,
@@ -475,35 +475,35 @@ def process_episode(args):
 # Example usage
 if __name__ == "__main__":
     sub_dl = SubDownloader()
-    season_pattern = re.compile(r'^S\d{1,2}_metadata\.json$')
-    base_path = r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data'
-    work_list = []
-
-    with open('Utils/approve_relevant_tv_shows.json', "r", encoding="utf-8") as tv_show_f:
-        json_tv_shows_data = json.load(tv_show_f)
-        for tv_show in json_tv_shows_data:
-            tv_show_name = re.sub(r'[\\/:*?"<>|]', '_', tv_show['title'])
-            tv_show_id = tv_show["imdb_id"]
-
-            if is_tv_show_folder_exists(base_path='Data', substring=tv_show_name):
-                full_tv_show_folder_path = os.path.join('Data', tv_show_name, 'Metadata')
-                seasons_files, max_seasons = fetch_list_season_metadata_files(full_tv_show_folder_path)
-                for season_id, season_metadata_path in enumerate(seasons_files, start=1):
-                    if os.path.isfile(season_metadata_path):
-                        with open(season_metadata_path, "r", encoding="utf-8") as f:
-                            json_season_data = json.load(f)
-                            first_json_key = next(iter(json_season_data.items()))[0]
-                            for episode_id, episode_data in enumerate(json_season_data.items(), start=int(first_json_key)):
-                                # If subtitles need to be fetched, add to work list
-                                try:
-                                    if json_season_data[str(episode_id)]['subtitles_exists'] is True and json_season_data[str(episode_id)]['subtitles_full_path'] != '':
-                                        continue
-                                except KeyError as e:
-                                    continue
-                                work_list.append((tv_show_name, tv_show_id, season_id, episode_id, season_metadata_path, base_path))
-
-    # Now, process in parallel!
-    with ThreadPoolExecutor(max_workers=MAX_CPU_THREADS) as executor:
-        future_to_work = {executor.submit(process_episode, args): args for args in work_list}
-        for future in as_completed(future_to_work):
-            print(future.result())
+    # season_pattern = re.compile(r'^S\d{1,2}_metadata\.json$')
+    # base_path = r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data'
+    # work_list = []
+    #
+    # with open('Utils/approve_relevant_tv_shows.json', "r", encoding="utf-8") as tv_show_f:
+    #     json_tv_shows_data = json.load(tv_show_f)
+    #     for tv_show in json_tv_shows_data:
+    #         tv_show_name = re.sub(r'[\\/:*?"<>|]', '_', tv_show['title'])
+    #         tv_show_id = tv_show["imdb_id"]
+    #
+    #         if is_tv_show_folder_exists(base_path='Data', substring=tv_show_name):
+    #             full_tv_show_folder_path = os.path.join('Data', tv_show_name, 'Metadata')
+    #             seasons_files, max_seasons = fetch_list_season_metadata_files(full_tv_show_folder_path)
+    #             for season_id, season_metadata_path in enumerate(seasons_files, start=1):
+    #                 if os.path.isfile(season_metadata_path):
+    #                     with open(season_metadata_path, "r", encoding="utf-8") as f:
+    #                         json_season_data = json.load(f)
+    #                         first_json_key = next(iter(json_season_data.items()))[0]
+    #                         for episode_id, episode_data in enumerate(json_season_data.items(), start=int(first_json_key)):
+    #                             # If subtitles need to be fetched, add to work list
+    #                             try:
+    #                                 if json_season_data[str(episode_id)]['subtitles_exists'] is True and json_season_data[str(episode_id)]['subtitles_full_path'] != '':
+    #                                     continue
+    #                             except KeyError as e:
+    #                                 continue
+    #                             work_list.append((tv_show_name, tv_show_id, season_id, episode_id, season_metadata_path, base_path))
+    #
+    # # Now, process in parallel!
+    # with ThreadPoolExecutor(max_workers=MAX_CPU_THREADS) as executor:
+    #     future_to_work = {executor.submit(process_episode, args): args for args in work_list}
+    #     for future in as_completed(future_to_work):
+    #         print(future.result())
