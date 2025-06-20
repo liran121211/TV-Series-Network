@@ -3,78 +3,104 @@
         "title": "Mr. Ruggerio's Neighborhood",
         "released": "2001-03-04",
         "rating": "8.6",
-        "imdb_id": "tt0705266"
+        "imdb_id": "tt0705266",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "2": {
         "title": "Proshai, Livushka",
         "released": "2001-03-04",
         "rating": "N/A",
-        "imdb_id": "tt0705273"
+        "imdb_id": "tt0705273",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "3": {
         "title": "Fortunate Son",
         "released": "2001-03-11",
         "rating": "8.4",
-        "imdb_id": "tt0705246"
+        "imdb_id": "tt0705246",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "4": {
         "title": "Employee of the Month",
         "released": "2001-03-18",
         "rating": "9.1",
-        "imdb_id": "tt0705243"
+        "imdb_id": "tt0705243",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "5": {
         "title": "Another Toothpick",
         "released": "2001-03-25",
         "rating": "8.6",
-        "imdb_id": "tt0705228"
+        "imdb_id": "tt0705228",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "6": {
         "title": "University",
         "released": "2001-04-01",
         "rating": "8.7",
-        "imdb_id": "tt0705291"
+        "imdb_id": "tt0705291",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "7": {
         "title": "Second Opinion",
         "released": "2001-04-08",
         "rating": "8.4",
-        "imdb_id": "tt0705275"
+        "imdb_id": "tt0705275",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "8": {
         "title": "He Is Risen",
         "released": "2001-04-15",
         "rating": "8.3",
-        "imdb_id": "tt0705251"
+        "imdb_id": "tt0705251",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "9": {
         "title": "The Telltale Moozadell",
         "released": "2001-04-22",
         "rating": "8.0",
-        "imdb_id": "tt0705284"
+        "imdb_id": "tt0705284",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "10": {
         "title": "To Save Us All from Satan's Power",
         "released": "2001-04-29",
         "rating": "8.5",
-        "imdb_id": "tt0705287"
+        "imdb_id": "tt0705287",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "11": {
         "title": "Pine Barrens",
         "released": "2001-05-06",
         "rating": "9.7",
-        "imdb_id": "tt0705272"
+        "imdb_id": "tt0705272",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "12": {
         "title": "Amour Fou",
         "released": "2001-05-13",
         "rating": "9.2",
-        "imdb_id": "tt0705227"
+        "imdb_id": "tt0705227",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "13": {
         "title": "Army of One",
         "released": "2001-05-20",
         "rating": "N/A",
-        "imdb_id": "tt0705229"
+        "imdb_id": "tt0705229",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     }
 }

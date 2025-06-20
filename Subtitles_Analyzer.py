@@ -1,16 +1,18 @@
+import json
 import logging
 import os
-from pathlib import Path
-
+import re
+import zipfile
 import pysrt
+import pysubs2
 import spacy
 import nltk
 import numpy as np
-from tqdm import tqdm
-
 import Config
 import pandas as pd
 
+from tqdm import tqdm
+from pathlib import Path
 from io import StringIO
 from dotenv import load_dotenv
 from collections import Counter
@@ -18,23 +20,25 @@ from textblob import TextBlob
 from nltk.corpus import stopwords
 from sklearn.cluster import KMeans
 from nltk.tokenize import word_tokenize, sent_tokenize
-
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.feature_extraction.text import (TfidfVectorizer, CountVectorizer)
 from sklearn.preprocessing import StandardScaler
-from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.decomposition import LatentDirichletAllocation
-
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
-
+# --------------------------------------------------------------------------- #
+#  Utils Variables
+# --------------------------------------------------------------------------- #
+ZIP_FILE_NOT_FOUND      = -1
+UNDEFINED_SUBTITLE_TYPE = -1
+SRT_SUBTITLE_TYPE       = 0
+ASS_SUBTITLE_TYPE       = 1
 # --------------------------------------------------------------------------- #
 #  Environment Variables
 # --------------------------------------------------------------------------- #
 load_dotenv()  # loads from .env by default
-
 SPACY_CURRENT_MODEL = os.getenv("SPACY_CURRENT_MODEL")
+EMOTION_FILE_PATH = 'Utils/NRC-Emotion-Lexicon-Wordlevel-v0.92.txt'
 
 # --------------------------------------------------------------------------- #
 # Load English NLP model
@@ -49,17 +53,33 @@ class SubtitlesAnalyzer:
     def __init__(self, srt_path: str, emotion_file_path: str):
         self.srt_path = srt_path
         self.emotion_file_path = emotion_file_path
-        self.subs = pysrt.open(srt_path)
+
+        if self.srt_path.endswith('.ass'):
+            self.subtitle_type = ASS_SUBTITLE_TYPE
+            self.subs = pysubs2.load(srt_path, encoding="utf-8")  # Automatically detects format
+        elif self.srt_path.endswith('.srt'):
+            self.subtitle_type = SRT_SUBTITLE_TYPE
+            self.subs = pysrt.open(srt_path, encoding='iso-8859-1', error_handling=pysrt.ERROR_PASS)
+        else:
+            self.subtitle_type = UNDEFINED_SUBTITLE_TYPE
+            raise TypeError('file type is nor .srt or .ass')
+
+        if len(self.subs) == 0:
+            raise AssertionError(f'{srt_path} - file could not be parsed...')
+
         self.emotion_keywords = self.parse_emolex_file()
         self.lines = [sub.text.strip().replace('\n', ' ') for sub in self.subs if sub.text.strip()]
-        self.timestamps = [sub.start.ordinal / 1000.0 for sub in self.subs if sub.text.strip()]
-
         self.standard_scaler = StandardScaler()
+
+        if self.subtitle_type == SRT_SUBTITLE_TYPE:
+            self.timestamps = [sub.start.ordinal / 1000.0 for sub in self.subs if sub.text.strip()]
+        if self.subtitle_type == ASS_SUBTITLE_TYPE:
+            self.timestamps = [sub.start / 1000.0 for sub in self.subs if sub.text.strip()]
 
         # --------------------------------------------------------------------------- #
         #  Logging configuration
         # --------------------------------------------------------------------------- #
-        _LOG_PATH = Path(__file__).with_suffix(".log")
+        _LOG_PATH = Path(__file__).parent / "Logs" / (Path(__file__).stem + ".log")
 
         logging.basicConfig(
             level=logging.INFO,
@@ -69,7 +89,7 @@ class SubtitlesAnalyzer:
                 logging.FileHandler(_LOG_PATH, encoding="utf‑8")
             ],
         )
-        self.logger = logging.getLogger("CinemagoerClient")
+        self.logger = logging.getLogger("Logs/AnalyzeSubtitles")
 
     def parse_emolex_file(self) -> pd.DataFrame:
         """
@@ -373,7 +393,14 @@ class SubtitlesAnalyzer:
         """
         if not self.subs:
             return 0.0
-        return self.subs[-1].end.ordinal / 1000.0  # ordinal is in milliseconds
+
+        if self.subtitle_type == ASS_SUBTITLE_TYPE:
+            return self.subs[-1].end / 1000.0  # ordinal is in milliseconds
+        if self.subtitle_type == SRT_SUBTITLE_TYPE:
+            return self.subs[-1].end.ordinal / 1000.0  # ordinal is in milliseconds:
+
+        # suspensió de pagaments value
+        return 0.0
 
     def get_scene_change_density(self, threshold_seconds=20):
         """
@@ -540,6 +567,151 @@ class SubtitlesAnalyzer:
         return results
 
 
-instance = SubtitlesAnalyzer(srt_path='Data/Titles/Breaking_Bed/Subtitles/Breaking.Bad.S01E01.720p.BluRay.X264-REWARD-en.srt',
-                             emotion_file_path='NRC-Emotion-Lexicon-Wordlevel-v0.92.txt')
-print(instance.calculate_all_features())
+def extract_zip_to_same_folder(zip_path, overwrite=False):
+    zip_path = os.path.abspath(zip_path)
+    output_folder = os.path.dirname(zip_path)
+    extracted_files = []
+
+    if os.path.exists(zip_path) is False:
+        print(f'❌ zip_path not found - {zip_path}')
+        return [ZIP_FILE_NOT_FOUND]
+
+    with zipfile.ZipFile(zip_path, 'r') as zip_ref:
+        for member in zip_ref.infolist():
+            extracted_path = os.path.join(output_folder, member.filename)
+
+            if os.path.exists(extracted_path) and not overwrite:
+                print(f"Skipping existing file: {extracted_path}")
+                continue
+
+            # Create directories if needed
+            os.makedirs(os.path.dirname(extracted_path), exist_ok=True)
+
+            # Extract file
+            with zip_ref.open(member) as source, open(extracted_path, "wb") as target:
+                target.write(source.read())
+
+            extracted_files.append(os.path.abspath(extracted_path))
+            print(f"✅ Extracted: {extracted_path}")
+
+    return extracted_files
+
+
+def extract_features_from_single_subtitle(srt_path: str) -> dict:
+    """
+    Extract all subtitle-based features from a single subtitle file.
+
+    Args:
+        srt_path (str): Path to the .srt or .ass subtitle file.
+
+    Returns:
+        dict: Flat dictionary of subtitle features.
+    """
+    try:
+        analyzer = SubtitlesAnalyzer(srt_path=srt_path, emotion_file_path=EMOTION_FILE_PATH)
+        features_grouped = analyzer.calculate_all_features()
+    except (AssertionError, TypeError) as e:
+        print(f"⚠️ Failed to analyze subtitle file: {srt_path}\nError: {e}")
+        return {}
+
+    # Flatten the nested dictionary into a single-level dict
+    flat_features = {
+        f"{feature_name}": feature_value
+        for group_dict in features_grouped.values()
+        for feature_name, feature_value in group_dict.items()
+    }
+
+    return flat_features
+
+
+def extract_all_subtitles_features(base_path: str, output_csv_path: str, extract_zip_fn) -> pd.DataFrame:
+    """
+    Extract subtitle-based features for all episodes in a given data directory.
+
+    Args:
+        base_path (str): Path to the root data folder.
+        output_csv_path (str): Where to save the output CSV.
+        extract_zip_fn (Callable): Function to extract srt from zip files.
+
+    Returns:
+        pd.DataFrame: A DataFrame containing extracted features for all valid episodes.
+    """
+
+    columns = [
+        "line_count", "word_count", "avg_sentence_length", "lexical_diversity", "tfidf_keywords",
+        "repetition_rate", "stopword_ratio", "avg_sentiment", "sentiment_std", "question_rate",
+        "emotion_distribution", "exclamation_rate", "intensity_score", "num_clusters",
+        "dominant_cluster_ratio", "semantic_variance_spacy", "pos_distribution", "pronoun_usage",
+        "tense_distribution", "dialogue_density", "duration_seconds", "scene_change_density",
+        "topic_distribution", "semantic_similarity_score", "coherence_score", "imdbID", "rating", "votes"
+    ]
+
+    # Load existing data if exists
+    if os.path.exists(output_csv_path):
+        df_existing = pd.read_csv(output_csv_path, encoding='utf-8-sig')
+        existing_ids = set(df_existing['imdbID'].astype(str))
+    else:
+        df_existing = pd.DataFrame(columns=columns)
+        existing_ids = set()
+
+    for root, dirs, files in os.walk(base_path):
+        if os.path.basename(root) != "Metadata":
+            continue
+
+        for file in files:
+            if not re.match(r"S\d{1,2}_metadata\.json$", file):
+                continue
+
+            with open(os.path.join(root, file), "r", encoding="utf-8") as f:
+                series_json_data = json.load(f)
+
+            for episode_info in series_json_data.values():
+                imdb_id = episode_info.get("imdb_id")
+                if not episode_info.get('subtitles_exists'):
+                    continue
+
+                if imdb_id in existing_ids:
+                    print(f'ℹ️ imdb_id: {imdb_id} already exists, ignoring...')
+                    continue
+
+                subtitle_paths = extract_zip_fn(zip_path=episode_info['subtitles_full_path'], overwrite=True)[0]
+                if subtitle_paths in (None, "", "ZIP_FILE_NOT_FOUND") or not os.path.exists(subtitle_paths):
+                    continue
+
+                print(f"⌛ Extracting  features from {subtitle_paths}")
+                try:
+                    subtitles_analyzer = SubtitlesAnalyzer(
+                        srt_path=subtitle_paths,
+                        emotion_file_path=EMOTION_FILE_PATH
+                    )
+                except AssertionError:
+                    continue
+                except TypeError:
+                    continue
+
+                subtitles_features = subtitles_analyzer.calculate_all_features()
+                one_dim_features = {
+                    f"{feature_name}": feature_value
+                    for feature_group_name, sub_features_dict in subtitles_features.items()
+                    for feature_name, feature_value in sub_features_dict.items()
+                }
+
+                one_dim_features.update({
+                    "imdbID": imdb_id,
+                    "rating": episode_info.get("rating", 0),
+                    "votes": episode_info.get("votes", 0),
+                })
+
+                df_existing = pd.concat([df_existing, pd.DataFrame([one_dim_features])], ignore_index=True)
+                df_existing.to_csv(output_csv_path, index=False, encoding='utf-8-sig')  # Save after every row
+
+    return df_existing
+
+
+if __name__ == "__main__":
+    extract_all_subtitles_features(
+                                base_path=r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data',
+                                output_csv_path='Data/subtitles_features_data.csv',
+                                extract_zip_fn=extract_zip_to_same_folder
+                               )
+

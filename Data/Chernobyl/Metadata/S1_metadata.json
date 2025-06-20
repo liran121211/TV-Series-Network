@@ -3,30 +3,40 @@
         "title": "1:23:45",
         "released": "2019-05-06",
         "rating": "9.4",
-        "imdb_id": "tt8162428"
+        "imdb_id": "tt8162428",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Chernobyl\\Subtitles\\S1\\Chernobyl.S01E01.1.23.45.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-SWTYBLZS1E1.zip"
     },
     "2": {
         "title": "Please Remain Calm",
         "released": "2019-05-13",
         "rating": "9.6",
-        "imdb_id": "tt8482972"
+        "imdb_id": "tt8482972",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Chernobyl\\Subtitles\\S1\\Chernobyl.S01E02.Please.Remain.Calm.720p.AMZN.WEBRip.DDP5.1.x264-NTb(+RUS).V2.HIS1E2.zip"
     },
     "3": {
         "title": "Open Wide, O Earth",
         "released": "2019-05-20",
         "rating": "9.5",
-        "imdb_id": "tt9166672"
+        "imdb_id": "tt9166672",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Chernobyl\\Subtitles\\S1\\Chernobyl.S01E03.WEBRip.x264-ION10.HIS1E3.zip"
     },
     "4": {
         "title": "The Happiness of All Mankind",
         "released": "2019-05-27",
         "rating": "9.3",
-        "imdb_id": "tt9166678"
+        "imdb_id": "tt9166678",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Chernobyl\\Subtitles\\S1\\Chernobyl.S01E04.WEBRip.x264-ION10.HIS1E4.zip"
     },
     "5": {
         "title": "Vichnaya Pamyat",
         "released": "2019-06-03",
         "rating": "9.8",
-        "imdb_id": "tt9166696"
+        "imdb_id": "tt9166696",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Chernobyl\\Subtitles\\S1\\Chernobyl.S01E05.WEBRip.x264-ION10.HIS1E5.zip"
     }
 }

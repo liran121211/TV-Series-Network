@@ -3,48 +3,64 @@
         "title": "One Ocean",
         "released": "2018-01-20",
         "rating": "9.1",
-        "imdb_id": "tt7473714"
+        "imdb_id": "tt7473714",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Blue Planet II\\Subtitles\\S1\\Blue.Planet.II.S01E01.PROPER.HDTV.x264-DEADPOOLS1E1.zip"
     },
     "2": {
         "title": "The Deep",
         "released": "2018-01-27",
         "rating": "9.1",
-        "imdb_id": "tt7579602"
+        "imdb_id": "tt7579602",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Blue Planet II\\Subtitles\\S1\\Blue.Planet.II.S01E02.The.Deep.HDTV.x264-PLUTONiUMS1E2.zip"
     },
     "3": {
         "title": "Coral Reefs",
         "released": "2018-02-03",
         "rating": "9.0",
-        "imdb_id": "tt7579764"
+        "imdb_id": "tt7579764",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Blue Planet II\\Subtitles\\S1\\[03].Blue.Planet.II.S01E03.Coral.Reefs.1080p.BluRay.x264-SHORTBREHD-engS1E3.zip"
     },
     "4": {
         "title": "Big Blue",
         "released": "2017-11-19",
         "rating": "8.8",
-        "imdb_id": "tt7579754"
+        "imdb_id": "tt7579754",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Blue Planet II\\Subtitles\\S1\\[04].Blue.Planet.II.S01E04.Big.Blue.1080p.BluRay.x264-SHORTBREHD-engS1E4.zip"
     },
     "5": {
         "title": "Green Seas",
         "released": "2017-11-26",
         "rating": "8.9",
-        "imdb_id": "tt7579758"
+        "imdb_id": "tt7579758",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Blue Planet II\\Subtitles\\S1\\Blue.Planet.II.S01E05.Green.Seas.HDTV.x264-CREEDS1E5.zip"
     },
     "6": {
         "title": "Coasts",
         "released": "2017-12-03",
         "rating": "8.8",
-        "imdb_id": "tt7579776"
+        "imdb_id": "tt7579776",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Blue Planet II\\Subtitles\\S1\\[06].Blue.Planet.II.S01E06.Coasts.1080p.BluRay.x264-SHORTBREHD-engS1E6.zip"
     },
     "7": {
         "title": "Our Blue Planet",
         "released": "2017-12-10",
         "rating": "8.4",
-        "imdb_id": "tt7579782"
+        "imdb_id": "tt7579782",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Blue Planet II\\Subtitles\\S1\\[07].Blue.Planet.II.S01E07.Our.Blue.Planet.1080p.BluRay.x264-SHORTBREHD-engS1E7.zip"
     },
     "8": {
         "title": "Oceans of Wonder",
         "released": "2018-01-01",
         "rating": "5.3",
-        "imdb_id": "tt7656600"
+        "imdb_id": "tt7656600",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     }
 }

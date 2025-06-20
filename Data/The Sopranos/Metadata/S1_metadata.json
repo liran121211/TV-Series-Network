@@ -3,78 +3,104 @@
         "title": "Pilot",
         "released": "1999-01-10",
         "rating": "8.4",
-        "imdb_id": "tt0705282"
+        "imdb_id": "tt0705282",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S1\\The.Sopranos.S01E01.Pilot.BluRay.1080p.DTSD-MA.h264.Remux-decibeLS1E1.zip"
     },
     "2": {
         "title": "46 Long",
         "released": "1999-01-17",
         "rating": "8.2",
-        "imdb_id": "tt0705223"
+        "imdb_id": "tt0705223",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S1\\The.Sopranos.S01E02.46.Long.BluRay.1080p.DTSD-MA.h264.Remux-decibeLS1E2.zip"
     },
     "3": {
         "title": "Denial, Anger, Acceptance",
         "released": "1999-01-24",
         "rating": "8.5",
-        "imdb_id": "tt0705239"
+        "imdb_id": "tt0705239",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S1\\The.Sopranos.S01E03.Denial.Anger.Acceptance.BluRay.1080p.DTSD-MA.h264.Remux-decibeLS1E3.zip"
     },
     "4": {
         "title": "Meadowlands",
         "released": "1999-01-31",
         "rating": "8.5",
-        "imdb_id": "tt0705263"
+        "imdb_id": "tt0705263",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S1\\The.Sopranos.S01E04.Meadowlands.BluRay.1080p.DTSD-MA.h264.Remux-decibeLS1E4.zip"
     },
     "5": {
         "title": "College",
         "released": "1999-02-07",
         "rating": "8.9",
-        "imdb_id": "tt0705236"
+        "imdb_id": "tt0705236",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S1\\The.Sopranos.S01E05.College.BluRay.1080p.DTSD-MA.h264.Remux-decibeLS1E5.zip"
     },
     "6": {
         "title": "Pax Soprana",
         "released": "1999-02-14",
         "rating": "8.4",
-        "imdb_id": "tt0705270"
+        "imdb_id": "tt0705270",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S1\\The.Sopranos.S01E06.Pax.Soprana.BluRay.1080p.DTSD-MA.h264.Remux-decibeLS1E6.zip"
     },
     "7": {
         "title": "Down Neck",
         "released": "1999-02-21",
         "rating": "8.3",
-        "imdb_id": "tt0705241"
+        "imdb_id": "tt0705241",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S1\\The.Sopranos.S01E07.Down.Neck.BluRay.1080p.DTSD-MA.h264.Remux-decibeLS1E7.zip"
     },
     "8": {
         "title": "The Legend of Tennessee Moltisanti",
         "released": "1999-02-28",
         "rating": "8.5",
-        "imdb_id": "tt0705280"
+        "imdb_id": "tt0705280",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S1\\TheSopranosS01E08DVDRipXViD-XGS1E8.zip"
     },
     "9": {
         "title": "Boca",
         "released": "1999-03-07",
         "rating": "8.5",
-        "imdb_id": "tt0705231"
+        "imdb_id": "tt0705231",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S1\\The.Sopranos.S01E09.Boca.BluRay.1080p.DTSD-MA.h264.Remux-decibeLS1E9.zip"
     },
     "10": {
         "title": "A Hit Is a Hit",
         "released": "1999-03-14",
         "rating": "7.8",
-        "imdb_id": "tt0705224"
+        "imdb_id": "tt0705224",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S1\\The.Sopranos.S01E10.A.Hit.Is.a.Hit.BluRay.1080p.DTSD-MA.h264.Remux-decibeLS1E10.zip"
     },
     "11": {
         "title": "Nobody Knows Anything",
         "released": "1999-03-21",
         "rating": "8.8",
-        "imdb_id": "tt0705269"
+        "imdb_id": "tt0705269",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S1\\The.Sopranos.S01E11.Nobody.Knows.Anything.BluRay.1080p.DTSD-MA.h264.Remux-decibeLS1E11.zip"
     },
     "12": {
         "title": "Isabella",
         "released": "1999-03-28",
         "rating": "9.1",
-        "imdb_id": "tt0705256"
+        "imdb_id": "tt0705256",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S1\\The.Sopranos.S01E12.Isabella.BluRay.1080p.DTSD-MA.h264.Remux-decibeLS1E12.zip"
     },
     "13": {
         "title": "I Dream of Jeannie Cusamano",
         "released": "1999-04-04",
         "rating": "9.2",
-        "imdb_id": "tt0705253"
+        "imdb_id": "tt0705253",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S1\\The.Sopranos.S01E13.I.Dream.of.Jeannie.Cusamano.BluRay.1080p.DTSD-MA.h264.Remux-decibeLS1E13.zip"
     }
 }

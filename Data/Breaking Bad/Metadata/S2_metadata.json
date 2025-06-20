@@ -3,78 +3,104 @@
         "title": "Seven Thirty-Seven",
         "released": "2009-03-08",
         "rating": "8.6",
-        "imdb_id": "tt1232244"
+        "imdb_id": "tt1232244",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S2\\Breaking.Bad.S02E01.2160p.WEB-DL.5xRus.Ukr.Eng.TrollUHD-ULTRAHDCLUBS2E1.zip"
     },
     "2": {
         "title": "Grilled",
         "released": "2009-03-15",
         "rating": "9.3",
-        "imdb_id": "tt1232249"
+        "imdb_id": "tt1232249",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S2\\Breaking.Bad.S02E02.720p.HDTV.x264-CTUS2E2.zip"
     },
     "3": {
         "title": "Bit by a Dead Bee",
         "released": "2009-03-22",
         "rating": "8.3",
-        "imdb_id": "tt1232250"
+        "imdb_id": "tt1232250",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S2\\Breaking.Bad.S02E03.HDTV.XviD-0TVS2E3.zip"
     },
     "4": {
         "title": "Down",
         "released": "2009-03-29",
         "rating": "8.2",
-        "imdb_id": "tt1232251"
+        "imdb_id": "tt1232251",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S2\\Breaking.Bad.S02E04.HDTV.XviD-0TVS2E4.zip"
     },
     "5": {
         "title": "Breakage",
         "released": "2009-04-05",
         "rating": "8.2",
-        "imdb_id": "tt1232252"
+        "imdb_id": "tt1232252",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S2\\Breaking.Bad.S02E05.Breakage.HDTV-FQMS2E5.zip"
     },
     "6": {
         "title": "Peekaboo",
         "released": "2009-04-12",
         "rating": "8.8",
-        "imdb_id": "tt1232253"
+        "imdb_id": "tt1232253",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S2\\Breaking.Bad.S02E06.HDTV.XviD-0TVS2E6.zip"
     },
     "7": {
         "title": "Negro y Azul",
         "released": "2009-04-19",
         "rating": "8.6",
-        "imdb_id": "tt1232254"
+        "imdb_id": "tt1232254",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S2\\Breaking.Bad.S02E07.PROPER.DVDRip.XviD-NODLABSS2E7.zip"
     },
     "8": {
         "title": "Better Call Saul",
         "released": "2009-04-26",
         "rating": "9.2",
-        "imdb_id": "tt1232255"
+        "imdb_id": "tt1232255",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S2\\Breaking.Bad.S02E08.HDTV.XviD-DOTS2E8.zip"
     },
     "9": {
         "title": "4 Days Out",
         "released": "2009-05-03",
         "rating": "9.1",
-        "imdb_id": "tt1232256"
+        "imdb_id": "tt1232256",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S2\\Breaking.Bad.S02E09.720p.HDTV.x264-0TVS2E9.zip"
     },
     "10": {
         "title": "Over",
         "released": "2009-05-10",
         "rating": "8.4",
-        "imdb_id": "tt1232245"
+        "imdb_id": "tt1232245",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S2\\Breaking.Bad.S02E10.HDTV.XviD-0TVS2E10.zip"
     },
     "11": {
         "title": "Mandala",
         "released": "2009-05-17",
         "rating": "8.9",
-        "imdb_id": "tt1232246"
+        "imdb_id": "tt1232246",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S2\\Breaking.Bad.S02E11.DSR.XviD-RRRS2E11.zip"
     },
     "12": {
         "title": "Phoenix",
         "released": "2009-05-24",
         "rating": "9.3",
-        "imdb_id": "tt1232247"
+        "imdb_id": "tt1232247",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S2\\Breaking.Bad.S02E12.Phoenix.HDTV-0TVS2E12.zip"
     },
     "13": {
         "title": "ABQ",
         "released": "2009-05-31",
         "rating": "9.2",
-        "imdb_id": "tt1232248"
+        "imdb_id": "tt1232248",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S2\\Breaking.Bad.S02E13.HDTV.XviD-0TVS2E13.zip"
     }
 }
