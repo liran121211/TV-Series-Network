@@ -1,35 +1,31 @@
 from __future__ import annotations
 
-
 import os
 import json
 import logging
-import zipfile
 import requests
-import concurrent
-from concurrent.futures import ThreadPoolExecutor
-from pathlib import Path
-
-import pandas
+import time
+import re
 import pandas as pd
 import numpy as np
+from pathlib import Path
 from typing import Dict, Any, List
 from collections import Counter
 from scipy.stats import entropy
 from imdb import Cinemagoer, IMDbError, IMDbDataAccessError
 from dotenv import load_dotenv
 from tqdm import tqdm
-
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
-import time
-import re
 
-from AnalyzeSubtitles import SubtitlesAnalyzer, EMOTION_FILE_PATH
-from SubtitlesDownloader import MAX_CPU_THREADS
+import concurrent
+from concurrent.futures import ThreadPoolExecutor
 
+# --------------------------------------------------------------------------- #
+#  Utils Variables
+# --------------------------------------------------------------------------- #
 SERIES_NOT_FOUND_ERROR = -1
 
 # --------------------------------------------------------------------------- #
@@ -40,11 +36,12 @@ OMDB_API_KEY = os.getenv("OMDB_API_KEY")
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 OPENSUBTITLES_API_KEY = os.getenv("OPENSUBTITLES_API_KEY")
 CURR_OMDB_API_KEY_IDX = OMDB_API_KEY.split('|')[1]
-ZIP_FILE_NOT_FOUND = -1
+
+
 # --------------------------------------------------------------------------- #
 #  Logging configuration
 # --------------------------------------------------------------------------- #
-_LOG_PATH = Path(__file__).with_suffix(".log")
+_LOG_PATH = Path(__file__).parent / "Logs" / (Path(__file__).stem + ".log")
 
 logging.basicConfig(
     level=logging.INFO,
@@ -369,7 +366,7 @@ class CinemagoerClient:
         json_data = response.json()
 
         if json_data.get('Error', 'N/A') == 'Series or season not found!':
-            self.get_series_episodes(series, 0, is_data_saved)
+            self.get_series_episodes(series, str(0), is_data_saved)
             if season == 0:
                 self.logger.info(f"{series} Season {str(season)} - Series or season not found!")
                 return SERIES_NOT_FOUND_ERROR
@@ -578,44 +575,14 @@ def process_tv_show_metadata(imdb_analyzer_instance: CinemagoerClient, tv_show_d
         if result == SERIES_NOT_FOUND_ERROR:
             break
 
-def extract_zip_to_same_folder(zip_path, overwrite=False):
-    zip_path = os.path.abspath(zip_path)
-    output_folder = os.path.dirname(zip_path)
-    extracted_files = []
 
-    if os.path.exists(zip_path) is False:
-        print(f'❌ zip_path not found - {zip_path}')
-        return [ZIP_FILE_NOT_FOUND]
-
-    with zipfile.ZipFile(zip_path, 'r') as zip_ref:
-        for member in zip_ref.infolist():
-            extracted_path = os.path.join(output_folder, member.filename)
-
-            if os.path.exists(extracted_path) and not overwrite:
-                print(f"Skipping existing file: {extracted_path}")
-                continue
-
-            # Create directories if needed
-            os.makedirs(os.path.dirname(extracted_path), exist_ok=True)
-
-            # Extract file
-            with zip_ref.open(member) as source, open(extracted_path, "wb") as target:
-                target.write(source.read())
-
-            extracted_files.append(os.path.abspath(extracted_path))
-            print(f"✅ Extracted: {extracted_path}")
-
-    return extracted_files
-
-
-def extract_all_imdb_features(base_path: str, output_csv_path: str, extract_zip_fn, extract_imdb_features_fn) -> pd.DataFrame:
+def extract_all_imdb_features(base_path: str, output_csv_path: str, extract_imdb_features_fn) -> pd.DataFrame:
     """
     Extract IMDb-related features for all episodes in a given data directory.
 
     Args:
         base_path (str): Path to the root data folder.
         output_csv_path (str): Where to save the output CSV.
-        extract_zip_fn (Callable): Function to extract subtitle zip files.
         extract_imdb_features_fn (Callable): Function to extract features from episode metadata.
 
     Returns:
@@ -654,21 +621,6 @@ def extract_all_imdb_features(base_path: str, output_csv_path: str, extract_zip_
                 series_json_data = json.load(f)
 
             for episode_number_str, episode_info in series_json_data.items():
-                if not episode_info.get('subtitles_exists'):
-                    print(f'❌ subtitles_exists = False - {os.path.join(root, file)}')
-                    continue
-
-                subtitle_paths = extract_zip_fn(zip_path=episode_info['subtitles_full_path'], overwrite=True)[0]
-                if subtitle_paths == ZIP_FILE_NOT_FOUND:
-                    continue
-
-                if not subtitle_paths:
-                    print(f'❌ subtitle_paths is EMPTY - {os.path.join(root, file)}')
-                    continue
-
-                if not os.path.exists(subtitle_paths):
-                    continue
-
                 episode_metadata_file = os.path.join(root, file).replace('_metadata.json', f'_E{episode_number_str}_metadata.json')
                 if not os.path.exists(episode_metadata_file):
                     print(f'❌ episode_metadata_file not found - {episode_metadata_file}')
@@ -678,7 +630,7 @@ def extract_all_imdb_features(base_path: str, output_csv_path: str, extract_zip_
                     episode_json = json.load(ef)
 
                 imdb_features = extract_imdb_features_fn(episode_json)
-                if not isinstance(imdb_features, pandas.Series):
+                if not isinstance(imdb_features, pd.Series):
                     continue
 
                 season_match = re.search(r'S(\d{1,2})_', file)
@@ -689,21 +641,15 @@ def extract_all_imdb_features(base_path: str, output_csv_path: str, extract_zip_
                 except ValueError:
                     continue
 
-                subtitles_analyzer = SubtitlesAnalyzer(srt_path=subtitle_paths, emotion_file_path=EMOTION_FILE_PATH)
-                subtitles_features_dict = subtitles_analyzer.calculate_all_features()
-
                 imdb_features_dict = imdb_features.to_dict()
                 imdb_features_dict.update({
                     "tv_show_name": os.path.basename(os.path.dirname(root)),
                     "season": int(re.search(r'S(\d{1,2})_', file).group(1)),
                     "episode_number": int(episode_number_str),
-                    "imdbID": episode_json.get("imdbID", "").replace("tt", ""),
+                    "imdbID": episode_json['imdbID'],
                     "rating": episode_json.get("rating", 0),
                     "votes": episode_json.get("votes", 0),
                 })
-
-                for subtitle_feature_set in subtitles_features_dict.values():
-                    imdb_features_dict.update(subtitle_feature_set)
                 all_data.append(imdb_features_dict)
 
     df = pd.DataFrame(all_data, columns=columns)
@@ -747,7 +693,6 @@ if __name__ == "__main__":
 
     extract_all_imdb_features(base_path=r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data',
                               output_csv_path='Data/imdb_features_data.csv',
-                              extract_zip_fn=extract_zip_to_same_folder,
                               extract_imdb_features_fn=imdb_analyzer.extract_imdb_features,
                               )
 
