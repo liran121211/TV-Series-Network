@@ -3,126 +3,168 @@
         "title": "The Awakening",
         "released": "2007-09-21",
         "rating": "8.6",
-        "imdb_id": "tt0967584"
+        "imdb_id": "tt0967584",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "2": {
         "title": "The Headband",
         "released": "2007-09-28",
         "rating": "N/A",
-        "imdb_id": "tt0966647"
+        "imdb_id": "tt0966647",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "3": {
         "title": "The Painted Lady",
         "released": "2007-10-05",
         "rating": "7.8",
-        "imdb_id": "tt0888742"
+        "imdb_id": "tt0888742",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "4": {
         "title": "Sokka's Master",
         "released": "2007-10-12",
         "rating": "N/A",
-        "imdb_id": "tt0888741"
+        "imdb_id": "tt0888741",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "5": {
         "title": "The Beach",
         "released": "2007-10-19",
         "rating": "8.5",
-        "imdb_id": "tt0888739"
+        "imdb_id": "tt0888739",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "6": {
         "title": "The Avatar and the Fire Lord",
         "released": "2007-10-26",
         "rating": "9.5",
-        "imdb_id": "tt1117701"
+        "imdb_id": "tt1117701",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "7": {
         "title": "The Runaway",
         "released": "2007-11-02",
         "rating": "N/A",
-        "imdb_id": "tt0888740"
+        "imdb_id": "tt0888740",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "8": {
         "title": "The Puppetmaster",
         "released": "2007-11-09",
         "rating": "9.1",
-        "imdb_id": "tt0900434"
+        "imdb_id": "tt0900434",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "9": {
         "title": "Nightmares and Daydreams",
         "released": "2007-11-16",
         "rating": "7.6",
-        "imdb_id": "tt1127369"
+        "imdb_id": "tt1127369",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "10": {
         "title": "The Day of Black Sun",
         "released": "2007-11-30",
         "rating": "9.1",
-        "imdb_id": "tt1133641"
+        "imdb_id": "tt1133641",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "11": {
         "title": "The Day of Black Sun, Part 2: The Eclipse",
         "released": "2007-11-30",
         "rating": "9.4",
-        "imdb_id": "tt1132642"
+        "imdb_id": "tt1132642",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "12": {
         "title": "The Western Air Temple",
         "released": "2008-07-14",
         "rating": "8.9",
-        "imdb_id": "tt1136036"
+        "imdb_id": "tt1136036",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "13": {
         "title": "The Firebending Masters",
         "released": "2008-07-15",
         "rating": "9.2",
-        "imdb_id": "tt1166830"
+        "imdb_id": "tt1166830",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "14": {
         "title": "The Boiling Rock: Part 1",
         "released": "2008-07-16",
         "rating": "8.6",
-        "imdb_id": "tt1176477"
+        "imdb_id": "tt1176477",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "15": {
         "title": "The Boiling Rock, Part 2",
         "released": "2008-07-16",
         "rating": "9.2",
-        "imdb_id": "tt1194313"
+        "imdb_id": "tt1194313",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "16": {
         "title": "The Southern Raiders",
         "released": "2008-07-17",
         "rating": "8.9",
-        "imdb_id": "tt1193652"
+        "imdb_id": "tt1193652",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "17": {
         "title": "The Ember Island Players",
         "released": "2008-07-18",
         "rating": "8.5",
-        "imdb_id": "tt1204261"
+        "imdb_id": "tt1204261",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "18": {
         "title": "Sozin's Comet, Part 1: The Phoenix King",
         "released": "2008-07-19",
         "rating": "9.0",
-        "imdb_id": "tt1204262"
+        "imdb_id": "tt1204262",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "19": {
         "title": "Sozin's Comet, Part 2: The Old Masters",
         "released": "2008-07-19",
         "rating": "N/A",
-        "imdb_id": "tt1204263"
+        "imdb_id": "tt1204263",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "20": {
         "title": "Sozin's Comet, Part 3: Into the Inferno",
         "released": "2008-07-19",
         "rating": "9.8",
-        "imdb_id": "tt1204264"
+        "imdb_id": "tt1204264",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "21": {
         "title": "Sozin's Comet, Part 4: Avatar Aang",
         "released": "2008-07-19",
         "rating": "9.9",
-        "imdb_id": "tt1204265"
+        "imdb_id": "tt1204265",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     }
 }

@@ -3,96 +3,128 @@
         "title": "Live Free or Die",
         "released": "2012-07-15",
         "rating": "9.2",
-        "imdb_id": "tt2081647"
+        "imdb_id": "tt2081647",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S5\\Breaking.Bad.S05E01.720p.WEB-DL.DD5.1.H.264-CtrlHDS5E1.zip"
     },
     "2": {
         "title": "Madrigal",
         "released": "2012-07-22",
         "rating": "N/A",
-        "imdb_id": "tt2301457"
+        "imdb_id": "tt2301457",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S5\\Breaking.Bad.S05E02.720p.WEB-DL.DD5.1.H.264-CtrlHDS5E2.zip"
     },
     "3": {
         "title": "Hazard Pay",
         "released": "2012-07-29",
         "rating": "8.8",
-        "imdb_id": "tt2301459"
+        "imdb_id": "tt2301459",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S5\\Breaking.Bad.S05E03.720p.WEB-DL.DD5.1.H.264-CtrlHDS5E3.zip"
     },
     "4": {
         "title": "Fifty-One",
         "released": "2012-08-05",
         "rating": "8.8",
-        "imdb_id": "tt2301461"
+        "imdb_id": "tt2301461",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S5\\Breaking.Bad.S05E04.720p.WEB-DL.DD5.1.H.264-CtrlHDS5E4.zip"
     },
     "5": {
         "title": "Dead Freight",
         "released": "2012-08-12",
         "rating": "9.7",
-        "imdb_id": "tt2301463"
+        "imdb_id": "tt2301463",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S5\\Breaking.Bad.S05E05.720p.WEB-DL.DD5.1.H.264-CtrlHDS5E5.zip"
     },
     "6": {
         "title": "Buyout",
         "released": "2012-08-19",
         "rating": "9.0",
-        "imdb_id": "tt2301465"
+        "imdb_id": "tt2301465",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S5\\Breaking.Bad.S05E06.720p.WEB-DL.DD5.1.H.264-CtrlHDS5E6.zip"
     },
     "7": {
         "title": "Say My Name",
         "released": "2012-08-26",
         "rating": "9.6",
-        "imdb_id": "tt2301467"
+        "imdb_id": "tt2301467",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S5\\Breaking.Bad.S05E07.Say.My.Name.MULTiSUB.HDRip.x264.AAC-little_devil_ENGS5E7.zip"
     },
     "8": {
         "title": "Gliding Over All",
         "released": "2012-09-02",
         "rating": "9.6",
-        "imdb_id": "tt2301469"
+        "imdb_id": "tt2301469",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S5\\Breaking.Bad.S05E08.Gliding.Over.All.MULTiSUB.HDRip.x264.AAC-little_devil_ENGS5E8.zip"
     },
     "9": {
         "title": "Blood Money",
         "released": "2013-08-11",
         "rating": "9.4",
-        "imdb_id": "tt2301471"
+        "imdb_id": "tt2301471",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S5\\Breaking.Bad.S05E09.720p.WEB-DL.DD5.1.H.264-BSS5E9.zip"
     },
     "10": {
         "title": "Buried",
         "released": "2013-08-18",
         "rating": "N/A",
-        "imdb_id": "tt2301443"
+        "imdb_id": "tt2301443",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S5\\Breaking.Bad.S05E10.720p.WEB-DL.DD5.1.H.264-BSS5E10.zip"
     },
     "11": {
         "title": "Confessions",
         "released": "2013-08-25",
         "rating": "9.6",
-        "imdb_id": "tt2301445"
+        "imdb_id": "tt2301445",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S5\\Breaking.Bad.S05E11.Confessions.720p.WEB-DL.DD5.1.H.264-BSS5E11.zip"
     },
     "12": {
         "title": "Rabid Dog",
         "released": "2013-09-01",
         "rating": "9.1",
-        "imdb_id": "tt2301447"
+        "imdb_id": "tt2301447",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S5\\Breaking.Bad.S05E12.Rabid.Dog.720p.WEB-DL.DD5.1.H.264-BSS5E12.zip"
     },
     "13": {
         "title": "To'hajiilee",
         "released": "2013-09-08",
         "rating": "9.8",
-        "imdb_id": "tt2301449"
+        "imdb_id": "tt2301449",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S5\\Breaking.Bad.S05E13.To'hajiilee.720p.WEB-DL.DD5.1.H.264-BSS5E13.zip"
     },
     "14": {
         "title": "Ozymandias",
         "released": "2013-09-15",
         "rating": "N/A",
-        "imdb_id": "tt2301451"
+        "imdb_id": "tt2301451",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S5\\Breaking.Bad.S05E14.Ozymandias.720p.WEB-DL.DD5.1.H.264-BSS5E14.zip"
     },
     "15": {
         "title": "Granite State",
         "released": "2013-09-22",
         "rating": "9.7",
-        "imdb_id": "tt2301453"
+        "imdb_id": "tt2301453",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S5\\Breaking.Bad.S05E15.Granite.State.720p.WEB-DL.DD5.1.H.264-BSS5E15.zip"
     },
     "16": {
         "title": "Felina",
         "released": "2013-09-29",
         "rating": "9.9",
-        "imdb_id": "tt2301455"
+        "imdb_id": "tt2301455",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breaking Bad\\Subtitles\\S5\\Breaking.Bad.S05E16.Felina.720p.WEB-DL.DD5.1.H.264-BSS5E16.zip"
     }
 }

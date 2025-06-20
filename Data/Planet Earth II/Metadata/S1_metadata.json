@@ -3,36 +3,48 @@
         "title": "Islands",
         "released": "2017-02-18",
         "rating": "9.4",
-        "imdb_id": "tt6142646"
+        "imdb_id": "tt6142646",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Planet Earth II\\Subtitles\\S1\\[01].Planet_Earth_II_2016_E01_Islands_1080p_bluray_DTS_x264-engS1E1.zip"
     },
     "2": {
         "title": "Mountains",
         "released": "2017-02-25",
         "rating": "9.1",
-        "imdb_id": "tt6209126"
+        "imdb_id": "tt6209126",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Planet Earth II\\Subtitles\\S1\\Planet.Earth.II.S01E02.1080p.HDTV.x264-VERUMS1E2.zip"
     },
     "3": {
         "title": "Jungles",
         "released": "2017-03-04",
         "rating": "8.9",
-        "imdb_id": "tt6209130"
+        "imdb_id": "tt6209130",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Planet Earth II\\Subtitles\\S1\\Planet.Earth.II.S01E03.PROPER.1080p.HDTV.x264-SERIOUSLYS1E3.zip"
     },
     "4": {
         "title": "Deserts",
         "released": "2017-03-11",
         "rating": "8.8",
-        "imdb_id": "tt6209134"
+        "imdb_id": "tt6209134",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Planet Earth II\\Subtitles\\S1\\Planet.Earth.II.S01E04.1080p.HDTV.x264-VERUMS1E4.zip"
     },
     "5": {
         "title": "Grasslands",
         "released": "2017-03-18",
         "rating": "8.7",
-        "imdb_id": "tt6209140"
+        "imdb_id": "tt6209140",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Planet Earth II\\Subtitles\\S1\\Planet.Earth.II.S01E05.BDRip.x264-ROVERSS1E5.zip"
     },
     "6": {
         "title": "Cities",
         "released": "2017-03-25",
         "rating": "9.0",
-        "imdb_id": "tt6209144"
+        "imdb_id": "tt6209144",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Planet Earth II\\Subtitles\\S1\\Planet.Earth.II.S01E06.BDRip.x264-ROVERSS1E6.zip"
     }
 }

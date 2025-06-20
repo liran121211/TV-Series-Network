@@ -3,78 +3,104 @@
         "title": "The Target",
         "released": "2002-06-02",
         "rating": "7.8",
-        "imdb_id": "tt0749451"
+        "imdb_id": "tt0749451",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S1\\The_Wire_S1E1.zip"
     },
     "2": {
         "title": "The Detail",
         "released": "2002-06-09",
         "rating": "8.2",
-        "imdb_id": "tt0749448"
+        "imdb_id": "tt0749448",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S1\\The_Wire_S1E2.zip"
     },
     "3": {
         "title": "The Buys",
         "released": "2002-06-16",
         "rating": "8.1",
-        "imdb_id": "tt0749446"
+        "imdb_id": "tt0749446",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S1\\The_Wire_S1E3.zip"
     },
     "4": {
         "title": "Old Cases",
         "released": "2002-06-23",
         "rating": "8.2",
-        "imdb_id": "tt0749437"
+        "imdb_id": "tt0749437",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S1\\The_Wire_S1E4.zip"
     },
     "5": {
         "title": "The Pager",
         "released": "2002-06-30",
         "rating": "8.2",
-        "imdb_id": "tt0749450"
+        "imdb_id": "tt0749450",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S1\\The_Wire_S1E5.zip"
     },
     "6": {
         "title": "The Wire",
         "released": "2002-07-07",
         "rating": "8.5",
-        "imdb_id": "tt0749452"
+        "imdb_id": "tt0749452",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S1\\The_Wire_S1E6.zip"
     },
     "7": {
         "title": "One Arrest",
         "released": "2002-07-21",
         "rating": "8.4",
-        "imdb_id": "tt0749438"
+        "imdb_id": "tt0749438",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S1\\The_Wire_S1E7.zip"
     },
     "8": {
         "title": "Lessons",
         "released": "2002-07-28",
         "rating": "8.5",
-        "imdb_id": "tt0749433"
+        "imdb_id": "tt0749433",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S1\\The_Wire_S1E8.zip"
     },
     "9": {
         "title": "Game Day",
         "released": "2002-08-04",
         "rating": "8.7",
-        "imdb_id": "tt0749429"
+        "imdb_id": "tt0749429",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S1\\The_Wire_S1E9.zip"
     },
     "10": {
         "title": "The Cost",
         "released": "2002-08-11",
         "rating": "9.2",
-        "imdb_id": "tt0749447"
+        "imdb_id": "tt0749447",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S1\\The_Wire_S1E10.zip"
     },
     "11": {
         "title": "The Hunt",
         "released": "2002-08-18",
         "rating": "8.8",
-        "imdb_id": "tt0749449"
+        "imdb_id": "tt0749449",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S1\\The_Wire_S1E11.zip"
     },
     "12": {
         "title": "Cleaning Up",
         "released": "2002-09-01",
         "rating": "9.1",
-        "imdb_id": "tt0749424"
+        "imdb_id": "tt0749424",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Wire\\Subtitles\\S1\\The_Wire_S1E12.zip"
     },
     "13": {
         "title": "Sentencing",
         "released": "2002-09-08",
         "rating": "N/A",
-        "imdb_id": "tt0749441"
+        "imdb_id": "tt0749441",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     }
 }
