@@ -59,7 +59,8 @@ class RatingPredictor:
 
     def _merge_data(self, imdb_df, sub_df):
         self.logger.info("Merging on imdbID …")
-        sub_df = sub_df.drop(columns=['votes', 'rating', 'tv_show_name'], errors='ignore')
+        sub_df = sub_df.drop(columns=['votes', 'rating', ], errors='ignore')
+        imdb_df = imdb_df.drop(columns=['tv_show_name'], errors='ignore')
         sub_df['imdbID'] = sub_df['imdbID'].str.replace('tt', '', regex=False).astype(int)
         return pd.merge(imdb_df, sub_df, on="imdbID", how="inner", suffixes=("_imdb", "_sub"))
 

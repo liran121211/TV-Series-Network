@@ -597,6 +597,32 @@ def extract_zip_to_same_folder(zip_path, overwrite=False):
     return extracted_files
 
 
+def extract_features_from_single_subtitle(srt_path: str) -> dict:
+    """
+    Extract all subtitle-based features from a single subtitle file.
+
+    Args:
+        srt_path (str): Path to the .srt or .ass subtitle file.
+
+    Returns:
+        dict: Flat dictionary of subtitle features.
+    """
+    try:
+        analyzer = SubtitlesAnalyzer(srt_path=srt_path, emotion_file_path=EMOTION_FILE_PATH)
+        features_grouped = analyzer.calculate_all_features()
+    except (AssertionError, TypeError) as e:
+        print(f"⚠️ Failed to analyze subtitle file: {srt_path}\nError: {e}")
+        return {}
+
+    # Flatten the nested dictionary into a single-level dict
+    flat_features = {
+        f"{feature_name}": feature_value
+        for group_dict in features_grouped.values()
+        for feature_name, feature_value in group_dict.items()
+    }
+
+    return flat_features
+
 
 def extract_all_subtitles_features(base_path: str, output_csv_path: str, extract_zip_fn) -> pd.DataFrame:
     """
