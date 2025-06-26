@@ -4,80 +4,80 @@
         "released": "2007-03-25",
         "rating": "9.0",
         "imdb_id": "tt0797603",
-        "subtitles_exists": true,
-        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Planet Earth\\Subtitles\\S1\\Planet_Earth_S1E1.zip"
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "2": {
         "title": "Mountains",
         "released": "2007-03-25",
         "rating": "8.8",
         "imdb_id": "tt0797602",
-        "subtitles_exists": true,
-        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Planet Earth\\Subtitles\\S1\\Planet_Earth_S1E2.zip"
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "3": {
         "title": "Fresh Water",
         "released": "2007-04-15",
         "rating": "8.8",
         "imdb_id": "tt0797601",
-        "subtitles_exists": true,
-        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Planet Earth\\Subtitles\\S1\\Planet_Earth_S1E3.zip"
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "4": {
         "title": "Caves",
         "released": "2007-04-22",
         "rating": "8.8",
         "imdb_id": "tt0799305",
-        "subtitles_exists": true,
-        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Planet Earth\\Subtitles\\S1\\Planet_Earth_S1E4.zip"
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "5": {
         "title": "Deserts",
         "released": "2007-04-01",
         "rating": "8.6",
         "imdb_id": "tt0818059",
-        "subtitles_exists": true,
-        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Planet Earth\\Subtitles\\S1\\Planet_Earth_S1E5.zip"
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "6": {
         "title": "Ice Worlds",
         "released": "2007-04-01",
         "rating": "8.9",
         "imdb_id": "tt0905876",
-        "subtitles_exists": true,
-        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Planet Earth\\Subtitles\\S1\\Planet_Earth_S1E6.zip"
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "7": {
         "title": "Great Plains",
         "released": "2007-04-08",
         "rating": "8.6",
         "imdb_id": "tt0905875",
-        "subtitles_exists": true,
-        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Planet Earth\\Subtitles\\S1\\Planet_Earth_S1E7.zip"
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "8": {
         "title": "Jungles",
         "released": "2007-04-08",
         "rating": "8.9",
         "imdb_id": "tt0905877",
-        "subtitles_exists": true,
-        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Planet Earth\\Subtitles\\S1\\Planet_Earth_S1E8.zip"
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "9": {
         "title": "Shallow Seas",
         "released": "2007-04-08",
         "rating": "8.8",
         "imdb_id": "tt0905880",
-        "subtitles_exists": true,
-        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Planet Earth\\Subtitles\\S1\\Planet_Earth_S1E9.zip"
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "10": {
         "title": "Seasonal Forests",
         "released": "2007-04-22",
         "rating": "8.8",
         "imdb_id": "tt0905879",
-        "subtitles_exists": true,
-        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Planet Earth\\Subtitles\\S1\\Planet_Earth_S1E10.zip"
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
     },
     "11": {
         "title": "Ocean Deep",

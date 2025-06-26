@@ -1,26 +1,47 @@
+# Standard library imports
 import ast
 import logging
 import warnings
+import seaborn as sns
 from collections import Counter
 from pathlib import Path
 
+# Third-party library imports
 import joblib
 import numpy as np
 import pandas as pd
+from flaml import AutoML
+from matplotlib import pyplot as plt
 from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
 from sklearn.metrics import (
-    mean_squared_error, mean_absolute_error, r2_score,
-    explained_variance_score, make_scorer
+    explained_variance_score,
+    make_scorer,
+    mean_absolute_error,
+    mean_squared_error,
+    r2_score,
 )
-from sklearn.model_selection import GroupKFold, KFold, cross_validate
+from sklearn.model_selection import (
+    GroupKFold,
+    KFold,
+    cross_validate,
+    train_test_split,
+)
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
+from xgboost import XGBRegressor
+
+# Local application imports
+from IMDB_Analyzer import extract_features_for_specific_episode
+from Subtitles_Analyzer import extract_features_from_single_subtitle
 
 try:
     from lightgbm import LGBMRegressor
 except ImportError as e:
     raise ImportError("LightGBM is required. Install with `pip install lightgbm`.") from e
+
+import matplotlib
+matplotlib.use("TkAgg")
 
 warnings.filterwarnings("ignore")
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -57,16 +78,16 @@ class RatingPredictor:
         sub_df = pd.read_csv(self.sub_path)
         return imdb_df, sub_df
 
-    def _merge_data(self, imdb_df, sub_df):
+    def _merge_data(self, imdb_df, subtitles_df):
         self.logger.info("Merging on imdbID …")
-        sub_df = sub_df.drop(columns=['votes', 'rating', ], errors='ignore')
+        subtitles_df = subtitles_df.drop(columns=['votes', 'rating'], errors='ignore')
         imdb_df = imdb_df.drop(columns=['tv_show_name'], errors='ignore')
-        sub_df['imdbID'] = sub_df['imdbID'].str.replace('tt', '', regex=False).astype(int)
-        return pd.merge(imdb_df, sub_df, on="imdbID", how="inner", suffixes=("_imdb", "_sub"))
+        subtitles_df['imdbID'] = subtitles_df['imdbID'].str.replace('tt', '', regex=False).astype(int)
+        return pd.merge(imdb_df, subtitles_df, on="imdbID", how="inner", suffixes=("_imdb", "_sub"))
 
     def _clean_target(self, df):
         self.logger.info("Cleaning target …")
-        df = df.dropna(subset=["rating"])
+        df = df.dropna(subset=["rating", 'votes'])
         mask = df["rating"].between(1, 10)
         dropped = len(df) - mask.sum()
         if dropped > 0:
@@ -74,8 +95,8 @@ class RatingPredictor:
         return df.loc[mask]
 
     def _prepare_features(self, df):
-        y = df["rating"].astype(float)
-        leak_cols = {"rating", "rating_imdb", "rating_sub", "imdbID"}
+        y = df["rating"].astype(float) # define TARGET column
+        leak_cols = {"rating", "rating_imdb", "rating_sub", "imdbID"} # drop TARGET column
         X = df.drop(columns=[c for c in leak_cols if c in df.columns])
 
         cat_cols = X.select_dtypes(include=["object", "category"]).columns.tolist()
@@ -151,10 +172,23 @@ class RatingPredictor:
         joblib.dump(self.pipe, self.model_out)
         self.logger.info("Model saved ✔")
 
-    def predict_rating(self, imdb_id: str, subtitle_features: dict):
+    def predict_rating(self, imdb_id: str, season_id: int, episode_id: int, subtitle_file: str):
         """
         Predicts a rating given an IMDB title ID (e.g. 'tt1234567') and a dictionary of subtitle features.
         """
+        imdb_df = pd.DataFrame(extract_features_for_specific_episode(tv_show_imdb_id=imdb_id, season_id=season_id, episode_id=episode_id))
+        sub_df = pd.DataFrame(extract_features_from_single_subtitle(srt_path=subtitle_file))
+
+        all_features = self._merge_data(imdb_df, sub_df)
+        all_features = self._clean_target(all_features)
+        all_features = self.transform_tfidf_keywords_column(local_df=all_features, column_name='tfidf_keywords', max_vocab_size=500)
+        all_features = self.expand_dict_column(local_df=all_features, column_name='emotion_distribution', prefix="emotion")
+        all_features = self.expand_dict_column(local_df=all_features, column_name='pos_distribution', prefix="pos")
+        all_features = self.expand_dict_column(local_df=all_features, column_name='tense_distribution', prefix="tense")
+        all_features = self.expand_topic_column(local_df=all_features, column_name='topic_distribution', prefix='topic', expected_length=5)
+
+
+
         try:
             if not self.pipe:
                 self.logger.info("Loading model from disk …")
@@ -167,7 +201,7 @@ class RatingPredictor:
             if row.empty:
                 raise ValueError(f"IMDB ID {imdb_id} not found in IMDB dataset.")
 
-            for k, v in subtitle_features.items():
+            for k, v in all_features.items():
                 row[k] = v
 
             leak_cols = {"rating", "rating_imdb", "rating_sub", "imdbID"}
@@ -189,13 +223,53 @@ class RatingPredictor:
             df = self.expand_dict_column(local_df=df, column_name='emotion_distribution', prefix="emotion")
             df = self.expand_dict_column(local_df=df, column_name='pos_distribution', prefix="pos")
             df = self.expand_dict_column(local_df=df, column_name='tense_distribution', prefix="tense")
-            df = self.expand_topic_column(local_df=df, column_name='topic_distribution', prefix='topic', expected_length=5)
+            df = self.expand_topic_column(local_df=df, column_name='topic_distribution', prefix='topic',
+                                          expected_length=5)
+
             X, y, cat_cols, num_cols = self._prepare_features(df)
-            self._build_pipeline(cat_cols, num_cols)
+
+            # Define preprocessing pipeline
+            numeric_transformer = Pipeline([
+                ("imputer", SimpleImputer(strategy="median")),
+            ])
+            categorical_transformer = Pipeline([
+                ("imputer", SimpleImputer(strategy="most_frequent")),
+                ("onehot", OneHotEncoder(handle_unknown="ignore", sparse_output=True)),
+            ])
+            pre = ColumnTransformer([
+                ("num", numeric_transformer, num_cols),
+                ("cat", categorical_transformer, cat_cols),
+            ])
+
+            # Define the best XGBoost config from AutoML
+            best_xgb = XGBRegressor(
+                n_estimators=82,
+                max_leaves=213,
+                min_child_weight=0.5069,
+                learning_rate=0.0529,
+                subsample=0.8682,
+                colsample_bylevel=1.0,
+                colsample_bytree=0.9380,
+                reg_alpha=0.0009766,
+                reg_lambda=0.03078,
+                objective='reg:squarederror',
+                random_state=self.random_state,
+                n_jobs=-1
+            )
+
+            # Create the final pipeline
+            self.pipe = Pipeline([
+                ("pre", pre),
+                ("gb", best_xgb),
+            ])
+
             self._evaluate(X, y, df)
-            self.logger.info("Fitting on full dataset …")
+
+            self.logger.info("Fitting best model on full dataset …")
             self.pipe.fit(X, y)
+
             self._save_model()
+
         except Exception as e2:
             self.logger.exception(f"Failed to execute rating predictor pipeline: {e2}")
 
@@ -311,6 +385,136 @@ class RatingPredictor:
         df = pd.concat([df, topic_df], axis=1)
         return df
 
+    def find_best_model_with_automl_kfold(self, time_budget=300, random_state=42, n_splits=5):
+        """
+        Performs K-Fold CV using FLAML AutoML and logs evaluation metrics.
+
+        Args:
+            time_budget (int): Time budget per fold in seconds.
+            random_state (int): Random seed.
+            n_splits (int): Number of CV folds.
+
+        Returns:
+            Tuple: (log_df, all_fold_models)
+        """
+        log_data = []
+        all_fold_models = []
+
+        # Load and preprocess data
+        imdb_df, sub_df = self._load_data()
+        df = self._merge_data(imdb_df, sub_df)
+        df = self._clean_target(df)
+        df = self.transform_tfidf_keywords_column(local_df=df, column_name='tfidf_keywords', max_vocab_size=500)
+        df = self.expand_dict_column(local_df=df, column_name='emotion_distribution', prefix="emotion")
+        df = self.expand_dict_column(local_df=df, column_name='pos_distribution', prefix="pos")
+        df = self.expand_dict_column(local_df=df, column_name='tense_distribution', prefix="tense")
+        df = self.expand_topic_column(local_df=df, column_name='topic_distribution', prefix='topic', expected_length=5)
+
+        X, y, cat_cols, num_cols = self._prepare_features(df)
+
+        # Create preprocessing pipeline
+        numeric_transformer = Pipeline([
+            ("imputer", SimpleImputer(strategy="median")),
+        ])
+        categorical_transformer = Pipeline([
+            ("imputer", SimpleImputer(strategy="most_frequent")),
+            ("onehot", OneHotEncoder(handle_unknown="ignore", sparse_output=True)),
+        ])
+        preprocessor = ColumnTransformer([
+            ("num", numeric_transformer, num_cols),
+            ("cat", categorical_transformer, cat_cols),
+        ])
+        X_processed = preprocessor.fit_transform(X)
+
+        # קו שני – רק בשביל שמות הפיצ'רים
+        preprocessor_for_names = ColumnTransformer([
+            ("num", numeric_transformer, num_cols),
+            ("cat", categorical_transformer, cat_cols),
+        ])
+        preprocessor_for_names.fit(X)
+
+        # K-Fold cross-validation
+        kf = KFold(n_splits=n_splits, shuffle=True, random_state=random_state)
+
+        for fold_idx, (train_idx, val_idx) in enumerate(kf.split(X_processed)):
+            print(f"\n[Fold {fold_idx + 1}/{n_splits}]")
+
+            X_train, X_val = X_processed[train_idx], X_processed[val_idx]
+            y_train, y_val = y.iloc[train_idx], y.iloc[val_idx]
+
+            automl = AutoML()
+            automl_settings = {
+                "time_budget": time_budget,
+                "task": "regression",
+                "metric": "rmse",
+                "log_file_name": f"Logs/automl_fold_{fold_idx + 1}.txt",
+                "seed": random_state,
+            }
+
+            automl.fit(X_train=X_train, y_train=y_train, **automl_settings)
+
+            y_pred = automl.predict(X_val)
+
+            log_data.append({
+                "fold": fold_idx + 1,
+                "rmse": np.sqrt(mean_squared_error(y_val, y_pred)),
+                "mae": mean_absolute_error(y_val, y_pred),
+                "r2": r2_score(y_val, y_pred),
+                "best_estimator": str(automl.model.estimator.__class__.__name__),
+                "best_config": str(automl.best_config),
+                "best_loss": automl.best_loss
+            })
+
+            all_fold_models.append(automl.model)
+
+            self.display_feature_importances(model=automl.model, preprocessor=preprocessor_for_names, cat_cols=cat_cols, num_cols=num_cols, top_n=15, fold_idx=fold_idx + 1)
+
+        # Save log and return
+        log_df = pd.DataFrame(log_data)
+        log_df.to_csv("Data/automl_kfold_results.csv", index=False)
+
+        return log_df, all_fold_models
+
+    def display_feature_importances(self, model, preprocessor, cat_cols, num_cols, top_n=15, fold_idx = 1):
+        # אם אין עמודות קטגוריות, דלג על OneHotEncoder
+        if cat_cols:
+            try:
+                onehot = preprocessor.named_transformers_["cat"].named_steps["onehot"]
+                cat_names = onehot.get_feature_names_out(cat_cols)
+            except Exception as e:
+                print(f"[⚠] Failed to get categorical feature names: {e}")
+                cat_names = []
+        else:
+            cat_names = []
+
+        all_feature_names = list(num_cols) + list(cat_names)
+        all_features_importance = pd.DataFrame()
+        estimator = model.estimator
+        if hasattr(estimator, "feature_importances_"):
+            importances = estimator.feature_importances_
+        elif hasattr(estimator, "coef_"):
+            importances = np.abs(estimator.coef_)
+        else:
+            print(f"[Fold {fold_idx}] 🚫 Model {type(estimator)} does not support feature importance.")
+            return
+
+        importance_df = pd.Series(importances, index=all_feature_names).sort_values(ascending=False).head(top_n)
+        plt.figure(figsize=(15, 7.5))
+        sns.barplot(x=importance_df.values, y=importance_df.index)
+        plt.title(f"Top {top_n} Feature Importances - Fold {fold_idx}")
+        plt.xlabel("Importance")
+        plt.tight_layout()
+        plt.savefig(f"Logs/feature_importance_fold_{fold_idx}.png")
+        #plt.show()
+
+        importance_df = pd.Series(importances, index=all_feature_names).sort_values(ascending=False).head(top_n)
+
+        # convert into DataFrame
+        importance_df = importance_df.reset_index()
+        importance_df.columns = ['feature', 'importance']
+
+        # שמירה
+        importance_df.to_csv(f'Logs/feature_importance_fold_results_{fold_idx}.csv', index=False)
 
 if __name__ == "__main__":
     predictor = RatingPredictor(
@@ -318,4 +522,9 @@ if __name__ == "__main__":
         sub_path="Data/subtitles_features_data.csv",
         model_out="Data/rating_predictor.pkl"
     )
-    predictor.run()
+
+    # find best hyper parameters
+    predictor.find_best_model_with_automl_kfold(time_budget=300, random_state=42)
+
+    # train and evaluation stage
+    #predictor.run()
