@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Rickshank Rickdemption",
+        "released": "2017-04-01",
+        "rating": "9.6",
+        "imdb_id": "tt5218228",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Rickmancing the Stone",
+        "released": "2017-07-30",
+        "rating": "8.1",
+        "imdb_id": "tt5218256",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Pickle Rick",
+        "released": "2017-08-06",
+        "rating": "9.3",
+        "imdb_id": "tt5218268",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Vindicators 3: The Return of Worldender",
+        "released": "2017-08-13",
+        "rating": "8.1",
+        "imdb_id": "tt5218288",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Whirly Dirly Conspiracy",
+        "released": "2017-08-20",
+        "rating": "8.4",
+        "imdb_id": "tt5218310",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Rest and Ricklaxation",
+        "released": "2017-08-27",
+        "rating": "8.8",
+        "imdb_id": "tt5218318",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Ricklantis Mixup",
+        "released": "2017-09-10",
+        "rating": "N/A",
+        "imdb_id": "tt5218332",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Morty's Mind Blowers",
+        "released": "2017-09-17",
+        "rating": "8.9",
+        "imdb_id": "tt5218350",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The ABCs of Beth",
+        "released": "2017-09-24",
+        "rating": "7.9",
+        "imdb_id": "tt5218370",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Rickchurian Mortydate",
+        "released": "2017-10-01",
+        "rating": "N/A",
+        "imdb_id": "tt5218386",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

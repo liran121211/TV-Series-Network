@@ -1,0 +1,482 @@
+{
+    "1": {
+        "title": "The Cat and the Claw: Part I",
+        "released": "1992-09-05",
+        "rating": "7.7",
+        "imdb_id": "tt0519626",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "On Leather Wings",
+        "released": "1992-09-06",
+        "rating": "7.6",
+        "imdb_id": "tt0519608",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Heart of Ice",
+        "released": "1992-09-07",
+        "rating": "9.0",
+        "imdb_id": "tt0519590",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Feat of Clay: Part I",
+        "released": "1992-09-08",
+        "rating": "8.3",
+        "imdb_id": "tt0519584",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Feat of Clay: Part II",
+        "released": "1992-09-09",
+        "rating": "8.6",
+        "imdb_id": "tt0519585",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "It's Never Too Late",
+        "released": "1992-09-10",
+        "rating": "7.6",
+        "imdb_id": "tt0519598",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Joker's Favor",
+        "released": "1992-09-11",
+        "rating": "8.5",
+        "imdb_id": "tt0519599",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Cat and the Claw: Part II",
+        "released": "1992-09-12",
+        "rating": "7.6",
+        "imdb_id": "tt0519627",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Pretty Poison",
+        "released": "1992-09-14",
+        "rating": "7.9",
+        "imdb_id": "tt0519612",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Nothing to Fear",
+        "released": "1992-09-15",
+        "rating": "8.0",
+        "imdb_id": "tt0519606",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Be a Clown",
+        "released": "1992-09-16",
+        "rating": "7.6",
+        "imdb_id": "tt0519572",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Appointment in Crime Alley",
+        "released": "1992-09-17",
+        "rating": "7.6",
+        "imdb_id": "tt0519567",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "P.O.V.",
+        "released": "1992-09-18",
+        "rating": "7.5",
+        "imdb_id": "tt0519609",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Clock King",
+        "released": "1992-09-21",
+        "rating": "7.7",
+        "imdb_id": "tt0519628",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Last Laugh",
+        "released": "1992-09-22",
+        "rating": "7.7",
+        "imdb_id": "tt0519633",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Eternal Youth",
+        "released": "1992-09-23",
+        "rating": "7.3",
+        "imdb_id": "tt0519582",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Two-Face: Part I",
+        "released": "1992-09-25",
+        "rating": "9.1",
+        "imdb_id": "tt0519644",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Two-Face: Part II",
+        "released": "1992-09-28",
+        "rating": "9.0",
+        "imdb_id": "tt0519645",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Fear of Victory",
+        "released": "1992-09-29",
+        "rating": "7.6",
+        "imdb_id": "tt0519583",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "I've Got Batman in My Basement",
+        "released": "1992-09-30",
+        "rating": "6.5",
+        "imdb_id": "tt0519596",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Vendetta",
+        "released": "1992-10-05",
+        "rating": "7.6",
+        "imdb_id": "tt0519647",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Prophecy of Doom",
+        "released": "1992-10-06",
+        "rating": "6.7",
+        "imdb_id": "tt0519613",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "The Forgotten",
+        "released": "1992-10-08",
+        "rating": "7.3",
+        "imdb_id": "tt0519631",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Mad as a Hatter",
+        "released": "1992-10-12",
+        "rating": "8.0",
+        "imdb_id": "tt0519601",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "The Cape and Cowl Conspiracy",
+        "released": "1992-10-14",
+        "rating": "7.6",
+        "imdb_id": "tt0519625",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Perchance to Dream",
+        "released": "1992-10-19",
+        "rating": "9.0",
+        "imdb_id": "tt0519611",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "The Underdwellers",
+        "released": "1992-10-21",
+        "rating": "6.7",
+        "imdb_id": "tt0519640",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Night of the Ninja",
+        "released": "1992-10-26",
+        "rating": "7.5",
+        "imdb_id": "tt0519605",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "The Strange Secret of Bruce Wayne",
+        "released": "1992-10-29",
+        "rating": "8.2",
+        "imdb_id": "tt0519638",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Tyger Tyger",
+        "released": "1992-10-30",
+        "rating": "7.0",
+        "imdb_id": "tt0519646",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Dreams in Darkness",
+        "released": "1992-11-03",
+        "rating": "8.3",
+        "imdb_id": "tt0519581",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Beware the Gray Ghost",
+        "released": "1992-11-04",
+        "rating": "8.9",
+        "imdb_id": "tt0519573",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Cat Scratch Fever",
+        "released": "1992-11-05",
+        "rating": "7.2",
+        "imdb_id": "tt0519576",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "I Am the Night",
+        "released": "1992-11-09",
+        "rating": "8.5",
+        "imdb_id": "tt0519595",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Almost Got 'im",
+        "released": "1992-11-10",
+        "rating": "9.2",
+        "imdb_id": "tt0519566",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Moon of the Wolf",
+        "released": "1992-11-11",
+        "rating": "6.7",
+        "imdb_id": "tt0519603",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Terror in the Sky",
+        "released": "1992-11-12",
+        "rating": "7.3",
+        "imdb_id": "tt0519624",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Christmas with the Joker",
+        "released": "1992-11-13",
+        "rating": "7.9",
+        "imdb_id": "tt0519578",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Heart of Steel: Part I",
+        "released": "1992-11-16",
+        "rating": "N/A",
+        "imdb_id": "tt0519591",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Heart of Steel: Part II",
+        "released": "1992-11-17",
+        "rating": "7.9",
+        "imdb_id": "tt0519592",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "If You're So Smart, Why Aren't You Rich?",
+        "released": "1992-11-18",
+        "rating": "8.3",
+        "imdb_id": "tt0519597",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Joker's Wild",
+        "released": "1992-11-19",
+        "rating": "8.2",
+        "imdb_id": "tt0519632",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "His Silicon Soul",
+        "released": "1992-11-20",
+        "rating": "8.1",
+        "imdb_id": "tt0519593",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Off Balance",
+        "released": "1992-11-23",
+        "rating": "N/A",
+        "imdb_id": "tt0519607",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "What Is Reality?",
+        "released": "1992-11-24",
+        "rating": "7.7",
+        "imdb_id": "tt0519648",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "The Laughing Fish",
+        "released": "1993-01-10",
+        "rating": "8.6",
+        "imdb_id": "tt0519634",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Harley and Ivy",
+        "released": "1993-01-18",
+        "rating": "8.6",
+        "imdb_id": "tt0519588",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "The Mechanic",
+        "released": "1993-01-24",
+        "rating": "7.5",
+        "imdb_id": "tt0519637",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "The Man Who Killed Batman",
+        "released": "1993-02-01",
+        "rating": "8.8",
+        "imdb_id": "tt0519636",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Zatanna",
+        "released": "1993-02-02",
+        "rating": "N/A",
+        "imdb_id": "tt0519649",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "Robin's Reckoning: Part I",
+        "released": "1993-02-07",
+        "rating": "8.7",
+        "imdb_id": "tt0519616",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Birds of a Feather",
+        "released": "1993-02-08",
+        "rating": "7.7",
+        "imdb_id": "tt0519574",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "53": {
+        "title": "Robin's Reckoning: Part II",
+        "released": "1993-02-14",
+        "rating": "8.6",
+        "imdb_id": "tt0519617",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "54": {
+        "title": "Blind as a Bat",
+        "released": "1993-02-22",
+        "rating": "7.4",
+        "imdb_id": "tt0519575",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "Day of the Samurai",
+        "released": "1993-02-23",
+        "rating": "7.8",
+        "imdb_id": "tt0519579",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "56": {
+        "title": "See No Evil",
+        "released": "1993-02-24",
+        "rating": "7.7",
+        "imdb_id": "tt0519619",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "57": {
+        "title": "The Demon's Quest: Part I",
+        "released": "1993-05-03",
+        "rating": "8.3",
+        "imdb_id": "tt0519629",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "58": {
+        "title": "The Demon's Quest: Part II",
+        "released": "1993-05-04",
+        "rating": "N/A",
+        "imdb_id": "tt0519630",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "59": {
+        "title": "Read My Lips",
+        "released": "1993-05-10",
+        "rating": "8.4",
+        "imdb_id": "tt0519614",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "60": {
+        "title": "Fire from Olympus",
+        "released": "1993-05-24",
+        "rating": "N/A",
+        "imdb_id": "tt0519586",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

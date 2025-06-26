@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "The Noose",
+        "released": "2017-12-21",
+        "rating": "9.4",
+        "imdb_id": "tt5755998",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S4\\Peaky.Blinders.S04E01.REPACK.1080p.HDTV.x264-MTBS4E1.zip"
+    },
+    "2": {
+        "title": "Heathens",
+        "released": "2017-12-21",
+        "rating": "9.0",
+        "imdb_id": "tt6227888",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S4\\Peaky.Blinders.S04E02.HDTV.x264-BRISKS4E2.zip"
+    },
+    "3": {
+        "title": "Blackbird",
+        "released": "2017-12-21",
+        "rating": "8.5",
+        "imdb_id": "tt6227890",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S4\\Peaky.Blinders.S04E03.Blackbird.iP.WEB-DL.AAC2.0.H.264-ViSUMS4E3.zip"
+    },
+    "4": {
+        "title": "Dangerous",
+        "released": "2017-12-21",
+        "rating": "8.5",
+        "imdb_id": "tt6227892",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S4\\Peaky.Blinders.S04E04.Dangerous.iP.WEB-DL.AAC2.0.H.264-ViSUMS4E4.zip"
+    },
+    "5": {
+        "title": "The Duel",
+        "released": "2017-12-21",
+        "rating": "8.7",
+        "imdb_id": "tt6227900",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S4\\Peaky.Blinders.S04E05.HDTV.XviD-RMXS4E5.zip"
+    },
+    "6": {
+        "title": "The Company",
+        "released": "2017-12-21",
+        "rating": "9.4",
+        "imdb_id": "tt6056650",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

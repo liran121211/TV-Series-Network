@@ -1,0 +1,50 @@
+{
+    "2": {
+        "title": "Briti$h Rich",
+        "released": "2015-05-22",
+        "rating": "N/A",
+        "imdb_id": "tt4727934",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Richie Rich\\Subtitles\\S2\\Richie Rich - S02E02 (2015) WEB.eng.zip"
+    },
+    "4": {
+        "title": "$tockholm Cowboy",
+        "released": "2015-05-22",
+        "rating": "N/A",
+        "imdb_id": "tt4732754",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Richie Rich\\Subtitles\\S2\\Richie Rich - S02E04 (2015) WEB.eng.zip"
+    },
+    "5": {
+        "title": "Plu$ One",
+        "released": "2015-05-22",
+        "rating": "N/A",
+        "imdb_id": "tt4732774",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Richie Rich\\Subtitles\\S2\\Richie Rich - S02E05 (2015) WEB.eng.zip"
+    },
+    "7": {
+        "title": "Fun and Game$",
+        "released": "2015-05-22",
+        "rating": "N/A",
+        "imdb_id": "tt4717764",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Richie Rich\\Subtitles\\S2\\SUBDL::richie-rich-second-season-english-3155194.zip"
+    },
+    "9": {
+        "title": "Meat the Camper$",
+        "released": "2015-05-22",
+        "rating": "N/A",
+        "imdb_id": "tt4732848",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Family Tie$",
+        "released": "2015-05-22",
+        "rating": "N/A",
+        "imdb_id": "tt4732864",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

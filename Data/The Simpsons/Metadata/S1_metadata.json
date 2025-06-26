@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Simpsons Roasting on an Open Fire",
+        "released": "1989-12-17",
+        "rating": "N/A",
+        "imdb_id": "tt0348034",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S10\\The.Simpsons.S10E01.WEB-DL.DSNPS10E1.zip"
+    },
+    "2": {
+        "title": "Bart the Genius",
+        "released": "1990-01-14",
+        "rating": "7.6",
+        "imdb_id": "tt0756593",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S10\\The.Simpsons.S10E02.WEB-DL.DSNPS10E2.zip"
+    },
+    "3": {
+        "title": "Homer's Odyssey",
+        "released": "1990-01-21",
+        "rating": "7.3",
+        "imdb_id": "tt0701124",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S10\\The.Simpsons.S10E03.WEB-DL.DSNPS10E3.zip"
+    },
+    "4": {
+        "title": "There's No Disgrace Like Home",
+        "released": "1990-01-28",
+        "rating": "7.6",
+        "imdb_id": "tt0756399",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S1\\The.Simpsons.S01E04.Theres.No.Disgrace.Like.Home.DVDRip.x264S1E4.zip"
+    },
+    "5": {
+        "title": "Bart the General",
+        "released": "1990-02-04",
+        "rating": "7.9",
+        "imdb_id": "tt0701059",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S11\\The.Simpsons.S11E05.WEB-DL.DSNPS11E5.zip"
+    },
+    "6": {
+        "title": "Moaning Lisa",
+        "released": "1990-02-11",
+        "rating": "7.6",
+        "imdb_id": "tt0701178",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S11\\The.Simpsons.S11E06.WEB-DL.DSNPS11E6.zip"
+    },
+    "7": {
+        "title": "The Call of the Simpsons",
+        "released": "1990-02-18",
+        "rating": "7.7",
+        "imdb_id": "tt0701228",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S10\\The.Simpsons.S10E07.WEB-DL.DSNPS10E7.zip"
+    },
+    "8": {
+        "title": "The Telltale Head",
+        "released": "1990-02-25",
+        "rating": "7.6",
+        "imdb_id": "tt0756398",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S10\\The.Simpsons.S10E08.WEB-DL.DSNPS10E8.zip"
+    },
+    "9": {
+        "title": "Life on the Fast Lane",
+        "released": "1990-03-18",
+        "rating": "7.4",
+        "imdb_id": "tt0701152",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S10\\The.Simpsons.S10E09.WEB-DL.DSNPS10E9.zip"
+    },
+    "10": {
+        "title": "Homer's Night Out",
+        "released": "1990-03-25",
+        "rating": "7.3",
+        "imdb_id": "tt0701123",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Crepes of Wrath",
+        "released": "1990-04-15",
+        "rating": "7.7",
+        "imdb_id": "tt0701232",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Krusty Gets Busted",
+        "released": "1990-04-29",
+        "rating": "8.3",
+        "imdb_id": "tt0701147",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Some Enchanted Evening",
+        "released": "1990-05-13",
+        "rating": "7.7",
+        "imdb_id": "tt0701215",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "1993-09-10",
+        "rating": "8.2",
+        "imdb_id": "tt0170817",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S1\\The.X-Files.S01E01_mHD.BluRay.DD5.1.x264-EPiK_EngS1E1.zip"
+    },
+    "2": {
+        "title": "Deep Throat",
+        "released": "1993-09-17",
+        "rating": "8.0",
+        "imdb_id": "tt0751099",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S1\\The_X-Files_S01E02_Deep_Throat_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S1E2.zip"
+    },
+    "3": {
+        "title": "Squeeze",
+        "released": "1993-09-24",
+        "rating": "8.5",
+        "imdb_id": "tt0751208",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S1\\The_X-Files_S01E03_Squeeze_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S1E3.zip"
+    },
+    "4": {
+        "title": "Conduit",
+        "released": "1993-10-01",
+        "rating": "7.5",
+        "imdb_id": "tt0751094",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S1\\The_X-Files_S01E04_Conduit_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S1E4.zip"
+    },
+    "5": {
+        "title": "The Jersey Devil",
+        "released": "1993-10-08",
+        "rating": "6.9",
+        "imdb_id": "tt0751229",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S1\\The_X-Files_S01E05_The_Jersey_Devil_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S1E5.zip"
+    },
+    "6": {
+        "title": "Shadows",
+        "released": "1993-10-22",
+        "rating": "7.2",
+        "imdb_id": "tt0751201",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S10\\The_X-Files_S10E06_My_Struggle_II_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S10E6.zip"
+    },
+    "7": {
+        "title": "Ghost in the Machine",
+        "released": "1993-10-29",
+        "rating": "N/A",
+        "imdb_id": "tt0751131",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S11\\The_X-Files_S11E07_Rm9sbG93ZXJz_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S11E7.zip"
+    },
+    "8": {
+        "title": "Ice",
+        "released": "1993-11-05",
+        "rating": "8.7",
+        "imdb_id": "tt0751141",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S11\\The_X-Files_S11E08_Familiar_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S11E8.zip"
+    },
+    "9": {
+        "title": "Space",
+        "released": "1993-11-12",
+        "rating": "6.2",
+        "imdb_id": "tt0751207",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S11\\The_X-Files_S11E09_Nothing_Lasts_Forever_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S11E9.zip"
+    },
+    "10": {
+        "title": "Fallen Angel",
+        "released": "1993-11-19",
+        "rating": "7.8",
+        "imdb_id": "tt0751120",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Eve",
+        "released": "1993-12-10",
+        "rating": "8.1",
+        "imdb_id": "tt0751116",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Fire",
+        "released": "1993-12-17",
+        "rating": "7.3",
+        "imdb_id": "tt0751124",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Beyond the Sea",
+        "released": "1994-01-07",
+        "rating": "8.6",
+        "imdb_id": "tt0751083",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Gender Bender",
+        "released": "1994-01-21",
+        "rating": "7.3",
+        "imdb_id": "tt0751129",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Lazarus",
+        "released": "1994-02-04",
+        "rating": "7.0",
+        "imdb_id": "tt0751152",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Young at Heart",
+        "released": "1994-02-11",
+        "rating": "7.2",
+        "imdb_id": "tt0751265",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "E.B.E.",
+        "released": "1994-02-18",
+        "rating": "N/A",
+        "imdb_id": "tt0751108",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Miracle Man",
+        "released": "1994-03-18",
+        "rating": "7.1",
+        "imdb_id": "tt0751162",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Shapes",
+        "released": "1994-04-01",
+        "rating": "7.0",
+        "imdb_id": "tt0751202",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Darkness Falls",
+        "released": "1994-04-15",
+        "rating": "N/A",
+        "imdb_id": "tt0751097",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Tooms",
+        "released": "1994-04-22",
+        "rating": "8.3",
+        "imdb_id": "tt0751246",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Born Again",
+        "released": "1994-04-29",
+        "rating": "7.1",
+        "imdb_id": "tt0751086",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Roland",
+        "released": "1994-05-06",
+        "rating": "N/A",
+        "imdb_id": "tt0751193",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "The Erlenmeyer Flask",
+        "released": "1994-05-13",
+        "rating": "8.9",
+        "imdb_id": "tt0751224",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Self Study",
+        "released": "2023-10-25",
+        "rating": "N/A",
+        "imdb_id": "tt27846004",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Strategy",
+        "released": "2023-10-25",
+        "rating": "N/A",
+        "imdb_id": "tt28283205",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Murphy's Law",
+        "released": "2023-10-25",
+        "rating": "N/A",
+        "imdb_id": "tt28283208",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Mock Interview",
+        "released": "2023-10-25",
+        "rating": "N/A",
+        "imdb_id": "tt28283209",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Final Interview",
+        "released": "2023-10-25",
+        "rating": "N/A",
+        "imdb_id": "tt28283211",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

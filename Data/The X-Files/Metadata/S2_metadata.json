@@ -1,0 +1,202 @@
+{
+    "1": {
+        "title": "Little Green Men",
+        "released": "1994-09-16",
+        "rating": "8.0",
+        "imdb_id": "tt0751154",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S2\\The_X-Files_S02E01_Little_Green_Men_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S2E1.zip"
+    },
+    "2": {
+        "title": "The Host",
+        "released": "1994-09-23",
+        "rating": "N/A",
+        "imdb_id": "tt0751228",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S2\\The_X-Files_S02E02_The_Host_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S2E2.zip"
+    },
+    "3": {
+        "title": "Blood",
+        "released": "1994-09-30",
+        "rating": "7.4",
+        "imdb_id": "tt0751085",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S2\\The_X-Files_S02E03_Blood_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S2E3.zip"
+    },
+    "4": {
+        "title": "Sleepless",
+        "released": "1994-10-07",
+        "rating": "7.6",
+        "imdb_id": "tt0751204",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S2\\The_X-Files_S02E04_Sleepless_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S2E4.zip"
+    },
+    "5": {
+        "title": "Duane Barry",
+        "released": "1994-10-14",
+        "rating": "8.6",
+        "imdb_id": "tt0751107",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S2\\The_X-Files_S02E05_Duane_Barry_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S2E5.zip"
+    },
+    "6": {
+        "title": "Ascension",
+        "released": "1994-10-21",
+        "rating": "N/A",
+        "imdb_id": "tt0751077",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S2\\The_X-Files_S02E06_Ascension_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S2E6.zip"
+    },
+    "7": {
+        "title": "3",
+        "released": "1994-11-04",
+        "rating": "6.3",
+        "imdb_id": "tt0751066",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S2\\The_X-Files_S02E07_3_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S2E7.zip"
+    },
+    "8": {
+        "title": "One Breath",
+        "released": "1994-11-11",
+        "rating": "N/A",
+        "imdb_id": "tt0751169",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S2\\The_X-Files_S02E08_One_Breath_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S2E8.zip"
+    },
+    "9": {
+        "title": "Firewalker",
+        "released": "1994-11-18",
+        "rating": "N/A",
+        "imdb_id": "tt0751125",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S2\\The_X-Files_S02E09_Firewalker_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S2E9.zip"
+    },
+    "10": {
+        "title": "Red Museum",
+        "released": "1994-12-09",
+        "rating": "7.6",
+        "imdb_id": "tt0751185",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Excelsis Dei",
+        "released": "1994-12-16",
+        "rating": "6.9",
+        "imdb_id": "tt0751117",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Aubrey",
+        "released": "1995-01-06",
+        "rating": "7.3",
+        "imdb_id": "tt0751078",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Irresistible",
+        "released": "1995-01-13",
+        "rating": "8.0",
+        "imdb_id": "tt0751144",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Die Hand Die Verletzt",
+        "released": "1995-01-27",
+        "rating": "N/A",
+        "imdb_id": "tt0751102",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Fresh Bones",
+        "released": "1995-02-03",
+        "rating": "7.1",
+        "imdb_id": "tt0751128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Colony",
+        "released": "1995-02-10",
+        "rating": "8.7",
+        "imdb_id": "tt0751093",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "End Game",
+        "released": "1995-02-17",
+        "rating": "8.7",
+        "imdb_id": "tt0751114",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Fearful Symmetry",
+        "released": "1995-02-24",
+        "rating": "6.4",
+        "imdb_id": "tt0751121",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Død Kalm",
+        "released": "1995-03-10",
+        "rating": "7.4",
+        "imdb_id": "tt0751103",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Humbug",
+        "released": "1995-03-31",
+        "rating": "8.6",
+        "imdb_id": "tt0751139",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Calusari",
+        "released": "1995-04-14",
+        "rating": "7.4",
+        "imdb_id": "tt0751222",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "F. Emasculata",
+        "released": "1995-04-28",
+        "rating": "8.0",
+        "imdb_id": "tt0751119",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Soft Light",
+        "released": "1995-05-05",
+        "rating": "7.8",
+        "imdb_id": "tt0751206",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Our Town",
+        "released": "1995-05-12",
+        "rating": "7.8",
+        "imdb_id": "tt0751173",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Anasazi",
+        "released": "1995-05-19",
+        "rating": "9.1",
+        "imdb_id": "tt0751074",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

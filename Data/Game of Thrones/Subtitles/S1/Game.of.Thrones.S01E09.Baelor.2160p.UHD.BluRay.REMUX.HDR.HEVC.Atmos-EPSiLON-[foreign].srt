@@ -1,0 +1,134 @@
+﻿1
+00:21:21,822 --> 00:21:24,116
+<font color="#ffff00">My lord...</font>
+
+2
+00:21:24,283 --> 00:21:26,744
+<font color="#ffff00">My sun and stars...</font>
+
+3
+00:21:42,218 --> 00:21:43,969
+<font color="#ffff00">My horse...</font>
+
+4
+00:21:44,094 --> 00:21:45,930
+<font color="#ffff00">Blood of my blood...</font>
+
+5
+00:21:46,055 --> 00:21:49,934
+<font color="#ffff00">No, I must ride.</font>
+
+6
+00:21:50,059 --> 00:21:52,436
+<font color="#ffff00">He fell from his horse.</font>
+
+7
+00:21:53,229 --> 00:21:57,149
+<font color="#ffff00">A Khal who cannot ride is no Khal.</font>
+
+8
+00:21:57,274 --> 00:22:00,361
+<font color="#ffff00">He's tired, that's all.
+He needs to rest.</font>
+
+9
+00:22:00,486 --> 00:22:04,698
+<font color="#ffff00">We've ridden far enough today.
+We'll camp here.</font>
+
+10
+00:22:04,824 --> 00:22:07,034
+<font color="#ffff00">This is no place to camp.</font>
+
+11
+00:22:07,159 --> 00:22:10,329
+<font color="#ffff00">A woman does not give us orders.
+Not even a Khaleesi.</font>
+
+12
+00:22:10,454 --> 00:22:14,416
+<font color="#ffff00">We'll camp here.
+Tell them Khal Drogo commanded it.</font>
+
+13
+00:22:14,542 --> 00:22:17,086
+<font color="#ffff00">You do not command me, Khaleesi.</font>
+
+14
+00:22:18,003 --> 00:22:20,339
+<font color="#ffff00">Find Mirri Maz Duur.
+Bring her to me.</font>
+
+15
+00:22:20,464 --> 00:22:23,050
+<font color="#ffff00">The witch?
+I'll bring you her head, Khaleesi.</font>
+
+16
+00:22:23,175 --> 00:22:28,931
+<font color="#ffff00">Bring her to me unharmed or Khal Drogo
+will hear why you denied me.</font>
+
+17
+00:29:09,831 --> 00:29:12,167
+<font color="#ffff00">You did this, witch.</font>
+
+18
+00:29:12,292 --> 00:29:14,086
+<font color="#ffff00">Stop it!</font>
+
+19
+00:29:14,211 --> 00:29:15,754
+<font color="#ffff00">I don't want her hurt.</font>
+
+20
+00:29:15,879 --> 00:29:21,051
+<font color="#ffff00">No? No? You don't want her hurt?</font>
+
+21
+00:29:21,593 --> 00:29:29,017
+<font color="#ffff00">Pray we don't hurt you, too.
+You let this witch put her hands on our Khal.</font>
+
+22
+00:29:29,142 --> 00:29:32,771
+<font color="#ffff00">Rein in your tongue.
+She is still your Khaleesi.</font>
+
+23
+00:29:32,896 --> 00:29:35,691
+<font color="#ffff00">Only while the blood of my blood lives.</font>
+
+24
+00:29:39,611 --> 00:29:43,615
+<font color="#ffff00">When he dies, she is nothing.</font>
+
+25
+00:29:48,662 --> 00:29:54,751
+<font color="#ffff00">I have never been nothing.
+I am the blood of the dragon.</font>
+
+26
+00:29:56,420 --> 00:30:02,259
+<font color="#ffff00">The dragons are all dead, Khaleesi.</font>
+
+27
+00:33:22,459 --> 00:33:23,710
+<font color="#ffff00">This must not be.</font>
+
+28
+00:33:23,835 --> 00:33:25,337
+<font color="#ffff00">This must be.</font>
+
+29
+00:33:25,462 --> 00:33:26,671
+<font color="#ffff00">Witch.</font>
+
+30
+00:33:29,007 --> 00:33:30,634
+<font color="#ffff00">No, you can't.</font>
+
+31
+00:33:34,137 --> 00:33:36,473
+<font color="#ffff00">No further, horselord.</font>
+

@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Episode I",
+        "released": "2020-04-19",
+        "rating": "9.0",
+        "imdb_id": "tt8434580",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Last Dance\\Subtitles\\S1\\The.Last.Dance.S01E01-E02.WEBRip.x264-ION10S1E1.zip"
+    },
+    "2": {
+        "title": "Episode II",
+        "released": "2020-04-19",
+        "rating": "8.9",
+        "imdb_id": "tt8434582",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode III",
+        "released": "2020-04-26",
+        "rating": "N/A",
+        "imdb_id": "tt8434584",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Last Dance\\Subtitles\\S1\\The.Last.Dance.S01E03-E04.WEBRip.x264-ION10S1E3.zip"
+    },
+    "4": {
+        "title": "Episode IV",
+        "released": "2020-04-26",
+        "rating": "9.1",
+        "imdb_id": "tt8434588",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode V",
+        "released": "2020-05-03",
+        "rating": "9.0",
+        "imdb_id": "tt8434590",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Last Dance\\Subtitles\\S1\\The.Last.Dance.S01E05-E06.WEBRip.x264-ION10S1E5.zip"
+    },
+    "6": {
+        "title": "Episode VI",
+        "released": "2020-05-03",
+        "rating": "8.8",
+        "imdb_id": "tt8434592",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode VII",
+        "released": "2020-05-10",
+        "rating": "9.1",
+        "imdb_id": "tt8434594",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Last Dance\\Subtitles\\S1\\The.Last.Dance.S01E07-E08.WEBRip.x264-ION10S1E7.zip"
+    },
+    "8": {
+        "title": "Episode VIII",
+        "released": "2020-05-10",
+        "rating": "9.2",
+        "imdb_id": "tt8434596",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode IX",
+        "released": "2020-05-17",
+        "rating": "9.2",
+        "imdb_id": "tt8434600",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Last Dance\\Subtitles\\S1\\The.Last.Dance.S01E09-E10.WEBRip.x264-ION10S1E9.zip"
+    },
+    "10": {
+        "title": "Episode X",
+        "released": "2020-05-17",
+        "rating": "9.5",
+        "imdb_id": "tt8434604",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

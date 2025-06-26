@@ -1,0 +1,114 @@
+{
+    "1": {
+        "title": "The Train Job",
+        "released": "2002-09-20",
+        "rating": "8.3",
+        "imdb_id": "tt0579539",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Firefly\\Subtitles\\S1\\Firefly.S01E01.WEB-DL.DSNPS1E1.zip"
+    },
+    "2": {
+        "title": "Bushwhacked",
+        "released": "2002-09-27",
+        "rating": "8.4",
+        "imdb_id": "tt0579528",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Firefly\\Subtitles\\S1\\Firefly.S01E02.WEB-DL.DSNPS1E2.zip"
+    },
+    "3": {
+        "title": "Our Mrs. Reynolds",
+        "released": "2002-10-04",
+        "rating": "9.0",
+        "imdb_id": "tt0579532",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Firefly\\Subtitles\\S1\\Firefly.S01E03.WEB-DL.DSNPS1E3.zip"
+    },
+    "4": {
+        "title": "Jaynestown",
+        "released": "2002-10-18",
+        "rating": "8.7",
+        "imdb_id": "tt0579530",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Firefly\\Subtitles\\S1\\Firefly.S01E04.WEB-DL.DSNPS1E4.zip"
+    },
+    "5": {
+        "title": "Out of Gas",
+        "released": "2002-10-25",
+        "rating": "9.3",
+        "imdb_id": "tt0579533",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Firefly\\Subtitles\\S1\\Firefly.S01E05.WEB-DL.DSNPS1E5.zip"
+    },
+    "6": {
+        "title": "Shindig",
+        "released": "2002-11-01",
+        "rating": "8.3",
+        "imdb_id": "tt0579537",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Firefly\\Subtitles\\S1\\Firefly.S01E06.WEB-DL.DSNPS1E6.zip"
+    },
+    "7": {
+        "title": "Safe",
+        "released": "2002-11-08",
+        "rating": "8.1",
+        "imdb_id": "tt0579534",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Firefly\\Subtitles\\S1\\Firefly.S01E07.WEB-DL.DSNPS1E7.zip"
+    },
+    "8": {
+        "title": "Ariel",
+        "released": "2002-11-15",
+        "rating": "9.0",
+        "imdb_id": "tt0579527",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Firefly\\Subtitles\\S1\\Firefly.S01E08.WEB-DL.DSNPS1E8.zip"
+    },
+    "9": {
+        "title": "War Stories",
+        "released": "2002-12-06",
+        "rating": "8.8",
+        "imdb_id": "tt0579541",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Firefly\\Subtitles\\S1\\Firefly.S01E09.WEB-DL.DSNPS1E9.zip"
+    },
+    "10": {
+        "title": "Objects in Space",
+        "released": "2002-12-13",
+        "rating": "9.2",
+        "imdb_id": "tt0579531",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Serenity",
+        "released": "2002-12-20",
+        "rating": "8.8",
+        "imdb_id": "tt0579535",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Heart of Gold",
+        "released": "2003-08-04",
+        "rating": "8.3",
+        "imdb_id": "tt0579529",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Trash",
+        "released": "2003-07-21",
+        "rating": "8.8",
+        "imdb_id": "tt0579540",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Message",
+        "released": "2003-07-28",
+        "rating": "8.4",
+        "imdb_id": "tt0579538",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

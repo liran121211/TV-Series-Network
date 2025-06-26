@@ -1,0 +1,194 @@
+{
+    "1": {
+        "title": "The One with Ross's New Girlfriend",
+        "released": "1995-09-21",
+        "rating": "8.4",
+        "imdb_id": "tt0583562",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S2\\Friends.S02E01.720p.BluRay.x264-PSYCHDS2E1.zip"
+    },
+    "2": {
+        "title": "The One with the Breast Milk",
+        "released": "1995-09-28",
+        "rating": "8.0",
+        "imdb_id": "tt0583583",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S2\\Friends.S02E02.720p.BluRay.x264-PSYCHDS2E2.zip"
+    },
+    "3": {
+        "title": "The One Where Heckles Dies",
+        "released": "1995-10-05",
+        "rating": "8.2",
+        "imdb_id": "tt0583453",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S2\\Friends.S02E03.720p.BluRay.x264-PSYCHDS2E3.zip"
+    },
+    "4": {
+        "title": "The One with Phoebe's Husband",
+        "released": "1995-10-12",
+        "rating": "7.8",
+        "imdb_id": "tt0583539",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S2\\Friends.S02E04.720p.BluRay.x264-PSYCHDS2E4.zip"
+    },
+    "5": {
+        "title": "The One with Five Steaks and an Eggplant",
+        "released": "1995-10-19",
+        "rating": "8.1",
+        "imdb_id": "tt0583519",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S2\\Friends.S02E05.720p.BluRay.x264-PSYCHDS2E5.zip"
+    },
+    "6": {
+        "title": "The One with the Baby on the Bus",
+        "released": "1995-11-02",
+        "rating": "8.4",
+        "imdb_id": "tt0583574",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S2\\Friends.S02E06.720p.BluRay.x264-PSYCHDS2E6.zip"
+    },
+    "7": {
+        "title": "The One Where Ross Finds Out",
+        "released": "1995-11-09",
+        "rating": "8.9",
+        "imdb_id": "tt0583481",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S2\\Friends.S02E07.720p.BluRay.x264-PSYCHDS2E7.zip"
+    },
+    "8": {
+        "title": "The One with the List",
+        "released": "1995-11-16",
+        "rating": "8.3",
+        "imdb_id": "tt0583625",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S2\\Friends.S02E08.720p.BluRay.x264-PSYCHDS2E8.zip"
+    },
+    "9": {
+        "title": "The One with Phoebe's Dad",
+        "released": "1995-12-14",
+        "rating": "7.8",
+        "imdb_id": "tt0583537",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S2\\Friends.S02E09.720p.BluRay.x264-PSYCHDS2E9.zip"
+    },
+    "10": {
+        "title": "The One with Russ",
+        "released": "1996-01-04",
+        "rating": "7.8",
+        "imdb_id": "tt0583567",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The One with the Lesbian Wedding",
+        "released": "1996-01-18",
+        "rating": "7.9",
+        "imdb_id": "tt0583624",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The One After the Superbowl: Part 1",
+        "released": "1996-01-28",
+        "rating": "N/A",
+        "imdb_id": "tt0583439",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The One After the Superbowl: Part 2",
+        "released": "1996-01-28",
+        "rating": "N/A",
+        "imdb_id": "tt0831047",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The One with the Prom Video",
+        "released": "1996-02-01",
+        "rating": "9.3",
+        "imdb_id": "tt0583635",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The One Where Ross and Rachel... You Know",
+        "released": "1996-02-08",
+        "rating": "8.7",
+        "imdb_id": "tt0583488",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The One Where Joey Moves Out",
+        "released": "1996-02-15",
+        "rating": "8.5",
+        "imdb_id": "tt0583456",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The One Where Eddie Moves In",
+        "released": "1996-02-22",
+        "rating": "8.1",
+        "imdb_id": "tt0583448",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The One Where Dr. Ramoray Dies",
+        "released": "1996-03-21",
+        "rating": "8.3",
+        "imdb_id": "tt0583447",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The One Where Eddie Won't Go",
+        "released": "1996-03-28",
+        "rating": "8.4",
+        "imdb_id": "tt0583449",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The One Where Old Yeller Dies",
+        "released": "1996-04-04",
+        "rating": "8.0",
+        "imdb_id": "tt0583465",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The One with the Bullies",
+        "released": "1996-04-25",
+        "rating": "7.9",
+        "imdb_id": "tt0583584",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The One with the Two Parties",
+        "released": "1996-05-02",
+        "rating": "8.9",
+        "imdb_id": "tt0583656",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "The One with the Chicken Pox",
+        "released": "1996-05-09",
+        "rating": "7.9",
+        "imdb_id": "tt0583591",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "The One with Barry and Mindy's Wedding",
+        "released": "1996-05-16",
+        "rating": "8.1",
+        "imdb_id": "tt0583514",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "And Then There Were 10",
+        "released": "2005-12-27",
+        "rating": "8.0",
+        "imdb_id": "tt0769845",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Washington B.C.",
+        "released": "2006-01-13",
+        "rating": "7.2",
+        "imdb_id": "tt0803915",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Krakken",
+        "released": "2006-01-14",
+        "rating": "7.3",
+        "imdb_id": "tt0803913",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Permanent Retirement",
+        "released": "2006-01-21",
+        "rating": "7.3",
+        "imdb_id": "tt0803909",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Hunted",
+        "released": "2006-01-28",
+        "rating": "8.2",
+        "imdb_id": "tt0803905",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Tourist Trap",
+        "released": "2006-02-04",
+        "rating": "7.0",
+        "imdb_id": "tt0803914",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Kevin 11",
+        "released": "2006-02-11",
+        "rating": "8.4",
+        "imdb_id": "tt0803906",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Alliance",
+        "released": "2006-02-18",
+        "rating": "7.6",
+        "imdb_id": "tt0803912",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Last Laugh",
+        "released": "2006-02-25",
+        "rating": "8.1",
+        "imdb_id": "tt0803907",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Lucky Girl",
+        "released": "2006-02-18",
+        "rating": "7.8",
+        "imdb_id": "tt0803908",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "A Small Problem",
+        "released": "2006-03-11",
+        "rating": "7.5",
+        "imdb_id": "tt0803904",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Side Effects",
+        "released": "2006-03-18",
+        "rating": "7.1",
+        "imdb_id": "tt0803911",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Secrets",
+        "released": "2006-03-25",
+        "rating": "8.8",
+        "imdb_id": "tt0803910",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

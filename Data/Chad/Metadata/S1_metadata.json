@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2021-04-06",
+        "rating": "4.2",
+        "imdb_id": "tt9815470",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Sword",
+        "released": "2021-04-13",
+        "rating": "4.1",
+        "imdb_id": "tt12782838",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Ikrimah Breakup",
+        "released": "2021-04-20",
+        "rating": "4.4",
+        "imdb_id": "tt12782840",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "K-POP",
+        "released": "2021-04-27",
+        "rating": "3.9",
+        "imdb_id": "tt12782844",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Whiskey Slaps",
+        "released": "2021-05-04",
+        "rating": "N/A",
+        "imdb_id": "tt12782846",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Lakehouse",
+        "released": "2021-05-18",
+        "rating": "3.4",
+        "imdb_id": "tt12782852",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Finale",
+        "released": "2021-05-25",
+        "rating": "N/A",
+        "imdb_id": "tt12782850",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

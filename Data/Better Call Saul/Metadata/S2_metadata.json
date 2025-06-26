@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Switch",
+        "released": "2016-02-15",
+        "rating": "8.2",
+        "imdb_id": "tt3824148",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S2\\Better.Call.Saul.S02E01.Switch.720p.WEB-DL.DD5.1.H.264-DRHD1S2E1.zip"
+    },
+    "2": {
+        "title": "Cobbler",
+        "released": "2016-02-22",
+        "rating": "8.4",
+        "imdb_id": "tt4462674",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S2\\Better.Call.Saul.S02E02.WEB-DL.x264-RARBGS2E2.zip"
+    },
+    "3": {
+        "title": "Amarillo",
+        "released": "2016-02-29",
+        "rating": "8.2",
+        "imdb_id": "tt4462676",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S2\\Better.Call.Saul.S02E03.Amarillo.720p.WEB-DL.DD5.1.H.264-OoshS2E3.zip"
+    },
+    "4": {
+        "title": "Gloves Off",
+        "released": "2016-03-07",
+        "rating": "8.9",
+        "imdb_id": "tt4462678",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S2\\Better.Call.Saul.S02E04.Gloves.Off.720p.WEB-DL.DD5.1.H264-DRACULAS2E4.zip"
+    },
+    "5": {
+        "title": "Rebecca",
+        "released": "2016-03-14",
+        "rating": "7.9",
+        "imdb_id": "tt4462682",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S2\\Better.Call.Saul.S02E05.Rebecca.720p.WEB-DL.DD5.1.H264-DRACULAS2E5.zip"
+    },
+    "6": {
+        "title": "Bali Ha'i",
+        "released": "2016-03-21",
+        "rating": "N/A",
+        "imdb_id": "tt4462680",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S2\\Better.Call.Saul.S02E06.WEB-DL.XviD-FUM[ettv]S2E6.zip"
+    },
+    "7": {
+        "title": "Inflatable",
+        "released": "2016-03-28",
+        "rating": "8.3",
+        "imdb_id": "tt4462684",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S2\\Better.Call.Saul.S02E07.WEB-DL.XviD-FUM[ettv]S2E7.zip"
+    },
+    "8": {
+        "title": "Fifi",
+        "released": "2016-04-04",
+        "rating": "8.3",
+        "imdb_id": "tt4462686",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S2\\Better.Call.Saul.S02E08.WEB-DL.XviD-FUMS2E8.zip"
+    },
+    "9": {
+        "title": "Nailed",
+        "released": "2016-04-11",
+        "rating": "9.3",
+        "imdb_id": "tt4462688",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S2\\Better.Call.Saul.S02E09.Nailed.720p.WEB-DL.DD5.1.H264-DRACULAS2E9.zip"
+    },
+    "10": {
+        "title": "Klick",
+        "released": "2016-04-18",
+        "rating": "9.0",
+        "imdb_id": "tt4462690",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

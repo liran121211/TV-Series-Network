@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Episode #5.1",
+        "released": "2012-04-15",
+        "rating": "N/A",
+        "imdb_id": "tt2356621",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #5.3",
+        "released": "2012-04-22",
+        "rating": "N/A",
+        "imdb_id": "tt2362663",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #5.4",
+        "released": "2012-04-25",
+        "rating": "N/A",
+        "imdb_id": "tt2362665",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #5.5",
+        "released": "2012-04-29",
+        "rating": "N/A",
+        "imdb_id": "tt2362667",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #5.6",
+        "released": "2012-05-13",
+        "rating": "N/A",
+        "imdb_id": "tt2362669",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #5.7",
+        "released": "2012-05-16",
+        "rating": "N/A",
+        "imdb_id": "tt2385993",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode #5.9",
+        "released": "2012-05-23",
+        "rating": "N/A",
+        "imdb_id": "tt2385997",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Only Way Is Marbs",
+        "released": "2012-06-13",
+        "rating": "N/A",
+        "imdb_id": "tt2191234",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

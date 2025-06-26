@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "Yuppy Love",
+        "released": "1989-01-08",
+        "rating": "9.2",
+        "imdb_id": "tt0666595",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Danger UXD",
+        "released": "1989-01-15",
+        "rating": "9.1",
+        "imdb_id": "tt0666543",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Chain Gang",
+        "released": "1989-01-22",
+        "rating": "9.2",
+        "imdb_id": "tt0666540",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Unlucky Winner Is...",
+        "released": "1989-01-29",
+        "rating": "9.1",
+        "imdb_id": "tt0666583",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Sickness & Wealth",
+        "released": "1989-02-05",
+        "rating": "8.3",
+        "imdb_id": "tt0666567",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Little Problems",
+        "released": "1989-02-12",
+        "rating": "8.9",
+        "imdb_id": "tt0666559",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Jolly Boys' Outing",
+        "released": "1989-12-25",
+        "rating": "9.6",
+        "imdb_id": "tt0666576",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "1": {
+        "title": "Redemption II",
+        "released": "1991-09-21",
+        "rating": "8.4",
+        "imdb_id": "tt0170501",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Darmok",
+        "released": "1991-09-28",
+        "rating": "8.7",
+        "imdb_id": "tt0708696",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Ensign Ro",
+        "released": "1991-10-05",
+        "rating": "7.8",
+        "imdb_id": "tt0708708",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Silicon Avatar",
+        "released": "1991-10-12",
+        "rating": "7.2",
+        "imdb_id": "tt0708774",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Disaster",
+        "released": "1991-10-19",
+        "rating": "7.9",
+        "imdb_id": "tt0708703",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Game",
+        "released": "1991-10-26",
+        "rating": "7.4",
+        "imdb_id": "tt0708798",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Unification I",
+        "released": "1991-11-02",
+        "rating": "8.2",
+        "imdb_id": "tt0708835",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Unification II",
+        "released": "1991-11-09",
+        "rating": "8.3",
+        "imdb_id": "tt0708836",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "A Matter of Time",
+        "released": "1991-11-16",
+        "rating": "7.2",
+        "imdb_id": "tt0708672",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "New Ground",
+        "released": "1992-01-04",
+        "rating": "6.5",
+        "imdb_id": "tt0708750",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Hero Worship",
+        "released": "1992-01-25",
+        "rating": "6.6",
+        "imdb_id": "tt0708727",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Violations",
+        "released": "1992-02-01",
+        "rating": "6.2",
+        "imdb_id": "tt0708839",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Masterpiece Society",
+        "released": "1992-02-08",
+        "rating": "6.7",
+        "imdb_id": "tt0708806",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Conundrum",
+        "released": "1992-02-15",
+        "rating": "8.2",
+        "imdb_id": "tt0708693",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Power Play",
+        "released": "1992-02-22",
+        "rating": "7.3",
+        "imdb_id": "tt0708756",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Ethics",
+        "released": "1992-02-29",
+        "rating": "7.2",
+        "imdb_id": "tt0708709",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Outcast",
+        "released": "1992-03-14",
+        "rating": "6.8",
+        "imdb_id": "tt0708815",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Cause and Effect",
+        "released": "1992-03-21",
+        "rating": "8.9",
+        "imdb_id": "tt0162905",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The First Duty",
+        "released": "1992-03-28",
+        "rating": "7.8",
+        "imdb_id": "tt0708797",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Cost of Living",
+        "released": "1992-04-18",
+        "rating": "6.1",
+        "imdb_id": "tt0708694",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Perfect Mate",
+        "released": "1992-04-25",
+        "rating": "7.3",
+        "imdb_id": "tt0708818",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Imaginary Friend",
+        "released": "1992-05-02",
+        "rating": "6.0",
+        "imdb_id": "tt0708734",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "I Borg",
+        "released": "1992-05-09",
+        "rating": "8.8",
+        "imdb_id": "tt0708732",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "The Next Phase",
+        "released": "1992-05-16",
+        "rating": "8.3",
+        "imdb_id": "tt0708812",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "The Inner Light",
+        "released": "1992-05-30",
+        "rating": "9.4",
+        "imdb_id": "tt0708803",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Time's Arrow",
+        "released": "1992-06-13",
+        "rating": "8.3",
+        "imdb_id": "tt0708828",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Episode #2.1",
+        "released": "2023-11-13",
+        "rating": "N/A",
+        "imdb_id": "tt29691817",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Persona\\Subtitles\\S2\\Persona.Sahsiyet.S02E01.WEBEnglishS2E1.zip"
+    },
+    "2": {
+        "title": "Episode #2.2",
+        "released": "2023-11-13",
+        "rating": "N/A",
+        "imdb_id": "tt29961214",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Persona\\Subtitles\\S2\\Persona.Sahsiyet.S02E02.WEBEnglishS2E2.zip"
+    },
+    "3": {
+        "title": "Episode #2.3",
+        "released": "2023-11-19",
+        "rating": "N/A",
+        "imdb_id": "tt30061625",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #2.4",
+        "released": "2023-11-26",
+        "rating": "N/A",
+        "imdb_id": "tt30176030",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Persona\\Subtitles\\S2\\Persona.Sahsiyet.S02E04.WEBEnglishS2E4.zip"
+    },
+    "5": {
+        "title": "Episode #2.5",
+        "released": "2023-12-03",
+        "rating": "N/A",
+        "imdb_id": "tt30273602",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Persona\\Subtitles\\S2\\Persona.Sahsiyet.S02E05.WEBEnglishS2E5.zip"
+    },
+    "6": {
+        "title": "Episode #2.6",
+        "released": "2023-12-10",
+        "rating": "N/A",
+        "imdb_id": "tt30387249",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #2.7",
+        "released": "2023-12-17",
+        "rating": "N/A",
+        "imdb_id": "tt30399517",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Persona\\Subtitles\\S2\\Persona.Sahsiyet.S02E07.WEBEnglishS2E7.zip"
+    },
+    "8": {
+        "title": "Episode #2.8",
+        "released": "2023-12-24",
+        "rating": "N/A",
+        "imdb_id": "tt30523444",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode #2.9",
+        "released": "2023-12-31",
+        "rating": "N/A",
+        "imdb_id": "tt30745395",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Episode #2.10",
+        "released": "2024-01-07",
+        "rating": "N/A",
+        "imdb_id": "tt30784532",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Bane",
+        "released": "1994-09-10",
+        "rating": "8.1",
+        "imdb_id": "tt0519570",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Second Chance",
+        "released": "1994-09-17",
+        "rating": "8.5",
+        "imdb_id": "tt0519618",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Riddler's Reform",
+        "released": "1994-09-24",
+        "rating": "8.0",
+        "imdb_id": "tt0519615",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Baby-Doll",
+        "released": "1994-10-01",
+        "rating": "7.8",
+        "imdb_id": "tt0519569",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Time Out of Joint",
+        "released": "1994-10-08",
+        "rating": "7.5",
+        "imdb_id": "tt0519642",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Harley's Holiday",
+        "released": "1994-10-15",
+        "rating": "8.6",
+        "imdb_id": "tt0519589",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Make 'Em Laugh",
+        "released": "1994-11-05",
+        "rating": "7.5",
+        "imdb_id": "tt0519602",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Batgirl Returns",
+        "released": "1994-11-12",
+        "rating": "N/A",
+        "imdb_id": "tt0519571",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Lock-Up",
+        "released": "1994-11-19",
+        "rating": "7.5",
+        "imdb_id": "tt0519600",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Deep Freeze",
+        "released": "1994-11-26",
+        "rating": "8.1",
+        "imdb_id": "tt0519580",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

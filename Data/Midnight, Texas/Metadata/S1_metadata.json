@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2017-07-24",
+        "rating": "7.8",
+        "imdb_id": "tt5735866",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Bad Moon Rising",
+        "released": "2017-07-31",
+        "rating": "7.7",
+        "imdb_id": "tt6170944",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Lemuel, Unchained",
+        "released": "2017-08-07",
+        "rating": "7.7",
+        "imdb_id": "tt6149456",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Sexy Beast",
+        "released": "2017-08-14",
+        "rating": "7.8",
+        "imdb_id": "tt6365078",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Unearthed",
+        "released": "2017-08-21",
+        "rating": "7.8",
+        "imdb_id": "tt6365080",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Blinded by the Light",
+        "released": "2017-08-28",
+        "rating": "N/A",
+        "imdb_id": "tt6365084",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Angel Heart",
+        "released": "2017-09-04",
+        "rating": "N/A",
+        "imdb_id": "tt6365088",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Last Temptation of Midnight",
+        "released": "2017-09-11",
+        "rating": "N/A",
+        "imdb_id": "tt6365090",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Riders on the Storm",
+        "released": "2017-09-13",
+        "rating": "N/A",
+        "imdb_id": "tt6365092",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Virgin Sacrifice",
+        "released": "2017-09-18",
+        "rating": "N/A",
+        "imdb_id": "tt6365096",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

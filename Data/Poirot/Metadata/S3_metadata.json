@@ -1,0 +1,90 @@
+{
+    "1": {
+        "title": "The Mysterious Affair at Styles",
+        "released": "1990-09-16",
+        "rating": "7.9",
+        "imdb_id": "tt0100216",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S13\\Agatha_Christie__Poirot_S13E01_-_Elephants_Can_Remember.HDTV.thebox.Hannibal.HIS13E1.zip"
+    },
+    "2": {
+        "title": "How Does Your Garden Grow?",
+        "released": "1991-01-06",
+        "rating": "7.6",
+        "imdb_id": "tt0676153",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S13\\Agatha_Christie-_Poirot_S13E02_HDTV.x264-RiVERS13E2.zip"
+    },
+    "3": {
+        "title": "The Million Dollar Bond Robbery",
+        "released": "1991-01-13",
+        "rating": "7.6",
+        "imdb_id": "tt0676180",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S13\\Agatha_Christie-_Poirot_S13E03_HDTV.x264-RiVERS13E3.zip"
+    },
+    "4": {
+        "title": "The Plymouth Express",
+        "released": "1991-01-20",
+        "rating": "7.4",
+        "imdb_id": "tt0676185",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Wasps' Nest",
+        "released": "1991-01-27",
+        "rating": "7.7",
+        "imdb_id": "tt0676193",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Tragedy at Marsdon Manor",
+        "released": "1991-02-03",
+        "rating": "7.6",
+        "imdb_id": "tt0676189",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Double Clue",
+        "released": "1991-02-10",
+        "rating": "7.3",
+        "imdb_id": "tt0394838",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Mystery of the Spanish Chest",
+        "released": "1991-02-17",
+        "rating": "7.6",
+        "imdb_id": "tt0676184",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Theft of the Royal Ruby",
+        "released": "1991-02-24",
+        "rating": "7.5",
+        "imdb_id": "tt0676187",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Affair at the Victory Ball",
+        "released": "1991-03-03",
+        "rating": "7.5",
+        "imdb_id": "tt0244952",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Mystery of Hunter's Lodge",
+        "released": "1991-03-10",
+        "rating": "7.5",
+        "imdb_id": "tt0676182",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "The Return",
+        "released": "2015-02-10",
+        "rating": "N/A",
+        "imdb_id": "tt4420542",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Love Your Enemies",
+        "released": "2015-02-24",
+        "rating": "N/A",
+        "imdb_id": "tt4513680",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Forbidden Knowledge",
+        "released": "2015-03-03",
+        "rating": "N/A",
+        "imdb_id": "tt4612866",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Merlin's Judas",
+        "released": "2015-03-10",
+        "rating": "N/A",
+        "imdb_id": "tt5067096",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Amish Confidential",
+        "released": "2015-04-06",
+        "rating": "N/A",
+        "imdb_id": "tt5067116",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "The Winter of Our Monetized Content",
+        "released": "2019-09-29",
+        "rating": "5.9",
+        "imdb_id": "tt10933664",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S31\\The.Simpsons.S31E01.WEB.x264-TBS.HIS31E1.zip"
+    },
+    "2": {
+        "title": "Go Big or Go Homer",
+        "released": "2019-10-06",
+        "rating": "6.0",
+        "imdb_id": "tt8340902",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S31\\The.Simpsons.S31E02.WEBRip.x264-ION10.HIS31E2.zip"
+    },
+    "3": {
+        "title": "The Fat Blue Line",
+        "released": "2019-10-13",
+        "rating": "6.5",
+        "imdb_id": "tt10750102",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S31\\The.Simpsons.S31E03.WEB.x264-TBS.HIS31E3.zip"
+    },
+    "4": {
+        "title": "Treehouse of Horror XXX",
+        "released": "2019-10-20",
+        "rating": "6.8",
+        "imdb_id": "tt10750104",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S31\\The.Simpsons.S31E04.WEB.x264-TBS.HIS31E4.zip"
+    },
+    "5": {
+        "title": "Gorillas on the Mast",
+        "released": "2019-11-03",
+        "rating": "6.3",
+        "imdb_id": "tt10773704",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S31\\The.Simpsons.S31E05.WEB.x264-TBS.HIS31E5.zip"
+    },
+    "6": {
+        "title": "Marge the Lumberjill",
+        "released": "2019-11-10",
+        "rating": "5.7",
+        "imdb_id": "tt10773960",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S31\\The.Simpsons.S31E06.WEB.x264-XLF.HIS31E6.zip"
+    },
+    "7": {
+        "title": "Livin la Pura Vida",
+        "released": "2019-11-17",
+        "rating": "6.6",
+        "imdb_id": "tt10773962",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S31\\The.Simpsons.S31E07.WEBRip.x264-ION10.HIS31E7.zip"
+    },
+    "8": {
+        "title": "Thanksgiving of Horror",
+        "released": "2019-11-24",
+        "rating": "7.4",
+        "imdb_id": "tt11199326",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S31\\The.Simpsons.S31E08.WEBRip.x264-ION10.HIS31E8.zip"
+    },
+    "9": {
+        "title": "Todd, Todd, Why Hast Thou Forsaken Me?",
+        "released": "2019-12-01",
+        "rating": "6.5",
+        "imdb_id": "tt11254392",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S31\\The.Simpsons.S31E09.1080p.WEB.x264-TBS.HIS31E9.zip"
+    },
+    "10": {
+        "title": "Bobby, It's Cold Outside",
+        "released": "2019-12-15",
+        "rating": "6.5",
+        "imdb_id": "tt11312740",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Hail to the Teeth",
+        "released": "2020-01-05",
+        "rating": "6.1",
+        "imdb_id": "tt11312750",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Miseducation of Lisa Simpson",
+        "released": "2020-02-16",
+        "rating": "6.6",
+        "imdb_id": "tt11312752",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Frinkcoin",
+        "released": "2020-02-23",
+        "rating": "6.0",
+        "imdb_id": "tt11168734",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Bart the Bad Guy",
+        "released": "2020-03-01",
+        "rating": "7.2",
+        "imdb_id": "tt11312808",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Screenless",
+        "released": "2020-03-08",
+        "rating": "6.6",
+        "imdb_id": "tt11755328",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Better Off Ned",
+        "released": "2020-03-15",
+        "rating": "6.5",
+        "imdb_id": "tt11755350",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Highway to Well",
+        "released": "2020-03-22",
+        "rating": "6.9",
+        "imdb_id": "tt11755338",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Incredible Lightness of Being a Baby",
+        "released": "2020-04-19",
+        "rating": "6.4",
+        "imdb_id": "tt11873248",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Warrin' Priests",
+        "released": "2020-04-26",
+        "rating": "6.1",
+        "imdb_id": "tt11969864",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Warrin' Priests: Part 2",
+        "released": "2020-05-03",
+        "rating": "5.7",
+        "imdb_id": "tt11969902",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Hateful Eight-Year-Olds",
+        "released": "2020-05-10",
+        "rating": "6.6",
+        "imdb_id": "tt11969914",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Way of the Dog",
+        "released": "2020-05-17",
+        "rating": "N/A",
+        "imdb_id": "tt11969980",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Kalahari",
+        "released": "2013-01-02",
+        "rating": "8.8",
+        "imdb_id": "tt2638010",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Savannah",
+        "released": "2013-01-09",
+        "rating": "8.5",
+        "imdb_id": "tt2652676",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Congo",
+        "released": "2013-01-16",
+        "rating": "8.5",
+        "imdb_id": "tt2652678",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Cape",
+        "released": "2013-01-23",
+        "rating": "8.4",
+        "imdb_id": "tt2652680",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Sahara",
+        "released": "2013-01-30",
+        "rating": "8.4",
+        "imdb_id": "tt2652692",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Future",
+        "released": "2013-02-06",
+        "rating": "8.2",
+        "imdb_id": "tt2652694",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

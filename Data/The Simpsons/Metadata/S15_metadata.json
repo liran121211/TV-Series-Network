@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Treehouse of Horror XIV",
+        "released": "2003-11-02",
+        "rating": "N/A",
+        "imdb_id": "tt0701285",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E01.WEB-DL.DSNPS15E1.zip"
+    },
+    "2": {
+        "title": "My Mother the Carjacker",
+        "released": "2003-11-09",
+        "rating": "7.2",
+        "imdb_id": "tt0701188",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E02.WEB-DL.DSNPS15E2.zip"
+    },
+    "3": {
+        "title": "The President Wore Pearls",
+        "released": "2003-11-16",
+        "rating": "6.9",
+        "imdb_id": "tt0701256",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E03.WEB-DL.DSNPS15E3.zip"
+    },
+    "4": {
+        "title": "The Regina Monologues",
+        "released": "2003-11-23",
+        "rating": "7.0",
+        "imdb_id": "tt0701258",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E04.WEB-DL.DSNPS15E4.zip"
+    },
+    "5": {
+        "title": "The Fat and the Furriest",
+        "released": "2003-11-30",
+        "rating": "7.1",
+        "imdb_id": "tt0701235",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E05.WEB-DL.DSNPS15E5.zip"
+    },
+    "6": {
+        "title": "Today, I Am a Clown",
+        "released": "2003-12-07",
+        "rating": "6.4",
+        "imdb_id": "tt0701276",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E06.WEB-DL.DSNPS15E6.zip"
+    },
+    "7": {
+        "title": "'Tis the Fifteenth Season",
+        "released": "2003-12-14",
+        "rating": "7.0",
+        "imdb_id": "tt0789632",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E07.WEB-DL.DSNPS15E7.zip"
+    },
+    "8": {
+        "title": "Marge vs. Singles, Seniors, Childless Couples and Teens and Gays",
+        "released": "2004-01-04",
+        "rating": "6.6",
+        "imdb_id": "tt0763034",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E08.WEB-DL.DSNPS15E8.zip"
+    },
+    "9": {
+        "title": "I, (Annoyed Grunt)-Bot",
+        "released": "2004-01-11",
+        "rating": "7.3",
+        "imdb_id": "tt0763032",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E09.WEB-DL.DSNPS15E9.zip"
+    },
+    "10": {
+        "title": "Diatribe of a Mad Housewife",
+        "released": "2004-01-25",
+        "rating": "7.2",
+        "imdb_id": "tt0701088",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Margical History Tour",
+        "released": "2004-02-08",
+        "rating": "7.1",
+        "imdb_id": "tt0784540",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Milhouse Doesn't Live Here Anymore",
+        "released": "2004-02-15",
+        "rating": "7.2",
+        "imdb_id": "tt0701175",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Smart & Smarter",
+        "released": "2004-02-22",
+        "rating": "7.1",
+        "imdb_id": "tt0701214",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Ziff Who Came to Dinner",
+        "released": "2004-03-14",
+        "rating": "6.6",
+        "imdb_id": "tt0701271",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Co-Dependent's Day",
+        "released": "2004-03-21",
+        "rating": "6.7",
+        "imdb_id": "tt0701081",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Wandering Juvie",
+        "released": "2004-03-28",
+        "rating": "7.0",
+        "imdb_id": "tt0701268",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "My Big Fat Geek Wedding",
+        "released": "2004-04-18",
+        "rating": "N/A",
+        "imdb_id": "tt0701187",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Catch 'Em If You Can",
+        "released": "2004-04-25",
+        "rating": "7.1",
+        "imdb_id": "tt0784101",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Simple Simpson",
+        "released": "2004-05-02",
+        "rating": "7.3",
+        "imdb_id": "tt0701209",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Way We Weren't",
+        "released": "2004-05-09",
+        "rating": "7.2",
+        "imdb_id": "tt0784545",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Bart-Mangled Banner",
+        "released": "2004-05-16",
+        "rating": "6.3",
+        "imdb_id": "tt0763027",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Fraudcast News",
+        "released": "2004-05-23",
+        "rating": "7.2",
+        "imdb_id": "tt0763030",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

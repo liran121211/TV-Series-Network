@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Anfänge und Enden",
+        "released": "2019-06-21",
+        "rating": "8.7",
+        "imdb_id": "tt7787482",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Dunkle Materie",
+        "released": "2019-06-21",
+        "rating": "8.8",
+        "imdb_id": "tt10454716",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Gespenster",
+        "released": "2019-06-21",
+        "rating": "9.0",
+        "imdb_id": "tt10454722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Die Reisenden",
+        "released": "2019-06-21",
+        "rating": "9.4",
+        "imdb_id": "tt10454726",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Vom Suchen und Finden",
+        "released": "2019-06-21",
+        "rating": "9.2",
+        "imdb_id": "tt10454732",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Ein unendlicher Kreis",
+        "released": "2019-06-21",
+        "rating": "N/A",
+        "imdb_id": "tt10454734",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Der weiße Teufel",
+        "released": "2019-06-21",
+        "rating": "9.1",
+        "imdb_id": "tt10457652",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Enden und Anfänge",
+        "released": "2019-06-21",
+        "rating": "9.4",
+        "imdb_id": "tt10457654",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

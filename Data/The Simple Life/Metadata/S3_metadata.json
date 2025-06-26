@@ -1,0 +1,66 @@
+{
+    "3": {
+        "title": "Airline",
+        "released": "2005-02-09",
+        "rating": "N/A",
+        "imdb_id": "tt0816938",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Mortuary",
+        "released": "2005-02-16",
+        "rating": "N/A",
+        "imdb_id": "tt0816940",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Plastic Surgery",
+        "released": "2005-02-23",
+        "rating": "N/A",
+        "imdb_id": "tt0701031",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Daycare",
+        "released": "2005-03-09",
+        "rating": "N/A",
+        "imdb_id": "tt0778445",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Zoo",
+        "released": "2005-03-16",
+        "rating": "4.0",
+        "imdb_id": "tt0816946",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Bakery",
+        "released": "2005-03-23",
+        "rating": "3.7",
+        "imdb_id": "tt0844439",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Psychic",
+        "released": "2005-03-30",
+        "rating": "N/A",
+        "imdb_id": "tt0816942",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Firefighters",
+        "released": "2005-04-20",
+        "rating": "3.5",
+        "imdb_id": "tt0816939",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

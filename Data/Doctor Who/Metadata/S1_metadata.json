@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Rose",
+        "released": "2006-03-17",
+        "rating": "7.5",
+        "imdb_id": "tt0562992",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The End of the World",
+        "released": "2006-03-17",
+        "rating": "7.5",
+        "imdb_id": "tt0562997",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Unquiet Dead",
+        "released": "2006-03-24",
+        "rating": "7.4",
+        "imdb_id": "tt0563001",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Aliens of London",
+        "released": "2006-03-31",
+        "rating": "6.9",
+        "imdb_id": "tt0562985",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "World War Three",
+        "released": "2006-04-07",
+        "rating": "6.9",
+        "imdb_id": "tt0563003",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Dalek",
+        "released": "2006-04-14",
+        "rating": "8.6",
+        "imdb_id": "tt0562988",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Long Game",
+        "released": "2006-04-21",
+        "rating": "7.0",
+        "imdb_id": "tt0562999",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Father's Day",
+        "released": "2006-04-28",
+        "rating": "8.3",
+        "imdb_id": "tt0562989",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Empty Child",
+        "released": "2006-05-05",
+        "rating": "9.0",
+        "imdb_id": "tt0562996",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Doctor Dances",
+        "released": "2006-05-12",
+        "rating": "9.0",
+        "imdb_id": "tt0562995",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Boom Town",
+        "released": "2006-05-19",
+        "rating": "7.1",
+        "imdb_id": "tt0562987",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Bad Wolf",
+        "released": "2006-06-02",
+        "rating": "8.6",
+        "imdb_id": "tt0562986",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Parting of the Ways",
+        "released": "2006-06-09",
+        "rating": "9.0",
+        "imdb_id": "tt0563000",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

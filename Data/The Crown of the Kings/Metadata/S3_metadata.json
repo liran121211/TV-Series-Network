@@ -1,0 +1,642 @@
+{
+    "1": {
+        "title": "Episode 246",
+        "released": "2019-09-09",
+        "rating": "N/A",
+        "imdb_id": "tt10266236",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode 247",
+        "released": "2019-09-10",
+        "rating": "N/A",
+        "imdb_id": "tt10266238",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode 248",
+        "released": "2019-09-11",
+        "rating": "N/A",
+        "imdb_id": "tt10266244",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode 249",
+        "released": "2019-09-12",
+        "rating": "N/A",
+        "imdb_id": "tt10790590",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode 250",
+        "released": "2019-09-16",
+        "rating": "N/A",
+        "imdb_id": "tt10545492",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Beilager",
+        "released": "2019-09-18",
+        "rating": "N/A",
+        "imdb_id": "tt10545496",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "God did not make death, and He does not delight in the death of the living",
+        "released": "2019-09-19",
+        "rating": "N/A",
+        "imdb_id": "tt10545498",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Sons of the King who had no sons",
+        "released": "2019-09-23",
+        "rating": "N/A",
+        "imdb_id": "tt10545502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Brothers",
+        "released": "2019-09-24",
+        "rating": "N/A",
+        "imdb_id": "tt10545504",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Contrary the tradition",
+        "released": "2019-09-25",
+        "rating": "N/A",
+        "imdb_id": "tt10545508",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Episode 272",
+        "released": "2019-10-23",
+        "rating": "N/A",
+        "imdb_id": "tt10545542",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Episode 274",
+        "released": "2019-10-28",
+        "rating": "N/A",
+        "imdb_id": "tt10545546",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Episode 281",
+        "released": "2019-11-07",
+        "rating": "N/A",
+        "imdb_id": "tt10545770",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Episode 285",
+        "released": "2019-11-14",
+        "rating": "N/A",
+        "imdb_id": "tt10545786",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Episode 286",
+        "released": "2019-11-18",
+        "rating": "N/A",
+        "imdb_id": "tt10545788",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "Episode 296",
+        "released": "2019-12-04",
+        "rating": "N/A",
+        "imdb_id": "tt10550940",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "64": {
+        "title": "Episode 309",
+        "released": "2020-01-01",
+        "rating": "N/A",
+        "imdb_id": "tt10550970",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "65": {
+        "title": "Episode 310",
+        "released": "2020-01-02",
+        "rating": "N/A",
+        "imdb_id": "tt10550972",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "67": {
+        "title": "Episode 312",
+        "released": "2020-01-08",
+        "rating": "N/A",
+        "imdb_id": "tt10550976",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "68": {
+        "title": "Episode 313",
+        "released": "2020-01-09",
+        "rating": "N/A",
+        "imdb_id": "tt10550978",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "69": {
+        "title": "Episode 314",
+        "released": "2020-01-13",
+        "rating": "N/A",
+        "imdb_id": "tt10550982",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "70": {
+        "title": "Episode 315",
+        "released": "2020-01-14",
+        "rating": "N/A",
+        "imdb_id": "tt10550984",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "71": {
+        "title": "Episode 316",
+        "released": "2020-01-15",
+        "rating": "N/A",
+        "imdb_id": "tt10550986",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "72": {
+        "title": "Episode 317",
+        "released": "2020-01-16",
+        "rating": "N/A",
+        "imdb_id": "tt10550988",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "73": {
+        "title": "Episode 318",
+        "released": "2020-01-20",
+        "rating": "N/A",
+        "imdb_id": "tt10550992",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "74": {
+        "title": "Episode 319",
+        "released": "2020-01-21",
+        "rating": "N/A",
+        "imdb_id": "tt10550994",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "75": {
+        "title": "Episode 320",
+        "released": "2020-01-22",
+        "rating": "N/A",
+        "imdb_id": "tt10550998",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "77": {
+        "title": "Episode 322",
+        "released": "2020-01-27",
+        "rating": "N/A",
+        "imdb_id": "tt10551002",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "78": {
+        "title": "Episode 323",
+        "released": "2020-01-28",
+        "rating": "N/A",
+        "imdb_id": "tt10551004",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "79": {
+        "title": "Episode 324",
+        "released": "2020-01-29",
+        "rating": "N/A",
+        "imdb_id": "tt10551008",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "81": {
+        "title": "Episode 326",
+        "released": "2020-02-03",
+        "rating": "N/A",
+        "imdb_id": "tt10551012",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "82": {
+        "title": "Episode 327",
+        "released": "2020-02-04",
+        "rating": "N/A",
+        "imdb_id": "tt10551014",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "83": {
+        "title": "Episode 328",
+        "released": "2020-02-05",
+        "rating": "N/A",
+        "imdb_id": "tt10551016",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "84": {
+        "title": "Episode 329",
+        "released": "2020-02-06",
+        "rating": "N/A",
+        "imdb_id": "tt10551022",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "87": {
+        "title": "Episode 332",
+        "released": "2020-02-12",
+        "rating": "N/A",
+        "imdb_id": "tt10551032",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "88": {
+        "title": "Episode 333",
+        "released": "2020-02-13",
+        "rating": "N/A",
+        "imdb_id": "tt10551034",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "89": {
+        "title": "Episode 334",
+        "released": "2020-02-17",
+        "rating": "N/A",
+        "imdb_id": "tt10551038",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "91": {
+        "title": "Episode 336",
+        "released": "2020-02-19",
+        "rating": "N/A",
+        "imdb_id": "tt10610910",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "92": {
+        "title": "Episode 337",
+        "released": "2020-02-20",
+        "rating": "N/A",
+        "imdb_id": "tt10610916",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "93": {
+        "title": "Episode 338",
+        "released": "2020-02-24",
+        "rating": "N/A",
+        "imdb_id": "tt10610918",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "94": {
+        "title": "Episode 339",
+        "released": "2020-02-25",
+        "rating": "N/A",
+        "imdb_id": "tt10610922",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "95": {
+        "title": "Episode 340",
+        "released": "2020-02-26",
+        "rating": "N/A",
+        "imdb_id": "tt10610924",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "96": {
+        "title": "Episode 341",
+        "released": "2020-02-27",
+        "rating": "N/A",
+        "imdb_id": "tt10610936",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "97": {
+        "title": "Episode 342",
+        "released": "2020-03-02",
+        "rating": "N/A",
+        "imdb_id": "tt10610946",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "98": {
+        "title": "Episode 343",
+        "released": "2020-03-03",
+        "rating": "N/A",
+        "imdb_id": "tt10610956",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "99": {
+        "title": "Episode 344",
+        "released": "2020-03-04",
+        "rating": "N/A",
+        "imdb_id": "tt10610964",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "100": {
+        "title": "Episode 345",
+        "released": "2020-03-05",
+        "rating": "N/A",
+        "imdb_id": "tt10610974",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "101": {
+        "title": "Episode 346",
+        "released": "2020-03-11",
+        "rating": "N/A",
+        "imdb_id": "tt10610976",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "102": {
+        "title": "Episode 347",
+        "released": "2020-03-12",
+        "rating": "N/A",
+        "imdb_id": "tt10610978",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "103": {
+        "title": "Episode 348",
+        "released": "2020-03-16",
+        "rating": "N/A",
+        "imdb_id": "tt10610982",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "104": {
+        "title": "Episode 349",
+        "released": "2020-03-17",
+        "rating": "N/A",
+        "imdb_id": "tt10610990",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "105": {
+        "title": "Episode 350",
+        "released": "2020-03-18",
+        "rating": "N/A",
+        "imdb_id": "tt10611002",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "106": {
+        "title": "Episode 351",
+        "released": "2020-03-19",
+        "rating": "N/A",
+        "imdb_id": "tt10790602",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "107": {
+        "title": "Episode 352",
+        "released": "2020-03-23",
+        "rating": "N/A",
+        "imdb_id": "tt10611010",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "108": {
+        "title": "Episode 353",
+        "released": "2020-03-24",
+        "rating": "N/A",
+        "imdb_id": "tt10611026",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "109": {
+        "title": "Episode 354",
+        "released": "2020-03-25",
+        "rating": "N/A",
+        "imdb_id": "tt10611034",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "110": {
+        "title": "Episode 355",
+        "released": "2020-03-26",
+        "rating": "N/A",
+        "imdb_id": "tt10611046",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "111": {
+        "title": "Episode #3.111",
+        "released": "2020-03-30",
+        "rating": "N/A",
+        "imdb_id": "tt11328768",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "112": {
+        "title": "Episode #3.112",
+        "released": "2020-03-31",
+        "rating": "N/A",
+        "imdb_id": "tt11328770",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "113": {
+        "title": "Episode #3.113",
+        "released": "2020-04-01",
+        "rating": "N/A",
+        "imdb_id": "tt11328772",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "115": {
+        "title": "Episode #3.115",
+        "released": "2020-04-06",
+        "rating": "N/A",
+        "imdb_id": "tt11328776",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "117": {
+        "title": "Episode #3.117",
+        "released": "2020-04-08",
+        "rating": "N/A",
+        "imdb_id": "tt11328780",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "118": {
+        "title": "Episode #3.118",
+        "released": "2020-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt11328782",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "119": {
+        "title": "Episode #3.119",
+        "released": "2020-04-14",
+        "rating": "N/A",
+        "imdb_id": "tt11328784",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "121": {
+        "title": "Episode #3.121",
+        "released": "2020-04-16",
+        "rating": "N/A",
+        "imdb_id": "tt11328788",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "122": {
+        "title": "Episode #3.122",
+        "released": "2020-04-20",
+        "rating": "N/A",
+        "imdb_id": "tt11328792",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "123": {
+        "title": "Episode #3.123",
+        "released": "2020-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt11328794",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "124": {
+        "title": "Episode #3.124",
+        "released": "2020-04-22",
+        "rating": "N/A",
+        "imdb_id": "tt11328796",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "126": {
+        "title": "Episode 371",
+        "released": "2020-04-27",
+        "rating": "N/A",
+        "imdb_id": "tt11328830",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "128": {
+        "title": "Episode 373",
+        "released": "2020-04-29",
+        "rating": "N/A",
+        "imdb_id": "tt11328826",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "129": {
+        "title": "Episode 374",
+        "released": "2020-04-30",
+        "rating": "N/A",
+        "imdb_id": "tt11328824",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "130": {
+        "title": "Episode 375",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt11328822",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "131": {
+        "title": "Episode 376",
+        "released": "2020-05-01",
+        "rating": "N/A",
+        "imdb_id": "tt11328820",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "132": {
+        "title": "Episode 377",
+        "released": "2020-08-31",
+        "rating": "N/A",
+        "imdb_id": "tt11886892",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "133": {
+        "title": "Episode 378",
+        "released": "2020-09-01",
+        "rating": "N/A",
+        "imdb_id": "tt11328798",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "136": {
+        "title": "Episode 381",
+        "released": "2020-09-07",
+        "rating": "N/A",
+        "imdb_id": "tt11328804",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "141": {
+        "title": "Episode 386",
+        "released": "2020-09-15",
+        "rating": "N/A",
+        "imdb_id": "tt11328816",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "145": {
+        "title": "Episode 390",
+        "released": "2020-09-22",
+        "rating": "N/A",
+        "imdb_id": "tt12675522",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "146": {
+        "title": "Episode 391",
+        "released": "2020-09-23",
+        "rating": "N/A",
+        "imdb_id": "tt12675528",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "150": {
+        "title": "Episode 395",
+        "released": "2020-09-30",
+        "rating": "N/A",
+        "imdb_id": "tt12675540",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

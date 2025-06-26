@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "Episode #2.1",
+        "released": "2010-11-11",
+        "rating": "N/A",
+        "imdb_id": "tt1719300",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #2.2",
+        "released": "2010-11-18",
+        "rating": "8.4",
+        "imdb_id": "tt1719301",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #2.3",
+        "released": "2010-11-25",
+        "rating": "N/A",
+        "imdb_id": "tt1719302",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #2.4",
+        "released": "2010-12-02",
+        "rating": "N/A",
+        "imdb_id": "tt1719303",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #2.5",
+        "released": "2010-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt1719304",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #2.6",
+        "released": "2010-12-16",
+        "rating": "N/A",
+        "imdb_id": "tt1719305",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Christmas Special",
+        "released": "2010-12-19",
+        "rating": "N/A",
+        "imdb_id": "tt1797694",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

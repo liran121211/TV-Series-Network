@@ -1,0 +1,186 @@
+{
+    "1": {
+        "title": "Homer the Whopper",
+        "released": "2009-09-27",
+        "rating": "7.1",
+        "imdb_id": "tt1502337",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S21\\The.Simpsons.S21E01.720p.HDTV.x264-CTUS21E1.zip"
+    },
+    "2": {
+        "title": "Bart Gets a 'Z'",
+        "released": "2009-10-04",
+        "rating": "6.6",
+        "imdb_id": "tt1519210",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S21\\The.Simpsons.S21E02.HDTV.XviD-FQMS21E2.zip"
+    },
+    "3": {
+        "title": "The Great Wife Hope",
+        "released": "2009-10-11",
+        "rating": "6.3",
+        "imdb_id": "tt1519211",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S21\\The.Simpsons.S21E03.HDTV.XviD-XIIS21E3.zip"
+    },
+    "4": {
+        "title": "Treehouse of Horror XX",
+        "released": "2009-10-18",
+        "rating": "7.3",
+        "imdb_id": "tt1528000",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S21\\The.Simpsons.S21E04.HDTV.XviD-FQMS21E4.zip"
+    },
+    "5": {
+        "title": "The Devil Wears Nada",
+        "released": "2009-11-15",
+        "rating": "6.7",
+        "imdb_id": "tt1535905",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S21\\The.Simpsons.S21E05.HDTV.XviD-FQMS21E5.zip"
+    },
+    "6": {
+        "title": "Pranks and Greens",
+        "released": "2009-11-22",
+        "rating": "6.6",
+        "imdb_id": "tt1535904",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S21\\The.Simpsons.S21E06.HDTV.XviD-FQMS21E6.zip"
+    },
+    "7": {
+        "title": "Rednecks and Broomsticks",
+        "released": "2009-11-29",
+        "rating": "6.7",
+        "imdb_id": "tt1546634",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S21\\The.Simpsons.S21E07.HDTV.XviD-FQMS21E7.zip"
+    },
+    "8": {
+        "title": "Oh Brother, Where Bart Thou?",
+        "released": "2009-12-13",
+        "rating": "7.1",
+        "imdb_id": "tt1563958",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S21\\The.Simpsons.S21E08.HDTV.XviD-FQMS21E8.zip"
+    },
+    "9": {
+        "title": "Thursdays with Abie",
+        "released": "2010-01-03",
+        "rating": "6.7",
+        "imdb_id": "tt1572119",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S21\\The.Simpsons.S21E09.HDTV.XviD-2HDS21E9.zip"
+    },
+    "10": {
+        "title": "Once Upon a Time in Springfield",
+        "released": "2010-01-10",
+        "rating": "6.5",
+        "imdb_id": "tt1572482",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Million Dollar Maybe",
+        "released": "2010-01-31",
+        "rating": "7.1",
+        "imdb_id": "tt1589903",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Boy Meets Curl",
+        "released": "2010-02-14",
+        "rating": "6.8",
+        "imdb_id": "tt1589902",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Color Yellow",
+        "released": "2010-02-21",
+        "rating": "6.6",
+        "imdb_id": "tt1597692",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Postcards from the Wedge",
+        "released": "2010-03-14",
+        "rating": "6.9",
+        "imdb_id": "tt1606137",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Stealing First Base",
+        "released": "2010-03-21",
+        "rating": "7.0",
+        "imdb_id": "tt1607507",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Greatest Story Ever D'ohed",
+        "released": "2010-03-28",
+        "rating": "5.7",
+        "imdb_id": "tt1614895",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "American History X-cellent",
+        "released": "2010-04-11",
+        "rating": "6.6",
+        "imdb_id": "tt1619577",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Chief of Hearts",
+        "released": "2010-04-18",
+        "rating": "6.8",
+        "imdb_id": "tt1626786",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Squirt and the Whale",
+        "released": "2010-04-25",
+        "rating": "6.8",
+        "imdb_id": "tt1629162",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "To Surveil, with Love",
+        "released": "2010-05-02",
+        "rating": "7.1",
+        "imdb_id": "tt1633108",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Moe Letter Blues",
+        "released": "2010-05-09",
+        "rating": "7.0",
+        "imdb_id": "tt1635632",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Bob Next Door",
+        "released": "2010-05-16",
+        "rating": "7.3",
+        "imdb_id": "tt1645678",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Judge Me Tender",
+        "released": "2010-05-23",
+        "rating": "N/A",
+        "imdb_id": "tt1645677",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

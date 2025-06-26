@@ -1,0 +1,26 @@
+{
+    "1": {
+        "title": "The ABC Murders",
+        "released": "1992-01-05",
+        "rating": "8.5",
+        "imdb_id": "tt0467432",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S4\\Agatha_Christie's_Poirot_(David_Suchet)_S04E01_1080p_H.264_(moviesbyrizzo)S4E1.zip"
+    },
+    "2": {
+        "title": "Death in the Clouds",
+        "released": "1992-01-12",
+        "rating": "7.8",
+        "imdb_id": "tt0398545",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S4\\Agatha_Christie's_Poirot_-_S04E02_-_Death_in_the_CloudsS4E2.zip"
+    },
+    "3": {
+        "title": "One, Two, Buckle My Shoe",
+        "released": "1992-01-19",
+        "rating": "N/A",
+        "imdb_id": "tt0182352",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S4\\Poirot_S04E03_-_One,_Two,_Buckle_My_ShoeS4E3.zip"
+    }
+}

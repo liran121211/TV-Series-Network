@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2005-09-23",
+        "rating": "7.4",
+        "imdb_id": "tt0587898",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Crossing",
+        "released": "2005-09-30",
+        "rating": "7.6",
+        "imdb_id": "tt0587900",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Ghost, Interrupted",
+        "released": "2005-10-07",
+        "rating": "N/A",
+        "imdb_id": "tt0587890",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Mended Hearts",
+        "released": "2005-10-14",
+        "rating": "N/A",
+        "imdb_id": "tt0587896",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Lost Boys",
+        "released": "2005-10-21",
+        "rating": "N/A",
+        "imdb_id": "tt0587894",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Homecoming",
+        "released": "2005-10-28",
+        "rating": "7.4",
+        "imdb_id": "tt0587891",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Hope and Mercy",
+        "released": "2005-11-04",
+        "rating": "N/A",
+        "imdb_id": "tt0587892",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "On the Wings of a Dove",
+        "released": "2005-11-11",
+        "rating": "N/A",
+        "imdb_id": "tt0587897",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Voices",
+        "released": "2005-11-18",
+        "rating": "6.8",
+        "imdb_id": "tt0587902",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Ghost Bride",
+        "released": "2005-11-25",
+        "rating": "7.3",
+        "imdb_id": "tt0587889",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Shadow Boxer",
+        "released": "2005-12-09",
+        "rating": "6.9",
+        "imdb_id": "tt0587899",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Undead Comic",
+        "released": "2005-12-16",
+        "rating": "7.1",
+        "imdb_id": "tt0587901",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Friendly Neighborhood Ghost",
+        "released": "2006-01-06",
+        "rating": "N/A",
+        "imdb_id": "tt0587888",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Last Execution",
+        "released": "2006-01-13",
+        "rating": "7.3",
+        "imdb_id": "tt0587893",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Melinda's First Ghost",
+        "released": "2006-01-27",
+        "rating": "7.9",
+        "imdb_id": "tt0587895",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Dead Man's Ridge",
+        "released": "2006-02-03",
+        "rating": "7.3",
+        "imdb_id": "tt0587887",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Demon Child",
+        "released": "2006-03-03",
+        "rating": "7.3",
+        "imdb_id": "tt0760700",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Miss Fortune",
+        "released": "2006-03-10",
+        "rating": "7.0",
+        "imdb_id": "tt0760701",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Fury",
+        "released": "2006-03-31",
+        "rating": "7.4",
+        "imdb_id": "tt0775626",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Vanishing",
+        "released": "2006-04-07",
+        "rating": "7.5",
+        "imdb_id": "tt0780246",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Free Fall",
+        "released": "2006-04-28",
+        "rating": "8.1",
+        "imdb_id": "tt0775215",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The One",
+        "released": "2006-05-05",
+        "rating": "8.5",
+        "imdb_id": "tt0775216",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

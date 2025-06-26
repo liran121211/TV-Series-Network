@@ -1,0 +1,290 @@
+{
+    "1": {
+        "title": "Where Is Everybody?",
+        "released": "1959-10-02",
+        "rating": "7.9",
+        "imdb_id": "tt0734692",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "One for the Angels",
+        "released": "1959-10-09",
+        "rating": "7.6",
+        "imdb_id": "tt0734609",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Twilight Zone\\Subtitles\\S1\\The.Twilight.Zone.S01E02.One.For.The.AngelsS1E2.zip"
+    },
+    "3": {
+        "title": "Mr. Denton on Doomsday",
+        "released": "1959-10-16",
+        "rating": "7.1",
+        "imdb_id": "tt0734592",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Sixteen-Millimeter Shrine",
+        "released": "1959-10-23",
+        "rating": "6.8",
+        "imdb_id": "tt0734626",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Walking Distance",
+        "released": "1959-10-30",
+        "rating": "8.2",
+        "imdb_id": "tt0734689",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Escape Clause",
+        "released": "1959-11-06",
+        "rating": "7.3",
+        "imdb_id": "tt0734566",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Lonely",
+        "released": "1959-11-13",
+        "rating": "8.1",
+        "imdb_id": "tt0734656",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Time Enough at Last",
+        "released": "1959-11-20",
+        "rating": "8.9",
+        "imdb_id": "tt0734683",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Perchance to Dream",
+        "released": "1959-11-27",
+        "rating": "7.4",
+        "imdb_id": "tt0734612",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Judgment Night",
+        "released": "1959-12-04",
+        "rating": "7.3",
+        "imdb_id": "tt0734582",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "And When the Sky Was Opened",
+        "released": "1959-12-11",
+        "rating": "8.3",
+        "imdb_id": "tt0734555",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "What You Need",
+        "released": "1959-12-25",
+        "rating": "8.0",
+        "imdb_id": "tt0734690",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Four of Us Are Dying",
+        "released": "1960-01-01",
+        "rating": "7.1",
+        "imdb_id": "tt0734640",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Third from the Sun",
+        "released": "1960-01-08",
+        "rating": "8.1",
+        "imdb_id": "tt0734682",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "I Shot an Arrow into the Air",
+        "released": "1960-01-15",
+        "rating": "7.6",
+        "imdb_id": "tt0734575",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Hitch-Hiker",
+        "released": "1960-01-22",
+        "rating": "8.2",
+        "imdb_id": "tt0734644",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Fever",
+        "released": "1960-01-29",
+        "rating": "6.6",
+        "imdb_id": "tt0734639",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Last Flight",
+        "released": "1960-02-05",
+        "rating": "8.0",
+        "imdb_id": "tt0734651",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Purple Testament",
+        "released": "1960-02-12",
+        "rating": "7.3",
+        "imdb_id": "tt0734673",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Elegy",
+        "released": "1960-02-19",
+        "rating": "N/A",
+        "imdb_id": "tt0734565",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Mirror Image",
+        "released": "1960-02-26",
+        "rating": "7.9",
+        "imdb_id": "tt0734590",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Monsters Are Due on Maple Street",
+        "released": "1960-03-04",
+        "rating": "8.9",
+        "imdb_id": "tt0734664",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "A World of Difference",
+        "released": "1960-03-11",
+        "rating": "7.6",
+        "imdb_id": "tt0734552",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Long Live Walter Jameson",
+        "released": "1960-03-18",
+        "rating": "8.1",
+        "imdb_id": "tt0734588",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "People Are Alike All Over",
+        "released": "1960-03-25",
+        "rating": "8.1",
+        "imdb_id": "tt0734611",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Execution",
+        "released": "1960-04-01",
+        "rating": "7.2",
+        "imdb_id": "tt0734567",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "The Big Tall Wish",
+        "released": "1960-04-08",
+        "rating": "6.6",
+        "imdb_id": "tt0734632",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "A Nice Place to Visit",
+        "released": "1960-04-15",
+        "rating": "7.8",
+        "imdb_id": "tt0734544",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Nightmare as a Child",
+        "released": "1960-04-29",
+        "rating": "7.3",
+        "imdb_id": "tt0734599",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "A Stop at Willoughby",
+        "released": "1960-05-06",
+        "rating": "8.5",
+        "imdb_id": "tt0734550",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "The Chaser",
+        "released": "1960-05-13",
+        "rating": "6.9",
+        "imdb_id": "tt0734635",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "A Passage for Trumpet",
+        "released": "1960-05-20",
+        "rating": "7.2",
+        "imdb_id": "tt0734545",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Mr. Bevis",
+        "released": "1960-06-03",
+        "rating": "6.7",
+        "imdb_id": "tt0734591",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "The After Hours",
+        "released": "1960-06-10",
+        "rating": "8.4",
+        "imdb_id": "tt0734628",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "The Mighty Casey",
+        "released": "1960-06-17",
+        "rating": "6.1",
+        "imdb_id": "tt0734661",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "A World of His Own",
+        "released": "1960-07-01",
+        "rating": "8.1",
+        "imdb_id": "tt0734553",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

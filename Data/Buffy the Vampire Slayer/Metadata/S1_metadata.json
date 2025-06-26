@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Welcome to the Hellmouth",
+        "released": "1997-03-10",
+        "rating": "7.9",
+        "imdb_id": "tt0452716",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Harvest",
+        "released": "1997-03-10",
+        "rating": "7.7",
+        "imdb_id": "tt0533501",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Witch",
+        "released": "1997-03-17",
+        "rating": "7.5",
+        "imdb_id": "tt0533527",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Teacher's Pet",
+        "released": "1997-03-24",
+        "rating": "6.7",
+        "imdb_id": "tt0533494",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Never Kill a Boy on the First Date",
+        "released": "1997-03-31",
+        "rating": "7.2",
+        "imdb_id": "tt0533459",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Pack",
+        "released": "1997-04-07",
+        "rating": "7.2",
+        "imdb_id": "tt0533505",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Angel",
+        "released": "1997-04-14",
+        "rating": "8.4",
+        "imdb_id": "tt0533388",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "I, Robot... You, Jane",
+        "released": "1997-04-28",
+        "rating": "6.5",
+        "imdb_id": "tt0533445",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Puppet Show",
+        "released": "1997-05-05",
+        "rating": "7.5",
+        "imdb_id": "tt0533507",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Nightmares",
+        "released": "1997-05-12",
+        "rating": "8.0",
+        "imdb_id": "tt0533462",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Out of Mind, Out of Sight",
+        "released": "1997-05-19",
+        "rating": "7.5",
+        "imdb_id": "tt0533467",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Prophecy Girl",
+        "released": "1997-06-02",
+        "rating": "N/A",
+        "imdb_id": "tt0533474",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Passover",
+        "released": "2007-01-14",
+        "rating": "8.7",
+        "imdb_id": "tt0854006",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S2\\Rome.S2E01-10.DVDRiP.AC3-HB.Eng-SDH-RETAILS2E1.zip"
+    },
+    "2": {
+        "title": "Son of Hades",
+        "released": "2007-01-21",
+        "rating": "N/A",
+        "imdb_id": "tt0901369",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S2\\Rome.S02E02.HDTV.XviD-LOLS2E2.zip"
+    },
+    "3": {
+        "title": "These Being the Words of Marcus Tullius Cicero",
+        "released": "2007-01-28",
+        "rating": "8.1",
+        "imdb_id": "tt0901371",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S2\\Rome_2006_720p_S02E03_HDTV_AC3.x264-DiRS2E3.zip"
+    },
+    "4": {
+        "title": "Testudo et Lepus (The Tortoise and the Hare)",
+        "released": "2007-02-04",
+        "rating": "8.4",
+        "imdb_id": "tt0901370",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S2\\Rome.S02E04.HDTV.XviD-LOLS2E4.zip"
+    },
+    "5": {
+        "title": "Heroes of the Republic",
+        "released": "2007-02-11",
+        "rating": "N/A",
+        "imdb_id": "tt0901368",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S2\\Rome.S02E05.HDTV.XviD-NoTVS2E5.zip"
+    },
+    "6": {
+        "title": "Philippi",
+        "released": "2007-02-18",
+        "rating": "8.7",
+        "imdb_id": "tt0836442",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S2\\Rome_2006_720p_S02E06_HDTV_AC3.x264-DiRS2E6.zip"
+    },
+    "7": {
+        "title": "Death Mask",
+        "released": "2007-03-04",
+        "rating": "N/A",
+        "imdb_id": "tt0901366",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S2\\Rome_2006_720p_S02E07_HDTV_AC3.x264-DiRS2E7.zip"
+    },
+    "8": {
+        "title": "A Necessary Fiction",
+        "released": "2007-03-11",
+        "rating": "N/A",
+        "imdb_id": "tt0901364",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S2\\Rome_2006_720p_S02E08_HDTV_AC3.x264-DiRS2E8.zip"
+    },
+    "9": {
+        "title": "Deus Impeditio Esuritori Nullus (No God Can Stop a Hungry Man)",
+        "released": "2007-03-18",
+        "rating": "8.7",
+        "imdb_id": "tt0901367",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S2\\Rome_2006_720p_S02E09_HDTV_AC3.x264-DiRS2E9.zip"
+    },
+    "10": {
+        "title": "De Patre Vostro (About Your Father)",
+        "released": "2007-03-25",
+        "rating": "9.0",
+        "imdb_id": "tt0901365",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

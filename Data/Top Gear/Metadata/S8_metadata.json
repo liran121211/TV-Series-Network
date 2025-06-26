@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Clarkson Drives the Koenigsegg CCX",
+        "released": "2006-05-07",
+        "rating": "N/A",
+        "imdb_id": "tt0797746",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S18\\Top.Gear.S18E01.HDTV.XviD-FoVS18E1.zip"
+    },
+    "2": {
+        "title": "Hammond Races a Jet-Powered Kayak",
+        "released": "2006-05-14",
+        "rating": "7.8",
+        "imdb_id": "tt0801110",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S18\\Top.Gear.S18E02.HDTV.XviD-FoVS18E2.zip"
+    },
+    "3": {
+        "title": "Amphibious Car Challenge",
+        "released": "2006-05-21",
+        "rating": "N/A",
+        "imdb_id": "tt0802899",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S18\\Top.Gear.S18E03.HDTV.XviD-FoVS18E3.zip"
+    },
+    "4": {
+        "title": "Porsche Cayenne Turbo S vs. Parachute Team",
+        "released": "2006-05-28",
+        "rating": "N/A",
+        "imdb_id": "tt0804889",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Playing Car-Soccer in Toyota Aygos - Round 2",
+        "released": "2006-06-04",
+        "rating": "N/A",
+        "imdb_id": "tt0809897",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Top Gear Sets a World Record with an F1 Car",
+        "released": "2006-07-16",
+        "rating": "N/A",
+        "imdb_id": "tt0825186",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Boys Build a Caterham",
+        "released": "2006-07-23",
+        "rating": "N/A",
+        "imdb_id": "tt0827975",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Being Van Roadies for The Who",
+        "released": "2006-07-30",
+        "rating": "N/A",
+        "imdb_id": "tt0829974",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

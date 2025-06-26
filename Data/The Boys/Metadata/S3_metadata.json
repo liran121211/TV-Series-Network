@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Payback",
+        "released": "2022-06-03",
+        "rating": "8.3",
+        "imdb_id": "tt12312450",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Only Man in the Sky",
+        "released": "2022-06-03",
+        "rating": "8.6",
+        "imdb_id": "tt13609680",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Barbary Coast",
+        "released": "2022-06-03",
+        "rating": "N/A",
+        "imdb_id": "tt13707622",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Glorious Five Year Plan",
+        "released": "2022-06-10",
+        "rating": "8.9",
+        "imdb_id": "tt14048850",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Last Time to Look on This World of Lies",
+        "released": "2022-06-17",
+        "rating": "8.3",
+        "imdb_id": "tt14075350",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Herogasm",
+        "released": "2022-06-24",
+        "rating": "9.6",
+        "imdb_id": "tt14143312",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Here Comes a Candle to Light You to Bed",
+        "released": "2022-07-01",
+        "rating": "8.8",
+        "imdb_id": "tt14246406",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Instant White-Hot Wild",
+        "released": "2022-07-08",
+        "rating": "8.3",
+        "imdb_id": "tt14268898",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

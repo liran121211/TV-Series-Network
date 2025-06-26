@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Welcome to the Playground",
+        "released": "2021-11-06",
+        "rating": "N/A",
+        "imdb_id": "tt14586040",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arcane\\Subtitles\\S1\\Arcane.S01E01~E03.WEBRip.x264-TORRENTGALAXYS1E1.zip"
+    },
+    "2": {
+        "title": "Some Mysteries Are Better Left Unsolved",
+        "released": "2021-11-06",
+        "rating": "8.5",
+        "imdb_id": "tt15496380",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arcane\\Subtitles\\S1\\S01E02_-_Some_Mysteries_Are_Better_Left_UnsolvedS1E2.zip"
+    },
+    "3": {
+        "title": "The Base Violence Necessary for Change",
+        "released": "2021-11-06",
+        "rating": "9.6",
+        "imdb_id": "tt15496376",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arcane\\Subtitles\\S1\\Arcane.S01E03.WEBRip.x264-ION10_hiS1E3.zip"
+    },
+    "4": {
+        "title": "Happy Progress Day!",
+        "released": "2021-11-13",
+        "rating": "8.7",
+        "imdb_id": "tt15496390",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arcane\\Subtitles\\S1\\Arcane.S01E04~E06.WEBRip.x264-TORRENTGALAXYS1E4.zip"
+    },
+    "5": {
+        "title": "Everybody Wants to Be My Enemy",
+        "released": "2021-11-13",
+        "rating": "8.9",
+        "imdb_id": "tt15496392",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arcane\\Subtitles\\S1\\Arcane.S01E05.WEBRip.x264-ION10S1E5.zip"
+    },
+    "6": {
+        "title": "When These Walls Come Tumbling Down",
+        "released": "2021-11-13",
+        "rating": "9.2",
+        "imdb_id": "tt15496430",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arcane\\Subtitles\\S1\\Arcane.S01E06.WEBRip.x264-ION10S1E6.zip"
+    },
+    "7": {
+        "title": "The Boy Savior",
+        "released": "2021-11-20",
+        "rating": "9.2",
+        "imdb_id": "tt15496436",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arcane\\Subtitles\\S1\\Arcane.S01E07~E09.WEBRip.x264-TORRENTGALAXYS1E7.zip"
+    },
+    "8": {
+        "title": "Oil and Water",
+        "released": "2021-11-20",
+        "rating": "9.2",
+        "imdb_id": "tt15496432",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arcane\\Subtitles\\S1\\Arcane.S01E08.WEBRip.x264-ION10S1E8.zip"
+    },
+    "9": {
+        "title": "The Monster You Created",
+        "released": "2021-11-20",
+        "rating": "9.7",
+        "imdb_id": "tt15496440",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

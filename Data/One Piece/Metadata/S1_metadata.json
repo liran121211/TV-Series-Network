@@ -1,0 +1,802 @@
+{
+    "1": {
+        "title": "I'm Luffy! The Man Who Will Become the Pirate King!",
+        "released": "1999-10-20",
+        "rating": "8.4",
+        "imdb_id": "tt0947442",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\One Piece\\Subtitles\\S1\\One.Piece.S01E1118-1119.JAPANESE.WEBRip.NFS1E11.zip"
+    },
+    "2": {
+        "title": "The Great Swordsman Appears! Pirate Hunter, Roronoa Zoro",
+        "released": "1999-11-17",
+        "rating": "8.3",
+        "imdb_id": "tt0947176",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Morgan vs. Luffy! Who's This Beautiful Young Girl?",
+        "released": "1999-11-24",
+        "rating": "8.0",
+        "imdb_id": "tt0947175",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Luffy's Past! The Red-haired Shanks Appears!",
+        "released": "1999-12-08",
+        "rating": "8.3",
+        "imdb_id": "tt0947174",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Fear, Mysterious Power! Pirate Clown Captain Buggy!",
+        "released": "1999-12-15",
+        "rating": "7.4",
+        "imdb_id": "tt0948320",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Desperate Situation! Beast Tamer Mohji vs. Luffy!",
+        "released": "1999-12-29",
+        "rating": "7.6",
+        "imdb_id": "tt0949128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Sozetsu Ketto! Kengo Zoro VS Kyokugei no Kabaji!",
+        "released": "1999-12-29",
+        "rating": "7.5",
+        "imdb_id": "tt0952145",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Shousha wa docchi? Akuma no mi no nouryoku taiketsu!",
+        "released": "1999-12-29",
+        "rating": "7.7",
+        "imdb_id": "tt0952148",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Seigi no usotsuki? Kyaputen Usoppu",
+        "released": "2000-01-12",
+        "rating": "7.1",
+        "imdb_id": "tt0952146",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Chijou saikyou no hen na yatsu! Saiminjutsushi Jango",
+        "released": "2000-01-19",
+        "rating": "7.3",
+        "imdb_id": "tt0952147",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Inbou o abake! Kaizoku shitsuji Kyaputen Kuro",
+        "released": "2000-01-26",
+        "rating": "N/A",
+        "imdb_id": "tt0957058",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\One Piece\\Subtitles\\S1\\One.Piece.S01E1118-1119.JAPANESE.WEBRip.NFS1E11.zip"
+    },
+    "12": {
+        "title": "Gekitotsu! Kuroneko kaizokudan sakamichi no daikoubou!",
+        "released": "2000-02-02",
+        "rating": "N/A",
+        "imdb_id": "tt0957053",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Kyoufu no futarigumi! Nyâban kyoudai vs Zoro",
+        "released": "2000-02-09",
+        "rating": "N/A",
+        "imdb_id": "tt0957059",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Rufi fukkatsu! Kaya ojousama no kesshi no taikou",
+        "released": "2000-02-16",
+        "rating": "7.6",
+        "imdb_id": "tt0957056",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Kuro o taose! Otoko Usoppu namida no ketsui!",
+        "released": "2000-02-23",
+        "rating": "N/A",
+        "imdb_id": "tt0957055",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Kaya o mamore! Usoppu kaizokudan daikatsuyaku!",
+        "released": "2000-03-01",
+        "rating": "7.6",
+        "imdb_id": "tt0957057",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Ikari bakuhatsu! Kuro vs Rufi kecchaku no yukue!",
+        "released": "2000-03-08",
+        "rating": "8.0",
+        "imdb_id": "tt0957054",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Anta ga chunjuu! Gaimon to kimyou na nakama",
+        "released": "2000-03-15",
+        "rating": "6.8",
+        "imdb_id": "tt0960523",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Santouryuu no kako! Zoro to Kuina no chikai!",
+        "released": "2000-03-22",
+        "rating": "8.9",
+        "imdb_id": "tt0961581",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Meibutsu kokku! Kaijou resutoran no Sanji",
+        "released": "2000-04-12",
+        "rating": "7.6",
+        "imdb_id": "tt0961579",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Manukarezaru kyaku! Sanji no meshi to Gin on",
+        "released": "2000-04-12",
+        "rating": "N/A",
+        "imdb_id": "tt0961572",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Saikyou no kaizoku kantai! Teitoku Don Kurîku",
+        "released": "2000-04-26",
+        "rating": "N/A",
+        "imdb_id": "tt0961580",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Mamore Baratie! Daikaizoku akaashi no Zefu",
+        "released": "2000-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt0961576",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Taka no me no Mihôku! Kenzoku Zoro umi ni chiru",
+        "released": "2000-05-10",
+        "rating": "9.2",
+        "imdb_id": "tt0961573",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Hissatsu ashiwaza sakuretsu! Sanji vs Teppeki no Pâru",
+        "released": "2000-05-17",
+        "rating": "N/A",
+        "imdb_id": "tt0961578",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Zefu to Sanji no yume Maboroshi no ôru burû",
+        "released": "2000-05-24",
+        "rating": "8.7",
+        "imdb_id": "tt0961582",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Reitetsu hijou no kijin Kaizoku kantai soutaichou Gin",
+        "released": "2000-05-31",
+        "rating": "N/A",
+        "imdb_id": "tt0961577",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Shinaneeyo! Gekitou Rufi vs Kurîku!",
+        "released": "2000-06-07",
+        "rating": "N/A",
+        "imdb_id": "tt0961574",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Shitou no Ketchaku! Hara ni Kukutta Ippon no Yari!",
+        "released": "2000-06-21",
+        "rating": "7.9",
+        "imdb_id": "tt0961575",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Tabidachi! Umi no kokku wa Rufi to tomoni",
+        "released": "2000-06-28",
+        "rating": "N/A",
+        "imdb_id": "tt0963014",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Higashi no Umi Saiaku no Otoko! Gyojin Kaizoku Arlong!",
+        "released": "2000-07-12",
+        "rating": "7.6",
+        "imdb_id": "tt0963015",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Cocoyashi Mura no Majo! Arlong no Onna Kanbu",
+        "released": "2000-07-19",
+        "rating": "N/A",
+        "imdb_id": "tt0963016",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Usopp Shisu?! Luffy Jouriku wa Mada?",
+        "released": "2000-07-19",
+        "rating": "N/A",
+        "imdb_id": "tt0963615",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "Zen'in Shuuketsu! Usopp ga Kataru Nami no Shinjitsu",
+        "released": "2000-07-26",
+        "rating": "N/A",
+        "imdb_id": "tt0964362",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Himerareta Kako! Onna Senshi Bell-mere!",
+        "released": "2000-08-02",
+        "rating": "8.1",
+        "imdb_id": "tt0965145",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Ikinuke! Haha Bellemere to Nami no Kizuna!",
+        "released": "2000-08-09",
+        "rating": "8.9",
+        "imdb_id": "tt0965144",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Luffy Tatsu! Uragirareta Yakusoku no Ketsumatsu!",
+        "released": "2000-08-16",
+        "rating": "9.2",
+        "imdb_id": "tt0965142",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Luffy Dai Pinch! Gyojin Tai Luffy Kaizokudan",
+        "released": "2000-08-23",
+        "rating": "N/A",
+        "imdb_id": "tt0965143",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Luffy Suibotsu! Zoro vs Tako no Hacchan",
+        "released": "2000-08-30",
+        "rating": "8.0",
+        "imdb_id": "tt0967036",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Hokoritakaki Senshi! Gekitou Sanji to Usopp",
+        "released": "2000-09-06",
+        "rating": "N/A",
+        "imdb_id": "tt0967038",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Luffy Zenkai! Nami no Ketsui to Mugiwara Boushi",
+        "released": "2000-09-13",
+        "rating": "N/A",
+        "imdb_id": "tt0967037",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Sakuretsu! Gyojin Arlong Umi kara no Moukougeki!",
+        "released": "2000-09-27",
+        "rating": "N/A",
+        "imdb_id": "tt0967034",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Gyojin Teikoku no Owari! Nami wa Ore no Nakama Da!",
+        "released": "2000-09-27",
+        "rating": "8.6",
+        "imdb_id": "tt0967040",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Egao no Tabidachi! Saraba Furusato Cocoyashi Mura",
+        "released": "2000-10-11",
+        "rating": "N/A",
+        "imdb_id": "tt0967039",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "Joukinkubi! Mugiwara no Luffy Yo ni Shirewataru",
+        "released": "2000-10-25",
+        "rating": "N/A",
+        "imdb_id": "tt0967033",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Mugiwara o Oe! Chiisana Buggy no Daibouken",
+        "released": "2000-11-01",
+        "rating": "N/A",
+        "imdb_id": "tt0967035",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Omachikane! Aa Fukkatsu no Buggy Senchou!",
+        "released": "2000-11-08",
+        "rating": "N/A",
+        "imdb_id": "tt0967042",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "Hajimari to Owari no Machi: Loguetown Jouriku",
+        "released": "2000-11-22",
+        "rating": "N/A",
+        "imdb_id": "tt0967041",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "Sandai Kitetsu to Yubashiri! Zoro no Shintou to Onna Souchou",
+        "released": "2000-11-22",
+        "rating": "N/A",
+        "imdb_id": "tt0968127",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Usopp Tai Kozure no Daddy: Mahiru no Kettou",
+        "released": "2000-11-29",
+        "rating": "N/A",
+        "imdb_id": "tt0968128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "Honoo no Ryouri Battle? Sanji VS Bijin Chef",
+        "released": "2000-12-06",
+        "rating": "N/A",
+        "imdb_id": "tt0968125",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Buggy no Revenge! Shokeidai de Warau Otoko!",
+        "released": "2000-12-13",
+        "rating": "N/A",
+        "imdb_id": "tt0968126",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "53": {
+        "title": "Densetsu wa Hajimatta! Mezase Grand Line",
+        "released": "2001-01-10",
+        "rating": "8.4",
+        "imdb_id": "tt0969499",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "54": {
+        "title": "Aratanaru Bouken no Yokan! Nazo no Shoujo Apis",
+        "released": "2001-01-17",
+        "rating": "N/A",
+        "imdb_id": "tt0970336",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "Kiseki no Seibutsu! Apis no Himitsu to Densetsu no Shima",
+        "released": "2001-01-24",
+        "rating": "N/A",
+        "imdb_id": "tt0971061",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "56": {
+        "title": "Eric Shutsugeki! Gunkanjima kara no Daidasshutsu!",
+        "released": "2001-01-31",
+        "rating": "N/A",
+        "imdb_id": "tt0971059",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "57": {
+        "title": "Zekkai no Kotou! Densetsu no Lost Island",
+        "released": "2001-02-07",
+        "rating": "N/A",
+        "imdb_id": "tt0971060",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "58": {
+        "title": "Haikyo no Kettou! Kinpaku no Zoro VS Erik!",
+        "released": "2001-02-21",
+        "rating": "N/A",
+        "imdb_id": "tt0971909",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "59": {
+        "title": "Luffy Kanzen Houi! Teitoku Nelson no Hisaku",
+        "released": "2001-02-21",
+        "rating": "N/A",
+        "imdb_id": "tt0971910",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "60": {
+        "title": "Oozora o Mau Mono! Yomigaeru Sennen no Densetsu!",
+        "released": "2001-02-28",
+        "rating": "N/A",
+        "imdb_id": "tt0971911",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "61": {
+        "title": "Ikari no Kecchaku! Red Line o Norikoero!",
+        "released": "2001-03-07",
+        "rating": "7.5",
+        "imdb_id": "tt0973526",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "62": {
+        "title": "Saisho no Toride? Kyodai Kujira Laboon Arawaru",
+        "released": "2001-03-21",
+        "rating": "N/A",
+        "imdb_id": "tt0975812",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "63": {
+        "title": "Otoko no Yakusoku! Luffy to Kujira Saikai no Chikai",
+        "released": "2001-03-21",
+        "rating": "N/A",
+        "imdb_id": "tt0976906",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "64": {
+        "title": "Kaizoku Kangei no Machi? Whiskey Peak Jouriku",
+        "released": "2001-04-15",
+        "rating": "N/A",
+        "imdb_id": "tt0976907",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "65": {
+        "title": "Sakuretsu Santouryuu! Zoro VS Baroque Works!",
+        "released": "2001-04-15",
+        "rating": "8.1",
+        "imdb_id": "tt0976911",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "66": {
+        "title": "Shinken Shoubu! Luffy VS Zoro Nazo no Daikettou!",
+        "released": "2001-04-22",
+        "rating": "N/A",
+        "imdb_id": "tt0976915",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "67": {
+        "title": "Oujo Vivi o Todokero! Luffy Kaizoku Dan Shukkou",
+        "released": "2001-04-29",
+        "rating": "N/A",
+        "imdb_id": "tt0976910",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "68": {
+        "title": "Ganbare Coby! Coby-Meppo Kaigun Funtou Ki",
+        "released": "2001-05-13",
+        "rating": "N/A",
+        "imdb_id": "tt0976917",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "69": {
+        "title": "Coby-Meppo no Ketsui! Garp Chuujou no Oyagokoro",
+        "released": "2001-05-20",
+        "rating": "N/A",
+        "imdb_id": "tt0976909",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "70": {
+        "title": "Taiko no Shima! Little Garden ni Hisomu Kage!",
+        "released": "2001-05-27",
+        "rating": "N/A",
+        "imdb_id": "tt0976914",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "71": {
+        "title": "Dekkai Kettou! Kyojin Dorry to Brogy",
+        "released": "2001-06-03",
+        "rating": "N/A",
+        "imdb_id": "tt0976912",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "72": {
+        "title": "Luffy Ikaru! Seinaru Kettou ni Hiretsu na Wana!",
+        "released": "2001-06-17",
+        "rating": "N/A",
+        "imdb_id": "tt0976913",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "73": {
+        "title": "Brogy Shouri no Goukyuu! Elbaf no Kecchaku",
+        "released": "2001-06-24",
+        "rating": "7.4",
+        "imdb_id": "tt0976908",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "74": {
+        "title": "Ma no Candle! Munen no Namida to Ikari no Namida",
+        "released": "2001-07-15",
+        "rating": "N/A",
+        "imdb_id": "tt0976916",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "75": {
+        "title": "Luffy o Osou Maryoku! Colors Trap",
+        "released": "2001-08-12",
+        "rating": "N/A",
+        "imdb_id": "tt0979320",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "76": {
+        "title": "Iza Hangeki! Usopp no Kiten to Kaenboshi!",
+        "released": "2001-08-19",
+        "rating": "N/A",
+        "imdb_id": "tt0980659",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "77": {
+        "title": "Saraba Kyojin no Shima! Arabasuta o Mezase",
+        "released": "2001-08-19",
+        "rating": "N/A",
+        "imdb_id": "tt0980660",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "78": {
+        "title": "Nami ga Byouki? Umi ni Furu Yuki no Mukou ni!",
+        "released": "2001-08-26",
+        "rating": "N/A",
+        "imdb_id": "tt0980661",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "79": {
+        "title": "Kishuu! Bliking Gou to Blik no Wapol",
+        "released": "2001-09-02",
+        "rating": "N/A",
+        "imdb_id": "tt0980658",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "80": {
+        "title": "Isha no Inai Shima? Na mo Naki Kuni no Bouken!",
+        "released": "2001-09-09",
+        "rating": "N/A",
+        "imdb_id": "tt0980657",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "81": {
+        "title": "Happy kai? Majo to Yobareta Isha!",
+        "released": "2001-09-16",
+        "rating": "N/A",
+        "imdb_id": "tt0980662",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "82": {
+        "title": "Dolton no Kakugo! Wapol Gundan Shima ni Jouriku",
+        "released": "2001-10-07",
+        "rating": "N/A",
+        "imdb_id": "tt0982392",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "83": {
+        "title": "Yuki no Sumu Shima! Drum-Rocky o Nobore!",
+        "released": "2001-10-07",
+        "rating": "N/A",
+        "imdb_id": "tt0982399",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "84": {
+        "title": "Tonakai wa Aoppana! Chopper no Himitsu",
+        "released": "2001-10-21",
+        "rating": "N/A",
+        "imdb_id": "tt0982402",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "85": {
+        "title": "Hamidashi Mono no Yume! Yabuisha Hiluluk!",
+        "released": "2001-10-28",
+        "rating": "8.4",
+        "imdb_id": "tt0982394",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "86": {
+        "title": "Hiluluk no Sakura to Uketsugareyuku Ishi!",
+        "released": "2001-11-04",
+        "rating": "9.3",
+        "imdb_id": "tt0982397",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "87": {
+        "title": "Versus Wapol Gundan! Bakubaku no Mi no Nouryoku!",
+        "released": "2001-11-11",
+        "rating": "8.0",
+        "imdb_id": "tt0982405",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "88": {
+        "title": "Zoan-kei Akuma no Mi! Chopper Nanadan Henkei",
+        "released": "2001-11-18",
+        "rating": "N/A",
+        "imdb_id": "tt0982393",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "89": {
+        "title": "Oukoku no Shihai Owaru Toki! Shinnen no Hata wa Eien ni",
+        "released": "2001-11-25",
+        "rating": "7.7",
+        "imdb_id": "tt0982406",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "90": {
+        "title": "Hiluluk no Sakura! Drum Rocky no Kiseki",
+        "released": "2001-12-02",
+        "rating": "8.8",
+        "imdb_id": "tt0982398",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "91": {
+        "title": "Sayonara Drum-tou! Boku wa Umi e Deru!",
+        "released": "2001-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt0982395",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "92": {
+        "title": "Arabasta no Eiyuu to Senjou no Ballerina",
+        "released": "2001-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt0982404",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "93": {
+        "title": "Iza Sabaku no Kuni e! Ame o Yobu Kona to Hanrangun",
+        "released": "2001-12-16",
+        "rating": "N/A",
+        "imdb_id": "tt0982391",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "94": {
+        "title": "Gouketsu-tachi no Saikai! Yatsu no Na wa Hiken no Ace",
+        "released": "2001-12-23",
+        "rating": "8.9",
+        "imdb_id": "tt0982400",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "95": {
+        "title": "Ace to Luffy! Atsuki Omoi to Kyoudai no Kizuna",
+        "released": "2002-01-06",
+        "rating": "8.2",
+        "imdb_id": "tt0982389",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "96": {
+        "title": "Midori no Machi Erumaru to Kung Fu Jugon!",
+        "released": "2002-01-13",
+        "rating": "N/A",
+        "imdb_id": "tt0982403",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "97": {
+        "title": "Suna no Kuni no Bouken! Ennetsu no Daichi ni Sumu Mamono",
+        "released": "2002-01-20",
+        "rating": "N/A",
+        "imdb_id": "tt0982390",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "98": {
+        "title": "Sabaku no Kaizokudan Toujou! Jiyuu ni Ikiru Otoko-tachi",
+        "released": "2002-01-27",
+        "rating": "N/A",
+        "imdb_id": "tt0982396",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "99": {
+        "title": "Nisemono no Iji! Kokoro no Hanrangun Kamyu!",
+        "released": "2002-02-03",
+        "rating": "N/A",
+        "imdb_id": "tt0982401",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "100": {
+        "title": "Hanrangun Senshi Kouza! Vivi ni Chikatta Yume!",
+        "released": "2002-02-10",
+        "rating": "N/A",
+        "imdb_id": "tt0983631",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

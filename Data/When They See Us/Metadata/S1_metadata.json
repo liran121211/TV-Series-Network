@@ -1,0 +1,34 @@
+{
+    "1": {
+        "title": "Part One",
+        "released": "2019-05-31",
+        "rating": "8.9",
+        "imdb_id": "tt8805234",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\When They See Us\\Subtitles\\S1\\When.Nature.Calls.With.Helen.Mirren.S01E01.WEB.x264-PHOENiX.zip"
+    },
+    "2": {
+        "title": "Part Two",
+        "released": "2019-05-31",
+        "rating": "9.1",
+        "imdb_id": "tt8805238",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\When They See Us\\Subtitles\\S1\\When.Nature.Calls.With.Helen.Mirren.S01E02.WEB.x264-PHOENiX.zip"
+    },
+    "3": {
+        "title": "Part Three",
+        "released": "2019-05-31",
+        "rating": "8.4",
+        "imdb_id": "tt8805240",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\When They See Us\\Subtitles\\S1\\When.Nature.Calls.With.Helen.Mirren.S01E03.WEB.x264-PHOENiX.zip"
+    },
+    "4": {
+        "title": "Part Four",
+        "released": "2019-05-31",
+        "rating": "9.5",
+        "imdb_id": "tt8805244",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\When They See Us\\Subtitles\\S1\\When.Nature.Calls.With.Helen.Mirren.S01E04.WEB.x264-PHOENiX.zip"
+    }
+}

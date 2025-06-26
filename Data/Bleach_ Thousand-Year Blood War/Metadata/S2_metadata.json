@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "The Last 9 Days",
+        "released": "2023-07-08",
+        "rating": "8.6",
+        "imdb_id": "tt27876700",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Peace from Shadows",
+        "released": "2023-07-15",
+        "rating": "N/A",
+        "imdb_id": "tt28314723",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Fundamental Virulence",
+        "released": "2023-07-22",
+        "rating": "9.1",
+        "imdb_id": "tt28453350",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Heart of Wolf",
+        "released": "2023-07-29",
+        "rating": "9.1",
+        "imdb_id": "tt28478470",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Rages at Ringside",
+        "released": "2023-08-05",
+        "rating": "9.0",
+        "imdb_id": "tt28478471",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The White Haze",
+        "released": "2023-08-12",
+        "rating": "9.2",
+        "imdb_id": "tt28478472",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "I Am The Edge",
+        "released": "2023-08-19",
+        "rating": "9.3",
+        "imdb_id": "tt28478473",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Headless Star",
+        "released": "2023-08-26",
+        "rating": "8.9",
+        "imdb_id": "tt28478474",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Marching Out the Zombies",
+        "released": "2023-09-09",
+        "rating": "7.7",
+        "imdb_id": "tt28478477",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Marching Out the Zombies 2",
+        "released": "2023-09-16",
+        "rating": "8.2",
+        "imdb_id": "tt29082198",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Too Early To Win Too Late To Know",
+        "released": "2023-09-23",
+        "rating": "9.4",
+        "imdb_id": "tt28478479",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Master",
+        "released": "2023-09-30",
+        "rating": "9.4",
+        "imdb_id": "tt28478480",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Black",
+        "released": "2023-09-30",
+        "rating": "9.5",
+        "imdb_id": "tt28478483",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

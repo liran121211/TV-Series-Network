@@ -1,0 +1,42 @@
+{
+    "2": {
+        "title": "Episode #3.2",
+        "released": "2024-06-16",
+        "rating": "1.3",
+        "imdb_id": "tt32580263",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #3.3",
+        "released": "2024-06-23",
+        "rating": "N/A",
+        "imdb_id": "tt32580264",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #3.5",
+        "released": "2024-07-07",
+        "rating": "N/A",
+        "imdb_id": "tt32580267",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #3.6",
+        "released": "2024-07-14",
+        "rating": "N/A",
+        "imdb_id": "tt32580268",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #3.7",
+        "released": "2024-07-21",
+        "rating": "N/A",
+        "imdb_id": "tt32580269",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

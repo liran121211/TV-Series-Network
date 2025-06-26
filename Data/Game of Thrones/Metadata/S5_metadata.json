@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Wars to Come",
+        "released": "2015-04-12",
+        "rating": "8.3",
+        "imdb_id": "tt3658012",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S5\\Game.of.Thrones.S05E01.The.Wars.to.Come.720p.WEB-DL.x265-RMTEAMS5E1.zip"
+    },
+    "2": {
+        "title": "The House of Black and White",
+        "released": "2015-04-19",
+        "rating": "8.3",
+        "imdb_id": "tt3846626",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S5\\Game.of.Thrones.S05E02.720p.WEB-DL.DD5.1.H.264-NTbS5E2.zip"
+    },
+    "3": {
+        "title": "High Sparrow",
+        "released": "2015-04-26",
+        "rating": "N/A",
+        "imdb_id": "tt3866836",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S5\\Game.of.Thrones.S05E03.High.Sparrow.720p.WEB-DL.DD5.1.H.264-NTbS5E3.zip"
+    },
+    "4": {
+        "title": "Sons of the Harpy",
+        "released": "2015-05-03",
+        "rating": "8.5",
+        "imdb_id": "tt3866838",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S5\\Game.of.Thrones.S05E04.Sons.of.the.Harpy.720p.WEB-DL.DD5.1.H.264-NTbS5E4.zip"
+    },
+    "5": {
+        "title": "Kill the Boy",
+        "released": "2015-05-10",
+        "rating": "8.5",
+        "imdb_id": "tt3866840",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S5\\Game.of.Thrones.S05E05.Kill.the.Boy.720p.WEB-DL.DD5.1.H.264-NTbS5E5.zip"
+    },
+    "6": {
+        "title": "Unbowed, Unbent, Unbroken",
+        "released": "2015-05-17",
+        "rating": "7.9",
+        "imdb_id": "tt3866842",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S5\\Game.of.Thrones.S05E06.Unbowed.Unbent.Unbroken.720p.WEB-DL.DD5.1.H.264-NTbS5E6.zip"
+    },
+    "7": {
+        "title": "The Gift",
+        "released": "2015-05-24",
+        "rating": "8.8",
+        "imdb_id": "tt3866846",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S5\\Game.of.Thrones.S05E07.The.Gift.720p.WEB-DL.DD5.1.H.264-NTbS5E7.zip"
+    },
+    "8": {
+        "title": "Hardhome",
+        "released": "2015-05-31",
+        "rating": "9.8",
+        "imdb_id": "tt3866850",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S5\\Game.of.Thrones.S05E08.Hardhome.720p.WEB-DL.DD5.1.H.264-NTbS5E8.zip"
+    },
+    "9": {
+        "title": "The Dance of Dragons",
+        "released": "2015-06-07",
+        "rating": "9.4",
+        "imdb_id": "tt3866826",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S5\\Game.of.Thrones.S05E09.The.Dance.of.Dragons.720p.WEB-DL.DD5.1.H.264-NTbS5E9.zip"
+    },
+    "10": {
+        "title": "Mother's Mercy",
+        "released": "2015-06-14",
+        "rating": "9.1",
+        "imdb_id": "tt3866862",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

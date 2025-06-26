@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Captain Cook",
+        "released": "1989-09-28",
+        "rating": "8.2",
+        "imdb_id": "tt0758160",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Corporal Punishment",
+        "released": "1989-10-05",
+        "rating": "8.8",
+        "imdb_id": "tt0526710",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Major Star",
+        "released": "1989-10-12",
+        "rating": "8.4",
+        "imdb_id": "tt0526713",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Private Plane",
+        "released": "1989-10-19",
+        "rating": "8.5",
+        "imdb_id": "tt0526714",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "General Hospital",
+        "released": "1989-10-26",
+        "rating": "8.7",
+        "imdb_id": "tt0526711",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Goodbyeee",
+        "released": "1989-11-02",
+        "rating": "9.4",
+        "imdb_id": "tt0526712",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

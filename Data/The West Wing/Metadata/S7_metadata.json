@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "The Ticket",
+        "released": "2005-09-25",
+        "rating": "7.9",
+        "imdb_id": "tt0745709",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Mommy Problem",
+        "released": "2005-10-02",
+        "rating": "N/A",
+        "imdb_id": "tt0745701",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Message of the Week",
+        "released": "2005-10-09",
+        "rating": "N/A",
+        "imdb_id": "tt0745657",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Mr. Frost",
+        "released": "2005-10-16",
+        "rating": "N/A",
+        "imdb_id": "tt0745658",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Here Today",
+        "released": "2005-10-23",
+        "rating": "8.5",
+        "imdb_id": "tt0745632",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Al Smith Dinner",
+        "released": "2005-10-30",
+        "rating": "N/A",
+        "imdb_id": "tt0745685",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Debate",
+        "released": "2005-11-06",
+        "rating": "8.8",
+        "imdb_id": "tt0745691",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Undecideds",
+        "released": "2005-12-04",
+        "rating": "N/A",
+        "imdb_id": "tt0745723",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Wedding",
+        "released": "2005-12-11",
+        "rating": "N/A",
+        "imdb_id": "tt0745715",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Running Mates",
+        "released": "2006-01-08",
+        "rating": "N/A",
+        "imdb_id": "tt0745673",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Internal Displacement",
+        "released": "2006-01-15",
+        "rating": "7.9",
+        "imdb_id": "tt0745643",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Duck and Cover",
+        "released": "2006-01-22",
+        "rating": "8.4",
+        "imdb_id": "tt0745611",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Cold",
+        "released": "2006-03-12",
+        "rating": "8.2",
+        "imdb_id": "tt0745689",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Two Weeks Out",
+        "released": "2006-03-19",
+        "rating": "8.0",
+        "imdb_id": "tt0745722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Welcome to Wherever You Are",
+        "released": "2006-03-26",
+        "rating": "7.7",
+        "imdb_id": "tt0745727",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Election Day: Part 1",
+        "released": "2006-04-02",
+        "rating": "N/A",
+        "imdb_id": "tt0745612",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Election Day: Part 2",
+        "released": "2006-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt0779710",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Requiem",
+        "released": "2006-04-16",
+        "rating": "N/A",
+        "imdb_id": "tt0761559",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Transition",
+        "released": "2006-04-23",
+        "rating": "N/A",
+        "imdb_id": "tt0779711",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Last Hurrah",
+        "released": "2006-04-30",
+        "rating": "N/A",
+        "imdb_id": "tt0779709",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Institutional Memory",
+        "released": "2006-05-07",
+        "rating": "8.6",
+        "imdb_id": "tt0771575",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Tomorrow",
+        "released": "2006-05-14",
+        "rating": "9.0",
+        "imdb_id": "tt0771576",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

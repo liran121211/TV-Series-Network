@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Sophie",
+        "released": "2005-08-15",
+        "rating": "N/A",
+        "imdb_id": "tt1250902",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Amanda",
+        "released": "2005-08-29",
+        "rating": "N/A",
+        "imdb_id": "tt0654968",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Jazmin",
+        "released": "2005-09-12",
+        "rating": "N/A",
+        "imdb_id": "tt0869769",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Bjorn",
+        "released": "2005-09-19",
+        "rating": "N/A",
+        "imdb_id": "tt0802790",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Cindy",
+        "released": "2005-09-26",
+        "rating": "N/A",
+        "imdb_id": "tt1283003",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Carlysia",
+        "released": "2005-10-10",
+        "rating": "N/A",
+        "imdb_id": "tt1283002",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

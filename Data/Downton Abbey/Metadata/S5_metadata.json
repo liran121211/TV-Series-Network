@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Episode #5.1",
+        "released": "2015-01-04",
+        "rating": "8.2",
+        "imdb_id": "tt3325518",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S5\\Downton.Abbey.S05E01.HDTV.x264-TLAS5E1.zip"
+    },
+    "2": {
+        "title": "Episode #5.2",
+        "released": "2015-01-11",
+        "rating": "7.9",
+        "imdb_id": "tt3666186",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S5\\Downton.Abbey.S05E02.HDTV.x264-RiVERS5E2.zip"
+    },
+    "3": {
+        "title": "Episode #5.3",
+        "released": "2015-01-18",
+        "rating": "8.0",
+        "imdb_id": "tt3689408",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S5\\Downton.Abbey.S05E03.Episode.3.1080p.WEB-DL.AAC2.0.H.264-CtrlHDS5E3.zip"
+    },
+    "4": {
+        "title": "Episode #5.4",
+        "released": "2015-01-25",
+        "rating": "8.0",
+        "imdb_id": "tt3714404",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S5\\Downton.Abbey.S05E04.Episode.4.1080p.WEB-DL.AAC2.0.H.264-CtrlHDS5E4.zip"
+    },
+    "5": {
+        "title": "Episode #5.5",
+        "released": "2015-02-01",
+        "rating": "8.0",
+        "imdb_id": "tt3696132",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S5\\Downton.Abbey.S05E05.Episode.5.1080p.WEB-DL.AAC2.0.H.264-CtrlHDS5E5.zip"
+    },
+    "6": {
+        "title": "Episode #5.6",
+        "released": "2015-02-08",
+        "rating": "8.2",
+        "imdb_id": "tt3810550",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S5\\Downton.Abbey.S05E06.Episode.6.1080p.WEB-DL.AAC2.0.H.264-CtrlHDS5E6.zip"
+    },
+    "7": {
+        "title": "Episode #5.7",
+        "released": "2015-02-15",
+        "rating": "8.3",
+        "imdb_id": "tt3810556",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S5\\Downton_Abbey_S05E07_Episode_7_1080p_WEB-DL_AAC2_0_H_264-CtrlHDS5E7.zip"
+    },
+    "8": {
+        "title": "Episode #5.8",
+        "released": "2015-02-22",
+        "rating": "8.6",
+        "imdb_id": "tt3810558",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S5\\Downton.Abbey.S05E08.Episode.8.1080p.WEB-DL.AAC2.0.H.264-CtrlHDS5E8.zip"
+    },
+    "9": {
+        "title": "A Moorland Holiday",
+        "released": "2015-03-01",
+        "rating": "8.9",
+        "imdb_id": "tt3962976",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

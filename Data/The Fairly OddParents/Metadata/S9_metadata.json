@@ -1,0 +1,194 @@
+{
+    "1": {
+        "title": "Fairly OddPet",
+        "released": "2013-03-23",
+        "rating": "N/A",
+        "imdb_id": "tt2765446",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Dinklescouts/I Dream of Cosmo",
+        "released": "2013-04-14",
+        "rating": "N/A",
+        "imdb_id": "tt2843716",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Turner & Pooch/Dumbbell Curve",
+        "released": "2013-05-04",
+        "rating": "N/A",
+        "imdb_id": "tt2862126",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Terrible Twosome/App Trap",
+        "released": "2013-06-08",
+        "rating": "N/A",
+        "imdb_id": "tt2930320",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Force of Nature/Viral Vidiots",
+        "released": "2013-06-22",
+        "rating": "N/A",
+        "imdb_id": "tt2972210",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Scary GodCouple",
+        "released": "2013-10-19",
+        "rating": "N/A",
+        "imdb_id": "tt3350998",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "School of Crock",
+        "released": "2014-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt3756690",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Cosmonopoly/Hero Hound",
+        "released": "2014-07-07",
+        "rating": "N/A",
+        "imdb_id": "tt3618876",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "A Boy and His Dog-Boy/Crock Blocked",
+        "released": "2014-07-08",
+        "rating": "4.6",
+        "imdb_id": "tt3658654",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Finding Emo/Dust Busters",
+        "released": "2014-07-09",
+        "rating": "N/A",
+        "imdb_id": "tt3588790",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Past and the Furious",
+        "released": "2014-07-11",
+        "rating": "N/A",
+        "imdb_id": "tt3864426",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Let Sleeper Dogs Lie/Cat-astrophe",
+        "released": "2014-07-14",
+        "rating": "N/A",
+        "imdb_id": "tt3864406",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Jerk of All Trades/Snack Attack",
+        "released": "2014-07-15",
+        "rating": "N/A",
+        "imdb_id": "tt3864410",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Dimmsdale Tales",
+        "released": "2014-07-18",
+        "rating": "N/A",
+        "imdb_id": "tt3864416",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Love at First Bark/Desperate Without Housewives",
+        "released": "2014-07-21",
+        "rating": "N/A",
+        "imdb_id": "tt3869202",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Bored Identity/Country Clubbed",
+        "released": "2014-07-23",
+        "rating": "5.4",
+        "imdb_id": "tt3603162",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Two and a Half Babies/Anchor's Away",
+        "released": "2014-07-25",
+        "rating": "N/A",
+        "imdb_id": "tt3869222",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Dog Gone/Turner Back Time",
+        "released": "2014-07-28",
+        "rating": "N/A",
+        "imdb_id": "tt3607554",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Weirdos on a Train/Tons of Timmys",
+        "released": "2014-07-29",
+        "rating": "N/A",
+        "imdb_id": "tt3869216",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Lame Ducks/A Perfect Nightmare",
+        "released": "2014-07-30",
+        "rating": "N/A",
+        "imdb_id": "tt3869220",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Fairly Odd Fairy Tales",
+        "released": "2014-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt3869208",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Man's Worst Friend",
+        "released": "2015-02-08",
+        "rating": "N/A",
+        "imdb_id": "tt4417066",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Fairly Old Parent",
+        "released": "2015-03-28",
+        "rating": "N/A",
+        "imdb_id": "tt4386544",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "The Fairy Beginning",
+        "released": "2015-03-28",
+        "rating": "N/A",
+        "imdb_id": "tt3278194",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

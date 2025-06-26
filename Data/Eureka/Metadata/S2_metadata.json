@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Phoenix Rising",
+        "released": "2007-07-10",
+        "rating": "7.9",
+        "imdb_id": "tt1058924",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Try, Try Again",
+        "released": "2007-07-17",
+        "rating": "7.7",
+        "imdb_id": "tt1060051",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Unpredictable",
+        "released": "2007-07-24",
+        "rating": "7.5",
+        "imdb_id": "tt1060052",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Games People Play",
+        "released": "2007-07-31",
+        "rating": "7.9",
+        "imdb_id": "tt1060053",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Duck, Duck Goose",
+        "released": "2007-08-07",
+        "rating": "7.6",
+        "imdb_id": "tt1060054",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Noche de suenos",
+        "released": "2007-08-14",
+        "rating": "8.0",
+        "imdb_id": "tt1060055",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Family Reunion",
+        "released": "2007-08-21",
+        "rating": "7.7",
+        "imdb_id": "tt1060056",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "E=MC...?",
+        "released": "2007-08-28",
+        "rating": "7.8",
+        "imdb_id": "tt1060057",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Sight Unseen",
+        "released": "2007-09-04",
+        "rating": "7.8",
+        "imdb_id": "tt1060058",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "God Is in the Details",
+        "released": "2007-09-11",
+        "rating": "6.6",
+        "imdb_id": "tt1060047",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Maneater",
+        "released": "2007-09-18",
+        "rating": "8.0",
+        "imdb_id": "tt1060048",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "All That Glitters",
+        "released": "2007-09-25",
+        "rating": "7.3",
+        "imdb_id": "tt1060049",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "A Night in Global Dynamics",
+        "released": "2007-10-02",
+        "rating": "7.7",
+        "imdb_id": "tt1060050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Chapter 1: The Mandalorian",
+        "released": "2019-11-12",
+        "rating": "8.6",
+        "imdb_id": "tt9095424",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Mandalorian\\Subtitles\\S1\\The.Mandalorian.S01E01.WEBRip.x264-ION10S1E1.zip"
+    },
+    "2": {
+        "title": "Chapter 2: The Child",
+        "released": "2019-11-15",
+        "rating": "8.5",
+        "imdb_id": "tt9121530",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Mandalorian\\Subtitles\\S1\\The.Mandalorian.S01E02.WEBRip.x264-ION10S1E2.zip"
+    },
+    "3": {
+        "title": "Chapter 3: The Sin",
+        "released": "2019-11-22",
+        "rating": "8.9",
+        "imdb_id": "tt9121534",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Mandalorian\\Subtitles\\S1\\The.Mandalorian.S01E03.WEBRip.x264-ION10S1E3.zip"
+    },
+    "4": {
+        "title": "Chapter 4: Sanctuary",
+        "released": "2019-11-29",
+        "rating": "7.7",
+        "imdb_id": "tt9121536",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Mandalorian\\Subtitles\\S1\\The.Mandalorian.S01E04.WEBRip.x264-ION10S1E4.zip"
+    },
+    "5": {
+        "title": "Chapter 5: The Gunslinger",
+        "released": "2019-12-06",
+        "rating": "7.5",
+        "imdb_id": "tt9121538",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Mandalorian\\Subtitles\\S1\\The.Mandalorian.S01E05.WEBRip.x264-ION10S1E5.zip"
+    },
+    "6": {
+        "title": "Chapter 6: The Prisoner",
+        "released": "2019-12-13",
+        "rating": "N/A",
+        "imdb_id": "tt9121542",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Mandalorian\\Subtitles\\S1\\The.Mandalorian.S01E06.WEBRip.x264-ION10S1E6.zip"
+    },
+    "7": {
+        "title": "Chapter 7: The Reckoning",
+        "released": "2019-12-18",
+        "rating": "9.0",
+        "imdb_id": "tt9121544",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Mandalorian\\Subtitles\\S1\\The.Mandalorian.S01E07.WEBRip.x264-ION10S1E7.zip"
+    },
+    "8": {
+        "title": "Chapter 8: Redemption",
+        "released": "2019-12-27",
+        "rating": "9.2",
+        "imdb_id": "tt9121546",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

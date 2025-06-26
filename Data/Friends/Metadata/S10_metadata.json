@@ -1,0 +1,146 @@
+{
+    "1": {
+        "title": "The One After Joey and Rachel Kiss",
+        "released": "2003-09-25",
+        "rating": "8.4",
+        "imdb_id": "tt0583436",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S10\\Friends.S10E01.720p.BluRay.x264-PSYCHDS10E1.zip"
+    },
+    "2": {
+        "title": "The One Where Ross Is Fine",
+        "released": "2003-10-02",
+        "rating": "8.7",
+        "imdb_id": "tt0583484",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S10\\Friends.S10E02.720p.BluRay.x264-PSYCHDS10E2.zip"
+    },
+    "3": {
+        "title": "The One with Ross's Tan",
+        "released": "2003-10-09",
+        "rating": "N/A",
+        "imdb_id": "tt0583564",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S10\\Friends.S10E03.720p.BluRay.x264-PSYCHDS10E3.zip"
+    },
+    "4": {
+        "title": "The One with the Cake",
+        "released": "2003-10-23",
+        "rating": "8.2",
+        "imdb_id": "tt0583586",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S10\\Friends.S10E04.720p.BluRay.x264-PSYCHDS10E4.zip"
+    },
+    "5": {
+        "title": "The One Where Rachel's Sister Babysits",
+        "released": "2003-10-30",
+        "rating": "8.0",
+        "imdb_id": "tt0583477",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S10\\Friends.S10E05.720p.BluRay.x264-PSYCHDS10E5.zip"
+    },
+    "6": {
+        "title": "The One with Ross' Grant",
+        "released": "2003-11-06",
+        "rating": "8.0",
+        "imdb_id": "tt0583557",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S10\\Friends.S10E06.720p.BluRay.x264-PSYCHDS10E6.zip"
+    },
+    "7": {
+        "title": "The One with the Home Study",
+        "released": "2003-11-13",
+        "rating": "N/A",
+        "imdb_id": "tt0583614",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S10\\Friends.S10E07.720p.BluRay.x264-PSYCHDS10E7.zip"
+    },
+    "8": {
+        "title": "The One with the Late Thanksgiving",
+        "released": "2003-11-20",
+        "rating": "8.8",
+        "imdb_id": "tt0583623",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S10\\Friends.S10E08.720p.BluRay.x264-PSYCHDS10E8.zip"
+    },
+    "9": {
+        "title": "The One with the Birth Mother",
+        "released": "2004-01-08",
+        "rating": "8.4",
+        "imdb_id": "tt0583432",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S10\\Friends.S10E09.720p.BluRay.x264-PSYCHDS10E9.zip"
+    },
+    "10": {
+        "title": "The One Where Chandler Gets Caught",
+        "released": "2004-01-15",
+        "rating": "7.8",
+        "imdb_id": "tt0583445",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The One Where the Stripper Cries",
+        "released": "2004-02-05",
+        "rating": "8.9",
+        "imdb_id": "tt0583494",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The One with Phoebe's Wedding",
+        "released": "2004-02-12",
+        "rating": "8.8",
+        "imdb_id": "tt0583542",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The One Where Joey Speaks French",
+        "released": "2004-02-19",
+        "rating": "8.3",
+        "imdb_id": "tt0583457",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The One with Princess Consuela",
+        "released": "2004-02-26",
+        "rating": "N/A",
+        "imdb_id": "tt0583543",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The One Where Estelle Dies",
+        "released": "2004-04-22",
+        "rating": "8.4",
+        "imdb_id": "tt0583451",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The One with Rachel's Going Away Party",
+        "released": "2004-04-29",
+        "rating": "8.8",
+        "imdb_id": "tt0583550",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Last One: Part 1",
+        "released": "2004-05-06",
+        "rating": "9.6",
+        "imdb_id": "tt0583433",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The One with All the Other Ones: Part 2",
+        "released": "2004-05-06",
+        "rating": "8.7",
+        "imdb_id": "tt0583509",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

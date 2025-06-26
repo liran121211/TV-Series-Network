@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Bart Gets an F",
+        "released": "1990-10-11",
+        "rating": "8.2",
+        "imdb_id": "tt0763024",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E01.WEB-DL.DSNPS12E1.zip"
+    },
+    "2": {
+        "title": "Simpson and Delilah",
+        "released": "1990-10-18",
+        "rating": "8.2",
+        "imdb_id": "tt0701211",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E02.WEB-DL.DSNPS12E2.zip"
+    },
+    "3": {
+        "title": "Treehouse of Horror",
+        "released": "1990-10-25",
+        "rating": "8.2",
+        "imdb_id": "tt0701278",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E03.WEB-DL.DSNPS12E3.zip"
+    },
+    "4": {
+        "title": "Two Cars in Every Garage and Three Eyes on Every Fish",
+        "released": "1990-11-01",
+        "rating": "8.0",
+        "imdb_id": "tt0757023",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E04.WEB-DL.DSNPS12E4.zip"
+    },
+    "5": {
+        "title": "Dancin' Homer",
+        "released": "1990-11-08",
+        "rating": "7.3",
+        "imdb_id": "tt0701084",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E05.WEB-DL.DSNPS12E5.zip"
+    },
+    "6": {
+        "title": "Dead Putting Society",
+        "released": "1990-11-15",
+        "rating": "7.9",
+        "imdb_id": "tt0767442",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E06.WEB-DL.DSNPS12E6.zip"
+    },
+    "7": {
+        "title": "Bart vs. Thanksgiving",
+        "released": "1990-11-22",
+        "rating": "7.7",
+        "imdb_id": "tt0701062",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E07.WEB-DL.DSNPS12E7.zip"
+    },
+    "8": {
+        "title": "Bart the Daredevil",
+        "released": "1990-12-06",
+        "rating": "8.3",
+        "imdb_id": "tt0767438",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E08.WEB-DL.DSNPS12E8.zip"
+    },
+    "9": {
+        "title": "Itchy & Scratchy & Marge",
+        "released": "1990-12-20",
+        "rating": "8.1",
+        "imdb_id": "tt0701140",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E09.WEB-DL.DSNPS12E9.zip"
+    },
+    "10": {
+        "title": "Bart Gets Hit by a Car",
+        "released": "1991-01-10",
+        "rating": "7.7",
+        "imdb_id": "tt0757017",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S32\\The.Simpsons.S32E10.720p.HDTV.DD5.1.x264-DJSF.HIS32E10.zip"
+    },
+    "11": {
+        "title": "One Fish, Two Fish, Blowfish, Blue Fish",
+        "released": "1991-01-24",
+        "rating": "8.8",
+        "imdb_id": "tt0701195",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Way We Was",
+        "released": "1991-01-31",
+        "rating": "8.2",
+        "imdb_id": "tt0701269",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Homer vs. Lisa and the 8th Commandment",
+        "released": "1991-02-07",
+        "rating": "8.0",
+        "imdb_id": "tt0767443",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Principal Charming",
+        "released": "1991-02-14",
+        "rating": "7.4",
+        "imdb_id": "tt0767445",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Oh Brother, Where Art Thou?",
+        "released": "1991-02-21",
+        "rating": "8.3",
+        "imdb_id": "tt0701191",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Bart's Dog Gets an F",
+        "released": "1991-03-07",
+        "rating": "7.4",
+        "imdb_id": "tt0701063",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Old Money",
+        "released": "1991-03-28",
+        "rating": "7.6",
+        "imdb_id": "tt0701192",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Brush with Greatness",
+        "released": "1991-04-11",
+        "rating": "7.9",
+        "imdb_id": "tt0701077",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Lisa's Substitute",
+        "released": "1991-04-25",
+        "rating": "8.6",
+        "imdb_id": "tt0701164",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The War of the Simpsons",
+        "released": "1991-05-02",
+        "rating": "7.8",
+        "imdb_id": "tt0766140",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Three Men and a Comic Book",
+        "released": "1991-05-09",
+        "rating": "8.2",
+        "imdb_id": "tt0701275",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Blood Feud",
+        "released": "1991-07-11",
+        "rating": "7.8",
+        "imdb_id": "tt0767440",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S23\\The.Simpsons.S23E22.HDTV.x264-LOL.HIS23E22.zip"
+    }
+}

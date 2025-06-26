@@ -1,0 +1,202 @@
+{
+    "1": {
+        "title": "Treehouse of Horror VII",
+        "released": "1996-10-27",
+        "rating": "8.5",
+        "imdb_id": "tt0779678",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E01.WEB-DL.DSNPS18E1.zip"
+    },
+    "2": {
+        "title": "You Only Move Twice",
+        "released": "1996-11-03",
+        "rating": "9.2",
+        "imdb_id": "tt0701298",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E02.WEB-DL.DSNPS18E2.zip"
+    },
+    "3": {
+        "title": "The Homer They Fall",
+        "released": "1996-11-10",
+        "rating": "8.1",
+        "imdb_id": "tt0701243",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E03.WEB-DL.DSNPS18E3.zip"
+    },
+    "4": {
+        "title": "Burns, Baby Burns",
+        "released": "1996-11-17",
+        "rating": "7.6",
+        "imdb_id": "tt0701078",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E04.WEB-DL.DSNPS18E4.zip"
+    },
+    "5": {
+        "title": "Bart After Dark",
+        "released": "1996-11-24",
+        "rating": "8.3",
+        "imdb_id": "tt0763023",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E05.WEB-DL.DSNPS18E5.zip"
+    },
+    "6": {
+        "title": "A Milhouse Divided",
+        "released": "1996-12-01",
+        "rating": "8.1",
+        "imdb_id": "tt0779664",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E06.WEB-DL.DSNPS18E6.zip"
+    },
+    "7": {
+        "title": "Lisa's Date with Density",
+        "released": "1996-12-15",
+        "rating": "7.8",
+        "imdb_id": "tt0779669",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E07.WEB-DL.DSNPS18E7.zip"
+    },
+    "8": {
+        "title": "Hurricane Neddy",
+        "released": "1996-12-29",
+        "rating": "8.7",
+        "imdb_id": "tt0701131",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E08.WEB-DL.DSNPS18E8.zip"
+    },
+    "9": {
+        "title": "The Mysterious Voyage of Our Homer",
+        "released": "1997-01-05",
+        "rating": "8.6",
+        "imdb_id": "tt0701094",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E09.WEB-DL.DSNPS18E9.zip"
+    },
+    "10": {
+        "title": "The Springfield Files",
+        "released": "1997-01-12",
+        "rating": "9.1",
+        "imdb_id": "tt0701263",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Twisted World of Marge Simpson",
+        "released": "1997-01-19",
+        "rating": "7.7",
+        "imdb_id": "tt0701266",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Mountain of Madness",
+        "released": "1997-02-02",
+        "rating": "8.5",
+        "imdb_id": "tt0779671",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Simpsoncalifragilisticexpiala(Annoyed Grunt)cious",
+        "released": "1997-02-07",
+        "rating": "7.6",
+        "imdb_id": "tt0757021",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Itchy & Scratchy & Poochie Show",
+        "released": "1997-02-07",
+        "rating": "7.9",
+        "imdb_id": "tt0701245",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Homer's Phobia",
+        "released": "1997-02-16",
+        "rating": "8.8",
+        "imdb_id": "tt0701126",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Brother from Another Series",
+        "released": "1997-02-23",
+        "rating": "8.2",
+        "imdb_id": "tt0701227",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "My Sister, My Sitter",
+        "released": "1997-03-02",
+        "rating": "7.8",
+        "imdb_id": "tt0779672",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Homer vs. the 18th Amendment",
+        "released": "1997-03-16",
+        "rating": "8.8",
+        "imdb_id": "tt0701120",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Grade School Confidential",
+        "released": "1997-04-06",
+        "rating": "8.2",
+        "imdb_id": "tt0779666",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Canine Mutiny",
+        "released": "1997-04-13",
+        "rating": "7.6",
+        "imdb_id": "tt0701229",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Old Man and the Lisa",
+        "released": "1997-04-20",
+        "rating": "7.8",
+        "imdb_id": "tt0701253",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "In Marge We Trust",
+        "released": "1997-04-27",
+        "rating": "8.1",
+        "imdb_id": "tt0701136",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Homer's Enemy",
+        "released": "1997-05-04",
+        "rating": "9.3",
+        "imdb_id": "tt0701122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "The Simpsons Spin-Off Showcase",
+        "released": "1997-05-11",
+        "rating": "7.1",
+        "imdb_id": "tt0701262",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "The Secret War of Lisa Simpson",
+        "released": "1997-05-18",
+        "rating": "7.8",
+        "imdb_id": "tt0701259",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

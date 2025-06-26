@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Lost/Found",
+        "released": "2024-06-04",
+        "rating": "5.4",
+        "imdb_id": "tt13820376",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Acolyte\\Subtitles\\S1\\The.Acolyte.S01E01-02.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUXS1E1.zip"
+    },
+    "2": {
+        "title": "Revenge/Justice",
+        "released": "2024-06-04",
+        "rating": "5.1",
+        "imdb_id": "tt15387022",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Destiny",
+        "released": "2024-06-11",
+        "rating": "3.7",
+        "imdb_id": "tt15387026",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Acolyte\\Subtitles\\S1\\The.Acolyte.2024.S01E03.DSNP.WEB-DL.DDP5.1.H.264-NTbS1E3.zip"
+    },
+    "4": {
+        "title": "Day",
+        "released": "2024-06-18",
+        "rating": "4.8",
+        "imdb_id": "tt15387030",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Acolyte\\Subtitles\\S1\\The.Acolyte.2024.S01E04.DSNP.WEB-DL.DDP5.1.H.264-NTbS1E4.zip"
+    },
+    "5": {
+        "title": "Night",
+        "released": "2024-06-25",
+        "rating": "6.5",
+        "imdb_id": "tt15387052",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Acolyte\\Subtitles\\S1\\The.Acolyte.2024.S01E05.DSNP.WEB-DL.DDP5.1.H.264-NTbS1E5.zip"
+    },
+    "6": {
+        "title": "Teach/Corrupt",
+        "released": "2024-07-02",
+        "rating": "N/A",
+        "imdb_id": "tt15387054",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Acolyte\\Subtitles\\S1\\The.Acolyte.2024.S01E06.DSNP.WEB-DL.DDP5.1.H.264-NTb.en[cc].zip"
+    },
+    "7": {
+        "title": "Choice",
+        "released": "2024-07-09",
+        "rating": "4.7",
+        "imdb_id": "tt15387058",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Acolyte\\Subtitles\\S1\\The.Acolyte.2024.S01E07.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUXS1E7.zip"
+    },
+    "8": {
+        "title": "The Acolyte",
+        "released": "2024-07-16",
+        "rating": "5.2",
+        "imdb_id": "tt16274268",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Acolyte\\Subtitles\\S1\\The.Acolyte.2024.S01E08.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUXS1E8.zip"
+    }
+}

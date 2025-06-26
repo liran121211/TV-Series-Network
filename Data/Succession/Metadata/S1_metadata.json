@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Celebration",
+        "released": "2018-06-03",
+        "rating": "7.8",
+        "imdb_id": "tt5791038",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S1\\Succession.S01E01.WEBRip.x264-ION10S1E1.zip"
+    },
+    "2": {
+        "title": "Sh*t Show at the F**k Factory",
+        "released": "2018-06-10",
+        "rating": "7.6",
+        "imdb_id": "tt7660884",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S1\\Succession.S01E02.WEB.H264-DEFLATES1E2.zip"
+    },
+    "3": {
+        "title": "Lifeboats",
+        "released": "2018-06-17",
+        "rating": "7.6",
+        "imdb_id": "tt7660888",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S1\\Succession_S01E03_WEBRip_{Lifeboats}S1E3.zip"
+    },
+    "4": {
+        "title": "Sad Sack Wasp Trap",
+        "released": "2018-06-24",
+        "rating": "7.9",
+        "imdb_id": "tt7660890",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S1\\Succession_S01E04_WEBRip_{Sad_Sack_Wasp_Trap}S1E4.zip"
+    },
+    "5": {
+        "title": "I Went to Market",
+        "released": "2018-07-01",
+        "rating": "8.1",
+        "imdb_id": "tt7660892",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Which Side Are You On?",
+        "released": "2018-07-08",
+        "rating": "9.1",
+        "imdb_id": "tt7660896",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S1\\Succession.S01E06.WEB.H264-DEFLATE.SDHS1E6.zip"
+    },
+    "7": {
+        "title": "Austerlitz",
+        "released": "2018-07-15",
+        "rating": "N/A",
+        "imdb_id": "tt7660898",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S1\\Succession.S01E07.WEB.H264-DEFLATE.SDHS1E7.zip"
+    },
+    "8": {
+        "title": "Prague",
+        "released": "2018-07-22",
+        "rating": "8.1",
+        "imdb_id": "tt7660900",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S1\\S01E08.WEB.H264-DEFLATES1E8.zip"
+    },
+    "9": {
+        "title": "Pre-Nuptial",
+        "released": "2018-07-29",
+        "rating": "8.5",
+        "imdb_id": "tt7660912",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S1\\Succession.S01E09.WEB.H264-DEFLATE[eztv]S1E9.zip"
+    },
+    "10": {
+        "title": "Nobody Is Ever Missing",
+        "released": "2018-08-05",
+        "rating": "9.2",
+        "imdb_id": "tt7660914",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

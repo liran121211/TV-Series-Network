@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2003-09-26",
+        "rating": "N/A",
+        "imdb_id": "tt0616128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Death Be Not Whatever",
+        "released": "2003-11-07",
+        "rating": "N/A",
+        "imdb_id": "tt0616112",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "St. Joan",
+        "released": "2003-11-21",
+        "rating": "N/A",
+        "imdb_id": "tt0616138",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Uncertainty Principle",
+        "released": "2003-12-12",
+        "rating": "9.1",
+        "imdb_id": "tt0616148",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Jump",
+        "released": "2004-01-09",
+        "rating": "9.1",
+        "imdb_id": "tt0616120",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Night without Stars",
+        "released": "2004-02-13",
+        "rating": "N/A",
+        "imdb_id": "tt0616122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Do the Math",
+        "released": "2004-04-02",
+        "rating": "N/A",
+        "imdb_id": "tt0616114",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Anonymous",
+        "released": "2004-04-30",
+        "rating": "N/A",
+        "imdb_id": "tt0616108",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Vanity, Thy Name Is Human",
+        "released": "2004-05-07",
+        "rating": "7.7",
+        "imdb_id": "tt0616151",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Gift",
+        "released": "2004-05-14",
+        "rating": "N/A",
+        "imdb_id": "tt0616146",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Coulda Shoulda",
+        "released": "2021-05-25",
+        "rating": "8.6",
+        "imdb_id": "tt12409654",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S3\\Mr.Inbetween.S03E01.Coulda.Shoulda.HDTV.x264-CRiMSONS3E1.zip"
+    },
+    "2": {
+        "title": "Champ",
+        "released": "2021-05-25",
+        "rating": "8.0",
+        "imdb_id": "tt13795344",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S3\\Mr.Inbetween.S03E02.Champ.HDTV.x264-CRiMSONS3E2.zip"
+    },
+    "3": {
+        "title": "All I Ever Wanted",
+        "released": "2021-06-01",
+        "rating": "N/A",
+        "imdb_id": "tt13795342",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S3\\Mr.Inbetween.S03E03.720p.WEB.X265-MiNXS3E3.zip"
+    },
+    "4": {
+        "title": "Cut The Crap Princess",
+        "released": "2021-06-08",
+        "rating": "7.8",
+        "imdb_id": "tt13795340",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S3\\Mr.Inbetween.S03E04.720p.WEB.H264-PLZPROPERS3E4.zip"
+    },
+    "5": {
+        "title": "Before I Went To War",
+        "released": "2021-06-15",
+        "rating": "8.6",
+        "imdb_id": "tt14483346",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S3\\Mr.Inbetween.S03E05.WEB.x264-PHOENiXS3E5.zip"
+    },
+    "7": {
+        "title": "I'm Your Girl",
+        "released": "2021-06-29",
+        "rating": "N/A",
+        "imdb_id": "tt14483370",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S3\\Mr.Inbetween.S03E07.Im.Your.Girl.720p.HDTV.X264-CRiMSONS3E7.zip"
+    },
+    "8": {
+        "title": "I'll See You Soon",
+        "released": "2021-07-06",
+        "rating": "8.7",
+        "imdb_id": "tt14483576",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "I'm Not Leaving",
+        "released": "2021-07-13",
+        "rating": "N/A",
+        "imdb_id": "tt14483586",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

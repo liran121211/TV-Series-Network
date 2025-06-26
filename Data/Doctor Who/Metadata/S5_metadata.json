@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "The Eleventh Hour",
+        "released": "2010-04-17",
+        "rating": "8.7",
+        "imdb_id": "tt1577256",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Beast Below",
+        "released": "2010-04-24",
+        "rating": "7.6",
+        "imdb_id": "tt1577257",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Victory of the Daleks",
+        "released": "2010-05-01",
+        "rating": "6.6",
+        "imdb_id": "tt1577258",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Time of Angels",
+        "released": "2010-05-08",
+        "rating": "8.6",
+        "imdb_id": "tt1577259",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Flesh and Stone",
+        "released": "2010-05-15",
+        "rating": "8.5",
+        "imdb_id": "tt1589021",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Vampires of Venice",
+        "released": "2010-05-22",
+        "rating": "7.0",
+        "imdb_id": "tt1591787",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Amy's Choice",
+        "released": "2010-06-05",
+        "rating": "8.1",
+        "imdb_id": "tt1591788",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Hungry Earth",
+        "released": "2010-06-12",
+        "rating": "7.1",
+        "imdb_id": "tt1591789",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Cold Blood",
+        "released": "2010-06-19",
+        "rating": "7.3",
+        "imdb_id": "tt1591790",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Vincent and the Doctor",
+        "released": "2010-06-26",
+        "rating": "9.3",
+        "imdb_id": "tt1591786",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Lodger",
+        "released": "2010-07-10",
+        "rating": "8.0",
+        "imdb_id": "tt1607757",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Pandorica Opens",
+        "released": "2010-07-17",
+        "rating": "9.0",
+        "imdb_id": "tt1607758",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Big Bang",
+        "released": "2010-07-24",
+        "rating": "9.1",
+        "imdb_id": "tt1607759",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

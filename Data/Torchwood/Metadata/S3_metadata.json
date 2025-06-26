@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Children of Earth: Day One",
+        "released": "2009-07-20",
+        "rating": "8.9",
+        "imdb_id": "tt1288549",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Children of Earth: Day Two",
+        "released": "2009-07-21",
+        "rating": "N/A",
+        "imdb_id": "tt1287276",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Children of Earth: Day Three",
+        "released": "2009-07-22",
+        "rating": "N/A",
+        "imdb_id": "tt1287277",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Children of Earth: Day Four",
+        "released": "2009-07-23",
+        "rating": "N/A",
+        "imdb_id": "tt1287278",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Children of Earth: Day Five",
+        "released": "2009-07-24",
+        "rating": "9.0",
+        "imdb_id": "tt1287279",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

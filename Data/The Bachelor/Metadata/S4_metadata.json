@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Episode #4.1",
+        "released": "2003-09-24",
+        "rating": "N/A",
+        "imdb_id": "tt1349506",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #4.2",
+        "released": "2003-10-01",
+        "rating": "N/A",
+        "imdb_id": "tt2082996",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #4.4",
+        "released": "2003-10-15",
+        "rating": "N/A",
+        "imdb_id": "tt2082998",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #4.6",
+        "released": "2003-10-29",
+        "rating": "N/A",
+        "imdb_id": "tt2083000",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #4.7",
+        "released": "2003-11-05",
+        "rating": "N/A",
+        "imdb_id": "tt2083001",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #4.8",
+        "released": "2003-11-12",
+        "rating": "N/A",
+        "imdb_id": "tt2083002",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode #4.9",
+        "released": "2003-11-19",
+        "rating": "5.6",
+        "imdb_id": "tt2083003",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "After the Final Rose",
+        "released": "2003-11-20",
+        "rating": "N/A",
+        "imdb_id": "tt2083016",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2001-06-03",
+        "rating": "8.7",
+        "imdb_id": "tt0702006",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Will",
+        "released": "2001-06-10",
+        "rating": "N/A",
+        "imdb_id": "tt0702031",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Foot",
+        "released": "2001-06-17",
+        "rating": "N/A",
+        "imdb_id": "tt0702016",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Familia",
+        "released": "2001-06-24",
+        "rating": "N/A",
+        "imdb_id": "tt0701991",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "An Open Book",
+        "released": "2001-07-01",
+        "rating": "N/A",
+        "imdb_id": "tt0701976",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Room",
+        "released": "2001-07-08",
+        "rating": "8.6",
+        "imdb_id": "tt0702025",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Brotherhood",
+        "released": "2001-07-15",
+        "rating": "N/A",
+        "imdb_id": "tt0701979",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Crossroads",
+        "released": "2001-07-22",
+        "rating": "N/A",
+        "imdb_id": "tt0701982",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Life's Too Short",
+        "released": "2001-07-29",
+        "rating": "8.6",
+        "imdb_id": "tt0702000",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The New Person",
+        "released": "2001-08-05",
+        "rating": "N/A",
+        "imdb_id": "tt0702021",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Trip",
+        "released": "2001-08-12",
+        "rating": "8.3",
+        "imdb_id": "tt0702029",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "A Private Life",
+        "released": "2001-08-19",
+        "rating": "8.8",
+        "imdb_id": "tt0701974",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Knock, Knock",
+        "released": "2001-08-19",
+        "rating": "N/A",
+        "imdb_id": "tt0701999",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

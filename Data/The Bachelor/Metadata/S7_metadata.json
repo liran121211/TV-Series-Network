@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Episode #7.1",
+        "released": "2005-03-28",
+        "rating": "N/A",
+        "imdb_id": "tt0517807",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #7.2",
+        "released": "2005-04-04",
+        "rating": "N/A",
+        "imdb_id": "tt1203582",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #7.3",
+        "released": "2005-04-11",
+        "rating": "N/A",
+        "imdb_id": "tt1214168",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #7.5",
+        "released": "2005-04-25",
+        "rating": "N/A",
+        "imdb_id": "tt1214170",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #7.7",
+        "released": "2005-05-09",
+        "rating": "N/A",
+        "imdb_id": "tt1214172",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

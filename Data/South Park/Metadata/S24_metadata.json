@@ -1,0 +1,34 @@
+{
+    "1": {
+        "title": "The Pandemic Special",
+        "released": "2020-09-30",
+        "rating": "8.3",
+        "imdb_id": "tt10965110",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "South ParQ Vaccination Special",
+        "released": "2021-03-10",
+        "rating": "7.5",
+        "imdb_id": "tt13604916",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "South Park: Post Covid",
+        "released": "2021-11-25",
+        "rating": "8.4",
+        "imdb_id": "tt17702488",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Post Covid - The Return of Covid",
+        "released": "2021-12-16",
+        "rating": "7.5",
+        "imdb_id": "tt16375288",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

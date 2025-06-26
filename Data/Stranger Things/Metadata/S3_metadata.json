@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Chapter One: Suzie, Do You Copy?",
+        "released": "2019-07-04",
+        "rating": "7.8",
+        "imdb_id": "tt7445494",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Chapter Two: The Mall Rats",
+        "released": "2019-07-04",
+        "rating": "7.9",
+        "imdb_id": "tt7640050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Chapter Three: The Case of the Missing Lifeguard",
+        "released": "2019-07-04",
+        "rating": "8.2",
+        "imdb_id": "tt7911866",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Stranger Things\\Subtitles\\S3\\Stranger.Things.S03E03.720p.WEBRip.HEVC.x265-RMTeamS3E3.zip"
+    },
+    "4": {
+        "title": "Chapter Four: The Sauna Test",
+        "released": "2019-07-04",
+        "rating": "8.9",
+        "imdb_id": "tt7911884",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Chapter Five: The Flayed",
+        "released": "2019-07-04",
+        "rating": "8.5",
+        "imdb_id": "tt7911894",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Chapter Six: E Pluribus Unum",
+        "released": "2019-07-04",
+        "rating": "8.5",
+        "imdb_id": "tt7911914",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Chapter Seven: The Bite",
+        "released": "2019-07-04",
+        "rating": "8.7",
+        "imdb_id": "tt7911930",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Chapter Eight: The Battle of Starcourt",
+        "released": "2019-07-04",
+        "rating": "9.2",
+        "imdb_id": "tt7911942",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

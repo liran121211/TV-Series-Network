@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Une voix dans la nuit",
+        "released": "2019-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt10137720",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Quelques maux d'amour",
+        "released": "2020-08-25",
+        "rating": "N/A",
+        "imdb_id": "tt10352692",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "L'Arbre aux Esclaves",
+        "released": "2020-10-24",
+        "rating": "N/A",
+        "imdb_id": "tt11115888",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "La reine des glaces",
+        "released": "2020-10-13",
+        "rating": "N/A",
+        "imdb_id": "tt13050828",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Au nom du fils",
+        "released": "2021-03-29",
+        "rating": "N/A",
+        "imdb_id": "tt13215536",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

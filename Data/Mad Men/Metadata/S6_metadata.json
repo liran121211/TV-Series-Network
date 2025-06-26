@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "The Doorway, Part 1",
+        "released": "2013-04-07",
+        "rating": "7.6",
+        "imdb_id": "tt2470504",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S6\\Mad.Men.S06E01-E02.PROPER.HDTV.x264-2HDS6E1.zip"
+    },
+    "2": {
+        "title": "The Doorway, Part 2",
+        "released": "2013-04-07",
+        "rating": "7.7",
+        "imdb_id": "tt2649564",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Collaborators",
+        "released": "2013-04-14",
+        "rating": "7.8",
+        "imdb_id": "tt2551222",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S6\\Mad.Men.S06E03.PROPER.HDTV.XviD-AFGS6E3.zip"
+    },
+    "4": {
+        "title": "To Have and to Hold",
+        "released": "2013-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt2560864",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Flood",
+        "released": "2013-04-28",
+        "rating": "8.2",
+        "imdb_id": "tt2717848",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S6\\Mad.Men.S06E05.HDTV.x264-EVOLVES6E5.zip"
+    },
+    "6": {
+        "title": "For Immediate Release",
+        "released": "2013-05-05",
+        "rating": "N/A",
+        "imdb_id": "tt2717850",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S6\\Mad.Men.S06E06.HDTV.x264-EVOLVES6E6.zip"
+    },
+    "7": {
+        "title": "Man with a Plan",
+        "released": "2013-05-12",
+        "rating": "N/A",
+        "imdb_id": "tt2663614",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S6\\Mad_Men_S06E07_HDTV_EVOLVE_-_Man_With_A_PlanS6E7.zip"
+    },
+    "8": {
+        "title": "The Crash",
+        "released": "2013-05-19",
+        "rating": "8.7",
+        "imdb_id": "tt2882250",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S6\\Mad.Men.S06E08.HDTV.x264-EVOLVE.HIS6E8.zip"
+    },
+    "9": {
+        "title": "The Better Half",
+        "released": "2013-05-26",
+        "rating": "8.3",
+        "imdb_id": "tt2882248",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S6\\Mad.Men.S06E09.HDTV.x264-EVOLVE.HIS6E9.zip"
+    },
+    "10": {
+        "title": "A Tale of Two Cities",
+        "released": "2013-06-02",
+        "rating": "8.1",
+        "imdb_id": "tt2939966",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Favors",
+        "released": "2013-06-09",
+        "rating": "N/A",
+        "imdb_id": "tt2939964",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Quality of Mercy",
+        "released": "2013-06-16",
+        "rating": "8.5",
+        "imdb_id": "tt2939970",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "In Care Of",
+        "released": "2013-06-23",
+        "rating": "9.1",
+        "imdb_id": "tt2939968",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

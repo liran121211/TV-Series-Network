@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Nathan for You: A Celebration",
+        "released": "2017-09-21",
+        "rating": "N/A",
+        "imdb_id": "tt7277610",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Richards Tip",
+        "released": "2017-09-28",
+        "rating": "N/A",
+        "imdb_id": "tt5262564",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Chili Shop / Massage Parlor",
+        "released": "2017-10-05",
+        "rating": "N/A",
+        "imdb_id": "tt7219390",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Andy vs. Uber",
+        "released": "2017-10-12",
+        "rating": "9.1",
+        "imdb_id": "tt7219394",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Anecdote",
+        "released": "2017-10-19",
+        "rating": "N/A",
+        "imdb_id": "tt7219396",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Shipping Logistics Company",
+        "released": "2017-10-26",
+        "rating": "N/A",
+        "imdb_id": "tt7219398",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Computer Repair / Psychic",
+        "released": "2017-11-02",
+        "rating": "N/A",
+        "imdb_id": "tt7219400",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Nathan for You\\Subtitles\\S1\\Nathan.For.You.S04E07.WEB.x264-TBSS1E7.zip"
+    },
+    "8": {
+        "title": "Finding Frances",
+        "released": "2017-11-09",
+        "rating": "9.5",
+        "imdb_id": "tt7277634",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

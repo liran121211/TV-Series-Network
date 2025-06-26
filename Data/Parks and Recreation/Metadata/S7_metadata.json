@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "2017",
+        "released": "2015-01-13",
+        "rating": "7.5",
+        "imdb_id": "tt3609484",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S7\\Parks.and.Recreation.S07E01.HDTV.XviD-FUMS7E1.zip"
+    },
+    "2": {
+        "title": "Ron & Jammy",
+        "released": "2015-01-13",
+        "rating": "N/A",
+        "imdb_id": "tt3784118",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S7\\Parks.and.Recreation.S07E02.HDTV.XviD-FUMS7E2.zip"
+    },
+    "3": {
+        "title": "William Henry Harrison",
+        "released": "2015-01-20",
+        "rating": "N/A",
+        "imdb_id": "tt3784616",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S7\\Parks.and.Recreation.S07E03E04.HDTV.XviD-FUMS7E3.zip"
+    },
+    "4": {
+        "title": "Leslie and Ron",
+        "released": "2015-01-20",
+        "rating": "9.5",
+        "imdb_id": "tt3784778",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Gryzzlbox",
+        "released": "2015-01-27",
+        "rating": "8.1",
+        "imdb_id": "tt3785430",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S7\\Parks.and.Recreation.S07E05.HDTV.XviD-FUMS7E5.zip"
+    },
+    "6": {
+        "title": "Save JJ's",
+        "released": "2015-01-27",
+        "rating": "N/A",
+        "imdb_id": "tt3785530",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S7\\Parks.and.Recreation.S07E06.HDTV.XviD-FUMS7E6.zip"
+    },
+    "7": {
+        "title": "Donna and Joe",
+        "released": "2015-02-03",
+        "rating": "N/A",
+        "imdb_id": "tt3785532",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S7\\Parks.and.Recreation.S07E07.HDTV.XviD-FUMS7E7.zip"
+    },
+    "8": {
+        "title": "Ms. Ludgate-Dwyer Goes to Washington",
+        "released": "2015-02-03",
+        "rating": "N/A",
+        "imdb_id": "tt3785534",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S7\\Parks.and.Recreation.S07E08.HDTV.x264-LOLS7E8.zip"
+    },
+    "9": {
+        "title": "Pie-Mary",
+        "released": "2015-02-10",
+        "rating": "8.3",
+        "imdb_id": "tt3785432",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S7\\Parks.and.Recreation.S07E09.HDTV.x264-LOLS7E9.zip"
+    },
+    "10": {
+        "title": "The Johnny Karate Super Awesome Musical Explosion Show",
+        "released": "2015-02-10",
+        "rating": "N/A",
+        "imdb_id": "tt3784782",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Two Funerals",
+        "released": "2015-02-17",
+        "rating": "8.4",
+        "imdb_id": "tt3784620",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "One Last Ride",
+        "released": "2015-02-24",
+        "rating": "9.5",
+        "imdb_id": "tt3748226",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

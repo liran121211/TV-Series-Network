@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Gang Turns Black",
+        "released": "2017-01-04",
+        "rating": "8.5",
+        "imdb_id": "tt3984178",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Gang Goes to a Water Park",
+        "released": "2017-01-11",
+        "rating": "9.5",
+        "imdb_id": "tt4463994",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Old Lady House: A Situation Comedy",
+        "released": "2017-01-18",
+        "rating": "8.5",
+        "imdb_id": "tt4463998",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Wolf Cola: A Public Relations Nightmare",
+        "released": "2017-01-25",
+        "rating": "N/A",
+        "imdb_id": "tt4464000",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Making Dennis Reynolds a Murderer",
+        "released": "2017-02-01",
+        "rating": "8.6",
+        "imdb_id": "tt4464004",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Hero or Hate Crime?",
+        "released": "2017-02-08",
+        "rating": "9.4",
+        "imdb_id": "tt4464006",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "PTSDee",
+        "released": "2017-02-15",
+        "rating": "8.6",
+        "imdb_id": "tt4464054",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Gang Tends Bar",
+        "released": "2017-02-22",
+        "rating": "8.1",
+        "imdb_id": "tt4464056",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "A Cricket's Tale",
+        "released": "2017-03-01",
+        "rating": "7.3",
+        "imdb_id": "tt4464060",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Dennis' Double Life",
+        "released": "2017-03-08",
+        "rating": "N/A",
+        "imdb_id": "tt4359302",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

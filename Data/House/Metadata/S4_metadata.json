@@ -1,0 +1,130 @@
+{
+    "1": {
+        "title": "Alone",
+        "released": "2007-09-25",
+        "rating": "8.9",
+        "imdb_id": "tt1081396",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S4\\House.S04E01.HDTV.XViD-CaphS4E1.zip"
+    },
+    "2": {
+        "title": "The Right Stuff",
+        "released": "2007-10-02",
+        "rating": "8.7",
+        "imdb_id": "tt1104387",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S4\\House.M.D.S04E02.720p.WEB-DL.DD5.1.h.264-TjHDS4E2.zip"
+    },
+    "3": {
+        "title": "97 Seconds",
+        "released": "2007-10-09",
+        "rating": "8.7",
+        "imdb_id": "tt1117787",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S4\\House.S04E03.HDTV.XviD-2HDS4E3.zip"
+    },
+    "4": {
+        "title": "Guardian Angels",
+        "released": "2007-10-23",
+        "rating": "8.3",
+        "imdb_id": "tt1117788",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S4\\House.S04E04.HDTV.XviD-LOLS4E4.zip"
+    },
+    "5": {
+        "title": "Mirror Mirror",
+        "released": "2007-10-30",
+        "rating": "8.7",
+        "imdb_id": "tt1117789",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S4\\House.S04E05.720p.HDTV.X264-DIMENSIONS4E5.zip"
+    },
+    "6": {
+        "title": "Whatever It Takes",
+        "released": "2007-11-06",
+        "rating": "8.5",
+        "imdb_id": "tt1123416",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S4\\House.S04E06.Whatever_It_Takes.HDTV.XviD-LOLS4E6.zip"
+    },
+    "7": {
+        "title": "Ugly",
+        "released": "2007-11-13",
+        "rating": "8.1",
+        "imdb_id": "tt1136646",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S4\\House.S04E07.720p.HDTV.X264-DIMENSIONS4E7.zip"
+    },
+    "8": {
+        "title": "You Don't Want to Know",
+        "released": "2007-11-20",
+        "rating": "8.5",
+        "imdb_id": "tt1134258",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S4\\House.S04E08.iNTERNAL.720p.HDTV.x264-CTUS4E8.zip"
+    },
+    "9": {
+        "title": "Games",
+        "released": "2007-11-27",
+        "rating": "8.5",
+        "imdb_id": "tt1144658",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S4\\House.S04E09.720p.HDTV.X264-DIMENSIONS4E9.zip"
+    },
+    "10": {
+        "title": "It's a Wonderful Lie",
+        "released": "2008-01-29",
+        "rating": "8.2",
+        "imdb_id": "tt1172357",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Frozen",
+        "released": "2008-02-03",
+        "rating": "9.1",
+        "imdb_id": "tt1168087",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Don't Ever Change",
+        "released": "2008-02-05",
+        "rating": "7.9",
+        "imdb_id": "tt1178841",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "No More Mr. Nice Guy",
+        "released": "2008-04-28",
+        "rating": "8.0",
+        "imdb_id": "tt1216106",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Living the Dream",
+        "released": "2008-05-05",
+        "rating": "N/A",
+        "imdb_id": "tt1216107",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "House's Head",
+        "released": "2008-05-12",
+        "rating": "9.8",
+        "imdb_id": "tt1216108",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Wilson's Heart",
+        "released": "2008-05-19",
+        "rating": "9.7",
+        "imdb_id": "tt1216109",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

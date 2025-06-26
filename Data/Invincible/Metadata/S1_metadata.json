@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "It's About Time",
+        "released": "2021-03-26",
+        "rating": "8.9",
+        "imdb_id": "tt9691152",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S1\\Invincible.S01E01.WEBRip.x264-MSMOVIESBDS1E1.zip"
+    },
+    "2": {
+        "title": "Here Goes Nothing",
+        "released": "2021-03-26",
+        "rating": "8.4",
+        "imdb_id": "tt9691174",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S1\\Invincible.S01E02.WEBRip.x264-MSMOVIESBDS1E2.zip"
+    },
+    "3": {
+        "title": "Who You Calling Ugly?",
+        "released": "2021-03-26",
+        "rating": "8.1",
+        "imdb_id": "tt9691178",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S1\\Invincible.S01E03.WEBRip.x264-ION10S1E3.zip"
+    },
+    "4": {
+        "title": "Neil Armstrong, Eat Your Heart Out",
+        "released": "2021-04-02",
+        "rating": "7.7",
+        "imdb_id": "tt9691180",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S1\\Invincible.S01E04.WEBRip.x264-ION10S1E4.zip"
+    },
+    "5": {
+        "title": "That Actually Hurt",
+        "released": "2021-04-09",
+        "rating": "9.1",
+        "imdb_id": "tt9691182",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S1\\Invincible.S01E05.WEBRip.AmazonS1E5.zip"
+    },
+    "6": {
+        "title": "You Look Kinda Dead",
+        "released": "2021-04-16",
+        "rating": "7.6",
+        "imdb_id": "tt9691184",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S1\\Invincible.S01E06.WEBRip.AmazonS1E6.zip"
+    },
+    "7": {
+        "title": "We Need to Talk",
+        "released": "2021-04-23",
+        "rating": "9.5",
+        "imdb_id": "tt9691186",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S1\\Invincible.S01E07.WEBRip.AmazonS1E7.zip"
+    },
+    "8": {
+        "title": "Where I Really Come From",
+        "released": "2021-04-30",
+        "rating": "9.7",
+        "imdb_id": "tt9691188",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

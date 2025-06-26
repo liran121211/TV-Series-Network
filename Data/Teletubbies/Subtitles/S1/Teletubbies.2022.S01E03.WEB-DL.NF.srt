@@ -1,0 +1,711 @@
+﻿1
+00:00:06,172 --> 00:00:10,677
+SERIAL NETFLIX
+
+2
+00:00:24,691 --> 00:00:28,153
+{\an8}MUSIK
+
+3
+00:00:30,196 --> 00:00:35,577
+<i>Di atas bukit nan jauh,
+Teletubbies bermain-main.</i>
+
+4
+00:00:36,995 --> 00:00:38,288
+<i>Satu!</i>
+
+5
+00:00:38,371 --> 00:00:39,456
+Satu!
+
+6
+00:00:39,956 --> 00:00:40,999
+<i>Dua!</i>
+
+7
+00:00:42,167 --> 00:00:43,209
+Dua!
+
+8
+00:00:43,293 --> 00:00:45,003
+- <i>Tiga!</i>
+- Tiga!
+
+9
+00:00:45,670 --> 00:00:46,629
+<i>Empat!</i>
+
+10
+00:00:49,424 --> 00:00:50,550
+Empat!
+
+11
+00:00:55,513 --> 00:00:57,474
+{\an8}<i>Teletubbies!</i>
+
+12
+00:00:58,099 --> 00:00:59,934
+{\an8}Ah-oh!
+
+13
+00:01:08,693 --> 00:01:11,988
+<i>Inilah Teletubbies!</i>
+
+14
+00:01:12,655 --> 00:01:13,573
+<i>Tinky Winky!</i>
+
+15
+00:01:13,656 --> 00:01:14,616
+<i>Tinky Winky!</i>
+
+16
+00:01:14,699 --> 00:01:15,575
+<i>Dipsy!</i>
+
+17
+00:01:15,658 --> 00:01:16,618
+<i>Dipsy!</i>
+
+18
+00:01:16,701 --> 00:01:17,577
+<i>Laa-Laa!</i>
+
+19
+00:01:17,660 --> 00:01:18,661
+<i>Laa-Laa!</i>
+
+20
+00:01:18,745 --> 00:01:19,579
+<i>Po!</i>
+
+21
+00:01:19,662 --> 00:01:20,663
+<i>Po!</i>
+
+22
+00:01:20,747 --> 00:01:24,375
+<i>Teletubbies!</i>
+
+23
+00:01:24,459 --> 00:01:27,295
+<i>Ucapkan halo!</i>
+
+24
+00:01:27,378 --> 00:01:28,630
+Ah-oh!
+
+25
+00:01:30,632 --> 00:01:32,967
+Berpelukan!
+
+26
+00:01:35,762 --> 00:01:36,638
+Berpelukan!
+
+27
+00:01:41,392 --> 00:01:42,936
+Ah-oh!
+
+28
+00:01:52,362 --> 00:01:54,864
+<i>Ke mana perginya Teletubbies, ya?</i>
+
+29
+00:02:07,252 --> 00:02:08,461
+Ah-oh!
+
+30
+00:02:36,948 --> 00:02:38,283
+Ah-oh!
+
+31
+00:03:16,779 --> 00:03:17,822
+Tinky Winky!
+
+32
+00:03:17,906 --> 00:03:19,616
+Dipsy!
+
+33
+00:03:20,158 --> 00:03:21,618
+Laa-Laa!
+
+34
+00:03:22,118 --> 00:03:23,244
+Po!
+
+35
+00:03:32,003 --> 00:03:33,171
+Laa-Laa!
+
+36
+00:03:38,635 --> 00:03:40,887
+{\an8}- Ah-oh!
+- <i>Hai! Halo!</i>
+
+37
+00:03:40,970 --> 00:03:43,348
+{\an8}- Ah-oh!
+- <i>Hai! Halo!</i>
+
+38
+00:03:43,431 --> 00:03:44,515
+{\an8}<i>Hai!</i>
+
+39
+00:03:44,599 --> 00:03:45,683
+Hai, Semuanya!
+
+40
+00:03:45,767 --> 00:03:48,478
+Hai, Julia!
+
+41
+00:03:48,561 --> 00:03:53,107
+Aku punya lagu tentang band yang konyol
+dengan banyak alat musik.
+
+42
+00:03:53,191 --> 00:03:55,360
+Kita mulai!
+
+43
+00:03:55,443 --> 00:03:58,947
+<i>Pernah kau dengar band
+Yang paling konyol?</i>
+
+44
+00:03:59,030 --> 00:04:01,282
+<i>Suka main alat musik secepat mungkin</i>
+
+45
+00:04:01,366 --> 00:04:02,951
+<i>Pemain drumnya</i>
+
+46
+00:04:03,034 --> 00:04:04,744
+<i>Dan band bermain</i>
+
+47
+00:04:04,827 --> 00:04:06,454
+<i>Ayo dengar alat musiknya</i>
+
+48
+00:04:06,537 --> 00:04:08,539
+<i>Bagaimana dengan gitar?</i>
+
+49
+00:04:08,623 --> 00:04:11,000
+<i>Pernah kau dengar band
+Yang paling konyol?</i>
+
+50
+00:04:11,084 --> 00:04:13,044
+<i>Suka main alat musik secepat mungkin</i>
+
+51
+00:04:13,127 --> 00:04:14,254
+<i>Pemain drumnya</i>
+
+52
+00:04:14,337 --> 00:04:16,673
+<i>Pemain gitar</i>
+
+53
+00:04:17,215 --> 00:04:18,967
+<i>Dan band bermain</i>
+
+54
+00:04:19,050 --> 00:04:21,010
+Ayo dengar tamborin!
+
+55
+00:04:21,844 --> 00:04:24,222
+<i>Pernah kau dengar band yang paling konyol?</i>
+
+56
+00:04:24,305 --> 00:04:26,432
+<i>Suka main alat musik secepat mungkin</i>
+
+57
+00:04:26,516 --> 00:04:28,184
+<i>Pemain drumnya, pemain gitar</i>
+
+58
+00:04:28,268 --> 00:04:30,687
+<i>Ada yang bermain tamborin</i>
+
+59
+00:04:30,770 --> 00:04:32,480
+<i>Dan band bermain</i>
+
+60
+00:04:32,563 --> 00:04:34,190
+Kita makin mahir.
+
+61
+00:04:34,274 --> 00:04:36,818
+Ayo kita buat lebih heboh dengan marakas.
+
+62
+00:04:36,901 --> 00:04:39,904
+Dan sedikit lebih cepat. Kalian siap?
+
+63
+00:04:39,988 --> 00:04:42,115
+<i>Pernah kau dengar band yang paling konyol?</i>
+
+64
+00:04:42,198 --> 00:04:43,866
+<i>Suka main alat musik secepat mungkin</i>
+
+65
+00:04:43,950 --> 00:04:46,035
+<i>Pemain drumnya, pemain gitar</i>
+
+66
+00:04:46,119 --> 00:04:47,912
+<i>Ada yang bermain tamborin</i>
+
+67
+00:04:47,996 --> 00:04:50,748
+<i>Marakas yang dimainkan ibu pemain drum
+Dan band bermain</i>
+
+68
+00:04:50,832 --> 00:04:53,876
+Kini kita lakukan lebih cepat<i>.</i> Kau siap?
+
+69
+00:04:53,960 --> 00:04:55,795
+<i>Pernah kau dengar band yang paling konyol?</i>
+
+70
+00:04:55,878 --> 00:04:57,505
+<i>Suka main alat musik secepat mungkin</i>
+
+71
+00:04:57,588 --> 00:04:59,465
+<i>Pemain drumnya, pemain gitar</i>
+
+72
+00:04:59,549 --> 00:05:01,342
+<i>Ada yang bermain tamborin
+Marakas yang dimainkan ibu pemain drum</i>
+
+73
+00:05:01,426 --> 00:05:03,928
+<i>Dan band bermain!</i>
+
+74
+00:05:04,012 --> 00:05:05,138
+Oh, ya!
+
+75
+00:05:06,055 --> 00:05:10,226
+Luar biasa! Kau benar-benar
+menguasai alat musikmu.
+
+76
+00:05:10,727 --> 00:05:12,312
+{\an8}<i>Dah. Dadah!</i>
+
+77
+00:05:12,395 --> 00:05:14,605
+{\an8}Dadah!
+
+78
+00:05:20,611 --> 00:05:22,030
+Lagi, lagi!
+
+79
+00:05:22,113 --> 00:05:23,656
+Lagi, lagi!
+
+80
+00:05:23,740 --> 00:05:25,325
+- Lagi, lagi!
+- Lagi!
+
+81
+00:05:27,118 --> 00:05:29,078
+{\an8}Ah-oh!
+
+82
+00:05:29,162 --> 00:05:30,872
+{\an8}...heboh dengan marakas
+
+83
+00:05:30,955 --> 00:05:33,875
+{\an8}Dan sedikit lebih cepat. Kau siap?
+
+84
+00:05:33,958 --> 00:05:36,044
+<i>Pernah kau dengar band
+Yang paling konyol?</i>
+
+85
+00:05:36,127 --> 00:05:37,837
+<i>Suka main alat musik secepat mungkin</i>
+
+86
+00:05:37,920 --> 00:05:40,006
+<i>Pemain drumnya, pemain gitar</i>
+
+87
+00:05:40,089 --> 00:05:43,634
+<i>Ada yang bermain tamborin
+Marakas yang dimainkan ibu pemain drum</i>
+
+88
+00:05:43,718 --> 00:05:44,719
+<i>Dan band bermain</i>
+
+89
+00:05:44,802 --> 00:05:47,847
+Kini kita lakukan lebih cepat. Kau siap?
+
+90
+00:05:47,930 --> 00:05:49,766
+<i>Pernah kau dengar band
+Yang paling konyol?</i>
+
+91
+00:05:49,849 --> 00:05:51,476
+<i>Suka main alat musik secepat mungkin</i>
+
+92
+00:05:51,559 --> 00:05:53,436
+<i>Pemain drumnya, pemain gitar</i>
+
+93
+00:05:53,519 --> 00:05:55,313
+<i>Ada yang bermain tamborin
+Marakas yang dimainkan ibu pemain drum</i>
+
+94
+00:05:55,396 --> 00:05:57,899
+<i>Dan band bermain!</i>
+
+95
+00:05:57,982 --> 00:05:59,108
+Oh, ya!
+
+96
+00:06:09,994 --> 00:06:11,412
+Ah-oh!
+
+97
+00:06:11,496 --> 00:06:16,709
+<i>Suatu hari di Negeri Teletubby,
+saatnya membuat musik pop.</i>
+
+98
+00:06:16,793 --> 00:06:21,964
+Musik pop...
+
+99
+00:06:22,048 --> 00:06:24,759
+<i>Pertama, mikrofon muncul.</i>
+
+100
+00:06:24,842 --> 00:06:26,886
+Mikrofon.
+
+101
+00:06:33,518 --> 00:06:36,062
+Oh! Mikrofon!
+
+102
+00:06:36,145 --> 00:06:39,315
+<i>Tinky Winky pergi melihat mikrofonnya.</i>
+
+103
+00:06:39,816 --> 00:06:41,943
+Tinky Winky mikrofon!
+
+104
+00:06:45,446 --> 00:06:47,448
+Ah-oh, Mikrofon!
+
+105
+00:06:48,658 --> 00:06:49,951
+Mikrofon!
+
+106
+00:06:51,744 --> 00:06:53,788
+Ah-oh, Mikrofon!
+
+107
+00:06:58,167 --> 00:07:00,962
+<i>La la la-la, la la la-la</i>
+
+108
+00:07:01,045 --> 00:07:02,713
+<i>Tinky Winky</i>
+
+109
+00:07:04,465 --> 00:07:06,175
+Hore, Tinky Winky.
+
+110
+00:07:07,385 --> 00:07:09,846
+<i>Lalu, ada drum yang muncul.</i>
+
+111
+00:07:10,930 --> 00:07:13,891
+Drum.
+
+112
+00:07:17,728 --> 00:07:18,729
+Itu drum!
+
+113
+00:07:19,272 --> 00:07:21,649
+<i>Dipsy pergi melihat drumnya.</i>
+
+114
+00:07:23,317 --> 00:07:25,319
+Dipsy melihat drum.
+
+115
+00:07:26,654 --> 00:07:28,322
+Ah-oh, Drum.
+
+116
+00:07:37,498 --> 00:07:38,416
+Ah-oh!
+
+117
+00:07:53,890 --> 00:07:54,891
+Dipsy drum.
+
+118
+00:07:54,974 --> 00:07:57,810
+<i>Selanjutnya, terompet muncul.</i>
+
+119
+00:07:59,103 --> 00:08:00,855
+Terompet.
+
+120
+00:08:06,777 --> 00:08:08,571
+Terompet!
+
+121
+00:08:09,197 --> 00:08:11,824
+<i>Laa-Laa pergi melihat terompetnya.</i>
+
+122
+00:08:12,742 --> 00:08:14,660
+Laa-Laa terompet!
+
+123
+00:08:29,884 --> 00:08:34,096
+<i>Dan yang terakhir,
+sebuah piano besar muncul.</i>
+
+124
+00:08:34,180 --> 00:08:36,140
+Piano!
+
+125
+00:08:37,850 --> 00:08:39,852
+- Piano.
+- Piano?
+
+126
+00:08:42,480 --> 00:08:44,649
+Piano!
+
+127
+00:08:54,659 --> 00:08:56,160
+Ayo, Piano!
+
+128
+00:08:59,080 --> 00:09:00,790
+Ah-oh, Piano!
+
+129
+00:09:32,738 --> 00:09:35,449
+<i>Teletubbies memainkan musik pop.</i>
+
+130
+00:09:36,200 --> 00:09:38,911
+Musik pop!
+
+131
+00:09:40,454 --> 00:09:44,500
+<i>Ini dia, Teletubbies!</i>
+
+132
+00:09:49,463 --> 00:09:52,842
+<i>La la la la, la la la!</i>
+
+133
+00:09:52,925 --> 00:09:54,385
+<i>Tinky Winky!</i>
+
+134
+00:09:54,468 --> 00:09:57,763
+<i>La la la la, la la la!</i>
+
+135
+00:09:59,348 --> 00:10:03,019
+<i>La la la la, la la la!</i>
+
+136
+00:10:04,562 --> 00:10:06,731
+<i>La la la la, la la la!</i>
+
+137
+00:10:08,941 --> 00:10:10,860
+<i>La!</i>
+
+138
+00:10:16,032 --> 00:10:18,117
+<i>Hadirin sekalian,</i>
+
+139
+00:10:18,200 --> 00:10:19,619
+<i>Anak Lelaki dan Anak Perempuan,</i>
+
+140
+00:10:19,702 --> 00:10:24,832
+<i>sekali lagi, sambutlah Teletubbies!</i>
+
+141
+00:10:24,915 --> 00:10:27,627
+<i>Satu, dua, satu-dua-tiga-empat.</i>
+
+142
+00:10:27,710 --> 00:10:31,172
+<i>La la la la, la la la!</i>
+
+143
+00:10:32,548 --> 00:10:36,135
+<i>La la la la, la la la!</i>
+
+144
+00:10:37,928 --> 00:10:41,474
+<i>La la la la, la la la!</i>
+
+145
+00:10:42,725 --> 00:10:44,977
+<i>La la la la, la la!</i>
+
+146
+00:10:47,271 --> 00:10:48,189
+<i>La!</i>
+
+147
+00:10:48,272 --> 00:10:51,233
+<i>Teletubbies suka musik pop.</i>
+
+148
+00:10:55,154 --> 00:10:56,781
+Berpelukan!
+
+149
+00:10:56,864 --> 00:10:58,783
+Berpelukan!
+
+150
+00:10:58,866 --> 00:11:02,453
+<i>Dan Teletubbies saling menyayangi.</i>
+
+151
+00:11:09,794 --> 00:11:13,547
+<i>Saatnya Tubby berpisah!</i>
+
+152
+00:11:23,349 --> 00:11:25,434
+<i>Dadah, Tinky Winky.</i>
+
+153
+00:11:25,518 --> 00:11:26,894
+Dadah!
+
+154
+00:11:28,312 --> 00:11:29,730
+<i>Dadah, Dipsy.</i>
+
+155
+00:11:31,315 --> 00:11:32,608
+Dadah!
+
+156
+00:11:34,527 --> 00:11:35,903
+<i>Dadah, Laa-Laa.</i>
+
+157
+00:11:36,904 --> 00:11:38,322
+Dadah!
+
+158
+00:11:39,949 --> 00:11:41,242
+<i>Dadah, Po.</i>
+
+159
+00:11:41,784 --> 00:11:43,202
+Dadah!
+
+160
+00:11:47,248 --> 00:11:48,624
+Ba!
+
+161
+00:11:48,708 --> 00:11:50,543
+- Ba!
+- Ba!
+
+162
+00:11:51,752 --> 00:11:53,754
+<i>Tidak.</i>
+
+163
+00:11:53,838 --> 00:11:56,257
+Tidak!
+
+164
+00:11:56,757 --> 00:11:58,509
+<i>Dadah, Teletubbies.</i>
+
+165
+00:11:59,051 --> 00:12:01,053
+Dadah!
+
+166
+00:12:05,641 --> 00:12:08,352
+<i>Matahari mulai tenggelam.</i>
+
+167
+00:12:08,436 --> 00:12:10,646
+<i>Teletubbies berpamitan!</i>
+
+168
+00:12:12,106 --> 00:12:13,232
+{\an8}Dadah!
+
+169
+00:12:14,358 --> 00:12:15,568
+{\an8}Dadah!
+
+170
+00:12:16,986 --> 00:12:18,404
+{\an8}Dadah!
+
+171
+00:12:19,989 --> 00:12:21,240
+{\an8}Dadah!
+
+172
+00:12:25,828 --> 00:12:27,121
+{\an8}Dadah!
+
+173
+00:12:32,251 --> 00:12:35,921
+{\an8}Terjemahan subtitle oleh Lysa Weiss
+

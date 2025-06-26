@@ -1,0 +1,34 @@
+{
+    "1": {
+        "title": "A Wise Man's Opinion",
+        "released": "2020-09-02",
+        "rating": "N/A",
+        "imdb_id": "tt12499386",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "By Your Side",
+        "released": "2020-09-09",
+        "rating": "8.5",
+        "imdb_id": "tt1257736",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Hard Lessons",
+        "released": "2020-10-07",
+        "rating": "N/A",
+        "imdb_id": "tt13155952",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Woman Of The Night",
+        "released": "2021-01-13",
+        "rating": "N/A",
+        "imdb_id": "tt13190726",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,218 @@
+{
+    "1": {
+        "title": "Asteroid Blues",
+        "released": "2001-09-02",
+        "rating": "8.2",
+        "imdb_id": "tt0618963",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Cowboy Bebop\\Subtitles\\S1\\Cowboy_Bebop_(Kaubôi_bibappu)_-_Complete_Series_(1998)_E01-E26_Bluray_720p_&_1080pS1E1.zip"
+    },
+    "2": {
+        "title": "Stray Dog Strut",
+        "released": "2001-09-02",
+        "rating": "7.4",
+        "imdb_id": "tt0618978",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Honky Tonk Women",
+        "released": "2001-09-09",
+        "rating": "7.8",
+        "imdb_id": "tt0618971",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Gateway Shuffle",
+        "released": "2001-09-09",
+        "rating": "7.5",
+        "imdb_id": "tt0618968",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Ballad of Fallen Angels",
+        "released": "2001-09-23",
+        "rating": "9.2",
+        "imdb_id": "tt0618964",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Sympathy for the Devil",
+        "released": "2001-12-16",
+        "rating": "8.1",
+        "imdb_id": "tt0618979",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Heavy Metal Queen",
+        "released": "2001-09-23",
+        "rating": "7.6",
+        "imdb_id": "tt0618970",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Waltz for Venus",
+        "released": "2001-12-23",
+        "rating": "8.6",
+        "imdb_id": "tt0618981",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Jamming with Edward",
+        "released": "2001-09-30",
+        "rating": "N/A",
+        "imdb_id": "tt0618972",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Ganymede Elegy",
+        "released": "2001-09-30",
+        "rating": "8.2",
+        "imdb_id": "tt0618967",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Toys in the Attic",
+        "released": "2001-10-07",
+        "rating": "8.3",
+        "imdb_id": "tt0822554",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Jupiter Jazz: Part 1",
+        "released": "2001-10-07",
+        "rating": "N/A",
+        "imdb_id": "tt0618973",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Jupiter Jazz: Part 2",
+        "released": "2001-10-14",
+        "rating": "8.8",
+        "imdb_id": "tt0824569",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Bohemian Rhapsody",
+        "released": "2001-10-14",
+        "rating": "7.7",
+        "imdb_id": "tt0822552",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "My Funny Valentine",
+        "released": "2001-10-21",
+        "rating": "7.8",
+        "imdb_id": "tt0618975",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Black Dog Serenade",
+        "released": "2001-10-21",
+        "rating": "7.9",
+        "imdb_id": "tt0824568",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Mushroom Samba",
+        "released": "2001-10-28",
+        "rating": "8.4",
+        "imdb_id": "tt0618974",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Speak Like a Child",
+        "released": "2001-10-28",
+        "rating": "8.6",
+        "imdb_id": "tt0618977",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Wild Horses",
+        "released": "2001-11-04",
+        "rating": "7.3",
+        "imdb_id": "tt0822555",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Pierrot le Fou",
+        "released": "2001-11-04",
+        "rating": "9.0",
+        "imdb_id": "tt0618976",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Boogie Woogie Feng Shui",
+        "released": "2001-11-11",
+        "rating": "7.1",
+        "imdb_id": "tt0822553",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Cowboy Funk",
+        "released": "2002-02-15",
+        "rating": "8.2",
+        "imdb_id": "tt0618966",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Brain Scratch",
+        "released": "2001-11-11",
+        "rating": "8.3",
+        "imdb_id": "tt0618965",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Hard Luck Woman",
+        "released": "2001-11-18",
+        "rating": "8.9",
+        "imdb_id": "tt0618969",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "The Real Folk Blues: Part 1",
+        "released": "2001-11-18",
+        "rating": "9.1",
+        "imdb_id": "tt0766181",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "The Real Folk Blues: Part 2",
+        "released": "2001-11-25",
+        "rating": "9.5",
+        "imdb_id": "tt0618980",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Session XX: Mish-Mash Blues",
+        "released": "1998-06-26",
+        "rating": "6.8",
+        "imdb_id": "tt0889816",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "1": {
+        "title": "Trump vs. The World",
+        "released": "2018-02-18",
+        "rating": "N/A",
+        "imdb_id": "tt7628928",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Italian Election",
+        "released": "2018-02-25",
+        "rating": "N/A",
+        "imdb_id": "tt8060592",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "NRA TV",
+        "released": "2018-03-04",
+        "rating": "N/A",
+        "imdb_id": "tt8094100",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Cryptocurrencies",
+        "released": "2018-03-11",
+        "rating": "7.8",
+        "imdb_id": "tt8094136",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Mike Pence",
+        "released": "2018-03-18",
+        "rating": "N/A",
+        "imdb_id": "tt8125734",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Immigration Courts",
+        "released": "2018-04-01",
+        "rating": "N/A",
+        "imdb_id": "tt8152518",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Crisis Pregnancy Centers",
+        "released": "2018-04-08",
+        "rating": "N/A",
+        "imdb_id": "tt8223960",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Corporate Taxes",
+        "released": "2018-04-15",
+        "rating": "N/A",
+        "imdb_id": "tt8223964",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Iran Deal",
+        "released": "2018-04-22",
+        "rating": "N/A",
+        "imdb_id": "tt8223968",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Last Week Tonight with John Oliver\\Subtitles\\S8\\Last.Week.Tonight.with.John.Oliver.S08E09.WEBRip.x264-ION10S8E9.zip"
+    },
+    "10": {
+        "title": "Rudy Giuliani",
+        "released": "2018-05-06",
+        "rating": "N/A",
+        "imdb_id": "tt8316212",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Venezuela",
+        "released": "2018-05-13",
+        "rating": "7.7",
+        "imdb_id": "tt8413160",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Rehab",
+        "released": "2018-05-20",
+        "rating": "N/A",
+        "imdb_id": "tt8413248",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Guardianship",
+        "released": "2018-06-03",
+        "rating": "N/A",
+        "imdb_id": "tt8444464",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Stupid Watergate II",
+        "released": "2018-06-10",
+        "rating": "N/A",
+        "imdb_id": "tt8444474",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Xi Jinping",
+        "released": "2018-06-17",
+        "rating": "N/A",
+        "imdb_id": "tt8444500",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Mexican Elections",
+        "released": "2018-06-24",
+        "rating": "N/A",
+        "imdb_id": "tt8444506",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Workplace Sexual Harassment",
+        "released": "2018-07-29",
+        "rating": "N/A",
+        "imdb_id": "tt8609696",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Prosecutors",
+        "released": "2018-08-05",
+        "rating": "N/A",
+        "imdb_id": "tt8769330",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Astroturfing",
+        "released": "2018-08-12",
+        "rating": "N/A",
+        "imdb_id": "tt8804716",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Trade",
+        "released": "2018-08-19",
+        "rating": "N/A",
+        "imdb_id": "tt8836516",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Felony Disenfranchisement",
+        "released": "2018-09-09",
+        "rating": "N/A",
+        "imdb_id": "tt8836522",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Facebook",
+        "released": "2018-09-23",
+        "rating": "N/A",
+        "imdb_id": "tt8980470",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Kavanaugh",
+        "released": "2018-09-30",
+        "rating": "N/A",
+        "imdb_id": "tt9060308",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Brazilian Elections",
+        "released": "2018-10-07",
+        "rating": "8.0",
+        "imdb_id": "tt9081584",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Saudi Arabia",
+        "released": "2018-10-14",
+        "rating": "N/A",
+        "imdb_id": "tt9081582",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "State Attorneys General",
+        "released": "2018-10-28",
+        "rating": "N/A",
+        "imdb_id": "tt9081586",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Drain the Swamp",
+        "released": "2018-11-11",
+        "rating": "N/A",
+        "imdb_id": "tt9081592",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Authoritarianism",
+        "released": "2018-11-18",
+        "rating": "8.6",
+        "imdb_id": "tt9081594",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

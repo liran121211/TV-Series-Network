@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Welcome to the Newpocalypse",
+        "released": "2018-10-05",
+        "rating": "N/A",
+        "imdb_id": "tt7756074",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "A New Life",
+        "released": "2018-10-12",
+        "rating": "7.5",
+        "imdb_id": "tt8705598",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Escape from Altura",
+        "released": "2018-10-19",
+        "rating": "7.7",
+        "imdb_id": "tt8705642",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Pacifica",
+        "released": "2018-10-26",
+        "rating": "7.0",
+        "imdb_id": "tt8705650",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Killing All the Books",
+        "released": "2018-11-02",
+        "rating": "7.1",
+        "imdb_id": "tt8705664",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Limbo",
+        "released": "2018-11-09",
+        "rating": "7.1",
+        "imdb_id": "tt8705682",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Doc's Stoned History",
+        "released": "2018-11-16",
+        "rating": "6.7",
+        "imdb_id": "tt8697860",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Heartland",
+        "released": "2018-11-23",
+        "rating": "6.9",
+        "imdb_id": "tt8705694",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Water Keepers",
+        "released": "2018-11-30",
+        "rating": "6.7",
+        "imdb_id": "tt8063636",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "State of Mine",
+        "released": "2018-12-07",
+        "rating": "7.0",
+        "imdb_id": "tt8789922",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Hackerville",
+        "released": "2018-12-14",
+        "rating": "7.2",
+        "imdb_id": "tt8865730",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "At All Cost",
+        "released": "2018-12-21",
+        "rating": "N/A",
+        "imdb_id": "tt8865734",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The End of Everything",
+        "released": "2018-12-28",
+        "rating": "7.4",
+        "imdb_id": "tt8902704",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Time Will Tell",
+        "released": "2010-07-06",
+        "rating": "8.1",
+        "imdb_id": "tt1618355",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Mild Mannered",
+        "released": "2010-07-13",
+        "rating": "7.5",
+        "imdb_id": "tt1665404",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Beyond Our Control",
+        "released": "2010-07-20",
+        "rating": "7.6",
+        "imdb_id": "tt1684864",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Age Before Beauty",
+        "released": "2010-07-27",
+        "rating": "7.6",
+        "imdb_id": "tt1684863",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "13.1",
+        "released": "2010-08-03",
+        "rating": "7.9",
+        "imdb_id": "tt1659181",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Around the Bend",
+        "released": "2010-08-10",
+        "rating": "7.6",
+        "imdb_id": "tt1684860",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "For the Team",
+        "released": "2010-08-17",
+        "rating": "7.6",
+        "imdb_id": "tt1684861",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Merge with Caution",
+        "released": "2010-08-24",
+        "rating": "N/A",
+        "imdb_id": "tt1684862",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Vendetta",
+        "released": "2010-08-31",
+        "rating": "7.8",
+        "imdb_id": "tt1679521",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Where and When",
+        "released": "2010-09-07",
+        "rating": "8.2",
+        "imdb_id": "tt1708361",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Buried",
+        "released": "2010-09-14",
+        "rating": "8.1",
+        "imdb_id": "tt1707663",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Reset",
+        "released": "2010-09-21",
+        "rating": "8.1",
+        "imdb_id": "tt1719469",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Secret Santa",
+        "released": "2010-12-07",
+        "rating": "7.5",
+        "imdb_id": "tt1790597",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

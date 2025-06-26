@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Kiss Kiss, Bang Bang",
+        "released": "2008-01-26",
+        "rating": "N/A",
+        "imdb_id": "tt1153680",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Sleeper",
+        "released": "2008-01-23",
+        "rating": "7.4",
+        "imdb_id": "tt1160003",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "To the Last Man",
+        "released": "2008-01-30",
+        "rating": "N/A",
+        "imdb_id": "tt1160284",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Meat",
+        "released": "2008-02-06",
+        "rating": "7.5",
+        "imdb_id": "tt1160285",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Adam",
+        "released": "2008-02-13",
+        "rating": "7.9",
+        "imdb_id": "tt1160001",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Reset",
+        "released": "2008-02-13",
+        "rating": "7.9",
+        "imdb_id": "tt1160002",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Dead Man Walking",
+        "released": "2008-02-20",
+        "rating": "7.7",
+        "imdb_id": "tt1186346",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "A Day in the Death",
+        "released": "2008-02-27",
+        "rating": "N/A",
+        "imdb_id": "tt1186345",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Something Borrowed",
+        "released": "2008-03-05",
+        "rating": "7.7",
+        "imdb_id": "tt1186347",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "From Out of the Rain",
+        "released": "2008-03-12",
+        "rating": "6.9",
+        "imdb_id": "tt1190503",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Adrift",
+        "released": "2008-03-19",
+        "rating": "N/A",
+        "imdb_id": "tt1190500",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Fragments",
+        "released": "2008-03-21",
+        "rating": "8.4",
+        "imdb_id": "tt1190502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Exit Wounds",
+        "released": "2008-04-04",
+        "rating": "8.7",
+        "imdb_id": "tt1190501",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

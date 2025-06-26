@@ -1,0 +1,34 @@
+{
+    "1": {
+        "title": "Go, Kendra!",
+        "released": "2009-06-07",
+        "rating": "8.3",
+        "imdb_id": "tt1455398",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Baskett Cases",
+        "released": "2009-06-14",
+        "rating": "7.7",
+        "imdb_id": "tt1455397",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "No Hanky, No Panky",
+        "released": "2009-07-05",
+        "rating": "7.7",
+        "imdb_id": "tt1467619",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Undress Rehearsal/Let Them Eat Wedding Cake",
+        "released": "2009-08-02",
+        "rating": "N/A",
+        "imdb_id": "tt1484649",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

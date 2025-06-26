@@ -1,0 +1,194 @@
+{
+    "1": {
+        "title": "The One with Monica's Thunder",
+        "released": "2000-10-12",
+        "rating": "8.2",
+        "imdb_id": "tt0756483",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S7\\Friends.S07E01.UNCUT.DVDRip.XviD-SAiNTSS7E1.zip"
+    },
+    "2": {
+        "title": "The One with Rachel's Book",
+        "released": "2000-10-12",
+        "rating": "8.1",
+        "imdb_id": "tt0583546",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S7\\Friends.S07E02.UNCUT.DVDRip.XviD-SAiNTSS7E2.zip"
+    },
+    "3": {
+        "title": "The One with Phoebe's Cookies",
+        "released": "2000-10-19",
+        "rating": "7.9",
+        "imdb_id": "tt0583536",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S7\\Friends.S07E03.UNCUT.DVDRip.XviD-SAiNTSS7E3.zip"
+    },
+    "4": {
+        "title": "The One with Rachel's Assistant",
+        "released": "2000-10-26",
+        "rating": "N/A",
+        "imdb_id": "tt0583544",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S7\\Friends.S07E04.UNCUT.DVDRip.XviD-SAiNTSS7E4.zip"
+    },
+    "5": {
+        "title": "The One with the Engagement Picture",
+        "released": "2000-11-02",
+        "rating": "7.9",
+        "imdb_id": "tt0583601",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S7\\Friends.S07E05.UNCUT.DVDRip.XviD-SAiNTSS7E5.zip"
+    },
+    "6": {
+        "title": "The One with the Nap Partners",
+        "released": "2000-11-09",
+        "rating": "8.7",
+        "imdb_id": "tt0583632",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S7\\Friends.S07E06.UNCUT.DVDRip.XviD-SAiNTSS7E6.zip"
+    },
+    "7": {
+        "title": "The One with Ross's Library Book",
+        "released": "2000-11-16",
+        "rating": "N/A",
+        "imdb_id": "tt0583558",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S7\\Friends.S07E07.UNCUT.DVDRip.XviD-SAiNTSS7E7.zip"
+    },
+    "8": {
+        "title": "The One Where Chandler Doesn't Like Dogs",
+        "released": "2000-11-23",
+        "rating": "N/A",
+        "imdb_id": "tt0583431",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S7\\Friends.S07E08.UNCUT.DVDRip.XviD-SAiNTSS7E8.zip"
+    },
+    "9": {
+        "title": "The One with All the Candy",
+        "released": "2000-12-07",
+        "rating": "7.9",
+        "imdb_id": "tt0583503",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S7\\Friends.S07E09.UNCUT.DVDRip.XviD-SAiNTSS7E9.zip"
+    },
+    "10": {
+        "title": "The One with the Holiday Armadillo",
+        "released": "2000-12-14",
+        "rating": "N/A",
+        "imdb_id": "tt0583613",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The One with All the Cheesecakes",
+        "released": "2001-01-04",
+        "rating": "8.4",
+        "imdb_id": "tt0583504",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The One Where They're Up All Night",
+        "released": "2001-01-11",
+        "rating": "N/A",
+        "imdb_id": "tt0583491",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The One Where Rosita Dies",
+        "released": "2001-02-01",
+        "rating": "N/A",
+        "imdb_id": "tt0583478",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The One Where They All Turn Thirty",
+        "released": "2001-02-08",
+        "rating": "8.4",
+        "imdb_id": "tt0583489",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The One with Joey's New Brain",
+        "released": "2001-02-15",
+        "rating": "8.2",
+        "imdb_id": "tt0583528",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The One with the Truth About London",
+        "released": "2001-02-22",
+        "rating": "8.6",
+        "imdb_id": "tt0583655",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The One with the Cheap Wedding Dress",
+        "released": "2001-03-15",
+        "rating": "8.2",
+        "imdb_id": "tt0583589",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The One with Joey's Award",
+        "released": "2001-03-29",
+        "rating": "N/A",
+        "imdb_id": "tt0583522",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The One with Ross and Monica's Cousin",
+        "released": "2001-04-19",
+        "rating": "8.5",
+        "imdb_id": "tt0583556",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The One with Rachel's Big Kiss",
+        "released": "2001-04-26",
+        "rating": "8.2",
+        "imdb_id": "tt0583545",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The One with the Vows",
+        "released": "2001-05-03",
+        "rating": "7.2",
+        "imdb_id": "tt0756484",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The One with Chandler's Dad",
+        "released": "2001-05-10",
+        "rating": "8.2",
+        "imdb_id": "tt0583516",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "The One with Monica and Chandler's Wedding: Part 1",
+        "released": "2001-05-17",
+        "rating": "8.7",
+        "imdb_id": "tt0583531",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S7\\Friends.S07E23-24.UNCUT.DVDRip.XviD-SAiNTSS7E23.zip"
+    },
+    "24": {
+        "title": "The One with Monica and Chandler's Wedding: Part 2",
+        "released": "2001-05-17",
+        "rating": "N/A",
+        "imdb_id": "tt0583532",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

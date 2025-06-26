@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Tony",
+        "released": "2011-01-17",
+        "rating": "7.9",
+        "imdb_id": "tt0939424",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Skins\\Subtitles\\S1\\Skins.S01E01.WS.PDTV.XviD-RiVERS1E1.zip"
+    },
+    "2": {
+        "title": "Cassie",
+        "released": "2007-02-01",
+        "rating": "8.5",
+        "imdb_id": "tt0946638",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Skins\\Subtitles\\S1\\Skins.S01E02.WS.PDTV.XviD-CaRaTS1E2.zip"
+    },
+    "4": {
+        "title": "Chris",
+        "released": "2007-02-15",
+        "rating": "N/A",
+        "imdb_id": "tt0946640",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Sid",
+        "released": "2007-02-22",
+        "rating": "N/A",
+        "imdb_id": "tt0946641",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Skins\\Subtitles\\S1\\Skins.S01E05.Sid.DVDRip-FoVS1E5.zip"
+    },
+    "6": {
+        "title": "Maxxie and Anwar",
+        "released": "2007-03-01",
+        "rating": "8.2",
+        "imdb_id": "tt0946642",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Skins\\Subtitles\\S1\\Skins.S01E06.Maxxie.and.Anwar.DVDRip-FoVS1E6.zip"
+    },
+    "7": {
+        "title": "Michelle",
+        "released": "2007-03-08",
+        "rating": "N/A",
+        "imdb_id": "tt0946643",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Skins\\Subtitles\\S1\\Skins.S01E07.Michelle.DVDRip-FoVS1E7.zip"
+    },
+    "8": {
+        "title": "Effy",
+        "released": "2007-03-15",
+        "rating": "N/A",
+        "imdb_id": "tt0946644",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Skins\\Subtitles\\S1\\Skins.S01E08.Effy.DVDRip-FoVS1E8.zip"
+    },
+    "9": {
+        "title": "Finale",
+        "released": "2007-03-22",
+        "rating": "9.1",
+        "imdb_id": "tt0946645",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

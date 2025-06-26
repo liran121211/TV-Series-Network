@@ -1,0 +1,34 @@
+{
+    "1": {
+        "title": "Episode #30.1",
+        "released": "2021-04-25",
+        "rating": "6.3",
+        "imdb_id": "tt14141732",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S30\\Top.Gear.S30E01.1080p.HDTV.H264-ORGANiCS30E1.zip"
+    },
+    "2": {
+        "title": "Episode #30.2",
+        "released": "2021-05-02",
+        "rating": "5.9",
+        "imdb_id": "tt14293544",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #30.3",
+        "released": "2021-05-09",
+        "rating": "5.9",
+        "imdb_id": "tt14342812",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #30.4",
+        "released": "2021-05-16",
+        "rating": "5.5",
+        "imdb_id": "tt14342844",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S30\\Top.Gear.S30E04.1080p.HDTV.H264-ORGANiCS30E4.zip"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "1": {
+        "title": "Mrs McGinty's Dead",
+        "released": "2008-09-14",
+        "rating": "7.7",
+        "imdb_id": "tt0772597",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S11\\S11E01Mrs_McGintys_Dead_[DVDRip_XviD]S11E1.zip"
+    },
+    "2": {
+        "title": "Cat Among the Pigeons",
+        "released": "2009-06-21",
+        "rating": "7.9",
+        "imdb_id": "tt1105122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Third Girl",
+        "released": "2010-07-18",
+        "rating": "7.7",
+        "imdb_id": "tt0981210",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Appointment with Death",
+        "released": "2010-07-25",
+        "rating": "7.5",
+        "imdb_id": "tt1230605",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

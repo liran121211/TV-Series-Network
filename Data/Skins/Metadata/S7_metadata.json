@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Fire: Part 1",
+        "released": "2013-07-01",
+        "rating": "7.8",
+        "imdb_id": "tt2465548",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Fire: Part 2",
+        "released": "2013-07-08",
+        "rating": "N/A",
+        "imdb_id": "tt3016350",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Pure: Part 1",
+        "released": "2013-07-15",
+        "rating": "7.2",
+        "imdb_id": "tt2353161",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Pure: Part 2",
+        "released": "2013-07-22",
+        "rating": "7.0",
+        "imdb_id": "tt3016366",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Rise: Part 1",
+        "released": "2013-07-29",
+        "rating": "N/A",
+        "imdb_id": "tt2465546",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Rise: Part 2",
+        "released": "2013-08-05",
+        "rating": "7.9",
+        "imdb_id": "tt3016356",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

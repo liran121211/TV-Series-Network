@@ -1,0 +1,130 @@
+{
+    "1": {
+        "title": "Episode #1.1",
+        "released": "2023-06-17",
+        "rating": "4.6",
+        "imdb_id": "tt27785634",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\King the Land\\Subtitles\\S1\\킹더랜드.King.The.Land.E01.230617.HDTV.H264-NEXT-NFS1E1.zip"
+    },
+    "2": {
+        "title": "Episode #1.2",
+        "released": "2023-06-18",
+        "rating": "N/A",
+        "imdb_id": "tt27785637",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\King the Land\\Subtitles\\S1\\킹더랜드.King.The.Land.E02.230618.HDTV.H264-NEXT-NFS1E2.zip"
+    },
+    "3": {
+        "title": "Episode #1.3",
+        "released": "2023-06-24",
+        "rating": "N/A",
+        "imdb_id": "tt27785638",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\King the Land\\Subtitles\\S1\\킹더랜드.King.The.Land.E03.230624.HDTV.H264-NEXT-NFS1E3.zip"
+    },
+    "4": {
+        "title": "Episode #1.4",
+        "released": "2023-06-25",
+        "rating": "N/A",
+        "imdb_id": "tt27785641",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\King the Land\\Subtitles\\S1\\킹더랜드.King.the.Land.E04.230625.HDTV.H264-NEXT-NFS1E4.zip"
+    },
+    "5": {
+        "title": "Episode #1.5",
+        "released": "2023-07-01",
+        "rating": "N/A",
+        "imdb_id": "tt27785643",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\King the Land\\Subtitles\\S1\\킹더랜드.King.the.Land.E05.230701.HDTV.H264-NEXT-NFS1E5.zip"
+    },
+    "6": {
+        "title": "Episode #1.6",
+        "released": "2023-07-02",
+        "rating": "N/A",
+        "imdb_id": "tt27785644",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\King the Land\\Subtitles\\S1\\킹더랜드.King.the.Land.E06.230702.HDTV.H264-NEXT-NFS1E6.zip"
+    },
+    "7": {
+        "title": "Episode #1.7",
+        "released": "2023-07-08",
+        "rating": "N/A",
+        "imdb_id": "tt27785645",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\King the Land\\Subtitles\\S1\\킹더랜드.King.the.Land.E07.230708.HDTV.H264-NEXT-NFS1E7.zip"
+    },
+    "8": {
+        "title": "Episode #1.8",
+        "released": "2023-07-09",
+        "rating": "N/A",
+        "imdb_id": "tt27785647",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\King the Land\\Subtitles\\S1\\킹더랜드.King.the.Land.E08.230709.HDTV.H264-NEXT-NFS1E8.zip"
+    },
+    "9": {
+        "title": "Episode #1.9",
+        "released": "2023-07-15",
+        "rating": "N/A",
+        "imdb_id": "tt27785648",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\King the Land\\Subtitles\\S1\\킹더랜드.King.the.Land.E09.230715.HDTV.H264-NEXT-NFS1E9.zip"
+    },
+    "10": {
+        "title": "Episode #1.10",
+        "released": "2023-07-16",
+        "rating": "N/A",
+        "imdb_id": "tt27785650",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Episode #1.11",
+        "released": "2023-07-22",
+        "rating": "N/A",
+        "imdb_id": "tt27785651",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Episode #1.12",
+        "released": "2023-07-23",
+        "rating": "N/A",
+        "imdb_id": "tt27785652",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Episode #1.13",
+        "released": "2023-07-29",
+        "rating": "N/A",
+        "imdb_id": "tt27785653",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Episode #1.14",
+        "released": "2023-07-30",
+        "rating": "N/A",
+        "imdb_id": "tt27785654",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Episode #1.15",
+        "released": "2023-08-05",
+        "rating": "N/A",
+        "imdb_id": "tt27785657",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Episode #1.16",
+        "released": "2023-08-06",
+        "rating": "N/A",
+        "imdb_id": "tt27785659",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\King the Land\\Subtitles\\S1\\SUBDL::king-the-land-kingdeolaendeu-english-3145519.zip"
+    }
+}

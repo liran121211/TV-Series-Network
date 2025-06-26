@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Kamp Krusty",
+        "released": "1992-09-24",
+        "rating": "8.5",
+        "imdb_id": "tt0701142",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E01.WEB-DL.DSNPS14E1.zip"
+    },
+    "2": {
+        "title": "A Streetcar Named Marge",
+        "released": "1992-10-01",
+        "rating": "8.1",
+        "imdb_id": "tt0701048",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E02.WEB-DL.DSNPS14E2.zip"
+    },
+    "3": {
+        "title": "Homer the Heretic",
+        "released": "1992-10-08",
+        "rating": "8.9",
+        "imdb_id": "tt0773647",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E03.WEB-DL.DSNPS14E3.zip"
+    },
+    "4": {
+        "title": "Lisa the Beauty Queen",
+        "released": "1992-10-15",
+        "rating": "7.7",
+        "imdb_id": "tt0701154",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E04.WEB-DL.DSNPS14E4.zip"
+    },
+    "5": {
+        "title": "Treehouse of Horror III",
+        "released": "1992-10-29",
+        "rating": "8.4",
+        "imdb_id": "tt0758368",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E05.WEB-DL.DSNPS14E5.zip"
+    },
+    "6": {
+        "title": "Itchy & Scratchy: The Movie",
+        "released": "1992-11-03",
+        "rating": "8.2",
+        "imdb_id": "tt0701139",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E06.WEB-DL.DSNPS14E6.zip"
+    },
+    "7": {
+        "title": "Marge Gets a Job",
+        "released": "1992-11-05",
+        "rating": "7.8",
+        "imdb_id": "tt0701169",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E07.WEB-DL.DSNPS14E7.zip"
+    },
+    "8": {
+        "title": "New Kid on the Block",
+        "released": "1992-11-12",
+        "rating": "8.2",
+        "imdb_id": "tt0701189",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E08.WEB-DL.DSNPS14E8.zip"
+    },
+    "9": {
+        "title": "Mr. Plow",
+        "released": "1992-11-19",
+        "rating": "8.8",
+        "imdb_id": "tt0701184",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E09.WEB-DL.DSNPS14E9.zip"
+    },
+    "10": {
+        "title": "Lisa's First Word",
+        "released": "1992-12-03",
+        "rating": "8.7",
+        "imdb_id": "tt0701160",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Homer's Triple Bypass",
+        "released": "1992-12-17",
+        "rating": "8.6",
+        "imdb_id": "tt0772625",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Marge vs. the Monorail",
+        "released": "1993-01-14",
+        "rating": "9.1",
+        "imdb_id": "tt0701173",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Selma's Choice",
+        "released": "1993-01-21",
+        "rating": "8.0",
+        "imdb_id": "tt0773650",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Brother from the Same Planet",
+        "released": "1993-02-04",
+        "rating": "8.1",
+        "imdb_id": "tt0764185",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "I Love Lisa",
+        "released": "1993-02-11",
+        "rating": "8.4",
+        "imdb_id": "tt0773648",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Duffless",
+        "released": "1993-02-18",
+        "rating": "8.3",
+        "imdb_id": "tt0763029",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Last Exit to Springfield",
+        "released": "1993-03-11",
+        "rating": "9.0",
+        "imdb_id": "tt0701151",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "So It's Come to This: A Simpsons Clip Show",
+        "released": "1993-04-01",
+        "rating": "7.0",
+        "imdb_id": "tt0773651",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Front",
+        "released": "1993-04-15",
+        "rating": "8.1",
+        "imdb_id": "tt0701237",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Whacking Day",
+        "released": "1993-04-29",
+        "rating": "8.1",
+        "imdb_id": "tt0701292",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Marge in Chains",
+        "released": "1993-05-06",
+        "rating": "7.7",
+        "imdb_id": "tt0701171",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Krusty Gets Kancelled",
+        "released": "1993-05-13",
+        "rating": "8.1",
+        "imdb_id": "tt0701148",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

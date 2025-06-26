@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "The Cure",
+        "released": "2005-03-15",
+        "rating": "N/A",
+        "imdb_id": "tt0699536",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S4\\The.Shield.S04E10-13.WS.DVDRip.XviD-SAiNTSS4E10.zip"
+    },
+    "2": {
+        "title": "Grave",
+        "released": "2005-03-22",
+        "rating": "7.4",
+        "imdb_id": "tt0699508",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S4\\The.Shield.S04E02-05.WS.DVDRip.XviD-SAiNTSS4E2.zip"
+    },
+    "3": {
+        "title": "Bang",
+        "released": "2005-03-29",
+        "rating": "7.4",
+        "imdb_id": "tt0699485",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Doghouse",
+        "released": "2005-04-05",
+        "rating": "N/A",
+        "imdb_id": "tt0699502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Tar Baby",
+        "released": "2005-04-12",
+        "rating": "8.1",
+        "imdb_id": "tt0699535",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Insurgents",
+        "released": "2005-04-19",
+        "rating": "7.7",
+        "imdb_id": "tt0699513",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S4\\The.Shield.S04E06-09.WS.DVDRip.XviD-SAiNTSS4E6.zip"
+    },
+    "7": {
+        "title": "Hurt",
+        "released": "2005-04-26",
+        "rating": "N/A",
+        "imdb_id": "tt0699511",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Cut Throat",
+        "released": "2005-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt0699498",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "String Theory",
+        "released": "2005-05-17",
+        "rating": "N/A",
+        "imdb_id": "tt0699533",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Back in the Hole",
+        "released": "2005-05-24",
+        "rating": "8.3",
+        "imdb_id": "tt0699484",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S4\\The.Shield.S04E10-13.WS.DVDRip.XviD-SAiNTSS4E10.zip"
+    },
+    "11": {
+        "title": "A Thousand Deaths",
+        "released": "2005-05-31",
+        "rating": "N/A",
+        "imdb_id": "tt0699481",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Judas Priest",
+        "released": "2005-06-07",
+        "rating": "8.1",
+        "imdb_id": "tt0699515",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Ain't That a Shame",
+        "released": "2005-06-14",
+        "rating": "8.2",
+        "imdb_id": "tt0699482",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

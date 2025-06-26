@@ -1,0 +1,26 @@
+{
+    "1": {
+        "title": "Episode #2.1",
+        "released": "2023-08-22",
+        "rating": "N/A",
+        "imdb_id": "tt28630117",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #2.2",
+        "released": "2023-08-22",
+        "rating": "N/A",
+        "imdb_id": "tt28630122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #2.6",
+        "released": "2023-09-19",
+        "rating": "N/A",
+        "imdb_id": "tt28717739",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

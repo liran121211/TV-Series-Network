@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Black Day",
+        "released": "2022-06-10",
+        "rating": "8.8",
+        "imdb_id": "tt10698464",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S6\\Peaky.Blinders.S06E01.1080p.HDTV.H264-ORGANiCS6E1.zip"
+    },
+    "2": {
+        "title": "Black Shirt",
+        "released": "2022-06-10",
+        "rating": "8.2",
+        "imdb_id": "tt10906292",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S6\\Peaky.Blinders.S06E02.720p.HDTV.x264-ORGANiCS6E2.zip"
+    },
+    "3": {
+        "title": "Gold",
+        "released": "2022-06-10",
+        "rating": "N/A",
+        "imdb_id": "tt10906296",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S6\\Peaky.Blinders.S06E03.WEBRip.x264-ION10S6E3.zip"
+    },
+    "4": {
+        "title": "Sapphire",
+        "released": "2022-06-10",
+        "rating": "8.0",
+        "imdb_id": "tt10906300",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S6\\Peaky.Blinders.S06E04.720p.HDTV.x264-ORGANiCS6E4.zip"
+    },
+    "5": {
+        "title": "The Road to Hell",
+        "released": "2022-06-10",
+        "rating": "8.0",
+        "imdb_id": "tt10906306",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S6\\Peaky.Blinders.S06E05.720p.HDTV.x264-ORGANiCS6E5.zip"
+    },
+    "6": {
+        "title": "Lock and Key",
+        "released": "2022-06-10",
+        "rating": "9.3",
+        "imdb_id": "tt10906308",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

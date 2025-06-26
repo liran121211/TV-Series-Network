@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Geheimnisse",
+        "released": "2017-12-01",
+        "rating": "8.2",
+        "imdb_id": "tt6305578",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dark\\Subtitles\\S1\\DARK.S01E01.WEBRip.x264-ION10S1E1.zip"
+    },
+    "2": {
+        "title": "Lügen",
+        "released": "2017-12-01",
+        "rating": "8.1",
+        "imdb_id": "tt7305776",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Gestern und heute",
+        "released": "2017-12-01",
+        "rating": "8.5",
+        "imdb_id": "tt7305820",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Doppelleben",
+        "released": "2017-12-01",
+        "rating": "8.1",
+        "imdb_id": "tt7305818",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dark\\Subtitles\\S1\\DARK.S01E04.Double.Lives.1080p.NF.WEB-DL.DDP5.1.x264-NTbS1E4.zip"
+    },
+    "5": {
+        "title": "Wahrheiten",
+        "released": "2017-12-01",
+        "rating": "8.8",
+        "imdb_id": "tt7313308",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Sic Mundus Creatus Est",
+        "released": "2017-12-01",
+        "rating": "9.0",
+        "imdb_id": "tt7313312",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Kreuzwege",
+        "released": "2017-12-01",
+        "rating": "8.6",
+        "imdb_id": "tt7305824",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Was man sät, das wird man ernten",
+        "released": "2017-12-01",
+        "rating": "9.1",
+        "imdb_id": "tt7313316",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Alles ist jetzt",
+        "released": "2017-12-01",
+        "rating": "8.6",
+        "imdb_id": "tt7313320",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Alpha und Omega",
+        "released": "2017-12-01",
+        "rating": "9.1",
+        "imdb_id": "tt7313322",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

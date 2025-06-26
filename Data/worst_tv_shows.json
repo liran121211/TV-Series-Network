@@ -1,0 +1,382 @@
+[
+    {
+        "title": "Fred",
+        "imdb_id": "tt1234506"
+    },
+    {
+        "title": "Toddlers & Tiaras",
+        "imdb_id": "tt1364951"
+    },
+    {
+        "title": "My Super Sweet 16",
+        "imdb_id": "tt0445890"
+    },
+    {
+        "title": "Selena",
+        "imdb_id": "tt0862622"
+    },
+    {
+        "title": "A Little Late with Lilly Singh",
+        "imdb_id": "tt10023178"
+    },
+    {
+        "title": "Paris Hilton's My New BFF",
+        "imdb_id": "tt1292967"
+    },
+    {
+        "title": "The High Fructose Adventures of Annoying Orange",
+        "imdb_id": "tt2114184"
+    },
+    {
+        "title": "The Problem Solverz",
+        "imdb_id": "tt1893088"
+    },
+    {
+        "title": "Marvin Marvin",
+        "imdb_id": "tt2453016"
+    },
+    {
+        "title": "Akasya Duragi",
+        "imdb_id": "tt1286883"
+    },
+    {
+        "title": "Barátok közt",
+        "imdb_id": "tt0175383"
+    },
+    {
+        "title": "Breadwinners",
+        "imdb_id": "tt3481544"
+    },
+    {
+        "title": "Ben 10",
+        "imdb_id": "tt6148376"
+    },
+    {
+        "title": "Here Comes Honey Boo Boo",
+        "imdb_id": "tt2288050"
+    },
+    {
+        "title": "Metástasis",
+        "imdb_id": "tt3190448"
+    },
+    {
+        "title": "Gute Zeiten, schlechte Zeiten",
+        "imdb_id": "tt0103434"
+    },
+    {
+        "title": "The View",
+        "imdb_id": "tt0123366"
+    },
+    {
+        "title": "Keeping Up with the Kardashians",
+        "imdb_id": "tt1086761"
+    },
+    {
+        "title": "I Live with Models",
+        "imdb_id": "tt4214468"
+    },
+    {
+        "title": "Last Call with Carson Daly",
+        "imdb_id": "tt0305056"
+    },
+    {
+        "title": "The Annoying Orange",
+        "imdb_id": "tt1715368"
+    },
+    {
+        "title": "Mind of Mencia",
+        "imdb_id": "tt0468999"
+    },
+    {
+        "title": "Operation Repo",
+        "imdb_id": "tt1495163"
+    },
+    {
+        "title": "Amish Mafia",
+        "imdb_id": "tt2514488"
+    },
+    {
+        "title": "Planet Sheen",
+        "imdb_id": "tt1492090"
+    },
+    {
+        "title": "Almost Naked Animals",
+        "imdb_id": "tt1830924"
+    },
+    {
+        "title": "16 and Pregnant",
+        "imdb_id": "tt1454730"
+    },
+    {
+        "title": "The Bachelor",
+        "imdb_id": "tt0313038"
+    },
+    {
+        "title": "Fanboy & Chum Chum",
+        "imdb_id": "tt1299440"
+    },
+    {
+        "title": "The Only Way Is Essex",
+        "imdb_id": "tt1737565"
+    },
+    {
+        "title": "A Shot at Love with Tila Tequila",
+        "imdb_id": "tt1105170"
+    },
+    {
+        "title": "The Inbetweeners",
+        "imdb_id": "tt1798695"
+    },
+    {
+        "title": "Snooki & JWoww",
+        "imdb_id": "tt2083701"
+    },
+    {
+        "title": "Kourtney & Kim Take Miami",
+        "imdb_id": "tt1491299"
+    },
+    {
+        "title": "Kourtney & Kim Take New York",
+        "imdb_id": "tt1821879"
+    },
+    {
+        "title": "19 Kids and Counting",
+        "imdb_id": "tt1307083"
+    },
+    {
+        "title": "The Bachelorette",
+        "imdb_id": "tt0348894"
+    },
+    {
+        "title": "TMZ on TV",
+        "imdb_id": "tt1095213"
+    },
+    {
+        "title": "Khloé & Lamar",
+        "imdb_id": "tt1821877"
+    },
+    {
+        "title": "The Naked Brothers Band",
+        "imdb_id": "tt0888280"
+    },
+    {
+        "title": "The Bold and the Beautiful",
+        "imdb_id": "tt0092325"
+    },
+    {
+        "title": "Utopia",
+        "imdb_id": "tt3703500"
+    },
+    {
+        "title": "Batwoman",
+        "imdb_id": "tt8712204"
+    },
+    {
+        "title": "Fox and Friends",
+        "imdb_id": "tt0185065"
+    },
+    {
+        "title": "The Nemanjic Dynasty: The Birth of the Kingdom",
+        "imdb_id": "tt2532246"
+    },
+    {
+        "title": "Bizaardvark",
+        "imdb_id": "tt4800624"
+    },
+    {
+        "title": "Morangos com Açúcar",
+        "imdb_id": "tt0391666"
+    },
+    {
+        "title": "Jinn",
+        "imdb_id": "tt8923396"
+    },
+    {
+        "title": "House of Payne",
+        "imdb_id": "tt0773264"
+    },
+    {
+        "title": "Kendra",
+        "imdb_id": "tt1453090"
+    },
+    {
+        "title": "The Talk",
+        "imdb_id": "tt1740718"
+    },
+    {
+        "title": "The Factor",
+        "imdb_id": "tt0284767"
+    },
+    {
+        "title": "The Hills",
+        "imdb_id": "tt0489598"
+    },
+    {
+        "title": "I Am Cait",
+        "imdb_id": "tt4733278"
+    },
+    {
+        "title": "Sihirli Annem",
+        "imdb_id": "tt0426790"
+    },
+    {
+        "title": "Jersey Shore",
+        "imdb_id": "tt1563069"
+    },
+    {
+        "title": "Bill Nye Saves the World",
+        "imdb_id": "tt6021260"
+    },
+    {
+        "title": "The Powerpuff Girls",
+        "imdb_id": "tt4718304"
+    },
+    {
+        "title": "Teen Mom OG",
+        "imdb_id": "tt1566154"
+    },
+    {
+        "title": "Bucket and Skinner's Epic Adventures",
+        "imdb_id": "tt1888795"
+    },
+    {
+        "title": "Alemin Kirali",
+        "imdb_id": "tt2393012"
+    },
+    {
+        "title": "The Jay Leno Show",
+        "imdb_id": "tt1381004"
+    },
+    {
+        "title": "Entertainment Tonight",
+        "imdb_id": "tt0081857"
+    },
+    {
+        "title": "Back Streets",
+        "imdb_id": "tt0845088"
+    },
+    {
+        "title": "The Wendy Williams Show",
+        "imdb_id": "tt1261356"
+    },
+    {
+        "title": "Mystery Diners",
+        "imdb_id": "tt2147632"
+    },
+    {
+        "title": "Teletubbies",
+        "imdb_id": "tt0142055"
+    },
+    {
+        "title": "The Jerry Springer Show",
+        "imdb_id": "tt0120974"
+    },
+    {
+        "title": "Secret Lives",
+        "imdb_id": "tt0185819"
+    },
+    {
+        "title": "Meet the Browns",
+        "imdb_id": "tt1319598"
+    },
+    {
+        "title": "Barney & Friends",
+        "imdb_id": "tt0144701"
+    },
+    {
+        "title": "Troy: Fall of a City",
+        "imdb_id": "tt5103758"
+    },
+    {
+        "title": "The Simple Life",
+        "imdb_id": "tt0362153"
+    },
+    {
+        "title": "Saved by the Bell: The New Class",
+        "imdb_id": "tt0106123"
+    },
+    {
+        "title": "Scare PewDiePie",
+        "imdb_id": "tt5435072"
+    },
+    {
+        "title": "Baywatch Nights",
+        "imdb_id": "tt0111892"
+    },
+    {
+        "title": "The Jeremy Kyle Show",
+        "imdb_id": "tt0492430"
+    },
+    {
+        "title": "The Rosie O'Donnell Show",
+        "imdb_id": "tt0115338"
+    },
+    {
+        "title": "Stargate Origins: Catherine",
+        "imdb_id": "tt7161862"
+    },
+    {
+        "title": "Pandora",
+        "imdb_id": "tt10207090"
+    },
+    {
+        "title": "Noah's Ark",
+        "imdb_id": "tt0168355"
+    },
+    {
+        "title": "The Real Housewives of New Jersey",
+        "imdb_id": "tt1411598"
+    },
+    {
+        "title": "Skins",
+        "imdb_id": "tt1755893"
+    },
+    {
+        "title": "Go, Diego! Go!",
+        "imdb_id": "tt0423657"
+    },
+    {
+        "title": "Dora the Explorer",
+        "imdb_id": "tt0235917"
+    },
+    {
+        "title": "The Tyra Banks Show",
+        "imdb_id": "tt0437758"
+    },
+    {
+        "title": "South Beach Tow",
+        "imdb_id": "tt1963853"
+    },
+    {
+        "title": "Caillou",
+        "imdb_id": "tt0262153"
+    },
+    {
+        "title": "Dr. Phil",
+        "imdb_id": "tt0329824"
+    },
+    {
+        "title": "The Real Housewives of Orange County",
+        "imdb_id": "tt0497079"
+    },
+    {
+        "title": "Cennet Mahallesi",
+        "imdb_id": "tt0424619"
+    },
+    {
+        "title": "V.I.P.",
+        "imdb_id": "tt0134269"
+    },
+    {
+        "title": "American Idol",
+        "imdb_id": "tt0319931"
+    },
+    {
+        "title": "Meteor",
+        "imdb_id": "tt1260995"
+    },
+    {
+        "title": "Finding Bigfoot",
+        "imdb_id": "tt1948830"
+    }
+]

@@ -1,0 +1,162 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2018-10-16",
+        "rating": "7.9",
+        "imdb_id": "tt7587918",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S1\\The.Rookie.S01E01-E20.720p.HDTV.x265-MiNXS1E1.zip"
+    },
+    "2": {
+        "title": "Crash Course",
+        "released": "2018-10-23",
+        "rating": "7.9",
+        "imdb_id": "tt8805084",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S1\\The.Rookie.S01E02.HDTV.XviD-RMXS1E2.zip"
+    },
+    "3": {
+        "title": "The Good, the Bad and the Ugly",
+        "released": "2018-10-30",
+        "rating": "7.8",
+        "imdb_id": "tt8750904",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S1\\The.Rookie.S01E03.HDTV.XviD-RMXS1E3.zip"
+    },
+    "4": {
+        "title": "The Switch",
+        "released": "2018-11-13",
+        "rating": "N/A",
+        "imdb_id": "tt8855928",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S1\\The.Rookie.S01E04.HDTV.x264-KILLERSS1E4.zip"
+    },
+    "5": {
+        "title": "The Roundup",
+        "released": "2018-11-20",
+        "rating": "7.8",
+        "imdb_id": "tt8815074",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S1\\The.Rookie.S01E05.HDTV.x264-SVAS1E5.zip"
+    },
+    "6": {
+        "title": "The Hawke",
+        "released": "2018-11-27",
+        "rating": "7.8",
+        "imdb_id": "tt8855932",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S1\\The.Rookie.S01E06.HDTV.x264-SVAS1E6.zip"
+    },
+    "7": {
+        "title": "The Ride Along",
+        "released": "2018-12-04",
+        "rating": "7.9",
+        "imdb_id": "tt8856000",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S1\\The.Rookie.S01E07.HDTV.x264-KILLERSS1E7.zip"
+    },
+    "8": {
+        "title": "Time of Death",
+        "released": "2018-12-11",
+        "rating": "8.6",
+        "imdb_id": "tt8855950",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S1\\The.Rookie.S01E08.HDTV.x264-KILLERSS1E8.zip"
+    },
+    "9": {
+        "title": "Standoff",
+        "released": "2019-01-08",
+        "rating": "8.5",
+        "imdb_id": "tt8856022",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S1\\The.Rookie.S01E09.HDTV.x264-KILLERSS1E9.zip"
+    },
+    "10": {
+        "title": "Flesh and Blood",
+        "released": "2019-01-15",
+        "rating": "8.2",
+        "imdb_id": "tt8856024",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Redwood",
+        "released": "2019-01-22",
+        "rating": "8.0",
+        "imdb_id": "tt8856026",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Heartbreak",
+        "released": "2019-02-12",
+        "rating": "7.8",
+        "imdb_id": "tt8856034",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Caught Stealing",
+        "released": "2019-02-19",
+        "rating": "7.8",
+        "imdb_id": "tt8856032",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Plain Clothes Day",
+        "released": "2019-02-26",
+        "rating": "8.2",
+        "imdb_id": "tt9256652",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Manhunt",
+        "released": "2019-03-05",
+        "rating": "8.4",
+        "imdb_id": "tt9256654",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Greenlight",
+        "released": "2019-03-19",
+        "rating": "9.0",
+        "imdb_id": "tt9256656",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Shake Up",
+        "released": "2019-03-26",
+        "rating": "7.7",
+        "imdb_id": "tt9256658",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Homefront",
+        "released": "2019-04-02",
+        "rating": "7.7",
+        "imdb_id": "tt9256660",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Checklist",
+        "released": "2019-04-09",
+        "rating": "8.2",
+        "imdb_id": "tt9256662",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S1\\The.Rookie.S01E19.HDTV.x264-KILLERSS1E19.zip"
+    },
+    "20": {
+        "title": "Free Fall",
+        "released": "2019-04-16",
+        "rating": "8.5",
+        "imdb_id": "tt9256664",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

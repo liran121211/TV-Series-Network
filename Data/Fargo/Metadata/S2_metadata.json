@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Waiting for Dutch",
+        "released": "2015-10-12",
+        "rating": "8.7",
+        "imdb_id": "tt3836974",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Before the Law",
+        "released": "2015-10-19",
+        "rating": "8.4",
+        "imdb_id": "tt4001064",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Myth of Sisyphus",
+        "released": "2015-10-26",
+        "rating": "8.5",
+        "imdb_id": "tt4001074",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Fear and Trembling",
+        "released": "2015-11-02",
+        "rating": "8.7",
+        "imdb_id": "tt4001070",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Gift of the Magi",
+        "released": "2015-11-09",
+        "rating": "9.1",
+        "imdb_id": "tt4001084",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Rhinoceros",
+        "released": "2015-11-16",
+        "rating": "9.2",
+        "imdb_id": "tt4001082",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Did You Do This? No, You Did It!",
+        "released": "2015-11-23",
+        "rating": "8.8",
+        "imdb_id": "tt4001092",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Loplop",
+        "released": "2015-11-30",
+        "rating": "9.4",
+        "imdb_id": "tt4001088",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Castle",
+        "released": "2015-12-07",
+        "rating": "9.4",
+        "imdb_id": "tt4001090",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Palindrome",
+        "released": "2015-12-14",
+        "rating": "8.4",
+        "imdb_id": "tt3886622",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

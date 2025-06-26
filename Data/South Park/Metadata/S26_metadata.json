@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Cupid Ye",
+        "released": "2023-02-08",
+        "rating": "7.3",
+        "imdb_id": "tt26289546",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Worldwide Privacy Tour",
+        "released": "2023-02-15",
+        "rating": "8.3",
+        "imdb_id": "tt26690420",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Japanese Toilet",
+        "released": "2023-03-01",
+        "rating": "7.7",
+        "imdb_id": "tt26761382",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Deep Learning",
+        "released": "2023-03-08",
+        "rating": "8.3",
+        "imdb_id": "tt27035146",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "DikinBaus Hot Dogs",
+        "released": "2023-03-22",
+        "rating": "7.8",
+        "imdb_id": "tt27072347",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Spring Break",
+        "released": "2023-03-29",
+        "rating": "6.5",
+        "imdb_id": "tt27072350",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

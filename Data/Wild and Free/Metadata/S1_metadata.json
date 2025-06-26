@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Slippery When Wet",
+        "released": "2020-12-18",
+        "rating": "N/A",
+        "imdb_id": "tt11940538",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Wild and Free\\Subtitles\\S1\\Wild.and.Free.S01E01.PORTUGUESE.WEBRip.x265-ION265.en.zip"
+    },
+    "3": {
+        "title": "Spooning King",
+        "released": "2020-12-18",
+        "rating": "N/A",
+        "imdb_id": "tt11940542",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Wild and Free\\Subtitles\\S1\\Wild.and.Free.S01E03.PORTUGUESE.WEBRip.x265-ION265.en.zip"
+    },
+    "5": {
+        "title": "Flip Flop",
+        "released": "2020-12-18",
+        "rating": "N/A",
+        "imdb_id": "tt11940548",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Wild and Free\\Subtitles\\S1\\Wild.and.Free.S01E05.PORTUGUESE.WEBRip.x265-ION265.en.zip"
+    },
+    "7": {
+        "title": "Sex Tape",
+        "released": "2020-12-18",
+        "rating": "N/A",
+        "imdb_id": "tt11940554",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Dirty Dancing",
+        "released": "2020-12-18",
+        "rating": "N/A",
+        "imdb_id": "tt11940562",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

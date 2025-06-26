@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "A Lesson for Your Next Life",
+        "released": "2023-11-03",
+        "rating": "8.1",
+        "imdb_id": "tt14556072",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S2\\Invincible.S202E01.Presenting.Atom.Eve.Special.Episode.WEBRip.AMZNS2E1.zip"
+    },
+    "2": {
+        "title": "In About Six Hours I Lose My Virginity to a Fish",
+        "released": "2023-11-10",
+        "rating": "7.2",
+        "imdb_id": "tt14799482",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S2\\Invincible.2021.S02E02.720p.WEB.h264-ETHELS2E2.zip"
+    },
+    "3": {
+        "title": "This Missive, This Machination!",
+        "released": "2023-11-17",
+        "rating": "8.2",
+        "imdb_id": "tt15057062",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S2\\Invincible.2021.S02E03.WEB.x264-TORRENTGALAXYS2E3.zip"
+    },
+    "4": {
+        "title": "It's Been a While",
+        "released": "2023-11-24",
+        "rating": "9.1",
+        "imdb_id": "tt15268934",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S2\\Invincible.2021.S02E04.WEBRip.AMZN_ETHELS2E4.zip"
+    },
+    "5": {
+        "title": "This Must Come as a Shock",
+        "released": "2024-03-14",
+        "rating": "8.7",
+        "imdb_id": "tt27566321",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S2\\Invincible.2021.S02E05.720p.WEB.h264-EDITHS2E5.zip"
+    },
+    "6": {
+        "title": "It's Not That Simple",
+        "released": "2024-03-21",
+        "rating": "7.9",
+        "imdb_id": "tt27566329",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S2\\Invincible.2021.S02E06.WEBRip.AMZNS2E6.zip"
+    },
+    "7": {
+        "title": "I'm Not Going Anywhere",
+        "released": "2024-03-28",
+        "rating": "8.7",
+        "imdb_id": "tt27566495",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S2\\Invincible.2021.S02E07.AMZN.WEB.H264-SuccessfulCrabS2E7.zip"
+    },
+    "8": {
+        "title": "I Thought You Were Stronger",
+        "released": "2024-04-04",
+        "rating": "9.0",
+        "imdb_id": "tt27566497",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

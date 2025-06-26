@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Wolferton Splash",
+        "released": "2016-11-04",
+        "rating": "8.2",
+        "imdb_id": "tt5483578",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S1\\The.Crown.S01E01.WEBRip.X264-SDIS1E1.zip"
+    },
+    "2": {
+        "title": "Hyde Park Corner",
+        "released": "2016-11-04",
+        "rating": "8.9",
+        "imdb_id": "tt5095274",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S1\\The.Crown.S01E02.WEBRip.X264-SDIS1E2.zip"
+    },
+    "3": {
+        "title": "Windsor",
+        "released": "2016-11-04",
+        "rating": "8.1",
+        "imdb_id": "tt5242352",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S1\\The.Crown.S01E03.WEBRip.X264-SDIS1E3.zip"
+    },
+    "4": {
+        "title": "Act of God",
+        "released": "2016-11-04",
+        "rating": "8.6",
+        "imdb_id": "tt5170842",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S1\\The.Crown.S01E04.WEBRip.X264-RARBGS1E4.zip"
+    },
+    "5": {
+        "title": "Smoke and Mirrors",
+        "released": "2016-11-04",
+        "rating": "8.5",
+        "imdb_id": "tt5242360",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S1\\The.Crown.S01E05.WEBRip.X264-RARBGS1E5.zip"
+    },
+    "6": {
+        "title": "Gelignite",
+        "released": "2016-11-04",
+        "rating": "8.0",
+        "imdb_id": "tt5242362",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S1\\The_Crown_-_First_Season,_E06S1E6.zip"
+    },
+    "7": {
+        "title": "Scientia Potentia Est",
+        "released": "2016-11-04",
+        "rating": "8.7",
+        "imdb_id": "tt5254162",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Pride & Joy",
+        "released": "2016-11-04",
+        "rating": "8.3",
+        "imdb_id": "tt5325140",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Assassins",
+        "released": "2016-11-04",
+        "rating": "9.0",
+        "imdb_id": "tt5254184",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S1\\TheCrown-FirstSeason,E09S1E9.zip"
+    },
+    "10": {
+        "title": "Gloriana",
+        "released": "2016-11-04",
+        "rating": "8.5",
+        "imdb_id": "tt5056652",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Marissa",
+        "released": "2006-04-17",
+        "rating": "4.2",
+        "imdb_id": "tt0792428",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Alexa",
+        "released": "2006-04-19",
+        "rating": "N/A",
+        "imdb_id": "tt0802789",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Chelsi",
+        "released": "2006-04-26",
+        "rating": "N/A",
+        "imdb_id": "tt0802791",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Meleny",
+        "released": "2006-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt0798756",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Alex",
+        "released": "2006-05-10",
+        "rating": "N/A",
+        "imdb_id": "tt1222165",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Darnell",
+        "released": "2006-05-17",
+        "rating": "N/A",
+        "imdb_id": "tt0802792",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Nicole",
+        "released": "2006-06-27",
+        "rating": "N/A",
+        "imdb_id": "tt1286420",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Priya & Divya",
+        "released": "2006-07-11",
+        "rating": "1.6",
+        "imdb_id": "tt1286421",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Erica",
+        "released": "2006-07-18",
+        "rating": "N/A",
+        "imdb_id": "tt1286416",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "1": {
+        "title": "The Chaperone",
+        "released": "1994-09-22",
+        "rating": "7.9",
+        "imdb_id": "tt0697671",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S6\\Seinfeld.S06E01.The.Chaperone.DVDRip.x264-DiGGS6E1.zip"
+    },
+    "2": {
+        "title": "The Big Salad",
+        "released": "1994-09-29",
+        "rating": "8.1",
+        "imdb_id": "tt0697656",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S6\\Seinfeld.S06E02.The.Big.Salad.DVDRip.x264-DiGGS6E2.zip"
+    },
+    "3": {
+        "title": "The Pledge Drive",
+        "released": "1994-10-06",
+        "rating": "8.2",
+        "imdb_id": "tt0697756",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S6\\Seinfeld.S06E03.The.Pledge.Drive.DVDRip.x264-DiGGS6E3.zip"
+    },
+    "4": {
+        "title": "The Chinese Woman",
+        "released": "1994-10-13",
+        "rating": "8.1",
+        "imdb_id": "tt0697676",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S6\\Seinfeld.S06E04.The.Chinese.Woman.DVDRip.x264-DiGGS6E4.zip"
+    },
+    "5": {
+        "title": "The Couch",
+        "released": "1994-10-27",
+        "rating": "8.1",
+        "imdb_id": "tt0697681",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S6\\Seinfeld.S06E05.The.Couch.DVDRip.x264-DiGGS6E5.zip"
+    },
+    "6": {
+        "title": "The Gymnast",
+        "released": "1994-11-03",
+        "rating": "8.2",
+        "imdb_id": "tt0697706",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S6\\Seinfeld.S06E06.The.Gymnast.DVDRip.x264-DiGGS6E6.zip"
+    },
+    "7": {
+        "title": "The Soup",
+        "released": "1994-11-10",
+        "rating": "N/A",
+        "imdb_id": "tt0697781",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S6\\Seinfeld.S06E07.The.Mom..Pop.Store.DVDRip.x264-DiGGS6E7.zip"
+    },
+    "8": {
+        "title": "The Mom and Pop Store",
+        "released": "1994-11-17",
+        "rating": "N/A",
+        "imdb_id": "tt0697733",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S6\\Seinfeld.S06E08.The.Soup.x264-DiGGS6E8.zip"
+    },
+    "9": {
+        "title": "The Secretary",
+        "released": "1994-12-08",
+        "rating": "8.1",
+        "imdb_id": "tt0697772",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S6\\Seinfeld.S06E09.The.Secretary.DVDRip.x264-DiGGS6E9.zip"
+    },
+    "10": {
+        "title": "The Race",
+        "released": "1994-12-15",
+        "rating": "N/A",
+        "imdb_id": "tt0697763",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Switch",
+        "released": "1995-01-05",
+        "rating": "N/A",
+        "imdb_id": "tt0697796",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Label Maker",
+        "released": "1995-01-19",
+        "rating": "N/A",
+        "imdb_id": "tt0697719",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Scofflaw",
+        "released": "1995-01-26",
+        "rating": "8.0",
+        "imdb_id": "tt0697770",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Highlights of a Hundred",
+        "released": "1995-02-02",
+        "rating": "6.9",
+        "imdb_id": "tt0697644",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Beard",
+        "released": "1995-02-09",
+        "rating": "8.2",
+        "imdb_id": "tt0697654",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Kiss Hello",
+        "released": "1995-02-16",
+        "rating": "8.2",
+        "imdb_id": "tt0697718",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Doorman",
+        "released": "1995-02-23",
+        "rating": "8.2",
+        "imdb_id": "tt0697689",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Jimmy",
+        "released": "1995-03-16",
+        "rating": "N/A",
+        "imdb_id": "tt0697714",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Doodle",
+        "released": "1995-04-06",
+        "rating": "8.2",
+        "imdb_id": "tt0697688",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Fusilli Jerry",
+        "released": "1995-04-27",
+        "rating": "8.7",
+        "imdb_id": "tt0697702",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Diplomat's Club",
+        "released": "1995-05-04",
+        "rating": "8.1",
+        "imdb_id": "tt0697685",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Face Painter",
+        "released": "1995-05-11",
+        "rating": "N/A",
+        "imdb_id": "tt0697693",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "The Understudy",
+        "released": "1995-05-18",
+        "rating": "7.8",
+        "imdb_id": "tt0697802",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Episode #2.1",
+        "released": "2002-10-02",
+        "rating": "N/A",
+        "imdb_id": "tt0517808",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #2.2",
+        "released": "2002-10-02",
+        "rating": "N/A",
+        "imdb_id": "tt1295240",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #2.4",
+        "released": "2002-10-23",
+        "rating": "N/A",
+        "imdb_id": "tt2082993",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #2.5",
+        "released": "2002-10-30",
+        "rating": "N/A",
+        "imdb_id": "tt2082994",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Bachelor: Where Are They Now?",
+        "released": "2003-03-19",
+        "rating": "N/A",
+        "imdb_id": "tt2083029",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

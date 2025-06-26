@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "L'agression",
+        "released": "2009-11-11",
+        "rating": "N/A",
+        "imdb_id": "tt1609201",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "L'écrasement",
+        "released": "2009-09-08",
+        "rating": "N/A",
+        "imdb_id": "tt1609204",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Le choc",
+        "released": "2009-09-15",
+        "rating": "N/A",
+        "imdb_id": "tt1609206",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "L'embrasement",
+        "released": "2009-09-15",
+        "rating": "N/A",
+        "imdb_id": "tt1609202",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "L'étau",
+        "released": "2009-09-22",
+        "rating": "N/A",
+        "imdb_id": "tt1609205",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "L'enfer",
+        "released": "2009-09-22",
+        "rating": "8.8",
+        "imdb_id": "tt1609203",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

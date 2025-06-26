@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Homesick",
+        "released": "1983-11-10",
+        "rating": "8.0",
+        "imdb_id": "tt0666555",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Healthy Competition",
+        "released": "1983-11-17",
+        "rating": "8.3",
+        "imdb_id": "tt0666552",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Friday the 14th",
+        "released": "1983-11-24",
+        "rating": "8.7",
+        "imdb_id": "tt0666547",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Yesterday Never Comes",
+        "released": "1983-12-01",
+        "rating": "7.8",
+        "imdb_id": "tt0666594",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "May the Force Be with You",
+        "released": "1983-12-08",
+        "rating": "8.6",
+        "imdb_id": "tt0666560",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Wanted",
+        "released": "1983-12-15",
+        "rating": "7.9",
+        "imdb_id": "tt0666590",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Who's a Pretty Boy?",
+        "released": "1983-12-22",
+        "rating": "8.4",
+        "imdb_id": "tt0666593",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Only Fools and Horses\\Subtitles\\S3\\Only.Fools.and.Horses.S03E07.Whos.a.Pretty.Boy.UnspecifiedS3E7.zip"
+    },
+    "8": {
+        "title": "Thicker Than Water",
+        "released": "1983-12-25",
+        "rating": "8.1",
+        "imdb_id": "tt0666585",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

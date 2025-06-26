@@ -1,0 +1,194 @@
+{
+    "1": {
+        "title": "The One with the Jellyfish",
+        "released": "1997-09-25",
+        "rating": "8.9",
+        "imdb_id": "tt0583620",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S4\\Friends.S04E01.720p.BluRay.x264-PSYCHDS4E1.zip"
+    },
+    "2": {
+        "title": "The One with the Cat",
+        "released": "1997-10-02",
+        "rating": "7.9",
+        "imdb_id": "tt0583588",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S4\\Friends.S04E02.720p.BluRay.x264-PSYCHDS4E2.zip"
+    },
+    "3": {
+        "title": "The One with the 'Cuffs",
+        "released": "1997-10-09",
+        "rating": "8.4",
+        "imdb_id": "tt0583571",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S4\\Friends.S04E03.720p.BluRay.x264-PSYCHDS4E3.zip"
+    },
+    "4": {
+        "title": "The One with the Ballroom Dancing",
+        "released": "1997-10-16",
+        "rating": "8.0",
+        "imdb_id": "tt0583576",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S4\\Friends.S04E04.720p.BluRay.x264-PSYCHDS4E4.zip"
+    },
+    "5": {
+        "title": "The One with Joey's New Girlfriend",
+        "released": "1997-10-30",
+        "rating": "N/A",
+        "imdb_id": "tt0583529",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S4\\Friends.S04E05.720p.BluRay.x264-PSYCHDS4E5.zip"
+    },
+    "6": {
+        "title": "The One with the Dirty Girl",
+        "released": "1997-11-06",
+        "rating": "N/A",
+        "imdb_id": "tt0583595",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S4\\Friends.S04E06.720p.BluRay.x264-PSYCHDS4E6.zip"
+    },
+    "7": {
+        "title": "The One Where Chandler Crosses the Line",
+        "released": "1997-11-13",
+        "rating": "N/A",
+        "imdb_id": "tt0583444",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S4\\Friends.S04E07.720p.BluRay.x264-PSYCHDS4E7.zip"
+    },
+    "8": {
+        "title": "The One with Chandler in a Box",
+        "released": "1997-11-20",
+        "rating": "9.0",
+        "imdb_id": "tt0583515",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S4\\Friends.S04E08.720p.BluRay.x264-PSYCHDS4E8.zip"
+    },
+    "9": {
+        "title": "The One Where They're Going to Party!",
+        "released": "1997-12-11",
+        "rating": "N/A",
+        "imdb_id": "tt0583490",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S4\\Friends.S04E09.720p.BluRay.x264-PSYCHDS4E9.zip"
+    },
+    "10": {
+        "title": "The One with the Girl from Poughkeepsie",
+        "released": "1997-12-18",
+        "rating": "7.9",
+        "imdb_id": "tt0583611",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The One with Phoebe's Uterus",
+        "released": "1998-01-08",
+        "rating": "8.4",
+        "imdb_id": "tt0583541",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The One with the Embryos",
+        "released": "1998-01-15",
+        "rating": "9.4",
+        "imdb_id": "tt0583600",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The One with Rachel's Crush",
+        "released": "1998-01-29",
+        "rating": "N/A",
+        "imdb_id": "tt0583547",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The One with Joey's Dirty Day",
+        "released": "1998-02-05",
+        "rating": "8.1",
+        "imdb_id": "tt0583525",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The One with All the Rugby",
+        "released": "1998-02-26",
+        "rating": "8.3",
+        "imdb_id": "tt0583512",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The One with the Fake Party",
+        "released": "1998-03-19",
+        "rating": "8.0",
+        "imdb_id": "tt0583604",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The One with the Free Porn",
+        "released": "1998-03-26",
+        "rating": "N/A",
+        "imdb_id": "tt0583608",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The One with Rachel's New Dress",
+        "released": "1998-04-02",
+        "rating": "8.1",
+        "imdb_id": "tt0583552",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The One with All the Haste",
+        "released": "1998-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt0583505",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The One with All the Wedding Dresses",
+        "released": "1998-04-16",
+        "rating": "8.4",
+        "imdb_id": "tt0583513",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The One with the Invitation",
+        "released": "1998-04-23",
+        "rating": "6.9",
+        "imdb_id": "tt0583618",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The One with the Worst Best Man Ever",
+        "released": "1998-04-30",
+        "rating": "8.3",
+        "imdb_id": "tt0583659",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "The One with Ross's Wedding",
+        "released": "1998-05-07",
+        "rating": "N/A",
+        "imdb_id": "tt0583566",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "The One with Ross's Wedding: Part 2",
+        "released": "1998-05-07",
+        "rating": "9.1",
+        "imdb_id": "tt0831991",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

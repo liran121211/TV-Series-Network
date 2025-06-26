@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Episode #31.1",
+        "released": "2021-11-23",
+        "rating": "N/A",
+        "imdb_id": "tt16077280",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S31\\Top.Gear.S31E01.WEB.x264-TORRENTGALAXYS31E1.zip"
+    },
+    "2": {
+        "title": "Episode #31.2",
+        "released": "2021-11-30",
+        "rating": "N/A",
+        "imdb_id": "tt16088288",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S31\\Top.Gear.S31E02.1080p.HDTV.H264-DARKFLiXS31E2.zip"
+    },
+    "3": {
+        "title": "Episode #31.3",
+        "released": "2021-12-07",
+        "rating": "N/A",
+        "imdb_id": "tt16144982",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S31\\Top.Gear.S31E03.1080p.HDTV.H264-DARKFLiXS31E3.zip"
+    },
+    "4": {
+        "title": "Episode #31.4",
+        "released": "2021-12-14",
+        "rating": "N/A",
+        "imdb_id": "tt16145134",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S31\\Top.Gear.S31E04.480p.WEB-DL.x264S31E4.zip"
+    },
+    "5": {
+        "title": "Episode #31.5",
+        "released": "2021-12-21",
+        "rating": "5.5",
+        "imdb_id": "tt16227656",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S31\\Top.Gear.S31E05.1080p.HDTV.H264-DARKFLiXS31E5.zip"
+    },
+    "6": {
+        "title": "Driving Home for Christmas",
+        "released": "2021-12-24",
+        "rating": "4.9",
+        "imdb_id": "tt16440522",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

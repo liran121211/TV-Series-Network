@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Episode #1.1",
+        "released": "1998-02-01",
+        "rating": "N/A",
+        "imdb_id": "tt3763272",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #1.2",
+        "released": "1998-02-02",
+        "rating": "N/A",
+        "imdb_id": "tt3763276",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #1.3",
+        "released": "1998-02-03",
+        "rating": "N/A",
+        "imdb_id": "tt3763278",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #1.4",
+        "released": "1998-02-04",
+        "rating": "N/A",
+        "imdb_id": "tt3763282",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #1.5",
+        "released": "1998-02-05",
+        "rating": "N/A",
+        "imdb_id": "tt3763288",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

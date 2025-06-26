@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Treehouse of Horror XIII",
+        "released": "2002-11-03",
+        "rating": "N/A",
+        "imdb_id": "tt0763041",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E01.WEB-DL.DSNPS14E1.zip"
+    },
+    "2": {
+        "title": "How I Spent My Strummer Vacation",
+        "released": "2002-11-10",
+        "rating": "7.4",
+        "imdb_id": "tt0701129",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E02.WEB-DL.DSNPS14E2.zip"
+    },
+    "3": {
+        "title": "Bart vs. Lisa vs. 3rd Grade",
+        "released": "2002-11-17",
+        "rating": "7.1",
+        "imdb_id": "tt0701061",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E03.WEB-DL.DSNPS14E3.zip"
+    },
+    "4": {
+        "title": "Large Marge",
+        "released": "2002-11-24",
+        "rating": "7.1",
+        "imdb_id": "tt0701150",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E04.WEB-DL.DSNPS14E4.zip"
+    },
+    "5": {
+        "title": "Helter Shelter",
+        "released": "2002-12-01",
+        "rating": "6.7",
+        "imdb_id": "tt0701106",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E05.WEB-DL.DSNPS14E5.zip"
+    },
+    "6": {
+        "title": "The Great Louse Detective",
+        "released": "2002-12-15",
+        "rating": "7.3",
+        "imdb_id": "tt0701240",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E06.WEB-DL.DSNPS14E6.zip"
+    },
+    "7": {
+        "title": "Special Edna",
+        "released": "2003-01-05",
+        "rating": "7.0",
+        "imdb_id": "tt0701216",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E07.WEB-DL.DSNPS14E7.zip"
+    },
+    "8": {
+        "title": "The Dad Who Knew Too Little",
+        "released": "2003-01-12",
+        "rating": "7.3",
+        "imdb_id": "tt0701233",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E08.WEB-DL.DSNPS14E8.zip"
+    },
+    "9": {
+        "title": "The Strong Arms of the Ma",
+        "released": "2003-02-02",
+        "rating": "6.8",
+        "imdb_id": "tt0701218",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S14\\The.Simpsons.S14E09.WEB-DL.DSNPS14E9.zip"
+    },
+    "10": {
+        "title": "Pray Anything",
+        "released": "2003-02-09",
+        "rating": "6.7",
+        "imdb_id": "tt0701199",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Barting Over",
+        "released": "2003-02-16",
+        "rating": "6.7",
+        "imdb_id": "tt0701067",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "I'm Spelling as Fast as I Can",
+        "released": "2003-02-16",
+        "rating": "7.2",
+        "imdb_id": "tt0701134",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "A Star Is Born Again",
+        "released": "2003-03-02",
+        "rating": "6.9",
+        "imdb_id": "tt0701046",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Mr. Spritz Goes to Washington",
+        "released": "2003-03-09",
+        "rating": "6.8",
+        "imdb_id": "tt0701185",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "C.E.D'oh",
+        "released": "2003-03-16",
+        "rating": "7.1",
+        "imdb_id": "tt0793253",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "'Scuse Me While I Miss the Sky",
+        "released": "2003-03-30",
+        "rating": "7.1",
+        "imdb_id": "tt0701042",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Three Gays of the Condo",
+        "released": "2003-04-13",
+        "rating": "7.2",
+        "imdb_id": "tt0701274",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Dude, Where's My Ranch?",
+        "released": "2003-04-27",
+        "rating": "6.9",
+        "imdb_id": "tt0701090",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Old Yeller-Belly",
+        "released": "2003-05-04",
+        "rating": "6.6",
+        "imdb_id": "tt0701193",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Brake My Wife, Please",
+        "released": "2003-05-11",
+        "rating": "6.7",
+        "imdb_id": "tt0701073",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Bart of War",
+        "released": "2003-05-18",
+        "rating": "6.6",
+        "imdb_id": "tt0784544",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Moe Baby Blues",
+        "released": "2003-05-18",
+        "rating": "7.6",
+        "imdb_id": "tt0701179",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Change Scenario",
+        "released": "2015-07-01",
+        "rating": "7.3",
+        "imdb_id": "tt4106880",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Morphoses",
+        "released": "2015-07-08",
+        "rating": "N/A",
+        "imdb_id": "tt4304482",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Cracking the Code",
+        "released": "2015-07-22",
+        "rating": "N/A",
+        "imdb_id": "tt4304498",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The New Frontier",
+        "released": "2015-07-29",
+        "rating": "N/A",
+        "imdb_id": "tt4304500",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Other",
+        "released": "2015-08-05",
+        "rating": "N/A",
+        "imdb_id": "tt4304504",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Arms and the Humanich",
+        "released": "2015-08-12",
+        "rating": "N/A",
+        "imdb_id": "tt4304508",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Don't Shoot the Messenger",
+        "released": "2015-08-26",
+        "rating": "N/A",
+        "imdb_id": "tt4304480",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Double Vision",
+        "released": "2015-09-09",
+        "rating": "N/A",
+        "imdb_id": "tt4305648",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

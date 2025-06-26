@@ -1,0 +1,802 @@
+{
+    "1": {
+        "title": "Episode #1.1",
+        "released": "1992-05-11",
+        "rating": "N/A",
+        "imdb_id": "tt0848018",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #1.3",
+        "released": "1992-05-13",
+        "rating": "N/A",
+        "imdb_id": "tt1174076",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #1.4",
+        "released": "1992-05-14",
+        "rating": "2.2",
+        "imdb_id": "tt1174077",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Kontakt zu Peter",
+        "released": "1992-05-18",
+        "rating": "N/A",
+        "imdb_id": "tt1179802",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #1.7",
+        "released": "1992-05-19",
+        "rating": "2.2",
+        "imdb_id": "tt1179803",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #1.8",
+        "released": "1992-05-20",
+        "rating": "2.1",
+        "imdb_id": "tt1179804",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Episode #1.11",
+        "released": "1992-05-25",
+        "rating": "N/A",
+        "imdb_id": "tt1435080",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Episode #1.13",
+        "released": "1992-05-27",
+        "rating": "2.1",
+        "imdb_id": "tt1596072",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Episode #1.14",
+        "released": "1992-05-29",
+        "rating": "N/A",
+        "imdb_id": "tt1597222",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Episode #1.15",
+        "released": "1992-06-01",
+        "rating": "N/A",
+        "imdb_id": "tt1597223",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Episode #1.17",
+        "released": "1992-06-03",
+        "rating": "2.2",
+        "imdb_id": "tt1602262",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Episode #1.18",
+        "released": "1992-06-04",
+        "rating": "2.1",
+        "imdb_id": "tt1602263",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Episode #1.19",
+        "released": "1992-06-05",
+        "rating": "2.3",
+        "imdb_id": "tt1602264",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Episode #1.20",
+        "released": "1992-06-09",
+        "rating": "2.3",
+        "imdb_id": "tt1602265",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Episode #1.24",
+        "released": "1992-06-15",
+        "rating": "2.1",
+        "imdb_id": "tt1603597",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Episode #1.25",
+        "released": "1992-06-17",
+        "rating": "N/A",
+        "imdb_id": "tt1604313",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Episode #1.26",
+        "released": "1992-06-17",
+        "rating": "N/A",
+        "imdb_id": "tt1604314",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Im Krankenhaus",
+        "released": "1992-06-18",
+        "rating": "N/A",
+        "imdb_id": "tt1604315",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Episode #1.29",
+        "released": "1992-06-22",
+        "rating": "N/A",
+        "imdb_id": "tt1604317",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Elke liebt Michael",
+        "released": "1992-06-24",
+        "rating": "N/A",
+        "imdb_id": "tt1607048",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "Episode #1.34",
+        "released": "1992-07-01",
+        "rating": "2.2",
+        "imdb_id": "tt1610767",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Episode #1.37",
+        "released": "1992-07-06",
+        "rating": "2.3",
+        "imdb_id": "tt1610770",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Episode #1.38",
+        "released": "1992-07-07",
+        "rating": "2.2",
+        "imdb_id": "tt1610771",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Episode #1.39",
+        "released": "1992-07-08",
+        "rating": "2.2",
+        "imdb_id": "tt1612902",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Episode #1.40",
+        "released": "1992-07-09",
+        "rating": "2.4",
+        "imdb_id": "tt1612903",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Episode #1.41",
+        "released": "1992-07-10",
+        "rating": "2.2",
+        "imdb_id": "tt1612904",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Episode #1.42",
+        "released": "1992-07-13",
+        "rating": "N/A",
+        "imdb_id": "tt1612905",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Episode #1.43",
+        "released": "1992-07-14",
+        "rating": "N/A",
+        "imdb_id": "tt1612906",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Episode #1.44",
+        "released": "1992-07-15",
+        "rating": "2.2",
+        "imdb_id": "tt1612907",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "Episode #1.45",
+        "released": "1992-07-16",
+        "rating": "N/A",
+        "imdb_id": "tt1612909",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Episode #1.46",
+        "released": "1992-07-17",
+        "rating": "N/A",
+        "imdb_id": "tt1612910",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Episode #1.47",
+        "released": "1992-07-21",
+        "rating": "2.2",
+        "imdb_id": "tt1612911",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "Episode #1.49",
+        "released": "1992-07-24",
+        "rating": "2.2",
+        "imdb_id": "tt1612913",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Lilo drängt Elke in eine Ecke",
+        "released": "1992-07-27",
+        "rating": "N/A",
+        "imdb_id": "tt1614658",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Versöhnungsfeier",
+        "released": "1992-07-29",
+        "rating": "N/A",
+        "imdb_id": "tt1614660",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "53": {
+        "title": "Ein Missverständnis",
+        "released": "1992-07-30",
+        "rating": "N/A",
+        "imdb_id": "tt1614661",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "Episode #1.55",
+        "released": "1992-08-03",
+        "rating": "N/A",
+        "imdb_id": "tt1615265",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "57": {
+        "title": "Episode #1.57",
+        "released": "1992-08-05",
+        "rating": "N/A",
+        "imdb_id": "tt1618611",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "58": {
+        "title": "Episode #1.58",
+        "released": "1992-08-06",
+        "rating": "2.1",
+        "imdb_id": "tt1618612",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "59": {
+        "title": "Die Zeitungsgeschichte",
+        "released": "1992-08-07",
+        "rating": "N/A",
+        "imdb_id": "tt6788050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "60": {
+        "title": "Betrunkener Daniel",
+        "released": "1992-08-10",
+        "rating": "N/A",
+        "imdb_id": "tt6788052",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "61": {
+        "title": "Unerwünschte Reporter",
+        "released": "1992-08-11",
+        "rating": "N/A",
+        "imdb_id": "tt6788054",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "62": {
+        "title": "Tina hat sich entschlossen",
+        "released": "1992-08-12",
+        "rating": "N/A",
+        "imdb_id": "tt6788058",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "63": {
+        "title": "Unfall mit Folgen",
+        "released": "1992-08-13",
+        "rating": "N/A",
+        "imdb_id": "tt6788062",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "64": {
+        "title": "Heiko ist weg",
+        "released": "1992-08-14",
+        "rating": "N/A",
+        "imdb_id": "tt6788064",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "65": {
+        "title": "Leben auf dem Bauernhof",
+        "released": "1992-08-17",
+        "rating": "N/A",
+        "imdb_id": "tt6788066",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "66": {
+        "title": "Große Sorgen um Daniel",
+        "released": "1992-08-18",
+        "rating": "N/A",
+        "imdb_id": "tt6788068",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "67": {
+        "title": "Schlägerei auf dem Bauernhof",
+        "released": "1992-08-19",
+        "rating": "N/A",
+        "imdb_id": "tt6788070",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "68": {
+        "title": "Löpelmann will nach Paris",
+        "released": "1992-08-20",
+        "rating": "N/A",
+        "imdb_id": "tt6788072",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "69": {
+        "title": "Episode #1.69",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt6788074",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "70": {
+        "title": "Elisabeths schlechter Zustand",
+        "released": "1992-08-24",
+        "rating": "N/A",
+        "imdb_id": "tt6788078",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "71": {
+        "title": "Elisabeths Testament",
+        "released": "1992-08-25",
+        "rating": "N/A",
+        "imdb_id": "tt6788082",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "72": {
+        "title": "Die Operation von Elisabeth Meinhart",
+        "released": "1992-08-26",
+        "rating": "N/A",
+        "imdb_id": "tt6788084",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "73": {
+        "title": "Der Liebesfrühling im Hause Richter",
+        "released": "1992-08-27",
+        "rating": "N/A",
+        "imdb_id": "tt6788086",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "74": {
+        "title": "Fehlender Wille",
+        "released": "1992-08-28",
+        "rating": "N/A",
+        "imdb_id": "tt6788090",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "75": {
+        "title": "Der Lebenskampf geht wieder weiter",
+        "released": "1992-08-31",
+        "rating": "N/A",
+        "imdb_id": "tt6788092",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "76": {
+        "title": "Tina in Schwierigkeiten",
+        "released": "1992-09-02",
+        "rating": "N/A",
+        "imdb_id": "tt6788094",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "77": {
+        "title": "Peter zu Gast",
+        "released": "1992-09-03",
+        "rating": "N/A",
+        "imdb_id": "tt6788098",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "78": {
+        "title": "Daniel hilft",
+        "released": "1992-09-04",
+        "rating": "N/A",
+        "imdb_id": "tt6788102",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "79": {
+        "title": "Trude kann wieder sprechen",
+        "released": "1992-09-07",
+        "rating": "N/A",
+        "imdb_id": "tt6788104",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "80": {
+        "title": "Drama im Krankenhaus",
+        "released": "1992-09-08",
+        "rating": "N/A",
+        "imdb_id": "tt6788106",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "81": {
+        "title": "Verhandlungen mit einem neuen Kunden",
+        "released": "1992-09-09",
+        "rating": "N/A",
+        "imdb_id": "tt6788108",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "82": {
+        "title": "Heiko kehrt zurück",
+        "released": "1992-09-10",
+        "rating": "N/A",
+        "imdb_id": "tt6788112",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "83": {
+        "title": "Die Wahrsagerin",
+        "released": "1992-09-11",
+        "rating": "N/A",
+        "imdb_id": "tt6788118",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "84": {
+        "title": "Die Wahrsagerin",
+        "released": "1992-09-14",
+        "rating": "N/A",
+        "imdb_id": "tt6788122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "85": {
+        "title": "Pokerface",
+        "released": "1992-09-15",
+        "rating": "N/A",
+        "imdb_id": "tt6788126",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "86": {
+        "title": "Das alte Leben zurücklassen?",
+        "released": "1992-09-16",
+        "rating": "N/A",
+        "imdb_id": "tt6788124",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "87": {
+        "title": "Das Spiel der Liebe",
+        "released": "1992-09-17",
+        "rating": "N/A",
+        "imdb_id": "tt6788128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "88": {
+        "title": "Neue Wege",
+        "released": "1992-09-18",
+        "rating": "N/A",
+        "imdb_id": "tt6788132",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "89": {
+        "title": "Daniels schlechtes Gewissen",
+        "released": "1992-09-21",
+        "rating": "N/A",
+        "imdb_id": "tt6788134",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "90": {
+        "title": "Ein dekadenter Abend",
+        "released": "1992-09-22",
+        "rating": "N/A",
+        "imdb_id": "tt6788138",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "91": {
+        "title": "Die neue Stelle",
+        "released": "1992-09-23",
+        "rating": "N/A",
+        "imdb_id": "tt6788142",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "92": {
+        "title": "Helga fühlt sich verfolgt",
+        "released": "1992-09-24",
+        "rating": "N/A",
+        "imdb_id": "tt6788144",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "93": {
+        "title": "Frank und Elke finden einander",
+        "released": "1992-09-25",
+        "rating": "N/A",
+        "imdb_id": "tt6788148",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "94": {
+        "title": "Helga hat Angst",
+        "released": "1992-09-28",
+        "rating": "N/A",
+        "imdb_id": "tt6788154",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "95": {
+        "title": "Wochenendtrip",
+        "released": "1992-09-29",
+        "rating": "N/A",
+        "imdb_id": "tt6788156",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "96": {
+        "title": "Emils Verzweiflungstat",
+        "released": "1992-09-30",
+        "rating": "N/A",
+        "imdb_id": "tt6788158",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "97": {
+        "title": "Wahrsagerin",
+        "released": "1992-10-01",
+        "rating": "N/A",
+        "imdb_id": "tt6788162",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "99": {
+        "title": "Frank will Heike nicht alleine lassen",
+        "released": "1992-10-05",
+        "rating": "N/A",
+        "imdb_id": "tt6788166",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "100": {
+        "title": "Helga dreht durch",
+        "released": "1992-10-06",
+        "rating": "N/A",
+        "imdb_id": "tt6788168",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "101": {
+        "title": "Nur Frauen im Kopf",
+        "released": "1992-10-07",
+        "rating": "N/A",
+        "imdb_id": "tt6789206",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "102": {
+        "title": "Peter gibt nicht nach",
+        "released": "1992-10-08",
+        "rating": "N/A",
+        "imdb_id": "tt6789208",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "103": {
+        "title": "Die Tochter der neuen Nachbarin",
+        "released": "1992-10-09",
+        "rating": "N/A",
+        "imdb_id": "tt6789210",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "104": {
+        "title": "Eine Krisensitzung",
+        "released": "1992-10-12",
+        "rating": "N/A",
+        "imdb_id": "tt6789214",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "105": {
+        "title": "Drei Kugeln",
+        "released": "1992-10-13",
+        "rating": "N/A",
+        "imdb_id": "tt6789216",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "106": {
+        "title": "Auf Tournee gehen?",
+        "released": "1992-10-14",
+        "rating": "N/A",
+        "imdb_id": "tt6789218",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "107": {
+        "title": "Daniel in Lebensgefahr",
+        "released": "1992-10-15",
+        "rating": "N/A",
+        "imdb_id": "tt6789220",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "108": {
+        "title": "Julias Stiefvater",
+        "released": "1992-10-16",
+        "rating": "N/A",
+        "imdb_id": "tt6789222",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "109": {
+        "title": "Frau Meinhardt verreist",
+        "released": "1992-10-19",
+        "rating": "N/A",
+        "imdb_id": "tt6789224",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "110": {
+        "title": "Arne ist kein Millionär",
+        "released": "1992-10-21",
+        "rating": "N/A",
+        "imdb_id": "tt6789232",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "111": {
+        "title": "Vergangene Tage",
+        "released": "1992-10-22",
+        "rating": "N/A",
+        "imdb_id": "tt6789234",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "112": {
+        "title": "Rückkehr",
+        "released": "1992-10-23",
+        "rating": "N/A",
+        "imdb_id": "tt6789238",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "113": {
+        "title": "Die Gerüchteküche um Dr. Frank Ullrich",
+        "released": "1992-10-26",
+        "rating": "N/A",
+        "imdb_id": "tt6789242",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "114": {
+        "title": "Annäherung",
+        "released": "1992-10-27",
+        "rating": "N/A",
+        "imdb_id": "tt6789240",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "115": {
+        "title": "Die Suche nach Julias vermisste Schwester",
+        "released": "1992-10-28",
+        "rating": "N/A",
+        "imdb_id": "tt6789244",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "116": {
+        "title": "Dicke Luft",
+        "released": "1992-10-29",
+        "rating": "N/A",
+        "imdb_id": "tt6789246",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "117": {
+        "title": "Stress mit Arne",
+        "released": "1992-10-30",
+        "rating": "N/A",
+        "imdb_id": "tt6789250",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "118": {
+        "title": "Rettung des Rufes",
+        "released": "1992-11-02",
+        "rating": "N/A",
+        "imdb_id": "tt6789252",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "119": {
+        "title": "Suche auf eigene Faust",
+        "released": "1992-11-03",
+        "rating": "N/A",
+        "imdb_id": "tt6789256",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "120": {
+        "title": "Gold im Studio",
+        "released": "1992-11-04",
+        "rating": "N/A",
+        "imdb_id": "tt6789260",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,395 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Italics - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Next Ep Title,Times New Roman,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0030,0030,0200,1
+Style: sign_7523_72_Class_B_Rank_3_W,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,2,1,0022,0010,0016,1
+Style: sign_10002_106_Charanko__Fist_o,Arial,26,&H001F2120,&H000000FF,&H00DEE1D1,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0198,0000,0167,1
+Style: sign_10926_119_Hero_Association,Arial,14,&H00DEE6DF,&H000000FF,&H00222B2D,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0318,0126,0255,1
+Style: sign_7614_68_Hork_Hork_Hork_H,Trebuchet MS,24,&H00BE9830,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0160,0160,0018,1
+Style: sign_13959_133_Kenkaizan,Times New Roman,18,&H00202E46,&H000000FF,&H00ABBFE1,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0279,0267,0209,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:01.65,0:00:05.74,Main,Gyo,0000,0000,0000,,The Hero Association has \Nbeen weakened substantially,
+Dialogue: 0,0:00:05.74,0:00:10.31,Main,Gyo,0000,0000,0000,,and we still have our main forces in reserve.
+Dialogue: 0,0:00:10.31,0:00:14.27,Main,Gyo,0000,0000,0000,,Victory is certain for the \NMonster Association,
+Dialogue: 0,0:00:14.81,0:00:17.58,Main,Gyo,0000,0000,0000,,Monster King Orochi.
+Dialogue: 0,0:00:18.06,0:00:19.38,Main,Gyo,0000,0000,0000,,Now, then...
+Dialogue: 0,0:00:19.38,0:00:24.37,Main,Gyo,0000,0000,0000,,Let's see what the Hero Association \Nwill do with their inferior numbers.
+Dialogue: 0,0:01:57.67,0:02:03.26,Main,Sour,0000,0000,0000,,Charanko... I'll show you \Nwhat true martial arts is.
+Dialogue: 0,0:02:03.26,0:02:03.89,Main,Sour,0000,0000,0000,,Come at me!
+Dialogue: 0,0:02:04.71,0:02:07.56,Main,Guy,0000,0000,0000,,Charanko took him out with one punch!
+Dialogue: 0,0:02:07.56,0:02:10.82,Main,Guy,0000,0000,0000,,We now have our top four!
+Dialogue: 0,0:02:10.82,0:02:13.90,Main,Guy,0000,0000,0000,,Who will come out on top?!
+Dialogue: 0,0:02:14.78,0:02:19.03,Next Ep Title,Sign,0000,0000,0000,,{\pos(174,260)}Class S Heroes
+Dialogue: 0,0:02:16.89,0:02:19.03,Main,Sai,0000,0000,0000,,{\an8}This thing's starting to make my head itchy...
+Dialogue: 0,0:02:19.47,0:02:21.62,Main,Sour,0000,0000,0000,,Hey, you're up!
+Dialogue: 0,0:02:22.81,0:02:25.02,Main,Sour,0000,0000,0000,,What's wrong? Why are you \Nholding your head like that?
+Dialogue: 0,0:02:26.07,0:02:27.62,Main,Sour,0000,0000,0000,,You nervous?
+Dialogue: 0,0:02:27.62,0:02:28.46,Main,Sai,0000,0000,0000,,Uh... Yeah...
+Dialogue: 0,0:02:28.90,0:02:31.30,Main,Sour,0000,0000,0000,,If I hadn't let my guard down \Nduring my fight with you,
+Dialogue: 0,0:02:31.30,0:02:34.21,Main,Sour,0000,0000,0000,,I'd probably be holding my \Nhead out of nervousness, too.
+Dialogue: 0,0:02:34.61,0:02:37.21,Main,Sour,0000,0000,0000,,That last semi-final match was amazing!
+Dialogue: 0,0:02:37.21,0:02:40.18,Main,Sour,0000,0000,0000,,Suiryu took the guy down \Nwith one kick again.
+Dialogue: 0,0:02:40.52,0:02:42.93,Main,Sour,0000,0000,0000,,But the guy you're up against \Nis also pretty nasty.
+Dialogue: 0,0:02:43.45,0:02:47.18,Main,Sour,0000,0000,0000,,I think he's the real dark \Nhorse of this tournament.
+Dialogue: 0,0:02:47.18,0:02:49.65,Main,Sour,0000,0000,0000,,Be careful out there, Charanko!
+Dialogue: 0,0:02:49.65,0:02:52.53,Italics,Sai,0000,0000,0000,,He's starting to sound like \Na decent senior disciple...
+Dialogue: 0,0:02:53.23,0:02:55.65,Italics,Sai,0000,0000,0000,,But I'm not Charanko.
+Dialogue: 0,0:02:57.65,0:02:58.80,Italics,Garo,0000,0000,0000,,Watchdog Man.
+Dialogue: 0,0:02:58.80,0:03:00.61,sign_7523_72_Class_B_Rank_3_W,Sign,0000,0000,0000,,{\an7\pos(45,36)\fs34}Watchdog Man\N{\fs24}Class {\fs34}S {\fs24}Rank {\fs34}12
+Dialogue: 0,0:03:01.55,0:03:02.49,Italics,Garo,0000,0000,0000,,Here I go.
+Dialogue: 0,0:03:03.49,0:03:05.20,Italics,Garo,0000,0000,0000,,We're gonna fight one-on-one!
+Dialogue: 0,0:03:06.75,0:03:07.66,Main,Guy,0000,0000,0000,,There's more trouble!
+Dialogue: 0,0:03:07.66,0:03:10.55,Main,Guy,0000,0000,0000,,A horde of monsters showed \Nup at Watchdog Plaza!
+Dialogue: 0,0:03:10.55,0:03:11.46,Main,,0000,0000,0000,,What?!
+Dialogue: 0,0:03:11.46,0:03:13.96,Main,Guy,0000,0000,0000,,Numerous monsters have \Nappeared in the suburbs, too!
+Dialogue: 0,0:03:16.73,0:03:19.05,Main,Guy,0000,0000,0000,,It's a party!
+Dialogue: 0,0:03:20.30,0:03:22.68,Main,Kid,0000,0000,0000,,Stop that! Release them!
+Dialogue: 0,0:03:23.01,0:03:24.89,Main,Kid,0000,0000,0000,,I, Dogman, will face you!
+Dialogue: 0,0:03:30.49,0:03:32.14,Main,Kid,0000,0000,0000,,You call that poison?
+Dialogue: 0,0:03:32.97,0:03:34.73,Main,Medu,0000,0000,0000,,You're not even alive, are you?
+Dialogue: 0,0:03:34.73,0:03:36.57,Main,Kid,0000,0000,0000,,Guess you got me. In that case...
+Dialogue: 0,0:03:37.46,0:03:38.90,Main,Kid,0000,0000,0000,,Gonna self-destruct now!
+Dialogue: 0,0:03:43.03,0:03:45.41,Main,Medu,0000,0000,0000,,The one controlling \Nyou is somewhere else!
+Dialogue: 0,0:03:45.83,0:03:48.40,Main,Guy,0000,0000,0000,,Do we have an antidote for \Nthe poison in City Y yet?!
+Dialogue: 0,0:03:48.40,0:03:50.00,Main,Guy,0000,0000,0000,,Not that I know of.
+Dialogue: 0,0:03:50.00,0:03:51.43,Main,Guy,0000,0000,0000,,Damn it.
+Dialogue: 0,0:03:51.43,0:03:53.08,Main,Guy,0000,0000,0000,,It'll be all right.
+Dialogue: 0,0:03:53.66,0:03:55.46,Main,Guy,0000,0000,0000,,They're on the move.
+Dialogue: 0,0:04:04.86,0:04:10.81,sign_7523_72_Class_B_Rank_3_W,Sign,0000,0000,0000,,{\an2\pos(320,270)}Class {\fs34}S {\fs24}Rank {\fs34}9 Drive Knight
+Dialogue: 0,0:04:04.86,0:04:10.81,Main,Drive,0000,0000,0000,,{\an8}There are countless monsters appearing, \Nbut the Hero Association lacks information.
+Dialogue: 0,0:04:16.63,0:04:17.19,Main,Drive,0000,0000,0000,,Choose.
+Dialogue: 0,0:04:18.23,0:04:22.25,Main,Drive,0000,0000,0000,,You can die as my tactical transformations \Ninflict all manner of pain upon you,
+Dialogue: 0,0:04:22.25,0:04:26.25,Main,Drive,0000,0000,0000,,or you can tell me everything \Nyou know and die painlessly.
+Dialogue: 0,0:04:27.87,0:04:30.62,Main,Amai,0000,0000,0000,,How dare you disrupt my concert?
+Dialogue: 0,0:04:31.00,0:04:33.00,Main,Amai,0000,0000,0000,,You can atone with your deaths.
+Dialogue: 0,0:04:37.57,0:04:38.84,Main,Medu,0000,0000,0000,,Found you.
+Dialogue: 0,0:04:39.23,0:04:40.17,sign_7523_72_Class_B_Rank_3_W,Sign,0000,0000,0000,,{\an2\pos(320,270)}Class {\fs34}S {\fs24}Rank {\fs34}5 Child Emperor
+Dialogue: 0,0:04:40.77,0:04:43.42,Main,Medu,0000,0000,0000,,You were the one controlling \Nthat robot, weren't you?
+Dialogue: 0,0:04:43.88,0:04:46.84,Italics,Kid,0000,0000,0000,,I've finished analyzing the poison. But...
+Dialogue: 0,0:04:47.22,0:04:49.43,Italics,Kid,0000,0000,0000,,If only I had my backpack...
+Dialogue: 0,0:04:56.42,0:04:58.69,sign_7523_72_Class_B_Rank_3_W,Sign,0000,0000,0000,,{\an9\pos(595,20}Class {\fs34}S {\fs24}Rank {\fs34}10\NPig God
+Dialogue: 0,0:04:58.69,0:04:59.82,Main,Kid,0000,0000,0000,,Mr. Pig God!
+Dialogue: 0,0:04:59.82,0:05:03.12,Main,Pig,0000,0000,0000,,I heard explosions, so I came to help.
+Dialogue: 0,0:05:03.12,0:05:03.82,Main,Medu,0000,0000,0000,,You're in my way!
+Dialogue: 0,0:05:03.82,0:05:05.49,Main,Medu,0000,0000,0000,,Die!
+Dialogue: 0,0:05:07.59,0:05:08.95,Main,Kid,0000,0000,0000,,Oh, no! Her poison!
+Dialogue: 0,0:05:08.95,0:05:10.24,Main,Kid,0000,0000,0000,,Don't worry! I'll save you!
+Dialogue: 0,0:05:17.54,0:05:19.92,sign_7614_68_Hork_Hork_Hork_H,Sfx,0000,0000,0000,,Hork Hork Hork Hork Hork
+Dialogue: 0,0:05:20.53,0:05:21.67,Main,Kid,0000,0000,0000,,Mr. Pig God! The poison!
+Dialogue: 0,0:05:23.99,0:05:26.01,Main,Pig,0000,0000,0000,,Don't worry. I'm fine.
+Dialogue: 0,0:05:26.57,0:05:29.02,Main,Pig,0000,0000,0000,,Burp.
+Dialogue: 0,0:05:29.61,0:05:32.10,Main,Guy,0000,0000,0000,,We've received antidote data \Nfrom the Child Emperor!
+Dialogue: 0,0:05:32.10,0:05:34.48,Main,Guy,0000,0000,0000,,Good. Now we can treat those \Naffected by the poison.
+Dialogue: 0,0:05:34.48,0:05:38.19,Main,Guy,0000,0000,0000,,The Class S heroes never cease to amaze me.
+Dialogue: 0,0:05:38.19,0:05:41.74,Main,Guy,0000,0000,0000,,And now for round two of the semi-finals!
+Dialogue: 0,0:05:40.44,0:05:43.86,Main,Sign,0000,0000,0000,,{\an8\fnArial\b1\3c&H3E3121&\shad0}Semi-finals\NRound 2
+Dialogue: 0,0:05:41.74,0:05:43.86,Main,Guy,0000,0000,0000,,Try not to blink during this match!
+Dialogue: 0,0:05:44.25,0:05:47.58,Main,Guy,0000,0000,0000,,We have Choze, who's been enjoying the \Nphysical destruction of his opponents
+Dialogue: 0,0:05:47.58,0:05:48.61,Main,Guy,0000,0000,0000,,more than he really should,
+Dialogue: 0,0:05:48.61,0:05:52.66,Main,Guy,0000,0000,0000,,and Charanko, who's settled every \Nbattle with one punch so far!
+Dialogue: 0,0:05:53.63,0:05:56.46,Main,Choze,0000,0000,0000,,Taking out your opponent \Nwith one punch is simple.
+Dialogue: 0,0:05:56.46,0:05:59.84,Main,Choze,0000,0000,0000,,But I prefer taking my \Ntime and executing them,
+Dialogue: 0,0:05:59.84,0:06:02.67,Main,Choze,0000,0000,0000,,to make them realize I'm \Non a different level.
+Dialogue: 0,0:06:02.67,0:06:09.28,Main,Choze,0000,0000,0000,,My family has spent generations breeding \Nsuperior genes. We are a chosen breed.
+Dialogue: 0,0:06:09.28,0:06:12.10,Main,Choze,0000,0000,0000,,And I am their finest creation to date.
+Dialogue: 0,0:06:12.10,0:06:16.75,Main,Choze,0000,0000,0000,,I am a completely different \Nspecies from you commoners.
+Dialogue: 0,0:06:16.75,0:06:18.94,Main,Choze,0000,0000,0000,,I will show you how powerful \NI am in this fight,
+Dialogue: 0,0:06:19.61,0:06:22.48,Main,Choze,0000,0000,0000,,and then I shall take over the world!
+Dialogue: 0,0:06:22.89,0:06:24.91,Main,Sai,0000,0000,0000,,Jeez, you're dramatic.
+Dialogue: 0,0:06:24.91,0:06:27.49,Main,Sai,0000,0000,0000,,So you're basically like a new kind of corn.
+Dialogue: 0,0:06:28.61,0:06:29.91,Main,Choze,0000,0000,0000,,You're gonna die.
+Dialogue: 0,0:06:30.32,0:06:35.65,Main,Choze,0000,0000,0000,,I can't wait to see you cry \Nand scream your lungs out!
+Dialogue: 0,0:06:35.65,0:06:36.50,Main,Guy,0000,0000,0000,,Begin!
+Dialogue: 0,0:06:37.69,0:06:41.16,Main,Guy,0000,0000,0000,,H-He took him out with one punch yet again!
+Dialogue: 0,0:06:41.16,0:06:45.11,Main,Guy,0000,0000,0000,,Charanko is heading to the finals \Nwithout a single scratch!
+Dialogue: 0,0:06:45.78,0:06:47.46,Main,Sai,0000,0000,0000,,Guess the tournament's over already.
+Dialogue: 0,0:06:47.46,0:06:51.43,Main,Guy,0000,0000,0000,,Charanko is just full of surprises!
+Dialogue: 0,0:06:53.15,0:06:56.01,Main,Guy,0000,0000,0000,,We've lost contact with the \NClass A heroes in City I!
+Dialogue: 0,0:06:56.01,0:06:58.52,Main,Guy,0000,0000,0000,,Got it. Send a Class S—
+Dialogue: 0,0:06:58.52,0:06:59.55,Italics,Guy,0000,0000,0000,,Hang on!
+Dialogue: 0,0:07:01.94,0:07:04.40,Main,Guy,0000,0000,0000,,I hid among the rubble
+Dialogue: 0,0:07:06.62,0:07:08.65,Main,Guy,0000,0000,0000,,until more of us showed up.
+Dialogue: 0,0:07:09.13,0:07:11.61,Main,Guy,0000,0000,0000,,Now that we have this \Nmany Class A heroes here,
+Dialogue: 0,0:07:11.61,0:07:13.75,Main,Guy,0000,0000,0000,,you can leave this to us!
+Dialogue: 0,0:07:13.75,0:07:15.53,Main,Flash,0000,0000,0000,,Don't even bother.
+Dialogue: 0,0:07:16.09,0:07:21.46,Main,Flash,0000,0000,0000,,Mediocre fighters like yourselves \Nwould just cause further damage.
+Dialogue: 0,0:07:21.18,0:07:23.00,sign_7523_72_Class_B_Rank_3_W,Sign,0000,0000,0000,,{\an9\pos(595,20}Class {\fs34}S {\fs24}Rank {\fs34}13\NFlashy Flash
+Dialogue: 0,0:07:23.00,0:07:24.63,Main,Guy,0000,0000,0000,,Mediocre?
+Dialogue: 0,0:07:24.63,0:07:26.46,Main,Flash,0000,0000,0000,,Just keep quiet and watch!
+Dialogue: 0,0:07:46.61,0:07:48.19,Italics,Guy,0000,0000,0000,,This is a Class S hero?
+Dialogue: 0,0:07:58.33,0:08:01.18,Main,Guy,0000,0000,0000,,Didn't you just cause even more damage?
+Dialogue: 0,0:08:06.13,0:08:07.04,Main,Guy,0000,0000,0000,,Did it work?
+Dialogue: 0,0:08:07.04,0:08:08.80,Main,Guy,0000,0000,0000,,I just hit it in its open wounds!
+Dialogue: 0,0:08:12.72,0:08:15.26,Main,Flash,0000,0000,0000,,Take this! My special technique...
+Dialogue: 0,0:08:27.69,0:08:28.44,Main,Guy,0000,0000,0000,,That's...
+Dialogue: 0,0:08:28.97,0:08:30.90,Main,Guy,0000,0000,0000,,Terrible Tornado!
+Dialogue: 0,0:08:48.29,0:08:50.03,Main,Tor,0000,0000,0000,,Hey!
+Dialogue: 0,0:08:50.57,0:08:55.18,Main,Tor,0000,0000,0000,,We're short on heroes, so why the heck \Nare all of you here fooling around?
+Dialogue: 0,0:08:55.49,0:08:56.93,Main,Guy,0000,0000,0000,,We were fighting that octo—
+Dialogue: 0,0:08:56.93,0:09:00.45,Main,Tor,0000,0000,0000,,Especially you! Flashy Flash, was it?
+Dialogue: 0,0:09:00.45,0:09:04.22,Main,Tor,0000,0000,0000,,You need to do better than that \Nif you're actually a Class S!
+Dialogue: 0,0:09:05.75,0:09:07.42,Main,Tor,0000,0000,0000,,Ugh, you're all so useless.
+Dialogue: 0,0:09:09.09,0:09:12.91,Main,Flash,0000,0000,0000,,How dare you say that after stealing \Nsomeone's quarry, you fool?
+Dialogue: 0,0:09:12.91,0:09:15.04,Main,Flash,0000,0000,0000,,Do you think you're stronger than me?
+Dialogue: 0,0:09:15.04,0:09:16.24,Main,Guy,0000,0000,0000,,What if she hears you?!
+Dialogue: 0,0:09:16.62,0:09:19.12,Main,Guy,0000,0000,0000,,Don't drag us into your squabbles!
+Dialogue: 0,0:09:20.49,0:09:22.08,Main,Flash,0000,0000,0000,,That was unnecessary.
+Dialogue: 0,0:09:24.81,0:09:26.73,Italics,Guy,0000,0000,0000,,I couldn't do a damn thing!
+Dialogue: 0,0:09:27.94,0:09:32.82,Main,Gyo,0000,0000,0000,,It appears that Class S heroes \Nare truly troublesome.
+Dialogue: 0,0:09:32.82,0:09:34.21,Main,Oro,0000,0000,0000,,They're not a problem.
+Dialogue: 0,0:09:34.94,0:09:38.07,Main,Oro,0000,0000,0000,,We can create as many monsters as we want.
+Dialogue: 0,0:09:42.18,0:09:45.68,sign_13959_133_Kenkaizan,Sign,0000,0000,0000,,Kenkaizan
+Dialogue: 0,0:09:42.18,0:09:45.68,Main,Ato,0000,0000,0000,,I'm sure you can guess why \NI've gathered you here today.
+Dialogue: 0,0:09:45.68,0:09:48.35,Main,Ato,0000,0000,0000,,It's in regards to the hero hunter, Garo.
+Dialogue: 0,0:09:48.87,0:09:53.99,Main,Ato,0000,0000,0000,,Silverfang is currently \Npursuing Garo. However...
+Dialogue: 0,0:09:54.49,0:09:57.20,Main,Ato,0000,0000,0000,,Silverfang may lose to Garo.
+Dialogue: 0,0:09:58.47,0:10:01.64,Main,Ato,0000,0000,0000,,Of course, no one doubts his skills.
+Dialogue: 0,0:10:01.64,0:10:04.14,Main,Ato,0000,0000,0000,,But Garo is his former student.
+Dialogue: 0,0:10:04.14,0:10:06.17,Main,Ato,0000,0000,0000,,He may become soft.
+Dialogue: 0,0:10:06.17,0:10:08.58,Main,Ato,0000,0000,0000,,And that's why we, \Nthe Holy Order of the Sword,
+Dialogue: 0,0:10:08.58,0:10:12.04,Main,Ato,0000,0000,0000,,should find Garo first and cut him down.
+Dialogue: 0,0:10:12.04,0:10:14.58,Main,Ato,0000,0000,0000,,But we'll need more men to track him down.
+Dialogue: 0,0:10:14.58,0:10:19.62,Main,Ato,0000,0000,0000,,I'm asking for your help... Your strength \Nas the most powerful swordsmen.
+Dialogue: 0,0:10:19.62,0:10:22.55,Main,Guy,0000,0000,0000,,This must be urgent, \Nfor you to go to such lengths.
+Dialogue: 0,0:10:22.55,0:10:25.95,Main,Guy,0000,0000,0000,,Very well. I'll mobilize my students.
+Dialogue: 0,0:10:25.95,0:10:27.02,Main,Ato,0000,0000,0000,,Amahare.
+Dialogue: 0,0:10:27.02,0:10:29.82,Main,Guy,0000,0000,0000,,Relying on us is the right move.
+Dialogue: 0,0:10:29.82,0:10:30.85,Main,Ato,0000,0000,0000,,Zanbai.
+Dialogue: 0,0:10:30.85,0:10:33.27,Main,Guy,0000,0000,0000,,We're worth a thousand men.
+Dialogue: 0,0:10:33.27,0:10:34.37,Main,Ato,0000,0000,0000,,Nichirin.
+Dialogue: 0,0:10:34.37,0:10:37.44,Main,Ato,0000,0000,0000,,Thank you. I promise I'll repay you—
+Dialogue: 0,0:10:39.17,0:10:43.32,Main,Guy,0000,0000,0000,,Since when did the members of the Holy \NOrder of the Sword become best friends?
+Dialogue: 0,0:10:43.32,0:10:44.41,Main,Ato,0000,0000,0000,,Haragiri.
+Dialogue: 0,0:10:44.41,0:10:50.62,Main,Hara,0000,0000,0000,,Our only purpose should be to devote our \Nlives to mastering the art of the sword.
+Dialogue: 0,0:10:50.62,0:10:52.90,Main,Guy,0000,0000,0000,,That's enough. You're drunk. \NYou shouldn't—
+Dialogue: 0,0:10:52.90,0:10:56.15,Main,Hara,0000,0000,0000,,Hang on a second. \NI've got something to discuss, as well.
+Dialogue: 0,0:10:56.15,0:10:57.92,Main,Hara,0000,0000,0000,,Something extra special...
+Dialogue: 0,0:11:01.14,0:11:02.72,Main,Hara,0000,0000,0000,,Monster cells.
+Dialogue: 0,0:11:03.04,0:11:07.72,Main,Hara,0000,0000,0000,,Taking one into your body \Ngives you super-human strength.
+Dialogue: 0,0:11:09.81,0:11:11.69,Main,Hara,0000,0000,0000,,Essentially, it makes you a monster.
+Dialogue: 0,0:11:11.69,0:11:13.23,Main,Guy,0000,0000,0000,,You've lost your mind.
+Dialogue: 0,0:11:13.23,0:11:14.36,Main,Guy,0000,0000,0000,,Where did you get these?
+Dialogue: 0,0:11:14.36,0:11:18.67,Main,Hara,0000,0000,0000,,There's a group called the Monster \NAssociation that's made up of monsters.
+Dialogue: 0,0:11:18.67,0:11:20.49,Main,Hara,0000,0000,0000,,They happened to reach out to me.
+Dialogue: 0,0:11:20.82,0:11:27.12,Main,Hara,0000,0000,0000,,I joined them, forfeiting my humanity, \Nso I could become even stronger.
+Dialogue: 0,0:11:27.12,0:11:28.62,Main,Ato,0000,0000,0000,,Did you actually...
+Dialogue: 0,0:11:28.62,0:11:29.90,Main,Hara,0000,0000,0000,,That's right!
+Dialogue: 0,0:11:29.90,0:11:35.09,Main,Hara,0000,0000,0000,,I'm no longer human! \NAnd I've obtained unbelievable power!
+Dialogue: 0,0:11:35.09,0:11:37.86,Main,Hara,0000,0000,0000,,And now you shall become monsters, too!
+Dialogue: 0,0:11:39.13,0:11:41.26,Main,Ato,0000,0000,0000,,You're a failure, Haragiri.
+Dialogue: 0,0:11:42.79,0:11:46.74,Main,Hara,0000,0000,0000,,I have the skill to lop off all of \Nyour heads with a single swing!
+Dialogue: 0,0:11:47.26,0:11:49.60,Main,Hara,0000,0000,0000,,Anyone who refuses will die!
+Dialogue: 0,0:11:51.39,0:11:52.52,Main,Ato,0000,0000,0000,,How sad.
+Dialogue: 0,0:11:52.52,0:11:58.44,Main,Hara,0000,0000,0000,,Indeed, it is for you, Atomic Samurai. \NI've been ordered to kill you either way.
+Dialogue: 0,0:11:58.44,0:12:01.99,Main,Hara,0000,0000,0000,,I'll wait three seconds! \NNow, eat the monster cells!
+Dialogue: 0,0:12:01.99,0:12:04.95,Main,Hara,0000,0000,0000,,Three, two, one!
+Dialogue: 0,0:12:06.42,0:12:09.37,Main,Ato,0000,0000,0000,,We're not as dumb as you.
+Dialogue: 0,0:12:21.89,0:12:22.76,Main,Ato,0000,0000,0000,,Let's go.
+Dialogue: 0,0:12:23.54,0:12:27.17,Main,Ato,0000,0000,0000,,First, we have to crush \Nthe Monster Association.
+Dialogue: 0,0:12:28.46,0:12:32.50,Main,Guy,0000,0000,0000,,And now, the finals of the \NSuper Fight are finally upon us!
+Dialogue: 0,0:12:32.50,0:12:36.32,Main,Guy,0000,0000,0000,,Charanko should definitely \Nbe at a disadvantage here,
+Dialogue: 0,0:12:36.32,0:12:38.70,Main,Guy,0000,0000,0000,,but... could it be?
+Dialogue: 0,0:12:38.70,0:12:40.44,Main,Guy,0000,0000,0000,,It might just happen, folks!
+Dialogue: 0,0:12:43.53,0:12:48.12,Main,Guy,0000,0000,0000,,It sounds like the crowd's \Nhoping for a huge upset!
+Dialogue: 0,0:12:48.12,0:12:51.29,Main,Guy,0000,0000,0000,,But this man's not going to let that happen!
+Dialogue: 0,0:12:51.29,0:12:54.04,Main,Guy,0000,0000,0000,,I can't even picture him having \Na hard time in a match.
+Dialogue: 0,0:12:54.38,0:12:56.25,Main,Guy,0000,0000,0000,,It's Suiryu of the Dark Corporeal Fist
+Dialogue: 0,0:12:56.25,0:12:59.20,Main,Guy,0000,0000,0000,,versus Charanko of the Fist of Water Polo!
+Dialogue: 0,0:12:59.20,0:13:01.96,Italics,Sai,0000,0000,0000,,Did this guy figure out I'm wearing a wig?
+Dialogue: 0,0:13:01.96,0:13:04.42,Main,Guy,0000,0000,0000,,Who will be our victor?!
+Dialogue: 0,0:13:04.90,0:13:07.69,Main,Guy,0000,0000,0000,,Look at that smile on Suiryu's face!
+Dialogue: 0,0:13:07.69,0:13:09.76,Main,Guy,0000,0000,0000,,Does he still have the upper hand?
+Dialogue: 0,0:13:10.23,0:13:11.88,Main,Guy,0000,0000,0000,,Maybe it's because he's trying to hide
+Dialogue: 0,0:13:11.88,0:13:15.11,Main,Guy,0000,0000,0000,,the fact that he's nervous, but Charanko \Nsure has an idiotic expression right now.
+Dialogue: 0,0:13:15.11,0:13:16.73,Italics,Sai,0000,0000,0000,,This is just how I always look...
+Dialogue: 0,0:13:17.16,0:13:18.02,Main,Ref,0000,0000,0000,,Take your stances!
+Dialogue: 0,0:13:18.34,0:13:20.02,Main,Sui,0000,0000,0000,,Let's have fun, Charanko.
+Dialogue: 0,0:13:20.44,0:13:21.01,Main,Sai,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:21.01,0:13:21.90,Main,Ref,0000,0000,0000,,Begin!
+Dialogue: 0,0:13:21.90,0:13:24.95,Main,Guy,0000,0000,0000,,It finally begins!
+Dialogue: 0,0:13:24.95,0:13:25.74,Main,Sai,0000,0000,0000,,Crap.
+Dialogue: 0,0:13:26.67,0:13:29.36,Main,Guy,0000,0000,0000,,Suiryu strikes first!
+Dialogue: 0,0:13:29.36,0:13:31.83,Main,Guy,0000,0000,0000,,But for some reason, he stopped his attack!
+Dialogue: 0,0:13:34.59,0:13:37.54,Main,Guy,0000,0000,0000,,H-His moves are too fast!
+Dialogue: 0,0:13:38.21,0:13:40.79,Italics,Sai,0000,0000,0000,,I thought I'd feel things out \Nsince this is the final...
+Dialogue: 0,0:13:41.10,0:13:43.34,Italics,Sai,0000,0000,0000,,But the breeze from his kicks is dangerous!
+Dialogue: 0,0:13:43.34,0:13:45.17,Italics,Sai,0000,0000,0000,,Is he doing that on purpose?
+Dialogue: 0,0:13:45.17,0:13:48.39,Main,Sui,0000,0000,0000,,What's wrong? It's not like \Nyou can't see my moves!
+Dialogue: 0,0:13:49.51,0:13:53.50,Main,Guy,0000,0000,0000,,Multiple kicks! But he's \Naborting all of them!
+Dialogue: 0,0:13:53.50,0:13:57.01,Main,Guy,0000,0000,0000,,All Charanko's able to do is guard his head!
+Dialogue: 0,0:13:57.01,0:13:59.17,Main,Guy,0000,0000,0000,,Has he already lost his will to fight?!
+Dialogue: 0,0:13:59.17,0:14:03.32,Main,Sui,0000,0000,0000,,The announcer's got no clue. \NThat was just a warm-up.
+Dialogue: 0,0:14:03.77,0:14:07.90,Main,Sui,0000,0000,0000,,You're strong, right? \NI can tell because I'm strong, too.
+Dialogue: 0,0:14:09.23,0:14:11.53,Italics,Sai,0000,0000,0000,,I guess he wasn't trying to kick off my wig.
+Dialogue: 0,0:14:11.53,0:14:15.03,Main,Sui,0000,0000,0000,,Your eyes... They're not \Nafter fame or prestige.
+Dialogue: 0,0:14:15.03,0:14:17.66,Main,Sui,0000,0000,0000,,You're looking for fun!
+Dialogue: 0,0:14:17.66,0:14:20.00,Main,Sai,0000,0000,0000,,Yeah, could be.
+Dialogue: 0,0:14:20.34,0:14:23.13,Main,Sui,0000,0000,0000,,Why did you enter this tournament?
+Dialogue: 0,0:14:23.47,0:14:25.71,Main,Sui,0000,0000,0000,,I'm after the prize money, by the way.
+Dialogue: 0,0:14:25.71,0:14:27.42,Italics,Sai,0000,0000,0000,,I want that, too.
+Dialogue: 0,0:14:27.42,0:14:29.01,Main,Sui,0000,0000,0000,,There is one other reason.
+Dialogue: 0,0:14:29.63,0:14:33.46,Main,Sui,0000,0000,0000,,I thought it'd be nice if I could \Nfight a decent opponent, too.
+Dialogue: 0,0:14:33.46,0:14:35.86,Main,Sui,0000,0000,0000,,Of course, I'm going to win in the end,
+Dialogue: 0,0:14:35.86,0:14:37.60,Main,Sui,0000,0000,0000,,but getting there is the fun part.
+Dialogue: 0,0:14:38.51,0:14:40.52,Main,Sai,0000,0000,0000,,Fun, huh?
+Dialogue: 0,0:14:40.52,0:14:42.40,Main,Sui,0000,0000,0000,,Yeah! It's fun being strong.
+Dialogue: 0,0:14:43.12,0:14:44.27,Italics,Sai,0000,0000,0000,,I see.
+Dialogue: 0,0:14:45.79,0:14:49.16,Main,Sai,0000,0000,0000,,I came here so that I could \Nexperience martial arts.
+Dialogue: 0,0:14:49.16,0:14:51.21,Main,Sai,0000,0000,0000,,I heard everyone here was tough,
+Dialogue: 0,0:14:51.21,0:14:54.14,Main,Sai,0000,0000,0000,,but the matches ended so quickly \Nif I fought back even a little.
+Dialogue: 0,0:14:54.63,0:14:56.60,Main,Zako,0000,0000,0000,,What are they talking about?
+Dialogue: 0,0:14:56.60,0:15:00.50,Main,Sour,0000,0000,0000,,They must be talking about all the hardships \Nthey endured to get to the finals.
+Dialogue: 0,0:15:00.97,0:15:03.91,Main,Sai,0000,0000,0000,,At this rate, I thought it might've \Nbeen pointless for me to even come...
+Dialogue: 0,0:15:04.69,0:15:06.84,Main,Sai,0000,0000,0000,,But you might actually be different.
+Dialogue: 0,0:15:08.75,0:15:09.67,Main,Sui,0000,0000,0000,,Got it.
+Dialogue: 0,0:15:10.12,0:15:12.20,Main,Sui,0000,0000,0000,,Then how about this?
+Dialogue: 0,0:15:12.20,0:15:14.66,Main,Sui,0000,0000,0000,,I'll help you experience martial arts,
+Dialogue: 0,0:15:14.66,0:15:17.56,Main,Sui,0000,0000,0000,,so in return, do your best to entertain me.
+Dialogue: 0,0:15:17.56,0:15:19.52,Main,Sai,0000,0000,0000,,Hey, good idea.
+Dialogue: 0,0:15:19.90,0:15:21.02,Main,Sui,0000,0000,0000,,All right, then...
+Dialogue: 0,0:15:21.60,0:15:23.18,Main,Sui,0000,0000,0000,,Let's begin.
+Dialogue: 0,0:15:24.18,0:15:25.15,Main,Sui,0000,0000,0000,,Here I come!
+Dialogue: 0,0:15:26.99,0:15:30.03,Main,Guy,0000,0000,0000,,H-He's even faster now!
+Dialogue: 0,0:15:32.70,0:15:35.48,Main,Guy,0000,0000,0000,,Did Suiryu finally get serious?!
+Dialogue: 0,0:15:35.48,0:15:37.03,Main,Sui,0000,0000,0000,,It's just gonna keep coming!
+Dialogue: 0,0:15:38.15,0:15:40.66,Main,Guy,0000,0000,0000,,He kicked him into the air!
+Dialogue: 0,0:15:45.33,0:15:46.46,Main,Sai,0000,0000,0000,,Safe.
+Dialogue: 0,0:15:47.71,0:15:49.76,Main,Guy,0000,0000,0000,,Th-That finishes it!
+Dialogue: 0,0:15:51.09,0:15:53.34,Main,Guy,0000,0000,0000,,Is Charanko okay?!
+Dialogue: 0,0:15:53.70,0:15:55.60,Main,Guy,0000,0000,0000,,Can he stand?
+Dialogue: 0,0:15:55.60,0:15:57.46,Main,Sour,0000,0000,0000,,Ch-Charanko!
+Dialogue: 0,0:15:57.46,0:15:59.89,Main,Zak,0000,0000,0000,,Their difference in ability \Nwas just too great!
+Dialogue: 0,0:16:00.47,0:16:02.23,Main,Sui,0000,0000,0000,,Did I end it already?
+Dialogue: 0,0:16:02.23,0:16:04.98,Main,Sai,0000,0000,0000,,You scared me for a second.
+Dialogue: 0,0:16:06.06,0:16:08.38,Italics,Sai,0000,0000,0000,,I really thought my wig was \Ngoing to fly off this time.
+Dialogue: 0,0:16:09.83,0:16:10.61,Main,Sui,0000,0000,0000,,Good.
+Dialogue: 0,0:16:10.61,0:16:12.99,Main,Sui,0000,0000,0000,,Otherwise, it'd be no fun!
+Dialogue: 0,0:16:14.15,0:16:15.49,Main,Sour,0000,0000,0000,,He's holding out!
+Dialogue: 0,0:16:15.88,0:16:18.30,Main,Sour,0000,0000,0000,,If he keeps it up, he might \Nbe able to turn the tables!
+Dialogue: 0,0:16:18.30,0:16:23.29,Main,Light,0000,0000,0000,,No. Look at Suiryu.\NHe's only been using kicks so far.
+Dialogue: 0,0:16:23.62,0:16:26.17,Main,Snek,0000,0000,0000,,He's holding back so that \Nhe can play around more.
+Dialogue: 0,0:16:26.17,0:16:27.50,Main,Sour,0000,0000,0000,,You mean...
+Dialogue: 0,0:16:27.50,0:16:29.42,Main,Light,0000,0000,0000,,He's not even serious yet.
+Dialogue: 0,0:16:29.42,0:16:31.94,Main,Sui,0000,0000,0000,,Your specialty is your punch, right?
+Dialogue: 0,0:16:31.94,0:16:33.13,Main,Sui,0000,0000,0000,,Come on! Hit me!
+Dialogue: 0,0:16:33.13,0:16:35.01,Main,Sui,0000,0000,0000,,Entertain me some more!
+Dialogue: 0,0:16:40.27,0:16:43.49,Italics,Sui,0000,0000,0000,,Did he figure out I was \Ngoing to counter him?
+Dialogue: 0,0:16:43.49,0:16:46.52,Italics,Sui,0000,0000,0000,,He's a white belt, but he \Ndefinitely has some experience.
+Dialogue: 0,0:16:47.07,0:16:49.98,Italics,Sui,0000,0000,0000,,He's pretty slick for always \Nguarding his head, too.
+Dialogue: 0,0:16:50.44,0:16:53.11,Main,Sui,0000,0000,0000,,What do you normally do?
+Dialogue: 0,0:16:53.11,0:16:54.55,Main,Sai,0000,0000,0000,,Normally?
+Dialogue: 0,0:16:54.55,0:16:57.37,Main,Sai,0000,0000,0000,,Uh, go for walks and defeat monsters?
+Dialogue: 0,0:16:57.73,0:17:00.41,Main,Sui,0000,0000,0000,,What? You fight monsters?
+Dialogue: 0,0:17:00.82,0:17:03.37,Main,Sui,0000,0000,0000,,You almost sound like a hero.
+Dialogue: 0,0:17:03.37,0:17:07.45,Main,Sai,0000,0000,0000,,W-Well, I thought it might be \Ncool to be a hero in the future.
+Dialogue: 0,0:17:07.45,0:17:11.46,Main,Sui,0000,0000,0000,,Jeez... Even you aspire to be a hero?
+Dialogue: 0,0:17:11.46,0:17:14.22,Main,Sui,0000,0000,0000,,I don't think that hero \Nbusiness is all that great.
+Dialogue: 0,0:17:15.90,0:17:21.41,Main,Sui,0000,0000,0000,,I fought some Class A heroes earlier, \Nand they were so weak, it was a joke.
+Dialogue: 0,0:17:21.41,0:17:23.86,Main,Sui,0000,0000,0000,,"Hero" is just some stupid title.
+Dialogue: 0,0:17:23.86,0:17:25.60,Main,Sui,0000,0000,0000,,It's supposed to be their profession,
+Dialogue: 0,0:17:25.60,0:17:29.03,Main,Sui,0000,0000,0000,,but they won't shut up about \Ngood deeds and justice.
+Dialogue: 0,0:17:29.03,0:17:34.24,Main,Sui,0000,0000,0000,,People at that level are never going \Nto be able to save the world, though.
+Dialogue: 0,0:17:34.24,0:17:40.99,Main,Sui,0000,0000,0000,,Noble aspirations, fine thoughts, \Nlofty ethics, heroic justice...
+Dialogue: 0,0:17:41.40,0:17:46.87,Main,Sui,0000,0000,0000,,They're just boring contaminants \Nin my life of seeking fun.
+Dialogue: 0,0:17:47.31,0:17:51.39,Main,Sui,0000,0000,0000,,You're strong, too. So you shouldn't be \Nso concerned about such trivial things.
+Dialogue: 0,0:17:51.39,0:17:52.96,Main,Sui,0000,0000,0000,,Just live free and have fun.
+Dialogue: 0,0:17:54.13,0:17:56.05,Main,Sui,0000,0000,0000,,Oh, did I bum you out?
+Dialogue: 0,0:17:56.50,0:17:59.85,Main,Sui,0000,0000,0000,,I'm only giving you some truthful \Nadvice because I respect you.
+Dialogue: 0,0:18:00.93,0:18:03.11,Main,Guy,0000,0000,0000,,That's a clean hit!
+Dialogue: 0,0:18:03.11,0:18:03.64,Main,Guy,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:04.62,0:18:05.91,Main,Sai,0000,0000,0000,,Contaminant?
+Dialogue: 0,0:18:06.45,0:18:08.17,Main,Sai,0000,0000,0000,,Who the hell cares about that?
+Dialogue: 0,0:18:09.14,0:18:11.86,Main,Sai,0000,0000,0000,,You're not the only one doing what you want.
+Dialogue: 0,0:18:11.86,0:18:13.65,Main,Sai,0000,0000,0000,,Suiryu, was it?
+Dialogue: 0,0:18:14.01,0:18:15.84,Main,Sai,0000,0000,0000,,Let me give you some advice, as well.
+Dialogue: 0,0:18:17.89,0:18:21.91,Main,Sai,0000,0000,0000,,If you just want to have fun, \Nyou probably shouldn't get any stronger.
+Dialogue: 0,0:18:28.29,0:18:32.79,Main,Sai,0000,0000,0000,,Crap! I keep forgetting! \NI almost cut the fight short again.
+Dialogue: 0,0:18:35.21,0:18:36.90,Main,,0000,0000,0000,,{\an8}Did you see that?!
+Dialogue: 0,0:18:35.21,0:18:37.82,Main,Guy,0000,0000,0000,,Wh-What in the world was that?!
+Dialogue: 0,0:18:36.90,0:18:38.49,Main,Guy,0000,0000,0000,,{\an8}I've never seen anything like that!
+Dialogue: 0,0:18:38.49,0:18:42.97,Main,Guy,0000,0000,0000,,B-But a shocking truth about \NCharanko has just been revealed!
+Dialogue: 0,0:18:42.97,0:18:47.18,Main,Guy,0000,0000,0000,,It's been discovered that \Nhe's been wearing a wig!
+Dialogue: 0,0:18:47.69,0:18:51.66,Main,Guy,0000,0000,0000,,The referees are making their move! \NCould this mean...
+Dialogue: 0,0:18:51.66,0:18:53.76,Main,Ref,0000,0000,0000,,Allow me to explain.
+Dialogue: 0,0:18:53.76,0:18:56.91,Main,Ref,0000,0000,0000,,After last year's incident where \Nsomeone impersonated Wolfman,
+Dialogue: 0,0:18:56.91,0:19:00.86,Main,Ref,0000,0000,0000,,the rules of this year's \Ntournament changed,
+Dialogue: 0,0:19:00.86,0:19:04.71,Main,Ref,0000,0000,0000,,meaning wearing masks or anything \Non your head is against the rules.
+Dialogue: 0,0:19:04.71,0:19:06.79,Main,Ref,0000,0000,0000,,This includes wigs.
+Dialogue: 0,0:19:06.79,0:19:10.26,Main,Ref,0000,0000,0000,,Therefore, Charanko is disqualified!
+Dialogue: 0,0:19:10.26,0:19:13.73,Main,Guy,0000,0000,0000,,U-Unbelievable! That ends our match!
+Dialogue: 0,0:19:13.73,0:19:16.26,Main,Guy,0000,0000,0000,,The winner is Suiryu!
+Dialogue: 0,0:19:16.26,0:19:17.61,Main,Guy,0000,0000,0000,,Seriously?
+Dialogue: 0,0:19:17.61,0:19:18.76,Main,Guy,0000,0000,0000,,Continue the fight!
+Dialogue: 0,0:19:18.76,0:19:23.21,Main,Sour,0000,0000,0000,,Charanko... You're so young, \Nbut you were dealing with such hardship?
+Dialogue: 0,0:19:23.21,0:19:24.85,Main,Zak,0000,0000,0000,,No, someone was just impersonating him.
+Dialogue: 0,0:19:24.85,0:19:27.10,Main,Snek,0000,0000,0000,,Saitama! What's he doing here?
+Dialogue: 0,0:19:27.10,0:19:28.93,Main,Light,0000,0000,0000,,You know him?
+Dialogue: 0,0:19:28.93,0:19:32.17,Main,Ref,0000,0000,0000,,We'll be verifying if you're actually \Nwho you say you are later.
+Dialogue: 0,0:19:32.17,0:19:32.97,Italics,Sai,0000,0000,0000,,That's my cue to leave.
+Dialogue: 0,0:19:32.97,0:19:34.90,Main,Sui,0000,0000,0000,,Playtime's over.
+Dialogue: 0,0:19:35.86,0:19:37.94,Main,Sui,0000,0000,0000,,This is where things get real.
+Dialogue: 0,0:19:42.91,0:19:46.39,Main,Sui,0000,0000,0000,,I didn't get to show you my true skills yet!
+Dialogue: 0,0:19:51.41,0:19:53.50,Main,Guy,0000,0000,0000,,The platform!
+Dialogue: 0,0:19:54.68,0:19:56.46,Main,Sui,0000,0000,0000,,You're not getting away!
+Dialogue: 0,0:20:01.72,0:20:06.05,Main,Guy,0000,0000,0000,,U-U-Unbelievable! They're still \Ncontinuing the match!
+Dialogue: 0,0:20:07.85,0:20:09.72,Main,Sai,0000,0000,0000,,I thought you were all about having fun.
+Dialogue: 0,0:20:09.72,0:20:12.64,Main,Sui,0000,0000,0000,,Well, losing isn't fun!
+Dialogue: 0,0:20:12.64,0:20:13.89,Main,,0000,0000,0000,,That's it!
+Dialogue: 0,0:20:13.10,0:20:14.38,Main,,0000,0000,0000,,Fight more!
+Dialogue: 0,0:20:14.38,0:20:15.15,Main,,0000,0000,0000,,Finish this!
+Dialogue: 0,0:20:15.15,0:20:17.90,Main,Guy,0000,0000,0000,,Things are heating up!
+Dialogue: 0,0:20:17.90,0:20:20.86,Main,Guy,0000,0000,0000,,Suiryu's overcome with emotion!
+Dialogue: 0,0:20:20.86,0:20:23.60,Main,Guy,0000,0000,0000,,I've never seen him look like that!
+Dialogue: 0,0:20:23.60,0:20:27.60,Main,Sui,0000,0000,0000,,Listen up! This is what \Ntrue martial arts is like!
+Dialogue: 0,0:20:28.23,0:20:31.75,Main,Sui,0000,0000,0000,,Dark Body Flying Dragon Fist!
+Dialogue: 0,0:20:31.75,0:20:34.78,Main,Guy,0000,0000,0000,,He hits him again, and again, and yet again!
+Dialogue: 0,0:20:34.78,0:20:36.49,Main,Guy,0000,0000,0000,,He's not going to stop!
+Dialogue: 0,0:20:36.49,0:20:38.67,Italics,Sui,0000,0000,0000,,He's... totally unfazed.
+Dialogue: 0,0:20:42.37,0:20:44.18,Main,Guy,0000,0000,0000,,The platform's falling apart!
+Dialogue: 0,0:20:44.18,0:20:46.19,Main,Guy,0000,0000,0000,,That's some excessive footwork.
+Dialogue: 0,0:20:46.19,0:20:47.10,Main,Guy,0000,0000,0000,,He's going in for the kill!
+Dialogue: 0,0:20:47.10,0:20:48.22,Main,Sour,0000,0000,0000,,Run!
+Dialogue: 0,0:20:54.60,0:20:56.94,Main,Sui,0000,0000,0000,,Even that isn't...
+Dialogue: 0,0:20:56.94,0:20:59.65,Main,Sai,0000,0000,0000,,I see. I'm starting to get it.
+Dialogue: 0,0:20:59.65,0:21:03.66,Main,Sui,0000,0000,0000,,Do you finally understand \Nsomething about martial arts?
+Dialogue: 0,0:21:03.66,0:21:05.82,Main,Sai,0000,0000,0000,,So basically, martial arts is...
+Dialogue: 0,0:21:06.53,0:21:09.24,Main,Sai,0000,0000,0000,,a way to move around all cool-like?
+Dialogue: 0,0:21:11.74,0:21:14.46,Italics,Sui,0000,0000,0000,,H-How superficial!
+Dialogue: 0,0:21:14.46,0:21:17.71,Italics,Sui,0000,0000,0000,,That's all he got from all my attacks?!
+Dialogue: 0,0:21:17.71,0:21:19.78,Main,Sai,0000,0000,0000,,Guess I'll give it a shot, too.
+Dialogue: 0,0:21:19.78,0:21:23.63,Main,Sai,0000,0000,0000,,It'd be pretty cool if I could defeat a \Nmonster by doing some spinny move.
+Dialogue: 0,0:21:24.26,0:21:25.26,Main,Sui,0000,0000,0000,,Take this seriously!
+Dialogue: 0,0:21:30.02,0:21:32.92,Main,Guy,0000,0000,0000,,And he lands a hip attack!
+Dialogue: 0,0:21:32.92,0:21:34.87,Main,Sai,0000,0000,0000,,Whoops... My obi...
+Dialogue: 0,0:21:35.89,0:21:37.65,Main,Sai,0000,0000,0000,,Man, how lame...
+Dialogue: 0,0:21:37.97,0:21:40.15,Main,Guy,0000,0000,0000,,Now's our chance! Grab him!
+Dialogue: 0,0:21:40.15,0:21:40.61,Main,Sai,0000,0000,0000,,Shit!
+Dialogue: 0,0:21:42.70,0:21:44.95,Main,Guy,0000,0000,0000,,He's making a run for it! \NHold it right there!
+Dialogue: 0,0:21:44.95,0:21:47.41,Main,Guy,0000,0000,0000,,He's heading for the green rooms! After him!
+Dialogue: 0,0:21:48.03,0:21:50.02,Italics,Sui,0000,0000,0000,,I... lost...
+Dialogue: 0,0:21:51.29,0:21:52.59,Italics,Sui,0000,0000,0000,,For the first time...
+Dialogue: 0,0:23:28.13,0:23:29.59,Italics,Genos,0000,0000,0000,,I was defeated!
+Dialogue: 0,0:23:31.63,0:23:33.37,Italics,Genos,0000,0000,0000,,That was unprecedented...
+Dialogue: 0,0:23:34.01,0:23:37.47,Italics,Genos,0000,0000,0000,,That monster was definitely \Nstronger than other monsters!
+Dialogue: 0,0:23:41.33,0:23:45.06,Next Ep Title,Sign,0000,0000,0000,,{\an8\pos(320,20)\c&H414141&\3c&H999999&\fs24}Goketsu\N{\c&H0E0B12&}Threat Level: Dragon
+Dialogue: 0,0:23:45.06,0:23:50.25,Next Ep Title,Sign,0000,0000,0000,,{\pos(420,135)}The Strong Ones Fight Back

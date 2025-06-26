@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2015-02-23",
+        "rating": "3.9",
+        "imdb_id": "tt4458476",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Trip",
+        "released": "2015-03-02",
+        "rating": "N/A",
+        "imdb_id": "tt4437266",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Suit",
+        "released": "2015-03-23",
+        "rating": "N/A",
+        "imdb_id": "tt4602960",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Editor",
+        "released": "2015-03-30",
+        "rating": "N/A",
+        "imdb_id": "tt4610984",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Hurricane Party",
+        "released": "2015-04-13",
+        "rating": "N/A",
+        "imdb_id": "tt4610966",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

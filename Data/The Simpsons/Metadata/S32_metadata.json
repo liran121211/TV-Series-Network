@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Undercover Burns",
+        "released": "2020-09-27",
+        "rating": "6.5",
+        "imdb_id": "tt9761050",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S32\\The.Simpsons.S32E01.WEBRip.x264-ION10.HIS32E1.zip"
+    },
+    "2": {
+        "title": "I, Carumbus",
+        "released": "2020-10-04",
+        "rating": "6.8",
+        "imdb_id": "tt13056344",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S32\\The.Simpsons.S32E02.WEBRip.x264-ION10.HIS32E2.zip"
+    },
+    "3": {
+        "title": "Now Museum, Now You Don't",
+        "released": "2020-10-11",
+        "rating": "N/A",
+        "imdb_id": "tt13056352",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S32\\The.Simpsons.S32E03.WEB.h264-BAE.HIS32E3.zip"
+    },
+    "4": {
+        "title": "Treehouse of Horror XXXI",
+        "released": "2020-11-01",
+        "rating": "6.4",
+        "imdb_id": "tt13056368",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S32\\The.Simpsons.S32E04.720p.HDTV.DD5.1.x264-DJSF.HIS32E4.zip"
+    },
+    "5": {
+        "title": "The 7 Beer Itch",
+        "released": "2020-11-08",
+        "rating": "5.8",
+        "imdb_id": "tt13056376",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S32\\The.Simpsons.S32E05.WEBRip.x264-ION10.HIS32E5.zip"
+    },
+    "6": {
+        "title": "Podcast News",
+        "released": "2020-11-15",
+        "rating": "6.7",
+        "imdb_id": "tt13326652",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S32\\The.Simpsons.S32E06.WEBRip.x264-ION10.HIS32E6.zip"
+    },
+    "7": {
+        "title": "Three Dreams Denied",
+        "released": "2020-11-22",
+        "rating": "N/A",
+        "imdb_id": "tt13326676",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S32\\The.Simpsons.S32E07.WEB.h264-BAE.HIS32E7.zip"
+    },
+    "8": {
+        "title": "The Road to Cincinnati",
+        "released": "2020-11-29",
+        "rating": "6.6",
+        "imdb_id": "tt13056380",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S32\\The.Simpsons.S32E08.720p.WEB.H264-CAKES.HIS32E8.zip"
+    },
+    "9": {
+        "title": "Sorry Not Sorry",
+        "released": "2020-12-06",
+        "rating": "6.3",
+        "imdb_id": "tt13394870",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S32\\The.Simpsons.S32E09.WEBRip.x264-ION10.HIS32E9.zip"
+    },
+    "10": {
+        "title": "A Springfield Summer Christmas for Christmas",
+        "released": "2020-12-13",
+        "rating": "N/A",
+        "imdb_id": "tt13394880",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S32\\The.Simpsons.S32E10.720p.HDTV.DD5.1.x264-DJSF.HIS32E10.zip"
+    },
+    "11": {
+        "title": "The Dad-Feelings Limited",
+        "released": "2021-01-03",
+        "rating": "7.1",
+        "imdb_id": "tt13522384",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Diary Queen",
+        "released": "2021-02-21",
+        "rating": "6.9",
+        "imdb_id": "tt13622638",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Wad Goals",
+        "released": "2021-02-28",
+        "rating": "6.3",
+        "imdb_id": "tt13653422",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Yokel Hero",
+        "released": "2021-03-07",
+        "rating": "5.6",
+        "imdb_id": "tt13671518",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Do Pizza Bots Dream of Electric Guitars",
+        "released": "2021-03-14",
+        "rating": "5.9",
+        "imdb_id": "tt13671526",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Manger Things",
+        "released": "2021-03-21",
+        "rating": "6.4",
+        "imdb_id": "tt13800512",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Uncut Femmes",
+        "released": "2021-03-28",
+        "rating": "6.5",
+        "imdb_id": "tt13977674",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Burger Kings",
+        "released": "2021-04-11",
+        "rating": "N/A",
+        "imdb_id": "tt13977692",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Panic on the Streets of Springfield",
+        "released": "2021-04-18",
+        "rating": "6.4",
+        "imdb_id": "tt13977716",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Mother and Child Reunion",
+        "released": "2021-05-09",
+        "rating": "6.8",
+        "imdb_id": "tt14056918",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Man from G.R.A.M.P.A.",
+        "released": "2021-05-16",
+        "rating": "6.3",
+        "imdb_id": "tt14056916",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Last Barfighter",
+        "released": "2021-05-23",
+        "rating": "7.4",
+        "imdb_id": "tt14016204",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

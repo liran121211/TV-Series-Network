@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "A Touch of Class",
+        "released": "1975-09-19",
+        "rating": "8.4",
+        "imdb_id": "tt0578584",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Fawlty Towers\\Subtitles\\S1\\Fawlty_Towers_S02_E01-06_(1979)_BRD_720pS1E1.zip"
+    },
+    "2": {
+        "title": "The Builders",
+        "released": "1975-09-26",
+        "rating": "8.4",
+        "imdb_id": "tt0578589",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Wedding Party",
+        "released": "1975-10-03",
+        "rating": "8.4",
+        "imdb_id": "tt0578594",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Hotel Inspectors",
+        "released": "1975-10-10",
+        "rating": "8.8",
+        "imdb_id": "tt0578591",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Gourmet Night",
+        "released": "1975-10-17",
+        "rating": "N/A",
+        "imdb_id": "tt0578587",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Germans",
+        "released": "1975-10-24",
+        "rating": "N/A",
+        "imdb_id": "tt0578590",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Velma",
+        "released": "2023-01-12",
+        "rating": "2.7",
+        "imdb_id": "tt22503144",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Velma\\Subtitles\\S1\\Velma - S01E01 (2023) WEB.eng.zip"
+    },
+    "2": {
+        "title": "The Candy (Wo)man",
+        "released": "2023-01-12",
+        "rating": "2.4",
+        "imdb_id": "tt26142818",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Velma\\Subtitles\\S1\\Velma - S01E02 (2023) WEB.eng.zip"
+    },
+    "3": {
+        "title": "Velma Kai",
+        "released": "2023-01-19",
+        "rating": "2.6",
+        "imdb_id": "tt26179008",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Velma\\Subtitles\\S1\\Velma - S01E03 (2023) WEB.eng.zip"
+    },
+    "4": {
+        "title": "Velma Makes a List",
+        "released": "2023-01-19",
+        "rating": "2.6",
+        "imdb_id": "tt26181572",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Velma\\Subtitles\\S1\\Velma - S01E04 (2023) WEB.eng.zip"
+    },
+    "5": {
+        "title": "Marching Band Sleepover",
+        "released": "2023-01-26",
+        "rating": "2.9",
+        "imdb_id": "tt26179532",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Velma\\Subtitles\\S1\\Velma - S01E05 (2023) WEB.eng.zip"
+    },
+    "6": {
+        "title": "The Sins of the Fathers and Some of the Mothers",
+        "released": "2023-01-26",
+        "rating": "2.9",
+        "imdb_id": "tt26180470",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Velma\\Subtitles\\S1\\Velma - S01E06 (2023) WEB.eng.zip"
+    },
+    "7": {
+        "title": "Fog Fest",
+        "released": "2023-02-02",
+        "rating": "N/A",
+        "imdb_id": "tt26180920",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Velma\\Subtitles\\S1\\Velma - S01E07 (2023) WEB.eng.zip"
+    },
+    "8": {
+        "title": "A Velma in the Woods",
+        "released": "2023-02-02",
+        "rating": "N/A",
+        "imdb_id": "tt26182542",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Velma\\Subtitles\\S1\\Velma - S01E08 (2023) WEB.eng.zip"
+    },
+    "9": {
+        "title": "Family (Wo)man",
+        "released": "2023-02-09",
+        "rating": "N/A",
+        "imdb_id": "tt26181030",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Velma\\Subtitles\\S1\\Velma - S01E09 (2023) WEB.eng.zip"
+    },
+    "10": {
+        "title": "The Brains of the Operation",
+        "released": "2023-02-09",
+        "rating": "3.2",
+        "imdb_id": "tt26180648",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Velma\\Subtitles\\S1\\Velma - S01E10 (2023) WEB.eng.zip"
+    }
+}

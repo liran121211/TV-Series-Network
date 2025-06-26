@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Coefficient of Drag",
+        "released": "2008-09-02",
+        "rating": "8.5",
+        "imdb_id": "tt1243827",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S7\\The.Shield.S07E01.DSR.XviD-0TVS7E1.zip"
+    },
+    "2": {
+        "title": "Snitch",
+        "released": "2008-09-09",
+        "rating": "N/A",
+        "imdb_id": "tt1243832",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S7\\The.Shield.S07E02.DSR.XviD-NoTVS7E2.zip"
+    },
+    "3": {
+        "title": "Money Shot",
+        "released": "2008-09-16",
+        "rating": "N/A",
+        "imdb_id": "tt1243833",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S7\\The.Shield.S07E03.DSR.XviD-NoTVS7E3.zip"
+    },
+    "4": {
+        "title": "Genocide",
+        "released": "2008-09-23",
+        "rating": "N/A",
+        "imdb_id": "tt1243834",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S7\\The.Shield.S07E04.DSR.XviD-NoTVS7E4.zip"
+    },
+    "5": {
+        "title": "Game Face",
+        "released": "2008-09-30",
+        "rating": "N/A",
+        "imdb_id": "tt1243835",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Animal Control",
+        "released": "2008-10-07",
+        "rating": "N/A",
+        "imdb_id": "tt1243836",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Bitches Brew",
+        "released": "2008-10-14",
+        "rating": "N/A",
+        "imdb_id": "tt1243837",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S7\\The.Shield.S07E07.Bitches.Brew.PDTV.XviD-FQMS7E7.zip"
+    },
+    "8": {
+        "title": "Parricide",
+        "released": "2008-10-21",
+        "rating": "9.0",
+        "imdb_id": "tt1243838",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Moving Day",
+        "released": "2008-10-28",
+        "rating": "N/A",
+        "imdb_id": "tt1243839",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Party Line",
+        "released": "2008-11-04",
+        "rating": "N/A",
+        "imdb_id": "tt1243828",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S7\\The.Shield.S07E10.Party.Line.PDTV.XviD-FQMS7E10.zip"
+    },
+    "11": {
+        "title": "Petty Cash",
+        "released": "2008-11-11",
+        "rating": "N/A",
+        "imdb_id": "tt1243829",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Possible Kill Screen",
+        "released": "2008-11-18",
+        "rating": "9.4",
+        "imdb_id": "tt1243830",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Family Meeting",
+        "released": "2008-11-25",
+        "rating": "9.6",
+        "imdb_id": "tt1243831",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

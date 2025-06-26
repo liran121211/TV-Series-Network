@@ -1,0 +1,18 @@
+{
+    "2": {
+        "title": "The Pivot",
+        "released": "2022-12-23",
+        "rating": "8.3",
+        "imdb_id": "tt24331234",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\TVF Pitchers\\Subtitles\\S2\\Pitchers_-_S02E02_-_The_PivotS2E2.zip"
+    },
+    "5": {
+        "title": "The Term Sheet",
+        "released": "2022-12-23",
+        "rating": "8.7",
+        "imdb_id": "tt24331442",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

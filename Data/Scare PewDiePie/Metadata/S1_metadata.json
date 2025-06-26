@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Let's Play Doctor",
+        "released": "2016-02-10",
+        "rating": "N/A",
+        "imdb_id": "tt5441352",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Scare PewDiePie\\Subtitles\\S1\\Scare.Pewdiepie.S01E01S1E1.zip"
+    },
+    "2": {
+        "title": "We're Not Alone",
+        "released": "2016-02-17",
+        "rating": "N/A",
+        "imdb_id": "tt5456564",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Scare PewDiePie\\Subtitles\\S1\\Scare.Pewdiepie.S01E02S1E2.zip"
+    },
+    "3": {
+        "title": "Hello Timmy",
+        "released": "2016-02-24",
+        "rating": "N/A",
+        "imdb_id": "tt5456570",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Scare PewDiePie\\Subtitles\\S1\\Scare.Pewdiepie.S01E03S1E3.zip"
+    },
+    "4": {
+        "title": "Time To Die Mr. Pie",
+        "released": "2016-03-02",
+        "rating": "N/A",
+        "imdb_id": "tt5456574",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Scare PewDiePie\\Subtitles\\S1\\Scare.Pewdiepie.S01E04S1E4.zip"
+    },
+    "5": {
+        "title": "Please Enjoy Your Stay",
+        "released": "2016-03-09",
+        "rating": "N/A",
+        "imdb_id": "tt5456580",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Scare PewDiePie\\Subtitles\\S1\\Scare.Pewdiepie.S01E05S1E5.zip"
+    },
+    "6": {
+        "title": "The Ultimate Hang",
+        "released": "2016-03-16",
+        "rating": "N/A",
+        "imdb_id": "tt5456582",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Scare PewDiePie\\Subtitles\\S1\\Scare.Pewdiepie.S01E06S1E6.zip"
+    },
+    "7": {
+        "title": "I'm Not Crazy (Outlast IRL Gameplay)",
+        "released": "2016-02-10",
+        "rating": "6.2",
+        "imdb_id": "tt5456586",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Scare PewDiePie\\Subtitles\\S1\\Scare.Pewdiepie.S01E07S1E7.zip"
+    },
+    "8": {
+        "title": "Call of Pewdie",
+        "released": "2016-03-23",
+        "rating": "N/A",
+        "imdb_id": "tt5456590",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Scare PewDiePie\\Subtitles\\S1\\Scare.Pewdiepie.S01E08S1E8.zip"
+    },
+    "9": {
+        "title": "Naughty Pie",
+        "released": "2016-03-30",
+        "rating": "N/A",
+        "imdb_id": "tt5456592",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Game Over",
+        "released": "2016-04-06",
+        "rating": "N/A",
+        "imdb_id": "tt5456594",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

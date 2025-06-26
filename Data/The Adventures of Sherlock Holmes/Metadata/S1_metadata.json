@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "A Scandal in Bohemia",
+        "released": "1984-04-24",
+        "rating": "7.9",
+        "imdb_id": "tt0506445",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Dancing Men",
+        "released": "1984-05-01",
+        "rating": "8.1",
+        "imdb_id": "tt0506449",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Naval Treaty",
+        "released": "1984-05-08",
+        "rating": "7.8",
+        "imdb_id": "tt0506452",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Solitary Cyclist",
+        "released": "1984-05-15",
+        "rating": "8.1",
+        "imdb_id": "tt0506456",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Crooked Man",
+        "released": "1984-05-22",
+        "rating": "7.9",
+        "imdb_id": "tt0506448",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Speckled Band",
+        "released": "1984-05-29",
+        "rating": "8.3",
+        "imdb_id": "tt0506457",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Blue Carbuncle",
+        "released": "1984-06-05",
+        "rating": "8.1",
+        "imdb_id": "tt0506446",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

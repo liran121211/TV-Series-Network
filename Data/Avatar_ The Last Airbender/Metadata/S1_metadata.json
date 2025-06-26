@@ -1,0 +1,170 @@
+{
+    "0": {
+        "title": "Avatar: The Last Airbender",
+        "released": "2005-02-21",
+        "rating": "8.4",
+        "imdb_id": "tt5827942",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "1": {
+        "title": "The Boy in the Iceberg",
+        "released": "2005-02-21",
+        "rating": "7.9",
+        "imdb_id": "tt0801470",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Avatar Returns",
+        "released": "2005-02-21",
+        "rating": "8.1",
+        "imdb_id": "tt0772328",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Southern Air Temple",
+        "released": "2005-02-25",
+        "rating": "8.4",
+        "imdb_id": "tt0805800",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Warriors of Kyoshi",
+        "released": "2005-03-04",
+        "rating": "8.0",
+        "imdb_id": "tt0516776",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The King of Omashu",
+        "released": "2005-03-18",
+        "rating": "8.0",
+        "imdb_id": "tt0760062",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Imprisoned",
+        "released": "2005-03-25",
+        "rating": "7.8",
+        "imdb_id": "tt0516774",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Spirit World (Winter Solstice, Part 1)",
+        "released": "2005-04-08",
+        "rating": "8.0",
+        "imdb_id": "tt0805801",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Avatar Roku (Winter Solstice, Part 2)",
+        "released": "2005-04-15",
+        "rating": "8.8",
+        "imdb_id": "tt0800734",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Waterbending Scroll",
+        "released": "2005-04-29",
+        "rating": "7.8",
+        "imdb_id": "tt0822879",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Jet",
+        "released": "2005-05-06",
+        "rating": "7.6",
+        "imdb_id": "tt0516775",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Great Divide",
+        "released": "2005-05-20",
+        "rating": "6.8",
+        "imdb_id": "tt0827262",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Storm",
+        "released": "2005-06-03",
+        "rating": "9.0",
+        "imdb_id": "tt0829522",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Blue Spirit",
+        "released": "2005-06-17",
+        "rating": "9.1",
+        "imdb_id": "tt0824795",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Fortuneteller",
+        "released": "2005-09-23",
+        "rating": "7.7",
+        "imdb_id": "tt0516778",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Bato of the Water Tribe",
+        "released": "2005-10-07",
+        "rating": "7.7",
+        "imdb_id": "tt0758992",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Deserter",
+        "released": "2005-10-21",
+        "rating": "8.4",
+        "imdb_id": "tt0516777",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Northern Air Temple",
+        "released": "2005-11-04",
+        "rating": "7.8",
+        "imdb_id": "tt0516779",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Waterbending Master",
+        "released": "2005-11-18",
+        "rating": "8.6",
+        "imdb_id": "tt0516782",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Siege of the North, Part 1",
+        "released": "2005-12-02",
+        "rating": "9.3",
+        "imdb_id": "tt0516780",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Siege of the North, Part 2",
+        "released": "2005-12-02",
+        "rating": "9.6",
+        "imdb_id": "tt10512638",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

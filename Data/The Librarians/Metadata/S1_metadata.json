@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "And the Crown of King Arthur",
+        "released": "2014-12-07",
+        "rating": "7.7",
+        "imdb_id": "tt3696750",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "And the Sword in the Stone",
+        "released": "2014-12-07",
+        "rating": "7.7",
+        "imdb_id": "tt3696904",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "And the Horns of a Dilemma",
+        "released": "2014-12-14",
+        "rating": "N/A",
+        "imdb_id": "tt3905292",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "And Santa's Midnight Run",
+        "released": "2014-12-21",
+        "rating": "N/A",
+        "imdb_id": "tt4279086",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "And the Apple of Discord",
+        "released": "2014-12-28",
+        "rating": "N/A",
+        "imdb_id": "tt3846542",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "And the Fables of Doom",
+        "released": "2015-01-04",
+        "rating": "8.2",
+        "imdb_id": "tt3704304",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "And the Rule of Three",
+        "released": "2015-01-11",
+        "rating": "N/A",
+        "imdb_id": "tt3813430",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "And the Heart of Darkness",
+        "released": "2015-01-11",
+        "rating": "8.0",
+        "imdb_id": "tt3724040",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "And the City of Light",
+        "released": "2015-01-18",
+        "rating": "N/A",
+        "imdb_id": "tt3711274",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "And the Loom of Fate",
+        "released": "2015-01-18",
+        "rating": "8.6",
+        "imdb_id": "tt3885542",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

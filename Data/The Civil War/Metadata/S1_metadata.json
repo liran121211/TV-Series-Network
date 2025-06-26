@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "The Cause (1861)",
+        "released": "1990-09-23",
+        "rating": "N/A",
+        "imdb_id": "tt1066646",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Civil War\\Subtitles\\S1\\TheCivilWarS01E01(1861)TheCause720pBDRip(SamSerial)TheCivilWarS01E01(1861)TheCause720pBDRip(SamSerial)S1E1.zip"
+    },
+    "2": {
+        "title": "A Very Bloody Affair (1862)",
+        "released": "1990-09-24",
+        "rating": "8.4",
+        "imdb_id": "tt1066641",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Civil War\\Subtitles\\S1\\The_Civil_War_S01E02_(1862)_A_Very_Bloody_Affair_720p_BDRip_(SamSerial)S1E2.zip"
+    },
+    "3": {
+        "title": "Forever Free (1862)",
+        "released": "1990-09-24",
+        "rating": "N/A",
+        "imdb_id": "tt1066642",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Civil War\\Subtitles\\S1\\TheCivilWarS01E03(1862)ForeverFree720pBDRip(SamSerial)S1E3.zip"
+    },
+    "5": {
+        "title": "The Universe of Battle (1863)",
+        "released": "1990-09-25",
+        "rating": "8.8",
+        "imdb_id": "tt1066647",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Civil War\\Subtitles\\S1\\TheCivilWarS01E05(1863)TheUniverseofBattle720pBDRip(SamSerial)S1E5.zip"
+    },
+    "7": {
+        "title": "Most Hallowed Ground (1864)",
+        "released": "1990-09-26",
+        "rating": "N/A",
+        "imdb_id": "tt1066643",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Civil War\\Subtitles\\S1\\TheCivilWarS01E07(1864)MostHallowedGround720pBDRip(SamSerial)S1E7.zip"
+    },
+    "8": {
+        "title": "War Is All Hell (1865)",
+        "released": "1990-09-27",
+        "rating": "8.7",
+        "imdb_id": "tt1066649",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Better Angels of Our Nature (1865)",
+        "released": "1990-09-27",
+        "rating": "N/A",
+        "imdb_id": "tt1066645",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

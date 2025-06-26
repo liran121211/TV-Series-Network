@@ -1,0 +1,586 @@
+{
+    "1": {
+        "title": "Herr Doktor Tenma",
+        "released": "2004-04-06",
+        "rating": "8.2",
+        "imdb_id": "tt0906232",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Downfall",
+        "released": "2004-04-14",
+        "rating": "N/A",
+        "imdb_id": "tt1319940",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Murder Case",
+        "released": "2004-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt1319943",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Night of Punishment",
+        "released": "2004-04-28",
+        "rating": "9.1",
+        "imdb_id": "tt1319944",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Girl from Heidelberg",
+        "released": "N/A",
+        "rating": "7.8",
+        "imdb_id": "tt1319948",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Reported Disappearance",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1319946",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Mansion of Tragedy",
+        "released": "2004-05-19",
+        "rating": "N/A",
+        "imdb_id": "tt1319942",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Fugitive",
+        "released": "2004-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt1319947",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Rouhei to shoujo",
+        "released": "N/A",
+        "rating": "8.5",
+        "imdb_id": "tt1319938",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Past That Was Erased",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1319950",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Kinderheim 511",
+        "released": "2004-06-16",
+        "rating": "N/A",
+        "imdb_id": "tt1319941",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "A Meaker Little Experiment",
+        "released": "2004-06-23",
+        "rating": "N/A",
+        "imdb_id": "tt1319937",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Petra and Schumann",
+        "released": "2004-06-30",
+        "rating": "N/A",
+        "imdb_id": "tt1319945",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Only Man Left, the Only Woman Left",
+        "released": "2004-07-07",
+        "rating": "N/A",
+        "imdb_id": "tt1319949",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Be My Baby",
+        "released": "2004-07-14",
+        "rating": "N/A",
+        "imdb_id": "tt1319939",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Wolf's Confession",
+        "released": "2004-07-20",
+        "rating": "N/A",
+        "imdb_id": "tt1609653",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Reunion",
+        "released": "2004-07-27",
+        "rating": "N/A",
+        "imdb_id": "tt1609651",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Fifth Spoonful of Sugar",
+        "released": "2004-08-03",
+        "rating": "N/A",
+        "imdb_id": "tt1609652",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Abyss of the Monster",
+        "released": "2004-08-10",
+        "rating": "N/A",
+        "imdb_id": "tt1609649",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Journey to Freiham",
+        "released": "2004-08-17",
+        "rating": "N/A",
+        "imdb_id": "tt1609650",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Happy Holidays",
+        "released": "2004-08-24",
+        "rating": "N/A",
+        "imdb_id": "tt1614190",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Lunge's Trap",
+        "released": "2004-08-31",
+        "rating": "N/A",
+        "imdb_id": "tt1614193",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Eva's Confession",
+        "released": "2004-09-07",
+        "rating": "N/A",
+        "imdb_id": "tt1614187",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Of Men and Dining",
+        "released": "2004-09-14",
+        "rating": "N/A",
+        "imdb_id": "tt1614195",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Thursday's Boy",
+        "released": "2004-09-28",
+        "rating": "N/A",
+        "imdb_id": "tt1614201",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "The Secret Woods",
+        "released": "2004-10-05",
+        "rating": "N/A",
+        "imdb_id": "tt1614200",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Proof",
+        "released": "2004-10-12",
+        "rating": "N/A",
+        "imdb_id": "tt1614196",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Just One Case",
+        "released": "2004-10-19",
+        "rating": "N/A",
+        "imdb_id": "tt1614192",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Execution",
+        "released": "2004-10-26",
+        "rating": "9.5",
+        "imdb_id": "tt1614188",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Decision",
+        "released": "2004-11-02",
+        "rating": "9.1",
+        "imdb_id": "tt1614186",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "In Broad Daylight",
+        "released": "2004-11-09",
+        "rating": "N/A",
+        "imdb_id": "tt1614191",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Sanctuary",
+        "released": "2004-11-16",
+        "rating": "N/A",
+        "imdb_id": "tt1614197",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Kodomo no joukei",
+        "released": "2004-11-23",
+        "rating": "N/A",
+        "imdb_id": "tt1614184",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "At the Edge of Darkness",
+        "released": "2004-12-08",
+        "rating": "N/A",
+        "imdb_id": "tt1614185",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "My Nameless Hero",
+        "released": "2004-12-15",
+        "rating": "N/A",
+        "imdb_id": "tt1614194",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "The Monster of Chaos",
+        "released": "2004-12-22",
+        "rating": "N/A",
+        "imdb_id": "tt0958705",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Namae no nai kaibutsu",
+        "released": "2005-01-11",
+        "rating": "9.5",
+        "imdb_id": "tt0958934",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "The Demon in My Eyes",
+        "released": "2005-01-18",
+        "rating": "N/A",
+        "imdb_id": "tt1614198",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "The Hell in His Eyes",
+        "released": "2005-01-25",
+        "rating": "N/A",
+        "imdb_id": "tt1614199",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Grimmer",
+        "released": "2005-02-01",
+        "rating": "N/A",
+        "imdb_id": "tt1614189",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Ghosts of 511",
+        "released": "2005-02-08",
+        "rating": "N/A",
+        "imdb_id": "tt1618233",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "The Adventures of the Magnificent Steiner",
+        "released": "2005-02-15",
+        "rating": "N/A",
+        "imdb_id": "tt1618234",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Jan Suk",
+        "released": "2005-02-22",
+        "rating": "N/A",
+        "imdb_id": "tt1618680",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Two Darknesses",
+        "released": "2005-03-01",
+        "rating": "N/A",
+        "imdb_id": "tt1618681",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "The Monster Afterimage",
+        "released": "2005-03-08",
+        "rating": "N/A",
+        "imdb_id": "tt1623911",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Point of Contact",
+        "released": "2005-03-15",
+        "rating": "8.6",
+        "imdb_id": "tt1623910",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "The Door to Nightmares",
+        "released": "2005-03-22",
+        "rating": "N/A",
+        "imdb_id": "tt1629059",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "The Scariest Thing",
+        "released": "2005-03-29",
+        "rating": "N/A",
+        "imdb_id": "tt1629060",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "The Cruelest Thing",
+        "released": "2005-04-05",
+        "rating": "9.2",
+        "imdb_id": "tt1632939",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Mansion of Roses",
+        "released": "2005-04-12",
+        "rating": "8.1",
+        "imdb_id": "tt1632938",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "Monster's Love Letter",
+        "released": "2005-04-19",
+        "rating": "N/A",
+        "imdb_id": "tt1637358",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Lawyer",
+        "released": "2005-04-26",
+        "rating": "N/A",
+        "imdb_id": "tt1637357",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "53": {
+        "title": "Determination",
+        "released": "2005-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt1641328",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "54": {
+        "title": "Escape",
+        "released": "2005-05-10",
+        "rating": "N/A",
+        "imdb_id": "tt1641056",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "Room 402",
+        "released": "2005-05-17",
+        "rating": "N/A",
+        "imdb_id": "tt1646645",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "56": {
+        "title": "The Unending Journey",
+        "released": "2005-05-24",
+        "rating": "8.4",
+        "imdb_id": "tt1646646",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "57": {
+        "title": "That Night",
+        "released": "2010-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt1647571",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "58": {
+        "title": "Unwanted Job",
+        "released": "2010-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt1647572",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "59": {
+        "title": "The Man Who Saw the Devil",
+        "released": "2005-06-14",
+        "rating": "N/A",
+        "imdb_id": "tt1647573",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "60": {
+        "title": "The Man Who Knew Too Much",
+        "released": "2005-06-21",
+        "rating": "N/A",
+        "imdb_id": "tt1647574",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "61": {
+        "title": "The Door of Memory",
+        "released": "2005-06-28",
+        "rating": "N/A",
+        "imdb_id": "tt1647575",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "62": {
+        "title": "A Fun Meal",
+        "released": "2005-06-28",
+        "rating": "N/A",
+        "imdb_id": "tt1647576",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "63": {
+        "title": "Unrelated Murders",
+        "released": "2005-07-12",
+        "rating": "N/A",
+        "imdb_id": "tt1643899",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "64": {
+        "title": "The Baby's Depression",
+        "released": "2005-07-19",
+        "rating": "N/A",
+        "imdb_id": "tt1647577",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "65": {
+        "title": "Johan's Footprints",
+        "released": "2005-07-26",
+        "rating": "N/A",
+        "imdb_id": "tt1643893",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "66": {
+        "title": "Welcome Back",
+        "released": "2005-08-02",
+        "rating": "N/A",
+        "imdb_id": "tt1647578",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "67": {
+        "title": "I'm Home",
+        "released": "2005-08-09",
+        "rating": "N/A",
+        "imdb_id": "tt1647579",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "68": {
+        "title": "Ruhenheim",
+        "released": "2005-08-16",
+        "rating": "N/A",
+        "imdb_id": "tt1643895",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "69": {
+        "title": "A Peaceful Home",
+        "released": "2005-08-23",
+        "rating": "N/A",
+        "imdb_id": "tt1643892",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "70": {
+        "title": "The Town of Slaughter",
+        "released": "2005-08-30",
+        "rating": "N/A",
+        "imdb_id": "tt1643898",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "71": {
+        "title": "The Magnificent Steiner's Rage",
+        "released": "2005-09-06",
+        "rating": "9.6",
+        "imdb_id": "tt1643897",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "72": {
+        "title": "Man Without a Name",
+        "released": "2005-09-13",
+        "rating": "N/A",
+        "imdb_id": "tt1643894",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "74": {
+        "title": "The Real Monster",
+        "released": "2005-09-27",
+        "rating": "9.2",
+        "imdb_id": "tt0906233",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

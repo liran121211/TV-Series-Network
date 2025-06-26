@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "Dragonstone",
+        "released": "2017-07-16",
+        "rating": "8.5",
+        "imdb_id": "tt5654088",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S7\\Game.of.Thrones.S07E01.DragonStone.HDTV.x264-SVA[eztv]S7E1.zip"
+    },
+    "2": {
+        "title": "Stormborn",
+        "released": "2017-07-23",
+        "rating": "8.8",
+        "imdb_id": "tt5655178",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S7\\Game.of.Thrones.S07E02.iNTERNAL.720p.HDTV.x264-WaLMaRTS7E2.zip"
+    },
+    "3": {
+        "title": "The Queen's Justice",
+        "released": "2017-07-30",
+        "rating": "9.1",
+        "imdb_id": "tt5775840",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S7\\Game.of.Thrones.S07E03.HDTV.XviD-RMXS7E3.zip"
+    },
+    "4": {
+        "title": "The Spoils of War",
+        "released": "2017-08-06",
+        "rating": "9.7",
+        "imdb_id": "tt5775846",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S7\\Game.of.Thrones.S07E04.HDTV.XviD-RMXS7E4.zip"
+    },
+    "5": {
+        "title": "Eastwatch",
+        "released": "2017-08-13",
+        "rating": "8.7",
+        "imdb_id": "tt5775854",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S7\\Game.of.Thrones.S07E05.HDTV.XviD-RMXS7E5.zip"
+    },
+    "6": {
+        "title": "Beyond the Wall",
+        "released": "2017-08-20",
+        "rating": "9.0",
+        "imdb_id": "tt5775864",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S7\\Game.of.Thrones.S07E06.PROPER.HDTV.XviD-RMXS7E6.zip"
+    },
+    "7": {
+        "title": "The Dragon and the Wolf",
+        "released": "2017-08-27",
+        "rating": "9.4",
+        "imdb_id": "tt5775874",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S7\\Game.of.Thrones.S07E07.HDTV.XviD-RMXS7E7.zip"
+    }
+}

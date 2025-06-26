@@ -1,0 +1,202 @@
+{
+    "1": {
+        "title": "Turning Point",
+        "released": "2011-04-06",
+        "rating": "7.4",
+        "imdb_id": "tt2054520",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Time Travel Paranoia",
+        "released": "2011-04-13",
+        "rating": "7.5",
+        "imdb_id": "tt2055380",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Parallel World Paranoia",
+        "released": "2011-04-20",
+        "rating": "7.6",
+        "imdb_id": "tt2055378",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Interpreter Rendezvous",
+        "released": "2011-04-27",
+        "rating": "7.2",
+        "imdb_id": "tt2055377",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Starmine Rendezvous",
+        "released": "2011-05-04",
+        "rating": "8.0",
+        "imdb_id": "tt2055379",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Butterfly Effect's Divergence",
+        "released": "2011-05-11",
+        "rating": "7.6",
+        "imdb_id": "tt2054519",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Divergence Singularity",
+        "released": "2011-05-18",
+        "rating": "8.3",
+        "imdb_id": "tt2156191",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Chaos Theory Homeostasis I",
+        "released": "2011-05-25",
+        "rating": "8.1",
+        "imdb_id": "tt2161049",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Chaos Theory Homeostasis II",
+        "released": "2011-06-01",
+        "rating": "8.3",
+        "imdb_id": "tt2161051",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Chaos Theory Homeostasis III",
+        "released": "2011-06-08",
+        "rating": "7.9",
+        "imdb_id": "tt2156189",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Dogma in Event Horizon",
+        "released": "2011-06-15",
+        "rating": "8.2",
+        "imdb_id": "tt2157965",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Dogma in Ergosphere",
+        "released": "2011-06-22",
+        "rating": "9.2",
+        "imdb_id": "tt2157963",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Metaphysics Necrosis",
+        "released": "2011-06-29",
+        "rating": "9.1",
+        "imdb_id": "tt2156199",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Physically Necrosis",
+        "released": "2011-07-06",
+        "rating": "9.1",
+        "imdb_id": "tt2157969",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Missing Link Necrosis",
+        "released": "2011-07-13",
+        "rating": "8.3",
+        "imdb_id": "tt2156201",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Sacrificial Necrosis",
+        "released": "2011-07-20",
+        "rating": "9.3",
+        "imdb_id": "tt2156205",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Made in Complex",
+        "released": "2011-07-27",
+        "rating": "8.4",
+        "imdb_id": "tt2156197",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Fractal Androgynous",
+        "released": "2011-08-03",
+        "rating": "8.0",
+        "imdb_id": "tt2156195",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Endless Apoptosis",
+        "released": "2011-08-10",
+        "rating": "8.6",
+        "imdb_id": "tt2161047",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Finalize Apoptosis",
+        "released": "2011-08-17",
+        "rating": "9.1",
+        "imdb_id": "tt2156193",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Paradox Meltdown",
+        "released": "2011-08-24",
+        "rating": "8.7",
+        "imdb_id": "tt2157967",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Being Meltdown",
+        "released": "2011-08-31",
+        "rating": "9.6",
+        "imdb_id": "tt2157961",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Open the Steins Gate",
+        "released": "2011-09-07",
+        "rating": "9.4",
+        "imdb_id": "tt2156203",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Achievement Point",
+        "released": "2011-09-14",
+        "rating": "9.5",
+        "imdb_id": "tt2157959",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Egoistic Poriomania",
+        "released": "2012-02-22",
+        "rating": "8.4",
+        "imdb_id": "tt2525960",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

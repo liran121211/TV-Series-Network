@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Goodbye Earl",
+        "released": "2021-07-23",
+        "rating": "7.6",
+        "imdb_id": "tt12926006",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S2\\Ted.Lasso.S02E01.WEBRip.x264-ION10S2E1.zip"
+    },
+    "2": {
+        "title": "Lavender",
+        "released": "2021-07-30",
+        "rating": "8.0",
+        "imdb_id": "tt14968630",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S2\\Ted.Lasso.S02E02.WEBRip.x264-ION10S2E2.zip"
+    },
+    "3": {
+        "title": "Do the Right-est Thing",
+        "released": "2021-08-06",
+        "rating": "8.4",
+        "imdb_id": "tt14968636",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S2\\Ted.Lasso.S02E03.720p.HEVC.X265-MeGustaS2E3.zip"
+    },
+    "4": {
+        "title": "Carol of the Bells",
+        "released": "2021-08-13",
+        "rating": "8.6",
+        "imdb_id": "tt14968638",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S2\\Ted.Lasso.S02E04.720p.HEVC.X265-MeGustaS2E4.zip"
+    },
+    "5": {
+        "title": "Rainbow",
+        "released": "2021-08-20",
+        "rating": "8.9",
+        "imdb_id": "tt14968642",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S2\\Ted.Lasso.S02E05.720p.HEVC.X265.RMTeamS2E5.zip"
+    },
+    "6": {
+        "title": "The Signal",
+        "released": "2021-08-27",
+        "rating": "8.6",
+        "imdb_id": "tt14968644",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S2\\Ted.Lasso.S02E06.720p.HEVC.X265-MeGustaS2E6.zip"
+    },
+    "7": {
+        "title": "Headspace",
+        "released": "2021-09-03",
+        "rating": "7.7",
+        "imdb_id": "tt14968648",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S2\\Ted.Lasso.S02E07.1080p.WEB.H264-EXPLOITS2E7.zip"
+    },
+    "8": {
+        "title": "Man City",
+        "released": "2021-09-10",
+        "rating": "9.0",
+        "imdb_id": "tt14968654",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S2\\Ted.Lasso.S02E08_[MeGusta.eztv.re]S2E8.zip"
+    },
+    "9": {
+        "title": "Beard After Hours",
+        "released": "2021-09-17",
+        "rating": "6.9",
+        "imdb_id": "tt14968652",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S2\\Ted.Lasso.S02E09.1080p.WEB.H264-PECULATES2E9.zip"
+    },
+    "10": {
+        "title": "No Weddings and a Funeral",
+        "released": "2021-09-24",
+        "rating": "8.5",
+        "imdb_id": "tt14968656",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Midnight Train to Royston",
+        "released": "2021-10-01",
+        "rating": "8.2",
+        "imdb_id": "tt14968660",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Inverting the Pyramid of Success",
+        "released": "2021-10-08",
+        "rating": "8.8",
+        "imdb_id": "tt14968664",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

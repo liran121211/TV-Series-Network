@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Deja-vu",
+        "released": "2020-06-27",
+        "rating": "8.8",
+        "imdb_id": "tt10414808",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Die Überlebenden",
+        "released": "2020-06-27",
+        "rating": "8.6",
+        "imdb_id": "tt12557670",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Adam und Eva",
+        "released": "2020-06-27",
+        "rating": "8.6",
+        "imdb_id": "tt12557682",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Der Ursprung",
+        "released": "2020-06-27",
+        "rating": "8.8",
+        "imdb_id": "tt12557686",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Leben und Tod",
+        "released": "2020-06-27",
+        "rating": "9.2",
+        "imdb_id": "tt12557688",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Licht und Schatten",
+        "released": "2020-06-27",
+        "rating": "9.0",
+        "imdb_id": "tt12557694",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Zwischen der Zeit",
+        "released": "2020-06-27",
+        "rating": "9.4",
+        "imdb_id": "tt12557700",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Das Paradies",
+        "released": "2020-06-27",
+        "rating": "9.6",
+        "imdb_id": "tt12557704",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

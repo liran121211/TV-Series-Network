@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Car Salesman",
+        "released": "2001-09-23",
+        "rating": "N/A",
+        "imdb_id": "tt0551405",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S2\\Curb.Your.Enthusiasm.S02.E01-E10.COMPLETE.DVDRip.x264-SARTRES2E1.zip"
+    },
+    "2": {
+        "title": "Thor",
+        "released": "2001-09-30",
+        "rating": "8.4",
+        "imdb_id": "tt0551428",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Trick or Treat",
+        "released": "2001-10-07",
+        "rating": "N/A",
+        "imdb_id": "tt0551429",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Shrimp Incident",
+        "released": "2001-10-14",
+        "rating": "8.3",
+        "imdb_id": "tt0551418",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Thong",
+        "released": "2001-10-21",
+        "rating": "N/A",
+        "imdb_id": "tt0551425",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Acupuncturist",
+        "released": "2001-10-28",
+        "rating": "N/A",
+        "imdb_id": "tt0551398",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Doll",
+        "released": "2001-11-04",
+        "rating": "9.2",
+        "imdb_id": "tt0551408",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Shaq",
+        "released": "2001-11-11",
+        "rating": "8.7",
+        "imdb_id": "tt0551395",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Baptism",
+        "released": "2001-11-18",
+        "rating": "8.2",
+        "imdb_id": "tt0551399",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Massage",
+        "released": "2001-11-25",
+        "rating": "N/A",
+        "imdb_id": "tt0551414",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

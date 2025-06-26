@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Sierra",
+        "released": "2024-01-09",
+        "rating": "N/A",
+        "imdb_id": "tt26545879",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Don't Look Up",
+        "released": "2024-01-16",
+        "rating": "6.6",
+        "imdb_id": "tt27369333",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Maya",
+        "released": "2024-01-23",
+        "rating": "N/A",
+        "imdb_id": "tt27557082",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Fire Storm",
+        "released": "2024-01-30",
+        "rating": "N/A",
+        "imdb_id": "tt27557085",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Road Home, Part 1",
+        "released": "2024-02-06",
+        "rating": "N/A",
+        "imdb_id": "tt27557086",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Road Home, Part 2",
+        "released": "2024-02-13",
+        "rating": "6.4",
+        "imdb_id": "tt27557087",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

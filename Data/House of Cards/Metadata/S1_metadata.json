@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Chapter 1",
+        "released": "2013-02-01",
+        "rating": "8.5",
+        "imdb_id": "tt2161930",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Chapter 2",
+        "released": "2013-02-01",
+        "rating": "8.5",
+        "imdb_id": "tt2250466",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Chapter 3",
+        "released": "2013-02-01",
+        "rating": "8.2",
+        "imdb_id": "tt2248444",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Chapter 4",
+        "released": "2013-02-01",
+        "rating": "8.1",
+        "imdb_id": "tt2248422",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Chapter 5",
+        "released": "2013-02-01",
+        "rating": "8.4",
+        "imdb_id": "tt2294870",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Chapter 6",
+        "released": "2013-02-01",
+        "rating": "8.5",
+        "imdb_id": "tt2311910",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Chapter 7",
+        "released": "2013-02-01",
+        "rating": "N/A",
+        "imdb_id": "tt2311926",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Chapter 8",
+        "released": "2013-02-01",
+        "rating": "7.6",
+        "imdb_id": "tt2312714",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Chapter 9",
+        "released": "2013-02-01",
+        "rating": "8.4",
+        "imdb_id": "tt2248426",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Chapter 10",
+        "released": "2013-02-01",
+        "rating": "8.7",
+        "imdb_id": "tt2468204",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Chapter 11",
+        "released": "2013-02-01",
+        "rating": "9.0",
+        "imdb_id": "tt2440660",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Chapter 12",
+        "released": "2013-02-01",
+        "rating": "8.5",
+        "imdb_id": "tt2555986",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Chapter 13",
+        "released": "2013-02-01",
+        "rating": "8.8",
+        "imdb_id": "tt2555988",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "2": {
+        "title": "Jasoosi Ki Duniya",
+        "released": "2020-06-25",
+        "rating": "4.8",
+        "imdb_id": "tt10953702",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "English Speaking Fast Fast",
+        "released": "2020-06-25",
+        "rating": "6.5",
+        "imdb_id": "tt11248366",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Bhootni Ke Jalwe",
+        "released": "2020-06-25",
+        "rating": "4.6",
+        "imdb_id": "tt11333484",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Lag Gayi... Lottery",
+        "released": "2020-06-25",
+        "rating": "6.5",
+        "imdb_id": "tt11248370",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Pushpa Ka Plan",
+        "released": "2020-06-25",
+        "rating": "N/A",
+        "imdb_id": "tt11248374",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rasbhari\\Subtitles\\S1\\SUBDL::rasbhari-first-season-2797476.zip"
+    },
+    "8": {
+        "title": "Climax",
+        "released": "2020-06-25",
+        "rating": "5.3",
+        "imdb_id": "tt11248378",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

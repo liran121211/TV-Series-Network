@@ -1,0 +1,47 @@
+{
+  "cast": {
+    "0005210": "Tim McGraw",
+    "0000385": "Sam Elliott",
+    "0005011": "Faith Hill",
+    "8908475": "Isabel May",
+    "1206818": "LaMonica Garrett",
+    "11224843": "Audie Rick",
+    "4704928": "Marc Rissmann",
+    "2566469": "James Landry Hbert",
+    "7885187": "Noah Le Gros",
+    "0001295": "Graham Greene",
+    "2936232": "Martin Sensmeier",
+    "0768620": "Raphael Sbarge",
+    "12280869": "Gratiela Brancusi",
+    "9711120": "Anna Fiamora",
+    "0827286": "Malcolm Stephenson",
+    "5332399": "Konstantin Melikhov",
+    "5805156": "Will Spencer",
+    "4555088": "Seth Lee",
+    "13439696": "Reo Ramirez",
+    "13439697": "Casey Cummins",
+    "13439698": "Leanne Bruised Head",
+    "13439699": "Tana Stewart",
+    "13439700": "Shawn Real Bird",
+    "13171054": "Daniel Lada Jr.",
+    "12989836": "Hunter Avant",
+    "2786705": "Derek Downer",
+    "14464428": "John Langstaff",
+    "2982867": "Lance Otto"
+  },
+  "geners": [
+    "Drama",
+    "Western"
+  ],
+  "runtimes": [
+    "65"
+  ],
+  
+  "plot": [
+    "James and Margaret face a heavy decision. Shea and Thomas take bold action to help one of their own."
+  ],
+  "imdbID": "15294876",
+  "rating": 9.0,
+  "votes": 4655,
+  "number_of_episodes": 10
+}

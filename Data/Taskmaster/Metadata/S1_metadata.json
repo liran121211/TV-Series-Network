@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Melon Buffet",
+        "released": "2018-04-26",
+        "rating": "8.0",
+        "imdb_id": "tt4950176",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Pie Whisperer",
+        "released": "2015-08-08",
+        "rating": "8.3",
+        "imdb_id": "tt4950200",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Poet and the Egg",
+        "released": "2015-08-15",
+        "rating": "8.3",
+        "imdb_id": "tt4950210",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Down an Octave",
+        "released": "2015-08-19",
+        "rating": "8.2",
+        "imdb_id": "tt4956136",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Little Denim Shorts",
+        "released": "2015-08-23",
+        "rating": "8.1",
+        "imdb_id": "tt4970856",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Last Supper",
+        "released": "2015-09-01",
+        "rating": "7.9",
+        "imdb_id": "tt5040506",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

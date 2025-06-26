@@ -1,0 +1,293 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+PlayResY: 1080
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,6,2,10,10,10,1
+Style: main,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,10,10,18,1
+Style: top,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,8,10,10,18,1
+Style: italics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,2,10,10,18,1
+Style: italicstop,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,8,10,10,18,1
+Style: flashback,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,6,3,2,10,10,18,1
+Style: flashback italics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,6,3,2,10,10,18,1
+Style: flashbacktop,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,6,3,8,20,20,18,1
+Style: flashbackitalicstop,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,6,3,8,10,10,18,1
+Style: overlap,Trebuchet MS,72,&H007FD3F2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,10,10,18,1
+Style: overlaptop,Trebuchet MS,72,&H007FD3F2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,8,10,10,18,1
+Style: overlap italics,Trebuchet MS,72,&H007FD3F2,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,2,10,10,18,1
+Style: sign_4700_10_Slave,Times New Roman,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_16622_97_A_fir_tree_on_a_,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.80,0:00:19.82,main,FOX,0000,0000,0000,,Let's stay up all night chatting, young master.
+Dialogue: 0,0:00:19.82,0:00:22.04,main,FOX,0000,0000,0000,,Tell us all about your youthful troubles.
+Dialogue: 0,0:00:22.56,0:00:25.68,main,OLMAR,0000,0000,0000,,You're hoping I'll entertain you \Nwhile you drink, aren't you?
+Dialogue: 0,0:00:25.68,0:00:28.54,main,OLMAR,0000,0000,0000,,Screw this. I'm going home. Let go.
+Dialogue: 0,0:00:28.54,0:00:32.96,main,FOX,0000,0000,0000,,Oh, come on. Tell us everything \Nthat's on your mind.
+Dialogue: 0,0:00:32.96,0:00:35.93,main,FOX,0000,0000,0000,,We're such good friends, aren't we?
+Dialogue: 0,0:00:35.93,0:00:37.32,main,OLMAR,0000,0000,0000,,Like hell we are. Let go.
+Dialogue: 1,0:00:42.60,0:00:49.07,sign_4700_10_Slave,EPTITLE,0000,0000,0000,,{\fscx80\blur60\pos(285,930)\fad(1322,1145)\t(1,1322,\blur0)\t(5075,6220,\blur20)}Snake
+Dialogue: 0,0:00:42.60,0:00:49.07,sign_4700_10_Slave,EPTITLE,0000,0000,0000,,{\fscx80\blur60\pos(288,933)\fad(1322,1145)\t(1,1322,\blur0)\t(5075,6220,\blur20)\c&H000000&}Snake
+Dialogue: 0,0:00:55.03,0:00:57.62,main,GUEST D,0000,0000,0000,,What's wrong with you? Hit him back.
+Dialogue: 0,0:01:04.08,0:01:05.82,main,GUEST E,0000,0000,0000,,All right! Right there.
+Dialogue: 0,0:01:05.82,0:01:07.71,main,GUEST F,0000,0000,0000,,Seriously? Again?
+Dialogue: 0,0:01:14.20,0:01:15.55,main,MOB I,0000,0000,0000,,Those morons.
+Dialogue: 0,0:01:15.55,0:01:17.34,main,MOB A,0000,0000,0000,,They fell.
+Dialogue: 0,0:01:17.34,0:01:19.30,main,BG CHARACTER,0000,0000,0000,,Does that make it a tie?
+Dialogue: 0,0:01:21.81,0:01:26.09,main,OLMAR,0000,0000,0000,,Nobody knows what they're talking about.
+Dialogue: 0,0:01:26.64,0:01:29.44,main,OLMAR,0000,0000,0000,,They don't get it.
+Dialogue: 0,0:01:29.44,0:01:32.65,main,OLMAR,0000,0000,0000,,They don't even know what they don't know.
+Dialogue: 0,0:01:33.20,0:01:39.41,main,OLMAR,0000,0000,0000,,There's no way they can understand me \Nwhen they don't know what they don't know.
+Dialogue: 0,0:01:40.84,0:01:43.68,main,FOX,0000,0000,0000,,Actually, I understand, young master.
+Dialogue: 0,0:01:43.68,0:01:46.46,main,FOX,0000,0000,0000,,After all, 17 is a weird age.
+Dialogue: 0,0:01:46.46,0:01:48.29,main,FOX,0000,0000,0000,,Not quite an adult, but no longer a kid.
+Dialogue: 0,0:01:51.17,0:01:52.08,main,OLMAR,0000,0000,0000,,More.
+Dialogue: 0,0:01:52.08,0:01:54.40,main,FOX,0000,0000,0000,,Sure thing.
+Dialogue: 0,0:01:54.40,0:01:57.67,main,FOX,0000,0000,0000,,Here you go. Whoops.
+Dialogue: 0,0:02:00.42,0:02:01.83,main,FOX,0000,0000,0000,,Look at you drink!
+Dialogue: 0,0:02:04.42,0:02:11.35,main,OLMAR,0000,0000,0000,,Fox, Badger... You're actually laughing \Nat me on the inside, aren't you?
+Dialogue: 0,0:02:11.88,0:02:14.12,main,BADGER,0000,0000,0000,,He's not a fun drunk today.
+Dialogue: 0,0:02:14.12,0:02:16.44,main,FOX,0000,0000,0000,,I'm starting to sober up.
+Dialogue: 0,0:02:16.44,0:02:18.15,main,FOX,0000,0000,0000,,We shouldn't have invited him.
+Dialogue: 0,0:02:18.15,0:02:20.28,main,OLMAR,0000,0000,0000,,I can hear you!
+Dialogue: 0,0:02:21.13,0:02:26.54,main,OLMAR,0000,0000,0000,,You think bodyguards like you \Nhave the right to mock me?
+Dialogue: 0,0:02:27.15,0:02:29.92,main,OLMAR,0000,0000,0000,,You serve my dad for a pittance.
+Dialogue: 0,0:02:29.92,0:02:32.25,main,OLMAR,0000,0000,0000,,Don't you have any pride as warriors?
+Dialogue: 0,0:02:32.82,0:02:35.20,main,FOX,0000,0000,0000,,Please, call us guests.
+Dialogue: 0,0:02:35.20,0:02:38.68,main,FOX,0000,0000,0000,,Even men like us are useful in a fight.
+Dialogue: 0,0:02:39.84,0:02:41.47,main,OLMAR,0000,0000,0000,,Oh?
+Dialogue: 0,0:02:41.79,0:02:43.88,main,OLMAR,0000,0000,0000,,You guys actually work sometimes?
+Dialogue: 0,0:02:43.88,0:02:45.74,main,OLMAR,0000,0000,0000,,I've never seen you do your job, Fox.
+Dialogue: 0,0:02:45.74,0:02:49.98,main,FOX,0000,0000,0000,,This village is so peaceful, \Nwe're bored out of our minds.
+Dialogue: 0,0:02:50.61,0:02:52.35,main,OLMAR,0000,0000,0000,,Draw your sword.
+Dialogue: 0,0:02:52.35,0:02:54.79,main,OLMAR,0000,0000,0000,,I'll test your skills to make sure \Nyou haven't lost your touch.
+Dialogue: 0,0:03:09.64,0:03:10.54,main,FOX,0000,0000,0000,,See?
+Dialogue: 0,0:03:11.92,0:03:16.21,main,FOX,0000,0000,0000,,We're your father's guests, \Nand this is what he pays us to do.
+Dialogue: 0,0:03:20.22,0:03:23.53,main,OLMAR,0000,0000,0000,,Damn it! Just kill me!
+Dialogue: 0,0:03:25.96,0:03:28.06,main,BADGER,0000,0000,0000,,What should we do, Fox?
+Dialogue: 0,0:03:29.12,0:03:31.04,main,FOX,0000,0000,0000,,That's odd.
+Dialogue: 0,0:03:31.04,0:03:35.36,main,FOX,0000,0000,0000,,We were supposed to have fun drinking \Ntogether so Ketil's family would like us.
+Dialogue: 0,0:03:36.72,0:03:39.36,main,OLMAR,0000,0000,0000,,I'm a nobody!
+Dialogue: 0,0:03:45.99,0:03:48.43,main,FOX,0000,0000,0000,,In other words, young master,
+Dialogue: 0,0:03:48.43,0:03:54.04,main,FOX,0000,0000,0000,,you don't like being treated \Nlike a child by respectable folk.
+Dialogue: 0,0:03:54.04,0:03:57.38,main,OLMAR,0000,0000,0000,,You guys treat me like one, too.
+Dialogue: 0,0:03:57.91,0:04:00.33,main,FOX,0000,0000,0000,,What do you expect?
+Dialogue: 0,0:04:00.33,0:04:02.84,main,FOX,0000,0000,0000,,You really are half a man.
+Dialogue: 0,0:04:02.84,0:04:04.70,main,FOX,0000,0000,0000,,But for you to become a real man—
+Dialogue: 0,0:04:05.89,0:04:08.08,main,BADGER,0000,0000,0000,,Hey, you should be cheering him up.
+Dialogue: 0,0:04:08.08,0:04:10.94,main,FOX,0000,0000,0000,,Quiet, you. I'm going somewhere with this.
+Dialogue: 0,0:04:10.94,0:04:12.63,main,FOX,0000,0000,0000,,Just shut up and listen.
+Dialogue: 0,0:04:13.30,0:04:15.10,main,FOX,0000,0000,0000,,You know, young master...
+Dialogue: 0,0:04:16.07,0:04:20.99,main,FOX,0000,0000,0000,,Becoming a real man \Nisn't actually that difficult.
+Dialogue: 0,0:04:22.15,0:04:26.86,main,FOX,0000,0000,0000,,All you gotta do is complete a... \Nrite of passage, I think it's called.
+Dialogue: 0,0:04:34.60,0:04:36.97,main,FOX,0000,0000,0000,,You need to kill a person.
+Dialogue: 0,0:04:40.63,0:04:46.39,main,FOX,0000,0000,0000,,Killing a person will make\N you feel really confident.
+Dialogue: 0,0:04:47.41,0:04:49.32,main,FOX,0000,0000,0000,,You oughta try it.
+Dialogue: 0,0:04:52.21,0:04:58.44,main,FOX,0000,0000,0000,,Once you know how fragile human bodies are, \Nyou won't be afraid of others anymore.
+Dialogue: 0,0:04:59.02,0:05:01.08,main,FOX,0000,0000,0000,,It'll grow you right up.
+Dialogue: 0,0:05:02.16,0:05:06.34,main,FOX,0000,0000,0000,,It's how all boys become men.
+Dialogue: 0,0:05:09.85,0:05:13.08,main,OLMAR,0000,0000,0000,,B-But... who?
+Dialogue: 0,0:05:13.08,0:05:16.49,main,FOX,0000,0000,0000,,Well, that's obvious.
+Dialogue: 0,0:05:16.49,0:05:21.09,main,FOX,0000,0000,0000,,I know of the perfect target for a beginner.
+Dialogue: 0,0:05:25.88,0:05:29.80,main,FOX,0000,0000,0000,,You've even got some right here on this farm.
+Dialogue: 0,0:05:37.65,0:05:41.93,main,FOX,0000,0000,0000,,People you're {\i1}allowed{\i0} to kill.
+Dialogue: 0,0:07:28.58,0:07:30.76,main,EINAR,0000,0000,0000,,Boy, I slept well.
+Dialogue: 0,0:07:31.65,0:07:33.22,main,EINAR,0000,0000,0000,,I'm hungry.
+Dialogue: 0,0:07:33.80,0:07:37.81,main,EINAR,0000,0000,0000,,One, two, three, four.
+Dialogue: 0,0:07:38.35,0:07:43.61,main,EINAR,0000,0000,0000,,There's still a lot more wheat \Nto harvest today.
+Dialogue: 0,0:07:43.61,0:07:47.82,main,EINAR,0000,0000,0000,,This farm is way too big.
+Dialogue: 0,0:07:52.98,0:07:57.34,main,EINAR,0000,0000,0000,,At this rate, we'll have hardly any time \Nto clear the woods for next spring.
+Dialogue: 0,0:07:57.74,0:08:01.37,main,EINAR,0000,0000,0000,,I'd like to get it done in time \Nfor the fall planting season.
+Dialogue: 0,0:08:02.37,0:08:07.93,main,EINAR,0000,0000,0000,,But first, we've gotta dig up the roots \Nand rocks, till the soil, and let it rest.
+Dialogue: 0,0:08:08.54,0:08:11.05,main,EINAR,0000,0000,0000,,I wonder if they'll let us \Nborrow a heavy plow.
+Dialogue: 0,0:08:20.88,0:08:23.48,main,EINAR,0000,0000,0000,,Th-Thorfinn, what's wrong?
+Dialogue: 0,0:08:24.04,0:08:27.02,main,EINAR,0000,0000,0000,,Are you still asleep? Hey, Thorfinn.
+Dialogue: 0,0:08:34.44,0:08:36.52,main,EINAR,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:08:36.52,0:08:38.74,main,EINAR,0000,0000,0000,,You were screaming like crazy.
+Dialogue: 0,0:08:46.45,0:08:49.70,main,EINAR,0000,0000,0000,,What kind of dream \Nmakes a man scream like that?
+Dialogue: 0,0:08:52.62,0:08:53.75,main,THORFINN,0000,0000,0000,,I was dreaming?
+Dialogue: 0,0:08:54.60,0:08:58.44,main,THORFINN,0000,0000,0000,,I wonder what it was. I can't remember.
+Dialogue: 0,0:09:05.09,0:09:08.89,main,EINAR,0000,0000,0000,,Go wash your face and let's get\N started on our morning tasks.
+Dialogue: 0,0:09:12.33,0:09:15.11,main,EINAR,0000,0000,0000,,Dreams you forget are better left forgotten.
+Dialogue: 0,0:09:36.56,0:09:39.76,main,ARNHEID,0000,0000,0000,,Good morning. It's a nice morning, isn't it?
+Dialogue: 0,0:09:39.76,0:09:42.39,main,EINAR,0000,0000,0000,,Uh, yes. Good morning.
+Dialogue: 0,0:09:42.39,0:09:44.04,main,ARNHEID,0000,0000,0000,,Would you like to wash your faces?
+Dialogue: 0,0:09:44.04,0:09:46.76,main,ARNHEID,0000,0000,0000,,Go ahead. I'm already finished.
+Dialogue: 0,0:09:46.76,0:09:48.25,main,EINAR,0000,0000,0000,,Oh, no. I mean, yes.
+Dialogue: 0,0:09:48.25,0:09:50.40,main,EINAR,0000,0000,0000,,Uh, sorry. Take your time.
+Dialogue: 0,0:09:50.76,0:09:55.02,main,EINAR,0000,0000,0000,,Washing this face won't make it any better.
+Dialogue: 0,0:09:55.40,0:09:57.54,main,ARNHEID,0000,0000,0000,,Oh, I wouldn't say that.
+Dialogue: 0,0:09:58.48,0:10:01.29,main,ARNHEID,0000,0000,0000,,I think you have a wonderful face.
+Dialogue: 0,0:10:05.95,0:10:08.64,main,ARNHEID,0000,0000,0000,,Are you all right? Are you not feeling well?
+Dialogue: 0,0:10:08.64,0:10:10.67,main,EINAR,0000,0000,0000,,It's my heart...
+Dialogue: 0,0:10:10.67,0:10:12.67,main,ARNHEID,0000,0000,0000,,That's terrible. Does it hurt?
+Dialogue: 0,0:10:12.67,0:10:16.30,main,EINAR,0000,0000,0000,,No, I'm fine. I'm not sick or anything.
+Dialogue: 0,0:10:16.30,0:10:17.66,main,ARNHEID,0000,0000,0000,,Then are you injured?
+Dialogue: 0,0:10:17.66,0:10:21.24,italics,THORFINN,0000,0000,0000,,What is this? I feel so uneasy.
+Dialogue: 0,0:10:23.63,0:10:29.99,italics,THORFINN,0000,0000,0000,,I must have been dreaming \Nabout something I mustn't forget.
+Dialogue: 0,0:10:34.07,0:10:36.76,main,ARNHEID,0000,0000,0000,,My name is Arnheid.
+Dialogue: 0,0:10:36.76,0:10:38.84,main,ARNHEID,0000,0000,0000,,You came here recently, didn't you?
+Dialogue: 0,0:10:38.84,0:10:40.97,main,EINAR,0000,0000,0000,,Y-Yes. I'm Einar.
+Dialogue: 0,0:10:40.97,0:10:42.95,main,EINAR,0000,0000,0000,,I'm from England.
+Dialogue: 0,0:10:43.23,0:10:49.58,main,ARNHEID,0000,0000,0000,,England? You speak the language so well, \NI thought you were Norse.
+Dialogue: 0,0:10:49.58,0:10:55.95,main,EINAR,0000,0000,0000,,Everyone in my village, including me, \Nis descended from Nords.
+Dialogue: 0,0:10:55.95,0:10:59.29,main,EINAR,0000,0000,0000,,We all speak English and Norse.
+Dialogue: 0,0:10:59.29,0:11:03.62,main,EINAR,0000,0000,0000,,Though I'm sure it's hard for a lady like you\N to understand me, since my accent is so thick.
+Dialogue: 0,0:11:05.27,0:11:08.41,main,ARNHEID,0000,0000,0000,,Oh, that's right. Excuse me.
+Dialogue: 0,0:11:08.41,0:11:11.93,main,ARNHEID,0000,0000,0000,,I hadn't mentioned \Nmy status here on the farm.
+Dialogue: 0,0:11:17.89,0:11:21.95,main,EINAR,0000,0000,0000,,What? Aren't you the master's daughter?
+Dialogue: 0,0:11:21.95,0:11:24.70,main,ARNHEID,0000,0000,0000,,No, I'm not.
+Dialogue: 0,0:11:26.69,0:11:29.56,main,ARNHEID,0000,0000,0000,,Like you, I'm a slave.
+Dialogue: 0,0:11:30.09,0:11:32.87,main,ARNHEID,0000,0000,0000,,I'm the master's personal attendant.
+Dialogue: 0,0:11:33.84,0:11:34.78,main,EINAR,0000,0000,0000,,What?
+Dialogue: 0,0:11:40.97,0:11:42.99,main,FOX,0000,0000,0000,,Good morning, gentlemen.
+Dialogue: 0,0:11:42.99,0:11:47.05,main,FOX,0000,0000,0000,,Have you slaves gotten together \Nthis morning to plot your escape?
+Dialogue: 0,0:11:47.39,0:11:49.02,main,ARNHEID,0000,0000,0000,,Good morning.
+Dialogue: 0,0:11:50.24,0:11:51.98,main,FOX,0000,0000,0000,,You, what's your name?
+Dialogue: 0,0:11:52.52,0:11:53.70,main,THORFINN,0000,0000,0000,,Thorfinn.
+Dialogue: 0,0:11:54.59,0:11:57.98,main,BADGER,0000,0000,0000,,Are you a slave, too? I don't recognize you.
+Dialogue: 0,0:11:57.98,0:12:01.61,main,EINAR,0000,0000,0000,,I'm E-Einar. I arrived this summer.
+Dialogue: 0,0:12:05.49,0:12:12.02,main,FOX,0000,0000,0000,,Thorfinn and Einar, come with me.
+Dialogue: 0,0:12:23.19,0:12:26.02,main,EINAR,0000,0000,0000,,We're having a busy morning.
+Dialogue: 0,0:12:28.50,0:12:31.52,main,EINAR,0000,0000,0000,,Who are those guys?
+Dialogue: 0,0:12:31.84,0:12:33.85,main,EINAR,0000,0000,0000,,They've got swords.
+Dialogue: 0,0:12:34.83,0:12:37.52,main,EINAR,0000,0000,0000,,They aren't respectable folk, are they?
+Dialogue: 0,0:12:39.76,0:12:41.20,main,THORFINN,0000,0000,0000,,They're "guests."
+Dialogue: 0,0:12:41.20,0:12:44.41,main,THORFINN,0000,0000,0000,,They're the resident \Ndefensive force at the farm.
+Dialogue: 0,0:12:45.54,0:12:46.97,main,THORFINN,0000,0000,0000,,Basically bodyguards.
+Dialogue: 0,0:12:49.44,0:12:54.98,main,EINAR,0000,0000,0000,,Whatever business they've \Ngot with us can't be good.
+Dialogue: 0,0:12:58.18,0:13:00.95,flashback,ARNHEID,0000,0000,0000,,I think you have a wonderful face.
+Dialogue: 0,0:13:04.05,0:13:07.05,main,FOX,0000,0000,0000,,What is it? You're in a good mood, Einar.
+Dialogue: 0,0:13:07.05,0:13:09.05,main,EINAR,0000,0000,0000,,Oh, sorry.
+Dialogue: 0,0:13:09.37,0:13:11.05,main,FOX,0000,0000,0000,,No problem at all.
+Dialogue: 0,0:13:11.05,0:13:14.06,main,FOX,0000,0000,0000,,You seem like a lively one.
+Dialogue: 0,0:13:41.14,0:13:42.88,main,FOX,0000,0000,0000,,Go on, young master.
+Dialogue: 0,0:13:42.88,0:13:46.68,main,FOX,0000,0000,0000,,Make a nice clean cut.
+Dialogue: 0,0:13:47.54,0:13:50.76,main,EINAR,0000,0000,0000,,A clean cut? You mean...
+Dialogue: 0,0:13:50.76,0:13:54.22,main,FOX,0000,0000,0000,,Very perceptive of you, big man.
+Dialogue: 0,0:13:54.22,0:13:55.26,main,EINAR,0000,0000,0000,,What?
+Dialogue: 0,0:13:56.21,0:13:59.73,main,FOX,0000,0000,0000,,This ritual will allow the young master \Nto become a man.
+Dialogue: 0,0:14:00.80,0:14:02.18,main,FOX,0000,0000,0000,,Die for us.
+Dialogue: 0,0:14:11.96,0:14:15.51,main,FOX,0000,0000,0000,,This ritual will allow the young master \Nto become a man.
+Dialogue: 0,0:14:15.51,0:14:16.92,main,FOX,0000,0000,0000,,Die for us.
+Dialogue: 0,0:14:22.04,0:14:24.46,main,EINAR,0000,0000,0000,,Y-You can't be serious!
+Dialogue: 0,0:14:24.46,0:14:28.13,main,EINAR,0000,0000,0000,,What have we done to deserve this?
+Dialogue: 0,0:14:28.13,0:14:30.12,main,FOX,0000,0000,0000,,You've done nothing wrong!
+Dialogue: 0,0:14:30.12,0:14:35.60,main,FOX,0000,0000,0000,,But your lives aren't your own. \NThat's all there is to it.
+Dialogue: 0,0:14:35.60,0:14:40.20,main,FOX,0000,0000,0000,,Your rightful owner is free to do \Nwhatever he pleases with his possessions.
+Dialogue: 0,0:14:40.20,0:14:44.57,main,FOX,0000,0000,0000,,You're a slave that belongs to Olmar's family.
+Dialogue: 0,0:14:44.57,0:14:48.57,main,FOX,0000,0000,0000,,He's going to cut you down himself. \NYou should be honored.
+Dialogue: 0,0:14:48.57,0:14:50.20,main,GUEST,0000,0000,0000,,Lucky you.
+Dialogue: 0,0:14:51.25,0:14:52.81,main,GUEST,0000,0000,0000,,Just give up already.
+Dialogue: 0,0:14:55.94,0:15:00.12,main,OLMAR,0000,0000,0000,,Th-These guys belong to my dad.
+Dialogue: 0,0:15:00.12,0:15:01.58,main,OLMAR,0000,0000,0000,,They're not mine.
+Dialogue: 0,0:15:02.11,0:15:04.31,main,OLMAR,0000,0000,0000,,If I cut them down, \NI'll have to pay him back for them.
+Dialogue: 0,0:15:06.34,0:15:08.65,main,FOX,0000,0000,0000,,Pathetic, young master.
+Dialogue: 0,0:15:08.65,0:15:11.09,main,FOX,0000,0000,0000,,You've made it this far, \Nand you're still making excuses?
+Dialogue: 0,0:15:11.84,0:15:14.01,main,FOX,0000,0000,0000,,Are you afraid of your father?
+Dialogue: 0,0:15:14.01,0:15:16.04,main,FOX,0000,0000,0000,,Are you afraid to kill?
+Dialogue: 0,0:15:16.04,0:15:17.86,main,FOX,0000,0000,0000,,Or are you afraid of both?
+Dialogue: 0,0:15:17.86,0:15:20.98,main,OLMAR,0000,0000,0000,,Shut up! I'm not scared of anything.
+Dialogue: 0,0:15:21.29,0:15:24.86,main,FOX,0000,0000,0000,,Then do it. Make a nice clean cut.
+Dialogue: 0,0:15:26.98,0:15:29.30,main,EINAR,0000,0000,0000,,Thorfinn, run.
+Dialogue: 0,0:15:30.61,0:15:32.11,main,FOX,0000,0000,0000,,It'll be fine.
+Dialogue: 0,0:15:35.83,0:15:37.10,main,EINAR,0000,0000,0000,,Damn you...
+Dialogue: 0,0:15:38.03,0:15:40.56,main,EINAR,0000,0000,0000,,What are you doing? Go, Thorfinn!
+Dialogue: 0,0:15:40.56,0:15:42.18,main,EINAR,0000,0000,0000,,Tell the master!
+Dialogue: 0,0:15:42.85,0:15:44.68,main,FOX,0000,0000,0000,,You can do it, sir!
+Dialogue: 0,0:15:44.68,0:15:46.54,main,FOX,0000,0000,0000,,Your opponent is raring to go!
+Dialogue: 0,0:15:49.79,0:15:51.45,main,GUEST 1,0000,0000,0000,,Don't move, shorty.
+Dialogue: 0,0:15:51.92,0:15:53.66,main,GUEST 2,0000,0000,0000,,Shut up and watch.
+Dialogue: 0,0:16:08.52,0:16:10.02,main,THORFINN,0000,0000,0000,,What a pain.
+Dialogue: 0,0:16:13.11,0:16:14.84,main,THORFINN,0000,0000,0000,,He can cut me down.
+Dialogue: 0,0:16:16.20,0:16:17.64,main,FOX,0000,0000,0000,,You've got this, sir.
+Dialogue: 0,0:16:20.20,0:16:22.65,main,THORFINN,0000,0000,0000,,You only need one of us, don't you?
+Dialogue: 0,0:16:23.58,0:16:25.90,main,THORFINN,0000,0000,0000,,Let him return to work.
+Dialogue: 0,0:16:26.95,0:16:28.65,main,THORFINN,0000,0000,0000,,He can cut me down.
+Dialogue: 0,0:17:06.74,0:17:08.47,main,SNAKE,0000,0000,0000,,Ow...
+Dialogue: 0,0:17:12.24,0:17:13.96,main,SNAKE,0000,0000,0000,,Oh, it's morning.
+Dialogue: 0,0:17:19.32,0:17:21.45,main,SNAKE,0000,0000,0000,,Hey, Gramps.
+Dialogue: 0,0:17:22.48,0:17:25.22,main,SNAKE,0000,0000,0000,,Gramps, are you there?
+Dialogue: 0,0:17:40.32,0:17:44.30,main,SNAKE,0000,0000,0000,,Gramps, where's my breakfast?
+Dialogue: 0,0:17:44.30,0:17:46.16,main,SNAKE,0000,0000,0000,,Gramps!
+Dialogue: 0,0:17:46.16,0:17:50.00,main,SVERKEL,0000,0000,0000,,You're asking about breakfast \Nafter waking up at this hour?
+Dialogue: 0,0:17:50.00,0:17:54.70,main,SVERKEL,0000,0000,0000,,If you want to eat, help me with the \Nharvest every once in a while.
+Dialogue: 0,0:17:54.70,0:17:56.80,main,SNAKE,0000,0000,0000,,No way.
+Dialogue: 0,0:17:56.80,0:17:59.63,main,SVERKEL,0000,0000,0000,,Then I'm not cooking for you.
+Dialogue: 0,0:17:59.63,0:18:02.31,main,SVERKEL,0000,0000,0000,,Figure something out yourself.
+Dialogue: 0,0:18:03.19,0:18:04.65,main,SNAKE,0000,0000,0000,,That old fart.
+Dialogue: 0,0:18:04.65,0:18:07.54,main,SNAKE,0000,0000,0000,,I'm not cooking for myself. \NWhat a pain in the butt.
+Dialogue: 0,0:18:07.98,0:18:10.33,main,SNAKE,0000,0000,0000,,I guess I'll head home.
+Dialogue: 0,0:18:26.55,0:18:29.08,main,THORFINN,0000,0000,0000,,I'll allow Master Olmar to cut me down.
+Dialogue: 0,0:18:29.62,0:18:32.33,main,THORFINN,0000,0000,0000,,Please let Einar return to work.
+Dialogue: 0,0:18:33.28,0:18:35.03,main,THORFINN,0000,0000,0000,,We have another busy day.
+Dialogue: 0,0:18:38.73,0:18:40.28,main,EINAR,0000,0000,0000,,Wh-What did you just say?
+Dialogue: 0,0:18:52.36,0:18:55.90,main,FOX,0000,0000,0000,,Sorry, what's your name again?
+Dialogue: 0,0:18:57.00,0:18:58.23,main,THORFINN,0000,0000,0000,,It's Thorfinn.
+Dialogue: 0,0:18:59.05,0:19:01.21,main,FOX,0000,0000,0000,,All right, Thorfinn.
+Dialogue: 0,0:19:01.21,0:19:05.07,main,FOX,0000,0000,0000,,Do you understand what you just said?
+Dialogue: 0,0:19:05.07,0:19:08.12,main,FOX,0000,0000,0000,,Being cut down means dying.
+Dialogue: 0,0:19:09.54,0:19:10.90,main,THORFINN,0000,0000,0000,,Yes, it certainly does.
+Dialogue: 0,0:19:13.46,0:19:16.71,main,EINAR,0000,0000,0000,,You idiot! What are you—
+Dialogue: 0,0:19:18.40,0:19:21.85,main,BADGER,0000,0000,0000,,Keep your mouth shut. Stay out of this.
+Dialogue: 0,0:19:22.93,0:19:25.13,main,FOX,0000,0000,0000,,Did you hear that, boys?
+Dialogue: 0,0:19:25.13,0:19:28.74,main,FOX,0000,0000,0000,,You run into guys like him \Nevery once in a while.
+Dialogue: 0,0:19:30.29,0:19:35.66,main,FOX,0000,0000,0000,,I can't overlook what you just said.
+Dialogue: 0,0:19:35.66,0:19:41.36,main,FOX,0000,0000,0000,,Letting a remark like that slide \Nreduces the value of our product.
+Dialogue: 0,0:19:42.53,0:19:49.05,main,FOX,0000,0000,0000,,Hey, Thorfinn. Do you know \Nwhat product we warriors sell?
+Dialogue: 0,0:19:51.25,0:19:52.26,main,THORFINN,0000,0000,0000,,No.
+Dialogue: 0,0:19:55.48,0:19:56.71,main,FOX,0000,0000,0000,,It's death.
+Dialogue: 0,0:20:04.47,0:20:07.47,main,FOX,0000,0000,0000,,Everyone is afraid to die.
+Dialogue: 0,0:20:07.47,0:20:10.49,main,FOX,0000,0000,0000,,I can tell you for certain \Nthat everyone fears it.
+Dialogue: 0,0:20:11.12,0:20:13.02,main,FOX,0000,0000,0000,,Look at the young master.
+Dialogue: 0,0:20:13.02,0:20:15.16,main,FOX,0000,0000,0000,,He's even afraid of someone else dying.
+Dialogue: 0,0:20:15.16,0:20:17.61,main,OLMAR,0000,0000,0000,,Shut up. I'm not s-scared.
+Dialogue: 0,0:20:18.06,0:20:22.86,main,FOX,0000,0000,0000,,You should be. \NDeath has value {\i1}because{\i0} we fear it.
+Dialogue: 0,0:20:23.27,0:20:27.37,main,FOX,0000,0000,0000,,Otherwise we wouldn't be able \Nto use our swords to make a living.
+Dialogue: 0,0:20:37.20,0:20:39.51,main,FOX,0000,0000,0000,,You should be scared, too.
+Dialogue: 0,0:20:40.29,0:20:41.82,main,FOX,0000,0000,0000,,Go on. Be afraid.
+Dialogue: 0,0:20:47.32,0:20:49.77,main,SNAKE,0000,0000,0000,,Aw, man. I'm hungry.
+Dialogue: 0,0:20:50.55,0:20:52.85,main,SNAKE,0000,0000,0000,,Hey, you punks.
+Dialogue: 0,0:20:55.80,0:20:57.58,main,EINAR,0000,0000,0000,,Stop!
+Dialogue: 0,0:21:00.04,0:21:04.33,main,SNAKE,0000,0000,0000,,Those idiots. They're up to no good again.
+Dialogue: 0,0:21:05.36,0:21:07.06,main,EINAR,0000,0000,0000,,Stop!
+Dialogue: 0,0:21:07.87,0:21:11.12,main,EINAR,0000,0000,0000,,Damn it! You monsters!
+Dialogue: 0,0:21:12.88,0:21:13.90,main,FOX,0000,0000,0000,,Come on.
+Dialogue: 0,0:21:14.37,0:21:16.46,main,FOX,0000,0000,0000,,Beg for your life.
+Dialogue: 0,0:21:16.94,0:21:20.20,main,FOX,0000,0000,0000,,Don't hide your true feelings, Thorfinn.
+Dialogue: 0,0:21:26.28,0:21:27.53,main,OLMAR,0000,0000,0000,,Ouch.
+Dialogue: 0,0:21:27.93,0:21:35.18,main,FOX,0000,0000,0000,,If you don't hurry up, your tiny\N little body will end up even smaller.
+Dialogue: 0,0:21:42.44,0:21:48.32,main,SNAKE,0000,0000,0000,,Huh, he didn't even blink. Impressive.
+Dialogue: 0,0:21:49.44,0:21:53.21,main,SNAKE,0000,0000,0000,,Isn't that one of the master's slaves?
+Dialogue: 0,0:21:58.79,0:22:04.10,main,THORFINN,0000,0000,0000,,Why do we have to fear death?
+Dialogue: 0,0:22:08.74,0:22:11.32,main,THORFINN,0000,0000,0000,,Do we live because we don't want to die?
+Dialogue: 0,0:22:14.34,0:22:19.37,main,THORFINN,0000,0000,0000,,Does anything good come from being alive?
+Dialogue: 0,0:22:25.67,0:22:27.27,main,THORFINN,0000,0000,0000,,Not for me.
+Dialogue: 0,0:22:32.18,0:22:38.25,main,THORFINN,0000,0000,0000,,Not a single good thing has \Nhappened to me in my entire life.
+Dialogue: 0,0:22:59.70,0:23:01.30,main,FOX,0000,0000,0000,,Your eye is next.
+Dialogue: 0,0:23:04.93,0:23:06.09,main,FOX,0000,0000,0000,,Show me that you're afraid.
+Dialogue: 0,0:23:06.53,0:23:07.69,main,SNAKE,0000,0000,0000,,Don't, Fox!
+Dialogue: 0,0:23:14.07,0:23:15.77,main,OLMAR,0000,0000,0000,,S-Snake...
+Dialogue: 0,0:23:25.71,0:23:29.29,main,SNAKE,0000,0000,0000,,Aw, man. He's in rough shape.
+Dialogue: 0,0:23:32.76,0:23:38.04,main,FOX,0000,0000,0000,,B-Boss, welcome back. \NWh-Wh-When did you get here?
+Dialogue: 0,0:23:38.04,0:23:38.85,main,SNAKE,0000,0000,0000,,Fox.
+Dialogue: 0,0:23:38.85,0:23:39.96,main,FOX,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:23:41.48,0:23:42.48,main,SNAKE,0000,0000,0000,,Come closer.
+Dialogue: 0,0:23:42.48,0:23:43.80,main,FOX,0000,0000,0000,,Y-Yes, sir.
+Dialogue: 0,0:24:00.52,0:24:01.52,main,SNAKE,0000,0000,0000,,Badger.
+Dialogue: 0,0:24:01.52,0:24:02.92,main,BADGER,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:24:07.68,0:24:08.98,main,SNAKE,0000,0000,0000,,Explain.
+Dialogue: 1,0:25:51.90,0:25:54.99,sign_4700_10_Slave,SIGN,0000,0000,0000,,{\fscx80\fs90\blur60\pos(1650,885)\fad(1153,1)\t(1,1153,\blur0)}Awakening
+Dialogue: 0,0:25:51.90,0:25:54.99,sign_4700_10_Slave,SIGN,0000,0000,0000,,{\fscx80\fs90\blur60\pos(1653,888)\fad(1153,1)\t(1,1322,\blur1)\c&H000000&}Awakening
+Dialogue: 0,0:25:53.03,0:25:54.30,main,Narrator,0000,0000,0000,,"Awakening."

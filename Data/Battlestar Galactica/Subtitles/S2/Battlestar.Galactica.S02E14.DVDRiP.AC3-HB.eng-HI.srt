@@ -1,0 +1,2281 @@
+1
+00:00:20,047 --> 00:00:22,561
+<i>NARRATOR: Previously on
+Battlestar Galactica.</i>
+
+2
+00:00:23,727 --> 00:00:26,321
+<i>ADAMA: Colonel Fisk
+is the new Pegasus Commander.</i>
+
+3
+00:00:27,687 --> 00:00:30,520
+The Cylon's foetus contains no antigens.
+
+4
+00:00:30,607 --> 00:00:32,165
+It makes it a universal donor.
+
+5
+00:00:32,247 --> 00:00:34,636
+<i>ADAMA: Are you saying you've found a cure
+for the President's cancer?</i>
+
+6
+00:00:34,727 --> 00:00:35,716
+<i>BALTAR: Yes.</i>
+
+7
+00:00:43,887 --> 00:00:46,162
+<i>ROSLIN: I've got ships on half-rations.</i>
+
+8
+00:00:46,247 --> 00:00:47,726
+When will some of these supplies
+
+9
+00:00:47,807 --> 00:00:49,365
+start getting out to the Fleet?
+
+10
+00:00:49,447 --> 00:00:51,802
+The target's FTL is history. She's all yours.
+
+11
+00:00:57,287 --> 00:00:58,481
+(PANTING)
+
+12
+00:01:02,367 --> 00:01:03,561
+RACETRACK: He's all right!
+
+13
+00:01:03,647 --> 00:01:06,320
+<i>I say again, Apollo is all right.</i>
+
+14
+00:01:06,927 --> 00:01:09,361
+Let's just be glad that we both
+came back alive, all right?
+
+15
+00:01:09,447 --> 00:01:11,199
+That's just it, Kara.
+
+16
+00:01:11,687 --> 00:01:14,042
+I didn't want to make it back alive.
+
+17
+00:01:30,887 --> 00:01:32,445
+You're not gonna shoot.
+
+18
+00:01:33,567 --> 00:01:35,080
+You're not like me.
+
+19
+00:01:50,167 --> 00:01:52,601
+APOLLO: Hey, hey. Hey, don't go.
+
+20
+00:01:53,887 --> 00:01:56,560
+Sorry. I thought you were still asleep.
+
+21
+00:01:58,927 --> 00:02:01,919
+You should have kicked me out of bed
+an hour ago.
+
+22
+00:02:03,647 --> 00:02:07,606
+<i>If I hold up Galactica's Raptor,
+Tigh'll have my ass.</i>
+
+23
+00:02:07,927 --> 00:02:08,962
+(CHUCKLES)
+
+24
+00:02:09,047 --> 00:02:11,925
+Which, we both know,
+currently belongs to me.
+
+25
+00:02:19,527 --> 00:02:22,166
+All right, let's move on to the next item.
+
+26
+00:02:22,247 --> 00:02:24,761
+Oh, no, gentlemen, please, don't get up.
+
+27
+00:02:24,847 --> 00:02:27,315
+After the last few weeks,
+it just feels good to be on my feet.
+
+28
+00:02:27,407 --> 00:02:28,726
+Thank you, though.
+
+29
+00:02:31,887 --> 00:02:34,606
+You've made a remarkable recovery,
+Madam President.
+
+30
+00:02:34,687 --> 00:02:37,724
+Remarkable indeed.
+But now I'm playing catch-up.
+
+31
+00:02:37,807 --> 00:02:40,640
+I'm afraid during my illness I lost focus.
+I let some things slide.
+
+32
+00:02:40,727 --> 00:02:42,319
+Well, that's behind us now.
+
+33
+00:02:42,407 --> 00:02:44,716
+Yes, it is. To the point.
+
+34
+00:02:45,007 --> 00:02:47,282
+Supplies are running low
+and the people are worried.
+
+35
+00:02:47,367 --> 00:02:48,595
+FISK: Well, they wouldn't be civilians
+
+36
+00:02:48,687 --> 00:02:50,484
+if they didn't have something to bitch about.
+
+37
+00:02:50,567 --> 00:02:52,922
+ROSLIN: Well, I think that in this case,
+they're entitled.
+
+38
+00:02:53,007 --> 00:02:55,885
+Our inventory levels are tight,
+but they're not critical.
+
+39
+00:02:55,967 --> 00:02:57,320
+But all the way across the Fleet,
+
+40
+00:02:57,407 --> 00:02:59,363
+people are reporting shortages
+of essential goods,
+
+41
+00:02:59,447 --> 00:03:01,802
+and what they do get comes at a high price.
+
+42
+00:03:01,887 --> 00:03:03,957
+They're turning to the black market.
+
+43
+00:03:05,687 --> 00:03:08,485
+Last week, one of my aides
+came down with pneumonia.
+
+44
+00:03:08,567 --> 00:03:11,445
+Billy had to trade liquor
+to get the antibiotics.
+
+45
+00:03:12,407 --> 00:03:15,558
+It's the nature of the beast.
+People want what they want.
+
+46
+00:03:16,687 --> 00:03:20,475
+A few trades would be one thing,
+Commander Fisk. That's reality.
+
+47
+00:03:20,567 --> 00:03:21,886
+But I'm talking about criminals
+
+48
+00:03:21,967 --> 00:03:23,400
+making outrageous demands on the people.
+
+49
+00:03:23,487 --> 00:03:27,480
+So, bottom line is, I'm implementing a new,
+Fleet-wide trade policy.
+
+50
+00:03:27,847 --> 00:03:32,682
+We need to be in control of our supply chain,
+not black market thugs.
+
+51
+00:03:32,967 --> 00:03:36,357
+I am hoping that I can have
+the military's support on this.
+
+52
+00:03:36,447 --> 00:03:41,123
+<i>Admiral, if you want Pegasus to run
+these dogs down, you just give us the word.</i>
+
+53
+00:03:43,767 --> 00:03:47,282
+Our people will do whatever it takes
+to get this under control.
+
+54
+00:03:47,727 --> 00:03:50,287
+And it's good to have you back,
+Madam President.
+
+55
+00:03:50,367 --> 00:03:53,006
+It's good to be back. Thank you, Admiral.
+
+56
+00:03:53,247 --> 00:03:54,726
+Gentlemen, thank you.
+
+57
+00:03:57,407 --> 00:03:58,920
+(DOOR CLOSING)
+
+58
+00:04:00,087 --> 00:04:03,079
+FISK: Is Madam President
+always so right-in-your-face?
+
+59
+00:04:03,407 --> 00:04:07,366
+Her last-minute resurrection
+seems to have invigorated her somewhat.
+
+60
+00:04:07,447 --> 00:04:09,119
+Yeah, well, maybe too much.
+
+61
+00:04:09,207 --> 00:04:11,641
+She doesn't really think
+her made-up plans and regulations
+
+62
+00:04:11,727 --> 00:04:13,046
+are gonna change anything, does she?
+
+63
+00:04:13,127 --> 00:04:14,765
+As if we don't have enough to do.
+
+64
+00:04:14,847 --> 00:04:17,315
+No, Madam President sets a great prestige
+by her office
+
+65
+00:04:17,407 --> 00:04:18,840
+and Adama supports her,
+at least for the moment.
+
+66
+00:04:18,927 --> 00:04:20,724
+Well, then, so do I, just for the moment.
+
+67
+00:04:20,807 --> 00:04:23,367
+By the way, did you get the cigars
+I had sent over?
+
+68
+00:04:23,447 --> 00:04:25,165
+I not only got them, I enjoyed them as well.
+
+69
+00:04:25,247 --> 00:04:27,203
+Well, my pleasure, Mr Vice President.
+
+70
+00:04:27,287 --> 00:04:29,278
+Well, I've got a ship to run.
+
+71
+00:04:29,367 --> 00:04:30,800
+I look forward to our next visit.
+
+72
+00:04:30,887 --> 00:04:32,081
+As do I.
+
+73
+00:05:02,447 --> 00:05:04,483
+SHEVON: I got them from a friend.
+
+74
+00:05:04,567 --> 00:05:06,000
+(DOOR OPENING)
+
+75
+00:05:06,927 --> 00:05:09,043
+APOLLO: Paya.
+SHEVON: Hey, sweetie.
+
+76
+00:05:09,407 --> 00:05:12,683
+Wow. You seem to get an inch taller
+every time I see you.
+
+77
+00:05:15,567 --> 00:05:17,797
+What, I don't get my handshake?
+
+78
+00:05:17,887 --> 00:05:19,479
+Well, that's okay, Paya.
+
+79
+00:05:19,727 --> 00:05:24,039
+I have a special surprise for you,
+and it's in here.
+
+80
+00:05:24,767 --> 00:05:26,598
+APOLLO: You wanna come see?
+
+81
+00:05:28,247 --> 00:05:30,397
+SHEVON: What's he got? Go on.
+
+82
+00:05:30,567 --> 00:05:32,046
+(BAG UNZIPPING)
+
+83
+00:05:32,127 --> 00:05:33,958
+APOLLO: What have we got?
+
+84
+00:05:35,407 --> 00:05:36,635
+(GASPS)
+
+85
+00:05:38,007 --> 00:05:39,565
+Oh, Paya.
+
+86
+00:05:43,767 --> 00:05:46,076
+I've never been great with kids.
+
+87
+00:05:47,327 --> 00:05:49,716
+Maybe next time I'll get one with two eyes.
+
+88
+00:05:50,487 --> 00:05:52,205
+I'll see if I can trade it for something else.
+
+89
+00:05:52,287 --> 00:05:55,882
+No, it's okay. You just surprised her.
+
+90
+00:05:57,167 --> 00:05:58,282
+Well...
+
+91
+00:05:59,887 --> 00:06:05,007
+Well, look, I'm not sure
+when I'll be able to make it back.
+
+92
+00:06:06,927 --> 00:06:08,155
+I know.
+
+93
+00:06:12,847 --> 00:06:16,396
+I'm gonna have to ask for an extra hundred
+since you spent the night.
+
+94
+00:06:38,127 --> 00:06:39,560
+(DOOR CLOSES)
+
+95
+00:06:41,367 --> 00:06:42,766
+(LIGHTER CLINKING)
+
+96
+00:06:46,287 --> 00:06:50,075
+Well, I wondered when
+you were gonna show up.
+
+97
+00:06:57,127 --> 00:06:58,321
+(FISK GAGGING)
+
+98
+00:07:50,007 --> 00:07:51,759
+<i>LANDING OFFICER: (ON RADIO)
+Raptor one-two-niner,</i>
+
+99
+00:07:51,847 --> 00:07:53,678
+<i>you are cleared into the break.</i>
+
+100
+00:07:57,287 --> 00:07:58,356
+(PANTING)
+
+101
+00:08:14,927 --> 00:08:18,317
+<i>RACETRACK: Galactica,
+Raptor one-two-niner has the ball.</i>
+
+102
+00:08:21,807 --> 00:08:23,957
+Inbound speed 220.
+
+103
+00:08:31,967 --> 00:08:35,277
+Admiral, Colonel, I'm just getting started,
+
+104
+00:08:35,967 --> 00:08:38,561
+but from the looks of him,
+I'd say he was garrotted.
+
+105
+00:08:38,647 --> 00:08:41,207
+Gods. This is the last thing we needed.
+
+106
+00:08:48,287 --> 00:08:52,360
+Admiral, you might want
+to take a look at this.
+
+107
+00:08:58,767 --> 00:09:01,406
+Looks like our friend Fisk hit the jackpot.
+
+108
+00:09:01,487 --> 00:09:02,522
+Cubit?
+
+109
+00:09:02,607 --> 00:09:04,484
+If you find anything else,
+let me know right away.
+
+110
+00:09:04,567 --> 00:09:06,683
+If I find anything else, I may retire early.
+
+111
+00:09:06,767 --> 00:09:08,359
+ADAMA: Someone's sending us a message.
+
+112
+00:09:08,447 --> 00:09:10,324
+Or running us in circles.
+
+113
+00:09:10,407 --> 00:09:12,284
+Maybe there's another Cylon in the Fleet.
+
+114
+00:09:12,367 --> 00:09:15,643
+I'd almost prefer that to the alternative:
+We start killing our own.
+
+115
+00:09:15,727 --> 00:09:17,957
+All they have to do is sit back and watch.
+
+116
+00:09:18,287 --> 00:09:19,402
+Fisk?
+
+117
+00:09:24,927 --> 00:09:27,122
+Do we have any idea who did it?
+
+118
+00:09:30,087 --> 00:09:31,156
+No.
+
+119
+00:09:31,727 --> 00:09:34,958
+But we will do a full investigation
+and I want you to lead it.
+
+120
+00:09:36,567 --> 00:09:37,966
+Don't you think it would be better
+
+121
+00:09:38,047 --> 00:09:40,083
+<i>if someone from Pegasus dealt with this?</i>
+
+122
+00:09:40,167 --> 00:09:43,682
+Even though Cain's gone,
+her influence lingers.
+
+123
+00:09:44,127 --> 00:09:46,243
+I need someone I can trust.
+
+124
+00:09:49,207 --> 00:09:53,519
+You know, there were times
+when that was in short supply between us.
+
+125
+00:09:56,767 --> 00:09:59,486
+We've both been through an awful lot, Son.
+
+126
+00:10:03,247 --> 00:10:05,681
+And I hope that we've grown stronger for it.
+
+127
+00:10:08,087 --> 00:10:09,406
+I need your help.
+
+128
+00:10:10,487 --> 00:10:12,921
+<i>I'll call up a flight to Pegasus right away.</i>
+
+129
+00:10:26,687 --> 00:10:28,325
+Anyone else been inside?
+
+130
+00:10:28,607 --> 00:10:30,677
+Just the medical team, sir.
+
+131
+00:11:23,967 --> 00:11:27,755
+BALTAR: Do you know who I am?
+I am the Vice President of the Colonies.
+
+132
+00:11:27,847 --> 00:11:28,996
+Let me in.
+
+133
+00:11:32,167 --> 00:11:33,805
+Captain Adama.
+
+134
+00:11:35,327 --> 00:11:37,716
+Commander Fisk didn't tell me
+you were invited.
+
+135
+00:11:37,807 --> 00:11:39,160
+Let him in.
+
+136
+00:11:42,327 --> 00:11:44,443
+They were going to let me in.
+
+137
+00:11:46,047 --> 00:11:47,799
+BALTAR: Oh, my Gods.
+
+138
+00:11:50,447 --> 00:11:52,085
+What's going on in here?
+
+139
+00:11:56,567 --> 00:11:57,761
+Where's Fisk?
+
+140
+00:11:58,647 --> 00:12:00,877
+<i>On a slab in Galactica's morgue.</i>
+
+141
+00:12:02,447 --> 00:12:03,766
+What, he's dead?
+
+142
+00:12:04,727 --> 00:12:06,240
+Isn't this your brand?
+
+143
+00:12:07,327 --> 00:12:08,840
+NO. 6: Careful, Gaius.
+
+144
+00:12:09,487 --> 00:12:12,081
+You bought yourself some goodwill
+by saving Roslin,
+
+145
+00:12:12,167 --> 00:12:13,441
+but it's fading.
+
+146
+00:12:13,927 --> 00:12:15,838
+Their old suspicions are re-emerging.
+
+147
+00:12:15,927 --> 00:12:17,565
+What are you doing here?
+
+148
+00:12:18,207 --> 00:12:19,640
+Captain?
+
+149
+00:12:19,727 --> 00:12:22,116
+I was about to ask you the same thing.
+
+150
+00:12:22,207 --> 00:12:23,925
+Wait a minute, I...
+
+151
+00:12:26,127 --> 00:12:27,799
+Are you interrogating me?
+
+152
+00:12:31,407 --> 00:12:33,841
+I'm not sure I appreciate your tone.
+
+153
+00:12:33,927 --> 00:12:37,237
+This isn't a diplomatic exercise.
+A man was butchered.
+
+154
+00:12:37,407 --> 00:12:40,365
+APOLLO: His head was practically severed
+from his body with piano wire.
+
+155
+00:12:40,447 --> 00:12:42,802
+NO. 6: You're Vice President of the Fleet.
+
+156
+00:12:43,327 --> 00:12:47,036
+Why are you acting like a child
+with your hand in the cookie jar, hmm?
+
+157
+00:12:48,567 --> 00:12:51,764
+Wonder what she would say
+if she saw you like this.
+
+158
+00:12:54,687 --> 00:12:57,724
+You know, I can't believe it's even necessary
+for me to explain myself to you,
+
+159
+00:12:57,807 --> 00:13:01,356
+but obviously, no, I had nothing to do
+with Commander Fisk's death.
+
+160
+00:13:01,447 --> 00:13:03,563
+For the record, I just came here to discuss
+
+161
+00:13:03,647 --> 00:13:05,922
+President Roslin's new trade policy.
+
+162
+00:13:06,007 --> 00:13:07,963
+Well, I thought that was settled.
+
+163
+00:13:08,047 --> 00:13:11,164
+No, Commander Fisk had some reservations.
+
+164
+00:13:11,247 --> 00:13:12,521
+I'll bet.
+
+165
+00:13:12,607 --> 00:13:14,006
+And as the Vice President,
+
+166
+00:13:14,087 --> 00:13:17,557
+I decided to assuage his doubts
+of my own free will.
+
+167
+00:13:18,487 --> 00:13:19,886
+Is that sufficient?
+
+168
+00:13:20,727 --> 00:13:23,366
+Or would you like me
+to provide you with an alibi?
+
+169
+00:13:23,447 --> 00:13:25,563
+I'm sure I can rustle one up.
+
+170
+00:13:30,207 --> 00:13:31,799
+Enjoy the cigars.
+
+171
+00:13:34,047 --> 00:13:36,322
+APOLLO: Escort the Vice President
+to his ship.
+
+172
+00:13:36,407 --> 00:13:37,442
+(MACHINES HUMMING)
+
+173
+00:13:37,527 --> 00:13:38,846
+The wireless is going crazy.
+
+174
+00:13:38,927 --> 00:13:42,078
+Word of Fisk's murder
+has spread out through the entire Fleet.
+
+175
+00:13:42,167 --> 00:13:44,965
+When we lose a command officer
+aboard a warship,
+
+176
+00:13:45,047 --> 00:13:47,163
+people are gonna be concerned
+about their security.
+
+177
+00:13:47,247 --> 00:13:49,238
+TIGH: A crew can fall apart
+when their commander's killed.
+
+178
+00:13:49,327 --> 00:13:51,761
+<i>Pegasus lost two in a matter of weeks.</i>
+
+179
+00:13:52,447 --> 00:13:54,597
+Maybe this time they were lucky.
+
+180
+00:13:54,687 --> 00:13:58,236
+His personal log shows
+that he was rerouting supply runs,
+
+181
+00:13:58,327 --> 00:14:01,160
+on and offloading freighters
+without command authorisation.
+
+182
+00:14:01,247 --> 00:14:02,839
+<i>APOLLO: He raided the MacConnel,</i>
+
+183
+00:14:02,927 --> 00:14:04,838
+and at least a dozen other ships
+in the last week.
+
+184
+00:14:04,927 --> 00:14:10,479
+I also found a small warehouse
+of high-value merchandise in his quarters.
+
+185
+00:14:10,567 --> 00:14:12,444
+He was working the black market.
+
+186
+00:14:13,407 --> 00:14:16,240
+Half the Fleet's working it.
+Fisk was getting greedy.
+
+187
+00:14:18,127 --> 00:14:20,766
+If he crossed one of his suppliers on a deal,
+
+188
+00:14:20,847 --> 00:14:23,441
+that would explain the cubits
+that Cottle found.
+
+189
+00:14:23,527 --> 00:14:24,846
+It still doesn't tell us who did it.
+
+190
+00:14:24,927 --> 00:14:27,122
+Well, he's gonna need trading partners.
+
+191
+00:14:27,607 --> 00:14:29,723
+<i>And they wouldn't be hard to find,
+even on Galactica.</i>
+
+192
+00:14:29,807 --> 00:14:31,638
+WORKER 1: All right, let's open it up here.
+
+193
+00:14:31,727 --> 00:14:33,399
+WORKER 2: Move around back.
+
+194
+00:14:36,007 --> 00:14:37,122
+(PAYA COUGHING)
+
+195
+00:14:37,207 --> 00:14:39,846
+Lee, I'm scared.
+
+196
+00:14:40,447 --> 00:14:42,756
+Paya's cough keeps getting worse.
+
+197
+00:14:46,047 --> 00:14:48,481
+I'll bring her something on my next trip.
+
+198
+00:14:48,767 --> 00:14:52,077
+Which could be weeks
+if there's another Cylon attack.
+
+199
+00:14:53,087 --> 00:14:55,806
+I keep hearing about shortages
+on the other ships,
+
+200
+00:14:56,527 --> 00:14:59,997
+people trading anything they can
+for food, and for medicine.
+
+201
+00:15:00,247 --> 00:15:01,475
+Really?
+
+202
+00:15:02,047 --> 00:15:04,641
+Have you seen
+all the new working girls outside?
+
+203
+00:15:05,247 --> 00:15:07,886
+Lee, when your baby's crying
+because it's hungry,
+
+204
+00:15:08,407 --> 00:15:10,443
+you'll do anything to make it stop.
+
+205
+00:15:11,767 --> 00:15:12,916
+Hey.
+
+206
+00:15:15,687 --> 00:15:17,006
+Come here.
+
+207
+00:15:19,047 --> 00:15:20,400
+PAYA: Mommy.
+
+208
+00:15:28,167 --> 00:15:29,805
+(KNOCKING ON DOOR)
+
+209
+00:15:29,927 --> 00:15:31,155
+Captain.
+
+210
+00:15:32,807 --> 00:15:33,842
+What do you want?
+
+211
+00:15:33,927 --> 00:15:35,440
+APOLLO: Is your wife around, Colonel?
+
+212
+00:15:35,527 --> 00:15:37,245
+No. Why?
+
+213
+00:15:44,967 --> 00:15:46,161
+Is this hers?
+
+214
+00:15:50,007 --> 00:15:52,567
+Yeah. She lost it a couple weeks ago.
+
+215
+00:15:52,647 --> 00:15:54,399
+Where the hell did you find it?
+
+216
+00:15:54,487 --> 00:15:55,840
+<i>On Pegasus.</i>
+
+217
+00:16:03,367 --> 00:16:05,278
+In Commander Fisk's quarters.
+
+218
+00:16:07,567 --> 00:16:09,285
+(COUGHING)
+
+219
+00:16:10,247 --> 00:16:11,760
+She's burning up.
+
+220
+00:16:11,847 --> 00:16:13,360
+APOLLO: What did they say
+at the infirmary?
+
+221
+00:16:13,447 --> 00:16:15,802
+Antibiotics have all been rationed out.
+
+222
+00:16:15,887 --> 00:16:18,037
+They said they might have something
+by the end of the week.
+
+223
+00:16:18,127 --> 00:16:19,606
+(PAYA COUGHING)
+
+224
+00:16:23,647 --> 00:16:28,004
+We got shortages across the Fleet,
+people begging for scraps,
+
+225
+00:16:28,967 --> 00:16:32,323
+but somehow you and Mrs Tigh
+have fresh fruit, real liquor...
+
+226
+00:16:32,407 --> 00:16:35,319
+All right. What the hell is this about?
+
+227
+00:16:35,407 --> 00:16:37,921
+You must have known
+she was trading with Fisk.
+
+228
+00:16:41,487 --> 00:16:43,318
+Well, maybe I'll talk to her.
+
+229
+00:16:43,407 --> 00:16:47,685
+She didn't give it to Fisk.
+I did. I traded it for a few necessities,
+
+230
+00:16:47,767 --> 00:16:51,237
+a couple of things to help her get by.
+Big frakking deal.
+
+231
+00:16:51,327 --> 00:16:52,965
+There's nothing illegal about that.
+
+232
+00:16:53,047 --> 00:16:54,241
+Not yet.
+
+233
+00:16:54,327 --> 00:16:57,319
+Don't you play holier-than-thou with me.
+
+234
+00:16:58,167 --> 00:17:01,603
+I haven't done anything
+that most people on this ship haven't done.
+
+235
+00:17:02,287 --> 00:17:03,515
+Including you.
+
+236
+00:17:20,927 --> 00:17:22,201
+Doesn't make us right, Colonel,
+
+237
+00:17:22,287 --> 00:17:24,198
+just a whole lot of people wrong.
+
+238
+00:17:36,567 --> 00:17:37,636
+(PANTING)
+
+239
+00:17:42,327 --> 00:17:44,318
+(GRUNTING)
+
+240
+00:17:48,327 --> 00:17:50,318
+You didn't make it to class today.
+
+241
+00:17:51,247 --> 00:17:52,680
+(PANTING)
+
+242
+00:17:52,927 --> 00:17:54,883
+Yeah, I've been pretty jammed up.
+
+243
+00:17:56,487 --> 00:17:59,604
+Anyway, I'm not sure
+you need me holding your hand anymore.
+
+244
+00:18:00,047 --> 00:18:03,119
+Was that what you were doing?
+Holding my hand?
+
+245
+00:18:03,367 --> 00:18:04,436
+(CHUCKLES)
+
+246
+00:18:05,127 --> 00:18:06,845
+I meant it as a compliment.
+
+247
+00:18:08,487 --> 00:18:10,443
+Permission to speak frankly, sir?
+
+248
+00:18:11,367 --> 00:18:14,484
+You don't need my permission
+and you don't need the "sir".
+
+249
+00:18:18,487 --> 00:18:22,196
+Maybe that's the problem.
+I don't really know what to think anymore.
+
+250
+00:18:22,487 --> 00:18:26,082
+So I'll just ask. Is this going somewhere?
+
+251
+00:18:26,167 --> 00:18:27,202
+Dee...
+
+252
+00:18:27,287 --> 00:18:29,721
+Please don't pretend like you don't know
+what I'm talking about.
+
+253
+00:18:29,807 --> 00:18:33,083
+You know, our...
+Our time together, our workouts.
+
+254
+00:18:33,687 --> 00:18:35,518
+Something's changed between us.
+
+255
+00:18:46,927 --> 00:18:49,282
+I'm just not sure what you want me to say.
+
+256
+00:18:52,807 --> 00:18:54,445
+Then don't say anything.
+
+257
+00:19:02,727 --> 00:19:04,797
+<i>WOMAN: (ON PA SYSTEM)
+Communications paging Captain Adama.</i>
+
+258
+00:19:04,887 --> 00:19:08,163
+<i>You have a priority ship-to-ship call
+from Cloud 9.</i>
+
+259
+00:19:09,367 --> 00:19:11,085
+Captain Adama here.
+
+260
+00:19:11,887 --> 00:19:13,002
+(BANGING ON DOOR)
+
+261
+00:19:13,087 --> 00:19:15,362
+APOLLO: Shevon. Shevon, it's me!
+
+262
+00:19:16,927 --> 00:19:18,076
+Shevon?
+
+263
+00:19:21,847 --> 00:19:25,476
+Oh, my Gods. What did they do?
+
+264
+00:19:27,127 --> 00:19:29,357
+They said they knew about you and me.
+
+265
+00:19:29,447 --> 00:19:32,007
+They wanted to know
+what we've been talking about.
+
+266
+00:19:32,087 --> 00:19:34,362
+Lee, I don't understand why they'd care.
+
+267
+00:19:34,447 --> 00:19:38,645
+<i>All right, get what you need.
+I'm taking you and Paya back to Galactica.</i>
+
+268
+00:19:38,767 --> 00:19:40,837
+(BAG RUSTLING)
+
+269
+00:19:41,927 --> 00:19:42,996
+Lee, wait.
+
+270
+00:19:43,087 --> 00:19:45,681
+It's the only place I can keep you safe.
+
+271
+00:19:45,767 --> 00:19:47,644
+What are you gonna tell them about us?
+
+272
+00:19:47,727 --> 00:19:50,287
+I'm not fooling myself. I know what this is.
+
+273
+00:19:51,647 --> 00:19:52,841
+SHEVON: Lee!
+
+274
+00:19:53,207 --> 00:19:54,322
+(MAN GROANS)
+
+275
+00:20:02,567 --> 00:20:03,795
+(SCREAMING)
+
+276
+00:20:04,687 --> 00:20:06,279
+(SHEVON SCREAMS)
+
+277
+00:20:13,047 --> 00:20:14,321
+(GRUNTING)
+
+278
+00:20:20,487 --> 00:20:22,079
+Get away from us!
+
+279
+00:20:24,007 --> 00:20:25,122
+(CHOKING)
+
+280
+00:20:35,967 --> 00:20:37,446
+You listening?
+
+281
+00:20:38,727 --> 00:20:40,206
+I hear any more talk about Fisk,
+
+282
+00:20:40,287 --> 00:20:43,597
+I'm going to send your whore
+back to you piece by piece.
+
+283
+00:20:43,687 --> 00:20:46,076
+And then I'm gonna start on the little girl.
+
+284
+00:20:46,407 --> 00:20:49,922
+I know who you are,
+I know whose son you are.
+
+285
+00:20:51,687 --> 00:20:53,279
+And I don't care.
+
+286
+00:20:54,167 --> 00:20:55,919
+You tell Adama to let it go.
+
+287
+00:21:19,447 --> 00:21:21,756
+Is that when you knew that you loved her?
+
+288
+00:21:22,567 --> 00:21:24,000
+I thought so.
+
+289
+00:21:27,047 --> 00:21:28,719
+<i>SHEVON: But you hurt her.</i>
+
+290
+00:21:48,207 --> 00:21:49,526
+(GRUNTING)
+
+291
+00:21:49,727 --> 00:21:51,638
+(GROANING)
+
+292
+00:21:57,647 --> 00:21:59,444
+This is Captain Adama.
+
+293
+00:21:59,527 --> 00:22:02,644
+I need a medic
+and a security team on L Deck ASAP.
+
+294
+00:22:14,887 --> 00:22:17,082
+You wanted to see me, Madam President?
+
+295
+00:22:17,247 --> 00:22:18,316
+Yes.
+
+296
+00:22:19,367 --> 00:22:21,198
+Thank you for coming, Doctor.
+
+297
+00:22:22,487 --> 00:22:23,806
+Have a seat.
+
+298
+00:22:28,687 --> 00:22:30,643
+Would you like some tea?
+
+299
+00:22:31,127 --> 00:22:32,276
+I'd love one.
+
+300
+00:22:36,567 --> 00:22:40,924
+You know, I'm never quite sure
+where we stand with each other, Doctor.
+
+301
+00:22:45,247 --> 00:22:46,919
+Why do you think that is?
+
+302
+00:22:48,287 --> 00:22:49,720
+I can't imagine why.
+
+303
+00:22:50,607 --> 00:22:54,759
+I've never had anything but the utmost
+respect for you and your office.
+
+304
+00:22:56,527 --> 00:22:58,916
+I understand that you and Commander Fisk
+planned to meet
+
+305
+00:22:59,007 --> 00:23:00,599
+just prior to his death.
+
+306
+00:23:08,327 --> 00:23:10,716
+As I have already explained
+to Captain Adama,
+
+307
+00:23:11,527 --> 00:23:15,156
+Commander Fisk had several lingering
+concerns about your new trade policy.
+
+308
+00:23:15,247 --> 00:23:16,441
+What can I say?
+
+309
+00:23:17,527 --> 00:23:19,006
+And that's it?
+
+310
+00:23:19,087 --> 00:23:21,396
+NO. 6: Gaius, she's afraid of you.
+
+311
+00:23:21,527 --> 00:23:22,676
+Why
+
+312
+00:23:23,527 --> 00:23:25,597
+are you asking me this?
+
+313
+00:23:26,647 --> 00:23:29,081
+You saved my life and I'm grateful.
+
+314
+00:23:30,287 --> 00:23:33,484
+But I sense that there is some unease in you
+
+315
+00:23:33,567 --> 00:23:35,922
+about assuming the presidency
+
+316
+00:23:36,007 --> 00:23:38,282
+and I'd like to offer you an out.
+
+317
+00:23:43,607 --> 00:23:44,642
+You what?
+
+318
+00:23:44,727 --> 00:23:45,921
+Resign.
+
+319
+00:23:46,447 --> 00:23:49,245
+<i>Return to your scientific work on Galactica.</i>
+
+320
+00:23:49,727 --> 00:23:51,718
+No one will question your motives,
+
+321
+00:23:52,687 --> 00:23:56,885
+and you can consider it a second chance
+like the one you gave me.
+
+322
+00:23:59,167 --> 00:24:00,395
+Charming.
+
+323
+00:24:01,687 --> 00:24:02,836
+Doctor,
+
+324
+00:24:07,367 --> 00:24:09,244
+this is a one-time offer.
+
+325
+00:24:10,047 --> 00:24:11,799
+I suggest you reconsider.
+
+326
+00:24:12,487 --> 00:24:16,480
+You know, Madam President, I've never been
+particularly interested in politics
+
+327
+00:24:17,487 --> 00:24:20,081
+and I never wanted
+any lofty position of power.
+
+328
+00:24:20,727 --> 00:24:23,002
+I never wanted to be the Vice President.
+
+329
+00:24:24,047 --> 00:24:26,515
+That is, until this very moment.
+
+330
+00:24:27,007 --> 00:24:30,841
+Because right now,
+I can't think of anything I want more.
+
+331
+00:24:40,567 --> 00:24:43,161
+One to the head. You didn't do this?
+
+332
+00:24:45,247 --> 00:24:47,966
+I was attacked.
+I found him there when I woke up.
+
+333
+00:24:48,047 --> 00:24:51,676
+Security bulletin said
+Commander Fisk was garrotted with a wire.
+
+334
+00:24:51,767 --> 00:24:54,440
+Whatever happened,
+looks like you found your guy.
+
+335
+00:24:55,127 --> 00:24:57,357
+What about Shevon, and her daughter?
+
+336
+00:24:57,447 --> 00:25:00,598
+Cloud 9's an open port.
+Chances are they're already off-ship.
+
+337
+00:25:01,287 --> 00:25:02,959
+I'll get a team down here.
+
+338
+00:25:04,047 --> 00:25:05,366
+Councilman Zarek.
+
+339
+00:25:06,407 --> 00:25:09,444
+Lee. I just heard. Are you all right?
+
+340
+00:25:10,807 --> 00:25:12,126
+What are you doing here?
+
+341
+00:25:12,207 --> 00:25:13,925
+Attending a Quorum meeting.
+
+342
+00:25:14,687 --> 00:25:17,679
+Nothing as exciting as all this, I assure you.
+
+343
+00:25:17,767 --> 00:25:19,962
+I know these places are legal, but still,
+
+344
+00:25:20,047 --> 00:25:22,038
+the son of the almighty Adama?
+
+345
+00:25:23,087 --> 00:25:24,805
+Talk to me about the black market.
+
+346
+00:25:24,887 --> 00:25:25,956
+(ZAREK CHUCKLES)
+
+347
+00:25:26,047 --> 00:25:29,039
+Not much to say. It's widespread, inevitable,
+
+348
+00:25:29,127 --> 00:25:32,119
+and according to President Roslin, illegal.
+
+349
+00:25:32,607 --> 00:25:36,043
+So it's no surprise that you and Fisk
+were in it up to your necks.
+
+350
+00:25:36,367 --> 00:25:38,323
+Fisk, maybe, but not me.
+
+351
+00:25:38,687 --> 00:25:42,805
+<i>I represent Astral Queen.
+Have to be careful about the company I keep.</i>
+
+352
+00:25:44,887 --> 00:25:46,286
+This is Fisk's log.
+
+353
+00:25:48,927 --> 00:25:53,364
+<i>He says he made three runs
+to Astral Queen in the last 10 days</i>
+
+354
+00:25:53,447 --> 00:25:55,563
+and I doubt it was to discuss prison reform.
+
+355
+00:25:55,647 --> 00:25:57,638
+What do you want from me, Captain?
+
+356
+00:25:59,087 --> 00:26:01,282
+Names of ships. Contacts.
+
+357
+00:26:01,847 --> 00:26:03,166
+I can't help you.
+
+358
+00:26:08,247 --> 00:26:10,317
+Why do you think Fisk approached me?
+
+359
+00:26:10,527 --> 00:26:13,963
+To get a piece of your black market scam.
+To offer you protection.
+
+360
+00:26:15,407 --> 00:26:18,638
+You and your father are both
+so blinded by the past.
+
+361
+00:26:21,167 --> 00:26:24,716
+Fisk's black market was up and running
+when he approached me.
+
+362
+00:26:25,967 --> 00:26:28,606
+He knew Adama would pick up
+on his unauthorised shuttles,
+
+363
+00:26:28,687 --> 00:26:31,838
+so he tried to force me
+into taking over the deliveries,
+
+364
+00:26:31,927 --> 00:26:35,681
+<i>creating a firewall between Pegasus
+and the illegal shipments.</i>
+
+365
+00:26:36,807 --> 00:26:39,640
+So you're trying to tell me
+that you turned him down?
+
+366
+00:26:40,327 --> 00:26:41,601
+At great cost.
+
+367
+00:26:42,567 --> 00:26:44,159
+Check the fleet logs,
+
+368
+00:26:44,247 --> 00:26:48,320
+<i>see how many supply ships made stops
+at the Astral Queen after Fisk's last trip.</i>
+
+369
+00:26:48,407 --> 00:26:49,522
+The answer is none.
+
+370
+00:26:49,607 --> 00:26:51,916
+So if Fisk was trying to starve you out,
+
+371
+00:26:52,247 --> 00:26:54,397
+why didn't you bring it to the Quorum?
+
+372
+00:26:55,287 --> 00:26:59,121
+Roslin's acting like the black market's
+some sort of aberration,
+
+373
+00:26:59,447 --> 00:27:01,722
+but I thought you were smarter than that.
+
+374
+00:27:03,287 --> 00:27:04,925
+Did you really expect
+
+375
+00:27:06,567 --> 00:27:09,798
+some utopian fantasy to rise from the ashes?
+
+376
+00:27:18,007 --> 00:27:20,077
+ZAREK: I heard the security officer.
+
+377
+00:27:21,687 --> 00:27:24,724
+They gave you Fisk's killer for a reason.
+
+378
+00:27:26,567 --> 00:27:28,398
+They're offering you a way out.
+
+379
+00:27:36,807 --> 00:27:38,638
+You know something, don't you?
+
+380
+00:27:39,287 --> 00:27:40,720
+Just rumours.
+
+381
+00:27:44,687 --> 00:27:47,679
+<i>There's a freighter, Prometheus.</i>
+
+382
+00:27:49,847 --> 00:27:52,042
+Some people say it's gone off the grid.
+
+383
+00:27:53,047 --> 00:27:55,163
+But if you want something bad enough,
+
+384
+00:27:55,447 --> 00:27:56,880
+that's where you go.
+
+385
+00:27:58,047 --> 00:28:02,165
+The deals are brokered
+by an ex-military mercenary named Phelan.
+
+386
+00:28:12,967 --> 00:28:14,082
+Lee.
+
+387
+00:28:15,487 --> 00:28:17,045
+I hope she's worth it.
+
+388
+00:28:18,967 --> 00:28:20,161
+(ZAREK SIGHS)
+
+389
+00:29:03,287 --> 00:29:04,925
+(PEOPLE CHATTERING)
+
+390
+00:29:37,967 --> 00:29:39,923
+Hey, man, biotics. Here.
+
+391
+00:29:48,167 --> 00:29:49,395
+(PAYA COUGHING)
+
+392
+00:29:50,327 --> 00:29:51,999
+(CHILDREN SOBBING)
+
+393
+00:29:57,287 --> 00:29:58,402
+Paya?
+
+394
+00:30:00,287 --> 00:30:04,075
+Paya! Paya! Hey, Paya.
+
+395
+00:30:06,647 --> 00:30:09,525
+Hey, it's okay.
+
+396
+00:30:10,167 --> 00:30:12,556
+It's Lee, do you remember? It's Lee.
+
+397
+00:30:13,247 --> 00:30:16,000
+You're gonna be fine, I promise you.
+
+398
+00:30:16,647 --> 00:30:20,720
+Okay, you just hang tight.
+I'll be right back. I'll be right back.
+
+399
+00:30:23,527 --> 00:30:24,880
+(SIGHING)
+
+400
+00:30:28,887 --> 00:30:30,639
+(PEOPLE CHATTERING)
+
+401
+00:31:16,247 --> 00:31:19,523
+You may find this hard to believe,
+but my father was in the service, too.
+
+402
+00:31:19,607 --> 00:31:23,122
+Strict as hell,
+probably the same as your old man.
+
+403
+00:31:23,847 --> 00:31:28,238
+But when the Cylons attacked, all his duty
+and honour didn't add up to squat.
+
+404
+00:31:30,087 --> 00:31:31,440
+Is she dead?
+
+405
+00:31:31,527 --> 00:31:34,325
+I can see why you want her back.
+She's one of my best.
+
+406
+00:31:35,207 --> 00:31:36,481
+One of yours?
+
+407
+00:31:44,967 --> 00:31:49,279
+A good escort understands
+it's about a lot more than sex.
+
+408
+00:31:50,087 --> 00:31:53,716
+PHELAN: She knows when to listen,
+and when to call for help.
+
+409
+00:31:54,167 --> 00:31:55,646
+Lee, I had to.
+
+410
+00:31:56,247 --> 00:31:57,566
+PHELAN: Don't blame her.
+
+411
+00:31:57,647 --> 00:31:58,716
+The only reason you're alive
+
+412
+00:31:58,807 --> 00:32:01,685
+is because I was able to see you
+through Shevon's eyes.
+
+413
+00:32:02,407 --> 00:32:04,523
+And what I saw seemed reasonable.
+
+414
+00:32:05,127 --> 00:32:06,480
+Like Fisk?
+
+415
+00:32:06,647 --> 00:32:08,205
+Fisk was a pig.
+
+416
+00:32:08,767 --> 00:32:11,406
+He tried to force us to renegotiate.
+
+417
+00:32:11,487 --> 00:32:12,715
+So you killed him.
+
+418
+00:32:12,807 --> 00:32:16,038
+No. I gave you the killer,
+
+419
+00:32:17,327 --> 00:32:19,522
+the murder weapon, the prints,
+
+420
+00:32:20,207 --> 00:32:23,961
+everything you needed
+to close the case legitimately.
+
+421
+00:32:25,087 --> 00:32:28,557
+Despite the President's objections,
+the Fleet needs us.
+
+422
+00:32:29,207 --> 00:32:32,597
+Rationing's too tight, ship comes in too late,
+we're the pressure valve.
+
+423
+00:32:32,687 --> 00:32:34,166
+We provide.
+
+424
+00:32:34,247 --> 00:32:37,842
+<i>PHELAN: When Shevon needed antibiotics,
+she knew where to go.</i>
+
+425
+00:32:38,487 --> 00:32:41,524
+<i>Without us, people would have
+nowhere to turn.</i>
+
+426
+00:32:42,047 --> 00:32:44,083
+The Fleet would tear itself apart.
+
+427
+00:32:46,167 --> 00:32:48,362
+And what about those children outside?
+
+428
+00:32:50,727 --> 00:32:52,285
+How are they
+
+429
+00:32:53,087 --> 00:32:54,440
+helping the Fleet?
+
+430
+00:32:58,167 --> 00:32:59,680
+Everyone has needs.
+
+431
+00:33:00,847 --> 00:33:03,202
+Some settle for cigars and liquor.
+
+432
+00:33:04,047 --> 00:33:05,400
+You wanted Shevon.
+
+433
+00:33:07,287 --> 00:33:09,801
+Others are more demanding.
+
+434
+00:33:15,007 --> 00:33:16,963
+It's hard to find the moral high ground
+
+435
+00:33:17,047 --> 00:33:19,561
+when we're all standing in the mud.
+
+436
+00:33:22,767 --> 00:33:26,123
+I'm not like my old man, Captain.
+
+437
+00:33:27,207 --> 00:33:29,437
+And you are not like yours.
+
+438
+00:33:47,527 --> 00:33:49,006
+I came alone,
+
+439
+00:33:49,847 --> 00:33:52,077
+<i>but Galactica tracked me on dradis.</i>
+
+440
+00:33:52,967 --> 00:33:56,039
+All they'll need to vent this ship into space
+is an excuse.
+
+441
+00:33:57,367 --> 00:33:58,846
+So let's make a deal.
+
+442
+00:33:59,727 --> 00:34:03,720
+I want Shevon, the girl,
+I walk out of here
+
+443
+00:34:04,007 --> 00:34:06,123
+and you shut down this operation.
+
+444
+00:34:06,727 --> 00:34:08,319
+And all of you will live.
+
+445
+00:34:08,407 --> 00:34:11,956
+Sorry, the little girl's been paid for.
+No refunds.
+
+446
+00:34:13,167 --> 00:34:15,397
+Oh, Gods. No!
+
+447
+00:34:23,127 --> 00:34:24,719
+- PHELAN: Wait.
+- Lee, don't.
+
+448
+00:34:26,167 --> 00:34:28,556
+Come on. Do it. Do it.
+
+449
+00:34:30,127 --> 00:34:32,880
+I made you a fair offer.
+
+450
+00:34:34,607 --> 00:34:36,359
+(MAN CHOKING)
+
+451
+00:34:37,647 --> 00:34:39,239
+So did I.
+
+452
+00:35:00,687 --> 00:35:03,042
+APOLLO: Yeah, you're probably right
+about everything.
+
+453
+00:35:03,127 --> 00:35:05,357
+You, me, Fisk.
+
+454
+00:35:06,967 --> 00:35:10,357
+Nobody can stop it.
+And maybe nobody should.
+
+455
+00:35:10,807 --> 00:35:12,525
+But it needs limits.
+
+456
+00:35:12,967 --> 00:35:16,039
+There's lines you can't cross
+and you've crossed them.
+
+457
+00:35:17,327 --> 00:35:18,885
+You're not gonna shoot.
+
+458
+00:35:20,207 --> 00:35:21,640
+You're not like me.
+
+459
+00:35:37,647 --> 00:35:39,046
+You're not gonna...
+
+460
+00:35:40,687 --> 00:35:42,439
+(MUMBLING)
+
+461
+00:35:47,887 --> 00:35:49,240
+(GASPING)
+
+462
+00:36:05,167 --> 00:36:06,964
+APOLLO: All right, it's done.
+
+463
+00:36:19,287 --> 00:36:21,801
+The Fleet relies on the black market.
+
+464
+00:36:22,767 --> 00:36:25,156
+Much as we'd like, we can't wish that away.
+
+465
+00:36:27,367 --> 00:36:29,119
+So you're still in business.
+
+466
+00:36:31,087 --> 00:36:32,281
+For now.
+
+467
+00:36:33,527 --> 00:36:35,563
+But if there are any more killings,
+
+468
+00:36:35,727 --> 00:36:37,797
+if you hold back essential medicines,
+
+469
+00:36:39,487 --> 00:36:41,955
+if you ever touch a child...
+
+470
+00:36:52,207 --> 00:36:53,276
+Shevon...
+
+471
+00:36:53,367 --> 00:36:54,356
+No, I don't want...
+
+472
+00:36:54,447 --> 00:36:56,722
+Hey, hey, it's over. It's okay.
+Everything's gonna be okay...
+
+473
+00:36:56,807 --> 00:36:58,957
+- Lee, Lee, no.
+- Hey. Shevon, it's over.
+
+474
+00:36:59,047 --> 00:37:00,162
+Stop.
+
+475
+00:37:02,167 --> 00:37:04,442
+I can't be what you want me to be.
+
+476
+00:37:05,807 --> 00:37:08,037
+I don't want you to be anything.
+
+477
+00:37:11,567 --> 00:37:13,398
+You want me to be her.
+
+478
+00:37:16,167 --> 00:37:17,680
+(SNIFFLING)
+
+479
+00:37:20,487 --> 00:37:22,125
+That's what this is about.
+
+480
+00:37:23,487 --> 00:37:25,682
+That's what this has always been about.
+
+481
+00:37:26,407 --> 00:37:30,195
+No. That's not what
+this has ever been about.
+
+482
+00:37:30,887 --> 00:37:32,957
+Come on, Lee. I know my job.
+
+483
+00:37:35,807 --> 00:37:37,365
+I'm a replacement.
+
+484
+00:37:38,127 --> 00:37:40,004
+For a lot of things.
+
+485
+00:37:41,687 --> 00:37:43,917
+Things that men can't get anywhere else.
+
+486
+00:37:45,167 --> 00:37:46,919
+<i>SHEVON: Things they've lost.</i>
+
+487
+00:37:49,287 --> 00:37:51,596
+She wanted to give you a child.
+
+488
+00:37:58,767 --> 00:38:00,325
+<i>But you were afraid,</i>
+
+489
+00:38:00,847 --> 00:38:04,522
+<i>so you pushed her away and then you ran,</i>
+
+490
+00:38:05,127 --> 00:38:08,164
+<i>and you didn't stop running
+until it was too late.</i>
+
+491
+00:38:20,767 --> 00:38:22,644
+Well, I'm not her.
+
+492
+00:38:23,847 --> 00:38:26,964
+And Paya is not,
+and will never be, your child.
+
+493
+00:38:41,607 --> 00:38:43,677
+APOLLO: Commander Fisk's murder
+has been resolved
+
+494
+00:38:43,767 --> 00:38:47,396
+<i>and Pegasus' crew appears
+to have accepted Galactica's conclusions.</i>
+
+495
+00:38:49,287 --> 00:38:51,005
+That's all, Madam President.
+
+496
+00:38:53,007 --> 00:38:56,363
+<i>Not quite. What about this ship Prometheus?</i>
+
+497
+00:38:56,847 --> 00:39:00,157
+I understand it's the hub
+of the Fleet's black market.
+
+498
+00:39:01,047 --> 00:39:02,799
+We will keep an eye on them.
+
+499
+00:39:03,767 --> 00:39:05,200
+Keep an eye on them.
+
+500
+00:39:05,607 --> 00:39:08,121
+That's not exactly the solution I had in mind.
+
+501
+00:39:09,327 --> 00:39:12,319
+Whether or not we allow
+a criminal enterprise to thrive in this Fleet
+
+502
+00:39:12,407 --> 00:39:14,523
+is not a matter of choice, Captain.
+
+503
+00:39:17,607 --> 00:39:18,881
+Admiral?
+
+504
+00:39:19,567 --> 00:39:21,797
+I've given Lee full authority on this issue.
+
+505
+00:39:21,887 --> 00:39:23,366
+The decision is his.
+
+506
+00:39:25,967 --> 00:39:29,676
+I support your trade policies wholeheartedly,
+Madam President,
+
+507
+00:39:30,407 --> 00:39:32,363
+but we are never gonna have
+a perfect system.
+
+508
+00:39:32,447 --> 00:39:35,041
+There will always be
+some kind of black market.
+
+509
+00:39:35,647 --> 00:39:39,356
+At least this way I know names, I know faces,
+I know where they are
+
+510
+00:39:39,447 --> 00:39:41,802
+and we will monitor the situation.
+
+511
+00:39:45,287 --> 00:39:47,198
+Thank you, gentlemen, I'm busy.
+
+512
+00:39:51,807 --> 00:39:53,286
+(PEOPLE CHATTERING)
+
+513
+00:40:04,487 --> 00:40:07,126
+BILLY: Eighteen. I'm starting to sweat here.
+Nineteen...
+
+514
+00:40:07,207 --> 00:40:08,401
+- You should be sweating.
+- Twenty...
+
+515
+00:40:08,487 --> 00:40:09,761
+Why aren't you doing any of these?
+
+516
+00:40:09,847 --> 00:40:11,405
+No talking, no talking, please.
+
+517
+00:40:11,487 --> 00:40:14,047
+No cheating. Hold it up, a little higher.
+
+518
+00:40:14,127 --> 00:40:15,276
+(CHUCKLING)
+
+519
+00:40:16,047 --> 00:40:18,481
+- Sneaky.
+- Eight, nine...
+
+520
+00:40:19,327 --> 00:40:20,555
+- Start again.
+- You aren't serious.
+
+521
+00:40:20,647 --> 00:40:21,841
+Zero...
+
+522
+00:40:25,207 --> 00:40:26,481
+Well? No?
+
+523
+00:40:28,527 --> 00:40:30,882
+President wasn't very happy today.
+
+524
+00:40:31,207 --> 00:40:32,322
+No.
+
+525
+00:40:37,007 --> 00:40:40,602
+Ever since you ejected from the Blackbird,
+you've been different.
+
+526
+00:40:43,207 --> 00:40:44,720
+Harder to reach.
+
+527
+00:40:46,247 --> 00:40:48,636
+I'm just trying to understand.
+
+528
+00:40:51,007 --> 00:40:55,205
+Well, like you said, Dad,
+we've all been through a lot.
+
+529
+00:40:57,527 --> 00:40:58,721
+Fair enough.
+
+530
+00:41:01,047 --> 00:41:03,481
+But you should have told me
+about the woman.
+

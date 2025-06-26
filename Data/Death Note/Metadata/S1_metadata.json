@@ -1,0 +1,298 @@
+{
+    "1": {
+        "title": "Rebirth",
+        "released": "2007-10-21",
+        "rating": "8.4",
+        "imdb_id": "tt0885243",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Confrontation",
+        "released": "2007-10-28",
+        "rating": "8.9",
+        "imdb_id": "tt0900488",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Dealings",
+        "released": "2007-11-04",
+        "rating": "8.4",
+        "imdb_id": "tt0909466",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Pursuit",
+        "released": "2007-11-11",
+        "rating": "8.7",
+        "imdb_id": "tt0901528",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Tactics",
+        "released": "2007-11-18",
+        "rating": "8.5",
+        "imdb_id": "tt0903684",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Unraveling",
+        "released": "2007-11-25",
+        "rating": "8.2",
+        "imdb_id": "tt0905451",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Overcast",
+        "released": "2007-12-02",
+        "rating": "9.1",
+        "imdb_id": "tt0919367",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Glare",
+        "released": "2007-12-09",
+        "rating": "8.4",
+        "imdb_id": "tt0919369",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Encounter",
+        "released": "2007-12-16",
+        "rating": "8.5",
+        "imdb_id": "tt0919370",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Doubt",
+        "released": "2007-12-23",
+        "rating": "8.1",
+        "imdb_id": "tt0919368",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Assault",
+        "released": "2006-12-12",
+        "rating": "8.7",
+        "imdb_id": "tt0919371",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Love",
+        "released": "2006-12-26",
+        "rating": "8.2",
+        "imdb_id": "tt0924022",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Confession",
+        "released": "2007-01-09",
+        "rating": "8.3",
+        "imdb_id": "tt0924023",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Friend",
+        "released": "2007-01-16",
+        "rating": "8.2",
+        "imdb_id": "tt0947907",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Wager",
+        "released": "2007-01-23",
+        "rating": "8.8",
+        "imdb_id": "tt0947906",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Decision",
+        "released": "2007-01-30",
+        "rating": "8.3",
+        "imdb_id": "tt0950512",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Execution",
+        "released": "2007-02-06",
+        "rating": "8.0",
+        "imdb_id": "tt0950513",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Ally",
+        "released": "2007-02-13",
+        "rating": "7.3",
+        "imdb_id": "tt0954288",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Matsuda",
+        "released": "2007-02-20",
+        "rating": "7.6",
+        "imdb_id": "tt0961420",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Makeshift",
+        "released": "2007-02-27",
+        "rating": "7.3",
+        "imdb_id": "tt0966785",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Performance",
+        "released": "2007-03-06",
+        "rating": "7.7",
+        "imdb_id": "tt0972446",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Guidance",
+        "released": "2007-03-13",
+        "rating": "8.1",
+        "imdb_id": "tt0972447",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Frenzy",
+        "released": "2007-03-20",
+        "rating": "8.8",
+        "imdb_id": "tt0983351",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Revival",
+        "released": "2007-03-27",
+        "rating": "9.3",
+        "imdb_id": "tt0990612",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Silence",
+        "released": "2007-04-03",
+        "rating": "9.5",
+        "imdb_id": "tt0990611",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Renewal",
+        "released": "2007-04-10",
+        "rating": "N/A",
+        "imdb_id": "tt0990613",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Abduction",
+        "released": "2007-04-17",
+        "rating": "N/A",
+        "imdb_id": "tt1007230",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Impatience",
+        "released": "2007-04-24",
+        "rating": "N/A",
+        "imdb_id": "tt1010095",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Father",
+        "released": "2007-05-01",
+        "rating": "N/A",
+        "imdb_id": "tt1021402",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Justice",
+        "released": "2007-05-08",
+        "rating": "7.6",
+        "imdb_id": "tt1021404",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Transfer",
+        "released": "2007-05-15",
+        "rating": "7.6",
+        "imdb_id": "tt1021403",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Selection",
+        "released": "2007-05-22",
+        "rating": "N/A",
+        "imdb_id": "tt1029789",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Scorn",
+        "released": "2007-05-29",
+        "rating": "N/A",
+        "imdb_id": "tt1029788",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "Vigilance",
+        "released": "2007-06-05",
+        "rating": "N/A",
+        "imdb_id": "tt1043073",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Malice",
+        "released": "2007-06-12",
+        "rating": "7.9",
+        "imdb_id": "tt1043074",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "1.28",
+        "released": "2007-06-19",
+        "rating": "8.9",
+        "imdb_id": "tt1044252",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "New World",
+        "released": "2007-06-26",
+        "rating": "8.6",
+        "imdb_id": "tt1043075",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

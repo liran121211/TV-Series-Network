@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "The Engagement",
+        "released": "1995-09-21",
+        "rating": "8.6",
+        "imdb_id": "tt0697690",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S7\\Seinfeld.S07.E01-23.DVDRip.x264-DiGGS7E1.zip"
+    },
+    "2": {
+        "title": "The Postponement",
+        "released": "1995-09-28",
+        "rating": "8.2",
+        "imdb_id": "tt0697759",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Maestro",
+        "released": "1995-10-05",
+        "rating": "8.0",
+        "imdb_id": "tt0697726",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Wink",
+        "released": "1995-10-12",
+        "rating": "8.6",
+        "imdb_id": "tt0697812",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Hot Tub",
+        "released": "1995-10-19",
+        "rating": "8.5",
+        "imdb_id": "tt0697710",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Soup Nazi",
+        "released": "1995-11-02",
+        "rating": "9.5",
+        "imdb_id": "tt0697782",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Secret Code",
+        "released": "1995-11-09",
+        "rating": "8.4",
+        "imdb_id": "tt0697771",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Pool Guy",
+        "released": "1995-11-16",
+        "rating": "8.3",
+        "imdb_id": "tt0697758",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Sponge",
+        "released": "1995-12-07",
+        "rating": "8.3",
+        "imdb_id": "tt0697783",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Gum",
+        "released": "1995-12-14",
+        "rating": "8.5",
+        "imdb_id": "tt0697705",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Rye",
+        "released": "1996-01-04",
+        "rating": "8.8",
+        "imdb_id": "tt0697769",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Caddy",
+        "released": "1996-01-25",
+        "rating": "8.6",
+        "imdb_id": "tt0697666",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Seven",
+        "released": "1996-02-01",
+        "rating": "8.1",
+        "imdb_id": "tt0697774",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Cadillac",
+        "released": "1996-02-08",
+        "rating": "8.5",
+        "imdb_id": "tt0697667",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Shower Head",
+        "released": "1996-02-15",
+        "rating": "8.4",
+        "imdb_id": "tt0697776",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Doll",
+        "released": "1996-02-22",
+        "rating": "8.1",
+        "imdb_id": "tt0697687",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Friars Club",
+        "released": "1996-03-07",
+        "rating": "7.7",
+        "imdb_id": "tt0697700",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Wig Master",
+        "released": "1996-04-04",
+        "rating": "8.1",
+        "imdb_id": "tt0697811",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Calzone",
+        "released": "1996-04-25",
+        "rating": "8.7",
+        "imdb_id": "tt0697669",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Bottle Deposit",
+        "released": "1996-05-02",
+        "rating": "8.6",
+        "imdb_id": "tt0697660",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Wait Out",
+        "released": "1996-05-09",
+        "rating": "8.3",
+        "imdb_id": "tt0697807",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Invitations",
+        "released": "1996-05-16",
+        "rating": "8.6",
+        "imdb_id": "tt0697712",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

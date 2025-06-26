@@ -1,0 +1,34 @@
+{
+    "1": {
+        "title": "Three Act Tragedy",
+        "released": "2011-06-19",
+        "rating": "7.7",
+        "imdb_id": "tt1469899",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S12\\Agatha_Christie's_Poirot_(David_Suchet)_S12E01_1080p_H.264_(moviesbyrizzo)S12E1.zip"
+    },
+    "2": {
+        "title": "Hallowe'en Party",
+        "released": "2011-07-03",
+        "rating": "7.8",
+        "imdb_id": "tt1535120",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Murder on the Orient Express",
+        "released": "2010-07-11",
+        "rating": "8.0",
+        "imdb_id": "tt1554113",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Clocks",
+        "released": "2011-06-26",
+        "rating": "7.9",
+        "imdb_id": "tt0981209",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "1": {
+        "title": "The Shot",
+        "released": "2025-01-07",
+        "rating": "8.0",
+        "imdb_id": "tt32125239",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S7\\The.Rookie.S07E18.WEB (SDH).zip"
+    },
+    "2": {
+        "title": "The Watcher",
+        "released": "2025-01-14",
+        "rating": "N/A",
+        "imdb_id": "tt34741907",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Out of Pocket",
+        "released": "2025-01-21",
+        "rating": "N/A",
+        "imdb_id": "tt34741909",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Darkness Falling",
+        "released": "2025-01-28",
+        "rating": "N/A",
+        "imdb_id": "tt34741910",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Til Death",
+        "released": "2025-02-04",
+        "rating": "8.1",
+        "imdb_id": "tt34741932",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S7\\The_Rookie__S07E05_720p_AMZN_Webrip_x264__Web-DL_Ntb_FLUX_ENGS7E5.zip"
+    },
+    "6": {
+        "title": "The Gala",
+        "released": "2025-02-11",
+        "rating": "N/A",
+        "imdb_id": "tt34741967",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Mickey",
+        "released": "2025-02-18",
+        "rating": "8.1",
+        "imdb_id": "tt34741968",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Wildfire",
+        "released": "2025-02-25",
+        "rating": "8.5",
+        "imdb_id": "tt34741970",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S7\\The.Rookie.S07E18.WEB (SDH).zip"
+    },
+    "9": {
+        "title": "The Kiss",
+        "released": "2025-03-11",
+        "rating": "N/A",
+        "imdb_id": "tt34902666",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Chaos Agent",
+        "released": "2025-03-18",
+        "rating": "N/A",
+        "imdb_id": "tt35700378",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Speed",
+        "released": "2025-03-25",
+        "rating": "N/A",
+        "imdb_id": "tt36139872",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "April Fools",
+        "released": "2025-04-01",
+        "rating": "7.5",
+        "imdb_id": "tt36133659",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Three Billboards",
+        "released": "2025-04-08",
+        "rating": "N/A",
+        "imdb_id": "tt36291396",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Mad About Murder",
+        "released": "2025-04-15",
+        "rating": "8.1",
+        "imdb_id": "tt36331885",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "A Deadly Secret",
+        "released": "2025-04-22",
+        "rating": "N/A",
+        "imdb_id": "tt36331887",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Return",
+        "released": "2025-04-29",
+        "rating": "8.4",
+        "imdb_id": "tt36331891",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Mutiny and the Bounty",
+        "released": "2025-05-06",
+        "rating": "N/A",
+        "imdb_id": "tt36331895",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Good, The Bad & The Oscar",
+        "released": "2025-07-02",
+        "rating": "N/A",
+        "imdb_id": "tt36331898",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S7\\The.Rookie.S07E18.WEB (SDH).zip"
+    }
+}

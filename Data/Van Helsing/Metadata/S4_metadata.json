@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Dark Destiny",
+        "released": "2019-09-27",
+        "rating": "7.0",
+        "imdb_id": "tt9578146",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Dark Ties",
+        "released": "2019-10-04",
+        "rating": "7.2",
+        "imdb_id": "tt9578148",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Love Less",
+        "released": "2019-10-11",
+        "rating": "7.1",
+        "imdb_id": "tt9578150",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Broken Promises",
+        "released": "2019-10-18",
+        "rating": "7.4",
+        "imdb_id": "tt9578152",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Liberty or Death",
+        "released": "2019-10-25",
+        "rating": "7.4",
+        "imdb_id": "tt9578154",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Miles and Miles",
+        "released": "2019-11-01",
+        "rating": "7.1",
+        "imdb_id": "tt9578158",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Metamorphosis",
+        "released": "2019-11-08",
+        "rating": "7.4",
+        "imdb_id": "tt9578160",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Prism",
+        "released": "2019-11-15",
+        "rating": "N/A",
+        "imdb_id": "tt9578162",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Together Forever",
+        "released": "2019-11-29",
+        "rating": "7.4",
+        "imdb_id": "tt9578188",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "All Apologies",
+        "released": "2019-12-06",
+        "rating": "7.4",
+        "imdb_id": "tt9578190",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Three Pages",
+        "released": "2019-12-13",
+        "rating": "7.3",
+        "imdb_id": "tt9578194",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Beholder",
+        "released": "2019-12-20",
+        "rating": "6.5",
+        "imdb_id": "tt9578196",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

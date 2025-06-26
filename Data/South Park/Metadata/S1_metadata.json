@@ -1,0 +1,114 @@
+{
+    "0": {
+        "title": "Unaired Pilot",
+        "released": "1997-08-13",
+        "rating": "7.5",
+        "imdb_id": "tt3221326",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "1": {
+        "title": "Cartman Gets an Anal Probe",
+        "released": "1997-08-13",
+        "rating": "7.9",
+        "imdb_id": "tt0394893",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\South Park\\Subtitles\\S1\\South.Park.S01E01.Cartman.Gets.an.Anal.Probe.1080p.BluRay.REMUX.AVC.TrueHD.5.1-EPSiLONS1E1.zip"
+    },
+    "2": {
+        "title": "Weight Gain 4000",
+        "released": "1997-08-27",
+        "rating": "7.5",
+        "imdb_id": "tt0705982",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\South Park\\Subtitles\\S1\\South.Park.S01E02.720p.BluRay.X264-REWARDS1E2.zip"
+    },
+    "3": {
+        "title": "Volcano",
+        "released": "1997-08-20",
+        "rating": "7.6",
+        "imdb_id": "tt0705981",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\South Park\\Subtitles\\S1\\South.Park.S01E03.720p.BluRay.X264-REWARDS1E3.zip"
+    },
+    "4": {
+        "title": "Big Gay Al's Big Gay Boat Ride",
+        "released": "1997-09-03",
+        "rating": "7.6",
+        "imdb_id": "tt0705897",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\South Park\\Subtitles\\S1\\South.Park.S01E04.720p.BluRay.X264-REWARDS1E4.zip"
+    },
+    "5": {
+        "title": "An Elephant Makes Love to a Pig",
+        "released": "1997-09-10",
+        "rating": "7.4",
+        "imdb_id": "tt0705894",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Death",
+        "released": "1997-09-17",
+        "rating": "N/A",
+        "imdb_id": "tt0705920",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Pinkeye",
+        "released": "1997-10-29",
+        "rating": "8.3",
+        "imdb_id": "tt0705948",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Starvin' Marvin",
+        "released": "1997-11-19",
+        "rating": "N/A",
+        "imdb_id": "tt0705964",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Mr. Hankey, the Christmas Poo",
+        "released": "1997-12-17",
+        "rating": "8.1",
+        "imdb_id": "tt0705945",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Damien",
+        "released": "1998-02-04",
+        "rating": "7.8",
+        "imdb_id": "tt0705919",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Tom's Rhinoplasty",
+        "released": "1998-02-11",
+        "rating": "7.9",
+        "imdb_id": "tt0705976",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Mecha-Streisand",
+        "released": "1998-02-18",
+        "rating": "7.5",
+        "imdb_id": "tt0705941",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Cartman's Mom Is a Dirty Slut",
+        "released": "1998-02-25",
+        "rating": "8.6",
+        "imdb_id": "tt0705904",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

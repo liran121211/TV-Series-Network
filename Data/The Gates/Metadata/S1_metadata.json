@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2010-06-20",
+        "rating": "N/A",
+        "imdb_id": "tt1669488",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "What Lies Beneath",
+        "released": "2010-06-27",
+        "rating": "N/A",
+        "imdb_id": "tt1669489",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Digging the Dirt",
+        "released": "2010-08-08",
+        "rating": "N/A",
+        "imdb_id": "tt1677431",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Dog Eat Dog",
+        "released": "2010-08-15",
+        "rating": "N/A",
+        "imdb_id": "tt1677432",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Little Girl Lost",
+        "released": "2010-09-05",
+        "rating": "N/A",
+        "imdb_id": "tt1677435",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Surfacing",
+        "released": "2010-09-12",
+        "rating": "N/A",
+        "imdb_id": "tt1695326",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Bad Moon Rising",
+        "released": "2010-09-19",
+        "rating": "N/A",
+        "imdb_id": "tt1695325",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Moving Day",
+        "released": "2010-09-19",
+        "rating": "N/A",
+        "imdb_id": "tt1720776",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

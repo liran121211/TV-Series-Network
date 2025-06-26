@@ -1,0 +1,20 @@
+Credit for the subs goes to aMvEL.
+He ripped the subs from the Subpack and removed HI.
+
+
+I fixed 3 lines errors. Xenzai[NEF] 
+
+
+*******************************************************
+
+To fix 3 lines is easy to do with Subtitle Workshop.(Freeware)
+Google is your friend.... ;-)
+
+Install the program > Start up the program.
+
+File > Load Subtitle > find the subtitle you want to fix >
+Tools > Information and errors > Information and errors > Fix errors > OK.
+PS The fix can create other problem with the subtitle.
+ALWAYS USE A COPY OF THE SUBTITLE YOU WANT TO FIX.
+
+  

@@ -1,0 +1,802 @@
+{
+    "1": {
+        "title": "Episode #1.1",
+        "released": "1987-03-23",
+        "rating": "N/A",
+        "imdb_id": "tt0856459",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #1.3",
+        "released": "1987-03-25",
+        "rating": "4.2",
+        "imdb_id": "tt0856461",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #1.5",
+        "released": "1987-03-27",
+        "rating": "3.0",
+        "imdb_id": "tt0856464",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #1.6",
+        "released": "1987-03-30",
+        "rating": "N/A",
+        "imdb_id": "tt0856465",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #1.7",
+        "released": "1987-03-31",
+        "rating": "3.0",
+        "imdb_id": "tt0856466",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Episode #1.15",
+        "released": "1987-04-10",
+        "rating": "N/A",
+        "imdb_id": "tt1027288",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Episode #1.17",
+        "released": "1987-04-14",
+        "rating": "N/A",
+        "imdb_id": "tt1027290",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Episode #1.24",
+        "released": "1987-04-23",
+        "rating": "N/A",
+        "imdb_id": "tt1027297",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Episode #1.28",
+        "released": "1987-04-29",
+        "rating": "N/A",
+        "imdb_id": "tt1044029",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Episode #1.29",
+        "released": "1987-04-30",
+        "rating": "6.8",
+        "imdb_id": "tt1044030",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Episode #1.37",
+        "released": "1987-05-12",
+        "rating": "N/A",
+        "imdb_id": "tt1044038",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Episode #1.46",
+        "released": "1987-05-25",
+        "rating": "N/A",
+        "imdb_id": "tt1044047",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "Episode #1.48",
+        "released": "1987-05-27",
+        "rating": "N/A",
+        "imdb_id": "tt1044049",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "69": {
+        "title": "Episode #1.69",
+        "released": "1987-06-25",
+        "rating": "N/A",
+        "imdb_id": "tt1044072",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "71": {
+        "title": "Episode #1.71",
+        "released": "1987-06-29",
+        "rating": "N/A",
+        "imdb_id": "tt1044074",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "72": {
+        "title": "Episode #1.72",
+        "released": "1987-06-30",
+        "rating": "N/A",
+        "imdb_id": "tt1044075",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "80": {
+        "title": "Episode #1.80",
+        "released": "1987-07-10",
+        "rating": "N/A",
+        "imdb_id": "tt1047151",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "81": {
+        "title": "Episode #1.81",
+        "released": "1987-07-13",
+        "rating": "N/A",
+        "imdb_id": "tt1047152",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "84": {
+        "title": "Episode #1.84",
+        "released": "1987-07-16",
+        "rating": "N/A",
+        "imdb_id": "tt1047155",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "85": {
+        "title": "Episode #1.85",
+        "released": "1987-07-17",
+        "rating": "N/A",
+        "imdb_id": "tt1047156",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "91": {
+        "title": "Episode #1.91",
+        "released": "1987-07-27",
+        "rating": "N/A",
+        "imdb_id": "tt1047162",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "93": {
+        "title": "Episode #1.93",
+        "released": "1987-07-29",
+        "rating": "N/A",
+        "imdb_id": "tt1047163",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "94": {
+        "title": "Episode #1.94",
+        "released": "1987-07-30",
+        "rating": "N/A",
+        "imdb_id": "tt1047164",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "98": {
+        "title": "Episode #1.98",
+        "released": "1987-08-05",
+        "rating": "N/A",
+        "imdb_id": "tt1047168",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "99": {
+        "title": "Episode #1.99",
+        "released": "1987-08-06",
+        "rating": "N/A",
+        "imdb_id": "tt1047169",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "118": {
+        "title": "Episode #1.118",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1056555",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "120": {
+        "title": "Episode #1.120",
+        "released": "1987-09-22",
+        "rating": "N/A",
+        "imdb_id": "tt1056557",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "121": {
+        "title": "Episode #1.121",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1056558",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "140": {
+        "title": "Episode #1.140",
+        "released": "1987-10-20",
+        "rating": "N/A",
+        "imdb_id": "tt1056578",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "151": {
+        "title": "Episode #1.151",
+        "released": "1987-11-04",
+        "rating": "N/A",
+        "imdb_id": "tt1025285",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "159": {
+        "title": "Episode #1.159",
+        "released": "1987-11-16",
+        "rating": "N/A",
+        "imdb_id": "tt1065634",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "160": {
+        "title": "Episode #1.160",
+        "released": "1987-11-17",
+        "rating": "N/A",
+        "imdb_id": "tt1032335",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "162": {
+        "title": "Episode #1.162",
+        "released": "1987-11-19",
+        "rating": "N/A",
+        "imdb_id": "tt1065636",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "163": {
+        "title": "Episode #1.163",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1065637",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "164": {
+        "title": "Episode #1.164",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1065638",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "165": {
+        "title": "Episode #1.165",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1065639",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "166": {
+        "title": "Episode #1.166",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1065640",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "167": {
+        "title": "Episode #1.167",
+        "released": "1987-11-30",
+        "rating": "N/A",
+        "imdb_id": "tt1065641",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "168": {
+        "title": "Episode #1.168",
+        "released": "1987-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt1065642",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "169": {
+        "title": "Episode #1.169",
+        "released": "1987-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt1032336",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "170": {
+        "title": "Episode #1.170",
+        "released": "1987-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt1032337",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "176": {
+        "title": "Episode #1.176",
+        "released": "1987-11-23",
+        "rating": "N/A",
+        "imdb_id": "tt1088047",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "178": {
+        "title": "Episode #1.178",
+        "released": "1987-11-25",
+        "rating": "N/A",
+        "imdb_id": "tt1088049",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "179": {
+        "title": "Episode #1.179",
+        "released": "1987-11-27",
+        "rating": "N/A",
+        "imdb_id": "tt1088050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "181": {
+        "title": "Episode #1.181",
+        "released": "1987-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt1088052",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "182": {
+        "title": "Episode #1.182",
+        "released": "1987-12-02",
+        "rating": "N/A",
+        "imdb_id": "tt1088053",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "183": {
+        "title": "Episode #1.183",
+        "released": "1987-12-03",
+        "rating": "N/A",
+        "imdb_id": "tt1088054",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "184": {
+        "title": "Episode #1.184",
+        "released": "1987-12-04",
+        "rating": "N/A",
+        "imdb_id": "tt1088055",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "186": {
+        "title": "Episode #1.186",
+        "released": "1987-12-08",
+        "rating": "N/A",
+        "imdb_id": "tt1088057",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "187": {
+        "title": "Episode #1.187",
+        "released": "1987-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt1088058",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "188": {
+        "title": "Episode #1.188",
+        "released": "1987-12-10",
+        "rating": "N/A",
+        "imdb_id": "tt1088059",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "190": {
+        "title": "Episode #1.190",
+        "released": "1987-12-14",
+        "rating": "N/A",
+        "imdb_id": "tt1088061",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "192": {
+        "title": "Episode #1.192",
+        "released": "1988-01-07",
+        "rating": "N/A",
+        "imdb_id": "tt1088063",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "193": {
+        "title": "Episode #1.193",
+        "released": "1988-01-08",
+        "rating": "N/A",
+        "imdb_id": "tt1088064",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "203": {
+        "title": "Episode #1.203",
+        "released": "1988-01-04",
+        "rating": "N/A",
+        "imdb_id": "tt1084120",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "204": {
+        "title": "Episode #1.204",
+        "released": "1988-01-05",
+        "rating": "N/A",
+        "imdb_id": "tt1084121",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "205": {
+        "title": "Episode #1.205",
+        "released": "1988-01-06",
+        "rating": "N/A",
+        "imdb_id": "tt1084122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "206": {
+        "title": "Episode #1.206",
+        "released": "1988-01-07",
+        "rating": "N/A",
+        "imdb_id": "tt1084123",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "207": {
+        "title": "Episode #1.207",
+        "released": "1988-01-08",
+        "rating": "N/A",
+        "imdb_id": "tt1084124",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "208": {
+        "title": "Episode #1.208",
+        "released": "1988-02-01",
+        "rating": "N/A",
+        "imdb_id": "tt1084125",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "209": {
+        "title": "Episode #1.209",
+        "released": "1988-01-12",
+        "rating": "N/A",
+        "imdb_id": "tt1084126",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "210": {
+        "title": "Episode #1.210",
+        "released": "1988-01-13",
+        "rating": "N/A",
+        "imdb_id": "tt1084127",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "211": {
+        "title": "Episode #1.211",
+        "released": "1988-01-14",
+        "rating": "N/A",
+        "imdb_id": "tt1084128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "212": {
+        "title": "Episode #1.212",
+        "released": "1988-01-15",
+        "rating": "N/A",
+        "imdb_id": "tt1084129",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "213": {
+        "title": "Episode #1.213",
+        "released": "1988-01-18",
+        "rating": "N/A",
+        "imdb_id": "tt1084130",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "214": {
+        "title": "Episode #1.214",
+        "released": "1988-02-09",
+        "rating": "N/A",
+        "imdb_id": "tt1084131",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "233": {
+        "title": "Episode #1.233",
+        "released": "1988-03-08",
+        "rating": "N/A",
+        "imdb_id": "tt1088092",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "235": {
+        "title": "Episode #1.235",
+        "released": "1988-03-10",
+        "rating": "N/A",
+        "imdb_id": "tt1088094",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "244": {
+        "title": "Episode #1.244",
+        "released": "1988-03-23",
+        "rating": "N/A",
+        "imdb_id": "tt1092103",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "246": {
+        "title": "Episode #1.246",
+        "released": "1988-03-25",
+        "rating": "N/A",
+        "imdb_id": "tt1084132",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "247": {
+        "title": "Episode #1.247",
+        "released": "1988-03-04",
+        "rating": "N/A",
+        "imdb_id": "tt1084133",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "248": {
+        "title": "Episode #1.248",
+        "released": "1988-03-29",
+        "rating": "N/A",
+        "imdb_id": "tt1092105",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "251": {
+        "title": "Episode #1.251",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1092107",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "300": {
+        "title": "Episode #1.300",
+        "released": "1988-06-09",
+        "rating": "N/A",
+        "imdb_id": "tt1073732",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "307": {
+        "title": "Episode #1.307",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284146",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "308": {
+        "title": "Episode #1.308",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284147",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "309": {
+        "title": "Episode #1.309",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284148",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "310": {
+        "title": "Episode #1.310",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284149",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "311": {
+        "title": "Episode #1.311",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284150",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "312": {
+        "title": "Episode #1.312",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284151",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "313": {
+        "title": "Episode #1.313",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284152",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "314": {
+        "title": "Episode #1.314",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284153",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "315": {
+        "title": "Episode #1.315",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284154",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "316": {
+        "title": "Episode #1.316",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284155",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "317": {
+        "title": "Episode #1.317",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284156",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "318": {
+        "title": "Episode #1.318",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284157",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "319": {
+        "title": "Episode #1.319",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284158",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "320": {
+        "title": "Episode #1.320",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284159",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "321": {
+        "title": "Episode #1.321",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284160",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "322": {
+        "title": "Episode #1.322",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284161",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "323": {
+        "title": "Episode #1.323",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284162",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "324": {
+        "title": "Episode #1.324",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284163",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "325": {
+        "title": "Episode #1.325",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1284164",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "327": {
+        "title": "Episode #1.327",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1302329",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "328": {
+        "title": "Episode #1.328",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1302330",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "329": {
+        "title": "Episode #1.329",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1302331",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "330": {
+        "title": "Episode #1.330",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1302332",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "331": {
+        "title": "Episode #1.331",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1302333",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "332": {
+        "title": "Episode #1.332",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1302334",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "333": {
+        "title": "Episode #1.333",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1302335",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

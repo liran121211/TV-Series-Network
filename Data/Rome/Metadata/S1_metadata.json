@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "The Stolen Eagle",
+        "released": "2005-08-28",
+        "rating": "8.0",
+        "imdb_id": "tt0688358",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S1\\Rome.S01E01.720p.BluRay.DTS.x264-CtrlHDS1E1.zip"
+    },
+    "2": {
+        "title": "How Titus Pullo Brought Down the Republic",
+        "released": "2005-09-04",
+        "rating": "8.2",
+        "imdb_id": "tt0688352",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S1\\Rome_2006_720p_S01E02_HDTV_AC3.x264-DiRS1E2.zip"
+    },
+    "3": {
+        "title": "An Owl in a Thornbush",
+        "released": "2005-09-11",
+        "rating": "8.0",
+        "imdb_id": "tt0688349",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S1\\Rome_2006_720p_S01E03_HDTV_AC3.x264-DiRS1E3.zip"
+    },
+    "4": {
+        "title": "Stealing from Saturn",
+        "released": "2005-09-18",
+        "rating": "N/A",
+        "imdb_id": "tt0688354",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S1\\Rome_2006_720p_S01E04_HDTV_AC3.x264-DiRS1E4.zip"
+    },
+    "5": {
+        "title": "The Ram Has Touched the Wall",
+        "released": "2005-09-25",
+        "rating": "8.1",
+        "imdb_id": "tt0688356",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S1\\Rome_2006_720p_S01E05_HDTV_AC3.x264-DiRS1E5.zip"
+    },
+    "6": {
+        "title": "Egeria",
+        "released": "2005-10-02",
+        "rating": "8.0",
+        "imdb_id": "tt0688351",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S1\\Rome_2006_720p_S01E06_HDTV_AC3.x264-DiRS1E6.zip"
+    },
+    "7": {
+        "title": "Pharsalus",
+        "released": "2005-10-09",
+        "rating": "N/A",
+        "imdb_id": "tt0688353",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S1\\Rome_2006_720p_S01E07_HDTV_AC3.x264-DiRS1E7.zip"
+    },
+    "8": {
+        "title": "Caesarion",
+        "released": "2005-10-16",
+        "rating": "8.4",
+        "imdb_id": "tt0688350",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S1\\Rome_2006_720p_S01E08_HDTV_AC3.x264-DiRS1E8.zip"
+    },
+    "9": {
+        "title": "Utica",
+        "released": "2005-10-30",
+        "rating": "8.2",
+        "imdb_id": "tt0688360",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Rome\\Subtitles\\S1\\Rome_2006_720p_S01E09_HDTV_AC3.x264-DiRS1E9.zip"
+    },
+    "10": {
+        "title": "Triumph",
+        "released": "2005-11-06",
+        "rating": "N/A",
+        "imdb_id": "tt0688359",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Spoils",
+        "released": "2005-11-13",
+        "rating": "8.9",
+        "imdb_id": "tt0688357",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Kalends of February",
+        "released": "2005-11-20",
+        "rating": "N/A",
+        "imdb_id": "tt0688355",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

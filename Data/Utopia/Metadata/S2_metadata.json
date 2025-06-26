@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Episode #2.1",
+        "released": "2014-07-14",
+        "rating": "9.1",
+        "imdb_id": "tt3371724",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #2.2",
+        "released": "2014-07-15",
+        "rating": "N/A",
+        "imdb_id": "tt3850852",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #2.3",
+        "released": "2014-07-21",
+        "rating": "N/A",
+        "imdb_id": "tt3867850",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #2.4",
+        "released": "2014-07-29",
+        "rating": "8.5",
+        "imdb_id": "tt3892828",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #2.5",
+        "released": "2014-08-05",
+        "rating": "N/A",
+        "imdb_id": "tt3902654",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #2.6",
+        "released": "2014-08-12",
+        "rating": "8.3",
+        "imdb_id": "tt3916922",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

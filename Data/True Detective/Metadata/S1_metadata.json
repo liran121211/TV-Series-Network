@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "The Long Bright Dark",
+        "released": "2014-01-12",
+        "rating": "8.9",
+        "imdb_id": "tt2657398",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S1\\True.Detective.S01E01.The.Long.Bright.Dark.720p.WEB-DL.DD5.1S1E1.zip"
+    },
+    "2": {
+        "title": "Seeing Things",
+        "released": "2014-01-19",
+        "rating": "8.8",
+        "imdb_id": "tt2704380",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S1\\True.Detective.S01E02.Seeing.ngs.720p.WEB-DL.DD5.1.H264-BLiNS1E2.zip"
+    },
+    "3": {
+        "title": "The Locked Room",
+        "released": "2014-01-26",
+        "rating": "N/A",
+        "imdb_id": "tt2790184",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S1\\True.Detective.S01E03.The.Locked.Room.720p.WEB-DL.DD5.1.H264-BLiNS1E3.zip"
+    },
+    "4": {
+        "title": "Who Goes There",
+        "released": "2014-02-09",
+        "rating": "9.6",
+        "imdb_id": "tt2790174",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S1\\True.Detective.S01E04.Who.Goes.There.720p.WEB-DL.DD5.1.H264-BLiNS1E4.zip"
+    },
+    "5": {
+        "title": "The Secret Fate of All Life",
+        "released": "2014-02-16",
+        "rating": "N/A",
+        "imdb_id": "tt2790196",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S1\\True.Detective.S01E05.The.Secret.Fate.of.All.Life.720p.WEB-DL.DD5.1.H264-BLiNS1E5.zip"
+    },
+    "6": {
+        "title": "Haunted Houses",
+        "released": "2014-02-23",
+        "rating": "9.2",
+        "imdb_id": "tt2790238",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S1\\True.Detective.S01E06.Haunted.Houses.720p.WEB-DL.DD5.1.H264-BLiNS1E6.zip"
+    },
+    "7": {
+        "title": "After You've Gone",
+        "released": "2014-03-02",
+        "rating": "9.2",
+        "imdb_id": "tt2790240",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S1\\True.Detective.S01E07.After.Youve.Gone.720p.WEB-DL.DD5.1.H264-BLiNS1E7.zip"
+    },
+    "8": {
+        "title": "Form and Void",
+        "released": "2014-03-09",
+        "rating": "9.6",
+        "imdb_id": "tt2790254",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

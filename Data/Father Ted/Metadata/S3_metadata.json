@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Are You Right There Father Ted?",
+        "released": "1998-03-13",
+        "rating": "8.9",
+        "imdb_id": "tt0578502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Chirpy Burpy Cheap Sheep",
+        "released": "1998-03-20",
+        "rating": "8.2",
+        "imdb_id": "tt0578503",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Speed 3",
+        "released": "1998-03-27",
+        "rating": "9.1",
+        "imdb_id": "tt0578518",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Mainland",
+        "released": "1998-04-03",
+        "rating": "8.5",
+        "imdb_id": "tt0578520",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Escape from Victory",
+        "released": "1998-04-10",
+        "rating": "8.2",
+        "imdb_id": "tt0578507",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Kicking Bishop Brennan up the Arse",
+        "released": "1998-04-17",
+        "rating": "8.9",
+        "imdb_id": "tt0578513",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Night of the Nearly Dead",
+        "released": "1998-04-24",
+        "rating": "8.3",
+        "imdb_id": "tt0578515",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Going to America",
+        "released": "1998-05-01",
+        "rating": "8.3",
+        "imdb_id": "tt0578509",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

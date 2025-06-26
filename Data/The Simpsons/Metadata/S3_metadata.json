@@ -1,0 +1,194 @@
+{
+    "1": {
+        "title": "Stark Raving Dad",
+        "released": "1991-09-19",
+        "rating": "8.6",
+        "imdb_id": "tt0701217",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S1\\The.Simpsons.S30E01.Bart's_Not_Dead.WEB.x264-TBSS1E1.zip"
+    },
+    "2": {
+        "title": "Mr. Lisa Goes to Washington",
+        "released": "1991-09-26",
+        "rating": "7.7",
+        "imdb_id": "tt0701183",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S1\\The.Simpsons.S30E02.Heartbreak_Hotel.WEB.x264-TBSS1E2.zip"
+    },
+    "3": {
+        "title": "When Flanders Failed",
+        "released": "1991-10-03",
+        "rating": "8.2",
+        "imdb_id": "tt0763042",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S1\\The.Simpsons.S30E03.My_Way_or_the_Highway_to_Heaven.TBSS1E3.zip"
+    },
+    "4": {
+        "title": "Bart the Murderer",
+        "released": "1991-10-10",
+        "rating": "8.6",
+        "imdb_id": "tt0701060",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S13\\The.Simpsons.S13E04.720p.BluRay.x264-SiNNERSS13E4.zip"
+    },
+    "5": {
+        "title": "Homer Defined",
+        "released": "1991-10-17",
+        "rating": "8.4",
+        "imdb_id": "tt0701110",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S1\\The.Simpsons.S30E05.WEB-DL.DSNPS1E5.zip"
+    },
+    "6": {
+        "title": "Like Father, Like Clown",
+        "released": "1991-10-24",
+        "rating": "7.6",
+        "imdb_id": "tt0701153",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S1\\The.Simpsons.S30E06.HDTV.x264-KILLERSS1E6.zip"
+    },
+    "7": {
+        "title": "Treehouse of Horror II",
+        "released": "1991-10-31",
+        "rating": "8.2",
+        "imdb_id": "tt0759267",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S1\\The.Simpsons.S30E07.XviD-AFGS1E7.zip"
+    },
+    "8": {
+        "title": "Lisa's Pony",
+        "released": "1991-11-07",
+        "rating": "7.9",
+        "imdb_id": "tt0701161",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S1\\The.Simpsons.S30E08.XviD-AFGS1E8.zip"
+    },
+    "9": {
+        "title": "Saturdays of Thunder",
+        "released": "1991-11-14",
+        "rating": "7.9",
+        "imdb_id": "tt0768558",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S1\\The.Simpsons.S30E09.WEB-DL.DSNPS1E9.zip"
+    },
+    "10": {
+        "title": "Flaming Moe's",
+        "released": "1991-11-21",
+        "rating": "8.8",
+        "imdb_id": "tt0701098",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S32\\The.Simpsons.S32E10.720p.HDTV.DD5.1.x264-DJSF.HIS32E10.zip"
+    },
+    "11": {
+        "title": "Burns Verkaufen der Kraftwerk",
+        "released": "1991-12-05",
+        "rating": "8.2",
+        "imdb_id": "tt0769743",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "I Married Marge",
+        "released": "1991-12-26",
+        "rating": "8.3",
+        "imdb_id": "tt0768556",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Radio Bart",
+        "released": "1992-01-09",
+        "rating": "8.5",
+        "imdb_id": "tt0701200",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Lisa the Greek",
+        "released": "1992-01-23",
+        "rating": "8.0",
+        "imdb_id": "tt0768557",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S36\\The.Simpsons.1989.S36E14.The.Past.and.the.Furious.DSNP.WEB.h264-EDITHS36E14.zip"
+    },
+    "15": {
+        "title": "Homer Alone",
+        "released": "1992-02-06",
+        "rating": "8.0",
+        "imdb_id": "tt0768555",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Bart the Lover",
+        "released": "1992-02-13",
+        "rating": "8.3",
+        "imdb_id": "tt0768553",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Homer at the Bat",
+        "released": "1992-02-20",
+        "rating": "8.7",
+        "imdb_id": "tt0701114",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Separate Vocations",
+        "released": "1992-02-27",
+        "rating": "8.2",
+        "imdb_id": "tt0701204",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Dog of Death",
+        "released": "1992-03-12",
+        "rating": "7.7",
+        "imdb_id": "tt0768554",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Colonel Homer",
+        "released": "1992-03-26",
+        "rating": "8.0",
+        "imdb_id": "tt0701082",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Black Widower",
+        "released": "1992-04-09",
+        "rating": "8.3",
+        "imdb_id": "tt0701070",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Otto Show",
+        "released": "1992-04-23",
+        "rating": "7.6",
+        "imdb_id": "tt0701254",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S23\\The.Simpsons.S23E22.HDTV.x264-LOL.HIS23E22.zip"
+    },
+    "23": {
+        "title": "Bart's Friend Falls in Love",
+        "released": "1992-05-07",
+        "rating": "7.7",
+        "imdb_id": "tt0701064",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Brother, Can You Spare Two Dimes?",
+        "released": "1992-08-27",
+        "rating": "8.2",
+        "imdb_id": "tt0701076",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

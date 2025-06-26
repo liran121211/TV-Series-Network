@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Queen Victoria Syndrome",
+        "released": "2022-11-09",
+        "rating": "7.4",
+        "imdb_id": "tt11709728",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The System",
+        "released": "2022-11-09",
+        "rating": "7.6",
+        "imdb_id": "tt12696288",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Mou Mou",
+        "released": "2022-11-09",
+        "rating": "8.4",
+        "imdb_id": "tt12696290",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Annus Horribilis",
+        "released": "2022-11-09",
+        "rating": "7.9",
+        "imdb_id": "tt12696292",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Way Ahead",
+        "released": "2022-11-09",
+        "rating": "N/A",
+        "imdb_id": "tt12696296",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Ipatiev House",
+        "released": "2022-11-09",
+        "rating": "7.9",
+        "imdb_id": "tt12696294",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "No Woman's Land",
+        "released": "2022-11-09",
+        "rating": "7.5",
+        "imdb_id": "tt12696298",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Gunpowder",
+        "released": "2022-11-09",
+        "rating": "8.2",
+        "imdb_id": "tt12696302",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Couple 31",
+        "released": "2022-11-09",
+        "rating": "7.8",
+        "imdb_id": "tt12696304",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Decommissioned",
+        "released": "2022-11-09",
+        "rating": "7.3",
+        "imdb_id": "tt12696306",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

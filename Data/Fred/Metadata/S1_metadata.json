@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Fred: May Day",
+        "released": "2008-05-01",
+        "rating": "3.7",
+        "imdb_id": "tt1243443",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Fred Loses His Meds",
+        "released": "2008-05-08",
+        "rating": "4.6",
+        "imdb_id": "tt1243441",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Fred Gets Detention",
+        "released": "2008-05-22",
+        "rating": "4.8",
+        "imdb_id": "tt1243439",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Fred Goes to the Dentist",
+        "released": "2008-05-29",
+        "rating": "5.2",
+        "imdb_id": "tt1243440",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Fred Stalks Judy",
+        "released": "2008-06-05",
+        "rating": "4.9",
+        "imdb_id": "tt1243442",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Fred on Father's Day",
+        "released": "2008-06-12",
+        "rating": "4.5",
+        "imdb_id": "tt1251140",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Fred Goes Swimming",
+        "released": "2008-06-19",
+        "rating": "7.1",
+        "imdb_id": "tt1251139",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Fred Meets Bertha",
+        "released": "2008-06-26",
+        "rating": "3.5",
+        "imdb_id": "tt1257703",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "33",
+        "released": "2005-01-14",
+        "rating": "8.5",
+        "imdb_id": "tt0519761",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S1\\Battlestar.Galactica.S01E01-13.DVDRip-MEDiEVAL.eng-RETAILS1E1.zip"
+    },
+    "2": {
+        "title": "Water",
+        "released": "2005-01-14",
+        "rating": "7.7",
+        "imdb_id": "tt0519792",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S1\\BSG.S01E02.Water.720p.BrripS1E2.zip"
+    },
+    "3": {
+        "title": "Bastille Day",
+        "released": "2005-01-21",
+        "rating": "7.6",
+        "imdb_id": "tt0519763",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S1\\BSG.S01E03.Bastille.Day.720p.BrripS1E3.zip"
+    },
+    "4": {
+        "title": "Act of Contrition",
+        "released": "2005-01-28",
+        "rating": "7.7",
+        "imdb_id": "tt0519762",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S1\\BSG.S01E04.Act.Of.Contrition.720p.BrripS1E4.zip"
+    },
+    "5": {
+        "title": "You Can't Go Home Again",
+        "released": "2005-02-04",
+        "rating": "8.2",
+        "imdb_id": "tt0519793",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S1\\BSG.S01E05.You.Can't.Go.Home.Again.720p.BrripS1E5.zip"
+    },
+    "6": {
+        "title": "Litmus",
+        "released": "2005-02-11",
+        "rating": "7.6",
+        "imdb_id": "tt0519778",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S1\\BSG.S01E06.Litmus.720p.BrripS1E6.zip"
+    },
+    "7": {
+        "title": "Six Degrees of Separation",
+        "released": "2005-02-18",
+        "rating": "7.7",
+        "imdb_id": "tt0519786",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S1\\BSG.S01E07.Six.Degrees.Of.Separation.720p.BrripS1E7.zip"
+    },
+    "8": {
+        "title": "Flesh and Bone",
+        "released": "2005-02-25",
+        "rating": "8.0",
+        "imdb_id": "tt0519769",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S1\\BSG.S01E08.Flesh.And.Bone.720p.BrripS1E8.zip"
+    },
+    "9": {
+        "title": "Tigh Me Up, Tigh Me Down",
+        "released": "2005-03-04",
+        "rating": "7.5",
+        "imdb_id": "tt0519790",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S1\\BSG.S01E09.Tigh.Me.Up.Tigh.Me.Down.720p.BrripS1E9.zip"
+    },
+    "10": {
+        "title": "The Hand of God",
+        "released": "2005-03-11",
+        "rating": "8.4",
+        "imdb_id": "tt0519789",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Colonial Day",
+        "released": "2005-03-18",
+        "rating": "7.6",
+        "imdb_id": "tt0519765",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Kobol's Last Gleaming: Part 1",
+        "released": "2005-03-25",
+        "rating": "8.3",
+        "imdb_id": "tt0519774",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Kobol's Last Gleaming: Part 2",
+        "released": "2005-04-01",
+        "rating": "8.8",
+        "imdb_id": "tt0519775",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

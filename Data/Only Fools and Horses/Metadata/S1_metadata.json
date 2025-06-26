@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "Big Brother",
+        "released": "1981-09-08",
+        "rating": "7.7",
+        "imdb_id": "tt0666538",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Go West Young Man",
+        "released": "1981-09-15",
+        "rating": "8.1",
+        "imdb_id": "tt0666549",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Cash and Curry",
+        "released": "1981-09-22",
+        "rating": "7.9",
+        "imdb_id": "tt0666539",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Second Time Around",
+        "released": "1981-09-29",
+        "rating": "7.6",
+        "imdb_id": "tt0666581",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "A Slow Bus to Chingford",
+        "released": "1981-10-06",
+        "rating": "7.5",
+        "imdb_id": "tt0666535",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Russians Are Coming",
+        "released": "1981-10-13",
+        "rating": "7.8",
+        "imdb_id": "tt0666580",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Christmas Crackers",
+        "released": "1981-12-28",
+        "rating": "7.6",
+        "imdb_id": "tt0666541",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

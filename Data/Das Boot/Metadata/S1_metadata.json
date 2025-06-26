@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Part 1",
+        "released": "2016-07-31",
+        "rating": "N/A",
+        "imdb_id": "tt1915881",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Part 2",
+        "released": "1985-02-27",
+        "rating": "N/A",
+        "imdb_id": "tt1915883",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Part 3",
+        "released": "1985-03-03",
+        "rating": "N/A",
+        "imdb_id": "tt5020728",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Himmelfahrtskommando",
+        "released": "1985-05-18",
+        "rating": "N/A",
+        "imdb_id": "tt19857576",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Auf Grund",
+        "released": "1985-05-25",
+        "rating": "N/A",
+        "imdb_id": "tt19857550",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

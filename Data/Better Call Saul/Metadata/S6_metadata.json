@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Wine and Roses",
+        "released": "2022-04-18",
+        "rating": "8.7",
+        "imdb_id": "tt11630814",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S6\\Better.Call.Saul.S06E01.Wine.and.Roses.REPACK.720p.10bit.WEBRip.2CH.x265.HEVC-PSAS6E1.zip"
+    },
+    "2": {
+        "title": "Carrot and Stick",
+        "released": "2022-04-18",
+        "rating": "9.1",
+        "imdb_id": "tt12187028",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S6\\Better.Call.Saul.S06E02.WEBRip.x264-ION10S6E2.zip"
+    },
+    "3": {
+        "title": "Rock and Hard Place",
+        "released": "2022-04-25",
+        "rating": "9.7",
+        "imdb_id": "tt12187032",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S6\\Better.Call.Saul.S06E03.WEBRip.x264-ION10S6E3.zip"
+    },
+    "4": {
+        "title": "Hit and Run",
+        "released": "2022-05-02",
+        "rating": "8.6",
+        "imdb_id": "tt12187036",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S6\\Better.Call.Saul.S06E04.WEBRip.x264-XEN0NS6E4.zip"
+    },
+    "5": {
+        "title": "Black and Blue",
+        "released": "2022-05-09",
+        "rating": "8.1",
+        "imdb_id": "tt12187034",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S6\\Better.Call.Saul.S06E05.WEBRip.x264-XEN0NS6E5.zip"
+    },
+    "6": {
+        "title": "Axe and Grind",
+        "released": "2022-05-16",
+        "rating": "8.2",
+        "imdb_id": "tt12187038",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S6\\Better.Call.Saul.S06E06.WEBRip.x264-XEN0NS6E6.zip"
+    },
+    "7": {
+        "title": "Plan and Execution",
+        "released": "2022-05-23",
+        "rating": "9.9",
+        "imdb_id": "tt12187040",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S6\\Better.Call.Saul.S06E07.WEBRip.x264-ION10S6E7.zip"
+    },
+    "8": {
+        "title": "Point and Shoot",
+        "released": "2022-07-11",
+        "rating": "9.8",
+        "imdb_id": "tt12187044",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S6\\Better.Call.Saul.S06xE08.WEBRip.x264-ION10_GGEZS6E8.zip"
+    },
+    "9": {
+        "title": "Fun and Games",
+        "released": "2022-07-18",
+        "rating": "9.4",
+        "imdb_id": "tt12187042",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S6\\Better.Call.Saul.S06xE09.WEBRip.x264-ION10_GLHFS6E9.zip"
+    },
+    "10": {
+        "title": "Nippy",
+        "released": "2022-07-25",
+        "rating": "8.5",
+        "imdb_id": "tt12187048",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Breaking Bad",
+        "released": "2022-08-01",
+        "rating": "9.0",
+        "imdb_id": "tt12188568",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Waterworks",
+        "released": "2022-08-08",
+        "rating": "9.4",
+        "imdb_id": "tt12188572",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Saul Gone",
+        "released": "2022-08-15",
+        "rating": "9.8",
+        "imdb_id": "tt11630828",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

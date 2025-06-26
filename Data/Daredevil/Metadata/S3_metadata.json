@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Resurrection",
+        "released": "2018-10-19",
+        "rating": "8.2",
+        "imdb_id": "tt5902120",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S3\\S03E01_-_ResurrectionS3E1.zip"
+    },
+    "2": {
+        "title": "Please",
+        "released": "2018-10-19",
+        "rating": "8.5",
+        "imdb_id": "tt6741926",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S3\\S03E02_-_PleaseS3E2.zip"
+    },
+    "3": {
+        "title": "No Good Deed",
+        "released": "2018-10-19",
+        "rating": "8.4",
+        "imdb_id": "tt6741928",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S3\\S03E03_-_No_Good_DeedS3E3.zip"
+    },
+    "4": {
+        "title": "Blindsided",
+        "released": "2018-10-19",
+        "rating": "9.5",
+        "imdb_id": "tt6741930",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S3\\S03E04_-_BlindsidedS3E4.zip"
+    },
+    "5": {
+        "title": "The Perfect Game",
+        "released": "2018-10-19",
+        "rating": "8.8",
+        "imdb_id": "tt6741932",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S3\\S03E05_-_The_Perfect_GameS3E5.zip"
+    },
+    "6": {
+        "title": "The Devil You Know",
+        "released": "2018-10-19",
+        "rating": "9.5",
+        "imdb_id": "tt6741934",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S3\\S03E06_-_The_Devil_You_KnowS3E6.zip"
+    },
+    "7": {
+        "title": "Aftermath",
+        "released": "2018-10-19",
+        "rating": "8.7",
+        "imdb_id": "tt6741936",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S3\\S03E07_-_AftermathS3E7.zip"
+    },
+    "8": {
+        "title": "Upstairs/Downstairs",
+        "released": "2018-10-19",
+        "rating": "9.0",
+        "imdb_id": "tt6741938",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S3\\S03E08_-_Upstairs_DownstairsS3E8.zip"
+    },
+    "9": {
+        "title": "Revelations",
+        "released": "2018-10-19",
+        "rating": "9.1",
+        "imdb_id": "tt6741940",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S3\\S03E09_-_RevelationsS3E9.zip"
+    },
+    "10": {
+        "title": "Karen",
+        "released": "2018-10-19",
+        "rating": "8.6",
+        "imdb_id": "tt6741942",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Reunion",
+        "released": "2018-10-19",
+        "rating": "9.1",
+        "imdb_id": "tt6741944",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "One Last Shot",
+        "released": "2018-10-19",
+        "rating": "9.3",
+        "imdb_id": "tt6741946",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "A New Napkin",
+        "released": "2018-10-19",
+        "rating": "9.5",
+        "imdb_id": "tt6741948",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

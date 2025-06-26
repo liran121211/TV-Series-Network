@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "X Marks the Spot",
+        "released": "2015-06-01",
+        "rating": "N/A",
+        "imdb_id": "tt3758720",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Hide & Seek",
+        "released": "2015-06-08",
+        "rating": "N/A",
+        "imdb_id": "tt3894642",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Collision",
+        "released": "2015-06-15",
+        "rating": "N/A",
+        "imdb_id": "tt3960758",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Meltdown",
+        "released": "2015-06-22",
+        "rating": "N/A",
+        "imdb_id": "tt3922184",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "What Lies Beneath",
+        "released": "2015-06-29",
+        "rating": "N/A",
+        "imdb_id": "tt4016512",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Archer",
+        "released": "2015-07-06",
+        "rating": "N/A",
+        "imdb_id": "tt4038702",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Whatever It Takes",
+        "released": "2015-07-13",
+        "rating": "N/A",
+        "imdb_id": "tt4043604",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "A Hollow Man",
+        "released": "2015-07-20",
+        "rating": "N/A",
+        "imdb_id": "tt4093166",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Broken Child",
+        "released": "2015-08-03",
+        "rating": "N/A",
+        "imdb_id": "tt4141814",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Darkest Fears",
+        "released": "2015-08-10",
+        "rating": "N/A",
+        "imdb_id": "tt4183414",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Homesick",
+        "released": "2015-08-17",
+        "rating": "N/A",
+        "imdb_id": "tt4242376",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Traveller in the Dark",
+        "released": "2015-08-24",
+        "rating": "N/A",
+        "imdb_id": "tt4231446",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Game Over",
+        "released": "2015-08-31",
+        "rating": "7.8",
+        "imdb_id": "tt4292448",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

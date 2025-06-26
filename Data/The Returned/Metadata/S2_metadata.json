@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "L'enfant",
+        "released": "2015-10-31",
+        "rating": "N/A",
+        "imdb_id": "tt3699524",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Milan",
+        "released": "2015-09-28",
+        "rating": "N/A",
+        "imdb_id": "tt4301490",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Morgane",
+        "released": "2015-10-05",
+        "rating": "N/A",
+        "imdb_id": "tt4499410",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Virgil",
+        "released": "2015-10-05",
+        "rating": "N/A",
+        "imdb_id": "tt4499418",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Madame Costa",
+        "released": "2015-10-12",
+        "rating": "N/A",
+        "imdb_id": "tt4499424",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Esther",
+        "released": "2015-10-12",
+        "rating": "N/A",
+        "imdb_id": "tt4499426",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Etienne",
+        "released": "2015-10-19",
+        "rating": "N/A",
+        "imdb_id": "tt4499438",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Les Revenants",
+        "released": "2015-10-19",
+        "rating": "7.6",
+        "imdb_id": "tt4499444",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

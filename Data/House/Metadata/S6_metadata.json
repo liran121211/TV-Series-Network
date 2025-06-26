@@ -1,0 +1,170 @@
+{
+    "1": {
+        "title": "Broken",
+        "released": "2009-09-20",
+        "rating": "9.6",
+        "imdb_id": "tt1462220",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S6\\House.S06E01-22.DVDRip-REWARD.eng.[aMvELs.3line.fix]S6E1.zip"
+    },
+    "2": {
+        "title": "Epic Fail",
+        "released": "2009-09-28",
+        "rating": "8.5",
+        "imdb_id": "tt1503404",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S6\\House.S06E02.Epic.Fail.REAL.HDTV.XviD-FQMS6E2.zip"
+    },
+    "3": {
+        "title": "The Tyrant",
+        "released": "2009-10-05",
+        "rating": "8.9",
+        "imdb_id": "tt1503408",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S6\\House.S06E03.HDTV.XviD-NoTV.EnS6E3.zip"
+    },
+    "4": {
+        "title": "Instant Karma",
+        "released": "2009-10-12",
+        "rating": "8.3",
+        "imdb_id": "tt1503409",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S6\\House.S06E04.Instant.Karma.HDTV.XviD-FQMS6E4.zip"
+    },
+    "5": {
+        "title": "Brave Heart",
+        "released": "2009-10-19",
+        "rating": "N/A",
+        "imdb_id": "tt1503410",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S6\\House.S06E05.HDTV.XviD-NoTVS6E5.zip"
+    },
+    "6": {
+        "title": "Known Unknowns",
+        "released": "2009-11-09",
+        "rating": "8.2",
+        "imdb_id": "tt1503411",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S6\\House.S06E06.HDTV.XviD-P0W4S6E6.zip"
+    },
+    "7": {
+        "title": "Teamwork",
+        "released": "2009-11-16",
+        "rating": "8.0",
+        "imdb_id": "tt1503412",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S6\\House.S06E07.Teamwork.HDTV.XviD-FQMS6E7.zip"
+    },
+    "8": {
+        "title": "Ignorance Is Bliss",
+        "released": "2009-11-23",
+        "rating": "8.2",
+        "imdb_id": "tt1503414",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S6\\House.S06E08.HDTV.XviD-2HDS6E8.zip"
+    },
+    "9": {
+        "title": "Wilson",
+        "released": "2009-11-30",
+        "rating": "8.8",
+        "imdb_id": "tt1503394",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S6\\House.S06E09.Wilson.HDTV.XviD-FQMS6E9.zip"
+    },
+    "10": {
+        "title": "The Down Low",
+        "released": "2010-01-11",
+        "rating": "8.8",
+        "imdb_id": "tt1564666",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Remorse",
+        "released": "2010-01-25",
+        "rating": "N/A",
+        "imdb_id": "tt1503395",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Moving the Chains",
+        "released": "2010-02-01",
+        "rating": "N/A",
+        "imdb_id": "tt1503396",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "5 to 9",
+        "released": "2010-02-08",
+        "rating": "8.6",
+        "imdb_id": "tt1503397",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Private Lives",
+        "released": "2010-03-08",
+        "rating": "N/A",
+        "imdb_id": "tt1503398",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Black Hole",
+        "released": "2010-03-15",
+        "rating": "7.9",
+        "imdb_id": "tt1503399",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Lockdown",
+        "released": "2010-04-12",
+        "rating": "N/A",
+        "imdb_id": "tt1623399",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Knight Fall",
+        "released": "2010-04-19",
+        "rating": "N/A",
+        "imdb_id": "tt1503401",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Open and Shut",
+        "released": "2010-04-26",
+        "rating": "7.7",
+        "imdb_id": "tt1503402",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Choice",
+        "released": "2010-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt1503403",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Baggage",
+        "released": "2010-05-10",
+        "rating": "8.8",
+        "imdb_id": "tt1503405",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Help Me",
+        "released": "2010-05-17",
+        "rating": "9.5",
+        "imdb_id": "tt1503406",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

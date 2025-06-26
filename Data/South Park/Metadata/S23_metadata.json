@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Mexican Joker",
+        "released": "2019-09-25",
+        "rating": "7.4",
+        "imdb_id": "tt4849024",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Band in China",
+        "released": "2019-10-02",
+        "rating": "8.5",
+        "imdb_id": "tt8660720",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Shots!!!",
+        "released": "2019-10-09",
+        "rating": "7.4",
+        "imdb_id": "tt8660718",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Let Them Eat Goo",
+        "released": "2019-10-16",
+        "rating": "7.9",
+        "imdb_id": "tt8660722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Tegridy Farms Halloween Special",
+        "released": "2019-10-30",
+        "rating": "7.1",
+        "imdb_id": "tt8660724",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Season Finale",
+        "released": "2019-11-06",
+        "rating": "7.2",
+        "imdb_id": "tt8660726",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Board Girls",
+        "released": "2019-11-13",
+        "rating": "8.1",
+        "imdb_id": "tt8660728",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Turd Burglars",
+        "released": "2019-11-27",
+        "rating": "7.5",
+        "imdb_id": "tt8660732",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Basic Cable",
+        "released": "2019-12-04",
+        "rating": "7.7",
+        "imdb_id": "tt8660730",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Christmas Snow",
+        "released": "2019-12-11",
+        "rating": "7.6",
+        "imdb_id": "tt6647832",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

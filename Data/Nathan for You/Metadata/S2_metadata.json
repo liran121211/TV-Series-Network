@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Mechanic; Realtor",
+        "released": "2014-07-01",
+        "rating": "N/A",
+        "imdb_id": "tt3844762",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Souvenir Shop; ELAIFF",
+        "released": "2014-07-08",
+        "rating": "9.3",
+        "imdb_id": "tt3844768",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Pet Store; Maid Service",
+        "released": "2014-07-15",
+        "rating": "N/A",
+        "imdb_id": "tt3844782",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Liquor Store; Exterminator; Car Wash",
+        "released": "2014-07-22",
+        "rating": "8.3",
+        "imdb_id": "tt3549696",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Dumb Starbucks",
+        "released": "2014-07-29",
+        "rating": "9.5",
+        "imdb_id": "tt3844774",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Dating Service; Party Planner",
+        "released": "2014-08-05",
+        "rating": "8.4",
+        "imdb_id": "tt3844780",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Taxi Service; Hot Dog Stand",
+        "released": "2014-08-12",
+        "rating": "8.0",
+        "imdb_id": "tt3953928",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Toy Company; Movie Theatre",
+        "released": "2014-08-19",
+        "rating": "N/A",
+        "imdb_id": "tt3953930",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

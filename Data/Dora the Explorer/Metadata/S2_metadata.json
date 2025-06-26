@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Lost Squeaky",
+        "released": "2002-02-13",
+        "rating": "N/A",
+        "imdb_id": "tt0845661",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Magic Stick",
+        "released": "2002-03-12",
+        "rating": "N/A",
+        "imdb_id": "tt1166856",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Rojo, the Fire Truck",
+        "released": "2002-03-19",
+        "rating": "N/A",
+        "imdb_id": "tt1166854",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Golden Explorers",
+        "released": "2002-09-16",
+        "rating": "N/A",
+        "imdb_id": "tt1166855",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Big Piñata",
+        "released": "2002-09-19",
+        "rating": "N/A",
+        "imdb_id": "tt1181509",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Lost Map",
+        "released": "2003-01-20",
+        "rating": "N/A",
+        "imdb_id": "tt0910645",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "To the Monkey Bars",
+        "released": "2003-04-28",
+        "rating": "N/A",
+        "imdb_id": "tt1172313",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Egg Hunt",
+        "released": "2003-04-20",
+        "rating": "5.1",
+        "imdb_id": "tt0564558",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

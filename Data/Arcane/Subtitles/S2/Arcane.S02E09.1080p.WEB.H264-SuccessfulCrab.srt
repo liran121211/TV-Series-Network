@@ -1,0 +1,946 @@
+﻿1
+00:00:20,708 --> 00:00:25,083
+<i>♪ I've held on for as long as I can ♪</i>
+
+2
+00:00:25,791 --> 00:00:29,500
+<i>♪ For the ones that I had to defend ♪</i>
+
+3
+00:00:30,916 --> 00:00:35,500
+<i>♪ I've been strong every day of my life ♪</i>
+
+4
+00:00:36,208 --> 00:00:40,541
+<i>♪ If she wants
+Death could take me this time ♪</i>
+
+5
+00:00:41,666 --> 00:00:46,375
+<i>♪ This world is a wasteland
+Where nothing can grow ♪</i>
+
+6
+00:00:47,083 --> 00:00:51,707
+<i>♪ I used to have strength
+But I ran out of hope ♪</i>
+
+7
+00:00:51,708 --> 00:00:56,749
+<i>♪ I know it's my fault
+That I'm here all alone ♪</i>
+
+8
+00:00:56,750 --> 00:01:01,290
+<i>♪ This world is a wasteland ♪</i>
+
+9
+00:01:01,291 --> 00:01:03,583
+<i>♪ Please let me go ♪</i>
+
+10
+00:01:04,125 --> 00:01:11,583
+<i>♪ Go, go, go ♪</i>
+
+11
+00:01:12,500 --> 00:01:17,082
+<i>♪ If I could just lay my head down
+And rest ♪</i>
+
+12
+00:01:17,083 --> 00:01:21,833
+<i>♪ If there was nothing to fight
+Or protect ♪</i>
+
+13
+00:01:22,583 --> 00:01:26,833
+<i>♪ Maybe then I could finally be free ♪</i>
+
+14
+00:01:27,458 --> 00:01:31,916
+<i>♪ Maybe death is like falling asleep ♪</i>
+
+15
+00:01:33,125 --> 00:01:37,957
+<i>♪ This world is a wasteland
+Where nothing can grow-- ♪</i>
+
+16
+00:01:37,958 --> 00:01:38,958
+Wait!
+
+17
+00:01:41,958 --> 00:01:43,999
+I just wanna talk to you.
+
+18
+00:01:44,000 --> 00:01:45,457
+Get out of here, Ekko.
+
+19
+00:01:45,458 --> 00:01:46,791
+I just...
+
+20
+00:01:51,458 --> 00:01:53,375
+I just wanna talk to you, Pow--
+
+21
+00:01:54,166 --> 00:01:55,208
+Jinx.
+
+22
+00:02:04,333 --> 00:02:06,250
+- You're too late, Ekko.
+- Wait!
+
+23
+00:02:11,083 --> 00:02:12,583
+Always a dance with you.
+
+24
+00:02:14,750 --> 00:02:17,208
+I think I'm just gonna sit here a minute.
+
+25
+00:02:18,208 --> 00:02:19,750
+You know, catch my breath.
+
+26
+00:02:21,333 --> 00:02:24,666
+See if I can talk an old friend
+out of blowing us up.
+
+27
+00:02:31,708 --> 00:02:33,666
+- I'm tired of talking.
+- No!
+
+28
+00:02:34,041 --> 00:02:36,458
+<i>No! No! No...</i>
+
+29
+00:02:39,125 --> 00:02:40,958
+You know, I learned from someone...
+
+30
+00:02:43,166 --> 00:02:44,166
+very special...
+
+31
+00:02:45,500 --> 00:02:49,375
+that no matter what happened in the past,
+
+32
+00:02:51,041 --> 00:02:53,125
+it's never too late
+to build something new.
+
+33
+00:02:58,583 --> 00:03:00,374
+Someone worth building it for.
+
+34
+00:03:00,375 --> 00:03:02,416
+<i>♪ ...go, go ♪</i>
+
+35
+00:03:03,000 --> 00:03:06,957
+<i>♪ Go, go, go ♪</i>
+
+36
+00:03:06,958 --> 00:03:08,833
+<i>♪ Please let me go ♪</i>
+
+37
+00:03:25,541 --> 00:03:28,540
+{\an8}<i>♪ I wake up to the sounds
+Of the silence that allows ♪</i>
+
+38
+00:03:28,541 --> 00:03:31,374
+{\an8}<i>♪ For my mind to run around
+With my ear up to the ground ♪</i>
+
+39
+00:03:31,375 --> 00:03:34,957
+<i>♪ I'm searching to behold
+The stories that are told ♪</i>
+
+40
+00:03:34,958 --> 00:03:38,207
+<i>♪ When my back is to the world
+That was smiling when I turned ♪</i>
+
+41
+00:03:38,208 --> 00:03:43,999
+<i>♪ Tell you you're the greatest ♪</i>
+
+42
+00:03:44,000 --> 00:03:49,833
+<i>♪ But once you turn, they hate us ♪</i>
+
+43
+00:03:50,541 --> 00:03:53,582
+<i>♪ Oh, the misery ♪</i>
+
+44
+00:03:53,583 --> 00:03:56,915
+{\an8}<i>♪ Everybody wants to be my enemy ♪</i>
+
+45
+00:03:56,916 --> 00:03:59,999
+{\an8}<i>♪ Oh, spare the sympathy ♪</i>
+
+46
+00:04:00,000 --> 00:04:02,957
+{\an8}<i>♪ Everybody wants to be my enemy ♪</i>
+
+47
+00:04:02,958 --> 00:04:07,666
+{\an8}<i>♪ Pray it away, I swear
+I'll never be a saint, no way ♪</i>
+
+48
+00:04:08,250 --> 00:04:09,374
+{\an8}<i>♪ My enemy ♪</i>
+
+49
+00:04:09,375 --> 00:04:12,790
+{\an8}<i>♪ Pray it away, I swear
+I'll never be a saint ♪</i>
+
+50
+00:04:12,791 --> 00:04:14,666
+<i>♪ Look out for yourself ♪</i>
+
+51
+00:04:48,333 --> 00:04:51,415
+I need you and the Enforcers
+to buy me as much time as you can
+
+52
+00:04:51,416 --> 00:04:53,416
+so I can shut down the Hexgates.
+
+53
+00:04:55,500 --> 00:04:56,750
+It's our only chance.
+
+54
+00:05:02,166 --> 00:05:05,958
+Viktor's at the center
+of all this, isn't he?
+
+55
+00:05:18,250 --> 00:05:20,166
+We're meant to lose this fight.
+
+56
+00:05:22,291 --> 00:05:24,416
+If he reaches the Hexgates...
+
+57
+00:05:43,125 --> 00:05:44,791
+Then we'd best stop him.
+
+58
+00:05:58,625 --> 00:05:59,958
+Move, move!
+
+59
+00:06:17,208 --> 00:06:20,582
+Reinforce the forward artillery.
+We can't let them break through.
+
+60
+00:06:20,583 --> 00:06:21,791
+- Go.
+- Let's go.
+
+61
+00:06:32,791 --> 00:06:34,583
+- Hold it.
+- Go.
+
+62
+00:06:45,000 --> 00:06:45,875
+Reload.
+
+63
+00:06:47,541 --> 00:06:49,833
+- Give her some air.
+- You're okay.
+
+64
+00:06:58,416 --> 00:07:00,125
+Down!
+
+65
+00:07:12,333 --> 00:07:14,583
+- Back!
+- Come on.
+
+66
+00:07:16,208 --> 00:07:17,333
+Let's go.
+
+67
+00:07:34,500 --> 00:07:35,750
+Around the gate!
+
+68
+00:08:07,333 --> 00:08:09,166
+Bold, little one.
+
+69
+00:08:49,541 --> 00:08:52,000
+- Move your units and wait there.
+- Stay.
+
+70
+00:09:37,291 --> 00:09:38,125
+Come on!
+
+71
+00:11:39,625 --> 00:11:41,333
+Let's go, let's go.
+
+72
+00:13:42,333 --> 00:13:45,666
+I warned you of the hazards
+of professional entanglement.
+
+73
+00:14:00,208 --> 00:14:04,540
+Desperation is the doorway
+to oblivion, child.
+
+74
+00:14:08,375 --> 00:14:10,208
+Let's get this over with.
+
+75
+00:14:19,916 --> 00:14:21,625
+I did appreciate your warmth.
+
+76
+00:14:51,666 --> 00:14:55,207
+If you care for me at all,
+spare their lives.
+
+77
+00:14:55,208 --> 00:14:59,291
+There is nothing to gain
+from this senseless bloodshed.
+
+78
+00:15:03,750 --> 00:15:05,875
+Still a fox.
+
+79
+00:15:07,250 --> 00:15:08,250
+Soldier.
+
+80
+00:15:43,125 --> 00:15:44,540
+Get in line.
+
+81
+00:15:44,541 --> 00:15:45,874
+<i>♪ You're not alone ♪</i>
+
+82
+00:15:45,875 --> 00:15:48,332
+<i>♪ Look at my shadow
+Right behind you like a ghost ♪</i>
+
+83
+00:15:48,333 --> 00:15:50,249
+<i>♪ If we should die
+Our legend is our rare flow ♪</i>
+
+84
+00:15:50,250 --> 00:15:52,457
+<i>♪ Taking those shots
+Make the big throws, bespoke ♪</i>
+
+85
+00:15:52,458 --> 00:15:55,166
+<i>♪ Tell them straight, coz
+Turn them all to stone ♪</i>
+
+86
+00:15:56,208 --> 00:15:57,041
+Fire!
+
+87
+00:16:08,958 --> 00:16:10,125
+Let's run.
+
+88
+00:17:48,083 --> 00:17:49,166
+Hmm.
+
+89
+00:17:55,708 --> 00:17:56,833
+Where is Viktor?
+
+90
+00:18:26,083 --> 00:18:29,000
+Despite the circumstances, Jayce...
+
+91
+00:18:31,125 --> 00:18:35,000
+I am... pleased to see you.
+
+92
+00:18:36,333 --> 00:18:39,000
+There must be some part
+of you still in there.
+
+93
+00:18:40,375 --> 00:18:42,875
+I am more than I ever was.
+
+94
+00:18:52,666 --> 00:18:54,500
+What other choice do we have?
+
+95
+00:19:30,458 --> 00:19:34,125
+Mother, look at the price
+of your ambition.
+
+96
+00:19:34,875 --> 00:19:37,374
+You've sacrificed everything.
+
+97
+00:19:37,375 --> 00:19:38,416
+Rictus.
+
+98
+00:19:38,958 --> 00:19:40,000
+Kino.
+
+99
+00:19:40,708 --> 00:19:42,958
+This city I built for our family.
+
+100
+00:19:44,916 --> 00:19:47,583
+If it was for us,
+you wouldn't have fought me.
+
+101
+00:19:50,166 --> 00:19:51,958
+You are no Medarda.
+
+102
+00:19:53,791 --> 00:19:55,000
+You remember your--
+
+103
+00:19:56,291 --> 00:19:57,625
+Shut up and fight.
+
+104
+00:20:45,208 --> 00:20:46,750
+Vi!
+
+105
+00:20:48,000 --> 00:20:49,250
+Vi!
+
+106
+00:21:51,791 --> 00:21:52,625
+Vi!
+
+107
+00:22:11,750 --> 00:22:16,208
+It is the answer
+you and I pursued all our lives.
+
+108
+00:22:17,333 --> 00:22:21,374
+An end to cruelty, injustice.
+
+109
+00:22:21,375 --> 00:22:23,457
+All of us our own authors
+
+110
+00:22:23,458 --> 00:22:26,875
+to an unbroken saga of progress.
+
+111
+00:22:27,583 --> 00:22:30,458
+To the benefit of all.
+
+112
+00:22:31,125 --> 00:22:33,874
+People deserve to choose their own fates.
+
+113
+00:22:33,875 --> 00:22:36,790
+Choice is false.
+
+114
+00:22:36,791 --> 00:22:39,707
+It is how we clothe and forgive
+
+115
+00:22:39,708 --> 00:22:44,124
+the baser instincts
+that spur us to division.
+
+116
+00:22:44,125 --> 00:22:47,582
+Death, war, prejudice.
+
+117
+00:22:47,583 --> 00:22:51,915
+Energy spent only to consume itself.
+
+118
+00:22:51,916 --> 00:22:57,000
+But we can be of one mind.
+
+119
+00:22:58,083 --> 00:22:59,791
+United.
+
+120
+00:24:00,666 --> 00:24:02,333
+You fought well, child.
+
+121
+00:24:07,791 --> 00:24:09,625
+Now!
+
+122
+00:24:17,625 --> 00:24:19,416
+A wolf has no mercy.
+
+123
+00:24:27,333 --> 00:24:30,000
+Your daughter is wiser
+than you credit.
+
+124
+00:24:30,541 --> 00:24:32,375
+I salute you, Ambessa.
+
+125
+00:24:33,958 --> 00:24:35,791
+For one without the gift,
+
+126
+00:24:36,416 --> 00:24:37,875
+you were quite a thorn.
+
+127
+00:24:51,416 --> 00:24:53,875
+What are you doing, sister?
+
+128
+00:25:10,791 --> 00:25:13,624
+I see your face, deceiver.
+
+129
+00:25:13,625 --> 00:25:15,875
+Sly girl.
+
+130
+00:25:46,541 --> 00:25:48,458
+You are the wolf.
+
+131
+00:26:51,625 --> 00:26:53,833
+Looks like you shouldn't have come back.
+
+132
+00:26:55,333 --> 00:26:57,374
+Still don't get it, huh, sis?
+
+133
+00:26:57,375 --> 00:27:00,166
+I'm always with you.
+
+134
+00:27:00,875 --> 00:27:02,750
+Even when we're worlds apart.
+
+135
+00:27:08,833 --> 00:27:11,374
+Stop this insanity, Viktor.
+
+136
+00:27:11,375 --> 00:27:14,458
+That is precisely my intention.
+
+137
+00:27:21,416 --> 00:27:23,750
+Your eyes won't lie...
+
+138
+00:27:28,250 --> 00:27:29,541
+when your mind...
+
+139
+00:27:31,291 --> 00:27:33,791
+is open, Jayce.
+
+140
+00:27:52,916 --> 00:27:53,750
+Vander.
+
+141
+00:27:59,583 --> 00:28:00,416
+Dad?
+
+142
+00:29:52,916 --> 00:29:53,916
+Do you see?
+
+143
+00:29:54,625 --> 00:29:59,916
+The sublime intersection
+of order and chaos.
+
+144
+00:31:36,166 --> 00:31:38,875
+This is what you see?
+
+145
+00:31:44,291 --> 00:31:46,958
+This conflict.
+
+146
+00:31:50,208 --> 00:31:53,208
+This senseless waste.
+
+147
+00:31:56,416 --> 00:31:59,541
+I know their minds, Jayce.
+
+148
+00:32:00,916 --> 00:32:03,207
+They want better lives,
+
+149
+00:32:03,208 --> 00:32:06,083
+but emotion clashes with reason.
+
+150
+00:32:07,083 --> 00:32:11,000
+Humanity's self-corrupting contradiction.
+
+151
+00:32:12,458 --> 00:32:15,791
+You've always wanted to cure
+what you thought were weaknesses.
+
+152
+00:32:16,333 --> 00:32:17,166
+Your leg.
+
+153
+00:32:19,291 --> 00:32:20,416
+Your disease.
+
+154
+00:32:21,541 --> 00:32:23,541
+But you were never broken, Viktor.
+
+155
+00:32:24,583 --> 00:32:26,916
+There is beauty in imperfections.
+
+156
+00:32:28,000 --> 00:32:30,166
+They made you who you are.
+
+157
+00:32:31,500 --> 00:32:34,666
+An inseparable piece of everything...
+
+158
+00:32:36,541 --> 00:32:38,250
+I admired about you.
+
+159
+00:34:26,666 --> 00:34:29,875
+That device can't be.
+
+160
+00:35:03,000 --> 00:35:05,833
+I thought I wanted us
+to give magic to the world.
+
+161
+00:35:06,958 --> 00:35:07,791
+Now...
+
+162
+00:35:08,958 --> 00:35:09,875
+all I want...
+
+163
+00:35:11,833 --> 00:35:13,375
+is my partner back.
+
+164
+00:35:17,208 --> 00:35:19,416
+Why do you persist?
+
+165
+00:35:20,125 --> 00:35:22,958
+After everything I've done?
+
+166
+00:35:24,666 --> 00:35:26,625
+Because I promised you.
+
+167
+00:35:33,041 --> 00:35:34,833
+Why did you ever give me this?
+
+168
+00:35:36,125 --> 00:35:36,957
+Why?
+
+169
+00:35:51,916 --> 00:35:55,333
+I thought I could bring an end
+to the world's suffering.
+
+170
+00:35:56,250 --> 00:35:58,833
+But when every equation was solved...
+
+171
+00:36:00,875 --> 00:36:02,500
+<i>all that remained...</i>
+
+172
+00:36:04,833 --> 00:36:08,916
+were fields of dreamless solitude.
+
+173
+00:36:11,291 --> 00:36:13,375
+There is no prize to perfection.
+
+174
+00:36:14,458 --> 00:36:16,583
+Only an end to pursuit.
+
+175
+00:36:17,791 --> 00:36:19,541
+<i>In all timelines,</i>
+
+176
+00:36:20,625 --> 00:36:22,625
+<i>in all possibilities...</i>
+
+177
+00:36:29,625 --> 00:36:31,041
+<i>only you...</i>
+
+178
+00:36:32,875 --> 00:36:34,625
+can show me this.
+
+179
+00:37:11,541 --> 00:37:13,583
+You must go, Jayce.
+
+180
+00:37:32,166 --> 00:37:33,916
+We finish this together.
+
+181
+00:39:48,750 --> 00:39:49,833
+Vi!
+
+182
+00:39:52,666 --> 00:39:55,416
+Vi, hurry, you can make the other ledge.
+
+183
+00:39:58,833 --> 00:39:59,999
+Vi!
+
+184
+00:40:00,000 --> 00:40:01,208
+What are you...?
+
+185
+00:40:08,500 --> 00:40:09,333
+Vi.
+
+186
+00:40:15,125 --> 00:40:16,416
+Vi?
+
+187
+00:40:20,250 --> 00:40:21,708
+You can't save him.
+
+188
+00:40:33,708 --> 00:40:34,541
+Vi!
+
+189
+00:41:06,500 --> 00:41:08,000
+Always with you, sis.
+
+190
+00:41:39,541 --> 00:41:44,332
+<i>♪ If I could just lay my head down
+And rest ♪</i>
+
+191
+00:41:44,333 --> 00:41:49,125
+<i>♪ If there was nothing to fight
+Or protect ♪</i>
+
+192
+00:41:49,916 --> 00:41:54,374
+<i>♪ Maybe then I could finally be free ♪</i>
+
+193
+00:41:54,375 --> 00:41:59,416
+<i>♪ Maybe death is like falling asleep ♪</i>
+
+194
+00:42:00,958 --> 00:42:06,165
+<i>♪ This world is a wasteland
+Where nothing can grow ♪</i>
+
+195
+00:42:06,166 --> 00:42:11,124
+<i>♪ I used to have strength
+But I ran out of hope ♪</i>
+
+196
+00:42:11,125 --> 00:42:16,332
+<i>♪ I know it's my fault
+That I'm here all alone ♪</i>
+
+197
+00:42:16,333 --> 00:42:20,624
+<i>♪ This world is a wasteland ♪</i>
+
+198
+00:42:20,625 --> 00:42:23,165
+<i>♪ Please let me go ♪</i>
+
+199
+00:42:23,166 --> 00:42:26,625
+<i>♪ Go, go, go ♪</i>
+
+200
+00:42:27,291 --> 00:42:31,207
+<i>♪ Go, go, go ♪</i>
+
+201
+00:42:31,208 --> 00:42:33,583
+<i>♪ Please let me go ♪</i>
+
+202
+00:43:24,083 --> 00:43:26,583
+<i>You may read
+about the war in Piltover.</i>
+
+203
+00:43:28,333 --> 00:43:31,666
+<i>But history is made palatably abstract.</i>
+
+204
+00:43:32,250 --> 00:43:33,625
+<i>For its truth...</i>
+
+205
+00:43:35,916 --> 00:43:38,291
+<i>the agony of every sacrifice...</i>
+
+206
+00:43:45,500 --> 00:43:48,125
+<i>the exaltation of every triumph...</i>
+
+207
+00:43:51,500 --> 00:43:53,625
+<i>is more than one should bear.</i>
+
+208
+00:44:01,666 --> 00:44:02,666
+<i>We...</i>
+
+209
+00:44:03,541 --> 00:44:05,208
+<i>whose decisions led us here,</i>
+
+210
+00:44:06,750 --> 00:44:08,083
+<i>will carry them forever.</i>
+
+211
+00:44:15,375 --> 00:44:18,208
+<i>Our only consolation that with every loss,</i>
+
+212
+00:44:18,791 --> 00:44:19,916
+<i>we found some good,</i>
+
+213
+00:44:20,916 --> 00:44:21,750
+<i>some light,</i>
+
+214
+00:44:22,625 --> 00:44:23,833
+<i>worth gaining,</i>
+
+215
+00:44:25,041 --> 00:44:26,416
+<i>worth fighting for.</i>
+
+216
+00:44:37,333 --> 00:44:40,833
+<i>And though we are doomed
+to revisit the error of our ways...</i>
+
+217
+00:44:47,833 --> 00:44:49,875
+<i>spark ever more conflicts...</i>
+
+218
+00:45:09,583 --> 00:45:11,916
+<i>our story isn't over.</i>
+
+219
+00:45:59,833 --> 00:46:00,833
+Is that...
+
+220
+00:46:01,833 --> 00:46:02,916
+singing?
+
+221
+00:46:05,250 --> 00:46:07,583
+It's just a tune my mother used to hum.
+
+222
+00:46:16,458 --> 00:46:18,875
+Are you still in this fight, Violet?
+
+223
+00:46:25,333 --> 00:46:27,708
+I am the dirt under your nails, cupcake.
+
+224
+00:46:30,458 --> 00:46:32,166
+Nothing's gonna clean me out.
+

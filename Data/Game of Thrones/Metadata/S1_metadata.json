@@ -1,0 +1,90 @@
+{
+    "0": {
+        "title": "Unaired Original Pilot",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt31321401",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "1": {
+        "title": "Winter Is Coming",
+        "released": "2011-04-17",
+        "rating": "8.9",
+        "imdb_id": "tt1480055",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S1\\Game.of.Thrones.S01E01-10.BDRIP.x264-KrisszS1E1.zip"
+    },
+    "2": {
+        "title": "The Kingsroad",
+        "released": "2011-04-24",
+        "rating": "8.6",
+        "imdb_id": "tt1668746",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S1\\Game.of.Thrones.S01E02.The.Kingsroad.2160p.UHD.BluRay.REMUX.HDR.HEVC.Atmos-EPSiLONS1E2.zip"
+    },
+    "3": {
+        "title": "Lord Snow",
+        "released": "2011-05-01",
+        "rating": "8.5",
+        "imdb_id": "tt1829962",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S1\\Game.of.Thrones.S01E03.Lord.Snow.2160p.UHD.BluRay.REMUX.HDR.HEVC.Atmos-EPSiLONS1E3.zip"
+    },
+    "4": {
+        "title": "Cripples, Bastards, and Broken Things",
+        "released": "2011-05-08",
+        "rating": "8.6",
+        "imdb_id": "tt1829963",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S1\\Game.of.Thrones.S01E04.Cripples.Bastards.and.Broken.Things.2160p.UHD.BluRay.REMUX.HDR.HEVC.Atmos-EPSiLONS1E4.zip"
+    },
+    "5": {
+        "title": "The Wolf and the Lion",
+        "released": "2011-05-15",
+        "rating": "9.0",
+        "imdb_id": "tt1829964",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S1\\Game.of.Thrones.S01E05.The.Wolf.and.the.Lion.2160p.UHD.BluRay.REMUX.HDR.HEVC.Atmos-EPSiLONS1E5.zip"
+    },
+    "6": {
+        "title": "A Golden Crown",
+        "released": "2011-05-22",
+        "rating": "9.1",
+        "imdb_id": "tt1837862",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S1\\Game.of.Thrones.S01E06.A.Golden.Crown.2160p.UHD.BluRay.REMUX.HDR.HEVC.Atmos-EPSiLONS1E6.zip"
+    },
+    "7": {
+        "title": "You Win or You Die",
+        "released": "2011-05-29",
+        "rating": "9.1",
+        "imdb_id": "tt1837863",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S1\\Game_of_Thrones_S01E07_WebRip_WMV-NoGRPS1E7.zip"
+    },
+    "8": {
+        "title": "The Pointy End",
+        "released": "2011-06-05",
+        "rating": "8.9",
+        "imdb_id": "tt1837864",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S1\\Game.of.Thrones.S01E08.The.Pointy.End.2160p.UHD.BluRay.REMUX.HDR.HEVC.Atmos-EPSiLONS1E8.zip"
+    },
+    "9": {
+        "title": "Baelor",
+        "released": "2011-06-12",
+        "rating": "9.6",
+        "imdb_id": "tt1851398",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S1\\Game.of.Thrones.S01E09.Baelor.2160p.UHD.BluRay.REMUX.HDR.HEVC.Atmos-EPSiLONS1E9.zip"
+    },
+    "10": {
+        "title": "Fire and Blood",
+        "released": "2011-06-19",
+        "rating": "9.4",
+        "imdb_id": "tt1851397",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

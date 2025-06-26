@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Captain Slow Meets the Bugatti Veyron",
+        "released": "2007-01-28",
+        "rating": "N/A",
+        "imdb_id": "tt0946791",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S19\\Top.Gear.S19E01.480p.HDTV.x264-SMS19E1.zip"
+    },
+    "2": {
+        "title": "Captain Slow Meets the Bugatti Veyron",
+        "released": "2007-02-04",
+        "rating": "N/A",
+        "imdb_id": "tt0952430",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S19\\Top.Gear.S19E02.480p.HDTV.x264-SMS19E2.zip"
+    },
+    "3": {
+        "title": "U. S. Special",
+        "released": "2007-02-11",
+        "rating": "N/A",
+        "imdb_id": "tt0960668",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S29\\Top.Gear.S29E03.720p.iP.WEB-DL.AAC2.0.H.264-DRiS29E3.zip"
+    },
+    "4": {
+        "title": "Reliant Robin Space Shuttle Challenge",
+        "released": "2007-02-18",
+        "rating": "N/A",
+        "imdb_id": "tt0962493",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S19\\Top_Gear_S19E04_480p_HDTV_x264_SMS19E4.zip"
+    },
+    "5": {
+        "title": "Tractors",
+        "released": "2007-02-25",
+        "rating": "N/A",
+        "imdb_id": "tt0966524",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S33\\Top.Gear.S33E05.WEBS33E5.zip"
+    },
+    "6": {
+        "title": "The Everyday Stretch Limo Challenge",
+        "released": "2007-03-04",
+        "rating": "N/A",
+        "imdb_id": "tt0973671",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Top Gear of the Pops",
+        "released": "2007-03-16",
+        "rating": "N/A",
+        "imdb_id": "tt0996660",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S9\\Top.Gear.S09E07.720p.Polar.SpecialS9E7.zip"
+    },
+    "8": {
+        "title": "Polar Special",
+        "released": "2007-07-25",
+        "rating": "9.0",
+        "imdb_id": "tt1070690",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

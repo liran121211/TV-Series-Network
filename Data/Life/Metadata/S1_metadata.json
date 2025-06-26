@@ -1,0 +1,90 @@
+{
+    "1": {
+        "title": "Challenges of Life",
+        "released": "2009-10-12",
+        "rating": "8.7",
+        "imdb_id": "tt1535233",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Life\\Subtitles\\S1\\Life_-_S01E01_-_Challenges_of_Life_[YIFY]S1E1.zip"
+    },
+    "2": {
+        "title": "Reptiles & Amphibians",
+        "released": "2009-10-19",
+        "rating": "8.7",
+        "imdb_id": "tt1558023",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Life\\Subtitles\\S1\\Life-S01E02-ReptilesandAmphibians[YIFY]S1E2.zip"
+    },
+    "3": {
+        "title": "Mammals",
+        "released": "2009-10-26",
+        "rating": "8.5",
+        "imdb_id": "tt1561895",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Life\\Subtitles\\S1\\Life_-_S01E03_-_Mammals_[YIFY]S1E3.zip"
+    },
+    "4": {
+        "title": "Fish",
+        "released": "2009-11-02",
+        "rating": "8.5",
+        "imdb_id": "tt1561892",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Life\\Subtitles\\S1\\Life_-_S01E04_-_Fish_[YIFY]S1E4.zip"
+    },
+    "5": {
+        "title": "Birds",
+        "released": "2009-11-09",
+        "rating": "8.3",
+        "imdb_id": "tt1561890",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Life\\Subtitles\\S1\\Life_-_S01E05_-_Birds_[YIFY]S1E5.zip"
+    },
+    "6": {
+        "title": "Insects",
+        "released": "2009-11-16",
+        "rating": "8.5",
+        "imdb_id": "tt1561894",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Life\\Subtitles\\S1\\Life-S01E06-Insects[YIFY]S1E6.zip"
+    },
+    "7": {
+        "title": "Hunters and Hunted",
+        "released": "2009-11-23",
+        "rating": "8.3",
+        "imdb_id": "tt1561893",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Life\\Subtitles\\S1\\Life-S01E07-HuntersandHunted[YIFY]S1E7.zip"
+    },
+    "8": {
+        "title": "Creatures of the Deep",
+        "released": "2009-11-30",
+        "rating": "8.5",
+        "imdb_id": "tt1561891",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Life\\Subtitles\\S1\\Life-S01E08-CreaturesoftheDeep[YIFY]S1E8.zip"
+    },
+    "9": {
+        "title": "Plants",
+        "released": "2009-12-07",
+        "rating": "8.7",
+        "imdb_id": "tt1561896",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Life\\Subtitles\\S1\\Life_-_S01E09_-_Plants_[YIFY]S1E9.zip"
+    },
+    "10": {
+        "title": "Primates",
+        "released": "2009-12-14",
+        "rating": "8.5",
+        "imdb_id": "tt1575290",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Making of Life",
+        "released": "2010-04-18",
+        "rating": "7.4",
+        "imdb_id": "tt1683650",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

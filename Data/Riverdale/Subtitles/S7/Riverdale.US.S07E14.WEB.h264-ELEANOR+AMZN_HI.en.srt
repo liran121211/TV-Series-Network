@@ -1,0 +1,3158 @@
+﻿1
+00:00:01,432 --> 00:00:03,101
+[ALARM RINGING]
+
+2
+00:00:04,352 --> 00:00:07,730
+<i>♪ Please tell me it's Sunday
+There's still one more fun day ♪</i>
+
+3
+00:00:07,814 --> 00:00:10,941
+<i>♪ Another day of summer, please ♪</i>
+
+4
+00:00:11,024 --> 00:00:13,777
+<i>♪ Give me one more day of fun
+Not this bummer one ♪</i>
+
+5
+00:00:13,860 --> 00:00:15,904
+<i>♪ Why is life so cruel? ♪</i>
+
+6
+00:00:15,987 --> 00:00:17,656
+<i>♪ Today, I'm heading to school ♪</i>
+
+7
+00:00:17,739 --> 00:00:22,953
+<i>♪ The first day, the worst day
+The same old teachers ♪</i>
+
+8
+00:00:23,036 --> 00:00:24,453
+<i>♪ Yapping in our ears ♪</i>
+
+9
+00:00:24,537 --> 00:00:26,831
+<i>♪ The worst day, the first day ♪</i>
+
+10
+00:00:26,914 --> 00:00:31,669
+<i>♪ But at least it's our senior year ♪</i>
+
+11
+00:00:31,752 --> 00:00:35,172
+<i>♪ It's finally here
+I've waited so long ♪</i>
+
+12
+00:00:35,256 --> 00:00:37,632
+<i>♪ For this one day, Monday ♪</i>
+
+13
+00:00:37,716 --> 00:00:39,426
+<i>♪ I hope it won't go too fast ♪</i>
+
+14
+00:00:39,509 --> 00:00:42,262
+<i>♪ Last year was nothing but good times ♪</i>
+
+15
+00:00:42,345 --> 00:00:44,013
+<i>♪ Nothing but fun ahead ♪</i>
+
+16
+00:00:44,097 --> 00:00:47,225
+<i>♪ My final page in the yearbook
+Come on, nothing to fear ♪</i>
+
+17
+00:00:47,308 --> 00:00:49,852
+<i>♪ Looking ahead and I can see ♪</i>
+
+18
+00:00:49,935 --> 00:00:53,564
+<i>♪ I'm a model A-student
+I'll be perfect and prudent ♪</i>
+
+19
+00:00:53,647 --> 00:00:56,316
+<i>♪ Come on, world
+I'm taking you on ♪</i>
+
+20
+00:00:56,942 --> 00:01:02,531
+[BOTH] <i>♪ The first day, our first day
+Monday, senior year ♪</i>
+
+21
+00:01:03,531 --> 00:01:05,950
+<i>♪ Riverdale, are you ready for me? ♪</i>
+
+22
+00:01:06,034 --> 00:01:09,245
+<i>♪ 'Cause this new girl is coming in hot ♪</i>
+
+23
+00:01:09,328 --> 00:01:12,498
+<i>♪ With looks and style
+And brains and class ♪</i>
+
+24
+00:01:12,582 --> 00:01:15,500
+<i>♪ And money, well, I do have a lot ♪</i>
+
+25
+00:01:16,376 --> 00:01:19,755
+<i>♪ Mirror, mirror, on the shelf ♪</i>
+
+26
+00:01:19,838 --> 00:01:21,673
+<i>♪ Have I outdone myself? ♪</i>
+
+27
+00:01:21,757 --> 00:01:24,634
+<i>♪ Using Versace, Prada, Klein
+Looking fine ♪</i>
+
+28
+00:01:24,718 --> 00:01:28,721
+<i>♪ I'm gonna tag him, bag him
+Make him mine ♪</i>
+
+29
+00:01:28,804 --> 00:01:32,224
+<i>♪ Four years
+Feels like I've done it before ♪</i>
+
+30
+00:01:32,308 --> 00:01:35,478
+<i>♪ Four years, feels like so much more ♪</i>
+
+31
+00:01:35,561 --> 00:01:38,230
+<i>♪ Four summers spent, so cruel ♪</i>
+
+32
+00:01:38,314 --> 00:01:39,482
+<i>♪ No more summer ♪</i>
+
+33
+00:01:39,565 --> 00:01:41,900
+<i>♪ No more summer school ♪</i>
+
+34
+00:01:41,983 --> 00:01:45,862
+<i>♪ Ready, set, and blast it
+Stepping up, I passed it ♪</i>
+
+35
+00:01:45,945 --> 00:01:48,281
+<i>♪ And I'm taking my place ♪</i>
+
+36
+00:01:48,364 --> 00:01:52,327
+<i>♪ Kicking back with my pals
+And finding myself ♪</i>
+
+37
+00:01:52,410 --> 00:01:54,369
+<i>♪ And finding pizza boxes under my bed ♪</i>
+
+38
+00:01:54,453 --> 00:01:57,247
+[ALL] <i>♪ Lunchtime, so many more
+Cafeteria ♪</i>
+
+39
+00:01:57,331 --> 00:01:58,832
+<i>♪ More burgers aplenty ♪</i>
+
+40
+00:01:58,916 --> 00:02:02,669
+<i>♪ More eating for
+Twenty more minutes till breakfast ♪</i>
+
+41
+00:02:02,753 --> 00:02:06,173
+<i>♪ Eggs and bacon it
+Making it all we can-wich ♪</i>
+
+42
+00:02:06,256 --> 00:02:07,465
+<i>♪ Sandwich ♪</i>
+
+43
+00:02:07,548 --> 00:02:10,843
+<i>♪ Bow down, freshies
+I shan't repeat ♪</i>
+
+44
+00:02:10,927 --> 00:02:13,888
+<i>♪ All hail
+Your new River Vixen queens ♪</i>
+
+45
+00:02:13,971 --> 00:02:16,474
+<i>♪ High school is a pyramid of mean ♪</i>
+
+46
+00:02:16,557 --> 00:02:19,936
+<i>♪ And we run the halls
+So act accordingly ♪</i>
+
+47
+00:02:20,019 --> 00:02:23,355
+<i>♪ Tip-off, ready to score
+Playing to win one more ♪</i>
+
+48
+00:02:23,438 --> 00:02:26,149
+[ALL] <i>♪ Seniors, let's go! Go, seniors! ♪</i>
+
+49
+00:02:26,233 --> 00:02:28,151
+<i>♪ Last batch of high school prudes ♪</i>
+
+50
+00:02:28,235 --> 00:02:29,820
+<i>♪ Next year, it's college girls ♪</i>
+
+51
+00:02:29,903 --> 00:02:32,697
+[ALL] <i>♪ College girls with attitude ♪</i>
+
+52
+00:02:32,781 --> 00:02:36,200
+<i>♪ Sophomore, junior
+Soon you'll rule in the school ♪</i>
+
+53
+00:02:36,283 --> 00:02:39,078
+<i>♪ Partying supreme year, senior ♪</i>
+
+54
+00:02:39,161 --> 00:02:41,664
+<i>♪ Slam dunk, homecoming king, class ring ♪</i>
+
+55
+00:02:41,747 --> 00:02:44,041
+<i>♪ No-look pass, last shot, cue the band! ♪</i>
+
+56
+00:02:44,124 --> 00:02:45,793
+[ALL] <i>♪ Varsity state champs ♪</i>
+
+57
+00:02:45,876 --> 00:02:47,710
+<i>♪ Most Likely to Be Year ♪</i>
+
+58
+00:02:47,794 --> 00:02:51,339
+<i>♪ Me year, my year, school year
+I rule year ♪</i>
+
+59
+00:02:51,422 --> 00:02:56,177
+[ALL] <i>♪ And our band on the stand ♪</i>
+
+60
+00:02:56,261 --> 00:02:58,221
+<i>♪ And my friends, amazing ♪</i>
+
+61
+00:02:58,304 --> 00:03:01,473
+<i>♪ Our song plays on the radio ♪</i>
+
+62
+00:03:01,557 --> 00:03:04,643
+<i>♪ Our song plays on the radio ♪</i>
+
+63
+00:03:04,726 --> 00:03:08,397
+<i>♪ These are the days ♪</i>
+
+64
+00:03:08,480 --> 00:03:10,816
+<i>♪ These are the days ♪</i>
+
+65
+00:03:11,400 --> 00:03:14,819
+<i>♪ These are the days ♪</i>
+
+66
+00:03:14,902 --> 00:03:17,238
+<i>♪ These are the days ♪</i>
+
+67
+00:03:17,989 --> 00:03:20,157
+<i>♪ All our friends
+Till the end come together ♪</i>
+
+68
+00:03:20,241 --> 00:03:22,952
+<i>♪ We'll make it, one day, Monday ♪</i>
+
+69
+00:03:23,035 --> 00:03:25,662
+<i>♪ Senior year ♪</i>
+
+70
+00:03:26,413 --> 00:03:28,748
+Wow, that was incredible.
+Was that not so incredible, Clay?
+
+71
+00:03:28,832 --> 00:03:32,669
+For a first sing-through,
+that was the most monster.
+
+72
+00:03:32,752 --> 00:03:34,337
+You two wrote this song?
+
+73
+00:03:34,421 --> 00:03:36,173
+All the songs you'll be rehearsing.
+
+74
+00:03:36,256 --> 00:03:38,132
+This is a lot of music to learn.
+
+75
+00:03:38,215 --> 00:03:39,341
+For the first time ever,
+
+76
+00:03:39,425 --> 00:03:42,636
+Principal Featherhead is open
+to doing an original musical this spring,
+
+77
+00:03:42,720 --> 00:03:45,181
+as opposed to, say, <i>Oklahoma!</i>
+for the millionth time.
+
+78
+00:03:45,264 --> 00:03:48,350
+So Kevin and I decided
+to write a show about, well,
+
+79
+00:03:48,434 --> 00:03:50,977
+all of us and our lives at Riverdale High.
+
+80
+00:03:51,060 --> 00:03:54,189
+But Featherhead needs to see
+a workshop presentation
+
+81
+00:03:54,272 --> 00:03:55,857
+before he gives it the official go-ahead.
+
+82
+00:03:55,940 --> 00:03:58,735
+But why the heck
+are we playing seniors in the show?
+
+83
+00:03:58,818 --> 00:04:00,153
+We're juniors in real life.
+
+84
+00:04:00,236 --> 00:04:03,364
+Well, senior year is just
+so much more kicking for the storyline.
+
+85
+00:04:03,448 --> 00:04:05,866
+Teens on the cusp
+of the rest of their lives.
+
+86
+00:04:05,949 --> 00:04:09,536
+But, dramaturgically,
+I'm still the new girl?
+
+87
+00:04:09,620 --> 00:04:13,248
+- "Coming in hot"? Does that make sense?
+- And why am I a bit player?
+
+88
+00:04:13,332 --> 00:04:15,500
+I'm the best singer in this damn school.
+
+89
+00:04:15,584 --> 00:04:18,085
+- Fangs is the best singer.
+- I'm the best singer...
+
+90
+00:04:18,169 --> 00:04:20,755
+You're also Archie's understudy, Julian.
+Don't forget.
+
+91
+00:04:20,838 --> 00:04:22,506
+And Archie is the main character.
+
+92
+00:04:22,590 --> 00:04:24,467
+You just said the show
+was about all of us.
+
+93
+00:04:24,550 --> 00:04:28,512
+Yeah, and Cheryl and I aren't here
+to play glorified chorus girls.
+
+94
+00:04:28,596 --> 00:04:31,598
+Everyone's gonna have at least
+a solo line or two in the closing number,
+
+95
+00:04:31,681 --> 00:04:35,644
+which is all about,
+wait for it, prom night.
+
+96
+00:04:36,686 --> 00:04:38,688
+[WHISTLES] And I am out.
+
+97
+00:04:38,772 --> 00:04:41,107
+I'm sorry, Kevin, Clay.
+
+98
+00:04:41,191 --> 00:04:43,192
+I cannot, in good conscience,
+participate in this.
+
+99
+00:04:43,275 --> 00:04:46,695
+In my opinion, there is no lower art form
+than American musical comedy.
+
+100
+00:04:46,779 --> 00:04:49,365
+I'm gonna back-window it too.
+I got the looks for acting,
+
+101
+00:04:49,448 --> 00:04:54,119
+- but I'm not much for singing and dancing.
+- Okay. That's fine. Not ideal.
+
+102
+00:04:54,203 --> 00:04:56,454
+Clay and I
+will write you both out of the show.
+
+103
+00:04:56,537 --> 00:04:59,165
+In the meantime,
+everyone else is dismissed until tomorrow,
+
+104
+00:04:59,249 --> 00:05:00,959
+except for Archie and Julian.
+
+105
+00:05:01,501 --> 00:05:04,170
+We are going to workshop
+Archie's "I want" song.
+
+106
+00:05:04,254 --> 00:05:06,547
+So hang back, fellas, would you?
+
+107
+00:05:11,677 --> 00:05:14,012
+Traditionally,
+the "I want" song in a musical
+
+108
+00:05:14,096 --> 00:05:16,682
+tells the audience
+what our hero is searching for.
+
+109
+00:05:16,765 --> 00:05:19,101
+Their innermost dreams or desires.
+
+110
+00:05:19,726 --> 00:05:21,227
+[MUSIC STARTS]
+
+111
+00:05:23,896 --> 00:05:27,608
+<i>♪ I just turned 17
+I'm master of my scene ♪</i>
+
+112
+00:05:27,692 --> 00:05:31,153
+<i>♪ Still something
+Sort of not completely cool ♪</i>
+
+113
+00:05:31,237 --> 00:05:34,531
+<i>♪ Guess I'm talking about
+The problem that I got ♪</i>
+
+114
+00:05:34,614 --> 00:05:38,201
+<i>♪ When things get chilly
+That is when I want them hot ♪</i>
+
+115
+00:05:38,284 --> 00:05:42,288
+<i>♪ It might sound silly
+But it bothers me a lot ♪</i>
+
+116
+00:05:43,331 --> 00:05:45,959
+[BOTH] <i>♪ Archie going left
+Archie going right ♪</i>
+
+117
+00:05:46,042 --> 00:05:49,545
+<i>♪ Archie running any road
+That he can find ♪</i>
+
+118
+00:05:49,628 --> 00:05:53,924
+<i>♪ Archie never making up
+His All-American mind ♪</i>
+
+119
+00:05:54,008 --> 00:05:57,219
+<i>♪ Making up his All-American mind ♪</i>
+
+120
+00:06:00,763 --> 00:06:04,308
+<i>♪ I look at other guys
+With fire in their eyes ♪</i>
+
+121
+00:06:04,392 --> 00:06:07,979
+<i>♪ They know the way
+Their whole lives will play out ♪</i>
+
+122
+00:06:08,062 --> 00:06:09,689
+<i>♪ Me, I don't have a clue ♪</i>
+
+123
+00:06:09,772 --> 00:06:11,607
+<i>♪ Of what I'm gonna do ♪</i>
+
+124
+00:06:11,691 --> 00:06:15,068
+<i>♪ Or even what my story is about ♪</i>
+
+125
+00:06:15,152 --> 00:06:18,488
+[BOTH] <i>♪ Think it's time
+I make a big decision ♪</i>
+
+126
+00:06:18,572 --> 00:06:22,117
+<i>♪ Attack my problems
+With a slick precision ♪</i>
+
+127
+00:06:22,200 --> 00:06:25,287
+<i>♪ Only then can I get rid of the vision ♪</i>
+
+128
+00:06:25,370 --> 00:06:27,788
+<i>♪ Of Archie going left
+Archie going right ♪</i>
+
+129
+00:06:27,872 --> 00:06:31,625
+<i>♪ Archie running any road
+That he can find ♪</i>
+
+130
+00:06:31,709 --> 00:06:36,797
+<i>♪ Archie never making up
+His All-American mind, making up... ♪</i>
+
+131
+00:06:36,881 --> 00:06:40,258
+- No, stop, stop, stop!
+- What the hell, man? We were humming.
+
+132
+00:06:40,341 --> 00:06:42,635
+I don't wanna be a drip,
+but it's super distracting
+
+133
+00:06:42,719 --> 00:06:46,264
+when my understudy is singing
+literally at the same time as me.
+
+134
+00:06:46,347 --> 00:06:48,600
+Also, I'm not really
+jiving with this song.
+
+135
+00:06:48,683 --> 00:06:50,268
+That's funny. I am.
+
+136
+00:06:50,351 --> 00:06:52,895
+Well, Archie, as we said,
+this is your "I want" song.
+
+137
+00:06:52,978 --> 00:06:55,439
+It seems more like
+an "I don't know what I want" song.
+
+138
+00:06:55,522 --> 00:06:57,983
+Not to worry.
+We can figure something out. Um...
+
+139
+00:06:59,151 --> 00:07:02,446
+What do you want
+your "I want" song to be about, Archie?
+
+140
+00:07:02,529 --> 00:07:05,740
+What do you, Archie Andrews,
+want to do in real life?
+
+141
+00:07:05,823 --> 00:07:08,868
+What's your secret passion or dream?
+
+142
+00:07:10,119 --> 00:07:12,997
+I... want...
+
+143
+00:07:13,081 --> 00:07:15,875
+Who is Archie Andrews?
+
+144
+00:07:15,958 --> 00:07:17,709
+Do you even know what you want?
+
+145
+00:07:17,793 --> 00:07:19,669
+Is it romantic? Do you wanna date Betty?
+
+146
+00:07:19,753 --> 00:07:21,129
+Do you wanna date Veronica?
+
+147
+00:07:21,213 --> 00:07:24,633
+- Do you wanna be on the basketball team?
+- Or do you wanna write poetry?
+
+148
+00:07:24,716 --> 00:07:26,426
+What is it? All of these things?
+
+149
+00:07:26,510 --> 00:07:27,677
+Well, I don't know.
+
+150
+00:07:27,761 --> 00:07:30,679
+But, yeah, I mean, maybe all of them.
+
+151
+00:07:30,763 --> 00:07:32,890
+No, I'm sorry, that doesn't work.
+
+152
+00:07:32,973 --> 00:07:35,893
+The "I want" song can only be about
+one thing, or it confuses the audience.
+
+153
+00:07:35,976 --> 00:07:38,354
+It means you have
+a poorly defined main character.
+
+154
+00:07:38,437 --> 00:07:41,857
+No biggie. Kevin and I can take
+another stab at your "I want" song.
+
+155
+00:07:41,941 --> 00:07:45,819
+If I don't really know what I wanna do,
+how are you gonna write a song about it?
+
+156
+00:07:45,902 --> 00:07:47,529
+Listen, we'll figure it out.
+
+157
+00:07:48,196 --> 00:07:50,240
+And you are gonna love it. I promise.
+
+158
+00:07:51,825 --> 00:07:53,118
+[SIGHS] Golly.
+
+159
+00:07:53,201 --> 00:07:55,870
+Is there anything more stressful
+than workshopping a new musical?
+
+160
+00:07:55,954 --> 00:07:59,039
+- Especially one that's about your friends?
+- If there is, it beats me.
+
+161
+00:07:59,123 --> 00:08:01,500
+But you're handling it all like a champ.
+
+162
+00:08:01,583 --> 00:08:04,711
+Especially given everything you're
+going through at home with your folks.
+
+163
+00:08:04,795 --> 00:08:07,256
+Listen, the only reason
+I'm getting through any of this
+
+164
+00:08:07,339 --> 00:08:10,466
+is because of how supportive
+and incredible you are, Clay.
+
+165
+00:08:11,050 --> 00:08:13,803
+<i>♪ Heaven sent me an angel ♪</i>
+
+166
+00:08:13,886 --> 00:08:19,308
+<i>♪ In my soul, a mystery unfolding ♪</i>
+
+167
+00:08:19,392 --> 00:08:22,477
+<i>♪ Nothing more than chances ♪</i>
+
+168
+00:08:22,561 --> 00:08:27,190
+<i>♪ I miss you yesterday ♪</i>
+
+169
+00:08:27,274 --> 00:08:30,527
+<i>♪ Collecting midnights ♪</i>
+
+170
+00:08:30,610 --> 00:08:34,656
+<i>♪ And the evening is gone ♪</i>
+
+171
+00:08:34,739 --> 00:08:38,951
+[BOTH] <i>♪ The world so far away ♪</i>
+
+172
+00:08:39,034 --> 00:08:43,664
+<i>♪ When I stand with you ♪</i>
+
+173
+00:08:43,747 --> 00:08:47,168
+<i>♪ This ain't no ordinary feeling ♪</i>
+
+174
+00:08:47,251 --> 00:08:49,335
+<i>♪ This is love ♪</i>
+
+175
+00:08:49,419 --> 00:08:51,880
+<i>♪ This is love ♪</i>
+
+176
+00:08:52,714 --> 00:08:55,550
+{\an8}<i>♪ Time takes a picture ♪</i>
+
+177
+00:08:55,633 --> 00:09:01,221
+{\an8}<i>♪ And we vanish in the light ♪</i>
+
+178
+00:09:01,305 --> 00:09:04,141
+{\an8}[BOTH] <i>♪ This dream, this moment ♪</i>
+
+179
+00:09:04,224 --> 00:09:07,936
+<i>♪ All it wants is you ♪</i>
+
+180
+00:09:09,563 --> 00:09:11,732
+<i>♪ You came my way ♪</i>
+
+181
+00:09:11,815 --> 00:09:16,527
+<i>♪ And stole my heart ♪</i>
+
+182
+00:09:16,611 --> 00:09:21,073
+<i>♪ I wanna be your shelter ♪</i>
+
+183
+00:09:21,157 --> 00:09:25,786
+[BOTH] <i>♪ The wonder of you ♪</i>
+
+184
+00:09:25,870 --> 00:09:28,914
+<i>♪ This ain't no ordinary feeling ♪</i>
+
+185
+00:09:28,997 --> 00:09:31,082
+<i>♪ This is love ♪</i>
+
+186
+00:09:31,166 --> 00:09:34,127
+<i>♪ This is love ♪</i>
+
+187
+00:09:34,211 --> 00:09:37,214
+<i>♪ This ain't no ordinary feeling ♪</i>
+
+188
+00:09:37,297 --> 00:09:38,548
+<i>♪ This is love ♪</i>
+
+189
+00:09:38,632 --> 00:09:42,801
+<i>♪ Baby, this is love ♪</i>
+
+190
+00:09:57,565 --> 00:09:59,317
+[SWING MUSIC PLAYING ON JUKEBOX]
+
+191
+00:10:00,318 --> 00:10:02,904
+I know who I'm hoping takes me
+to the Valentine's Dance.
+
+192
+00:10:02,987 --> 00:10:05,198
+But who are you fuzzy ducks chasing?
+
+193
+00:10:08,242 --> 00:10:11,787
+<i>♪ I'm not the kind of girl
+Who's gotta twist and twirl ♪</i>
+
+194
+00:10:11,870 --> 00:10:14,831
+<i>♪ Every boy around my little finger ♪</i>
+
+195
+00:10:14,915 --> 00:10:18,126
+<i>♪ There's just one special guy
+Who always catches my eye ♪</i>
+
+196
+00:10:18,210 --> 00:10:21,295
+<i>♪ In my heart, he always lingers ♪</i>
+
+197
+00:10:21,379 --> 00:10:23,714
+<i>♪ He needs a Betty
+All set and ready ♪</i>
+
+198
+00:10:23,798 --> 00:10:26,259
+<i>♪ He and I make the perfect pair ♪</i>
+
+199
+00:10:26,342 --> 00:10:30,721
+<i>♪ Beware to a certain beauty queen
+Who comes between us ♪</i>
+
+200
+00:10:30,805 --> 00:10:33,932
+<i>♪ The girl for him is me ♪</i>
+
+201
+00:10:34,015 --> 00:10:37,060
+<i>♪ I'm not the kind of girl
+Who comes in second place ♪</i>
+
+202
+00:10:37,143 --> 00:10:39,896
+<i>♪ I don't sit and wait for a date ♪</i>
+
+203
+00:10:39,980 --> 00:10:42,315
+<i>♪ I serve it up on a silver plate ♪</i>
+
+204
+00:10:42,399 --> 00:10:44,067
+<i>♪ Somewhere chic and fun ♪</i>
+
+205
+00:10:44,150 --> 00:10:46,944
+<i>♪ If that doesn't work
+I'll bring out the big guns ♪</i>
+
+206
+00:10:47,027 --> 00:10:48,487
+<i>♪ He needs a Ronnie ♪</i>
+
+207
+00:10:48,571 --> 00:10:51,782
+<i>♪ I bring it on
+He and I are the perfect pair ♪</i>
+
+208
+00:10:51,865 --> 00:10:53,242
+<i>♪ Beware ♪</i>
+
+209
+00:10:53,325 --> 00:10:54,952
+<i>♪ Goody, goody ♪</i>
+
+210
+00:10:55,035 --> 00:10:59,289
+<i>♪ Why would he with you
+When the girl for him is me? ♪</i>
+
+211
+00:10:59,372 --> 00:11:02,917
+[BOTH] <i>♪ The boy is mine
+Next Friday, Valentine's Dance ♪</i>
+
+212
+00:11:03,001 --> 00:11:05,962
+<i>♪ My chance of ending the chase ♪</i>
+
+213
+00:11:06,045 --> 00:11:09,382
+<i>♪ Can't hardly wait to be the one
+Hot fun ♪</i>
+
+214
+00:11:09,465 --> 00:11:13,218
+<i>♪ Next Friday, Valentine, Archie's mine ♪</i>
+
+215
+00:11:14,177 --> 00:11:16,179
+<i>♪ P.S., I must confess ♪</i>
+
+216
+00:11:16,263 --> 00:11:20,100
+<i>♪ Archie met me at Pop's yesterday ♪</i>
+
+217
+00:11:20,183 --> 00:11:22,060
+<i>♪ He asked for a ride on my bike ♪</i>
+
+218
+00:11:22,144 --> 00:11:26,063
+<i>♪ He's looking at me in that certain way ♪</i>
+
+219
+00:11:26,147 --> 00:11:29,775
+<i>♪ I sped around all over town
+Yesterday with Archie ♪</i>
+
+220
+00:11:29,859 --> 00:11:33,112
+<i>♪ I bet you heard my engine rev ♪</i>
+
+221
+00:11:33,195 --> 00:11:36,573
+<i>♪ Toni, please
+FYI, Archie was at my house ♪</i>
+
+222
+00:11:36,656 --> 00:11:38,283
+<i>♪ Day before yesterday ♪</i>
+
+223
+00:11:38,366 --> 00:11:40,577
+<i>♪ There must've been a storm outside ♪</i>
+
+224
+00:11:40,660 --> 00:11:42,454
+<i>♪ 'Cause what do you know? ♪</i>
+
+225
+00:11:42,537 --> 00:11:45,665
+<i>♪ The lights went out
+And me and Archie got close ♪</i>
+
+226
+00:11:45,749 --> 00:11:48,960
+<i>♪ His hand in mine
+We had a good time ♪</i>
+
+227
+00:11:49,044 --> 00:11:51,795
+<i>♪ I pulled out my pom-poms
+My moves were sublime ♪</i>
+
+228
+00:11:51,879 --> 00:11:55,215
+<i>♪ And Archie leaned in ♪</i>
+
+229
+00:11:55,299 --> 00:11:58,844
+<i>♪ The boy is mine
+Tomorrow, Valentine's Dance ♪</i>
+
+230
+00:11:58,927 --> 00:12:02,138
+<i>♪ My chance of ending the chase ♪</i>
+
+231
+00:12:02,221 --> 00:12:05,308
+<i>♪ Can't hardly wait to be the one
+Hot fun ♪</i>
+
+232
+00:12:05,391 --> 00:12:08,770
+<i>♪ Tomorrow, Valentine, Archie's mine ♪</i>
+
+233
+00:12:08,853 --> 00:12:13,399
+<i>♪ One boy plus four best friends ♪</i>
+
+234
+00:12:13,483 --> 00:12:15,734
+<i>♪ Pretty girls getting ugly ♪</i>
+
+235
+00:12:15,817 --> 00:12:17,861
+<i>♪ Scratch and fight
+Kiss and hug me ♪</i>
+
+236
+00:12:17,944 --> 00:12:20,614
+<i>♪ Best frenemies ♪</i>
+
+237
+00:12:20,697 --> 00:12:22,824
+<i>♪ Me and my best frenemies ♪</i>
+
+238
+00:12:23,492 --> 00:12:25,869
+Yowzah! So fun, right? What a bop.
+
+239
+00:12:25,952 --> 00:12:28,329
+{\an8}A bop on the head, maybe, you twit.
+
+240
+00:12:28,412 --> 00:12:32,166
+{\an8}Kevin, what is this?
+We're all friends, not "frenemies."
+
+241
+00:12:32,249 --> 00:12:34,377
+- What does that word even mean?
+- I invented it.
+
+242
+00:12:34,460 --> 00:12:36,462
+{\an8}Is this how you see us?
+
+243
+00:12:36,545 --> 00:12:39,423
+{\an8}Vapid, khaki-wacky girls
+fighting over some guy
+
+244
+00:12:39,507 --> 00:12:42,217
+{\an8}who doesn't have
+any interest in any of us?
+
+245
+00:12:42,300 --> 00:12:45,595
+- Don't worry. We can work up a new song.
+- No, we will.
+
+246
+00:12:45,678 --> 00:12:49,682
+{\an8}We deserve a song with more depth,
+written from our point of view.
+
+247
+00:12:49,766 --> 00:12:51,559
+Since when do you two write songs?
+
+248
+00:12:51,643 --> 00:12:52,977
+{\an8}Oh, we're not gonna write it.
+
+249
+00:12:53,061 --> 00:12:56,688
+{\an8}I'll get one of my Oscar
+and/or Tony-winning pals to write it.
+
+250
+00:12:56,772 --> 00:12:59,233
+{\an8}I'm thinking Cole Porter.
+
+251
+00:12:59,316 --> 00:13:00,734
+{\an8}Also, not to pile on,
+
+252
+00:13:00,818 --> 00:13:04,822
+{\an8}but this song was obviously intended
+to be a Betty and Veronica duet.
+
+253
+00:13:04,905 --> 00:13:07,448
+{\an8}Which you clearly
+added us to at the last minute.
+
+254
+00:13:07,532 --> 00:13:09,742
+{\an8}You did ask for more stage time.
+
+255
+00:13:09,826 --> 00:13:14,080
+{\an8}You know what? I'm challenging you
+to write something truthful.
+
+256
+00:13:14,163 --> 00:13:16,666
+{\an8}Not just about Toni and I,
+though that would be lovely.
+
+257
+00:13:16,749 --> 00:13:20,335
+{\an8}But something more honest
+about you two as well.
+
+258
+00:13:23,547 --> 00:13:25,382
+{\an8}[SCHOOL BELL RINGING]
+
+259
+00:13:25,465 --> 00:13:27,926
+{\an8}All right. We heard your notes, Archie.
+
+260
+00:13:28,009 --> 00:13:31,221
+- I didn't really have any notes.
+- And we wrote you a new "I want" song.
+
+261
+00:13:31,304 --> 00:13:34,223
+{\an8}Strong musicals
+always have a romantic core.
+
+262
+00:13:34,306 --> 00:13:37,977
+{\an8}So that's why we decided
+to focus on your quest for love.
+
+263
+00:13:38,644 --> 00:13:39,937
+{\an8}My quest for love?
+
+264
+00:13:40,020 --> 00:13:42,523
+{\an8}You wanna give it a whirl?
+See how it fits?
+
+265
+00:13:44,442 --> 00:13:46,359
+{\an8}Sure, jelly, let's roll.
+
+266
+00:13:48,027 --> 00:13:51,990
+{\an8}<i>♪ I've never been the type
+To know for certain ♪</i>
+
+267
+00:13:52,073 --> 00:13:56,202
+{\an8}<i>♪ I'm always looking for a better view ♪</i>
+
+268
+00:13:56,286 --> 00:14:00,497
+{\an8}<i>♪ I'm wondering
+What's behind that other curtain ♪</i>
+
+269
+00:14:00,581 --> 00:14:04,084
+{\an8}<i>♪ I wanna have my cake and eat it too ♪</i>
+
+270
+00:14:05,002 --> 00:14:07,880
+{\an8}<i>♪ All this talk about growing up ♪</i>
+
+271
+00:14:07,963 --> 00:14:12,008
+<i>♪ Well, I can't help feeling
+A little stuck ♪</i>
+
+272
+00:14:12,091 --> 00:14:14,886
+{\an8}<i>♪ Between wanting and needing ♪</i>
+
+273
+00:14:14,969 --> 00:14:16,929
+{\an8}<i>♪ Living and dreaming ♪</i>
+
+274
+00:14:17,013 --> 00:14:19,515
+{\an8}<i>♪ All I ever wanted was a love ♪</i>
+
+275
+00:14:19,599 --> 00:14:23,186
+{\an8}<i>♪ That's so, so true, yeah ♪</i>
+
+276
+00:14:24,145 --> 00:14:26,605
+<i>♪ And I got two ♪</i>
+
+277
+00:14:30,066 --> 00:14:33,445
+<i>♪ I could have a penthouse in the city ♪</i>
+
+278
+00:14:33,528 --> 00:14:37,656
+<i>♪ Be in the suburbs with a picket fence ♪</i>
+
+279
+00:14:37,740 --> 00:14:42,286
+{\an8}<i>♪ They're both so different
+But they're both pretty ♪</i>
+
+280
+00:14:42,369 --> 00:14:45,915
+<i>♪ It's hard to choose
+I guess it just depends ♪</i>
+
+281
+00:14:46,540 --> 00:14:50,585
+{\an8}<i>♪ Sometimes I crave
+A little cotton candy ♪</i>
+
+282
+00:14:50,668 --> 00:14:54,714
+{\an8}<i>♪ Sometimes I wanna have
+Some onion rings ♪</i>
+
+283
+00:14:54,798 --> 00:14:59,010
+<i>♪ They're both delicious
+Please understand me ♪</i>
+
+284
+00:14:59,093 --> 00:15:02,222
+<i>♪ How can I choose
+Between two perfect things? ♪</i>
+
+285
+00:15:02,305 --> 00:15:04,681
+{\an8}<i>♪ Like wanting and needing ♪</i>
+
+286
+00:15:04,765 --> 00:15:06,892
+<i>♪ Living and dreaming ♪</i>
+
+287
+00:15:06,975 --> 00:15:08,435
+<i>♪ Gotta make a choice ♪</i>
+
+288
+00:15:08,519 --> 00:15:14,107
+{\an8}<i>♪ But I don't know what to choose ♪</i>
+
+289
+00:15:14,191 --> 00:15:16,442
+{\an8}<i>♪ 'Cause I want two ♪</i>
+
+290
+00:15:16,526 --> 00:15:18,986
+{\an8}I'm sorry, guys. Can we stop?
+
+291
+00:15:19,070 --> 00:15:22,615
+{\an8}I just... I'm at sixes and sevens
+by what you asked me last time.
+
+292
+00:15:23,366 --> 00:15:26,911
+{\an8}I mean, who is Archie Andrews?
+What does he really want?
+
+293
+00:15:26,994 --> 00:15:31,081
+That's why we focused your "I want" song
+on choosing between Betty or Veronica.
+
+294
+00:15:31,164 --> 00:15:32,165
+{\an8}It's not that simple.
+
+295
+00:15:32,249 --> 00:15:35,794
+{\an8}I mean, that's not really the big question
+that I'm wrestling with here.
+
+296
+00:15:35,877 --> 00:15:37,546
+In our musical or in real life?
+
+297
+00:15:37,629 --> 00:15:38,755
+[SIGHS]
+
+298
+00:15:42,007 --> 00:15:45,678
+Fellas, I'm sorry, but I have to step away
+from this musical for a while.
+
+299
+00:15:45,761 --> 00:15:48,013
+For my own mental health.
+It's too real, too raw.
+
+300
+00:15:48,097 --> 00:15:52,184
+And... I have to figure out
+some major stuff for myself.
+
+301
+00:15:52,268 --> 00:15:53,561
+Really, Archie?
+
+302
+00:15:55,228 --> 00:15:56,563
+[CLAY] Good luck to you, Archie.
+
+303
+00:15:56,646 --> 00:16:00,900
+I hope you make the right decision
+about whatever it is you need to decide.
+
+304
+00:16:02,235 --> 00:16:03,653
+[VERONICA] <i>Excellent news, Bee.</i>
+
+305
+00:16:03,736 --> 00:16:05,822
+I just got off with Cole Porter,
+
+306
+00:16:05,905 --> 00:16:07,948
+and he is willing to take a crack
+
+307
+00:16:08,031 --> 00:16:10,534
+at writing us a little ditty
+for Kevin's musical.
+
+308
+00:16:10,617 --> 00:16:14,037
+Wow, I'm sure whatever Cole
+comes up with will be the tops.
+
+309
+00:16:14,121 --> 00:16:16,790
+Much better than "Friday Valentine."
+
+310
+00:16:16,874 --> 00:16:22,253
+Betty, Kevin's royal shaft of a song
+
+311
+00:16:22,336 --> 00:16:26,757
+did bring up something
+that's been eating away at me.
+
+312
+00:16:28,050 --> 00:16:30,386
+Oh, no. What is it?
+
+313
+00:16:30,928 --> 00:16:33,097
+You recall
+when the Red Scare came to town?
+
+314
+00:16:34,431 --> 00:16:38,268
+- Yeah.
+- Well, in a moment of weakness...
+
+315
+00:16:39,769 --> 00:16:42,814
+Archie and I kissed.
+
+316
+00:16:49,612 --> 00:16:50,779
+Do you like him?
+
+317
+00:16:54,575 --> 00:16:55,784
+I... I do.
+
+318
+00:16:58,287 --> 00:16:59,121
+But...
+
+319
+00:17:00,330 --> 00:17:01,706
+I like you more.
+
+320
+00:17:04,959 --> 00:17:08,880
+I feel closer to you
+than anyone else in this town.
+
+321
+00:17:10,048 --> 00:17:12,133
+I've known Archie my entire life.
+
+322
+00:17:12,216 --> 00:17:15,010
+But I feel the same way.
+
+323
+00:17:16,929 --> 00:17:21,224
+Maybe this is the universe
+telling us to swear off Archie
+
+324
+00:17:21,308 --> 00:17:25,728
+and focus on our friendship...
+
+325
+00:17:27,271 --> 00:17:28,272
+right now.
+
+326
+00:17:32,735 --> 00:17:33,778
+[VERONICA CHUCKLES]
+
+327
+00:17:41,576 --> 00:17:44,454
+So, Dad, how's the new cot?
+More comfortable?
+
+328
+00:17:44,537 --> 00:17:46,498
+Oh, I mean, I'm used to it by now.
+
+329
+00:17:48,208 --> 00:17:51,835
+- How's your mother doing?
+- All right, I guess. Considering.
+
+330
+00:17:52,962 --> 00:17:55,005
+- What about school?
+- It's fine.
+
+331
+00:17:55,589 --> 00:17:58,175
+I'm working on that new musical
+I told you about.
+
+332
+00:17:58,258 --> 00:18:01,136
+- The one about you and your friends?
+- Yeah.
+
+333
+00:18:01,220 --> 00:18:03,055
+It's just a workshop right now,
+
+334
+00:18:03,138 --> 00:18:05,556
+but if Principal Featherhead digs it,
+
+335
+00:18:05,640 --> 00:18:08,059
+we'll do a full production in the spring.
+
+336
+00:18:08,142 --> 00:18:10,979
+I keep imagining you, me, and Mom
+
+337
+00:18:11,062 --> 00:18:14,065
+in the audience,
+celebrating my opening night together.
+
+338
+00:18:18,568 --> 00:18:20,737
+Why don't you just come home, Dad?
+
+339
+00:18:20,821 --> 00:18:22,948
+Or just come to dinner?
+
+340
+00:18:23,031 --> 00:18:25,993
+Heck, one meal. It's all I'm asking.
+So you can talk to Mom.
+
+341
+00:18:27,077 --> 00:18:29,871
+There's more to the situation
+that you don't understand.
+
+342
+00:18:29,955 --> 00:18:32,498
+Like what? I want to understand.
+
+343
+00:18:32,581 --> 00:18:35,876
+It's adult stuff.
+Serious stuff between your mother and I.
+
+344
+00:18:38,004 --> 00:18:39,255
+You, uh...
+
+345
+00:18:39,338 --> 00:18:42,758
+You stick to your musicals,
+and your singing and dancing.
+
+346
+00:18:52,434 --> 00:18:53,977
+Thanks for coming back in, ladies.
+
+347
+00:18:54,060 --> 00:18:56,687
+We heard your feedback,
+accepted your challenge,
+
+348
+00:18:56,770 --> 00:19:01,692
+and last night,
+after a fraught dinner with my father,
+
+349
+00:19:01,775 --> 00:19:04,737
+Clay and I regrouped and cooked up
+a new song for the four of us.
+
+350
+00:19:04,820 --> 00:19:06,238
+[CLAY] We wrote it from the heart.
+
+351
+00:19:06,321 --> 00:19:10,199
+About people like us,
+who have to be careful about who we love.
+
+352
+00:19:10,283 --> 00:19:12,952
+We'll kick it off,
+then you two feel free to join in.
+
+353
+00:19:13,036 --> 00:19:14,328
+We'll see what happens.
+
+354
+00:19:14,996 --> 00:19:16,914
+<i>♪ Do you know what it's like ♪</i>
+
+355
+00:19:17,915 --> 00:19:20,001
+<i>♪ To be in love with you? ♪</i>
+
+356
+00:19:20,960 --> 00:19:23,462
+<i>♪ To have my heart still love you ♪</i>
+
+357
+00:19:23,545 --> 00:19:26,840
+<i>♪ When my mind knows it can't be true? ♪</i>
+
+358
+00:19:26,923 --> 00:19:28,967
+<i>♪ Do you know what it's like ♪</i>
+
+359
+00:19:30,093 --> 00:19:32,095
+<i>♪ To be in love with you? ♪</i>
+
+360
+00:19:32,179 --> 00:19:35,806
+<i>♪ Not to remember what my life was like ♪</i>
+
+361
+00:19:35,890 --> 00:19:38,809
+<i>♪ Before I first met you? ♪</i>
+
+362
+00:19:38,893 --> 00:19:41,854
+<i>♪ Do you know what it's like
+When I lie in bed ♪</i>
+
+363
+00:19:41,937 --> 00:19:45,024
+<i>♪ And I think of you
+And the things you've said? ♪</i>
+
+364
+00:19:45,107 --> 00:19:49,277
+<i>♪ How they're almost exactly
+All the things that I've said too? ♪</i>
+
+365
+00:19:50,111 --> 00:19:52,614
+<i>♪ Oh, do you know? ♪</i>
+
+366
+00:19:54,074 --> 00:19:58,328
+[ALL] <i>♪ I know I'll never find your loving
+In anyone else ♪</i>
+
+367
+00:19:58,411 --> 00:19:59,913
+<i>♪ In anyone else ♪</i>
+
+368
+00:19:59,996 --> 00:20:02,164
+<i>♪ Though I'll try ♪</i>
+
+369
+00:20:02,247 --> 00:20:05,834
+<i>♪ Oh, and I'll try ♪</i>
+
+370
+00:20:05,918 --> 00:20:10,589
+<i>♪ And I know I'll never find your smile
+In anyone else ♪</i>
+
+371
+00:20:10,672 --> 00:20:11,799
+<i>♪ In anyone else ♪</i>
+
+372
+00:20:11,882 --> 00:20:14,008
+<i>♪ Though I'll try ♪</i>
+
+373
+00:20:14,092 --> 00:20:17,887
+<i>♪ Oh, and I'll try ♪</i>
+
+374
+00:20:17,970 --> 00:20:20,765
+<i>♪ If someone were to come up to me ♪</i>
+
+375
+00:20:20,848 --> 00:20:24,602
+<i>♪ And say that they knew
+How to love you better ♪</i>
+
+376
+00:20:24,685 --> 00:20:29,314
+<i>♪ I'd say, "Buddy, step into the ring
+You're going down" ♪</i>
+
+377
+00:20:29,397 --> 00:20:31,900
+<i>♪ I'd fight a guy for you ♪</i>
+
+378
+00:20:32,484 --> 00:20:35,070
+<i>♪ I'd fight a girl for you ♪</i>
+
+379
+00:20:35,153 --> 00:20:38,448
+[ALL] <i>♪ I'd fight myself
+You know I would ♪</i>
+
+380
+00:20:38,532 --> 00:20:41,033
+<i>♪ If I thought it'd do any good ♪</i>
+
+381
+00:20:41,117 --> 00:20:46,413
+<i>♪ Oh, do you know? ♪</i>
+
+382
+00:20:47,915 --> 00:20:50,668
+<i>♪ Do you know what it's like
+When I lie in bed ♪</i>
+
+383
+00:20:50,751 --> 00:20:53,837
+<i>♪ And I think of you
+And the things you've said? ♪</i>
+
+384
+00:20:53,920 --> 00:20:59,008
+<i>♪ How they're almost exactly
+All the things that I've said too ♪</i>
+
+385
+00:20:59,092 --> 00:21:03,304
+<i>♪ Oh, do you know? ♪</i>
+
+386
+00:21:06,014 --> 00:21:09,017
+<i>♪ How to look into your eyes? ♪</i>
+
+387
+00:21:09,560 --> 00:21:11,937
+<i>♪ To let go of your hand? ♪</i>
+
+388
+00:21:12,563 --> 00:21:16,775
+<i>♪ To start another life? ♪</i>
+
+389
+00:21:18,152 --> 00:21:20,653
+<i>♪ I just don't ♪</i>
+
+390
+00:21:21,487 --> 00:21:27,118
+<i>♪ Understand ♪</i>
+
+391
+00:21:28,411 --> 00:21:30,913
+Kevin and Clay, wowza.
+
+392
+00:21:30,997 --> 00:21:32,622
+You completely captured the longing
+
+393
+00:21:32,706 --> 00:21:36,251
+of being in a queer,
+interracial relationship in the 1950s.
+
+394
+00:21:36,334 --> 00:21:39,087
+Dare I say,
+this is going to be extremely powerful
+
+395
+00:21:39,171 --> 00:21:40,839
+once we put it on stage.
+
+396
+00:21:40,922 --> 00:21:45,009
+Oh. Um, Clay and I wrote this song
+for you and for us
+
+397
+00:21:45,092 --> 00:21:47,386
+to sing and enjoy in private.
+
+398
+00:21:47,469 --> 00:21:49,430
+It's... It's not gonna be in the musical.
+
+399
+00:21:49,513 --> 00:21:51,056
+- Why the hell not?
+- Why not?
+
+400
+00:21:51,140 --> 00:21:52,766
+Riverdale's too provincial.
+
+401
+00:21:53,267 --> 00:21:54,935
+I'm under enormous pressure
+from Featherhead
+
+402
+00:21:55,019 --> 00:21:57,729
+to deliver something that's mainstream
+and commercial, and...
+
+403
+00:21:57,812 --> 00:22:00,815
+But maybe one day,
+when the world's caught up to our song.
+
+404
+00:22:00,899 --> 00:22:04,110
+In that case, Kevin, Clay,
+
+405
+00:22:05,028 --> 00:22:07,488
+when the world does catch up
+
+406
+00:22:07,989 --> 00:22:11,074
+and this beautiful song
+is included in your musical,
+
+407
+00:22:11,575 --> 00:22:13,035
+Toni and I will be there too.
+
+408
+00:22:13,619 --> 00:22:14,912
+But in the meantime,
+
+409
+00:22:15,704 --> 00:22:18,332
+we do enough play-acting in our real life.
+
+410
+00:22:18,874 --> 00:22:20,792
+[TONI] So with all due respect,
+
+411
+00:22:20,876 --> 00:22:23,753
+Cheryl and I would like
+to be written out of <i>Archie the Musical</i>
+
+412
+00:22:23,836 --> 00:22:26,547
+until we can act
+as our authentic selves in it.
+
+413
+00:22:27,965 --> 00:22:28,925
+[POP] <i>Soup or salad?</i>
+
+414
+00:22:32,136 --> 00:22:35,889
+Archie, what would you like
+with your grilled cheese, soup or salad?
+
+415
+00:22:35,972 --> 00:22:36,806
+I...
+
+416
+00:22:39,601 --> 00:22:42,687
+I don't know, Pop. I...
+
+417
+00:22:44,648 --> 00:22:46,566
+I just... I don't know.
+
+418
+00:22:46,650 --> 00:22:49,068
+We'll just take both, Pop. Thanks.
+
+419
+00:22:49,151 --> 00:22:50,194
+All right.
+
+420
+00:22:51,070 --> 00:22:52,071
+You were saying?
+
+421
+00:22:55,991 --> 00:23:00,287
+Kevin's writing this musical about me,
+and I don't know why.
+
+422
+00:23:00,371 --> 00:23:02,830
+The character he's writing
+isn't the person I am.
+
+423
+00:23:02,914 --> 00:23:05,583
+He's got me picking between
+Betty and Veronica in the show,
+
+424
+00:23:05,667 --> 00:23:06,960
+but for me, in real life,
+
+425
+00:23:07,043 --> 00:23:10,505
+the choice is actually
+between basketball and poetry.
+
+426
+00:23:10,588 --> 00:23:13,716
+Ah. The classic conundrum.
+
+427
+00:23:14,675 --> 00:23:17,260
+You, my friend, are cutting a rug
+on what Camus would call
+
+428
+00:23:17,344 --> 00:23:19,137
+an existential crisis.
+
+429
+00:23:19,221 --> 00:23:20,055
+A what now?
+
+430
+00:23:20,138 --> 00:23:21,848
+Your dilemma is real, Archie.
+
+431
+00:23:21,932 --> 00:23:27,520
+But it's not about having to decide
+between basketball or poetry,
+
+432
+00:23:27,603 --> 00:23:30,272
+artist or athlete, Betty or Veronica.
+
+433
+00:23:30,356 --> 00:23:31,399
+No, it's...
+
+434
+00:23:33,150 --> 00:23:36,028
+Well, it's about having to make a choice,
+
+435
+00:23:36,112 --> 00:23:38,364
+any choice, right now, today,
+
+436
+00:23:38,447 --> 00:23:42,200
+that could affect the rest of your life,
+and that's... scary.
+
+437
+00:23:43,201 --> 00:23:45,996
+Especially for a cube like you.
+
+438
+00:23:50,458 --> 00:23:51,960
+Jeez, Jug. You're right.
+
+439
+00:23:53,877 --> 00:23:55,754
+That is why I'm so unsettled.
+
+440
+00:23:56,880 --> 00:23:59,675
+And I'll stay unsettled
+until I make a decision.
+
+441
+00:24:04,054 --> 00:24:08,558
+<i>♪ 'Cause now it's time to take a stand ♪</i>
+
+442
+00:24:08,641 --> 00:24:12,562
+<i>♪ To pick a path, to be a man ♪</i>
+
+443
+00:24:12,645 --> 00:24:14,939
+<i>♪ Sometimes, you gotta choose ♪</i>
+
+444
+00:24:15,023 --> 00:24:17,275
+<i>♪ And give it everything you've got ♪</i>
+
+445
+00:24:17,358 --> 00:24:20,318
+<i>♪ You only get one shot ♪</i>
+
+446
+00:24:20,402 --> 00:24:22,779
+<i>♪ And you can't pick two ♪</i>
+
+447
+00:24:25,282 --> 00:24:27,534
+<i>♪ I can't pick two ♪</i>
+
+448
+00:24:31,455 --> 00:24:32,830
+[POP] Here you go, Archie.
+
+449
+00:24:32,913 --> 00:24:35,791
+A grilled cheese sandwich
+with a soup and a salad, as requested.
+
+450
+00:24:35,875 --> 00:24:37,752
+Thanks, Pop. But, uh...
+
+451
+00:24:39,336 --> 00:24:42,089
+I only want the grilled cheese.
+And make it to go, will you?
+
+452
+00:24:42,173 --> 00:24:45,009
+I gotta have a conversation
+with my uncle that can't wait.
+
+453
+00:24:45,091 --> 00:24:47,594
+I'll take the soup and salad. Thanks, Pop.
+
+454
+00:24:50,930 --> 00:24:51,973
+[JUGHEAD WHISTLES]
+
+455
+00:24:53,600 --> 00:24:54,476
+[ARCHIE] <i>Uncle Frank,</i>
+
+456
+00:24:55,310 --> 00:24:57,604
+I'm not gonna be
+on the basketball team anymore.
+
+457
+00:25:01,523 --> 00:25:03,442
+I wanna focus more on my poetry.
+
+458
+00:25:05,069 --> 00:25:06,695
+Is that who you are now,
+
+459
+00:25:07,613 --> 00:25:09,448
+some kind of beatnik poet?
+
+460
+00:25:10,074 --> 00:25:13,159
+So you're just gonna bail on the Bulldogs
+halfway through a season?
+
+461
+00:25:14,160 --> 00:25:15,620
+Well, I need you on the team.
+
+462
+00:25:15,703 --> 00:25:18,581
+You got Reggie, Uncle Frank.
+I mean, he is the team.
+
+463
+00:25:21,667 --> 00:25:24,002
+Well, I can't approve of it.
+I won't approve of it.
+
+464
+00:25:24,878 --> 00:25:26,880
+- You're gonna regret it.
+- Well, maybe.
+
+465
+00:25:27,964 --> 00:25:30,634
+Look, Uncle Frank,
+if I don't follow my heart,
+
+466
+00:25:31,426 --> 00:25:33,345
+I'm worried I might regret that even more.
+
+467
+00:25:34,805 --> 00:25:36,931
+Respectfully, I've made my choice.
+
+468
+00:25:50,443 --> 00:25:51,361
+[MRS. KELLER] Kevin?
+
+469
+00:25:52,654 --> 00:25:54,322
+Holy mackerel, we overslept.
+
+470
+00:25:55,156 --> 00:25:57,617
+- [MRS. KELLER] Honey, are you awake?
+- Just... Window, window.
+
+471
+00:25:57,700 --> 00:26:00,620
+- Can I come in? Just for a quick chat?
+- Just a second, Mom!
+
+472
+00:26:02,330 --> 00:26:03,330
+[WHISPERS] I love you.
+
+473
+00:26:06,500 --> 00:26:08,293
+Good morning, sweetheart.
+
+474
+00:26:08,377 --> 00:26:09,795
+Did you sleep okay?
+
+475
+00:26:09,878 --> 00:26:10,879
+Um, yeah, I did.
+
+476
+00:26:10,963 --> 00:26:13,257
+I'm just, you know,
+anxious about the musical.
+
+477
+00:26:13,340 --> 00:26:15,967
+Oh. I can only imagine.
+
+478
+00:26:16,884 --> 00:26:18,845
+But I was thinking,
+
+479
+00:26:18,928 --> 00:26:22,223
+what do you say
+the three of us have dinner tonight?
+
+480
+00:26:22,849 --> 00:26:25,643
+You mean, you, me, and Dad?
+
+481
+00:26:26,352 --> 00:26:27,228
+At Pop's.
+
+482
+00:26:27,311 --> 00:26:29,604
+We think it would be good for us.
+
+483
+00:26:30,355 --> 00:26:31,940
+A good step.
+
+484
+00:26:32,023 --> 00:26:34,651
+Yeah, let's do it. That sounds great, Mom.
+
+485
+00:26:34,734 --> 00:26:35,861
+Wonderful.
+
+486
+00:26:36,570 --> 00:26:39,906
+Now, you get dressed,
+and I'll drive you to school.
+
+487
+00:26:50,124 --> 00:26:54,170
+So, Veronica, which one of your
+famous Hollywood friends wrote this song?
+
+488
+00:26:54,253 --> 00:26:56,588
+Cole Porter did. As I knew he would.
+
+489
+00:26:56,671 --> 00:27:00,466
+And I trust you'll agree
+it's worthy of our complexities.
+
+490
+00:27:08,640 --> 00:27:14,396
+<i>♪ Have you ever caught a glimpse
+Of your reflection in the mirror ♪</i>
+
+491
+00:27:14,479 --> 00:27:20,194
+<i>♪ And wondered if the person
+That you saw was even you?</i>
+
+492
+00:27:20,276 --> 00:27:22,320
+<i>♪ Everyone applauding ♪</i>
+
+493
+00:27:22,403 --> 00:27:25,656
+<i>♪ It's a perfect presentation ♪</i>
+
+494
+00:27:25,740 --> 00:27:30,203
+<i>♪ Nobody would ever have a clue ♪</i>
+
+495
+00:27:30,870 --> 00:27:36,374
+<i>♪ They look at me and figure
+She's a girl who's got it easy ♪</i>
+
+496
+00:27:36,458 --> 00:27:41,796
+<i>♪ I cruise through life
+While Daddy feeds me with a silver spoon ♪</i>
+
+497
+00:27:41,880 --> 00:27:47,551
+<i>♪ But if they caught a glimpse
+Of all my doubts and hesitations ♪</i>
+
+498
+00:27:47,635 --> 00:27:52,348
+<i>♪ Tell me, would they sing
+A different tune? ♪</i>
+
+499
+00:27:52,431 --> 00:27:56,644
+[BOTH] <i>♪ There's a universe inside ♪</i>
+
+500
+00:27:56,727 --> 00:27:59,021
+<i>♪ That no one else can see ♪</i>
+
+501
+00:27:59,103 --> 00:28:02,273
+<i>♪ A world inside ♪</i>
+
+502
+00:28:02,357 --> 00:28:04,567
+<i>♪ Where I'm alone with me ♪</i>
+
+503
+00:28:04,651 --> 00:28:08,905
+<i>♪ You can spend a lifetime
+Looking deep in someone's eyes ♪</i>
+
+504
+00:28:08,988 --> 00:28:14,034
+<i>♪ And never see the universe inside ♪</i>
+
+505
+00:28:17,246 --> 00:28:19,790
+<i>♪ I'm scared to show what's underneath ♪</i>
+
+506
+00:28:19,873 --> 00:28:22,751
+<i>♪ I cover it with makeup ♪</i>
+
+507
+00:28:22,834 --> 00:28:24,961
+<i>♪ It's dark and petty, I know ♪</i>
+
+508
+00:28:25,044 --> 00:28:28,005
+<i>♪ But I need to be the best ♪</i>
+
+509
+00:28:28,089 --> 00:28:34,011
+<i>♪ And all they ever see
+Is only part of the equation ♪</i>
+
+510
+00:28:34,095 --> 00:28:38,598
+<i>♪ Don't they realize I'm so much more? ♪</i>
+
+511
+00:28:39,224 --> 00:28:41,685
+<i>♪ If only I could find a way ♪</i>
+
+512
+00:28:41,768 --> 00:28:44,729
+<i>♪ To show them all
+So they would say ♪</i>
+
+513
+00:28:44,813 --> 00:28:49,985
+<i>♪ "How we want to see
+The real you shining" ♪</i>
+
+514
+00:28:50,068 --> 00:28:55,531
+<i>♪ Then I would never have to be
+Afraid of nightmares or my dreams ♪</i>
+
+515
+00:28:55,614 --> 00:29:00,494
+<i>♪ So if you want me
+You know where to find me ♪</i>
+
+516
+00:29:00,578 --> 00:29:05,373
+<i>- ♪ There's a universe inside ♪
+- ♪ There's a universe ♪</i>
+
+517
+00:29:05,456 --> 00:29:07,542
+<i>- ♪ You must have one too ♪
+- ♪ Inside ♪</i>
+
+518
+00:29:07,625 --> 00:29:10,628
+<i>- ♪ A world inside ♪
+- ♪ Inside me ♪</i>
+
+519
+00:29:10,712 --> 00:29:12,380
+<i>♪ No one ever knew ♪</i>
+
+520
+00:29:12,463 --> 00:29:17,050
+<i>♪ I wish I noticed
+But I never took the time ♪</i>
+
+521
+00:29:17,134 --> 00:29:19,886
+<i>♪ To look beyond the surface ♪</i>
+
+522
+00:29:19,970 --> 00:29:26,018
+<i>♪ And finally see
+The universe inside you ♪</i>
+
+523
+00:29:28,061 --> 00:29:31,439
+<i>♪ Inside you ♪</i>
+
+524
+00:29:34,275 --> 00:29:40,448
+<i>♪ I hope that someday
+Someone looks into my eyes ♪</i>
+
+525
+00:29:40,531 --> 00:29:45,910
+<i>♪ And finally sees the universe inside ♪</i>
+
+526
+00:29:51,916 --> 00:29:53,293
+That was...
+
+527
+00:29:54,919 --> 00:29:55,836
+stunning.
+
+528
+00:29:56,712 --> 00:29:58,088
+What...?
+
+529
+00:29:58,839 --> 00:29:59,965
+What just happened?
+
+530
+00:30:01,258 --> 00:30:05,679
+Some kind of energy exchange, I think.
+
+531
+00:30:05,763 --> 00:30:06,597
+Yeah.
+
+532
+00:30:07,222 --> 00:30:08,640
+A seismic one.
+
+533
+00:30:10,141 --> 00:30:11,893
+[KEVIN] I don't know what to say,
+
+534
+00:30:11,976 --> 00:30:15,438
+but I completely felt
+the pain of your isolation,
+
+535
+00:30:15,521 --> 00:30:18,274
+your desperate need to be seen.
+
+536
+00:30:21,526 --> 00:30:23,862
+Now that that's squared away,
+
+537
+00:30:24,696 --> 00:30:28,700
+I think we should talk about
+whatever just happened during that song.
+
+538
+00:30:28,784 --> 00:30:31,203
+Okay. Yeah, super. We should.
+
+539
+00:30:33,080 --> 00:30:35,456
+It felt... primal.
+
+540
+00:30:35,539 --> 00:30:36,832
+I felt the same.
+
+541
+00:30:36,916 --> 00:30:39,377
+Charged and intense.
+
+542
+00:30:40,002 --> 00:30:43,047
+All this time, we've been thinking:
+
+543
+00:30:43,881 --> 00:30:46,425
+"When are we going
+to climb Mt. Archibald?"
+
+544
+00:30:46,509 --> 00:30:47,592
+When in fact...
+
+545
+00:30:47,676 --> 00:30:50,095
+Maybe there are other more...
+
+546
+00:30:50,970 --> 00:30:53,890
+emotionally complex mountains to climb.
+
+547
+00:30:56,726 --> 00:30:57,811
+There you both are.
+
+548
+00:30:57,894 --> 00:31:00,396
+I've been looking all over
+to tell you something.
+
+549
+00:31:00,479 --> 00:31:03,565
+I've been doing
+some soul-searching, and, um...
+
+550
+00:31:04,942 --> 00:31:08,737
+I realized I've kissed both of you,
+and I'm fond of you both.
+
+551
+00:31:08,821 --> 00:31:09,822
+[BOTH] "Fond"?
+
+552
+00:31:09,905 --> 00:31:12,491
+But I'm in a period of growth
+and self-discovery.
+
+553
+00:31:12,574 --> 00:31:15,576
+So I'm gonna take a little time
+and not kiss anyone for a while.
+
+554
+00:31:16,285 --> 00:31:17,829
+Or at least, I'm gonna try not to.
+
+555
+00:31:19,288 --> 00:31:20,164
+Okay, then.
+
+556
+00:31:20,915 --> 00:31:21,958
+Later, gators.
+
+557
+00:31:27,379 --> 00:31:29,589
+We've had a few speed bumps,
+but now we're jumping.
+
+558
+00:31:29,673 --> 00:31:33,176
+The new Archie, Julian,
+he's even better than the real Archie.
+
+559
+00:31:33,260 --> 00:31:34,594
+Kev.
+
+560
+00:31:36,138 --> 00:31:39,014
+We have to talk to you
+about something serious.
+
+561
+00:31:44,395 --> 00:31:47,231
+The papers are signed, Kevin.
+
+562
+00:31:47,314 --> 00:31:49,734
+It's all been finalized.
+Your father and I...
+
+563
+00:31:49,817 --> 00:31:51,402
+We're getting a divorce.
+
+564
+00:31:56,281 --> 00:31:58,032
+So that's it?
+
+565
+00:31:58,116 --> 00:32:00,493
+You're just...? You're calling it quits?
+
+566
+00:32:00,577 --> 00:32:04,330
+This isn't something
+that can be fixed, unfortunately.
+
+567
+00:32:05,247 --> 00:32:07,666
+Sometimes, a man and a woman come to find
+
+568
+00:32:07,750 --> 00:32:12,463
+that there are too many differences
+between them.
+
+569
+00:32:15,007 --> 00:32:16,800
+Sounds like you've got it all figured out.
+
+570
+00:32:16,884 --> 00:32:19,135
+- Oh, it's...
+- Well, if you will excuse me,
+
+571
+00:32:19,218 --> 00:32:21,554
+we are presenting
+to Principal Featherhead tomorrow,
+
+572
+00:32:21,637 --> 00:32:23,222
+so I've got a lot of work to do.
+
+573
+00:32:23,306 --> 00:32:26,642
+And, yeah, thank you for a swell dinner.
+
+574
+00:32:27,643 --> 00:32:29,479
+- Oh, no. Kevin?
+- Kev.
+
+575
+00:32:39,446 --> 00:32:41,615
+[UPBEAT MUSIC PLAYING]
+
+576
+00:32:42,407 --> 00:32:45,326
+<i>♪ Come on, everybody
+Put your school books down ♪</i>
+
+577
+00:32:45,409 --> 00:32:47,495
+<i>♪ Come shake it up and feel all right ♪</i>
+
+578
+00:32:48,037 --> 00:32:50,998
+<i>♪ Summer's almost here
+And it's Senior Year ♪</i>
+
+579
+00:32:51,081 --> 00:32:53,542
+<i>♪ Now it's party time at Riverdale High ♪</i>
+
+580
+00:32:54,293 --> 00:32:55,586
+[ALL] <i>♪ No one's saying ♪</i>
+
+581
+00:32:55,669 --> 00:32:59,923
+<i>♪ The one thing's weighing
+On everybody's mind ♪</i>
+
+582
+00:33:00,006 --> 00:33:03,176
+<i>♪ Sure is getting close to Prom Night ♪</i>
+
+583
+00:33:03,259 --> 00:33:05,178
+<i>♪ Shoo-bop, shoo-bop, ooh ♪</i>
+
+584
+00:33:05,261 --> 00:33:08,014
+<i>- ♪ We're getting ready ♪
+- ♪ Shoo-bop, shoo-bop, ooh ♪</i>
+
+585
+00:33:08,097 --> 00:33:11,141
+<i>- ♪ So come along now ♪
+- ♪ Shoo-bop, shoo-bop, ooh ♪</i>
+
+586
+00:33:11,225 --> 00:33:13,977
+<i>- ♪ Are you ready for the greatest ♪
+- ♪ Shoo-bop, shoo-bop ♪</i>
+
+587
+00:33:14,061 --> 00:33:18,398
+<i>- ♪ Night of your life? ♪
+- ♪ Shoo-bop, shoo-bop ♪</i>
+
+588
+00:33:18,482 --> 00:33:19,525
+<i>♪ I've been busy waiting ♪</i>
+
+589
+00:33:19,608 --> 00:33:23,361
+<i>♪ 'Cause I don't know what he's thinking
+But I'm praying that he asks me soon ♪</i>
+
+590
+00:33:24,237 --> 00:33:26,989
+<i>♪ Don't wanna seem needy
+I'm just hoping it'll be me ♪</i>
+
+591
+00:33:27,073 --> 00:33:29,700
+<i>♪ And I don't know what to do ♪</i>
+
+592
+00:33:30,243 --> 00:33:33,037
+<i>♪ With his cool red hair
+He's beyond compare ♪</i>
+
+593
+00:33:33,120 --> 00:33:36,331
+<i>♪ I've been waiting my whole life ♪</i>
+
+594
+00:33:36,414 --> 00:33:38,542
+[ALL] <i>♪ Archie ♪</i>
+
+595
+00:33:38,625 --> 00:33:41,378
+<i>♪ Waiting for Archie ♪</i>
+
+596
+00:33:41,461 --> 00:33:44,965
+<i>- ♪ Meanwhile, Jughead said ♪
+- ♪ "I plan on staying in bed" ♪</i>
+
+597
+00:33:45,048 --> 00:33:48,093
+<i>♪ "Chowing down on burgers and fries" ♪</i>
+
+598
+00:33:48,176 --> 00:33:51,887
+<i>♪ Hey, Jughead, you're coming with us
+To Prom Night ♪</i>
+
+599
+00:33:51,971 --> 00:33:54,139
+<i>♪ Hey, Arch! What have you been up to? ♪</i>
+
+600
+00:33:54,807 --> 00:33:57,226
+<i>♪ I've been writing an awesome song ♪</i>
+
+601
+00:33:57,726 --> 00:34:00,187
+<i>♪ Playing football out on the lawn ♪</i>
+
+602
+00:34:00,271 --> 00:34:03,398
+<i>♪ Got no worries, you know me ♪</i>
+
+603
+00:34:03,481 --> 00:34:07,277
+<i>♪ Everything is peachy keen ♪</i>
+
+604
+00:34:07,360 --> 00:34:10,154
+<i>- ♪ Shoo-bop, shoo-bop, ooh ♪</i>
+- [ALL] <i>♪ We've waited so long ♪</i>
+
+605
+00:34:10,238 --> 00:34:14,449
+{\an8}<i>-♪ Shoo-bop, shoo-bop, ooh
+-♪ We're gonna make it last ♪</i>
+
+606
+00:34:14,533 --> 00:34:17,327
+<i>- ♪ Are you ready for the greatest ♪
+- ♪ Shoo-bop, shoo-bop ♪</i>
+
+607
+00:34:17,411 --> 00:34:21,999
+{\an8}<i>- ♪ Night of our lives? ♪
+- ♪ Shoo-bop, shoo-bop ♪</i>
+
+608
+00:34:22,082 --> 00:34:23,208
+<i>♪ Yeah! ♪</i>
+
+609
+00:34:23,292 --> 00:34:26,253
+[LAUGHING] Bravo!
+
+610
+00:34:26,336 --> 00:34:28,588
+Very well-sung.
+
+611
+00:34:28,671 --> 00:34:31,090
+Mr. Keller, may I see you in my office?
+
+612
+00:34:36,596 --> 00:34:37,638
+{\an8}<i>Kevin,</i>
+
+613
+00:34:38,222 --> 00:34:39,807
+I'll get right to it.
+
+614
+00:34:39,891 --> 00:34:42,475
+We're not going to produce
+your musical this spring.
+
+615
+00:34:45,729 --> 00:34:48,106
+Well, why? May I ask why?
+
+616
+00:34:48,189 --> 00:34:50,901
+In this climate,
+so soon after our brush with Communism,
+
+617
+00:34:50,984 --> 00:34:54,111
+we think it's better
+to do something more traditional,
+
+618
+00:34:54,194 --> 00:34:56,780
+something people can get behind.
+
+619
+00:34:56,864 --> 00:35:00,618
+Furthermore,
+original musicals are tough sells, Kevin.
+
+620
+00:35:01,243 --> 00:35:03,370
+I don't wanna say
+that the drama club's funding
+
+621
+00:35:03,454 --> 00:35:05,164
+depends on your box office receipts,
+
+622
+00:35:05,247 --> 00:35:08,583
+but if you put up a sign
+for <i>Archie the Musical,</i>
+
+623
+00:35:08,666 --> 00:35:09,751
+will people come?
+
+624
+00:35:09,834 --> 00:35:11,169
+I don't know.
+
+625
+00:35:11,711 --> 00:35:14,255
+But if you put up a poster for <i>Oklahoma!,</i>
+
+626
+00:35:14,339 --> 00:35:18,926
+I'm certain we'd have a complete sellout,
+all three performances.
+
+627
+00:35:26,642 --> 00:35:28,268
+Well, everyone, congratulations.
+
+628
+00:35:28,352 --> 00:35:30,604
+We'll be like every other
+high school in the world
+
+629
+00:35:30,687 --> 00:35:34,774
+and do <i>Oklahoma!</i> this spring,
+so enjoy, um, singing about wheat.
+
+630
+00:35:34,857 --> 00:35:37,902
+{\an8}Oh. Kevin, we're so sorry.
+
+631
+00:35:37,985 --> 00:35:39,445
+Are you sorry?
+
+632
+00:35:40,613 --> 00:35:43,824
+Because all of you nitpicked every song
+that Clay and I wrote for you.
+
+633
+00:35:43,908 --> 00:35:46,910
+You questioned our vision at every turn.
+
+634
+00:35:46,993 --> 00:35:51,122
+Who knows? If you supported me even a bit,
+we might've pulled it off, but you didn't.
+
+635
+00:35:51,206 --> 00:35:53,583
+Now all that time and energy and effort,
+
+636
+00:35:53,667 --> 00:35:55,835
+it was all for nothing,
+so thanks for that.
+
+637
+00:35:58,337 --> 00:36:00,214
+Whoa. What snapped his cap?
+
+638
+00:36:05,970 --> 00:36:08,180
+That outburst
+wasn't just about the musical.
+
+639
+00:36:09,223 --> 00:36:12,183
+Kevin was gonna give you
+the lowdown after the workshop.
+
+640
+00:36:12,266 --> 00:36:16,854
+But, um, he recently found out
+that his parents are getting a divorce.
+
+641
+00:36:18,314 --> 00:36:21,401
+That's why he's been pouring
+everything he's got into this show.
+
+642
+00:36:25,612 --> 00:36:29,116
+[MRS. KELLER] <i>I'm so sorry all of this
+is happening at once, Kevin.</i>
+
+643
+00:36:29,199 --> 00:36:30,158
+Mom...
+
+644
+00:36:32,452 --> 00:36:34,079
+it isn't my fault, is it?
+
+645
+00:36:36,248 --> 00:36:37,081
+I feel like...
+
+646
+00:36:37,957 --> 00:36:41,877
+all this fighting between
+you and Dad started around...
+
+647
+00:36:43,421 --> 00:36:46,090
+when Betty and I were calling it quits.
+
+648
+00:36:46,173 --> 00:36:47,133
+No.
+
+649
+00:36:47,216 --> 00:36:48,801
+No, Kevin.
+
+650
+00:36:49,551 --> 00:36:53,013
+What's going on between your dad and I
+has nothing to do with you...
+
+651
+00:36:56,933 --> 00:36:57,851
+or who you are.
+
+652
+00:36:59,936 --> 00:37:02,188
+You have nothing to feel guilty about.
+
+653
+00:37:03,105 --> 00:37:04,273
+Or ashamed of.
+
+654
+00:37:06,692 --> 00:37:08,193
+You are my son.
+
+655
+00:37:09,445 --> 00:37:11,697
+And I love you unconditionally.
+
+656
+00:37:20,413 --> 00:37:21,748
+[PLAYING CHORDS]
+
+657
+00:37:27,211 --> 00:37:29,004
+[HUMMING]
+
+658
+00:37:33,508 --> 00:37:34,593
+Hey, uh, Kev.
+
+659
+00:37:36,762 --> 00:37:38,180
+Uh, you got a minute?
+
+660
+00:37:40,140 --> 00:37:42,183
+Well, I wanted to say thanks.
+
+661
+00:37:43,059 --> 00:37:44,727
+Thank you, buddy.
+
+662
+00:37:44,810 --> 00:37:46,020
+For what, Archie?
+
+663
+00:37:46,103 --> 00:37:47,605
+I know I left you high and dry,
+
+664
+00:37:48,564 --> 00:37:51,358
+but working on your musical this week,
+
+665
+00:37:51,901 --> 00:37:54,152
+it made me take a long,
+hard look at myself.
+
+666
+00:37:55,028 --> 00:37:56,946
+Forced me to make some decisions that...
+
+667
+00:37:58,156 --> 00:37:59,699
+well, that I needed to make.
+
+668
+00:37:59,783 --> 00:38:02,619
+Well, I'm glad some good came of it.
+
+669
+00:38:02,702 --> 00:38:05,121
+As I'm sure you heard,
+we're not doing <i>Archie the Musical.</i>
+
+670
+00:38:05,205 --> 00:38:08,207
+Yeah, I did. I'm all broke out
+with the blues about it.
+
+671
+00:38:08,290 --> 00:38:11,502
+I was looking forward to seeing
+how the whole shebang would turn out.
+
+672
+00:38:15,047 --> 00:38:18,592
+And what was that you were playing before?
+For the musical?
+
+673
+00:38:18,675 --> 00:38:21,469
+No, it's just something
+I stayed up all night writing.
+
+674
+00:38:22,053 --> 00:38:25,515
+After my mom and I
+had a long talk about stuff.
+
+675
+00:38:25,598 --> 00:38:28,893
+Well, come on,
+will you keep playing it for me?
+
+676
+00:38:38,151 --> 00:38:40,862
+<i>♪ An empty stage is set ♪</i>
+
+677
+00:38:40,946 --> 00:38:44,825
+<i>♪ For all of us ♪</i>
+
+678
+00:38:44,908 --> 00:38:47,868
+<i>♪ But never before ♪</i>
+
+679
+00:38:47,952 --> 00:38:53,749
+<i>♪ Has home felt so far away ♪</i>
+
+680
+00:38:55,709 --> 00:39:00,797
+<i>♪ 'Cause never before
+Have I been without you ♪</i>
+
+681
+00:39:09,222 --> 00:39:11,266
+<i>♪ Friends forever ♪</i>
+
+682
+00:39:11,349 --> 00:39:15,686
+<i>♪ Never say goodbye ♪</i>
+
+683
+00:39:15,769 --> 00:39:17,938
+<i>♪ And through the years ♪</i>
+
+684
+00:39:18,021 --> 00:39:22,442
+<i>♪ Friends for always, you and I ♪</i>
+
+685
+00:39:22,526 --> 00:39:26,237
+<i>♪ Take a photograph, tuck it away ♪</i>
+
+686
+00:39:26,320 --> 00:39:31,492
+<i>♪ These are the times
+These are the days ♪</i>
+
+687
+00:39:31,576 --> 00:39:37,706
+<i>♪ These are the moments of us ♪</i>
+
+688
+00:39:37,789 --> 00:39:42,085
+<i>♪ When we stand ♪</i>
+
+689
+00:39:42,169 --> 00:39:45,255
+<i>♪ On the edge of time ♪</i>
+
+690
+00:39:45,338 --> 00:39:50,260
+<i>♪ Don't you know I'm here ♪</i>
+
+691
+00:39:50,342 --> 00:39:53,137
+<i>♪ Holding on ♪</i>
+
+692
+00:39:53,220 --> 00:39:56,557
+<i>♪ With room to grow ♪</i>
+
+693
+00:39:56,640 --> 00:40:00,144
+<i>♪ Know that I'm waiting in the wings ♪</i>
+
+694
+00:40:00,227 --> 00:40:04,898
+<i>♪ So many memories are ♪</i>
+
+695
+00:40:04,981 --> 00:40:10,862
+<i>♪ Waiting in the wings
+With happy endings ♪</i>
+
+696
+00:40:16,533 --> 00:40:20,412
+<i>♪ Since when has life
+Been so much change ♪</i>
+
+697
+00:40:20,495 --> 00:40:24,166
+<i>♪ The buds don't show
+When there's no rain ♪</i>
+
+698
+00:40:24,249 --> 00:40:27,544
+<i>♪ Since when has growing up seemed ♪</i>
+
+699
+00:40:27,628 --> 00:40:31,631
+<i>♪ Not so very
+Not so far away ♪</i>
+
+700
+00:40:31,714 --> 00:40:38,554
+<i>♪ Since when
+Since I sing without you ♪</i>
+
+701
+00:40:40,056 --> 00:40:43,892
+[ALL] <i>♪ It's not the song
+That saved our world ♪</i>
+
+702
+00:40:43,975 --> 00:40:47,729
+<i>♪ But it's the song whose melody ♪</i>
+
+703
+00:40:47,812 --> 00:40:50,190
+<i>♪ It keeps you in my heart ♪</i>
+
+704
+00:40:50,273 --> 00:40:53,193
+<i>♪ It brings you back to me ♪</i>
+
+705
+00:40:53,276 --> 00:40:55,444
+<i>♪ This is our song ♪</i>
+
+706
+00:40:55,527 --> 00:40:59,323
+<i>♪ It's not the song that saved our world ♪</i>
+
+707
+00:40:59,406 --> 00:41:03,285
+<i>♪ But it's the song whose melody ♪</i>
+
+708
+00:41:03,369 --> 00:41:05,663
+<i>♪ It keeps you in my heart ♪</i>
+
+709
+00:41:05,746 --> 00:41:08,790
+<i>♪ It brings you back to me ♪</i>
+
+710
+00:41:08,873 --> 00:41:11,000
+<i>♪ This is our song ♪</i>
+
+711
+00:41:11,084 --> 00:41:14,504
+<i>♪ It's not the song that saved our world ♪</i>
+
+712
+00:41:14,587 --> 00:41:18,675
+<i>♪ But it's the song whose melody ♪</i>
+
+713
+00:41:18,758 --> 00:41:21,134
+<i>♪ It keeps you in my heart ♪</i>
+
+714
+00:41:21,218 --> 00:41:24,263
+<i>♪ It brings you back to me ♪</i>
+
+715
+00:41:24,346 --> 00:41:29,393
+<i>♪ This is our song ♪</i>
+
+716
+00:41:32,104 --> 00:41:36,816
+<i>♪ This is our song ♪</i>
+
+717
+00:41:40,236 --> 00:41:45,283
+<i>♪ This is our song ♪</i>
+

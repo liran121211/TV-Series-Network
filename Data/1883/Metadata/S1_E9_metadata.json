@@ -1,0 +1,43 @@
+{
+  "cast": {
+    "0005210": "Tim McGraw",
+    "0000385": "Sam Elliott",
+    "0005011": "Faith Hill",
+    "8908475": "Isabel May",
+    "1206818": "LaMonica Garrett",
+    "11224843": "Audie Rick",
+    "4704928": "Marc Rissmann",
+    "2566469": "James Landry H\u00e9bert",
+    "7885187": "Noah Le Gros",
+    "12280869": "Gratiela Brancusi",
+    "9711120": "Anna Fiamora",
+    "3459218": "Amanda Jaros",
+    "2028579": "James Jordan",
+    "1129746": "Tokala Black Elk",
+    "1889973": "Charles Baker",
+    "1391406": "Jordan Walker Ross",
+    "5332399": "Konstantin Melikhov",
+    "0827286": "Malcolm Stephenson",
+    "5273884": "Jeremy Gauna",
+    "4980610": "Gray Wolf Herrera",
+    "8913100": "Cameron Nicholas Darley",
+    "13211167": "Jayden Hamilton",
+    "13057879": "Stephen Austin Long"
+  },
+  "geners": [
+    "Drama",
+    "Western"
+  ],
+  "runtimes": [
+    "56"
+  ],
+  
+  "plot": [
+    "A misunderstanding leads to a battle with serious consequences."
+  ],
+  "genres": "N/A",
+  "imdbID": "15294872",
+  "rating": 9.1,
+  "votes": 4597,
+  "number_of_episodes": 10
+}

@@ -1,0 +1,114 @@
+{
+    "1": {
+        "title": "Orb",
+        "released": "2017-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt6736242",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S9\\Adventure_Time_S09_E01_OrbS9E1.zip"
+    },
+    "2": {
+        "title": "Elements Part 1: Skyhooks",
+        "released": "2017-04-24",
+        "rating": "8.6",
+        "imdb_id": "tt6736250",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S9\\Adventure_Time_S09_E02_Elements_Part_1_SkyhooksS9E2.zip"
+    },
+    "3": {
+        "title": "Elements Part 2: Bespoken For",
+        "released": "2017-04-24",
+        "rating": "8.7",
+        "imdb_id": "tt6736252",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S9\\Adventure_Time_S09_E03_Bespoken_ForS9E3.zip"
+    },
+    "4": {
+        "title": "Elements Part 3: Winter Light",
+        "released": "2017-04-25",
+        "rating": "N/A",
+        "imdb_id": "tt6736254",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S9\\Adventure_Time_S09_E04_Elements_Part_2__Winter_LightS9E4.zip"
+    },
+    "5": {
+        "title": "Elements Part 4: Cloudy",
+        "released": "2017-04-25",
+        "rating": "N/A",
+        "imdb_id": "tt6736256",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S9\\Adventure_Time_S09_E05_Elements_Part_4_CloudyS9E5.zip"
+    },
+    "6": {
+        "title": "Elements Part 5: Slime Central",
+        "released": "2017-04-26",
+        "rating": "7.9",
+        "imdb_id": "tt6736258",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S9\\Adventure_Time_S09_E06__Elements_Part_5_Slime_CentralS9E6.zip"
+    },
+    "7": {
+        "title": "Elements Part 6: Happy Warrior",
+        "released": "2017-04-26",
+        "rating": "N/A",
+        "imdb_id": "tt6736260",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S9\\Adventure_Time_S09_E07_Elements_Part_6_Happy_WarriorS9E7.zip"
+    },
+    "8": {
+        "title": "Elements Part 7: Hero Heart",
+        "released": "2017-04-27",
+        "rating": "N/A",
+        "imdb_id": "tt6736262",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S9\\Adventure_Time_S09_E08_Elements_Part_7_Hero_HeartS9E8.zip"
+    },
+    "9": {
+        "title": "Elements Part 8: Skyhooks II",
+        "released": "2017-04-27",
+        "rating": "N/A",
+        "imdb_id": "tt6736264",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S9\\Adventure_Time_S09_E09__Elements_Part_8_Skyhooks_IIS9E9.zip"
+    },
+    "10": {
+        "title": "Abstract",
+        "released": "2017-07-14",
+        "rating": "8.2",
+        "imdb_id": "tt7102620",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Ketchup",
+        "released": "2017-07-14",
+        "rating": "8.4",
+        "imdb_id": "tt7102622",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Fionna and Cake and Fionna",
+        "released": "2017-07-14",
+        "rating": "N/A",
+        "imdb_id": "tt7102626",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Whispers",
+        "released": "2017-07-14",
+        "rating": "N/A",
+        "imdb_id": "tt7102628",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Three Buckets",
+        "released": "2017-07-14",
+        "rating": "N/A",
+        "imdb_id": "tt7102630",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

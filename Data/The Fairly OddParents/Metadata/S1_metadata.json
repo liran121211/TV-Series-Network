@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "The Big Problem!/Power Mad!",
+        "released": "2001-03-30",
+        "rating": "7.8",
+        "imdb_id": "tt0766174",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Spaced Out/Transparents!",
+        "released": "2001-04-06",
+        "rating": "N/A",
+        "imdb_id": "tt0575705",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "A Wish Too Far!/Tiny Timmy!",
+        "released": "2001-04-13",
+        "rating": "7.2",
+        "imdb_id": "tt0575716",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Chin Up!/Dog's Day Afternoon",
+        "released": "2001-04-27",
+        "rating": "N/A",
+        "imdb_id": "tt0575678",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Dream Goat!/The Same Game",
+        "released": "2001-05-04",
+        "rating": "N/A",
+        "imdb_id": "tt0575708",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Christmas Every Day!",
+        "released": "2001-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt0575679",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

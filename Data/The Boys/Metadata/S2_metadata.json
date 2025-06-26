@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "The Big Ride",
+        "released": "2020-09-04",
+        "rating": "8.1",
+        "imdb_id": "tt10666364",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Proper Preparation and Planning",
+        "released": "2020-09-04",
+        "rating": "7.7",
+        "imdb_id": "tt11783338",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Over the Hill with the Swords of a Thousand Men",
+        "released": "2020-09-04",
+        "rating": "9.0",
+        "imdb_id": "tt11748808",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Nothing Like It in the World",
+        "released": "2020-09-11",
+        "rating": "8.0",
+        "imdb_id": "tt11563692",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "We Gotta Go Now",
+        "released": "2020-09-18",
+        "rating": "8.3",
+        "imdb_id": "tt11290880",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Bloody Doors Off",
+        "released": "2020-09-25",
+        "rating": "8.9",
+        "imdb_id": "tt11997262",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Butcher, Baker, Candlestick Maker",
+        "released": "2020-10-02",
+        "rating": "9.0",
+        "imdb_id": "tt11997264",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "What I Know",
+        "released": "2020-10-09",
+        "rating": "9.4",
+        "imdb_id": "tt12187284",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

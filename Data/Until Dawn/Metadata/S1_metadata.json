@@ -1,0 +1,18 @@
+{
+    "1": {
+        "title": "Le monastère abandonné",
+        "released": "2020-01-10",
+        "rating": "N/A",
+        "imdb_id": "tt11590406",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Until Dawn\\Subtitles\\S1\\Until.Dawn.S01E01.WEB.x264-GHOSTS.English.zip"
+    },
+    "5": {
+        "title": "Les amants damnés",
+        "released": "2020-01-10",
+        "rating": "N/A",
+        "imdb_id": "tt14789332",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,2312 @@
+﻿1
+00:00:06,175 --> 00:00:07,676
+<i>(footsteps)</i>
+
+2
+00:00:09,011 --> 00:00:10,387
+<i>(squeaking)</i>
+
+3
+00:00:15,684 --> 00:00:17,144
+<i>(fizzling sound)</i>
+
+4
+00:00:17,853 --> 00:00:20,772
+<i>(siren blaring in distance)</i>
+
+5
+00:01:09,571 --> 00:01:12,824
+<i>(Scully) Not everything is a conspiracy.
+You're shaking.</i>
+
+6
+00:01:12,908 --> 00:01:15,285
+<i>(Mulder) One at a time. What's going on?</i>
+
+7
+00:01:15,369 --> 00:01:17,329
+<i>- (man) Frohike's close.
+- Don't use my name!</i>
+
+8
+00:01:17,412 --> 00:01:19,289
+<i>Now I'll have to kill you!</i>
+
+9
+00:01:19,373 --> 00:01:22,501
+<i>(man) Langley and I
+did three sweeps with the CPM-700.</i>
+
+10
+00:01:22,584 --> 00:01:24,503
+<i>(Frohike) The CPM-700 is</i> a <i>piece of crap!</i>
+
+11
+00:01:24,586 --> 00:01:26,964
+<i>(man) The acoustic correlator
+is reading passive sounds.</i>
+
+12
+00:01:27,047 --> 00:01:30,133
+<i>(Mulder) I still don't know
+what the hell is wrong!</i>
+
+13
+00:01:30,217 --> 00:01:32,970
+<i>No one would kill you, Frohike.
+You're a puppy dog.</i>
+
+14
+00:01:33,053 --> 00:01:37,891
+<i>(man 2) I don't say any more until the
+CSM-25 counter measure filter is activated.</i>
+
+15
+00:01:37,975 --> 00:01:39,726
+<i>(garbled voices)</i>
+
+16
+00:01:41,353 --> 00:01:42,562
+<i>(Static)</i>
+
+17
+00:01:43,188 --> 00:01:45,857
+<i>(man) Nothing can cut through the CSM-25.</i>
+
+18
+00:01:45,941 --> 00:01:50,654
+<i>(Scully) OK, OK.
+Now tell us what you're so close to.</i>
+
+19
+00:01:50,988 --> 00:01:53,490
+<i>(Frohike) Not a what, a who.</i>
+
+20
+00:01:53,573 --> 00:01:55,909
+<i>If you find the starting point and follow it,</i>
+
+21
+00:01:55,993 --> 00:01:58,996
+<i>not even secrets
+of the darkest of men are safe.</i>
+
+22
+00:01:59,955 --> 00:02:01,581
+<i>(Mulder) Cancer Man?</i>
+
+23
+00:02:03,166 --> 00:02:06,295
+<i>- What did you find?
+- (Frohike) Possibly everything.</i>
+
+24
+00:02:06,461 --> 00:02:10,632
+<i>Maybe his background, who he is,
+and who he wants to be.</i>
+
+25
+00:03:04,561 --> 00:03:06,938
+<i>August 20th, 1940, Mexico City.</i>
+
+26
+00:03:07,189 --> 00:03:10,776
+<i>A Stalinist agent assassinated
+Leon Trotsky with an ice pick.</i>
+
+27
+00:03:10,859 --> 00:03:13,070
+<i>At that same moment,
+a thousand miles north,</i>
+
+28
+00:03:13,153 --> 00:03:16,990
+<i>in Baton Rouge, Louisiana, he appears.</i>
+
+29
+00:03:17,074 --> 00:03:19,785
+<i>The father was
+an ardent Communist activist.</i>
+
+30
+00:03:19,868 --> 00:03:22,996
+<i>During the Nazi-Soviet pact,
+he kept the NKVD informed...</i>
+
+31
+00:03:23,080 --> 00:03:25,665
+<i>...on American plans to enter World War ll.</i>
+
+32
+00:03:25,749 --> 00:03:29,836
+<i>He was executed
+under the Espionage Act of 1917...</i>
+
+33
+00:03:29,920 --> 00:03:32,172
+<i>...before his boy could walk.</i>
+
+34
+00:03:32,255 --> 00:03:35,759
+<i>The mother, a cigarette smoker,
+died of lung cancer...</i>
+
+35
+00:03:35,842 --> 00:03:39,137
+<i>...before her son uttered his first word.</i>
+
+36
+00:03:39,221 --> 00:03:42,140
+<i>With no family,
+he became a ward of the state...</i>
+
+37
+00:03:42,224 --> 00:03:44,935
+<i>...sent to various orphanages
+in the Midwest.</i>
+
+38
+00:03:45,018 --> 00:03:46,353
+<i>Didn't make friends.</i>
+
+39
+00:03:46,436 --> 00:03:49,856
+<i>Spent all his time reading - alone.</i>
+
+40
+00:03:49,940 --> 00:03:53,110
+<i>And then... he appears to have vanished...</i>
+
+41
+00:03:53,193 --> 00:03:56,696
+<i>...until a year and a half after the Bay of Pigs.</i>
+
+42
+00:03:59,991 --> 00:04:02,994
+<i>(man) Premier Khrushchev, we want you!</i>
+
+43
+00:04:03,078 --> 00:04:06,206
+(troops) Premier Khrushchev, we want you!
+
+44
+00:04:06,289 --> 00:04:09,167
+We're gonna kick your rang-a-dang-doo!
+
+45
+00:04:09,251 --> 00:04:12,379
+We're gonna kick your rang-a-dang-doo!
+
+46
+00:04:12,462 --> 00:04:15,298
+Fidel Castro, we want you!
+
+47
+00:04:15,382 --> 00:04:18,301
+Fidel Castro, we want you!
+
+48
+00:04:18,385 --> 00:04:21,012
+We're gonna kick your rang-a-dang-doo!
+
+49
+00:04:21,096 --> 00:04:23,974
+We're gonna kick your rang-a-dang-doo!
+
+50
+00:04:24,474 --> 00:04:25,892
+Mother Russia...
+
+51
+00:04:29,896 --> 00:04:32,899
+(man) I wanna see that
+when you're done with it.
+
+52
+00:04:37,696 --> 00:04:39,489
+Why don't you go see the movie?
+
+53
+00:04:40,198 --> 00:04:45,036
+I'd rather read the worst novel ever written
+than sit through the best movie ever made.
+
+54
+00:04:45,745 --> 00:04:47,038
+Captain, sir!
+
+55
+00:04:47,164 --> 00:04:50,625
+General Francis requests
+you report to his office ASAP, sir!
+
+56
+00:04:53,503 --> 00:04:56,715
+My one-year-old just said his first word.
+
+57
+00:04:59,217 --> 00:05:01,636
+- What was the word?
+- JFK.
+
+58
+00:05:05,724 --> 00:05:08,018
+Catch ya later, Mulder.
+
+59
+00:05:19,863 --> 00:05:22,032
+<i>- (buzzer)
+- (man) He's here, sir.</i>
+
+60
+00:05:23,283 --> 00:05:24,284
+Send him in.
+
+61
+00:05:30,457 --> 00:05:32,542
+You wish to see me, sir?
+
+62
+00:05:32,834 --> 00:05:34,920
+Have a seat, Captain.
+
+63
+00:05:38,215 --> 00:05:43,136
+Captain, have you ever seen these two men,
+met the general, or myself?
+
+64
+00:05:43,428 --> 00:05:44,638
+No, sir.
+
+65
+00:05:44,763 --> 00:05:48,767
+In January, 1961,
+did you aid Congo president Kasavuba...
+
+66
+00:05:48,850 --> 00:05:52,020
+...in the arrest and assassination
+of Patrice Lumumba?
+
+67
+00:05:52,103 --> 00:05:53,146
+No, sir.
+
+68
+00:05:53,271 --> 00:05:56,775
+Did you train Cuban nationals
+during Operation Zapata...
+
+69
+00:05:56,858 --> 00:05:59,152
+...also known as The Bay Of Pigs?
+
+70
+00:05:59,236 --> 00:06:02,072
+I'm sorry, I'm unaware of
+any such operation.
+
+71
+00:06:02,322 --> 00:06:03,823
+On May 31st,1961...
+
+72
+00:06:03,907 --> 00:06:08,328
+...did you aid Dominican locals
+in the assassination of Rafael Trujillo?
+
+73
+00:06:08,411 --> 00:06:10,330
+No, sir.
+
+74
+00:06:11,831 --> 00:06:14,918
+Your father was a convicted spy
+for the Soviet Union.
+
+75
+00:06:15,001 --> 00:06:18,296
+Executed in a Louisiana electric chair,
+was he not?
+
+76
+00:06:21,383 --> 00:06:24,844
+My only regret, sir, is I was too young
+to throw the switch myself.
+
+77
+00:06:25,345 --> 00:06:30,767
+At ease, Captain. Your father's actions
+were totally out of your control.
+
+78
+00:06:30,850 --> 00:06:36,106
+Each of us in this room understands
+a life eviscerated by the actions of another.
+
+79
+00:06:36,189 --> 00:06:37,649
+Cigarette?
+
+80
+00:06:37,941 --> 00:06:40,819
+No, thank you, sir. I never touch 'em.
+
+81
+00:06:40,902 --> 00:06:46,950
+You see, most people seek to control life's
+events in order to secure a more positive...
+
+82
+00:06:47,033 --> 00:06:49,911
+...productive and free existence.
+
+83
+00:06:49,995 --> 00:06:54,666
+Often, however, the objectives of others
+conflict with our objectives.
+
+84
+00:06:55,250 --> 00:06:57,502
+<i>Viva la Iibertad.</i>
+
+85
+00:06:57,586 --> 00:07:00,755
+Now, most people -
+common people, really -
+
+86
+00:07:00,839 --> 00:07:05,677
+...can barely manage to control
+their own self-centred,, myopic existence.
+
+87
+00:07:08,263 --> 00:07:11,683
+They command lawyers
+armed with paper weapons...
+
+88
+00:07:11,766 --> 00:07:16,229
+...attacking with spiteful, vengeful,
+cowardly litigation.
+
+89
+00:07:16,438 --> 00:07:17,981
+Others...
+
+90
+00:07:18,857 --> 00:07:22,402
+...operate within elephantine bureaucracies.
+
+91
+00:07:23,445 --> 00:07:25,405
+And then, Captain...
+
+92
+00:07:27,824 --> 00:07:30,410
+...there are extraordinary men.
+
+93
+00:07:32,245 --> 00:07:37,917
+Those who must identify, comprehend
+and ultimately shoulder the responsibility...
+
+94
+00:07:38,001 --> 00:07:40,754
+...for not only their own existence...
+
+95
+00:07:40,837 --> 00:07:44,257
+...but their country's,
+and the world's as well.
+
+96
+00:07:45,634 --> 00:07:49,137
+Your father, Captain, believed his country
+
+97
+00:07:49,220 --> 00:07:51,765
+should look to
+another form of government...
+
+98
+00:07:51,848 --> 00:07:54,726
+...and he took control of that belief.
+
+99
+00:07:54,809 --> 00:07:57,646
+So, in that respect...
+
+100
+00:07:57,729 --> 00:08:00,440
+...we view him as an extraordinary man.
+
+101
+00:08:01,149 --> 00:08:03,193
+And we believe...
+
+102
+00:08:04,444 --> 00:08:08,239
+...we <i>know,</i> Captain,
+that it runs in the family.
+
+103
+00:08:09,824 --> 00:08:11,618
+Now, don't misunderstand.
+
+104
+00:08:11,701 --> 00:08:14,245
+Your father should have been executed.
+
+105
+00:08:14,329 --> 00:08:18,124
+Communism is the most heinous
+personification of evil...
+
+106
+00:08:18,208 --> 00:08:20,627
+...mankind has ever confronted.
+
+107
+00:08:20,710 --> 00:08:25,423
+And it is, in part, the reason
+that you are before us here today.
+
+108
+00:08:33,014 --> 00:08:39,145
+You must understand everything I'm about
+to say is classified "compartmentalised."
+
+109
+00:08:39,229 --> 00:08:41,815
+So intensely
+that if you accept this assignment...
+
+110
+00:08:41,898 --> 00:08:46,069
+...and successfully execute it, you will
+no longer be an officer of the US army...
+
+111
+00:08:46,152 --> 00:08:49,322
+...nor will any record exist of your service.
+
+112
+00:08:52,659 --> 00:08:54,703
+The assignment...
+
+113
+00:08:54,786 --> 00:08:58,415
+...is the assassination
+of an American civilian, aged 46...
+
+114
+00:08:58,498 --> 00:09:01,876
+...former naval PT boat commander.
+
+115
+00:09:03,712 --> 00:09:06,172
+Married, father of two.
+
+116
+00:09:16,224 --> 00:09:21,312
+Last week this country was brought
+to the brink of nuclear annihilation.
+
+117
+00:09:21,396 --> 00:09:27,777
+A situation which never would have arisen
+had the individual, as commander in chief...
+
+118
+00:09:27,861 --> 00:09:33,366
+...provided an umbrella of air support
+during the invasion at Bahia de Cochinos.
+
+119
+00:09:34,451 --> 00:09:35,952
+Is there a cover story?
+
+120
+00:09:36,035 --> 00:09:38,496
+Tell 'em it was done
+by men from outer space.
+
+121
+00:09:38,580 --> 00:09:41,875
+We've found and are setting up a patsy.
+
+122
+00:09:49,799 --> 00:09:51,134
+Where?
+
+123
+00:10:04,898 --> 00:10:07,567
+You shouldn't smoke those, Lee.
+
+124
+00:10:07,650 --> 00:10:10,487
+I'm reading studies
+that say they can kill you.
+
+125
+00:10:10,737 --> 00:10:11,738
+Well...
+
+126
+00:10:12,947 --> 00:10:14,199
+...Mr Hunt...
+
+127
+00:10:14,699 --> 00:10:15,742
+...sir...
+
+128
+00:10:15,825 --> 00:10:18,620
+...I've, uh, heard about those reports and...
+
+129
+00:10:18,703 --> 00:10:20,789
+...they are no doubt correct.
+
+130
+00:10:20,872 --> 00:10:24,167
+You'll have a good view
+of the president today.
+
+131
+00:10:25,084 --> 00:10:28,671
+I like the president's family.
+They're interesting people.
+
+132
+00:10:28,755 --> 00:10:32,300
+However, I have my own views
+on the president's national policy.
+
+133
+00:10:32,383 --> 00:10:34,803
+I'll probably just eat lunch.
+
+134
+00:10:34,886 --> 00:10:37,472
+I'm going to the movies
+at the Texas Theatre.
+
+135
+00:10:37,555 --> 00:10:39,724
+It's only 90 cents.
+
+136
+00:10:40,225 --> 00:10:42,227
+I love the movies.
+
+137
+00:10:44,813 --> 00:10:47,440
+I brought the curtain rods, Lee.
+
+138
+00:10:57,909 --> 00:11:00,703
+I bought some
+just like this back in March.
+
+139
+00:11:01,329 --> 00:11:02,455
+You did?
+
+140
+00:11:03,039 --> 00:11:04,374
+Or AJ Hidell?
+
+141
+00:11:04,457 --> 00:11:08,753
+Well, Mr Hunt,
+Fidel's defenders have to be careful.
+
+142
+00:11:08,837 --> 00:11:11,172
+Yes, we do.
+
+143
+00:11:11,256 --> 00:11:15,802
+I've informed our fellow defender that you'll
+hide the curtain rods on the 6th floor...
+
+144
+00:11:15,885 --> 00:11:20,056
+...of the book depository,
+behind the cartons against the back wall.
+
+145
+00:11:20,139 --> 00:11:22,183
+The Cuban visa?
+
+146
+00:11:22,267 --> 00:11:26,229
+Once I've been notified the rods
+have been removed from the depository...
+
+147
+00:11:26,312 --> 00:11:29,983
+...the visa and the money for your trip
+will be in your room.
+
+148
+00:11:30,859 --> 00:11:32,026
+Take a bus.
+
+149
+00:11:33,194 --> 00:11:35,780
+I left all my money with my wife.
+
+150
+00:11:39,701 --> 00:11:43,037
+That's all I've got: 13 and change.
+
+151
+00:11:44,873 --> 00:11:49,252
+You better get going, Lee. You wouldn't
+want to miss your ride to work.
+
+152
+00:12:22,952 --> 00:12:25,246
+<i>(shuffling sound)</i>
+
+153
+00:12:30,710 --> 00:12:34,339
+Oh! Good morning, Lee.
+Starting work right on time.
+
+154
+00:12:34,422 --> 00:12:35,924
+Yes, sir.
+
+155
+00:13:12,085 --> 00:13:16,089
+The president should be driving past any
+minute. Everyone's down on the 5th floor.
+
+156
+00:13:16,172 --> 00:13:18,049
+Where's Lee? Does he wanna come?
+
+157
+00:13:31,813 --> 00:13:33,856
+<i>(chattering)</i>
+
+158
+00:13:45,326 --> 00:13:47,745
+<i>(cheering)</i>
+
+159
+00:13:49,789 --> 00:13:54,502
+<i>(man on radio) The president's car
+is now turning onto Elm Street.</i>
+
+160
+00:13:57,839 --> 00:13:59,382
+<i>(sighs)</i>
+
+161
+00:13:59,465 --> 00:14:01,759
+<i>I was on the Stemmons freeway earlier...</i>
+
+162
+00:14:01,843 --> 00:14:05,763
+<i>...and it was jam-packed with spectators
+waiting to see the president.</i>
+
+163
+00:14:05,847 --> 00:14:07,932
+<i>People are really starting to crowd in.</i>
+
+164
+00:14:10,727 --> 00:14:13,938
+<i>(buzzing sound)</i>
+
+165
+00:14:14,022 --> 00:14:16,941
+<i>The motorcade
+is heading down Elm Street now...</i>
+
+166
+00:14:17,025 --> 00:14:20,445
+<i>...passing the Texas School Book Depository.</i>
+
+167
+00:14:24,115 --> 00:14:25,324
+<i>(gunshot)</i>
+
+168
+00:14:26,909 --> 00:14:28,578
+<i>(people screaming)</i>
+
+169
+00:14:30,455 --> 00:14:35,334
+<i>I can't quite see from here. Something
+has happened on the motorcade route.</i>
+
+170
+00:14:35,418 --> 00:14:37,962
+<i>Does anyone know what happened?
+Is there any information?</i>
+
+171
+00:14:38,046 --> 00:14:39,630
+(man) Upstairs!
+
+172
+00:14:39,714 --> 00:14:42,508
+- Do you know this man?
+- Yes, he works for me.
+
+173
+00:14:42,759 --> 00:14:43,926
+Let's go)!
+
+174
+00:14:44,010 --> 00:14:46,137
+<i>(people shouting)</i>
+
+175
+00:14:46,220 --> 00:14:48,931
+<i>(sirens blaring, people shouting)</i>
+
+176
+00:14:49,015 --> 00:14:52,143
+<i>(man on radio) The president
+of the United States is dead.</i>
+
+177
+00:14:52,226 --> 00:14:56,022
+<i>It is official now. President Kennedy is dead.</i>
+
+178
+00:15:01,986 --> 00:15:04,322
+No! No! No, sir!
+
+179
+00:15:04,405 --> 00:15:06,324
+I won't be a patsy.
+
+180
+00:15:17,752 --> 00:15:21,464
+<i>(police radio)</i>
+
+181
+00:15:21,714 --> 00:15:25,760
+<i>...should be considered dangerous,
+and use caution approaching.</i>
+
+182
+00:15:25,843 --> 00:15:27,637
+Afternoon.
+
+183
+00:15:27,720 --> 00:15:31,224
+<i>(radio continues)</i>
+
+184
+00:15:33,142 --> 00:15:35,728
+I wish to see
+some form of identification, sir.
+
+185
+00:15:35,812 --> 00:15:37,688
+Now easy there, partner.
+
+186
+00:15:37,772 --> 00:15:39,649
+I just wanna talk a minute.
+
+187
+00:15:39,732 --> 00:15:43,152
+If I don't see valid credentials,
+I'm gonna assume you're with them.
+
+188
+00:15:43,236 --> 00:15:45,446
+Them? What do you mean, partner?
+
+189
+00:15:45,530 --> 00:15:46,823
+<i>(gunshots)</i>
+
+190
+00:15:52,620 --> 00:15:55,081
+<i>How about a cigarette?</i>
+
+191
+00:15:55,164 --> 00:15:57,083
+<i>Thank you.</i>
+
+192
+00:15:58,835 --> 00:16:01,337
+<i>You know, Keiffer knocked out a bunker.</i>
+
+193
+00:16:02,255 --> 00:16:04,382
+<i>All by himself, too.</i>
+
+194
+00:16:04,465 --> 00:16:07,844
+<i>(soldier 2) More guts than me.
+All I did was pick up the spoils.</i>
+
+195
+00:16:07,927 --> 00:16:10,012
+<i>(soldier 1) But he's really gone.</i>
+
+196
+00:16:10,096 --> 00:16:14,142
+<i>After Connors and Thurston ran, he knocked
+out the bunker with one grenade.</i>
+
+197
+00:16:14,225 --> 00:16:16,310
+<i>Now that's really somethin', huh?</i>
+
+198
+00:16:17,812 --> 00:16:19,230
+<i>Yeah.</i>
+
+199
+00:16:20,815 --> 00:16:23,442
+<i>(people grumbling)</i>
+
+200
+00:16:25,236 --> 00:16:27,446
+<i>(cop)</i> We won't be long.
+
+201
+00:16:39,500 --> 00:16:41,961
+On your feet. Come on.
+
+202
+00:16:45,756 --> 00:16:47,967
+It's gonna be all over.
+
+203
+00:16:49,802 --> 00:16:51,637
+He's got a gun!
+
+204
+00:16:52,305 --> 00:16:54,515
+<i>(shouting)</i>
+
+205
+00:16:54,765 --> 00:16:56,517
+Take him down!
+
+206
+00:16:56,726 --> 00:17:00,188
+I'm not resisting arrest!
+I'm not resisting arrest!
+
+207
+00:17:00,271 --> 00:17:02,773
+Stop hitting me, you sons of bitches!
+
+208
+00:17:02,857 --> 00:17:05,985
+I'm not the one! I'm not the one!
+
+209
+00:17:06,068 --> 00:17:08,738
+I'm not resisting arrest!
+
+210
+00:17:08,821 --> 00:17:11,657
+Police brutality!
+This is police brutality!
+
+211
+00:17:11,741 --> 00:17:14,160
+I'm not resisting arrest!
+
+212
+00:17:14,243 --> 00:17:16,621
+<i>(cop) Put him in the car!</i>
+
+213
+00:17:16,704 --> 00:17:18,706
+<i>(Oswald) Let me gm!</i>
+
+214
+00:17:18,789 --> 00:17:22,210
+<i>(cops, Oswald shouting)</i>
+
+215
+00:17:24,086 --> 00:17:27,089
+<i>(siren blaring)</i>
+
+216
+00:17:56,118 --> 00:17:58,329
+<i>(Martin Luther King)
+We must, with positive action,</i>
+
+217
+00:17:58,412 --> 00:18:00,665
+<i>remove those conditions of poverty,</i> ...
+
+218
+00:18:00,790 --> 00:18:02,667
+<i>...insecurity and injustice...</i>
+
+219
+00:18:02,750 --> 00:18:08,089
+<i>...which are the fertile soil in which the seed
+of Communism grows and develops.</i>
+
+220
+00:18:08,172 --> 00:18:10,967
+<i>These are revolutionary times.</i>
+
+221
+00:18:11,133 --> 00:18:13,427
+<i>All over the globe...</i>
+
+222
+00:18:13,511 --> 00:18:18,140
+<i>...men are revolting against old systems
+of exploitation and oppression.</i>
+
+223
+00:18:18,933 --> 00:18:21,269
+<i>And out of the wombs of a frail world...</i>
+
+224
+00:18:21,352 --> 00:18:25,523
+<i>...new systems of justice
+and equality are being born.</i>
+
+225
+00:18:25,690 --> 00:18:28,609
+<i>The shirtless
+and barefoot people of the land...</i>
+
+226
+00:18:28,693 --> 00:18:31,028
+<i>...are rising up as never before.</i>
+
+227
+00:18:31,153 --> 00:18:33,990
+"I can kill you whenever I please."
+
+228
+00:18:36,117 --> 00:18:40,621
+<i>We in the West
+must support these revolutions.</i>
+
+229
+00:18:40,705 --> 00:18:42,039
+"But not today."
+
+230
+00:18:42,123 --> 00:18:44,792
+<i>...because of comfort, complacency,</i> ...
+
+231
+00:18:44,875 --> 00:18:50,214
+<i>...a morbid fear of Communism
+and our proneness to adjust to injustice...</i>
+
+232
+00:18:50,464 --> 00:18:52,550
+<i>...the Western nations that initiated...</i>
+
+233
+00:18:52,633 --> 00:18:57,221
+<i>...so much of the revolutionary spirit
+of the modern world...</i>
+
+234
+00:19:01,726 --> 00:19:06,564
+<i>...driven many to feel that only Marxism
+has the revolutionary spirit.</i>
+
+235
+00:19:07,023 --> 00:19:09,400
+<i>The ref ore, Communism is a judgement...</i>
+
+236
+00:19:09,525 --> 00:19:12,903
+. <i>. against our failure
+to make democracy real...</i>
+
+237
+00:19:12,987 --> 00:19:17,074
+<i>...and follow through
+on the revolutions that we initiated.</i>
+
+238
+00:19:17,158 --> 00:19:20,202
+No, no. Why'd you have to do that?
+
+239
+00:19:20,411 --> 00:19:22,079
+<i>To recapture the revolution...</i>
+
+240
+00:19:29,879 --> 00:19:32,340
+Why didn't you know
+this was coming, Edgar?
+
+241
+00:19:32,882 --> 00:19:34,091
+<i>(coughs)</i>
+
+242
+00:19:34,759 --> 00:19:38,429
+Last year the House was not smiling
+on non eye-to-eye surveillance.
+
+243
+00:19:38,554 --> 00:19:39,597
+So I stopped.
+
+244
+00:19:39,722 --> 00:19:45,144
+We called Ramsey Clark to get a go-ahead
+on tapping King's phone, but he refused.
+
+245
+00:19:45,227 --> 00:19:50,358
+Our "behind the fence" operations believes
+that King's ally, Stokely Carmichael...
+
+246
+00:19:50,441 --> 00:19:54,028
+...is recruitin' a Negro army
+to wage war on white America.
+
+247
+00:19:54,945 --> 00:19:57,531
+Wouldn't you, if you were them?
+
+248
+00:19:57,615 --> 00:19:59,033
+If this were only a civil rights issue...
+
+249
+00:19:59,116 --> 00:20:02,870
+...I'd vote for a King-Benjamin Spock
+presidential ticket.
+
+250
+00:20:02,953 --> 00:20:04,872
+But, after last night, it's not.
+
+251
+00:20:04,955 --> 00:20:07,208
+You actually sound sad about it.
+
+252
+00:20:07,291 --> 00:20:10,544
+I respect King. He's an extraordinary man.
+
+253
+00:20:10,628 --> 00:20:13,464
+But now he's talking like a Maoist.
+
+254
+00:20:13,547 --> 00:20:17,760
+And if he convinces Negroes
+not to fight in Vietnam, we'll lose.
+
+255
+00:20:18,719 --> 00:20:20,888
+And the first domino will have fallen.
+
+256
+00:20:20,971 --> 00:20:23,224
+We must step up our efforts
+to discredit him.
+
+257
+00:20:23,307 --> 00:20:25,976
+Like your ridiculous suicide project?
+
+258
+00:20:26,060 --> 00:20:28,979
+"There is but one way out for you"?
+
+259
+00:20:29,105 --> 00:20:32,066
+That letter
+attempting to drive King into despair...
+
+260
+00:20:32,149 --> 00:20:36,112
+...only alerted him
+to the level of our surveillance.
+
+261
+00:20:36,404 --> 00:20:40,116
+We could create a film of him
+with a woman other than his wife.
+
+262
+00:20:41,158 --> 00:20:46,080
+Using existing footage, we could insert him
+in a film we make of a woman -
+
+263
+00:20:46,163 --> 00:20:47,665
+...a white woman.
+
+264
+00:20:47,748 --> 00:20:52,002
+The solution is more intense...
+than just dirty tricks.
+
+265
+00:20:55,506 --> 00:20:59,343
+If you'll excuse us, the director
+has a meeting at the White House.
+
+266
+00:20:59,468 --> 00:21:00,511
+Sit down!
+
+267
+00:21:01,429 --> 00:21:05,933
+You've enough plausible deniability
+to last the rest of your nine lives.
+
+268
+00:21:09,687 --> 00:21:13,149
+A SIG force
+can execute a wet-insert operation.
+
+269
+00:21:13,816 --> 00:21:17,445
+One day, he and his immediate circle
+are just found dead.
+
+270
+00:21:18,654 --> 00:21:20,030
+Too many questions.
+
+271
+00:21:21,532 --> 00:21:26,454
+Americans believe the South
+is still fighting the Civil War.
+
+272
+00:21:26,537 --> 00:21:32,209
+We find ourselves a cracker patsy, and
+the motives become very black and white.
+
+273
+00:21:32,543 --> 00:21:33,878
+Another patsy.
+
+274
+00:21:35,004 --> 00:21:37,798
+Should we advise the president?
+
+275
+00:21:37,882 --> 00:21:42,344
+I work very hard to keep any president
+from knowing I even exist.
+
+276
+00:21:43,721 --> 00:21:45,723
+Who will you order to do it?
+
+277
+00:21:49,977 --> 00:21:52,062
+I'll do it myself.
+
+278
+00:21:52,563 --> 00:21:55,316
+I have too much respect for the man.
+
+279
+00:21:58,569 --> 00:22:00,738
+<i>(King) The nation is sick.</i>
+
+280
+00:22:02,406 --> 00:22:06,660
+<i>Trouble is in the land, confusion all around.</i>
+
+281
+00:22:06,744 --> 00:22:09,663
+<i>That's a strange statement.</i>
+
+282
+00:22:09,747 --> 00:22:11,665
+<i>But I know, somehow...</i>
+
+283
+00:22:11,749 --> 00:22:14,835
+<i>...that only when it is dark enough...</i>
+
+284
+00:22:14,919 --> 00:22:17,338
+<i>...can you see the stars.</i>
+
+285
+00:22:18,339 --> 00:22:20,424
+<i>And I see God working...</i>
+
+286
+00:22:20,508 --> 00:22:23,886
+<i>...in this period of the twentieth century...</i>
+
+287
+00:22:26,764 --> 00:22:28,098
+<i>...in away...</i>
+
+288
+00:22:29,183 --> 00:22:34,021
+<i>...that men, in some strange way,
+are responding.</i>
+
+289
+00:22:34,104 --> 00:22:37,691
+<i>Something is happening in our world.</i>
+
+290
+00:22:37,775 --> 00:22:40,611
+<i>The masses of people are rising up.</i>
+
+291
+00:22:42,530 --> 00:22:46,033
+<i>And wherever they are assembled today...</i>
+
+292
+00:22:46,116 --> 00:22:50,454
+<i>...whether they are in
+Johannesburg, South Africa;...</i>
+
+293
+00:22:50,579 --> 00:22:52,790
+<i>...Nairobi, Kenya; Accra, Ghana;</i> ..
+
+294
+00:22:52,915 --> 00:22:55,125
+<i>...New York City; Atlanta, Georgia;...</i>
+
+295
+00:22:55,417 --> 00:22:58,462
+<i>...Jackson, Mississippi
+or Memphis, Tennessee...</i>
+
+296
+00:22:58,587 --> 00:23:02,466
+<i>...the cry is always the same:
+"We want to be free!"</i>
+
+297
+00:23:02,550 --> 00:23:04,134
+<i>(people cheering)</i>
+
+298
+00:23:08,138 --> 00:23:09,765
+<i>(footsteps approaching)</i>
+
+299
+00:23:15,062 --> 00:23:17,147
+Raul.
+
+300
+00:23:17,773 --> 00:23:21,986
+- I got the binoculars you sent me out for.
+- Just put 'em down by your clothes.
+
+301
+00:23:22,111 --> 00:23:26,407
+I heard Dr King's stayin'
+at the Lorraine Motel right behind here.
+
+302
+00:23:26,490 --> 00:23:29,743
+Our gun buyer's coming by
+to look at the rifle.
+
+303
+00:23:30,744 --> 00:23:32,746
+Well, I gave it to you this mornin'.
+
+304
+00:23:32,913 --> 00:23:34,582
+Ihaveit
+
+305
+00:23:35,124 --> 00:23:37,668
+Look, uh, three's a crowd.
+
+306
+00:23:40,296 --> 00:23:44,341
+Here's a coupla hundred. Go to a movie
+or something. Come back in a few hours.
+
+307
+00:23:44,466 --> 00:23:46,677
+Leave the Mustang. I'll need it later.
+
+308
+00:24:04,028 --> 00:24:07,364
+<i>(King's voice)
+Lord, I don't know what will happen now.</i>
+
+309
+00:24:07,489 --> 00:24:10,534
+<i>We've got some difficult days ahead.</i>
+
+310
+00:24:10,951 --> 00:24:13,454
+<i>But it really doesn't matter to me now.</i>
+
+311
+00:24:13,537 --> 00:24:15,706
+<i>Because I've been to the mountaintop.</i>
+
+312
+00:24:15,831 --> 00:24:17,291
+<i>(people cheering)</i>
+
+313
+00:24:17,374 --> 00:24:19,710
+<i>And I don't mind.</i>
+
+314
+00:24:21,879 --> 00:24:26,634
+<i>Like anybody, I would like to live a long life.</i>
+
+315
+00:24:26,717 --> 00:24:30,638
+<i>Longevity has its place.</i>
+
+316
+00:24:30,721 --> 00:24:34,058
+<i>But I'm not concerned about that now.</i>
+
+317
+00:24:34,141 --> 00:24:36,852
+<i>I just want to do God's will.</i>
+
+318
+00:24:37,895 --> 00:24:41,565
+<i>And he's allowed me
+to go up to the mountain.</i>
+
+319
+00:24:41,649 --> 00:24:43,901
+<i>And I've looked over.</i>
+
+320
+00:24:44,026 --> 00:24:45,819
+<i>And I've seen...</i>
+
+321
+00:24:46,528 --> 00:24:48,030
+<i>...the promised land.</i>
+
+322
+00:24:48,906 --> 00:24:51,408
+<i>I may not get there with you.</i>
+
+323
+00:24:51,533 --> 00:24:53,911
+<i>But I want you to know tonight...</i>
+
+324
+00:24:53,994 --> 00:24:58,082
+<i>...that we, as a people,
+will get to the promised land!</i>
+
+325
+00:24:58,165 --> 00:24:59,375
+<i>(cheering)</i>
+
+326
+00:25:03,587 --> 00:25:06,590
+<i>So I'm happy tonight.
+I'm not worried about anything!</i>
+
+327
+00:25:06,715 --> 00:25:09,009
+<i>I'm not fearing any man!</i>
+
+328
+00:25:09,093 --> 00:25:12,846
+<i>Mine eyes have seen the glory
+of the coming of the Lord!</i>
+
+329
+00:25:12,930 --> 00:25:15,599
+<i>(gunshot echoing)</i>
+
+330
+00:25:20,604 --> 00:25:22,439
+<i>(television)</i>
+
+331
+00:25:34,118 --> 00:25:38,455
+<i>...declarations of states of emergency
+in several cities.</i>
+
+332
+00:25:38,539 --> 00:25:40,958
+<i>In Washington, DC...</i>
+
+333
+00:25:41,041 --> 00:25:43,460
+<i>(TV continues)</i>
+
+334
+00:25:45,045 --> 00:25:49,049
+<i>New York state senator Robert F Kennedy
+has made an appeal for calm.</i>
+
+335
+00:25:49,133 --> 00:25:54,763
+<i>(Kennedy) I can also feel, in my own heart,
+the same kind of feeling.</i>
+
+336
+00:25:56,140 --> 00:25:58,809
+<i>I had a member of my family killed.</i>
+
+337
+00:25:59,727 --> 00:26:01,937
+<i>But he was killed by a white man.</i>
+
+338
+00:26:03,480 --> 00:26:06,650
+<i>My favourite poet was Aeschylus.</i>
+
+339
+00:26:06,817 --> 00:26:08,819
+<i>And he once wrote...</i>
+
+340
+00:26:11,822 --> 00:26:15,117
+<i>..."Even in our sleep,
+pain which cannot forget...</i>
+
+341
+00:26:16,493 --> 00:26:18,996
+<i>...falls drop by drop upon the heart...</i>
+
+342
+00:26:19,788 --> 00:26:22,750
+...until in our own despair...
+
+343
+00:26:22,833 --> 00:26:26,086
+...against our own will comes wisdom...
+
+344
+00:26:26,170 --> 00:26:28,130
+<i>...through the awful grace of God."</i>
+
+345
+00:26:39,016 --> 00:26:41,185
+<i>(voice on tape)</i>
+
+346
+00:26:44,688 --> 00:26:47,649
+<i>(siren blaring in distance)</i>
+
+347
+00:26:54,281 --> 00:26:55,491
+All right, gentlemen.
+
+348
+00:26:55,574 --> 00:26:58,535
+Let's make this short
+so we can all go home for Christmas.
+
+349
+00:26:59,495 --> 00:27:01,413
+Domestic unrest operations?
+
+350
+00:27:01,497 --> 00:27:04,666
+The Anita Hill thing
+has lost steam since October.
+
+351
+00:27:04,750 --> 00:27:07,252
+Well, let it go. We played it right.
+
+352
+00:27:07,336 --> 00:27:11,173
+Unfounded allegations
+will be flying around in no time. LA?
+
+353
+00:27:11,256 --> 00:27:14,051
+The Rodney King trial's been moved
+to Simi Valley, as you instructed.
+
+354
+00:27:14,134 --> 00:27:15,302
+<i>(beeping)</i>
+
+355
+00:27:17,763 --> 00:27:20,849
+- Call back.
+- Internationally, Bosnia-Herzegovina...
+
+356
+00:27:20,933 --> 00:27:24,812
+...is set for a February vote
+on independence from Yugoslavia.
+
+357
+00:27:24,895 --> 00:27:27,189
+America couldn't care less.
+
+358
+00:27:27,272 --> 00:27:30,025
+I'm working on next month's
+Oscar nominations.
+
+359
+00:27:30,108 --> 00:27:33,237
+- Any preference?
+- I couldn't care less.
+
+360
+00:27:33,320 --> 00:27:35,739
+But I don't want the Bills
+to win the Super Bowl.
+
+361
+00:27:35,823 --> 00:27:38,242
+As long as I'm alive, that doesn't happen.
+
+362
+00:27:38,325 --> 00:27:41,078
+Could be tough, sir.
+Buffalo wants it bad.
+
+363
+00:27:41,286 --> 00:27:43,288
+So did the Soviets in '80.
+
+364
+00:27:43,372 --> 00:27:45,374
+You rigged the Olympic hockey game?
+
+365
+00:27:45,457 --> 00:27:48,544
+What's the matter?
+Don't you believe in miracles?
+
+366
+00:27:48,627 --> 00:27:53,173
+The boss gave the Russian goaltender
+a little pre-game good-luck pat on the back.
+
+367
+00:27:53,257 --> 00:27:56,176
+Unseen Novocain needle
+on a bogus wedding ring.
+
+368
+00:27:56,260 --> 00:27:58,720
+Goalie's a little slow on the stick side.
+
+369
+00:27:58,804 --> 00:28:00,889
+Four-three, home team.
+
+370
+00:28:01,265 --> 00:28:03,058
+Payback's a bitch, Ivan.
+
+371
+00:28:03,725 --> 00:28:07,479
+- Well, gentlemen, if that'll be all...
+- One thing internally, sir.
+
+372
+00:28:07,563 --> 00:28:13,277
+That "Spooky" kid who talked his way into
+opening the X-Files, he feels like trouble.
+
+373
+00:28:14,862 --> 00:28:16,488
+He's mine to keep an eye on.
+
+374
+00:28:16,572 --> 00:28:17,823
+<i>(beeping)</i>
+
+375
+00:28:22,286 --> 00:28:24,580
+Gorbachev has just resigned.
+
+376
+00:28:27,124 --> 00:28:29,668
+There's no more enemies.
+
+377
+00:28:39,803 --> 00:28:40,888
+Merry Christmas.
+
+378
+00:28:44,892 --> 00:28:46,685
+Merry Christmas.
+
+379
+00:28:53,442 --> 00:28:55,652
+If you don't have any plans, sir...
+
+380
+00:28:57,195 --> 00:29:00,490
+...we're all getting together
+with our families out in Virginia.
+
+381
+00:29:00,574 --> 00:29:02,284
+You're more than welcome to...
+
+382
+00:29:02,367 --> 00:29:04,244
+Oh. Well.
+
+383
+00:29:04,953 --> 00:29:05,996
+Uh...
+
+384
+00:29:07,539 --> 00:29:09,791
+I have to, uh, see some, uh...
+
+385
+00:29:11,001 --> 00:29:12,085
+...some family.
+
+386
+00:29:43,784 --> 00:29:45,410
+<i>(keyboard clicking)</i>
+
+387
+00:29:54,544 --> 00:29:58,173
+<i>(Andy Williams)
+It's the most wonderful time of the year</i>
+
+388
+00:30:00,467 --> 00:30:03,178
+<i>With the kids jingle-belling</i>
+
+389
+00:30:03,261 --> 00:30:07,599
+<i>And everyone telling you "be of good cheer"</i>
+
+390
+00:30:07,683 --> 00:30:12,187
+<i>It's the most wonderful time of the year</i>
+
+391
+00:30:13,772 --> 00:30:18,652
+<i>It's the hap-happiest season of all</i>
+
+392
+00:30:20,404 --> 00:30:23,782
+<i>With those holiday greetings
+and gay, happy feelings</i>
+
+393
+00:30:23,865 --> 00:30:26,743
+<i>When friends come to call</i>
+
+394
+00:30:26,827 --> 00:30:31,164
+<i>It's the hap-happiest season of all</i>
+
+395
+00:31:14,166 --> 00:31:16,376
+<i>(phone ringing)</i>
+
+396
+00:31:16,710 --> 00:31:17,794
+Yeah?
+
+397
+00:31:17,878 --> 00:31:21,673
+<i>(man) You'll never believe
+what we just got for Christmas.</i>
+
+398
+00:31:31,641 --> 00:31:35,228
+The craft matches the dimensions
+of a vehicle spotted over Hanoi...
+
+399
+00:31:35,312 --> 00:31:40,400
+...when I was in Vietnam with the company,
+that the Marines couldn't shoot down.
+
+400
+00:31:40,484 --> 00:31:42,527
+- Occupant?
+- Critical.
+
+401
+00:31:42,611 --> 00:31:44,946
+Timing couldn't be worse.
+
+402
+00:31:45,030 --> 00:31:48,075
+The Roswell story we concocted
+was gathering momentum.
+
+403
+00:31:48,158 --> 00:31:51,161
+Had them all looking in the wrong direction.
+
+404
+00:31:51,244 --> 00:31:54,081
+- With luck we'll get away with it.
+- No luck tonight.
+
+405
+00:31:54,164 --> 00:31:57,626
+Our spy planes confirm
+the Russians tracked entry
+
+406
+00:31:57,709 --> 00:31:59,795
+and have pinpointed touchdown.
+
+407
+00:31:59,878 --> 00:32:03,173
+Haven't you heard?
+There are no Russians anymore.
+
+408
+00:32:03,256 --> 00:32:08,303
+Even if they're in the midst of ruin, the KGB
+won't ignore an event of this magnitude.
+
+409
+00:32:08,386 --> 00:32:11,807
+Nor the Chinese, nor the Germans,
+nor the British...
+
+410
+00:32:11,890 --> 00:32:16,520
+...or anyone with the capability
+of discovering what happened here.
+
+411
+00:32:16,603 --> 00:32:21,274
+I'm certain each of them
+has operatives advancing on us right now.
+
+412
+00:32:31,952 --> 00:32:36,206
+How many historic events have only
+the two of us witnessed together?
+
+413
+00:32:37,916 --> 00:32:41,461
+How often did we make or change history?
+
+414
+00:32:43,255 --> 00:32:45,590
+And our names can never...
+
+415
+00:32:45,674 --> 00:32:48,593
+...grace any pages of record.
+
+416
+00:32:48,844 --> 00:32:51,888
+No monument will ever bear our image.
+
+417
+00:32:52,681 --> 00:32:54,891
+And yet, once again, tonight...
+
+418
+00:32:55,767 --> 00:32:59,813
+...the course of human history
+will be set by two unknown men...
+
+419
+00:33:00,230 --> 00:33:02,816
+...standing in the shadows.
+
+420
+00:33:15,453 --> 00:33:19,166
+A living EBE could advance
+Bill Mulder's project by decades.
+
+421
+00:33:19,249 --> 00:33:25,797
+Security Council Resolution 1013 states
+any country capturing such an entity...
+
+422
+00:33:25,881 --> 00:33:29,968
+...is responsible
+for its immediate extermination.
+
+423
+00:33:33,805 --> 00:33:36,600
+I'm the liar. You're the killer.
+
+424
+00:33:37,267 --> 00:33:41,229
+Your lies have killed more men in a day
+than I have in a lifetime.
+
+425
+00:33:41,313 --> 00:33:43,231
+I've never killed anybody.
+
+426
+00:33:43,315 --> 00:33:45,483
+Maybe I'm not the liar.
+
+427
+00:33:45,567 --> 00:33:50,322
+I have a chance to go a lifetime
+without killing anybody or any thing.
+
+428
+00:33:50,405 --> 00:33:53,533
+With all of our work
+in the past 30 years, all of our victories,
+
+429
+00:33:53,617 --> 00:33:56,077
+if the world were to see this...
+
+430
+00:33:56,912 --> 00:34:00,415
+...it would destroy all we have gained
+in a few hours.
+
+431
+00:34:02,125 --> 00:34:05,462
+Tonight, we have a new...
+
+432
+00:34:06,338 --> 00:34:07,631
+...enemy.
+
+433
+00:34:21,519 --> 00:34:22,604
+Heads.
+
+434
+00:34:29,569 --> 00:34:30,570
+Go ahead.
+
+435
+00:34:31,655 --> 00:34:33,198
+Make history.
+
+436
+00:35:36,803 --> 00:35:38,596
+<i>(second gunshot)</i>
+
+437
+00:36:04,080 --> 00:36:08,418
+<i>(Frohike) At that point, your work
+was getting attention from the top floor.</i>
+
+438
+00:36:08,501 --> 00:36:10,503
+<i>That's why you were brought in.</i>
+
+439
+00:36:21,389 --> 00:36:25,018
+<i>(man 1) Agent Scully, thank you
+for coming on such short notice.</i>
+
+440
+00:36:25,101 --> 00:36:28,355
+<i>(man 2) Are you familiar
+with Agent Fox Mulder?</i>
+
+441
+00:36:28,438 --> 00:36:30,190
+<i>Yes, I am.</i>
+
+442
+00:36:31,191 --> 00:36:33,943
+- How so?
+- By reputation.
+
+443
+00:36:34,194 --> 00:36:37,614
+Um, he's an Oxford-educated psychologist...
+
+444
+00:36:37,697 --> 00:36:43,703
+...who wrote a monograph on serial killers
+that helped to catch Monty Propps in 1988.
+
+445
+00:36:43,787 --> 00:36:48,083
+Generally thought of as the best analyst
+in the violent crimes section.
+
+446
+00:36:48,291 --> 00:36:50,960
+He had a nickname at the Academy.
+
+447
+00:36:52,879 --> 00:36:54,381
+Spooky Mulder.
+
+448
+00:36:55,423 --> 00:36:59,636
+Agent Mulder has developed
+a consuming devotion...
+
+449
+00:36:59,761 --> 00:37:02,806
+...to a project outside
+the Bureau mainstream.
+
+450
+00:37:02,931 --> 00:37:05,225
+Are you familiar with the X-Files?
+
+451
+00:37:05,308 --> 00:37:06,309
+<i>(knocking)</i>
+
+452
+00:37:06,393 --> 00:37:10,480
+<i>Sorry. Nobody down here
+but the FBI's most unwanted.</i>
+
+453
+00:37:10,605 --> 00:37:14,484
+<i>Agent Mulder. I'm Dana Scully.
+I've been assigned to work with you.</i>
+
+454
+00:37:14,567 --> 00:37:18,238
+<i>Oh, isn't it nice
+to be suddenly so highly regarded?</i>
+
+455
+00:37:18,321 --> 00:37:21,658
+<i>Who did you tick off
+to get stuck with this detail?</i>
+
+456
+00:37:21,741 --> 00:37:24,411
+<i>I'm looking forward to working with you.</i>
+
+457
+00:37:24,494 --> 00:37:26,746
+<i>- I've heard a lot about you.
+- Really?</i>
+
+458
+00:37:26,830 --> 00:37:31,751
+<i>I was under the impression
+that you were sent to spy on me.</i>
+
+459
+00:37:31,835 --> 00:37:34,254
+<i>(Frohike) Henry David Thoreau wrote...</i>
+
+460
+00:37:34,337 --> 00:37:38,091
+<i>..."The mass of men
+lead lives of quiet desperation."</i>
+
+461
+00:37:38,174 --> 00:37:40,427
+<i>His life has been anything but quiet.</i>
+
+462
+00:37:40,510 --> 00:37:43,096
+<i>Yet, I believe, nothing but desperate.</i>
+
+463
+00:37:43,179 --> 00:37:45,348
+<i>He's the most dangerous man alive.</i>
+
+464
+00:37:45,432 --> 00:37:47,684
+<i>Not because he believes in his actions...</i>
+
+465
+00:37:47,809 --> 00:37:51,771
+<i>...but because he believes these actions
+are all which life allows him.</i>
+
+466
+00:37:51,855 --> 00:37:55,442
+<i>And yet, the only person
+that can never escape him...</i>
+
+467
+00:37:55,525 --> 00:37:57,318
+<i>...is himself.</i>
+
+468
+00:38:19,382 --> 00:38:22,218
+<i>- (woman) Pivotal Publishing.
+- Walden Roth, please.</i>
+
+469
+00:38:22,343 --> 00:38:24,721
+<i>- (woman) One moment.
+- Walden Roth.</i>
+
+470
+00:38:24,804 --> 00:38:28,808
+Oh, Mr Roth, hello.
+Uh, this is Raul Bloodworth...
+
+471
+00:38:28,892 --> 00:38:32,145
+<i>"author of Second Chance:
+A Jack Colquitt Adventure.</i>
+
+472
+00:38:32,228 --> 00:38:34,147
+<i>Yes, of course, Mr Bloodworth.</i>
+
+473
+00:38:34,230 --> 00:38:36,900
+<i>What an active imagination!
+Alien assassinations!</i>
+
+474
+00:38:37,192 --> 00:38:40,403
+Is it too much?
+I mean, is my imagination too active?
+
+475
+00:38:40,487 --> 00:38:43,239
+<i>No, I love it.
+As I've expressed in the letter...</i>
+
+476
+00:38:43,364 --> 00:38:46,826
+<i>...I wish to serialise your novel
+in our publication, Roman A' Clef.</i>
+
+477
+00:38:46,910 --> 00:38:50,079
+<i>Many authors receive
+their first printing in our publications.</i>
+
+478
+00:38:50,205 --> 00:38:52,415
+<i>(laughing) That's great.</i>
+
+479
+00:38:52,540 --> 00:38:54,751
+Um, I had an idea about the artwork.
+
+480
+00:38:54,834 --> 00:38:58,588
+I thought it could have a kind of
+Tom Clancy-ish kind of look...
+
+481
+00:38:58,671 --> 00:39:00,965
+<i>Great! That's why we work
+with young writers.</i>
+
+482
+00:39:01,049 --> 00:39:03,927
+<i>But you'll have to relinquish some control.</i>
+
+483
+00:39:04,761 --> 00:39:07,514
+Of course. Of course.
+
+484
+00:39:07,597 --> 00:39:09,349
+<i>After all, it is our publication.</i>
+
+485
+00:39:09,432 --> 00:39:12,477
+<i>And I can assure you,
+we'll handle it with the utmost respect.</i>
+
+486
+00:39:12,560 --> 00:39:17,273
+No, no, no. I'm sure you will.
+I'm... I'm just excited.
+
+487
+00:39:17,357 --> 00:39:20,026
+<i>Understandable.
+Do you have an agent or attorney?</i>
+
+488
+00:39:20,109 --> 00:39:21,611
+<i>- No.
+- That's fine.</i>
+
+489
+00:39:21,694 --> 00:39:25,365
+<i>It's a minimum agreement of $2500,
+and you'll save yourself ten percent.</i>
+
+490
+00:39:25,448 --> 00:39:28,284
+Well, that's fine, that's fine. Anything.
+
+491
+00:39:28,409 --> 00:39:30,787
+When do you plan to publish the story?
+
+492
+00:39:30,912 --> 00:39:35,291
+<i>"Roman A' Clef" will be on the newsstands
+the morning of November 12th.</i>
+
+493
+00:39:40,630 --> 00:39:42,590
+<i>(bell dings)</i>
+
+494
+00:40:22,797 --> 00:40:25,508
+(man) Hey, buddy, you can't park there!
+
+495
+00:40:28,177 --> 00:40:31,806
+Excuse me, sir. Have you got
+this week's issue of Roman <i>A' Clef?</i>
+
+496
+00:40:39,355 --> 00:40:41,357
+- Thanks.
+- Yeah.
+
+497
+00:40:55,204 --> 00:40:58,541
+This isn't the ending that I wrote.
+It's all wrong.
+
+498
+00:40:59,000 --> 00:41:02,545
+If you're gonna read it,
+I gotta ask you to buy it.
+
+499
+00:41:02,712 --> 00:41:07,717
+Of course, I don't know why
+anybody would wanna buy that sort of crap.
+
+500
+00:41:21,397 --> 00:41:22,565
+That be it?
+
+501
+00:41:24,901 --> 00:41:26,819
+Pack of Morleys.
+
+502
+00:41:54,722 --> 00:41:57,767
+Life is like a box of chocolates.
+
+503
+00:41:59,018 --> 00:42:03,022
+A cheap, thoughtless, perfunctory gift
+that nobody ever asks for.
+
+504
+00:42:03,106 --> 00:42:06,693
+Unreturnable because all you get back
+is another box of chocolates.
+
+505
+00:42:06,776 --> 00:42:10,613
+So you're stuck with this undefinable
+whipped-mint crap...
+
+506
+00:42:10,697 --> 00:42:14,784
+...that you mindlessly wolf down
+when there's nothing else left to eat.
+
+507
+00:42:14,909 --> 00:42:17,787
+Sure, once in a while
+there's a peanut-butter cup...
+
+508
+00:42:17,912 --> 00:42:20,623
+...or an English toffee...
+
+509
+00:42:20,748 --> 00:42:24,794
+...but they're gone too fast
+and the taste is fleeting.
+
+510
+00:42:26,379 --> 00:42:28,798
+So you end up with nothing but...
+
+511
+00:42:28,923 --> 00:42:31,134
+...broken bits filled with hardened jelly...
+
+512
+00:42:31,217 --> 00:42:33,469
+...and teeth-shattering nuts.
+
+513
+00:42:33,594 --> 00:42:37,473
+If you're desperate enough to eat those,
+all you've got left is a...
+
+514
+00:42:37,557 --> 00:42:42,478
+...is an empty box
+filled with useless brown-paper wrappers.
+
+515
+00:43:11,591 --> 00:43:14,093
+<i>(Frohike) This is based
+only on a story I read...</i>
+
+516
+00:43:14,177 --> 00:43:17,263
+<i>...in one of my weekly subscriptions
+that rang a few bells.</i>
+
+517
+00:43:17,346 --> 00:43:21,100
+<i>I'll check on a private hacker source
+who's been working on a few leads...</i>
+
+518
+00:43:21,184 --> 00:43:23,686
+<i>...that could produce definitive proof.</i>
+
+519
+00:43:23,770 --> 00:43:25,313
+<i>And then we'll have him nailed.</i>
+
+520
+00:43:31,360 --> 00:43:33,362
+I can kill you whenever I please.
+
+521
+00:43:49,212 --> 00:43:50,963
+But not today.
+
+522
+00:44:21,160 --> 00:44:22,870
+Subtitles by Visiontext
+
+523
+00:44:42,181 --> 00:44:43,641
+<i>(child) I made this.</i>
+

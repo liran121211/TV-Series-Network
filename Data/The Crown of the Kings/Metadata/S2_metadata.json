@@ -1,0 +1,746 @@
+{
+    "1": {
+        "title": "Episode 85",
+        "released": "2018-09-03",
+        "rating": "N/A",
+        "imdb_id": "tt8246418",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode 88",
+        "released": "2018-09-06",
+        "rating": "N/A",
+        "imdb_id": "tt8826860",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode 89",
+        "released": "2018-09-10",
+        "rating": "N/A",
+        "imdb_id": "tt8826868",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode 90",
+        "released": "2018-09-11",
+        "rating": "N/A",
+        "imdb_id": "tt8826870",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode 91",
+        "released": "2018-09-12",
+        "rating": "N/A",
+        "imdb_id": "tt8826882",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Episode 103",
+        "released": "2018-10-03",
+        "rating": "N/A",
+        "imdb_id": "tt8831924",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Episode 108",
+        "released": "2018-10-11",
+        "rating": "N/A",
+        "imdb_id": "tt8831936",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Episode 120",
+        "released": "2018-11-05",
+        "rating": "N/A",
+        "imdb_id": "tt8834514",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "Episode 133",
+        "released": "2018-11-28",
+        "rating": "N/A",
+        "imdb_id": "tt8862538",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Episode #2.52",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8862530",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "54": {
+        "title": "Episode #2.54",
+        "released": "2018-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt8862594",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "Episode #2.55",
+        "released": "2018-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt8862590",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "56": {
+        "title": "Episode #2.56",
+        "released": "2018-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt8862588",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "57": {
+        "title": "Episode 141",
+        "released": "2018-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt8862586",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "58": {
+        "title": "Episode #2.58",
+        "released": "2018-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt8862582",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "59": {
+        "title": "Episode 143",
+        "released": "2018-12-17",
+        "rating": "N/A",
+        "imdb_id": "tt8862584",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "60": {
+        "title": "Episode 144",
+        "released": "2018-12-18",
+        "rating": "N/A",
+        "imdb_id": "tt8862580",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "61": {
+        "title": "Episode #2.61",
+        "released": "2018-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt8862578",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "62": {
+        "title": "Episode #2.62",
+        "released": "2018-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt8862576",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "63": {
+        "title": "Episode 147",
+        "released": "2018-12-27",
+        "rating": "N/A",
+        "imdb_id": "tt8862574",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "65": {
+        "title": "Episode 149",
+        "released": "2019-01-01",
+        "rating": "N/A",
+        "imdb_id": "tt8862568",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "66": {
+        "title": "Episode 150",
+        "released": "2019-01-02",
+        "rating": "N/A",
+        "imdb_id": "tt8862566",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "67": {
+        "title": "Episode #2.67",
+        "released": "2018-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt8862564",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "68": {
+        "title": "Episode 152",
+        "released": "2019-01-07",
+        "rating": "N/A",
+        "imdb_id": "tt8862560",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "69": {
+        "title": "Episode 153",
+        "released": "2019-01-08",
+        "rating": "N/A",
+        "imdb_id": "tt8862558",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "70": {
+        "title": "Episode 154",
+        "released": "2019-01-09",
+        "rating": "N/A",
+        "imdb_id": "tt8862614",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "71": {
+        "title": "Episode #2.71",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8862618",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "72": {
+        "title": "Episode 156",
+        "released": "2019-01-14",
+        "rating": "N/A",
+        "imdb_id": "tt8862620",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "73": {
+        "title": "Episode 157",
+        "released": "2019-01-15",
+        "rating": "N/A",
+        "imdb_id": "tt8862622",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "74": {
+        "title": "Episode #2.74",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8862624",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "75": {
+        "title": "Episode #2.75",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8862626",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "76": {
+        "title": "Episode #2.76",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8862630",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "78": {
+        "title": "Episode 162",
+        "released": "2019-01-23",
+        "rating": "N/A",
+        "imdb_id": "tt8862634",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "79": {
+        "title": "Episode 163",
+        "released": "2019-01-24",
+        "rating": "N/A",
+        "imdb_id": "tt8862636",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "80": {
+        "title": "Episode 164",
+        "released": "2019-01-28",
+        "rating": "N/A",
+        "imdb_id": "tt8862638",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "81": {
+        "title": "Episode 165",
+        "released": "2019-01-29",
+        "rating": "N/A",
+        "imdb_id": "tt8862640",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "82": {
+        "title": "Episode 166",
+        "released": "2019-01-30",
+        "rating": "N/A",
+        "imdb_id": "tt8862644",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "83": {
+        "title": "Episode 167",
+        "released": "2019-01-31",
+        "rating": "N/A",
+        "imdb_id": "tt8862648",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "84": {
+        "title": "Episode 168",
+        "released": "2019-02-04",
+        "rating": "N/A",
+        "imdb_id": "tt8862650",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "85": {
+        "title": "Episode 169",
+        "released": "2019-02-05",
+        "rating": "N/A",
+        "imdb_id": "tt8862652",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "86": {
+        "title": "Episode 170",
+        "released": "2019-02-06",
+        "rating": "N/A",
+        "imdb_id": "tt8862654",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "87": {
+        "title": "Episode 171",
+        "released": "2019-02-07",
+        "rating": "N/A",
+        "imdb_id": "tt8862656",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "88": {
+        "title": "Episode 172",
+        "released": "2019-02-11",
+        "rating": "N/A",
+        "imdb_id": "tt8862658",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "89": {
+        "title": "Episode 173",
+        "released": "2019-02-12",
+        "rating": "N/A",
+        "imdb_id": "tt8862660",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "90": {
+        "title": "Episode 174",
+        "released": "2019-02-13",
+        "rating": "N/A",
+        "imdb_id": "tt8862664",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "91": {
+        "title": "Episode 175",
+        "released": "2019-02-14",
+        "rating": "N/A",
+        "imdb_id": "tt9742982",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "92": {
+        "title": "Episode 176",
+        "released": "2019-02-18",
+        "rating": "N/A",
+        "imdb_id": "tt9742984",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "93": {
+        "title": "Episode 177",
+        "released": "2019-02-19",
+        "rating": "N/A",
+        "imdb_id": "tt9742986",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "94": {
+        "title": "Episode 178",
+        "released": "2019-02-20",
+        "rating": "N/A",
+        "imdb_id": "tt9742988",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "95": {
+        "title": "Episode 179",
+        "released": "2019-02-21",
+        "rating": "N/A",
+        "imdb_id": "tt9742992",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "96": {
+        "title": "Episode 180",
+        "released": "2019-02-25",
+        "rating": "N/A",
+        "imdb_id": "tt9742994",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "97": {
+        "title": "Episode 181",
+        "released": "2019-02-26",
+        "rating": "N/A",
+        "imdb_id": "tt9742996",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "98": {
+        "title": "Episode 182",
+        "released": "2019-02-27",
+        "rating": "N/A",
+        "imdb_id": "tt9743000",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "99": {
+        "title": "Episode 183",
+        "released": "2019-02-28",
+        "rating": "N/A",
+        "imdb_id": "tt9743002",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "100": {
+        "title": "Episode 184",
+        "released": "2019-03-04",
+        "rating": "N/A",
+        "imdb_id": "tt9743006",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "101": {
+        "title": "Episode 185",
+        "released": "2019-03-05",
+        "rating": "N/A",
+        "imdb_id": "tt9883750",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "102": {
+        "title": "Episode 186",
+        "released": "2019-03-06",
+        "rating": "N/A",
+        "imdb_id": "tt9887032",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "103": {
+        "title": "Episode 187",
+        "released": "2019-03-07",
+        "rating": "N/A",
+        "imdb_id": "tt9894682",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "104": {
+        "title": "Episode 188",
+        "released": "2019-03-11",
+        "rating": "N/A",
+        "imdb_id": "tt9916480",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "105": {
+        "title": "Episode 189",
+        "released": "2019-03-13",
+        "rating": "N/A",
+        "imdb_id": "tt10006408",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "106": {
+        "title": "Episode 190",
+        "released": "2019-03-18",
+        "rating": "N/A",
+        "imdb_id": "tt10043696",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "107": {
+        "title": "Episode 191",
+        "released": "2019-03-19",
+        "rating": "N/A",
+        "imdb_id": "tt10043700",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "108": {
+        "title": "Episode 192",
+        "released": "2019-03-20",
+        "rating": "N/A",
+        "imdb_id": "tt10050936",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "109": {
+        "title": "Episode 193",
+        "released": "2019-03-21",
+        "rating": "N/A",
+        "imdb_id": "tt10055642",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "110": {
+        "title": "Episode 194",
+        "released": "2019-03-25",
+        "rating": "N/A",
+        "imdb_id": "tt10062496",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "111": {
+        "title": "Episode 195",
+        "released": "2019-03-26",
+        "rating": "N/A",
+        "imdb_id": "tt10062502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "112": {
+        "title": "Episode 196",
+        "released": "2019-03-27",
+        "rating": "N/A",
+        "imdb_id": "tt10062504",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "113": {
+        "title": "Episode 197",
+        "released": "2019-03-28",
+        "rating": "N/A",
+        "imdb_id": "tt10062506",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "114": {
+        "title": "Episode 198",
+        "released": "2019-04-01",
+        "rating": "N/A",
+        "imdb_id": "tt10062508",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "115": {
+        "title": "Episode 199",
+        "released": "2019-04-02",
+        "rating": "N/A",
+        "imdb_id": "tt10062510",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "116": {
+        "title": "Episode 200",
+        "released": "2019-04-03",
+        "rating": "N/A",
+        "imdb_id": "tt10062512",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "117": {
+        "title": "Episode 201",
+        "released": "2019-04-04",
+        "rating": "N/A",
+        "imdb_id": "tt10062516",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "118": {
+        "title": "Episode 202",
+        "released": "2019-04-08",
+        "rating": "N/A",
+        "imdb_id": "tt10062518",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "119": {
+        "title": "Episode 203",
+        "released": "2019-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt10062520",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "120": {
+        "title": "Episode 204",
+        "released": "2019-04-10",
+        "rating": "N/A",
+        "imdb_id": "tt10062522",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "121": {
+        "title": "Episode 205",
+        "released": "2019-04-11",
+        "rating": "N/A",
+        "imdb_id": "tt10107432",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "122": {
+        "title": "Episode 206",
+        "released": "2019-04-15",
+        "rating": "N/A",
+        "imdb_id": "tt10107436",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "123": {
+        "title": "Episode 207",
+        "released": "2019-04-16",
+        "rating": "N/A",
+        "imdb_id": "tt10107438",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "124": {
+        "title": "Episode 208",
+        "released": "2019-04-17",
+        "rating": "N/A",
+        "imdb_id": "tt10107442",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "125": {
+        "title": "Episode 209",
+        "released": "2019-04-18",
+        "rating": "N/A",
+        "imdb_id": "tt10107444",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "127": {
+        "title": "Episode 211",
+        "released": "2019-04-24",
+        "rating": "N/A",
+        "imdb_id": "tt10199540",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "138": {
+        "title": "Episode 222",
+        "released": "2019-05-14",
+        "rating": "N/A",
+        "imdb_id": "tt10199564",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "141": {
+        "title": "Episode 225",
+        "released": "2019-05-20",
+        "rating": "N/A",
+        "imdb_id": "tt10266234",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "142": {
+        "title": "Episode 226",
+        "released": "2019-05-21",
+        "rating": "N/A",
+        "imdb_id": "tt10266250",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "144": {
+        "title": "Episode 228",
+        "released": "2019-05-23",
+        "rating": "N/A",
+        "imdb_id": "tt10266256",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "147": {
+        "title": "Episode 231",
+        "released": "2019-05-29",
+        "rating": "N/A",
+        "imdb_id": "tt10266814",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "150": {
+        "title": "Episode 234",
+        "released": "2019-06-04",
+        "rating": "N/A",
+        "imdb_id": "tt10266820",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "152": {
+        "title": "Episode 236",
+        "released": "2019-06-06",
+        "rating": "N/A",
+        "imdb_id": "tt10266824",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "153": {
+        "title": "Episode 237",
+        "released": "2019-06-10",
+        "rating": "N/A",
+        "imdb_id": "tt10266826",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "154": {
+        "title": "Episode 238",
+        "released": "2019-06-11",
+        "rating": "N/A",
+        "imdb_id": "tt10266828",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "155": {
+        "title": "Episode 239",
+        "released": "2019-06-13",
+        "rating": "N/A",
+        "imdb_id": "tt10266830",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "157": {
+        "title": "Episode 241",
+        "released": "2019-06-18",
+        "rating": "N/A",
+        "imdb_id": "tt10266836",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "160": {
+        "title": "Episode 244",
+        "released": "2019-06-24",
+        "rating": "N/A",
+        "imdb_id": "tt10266842",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

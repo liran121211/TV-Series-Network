@@ -1,0 +1,418 @@
+{
+    "1": {
+        "title": "Magic Xylophone",
+        "released": "2018-09-30",
+        "rating": "7.7",
+        "imdb_id": "tt8865002",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Hospital",
+        "released": "2018-10-02",
+        "rating": "7.9",
+        "imdb_id": "tt8865934",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Keepy Uppy",
+        "released": "2018-10-03",
+        "rating": "8.2",
+        "imdb_id": "tt9150200",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Daddy Robot",
+        "released": "2018-10-04",
+        "rating": "7.9",
+        "imdb_id": "tt9150204",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Shadowlands",
+        "released": "2018-10-05",
+        "rating": "8.3",
+        "imdb_id": "tt9150214",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Weekend",
+        "released": "2018-10-06",
+        "rating": "N/A",
+        "imdb_id": "tt9150216",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "BBQ",
+        "released": "2018-10-07",
+        "rating": "8.2",
+        "imdb_id": "tt9150220",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Fruitbat",
+        "released": "2018-10-08",
+        "rating": "8.0",
+        "imdb_id": "tt9150590",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Horsey Ride",
+        "released": "2018-10-09",
+        "rating": "7.4",
+        "imdb_id": "tt9150592",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Hotel",
+        "released": "2018-10-10",
+        "rating": "N/A",
+        "imdb_id": "tt9150594",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Bike",
+        "released": "2018-10-11",
+        "rating": "9.1",
+        "imdb_id": "tt9150596",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Bob Bilby",
+        "released": "2018-10-12",
+        "rating": "8.2",
+        "imdb_id": "tt9150598",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Spy Game",
+        "released": "2018-10-13",
+        "rating": "N/A",
+        "imdb_id": "tt9150600",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Takeaway",
+        "released": "2018-10-14",
+        "rating": "N/A",
+        "imdb_id": "tt9150602",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Butterflies",
+        "released": "2018-10-15",
+        "rating": "7.9",
+        "imdb_id": "tt9150606",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Yoga Ball",
+        "released": "2018-10-16",
+        "rating": "N/A",
+        "imdb_id": "tt9150608",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Calypso",
+        "released": "2018-10-17",
+        "rating": "N/A",
+        "imdb_id": "tt9150610",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Doctor",
+        "released": "2018-10-18",
+        "rating": "N/A",
+        "imdb_id": "tt9150616",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Claw",
+        "released": "2018-10-19",
+        "rating": "N/A",
+        "imdb_id": "tt9150618",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Markets",
+        "released": "2018-10-20",
+        "rating": "7.9",
+        "imdb_id": "tt9150630",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Blue Mountains",
+        "released": "2018-10-21",
+        "rating": "N/A",
+        "imdb_id": "tt9150640",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Pool",
+        "released": "2018-10-22",
+        "rating": "8.6",
+        "imdb_id": "tt9150642",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Shops",
+        "released": "2018-10-23",
+        "rating": "N/A",
+        "imdb_id": "tt9150644",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Wagon Ride",
+        "released": "2018-10-24",
+        "rating": "N/A",
+        "imdb_id": "tt9150646",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Taxi",
+        "released": "2018-10-25",
+        "rating": "N/A",
+        "imdb_id": "tt9150648",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "The Beach",
+        "released": "2018-10-26",
+        "rating": "N/A",
+        "imdb_id": "tt9150650",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Pirates",
+        "released": "2019-04-01",
+        "rating": "N/A",
+        "imdb_id": "tt12539140",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Grannies",
+        "released": "2019-11-11",
+        "rating": "8.6",
+        "imdb_id": "tt9378024",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "The Creek",
+        "released": "2019-11-08",
+        "rating": "N/A",
+        "imdb_id": "tt9377992",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Fairies",
+        "released": "2019-04-04",
+        "rating": "7.9",
+        "imdb_id": "tt10655430",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Work",
+        "released": "2019-04-05",
+        "rating": "N/A",
+        "imdb_id": "tt9378016",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Bumpy and the Wise Old Wolfhound",
+        "released": "2019-04-06",
+        "rating": "N/A",
+        "imdb_id": "tt9378000",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Trampoline",
+        "released": "2019-10-29",
+        "rating": "7.8",
+        "imdb_id": "tt9377990",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "The Dump",
+        "released": "2019-04-08",
+        "rating": "N/A",
+        "imdb_id": "tt12612654",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Zoo",
+        "released": "2019-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt12612658",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Backpackers",
+        "released": "2019-04-10",
+        "rating": "N/A",
+        "imdb_id": "tt9377952",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "The Adventure",
+        "released": "2019-04-11",
+        "rating": "N/A",
+        "imdb_id": "tt12612672",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Copycat",
+        "released": "2019-04-12",
+        "rating": "N/A",
+        "imdb_id": "tt12612678",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "The Sleepover",
+        "released": "2019-04-13",
+        "rating": "8.4",
+        "imdb_id": "tt12612680",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Early Baby",
+        "released": "2019-04-14",
+        "rating": "N/A",
+        "imdb_id": "tt9378008",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Mums and Dads",
+        "released": "2019-04-15",
+        "rating": "N/A",
+        "imdb_id": "tt11605520",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Hide and Seek",
+        "released": "2019-11-04",
+        "rating": "N/A",
+        "imdb_id": "tt9378022",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Camping",
+        "released": "2019-04-17",
+        "rating": "9.6",
+        "imdb_id": "tt12587960",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Mount Mumandad",
+        "released": "2019-04-18",
+        "rating": "N/A",
+        "imdb_id": "tt9377986",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "Kids",
+        "released": "2019-04-19",
+        "rating": "N/A",
+        "imdb_id": "tt9378018",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Chickenrat",
+        "released": "2019-04-20",
+        "rating": "N/A",
+        "imdb_id": "tt9377920",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Neighbours",
+        "released": "2019-10-30",
+        "rating": "N/A",
+        "imdb_id": "tt9377998",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "Teasing",
+        "released": "2020-01-22",
+        "rating": "N/A",
+        "imdb_id": "tt9377912",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "Asparagus",
+        "released": "2019-04-23",
+        "rating": "N/A",
+        "imdb_id": "tt12587964",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Shaun",
+        "released": "2019-04-24",
+        "rating": "N/A",
+        "imdb_id": "tt9378012",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "Daddy Putdown",
+        "released": "2019-04-25",
+        "rating": "8.2",
+        "imdb_id": "tt12612638",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Verandah Santa",
+        "released": "2019-11-30",
+        "rating": "N/A",
+        "imdb_id": "tt12587990",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Leapin' Lizards",
+        "released": "2008-08-09",
+        "rating": "7.3",
+        "imdb_id": "tt0963031",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Underground Infestation",
+        "released": "2008-08-16",
+        "rating": "N/A",
+        "imdb_id": "tt0964942",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Helen Makes Contact",
+        "released": "2008-08-23",
+        "rating": "N/A",
+        "imdb_id": "tt0964943",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Dodo Madness",
+        "released": "2008-08-30",
+        "rating": "N/A",
+        "imdb_id": "tt0964944",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Pter-able News",
+        "released": "2008-09-06",
+        "rating": "7.4",
+        "imdb_id": "tt0964945",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Future Foe",
+        "released": "2008-09-13",
+        "rating": "8.1",
+        "imdb_id": "tt0964946",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "105",
+        "released": "2021-09-03",
+        "rating": "9.6",
+        "imdb_id": "tt14656896",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Unutulan Bir Daha Hatirlanmaz",
+        "released": "2021-09-10",
+        "rating": "N/A",
+        "imdb_id": "tt15327820",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Tarihin Arka Kapisi",
+        "released": "2021-09-17",
+        "rating": "N/A",
+        "imdb_id": "tt15366372",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #4.4",
+        "released": "2021-09-24",
+        "rating": "N/A",
+        "imdb_id": "tt15366374",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Kotuluk Yolu",
+        "released": "2021-10-01",
+        "rating": "9.4",
+        "imdb_id": "tt15497204",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Deliler",
+        "released": "2021-10-08",
+        "rating": "N/A",
+        "imdb_id": "tt15610864",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Yalan Dolan",
+        "released": "2021-10-15",
+        "rating": "N/A",
+        "imdb_id": "tt15687374",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Her Insan Bir Alemdir",
+        "released": "2021-10-22",
+        "rating": "N/A",
+        "imdb_id": "tt15690532",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Enerji",
+        "released": "2021-10-29",
+        "rating": "N/A",
+        "imdb_id": "tt15747322",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Yeni Baslangiclar?",
+        "released": "2021-11-05",
+        "rating": "N/A",
+        "imdb_id": "tt15796782",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

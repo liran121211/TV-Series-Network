@@ -1,0 +1,90 @@
+{
+    "4": {
+        "title": "Enter the Mammoth Claw",
+        "released": "2020-12-06",
+        "rating": "N/A",
+        "imdb_id": "tt13603372",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Fistful of Nuggets",
+        "released": "2020-12-11",
+        "rating": "N/A",
+        "imdb_id": "tt13666070",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Gold Rush_ White Water\\Subtitles\\S4\\Gold.Rush.White.Water.S04E05.Fistful.of.Nuggets.720p.WEBRip.x264-CAFFEiNES4E5.zip"
+    },
+    "7": {
+        "title": "Happy Endings",
+        "released": "2021-01-08",
+        "rating": "N/A",
+        "imdb_id": "tt13828680",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Gold Rush_ White Water\\Subtitles\\S4\\Gold.Rush.White.Water.S04E07.Happy.Endings.720p.WEBRip.x264-CAFFEiNES4E7.zip"
+    },
+    "8": {
+        "title": "Dustin to the Rescue",
+        "released": "2021-01-22",
+        "rating": "N/A",
+        "imdb_id": "tt13931646",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Gold Rush_ White Water\\Subtitles\\S4\\Gold.Rush.White.Water.S04E08.Dustin.to.the.Rescue.720p.WEBRip.x264-CAFFEiNES4E8.zip"
+    },
+    "9": {
+        "title": "Depths of Despair",
+        "released": "2021-01-29",
+        "rating": "N/A",
+        "imdb_id": "tt13973718",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Ride or Die",
+        "released": "2021-02-05",
+        "rating": "N/A",
+        "imdb_id": "tt14017418",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "A Special Kind of Crazy",
+        "released": "2021-02-12",
+        "rating": "N/A",
+        "imdb_id": "tt14056178",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "In Too Deep",
+        "released": "2021-02-19",
+        "rating": "N/A",
+        "imdb_id": "tt14102730",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Under Pressure",
+        "released": "2021-02-26",
+        "rating": "N/A",
+        "imdb_id": "tt14147948",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Buried Alive",
+        "released": "2021-03-05",
+        "rating": "N/A",
+        "imdb_id": "tt14193696",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "To the Edge",
+        "released": "2021-03-12",
+        "rating": "N/A",
+        "imdb_id": "tt14259490",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

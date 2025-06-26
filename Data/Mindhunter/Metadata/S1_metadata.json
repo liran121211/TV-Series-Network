@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Episode #1.1",
+        "released": "2017-10-13",
+        "rating": "7.8",
+        "imdb_id": "tt5534132",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mindhunter\\Subtitles\\S1\\Mindhunter_-_S01E01-E10.WebRip.STRiFE.enS1E1.zip"
+    },
+    "2": {
+        "title": "Episode #1.2",
+        "released": "2017-10-13",
+        "rating": "8.5",
+        "imdb_id": "tt5760298",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #1.3",
+        "released": "2017-10-13",
+        "rating": "8.2",
+        "imdb_id": "tt6132782",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mindhunter\\Subtitles\\S1\\Mindhunter.S01E03.WEBRip.x264-RARBGS1E3.zip"
+    },
+    "4": {
+        "title": "Episode #1.4",
+        "released": "2017-10-13",
+        "rating": "8.2",
+        "imdb_id": "tt6321280",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #1.5",
+        "released": "2017-10-13",
+        "rating": "8.6",
+        "imdb_id": "tt6321282",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #1.6",
+        "released": "2017-10-13",
+        "rating": "7.9",
+        "imdb_id": "tt6321284",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #1.7",
+        "released": "2017-10-13",
+        "rating": "8.2",
+        "imdb_id": "tt5824790",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #1.8",
+        "released": "2017-10-13",
+        "rating": "8.1",
+        "imdb_id": "tt5824794",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode #1.9",
+        "released": "2017-10-13",
+        "rating": "8.5",
+        "imdb_id": "tt6113642",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Episode #1.10",
+        "released": "2017-10-13",
+        "rating": "9.1",
+        "imdb_id": "tt6053616",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

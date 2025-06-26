@@ -1,0 +1,162 @@
+{
+    "1": {
+        "title": "A New Hope",
+        "released": "2012-07-23",
+        "rating": "N/A",
+        "imdb_id": "tt2353463",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "An Evil Within",
+        "released": "2012-07-30",
+        "rating": "N/A",
+        "imdb_id": "tt2374519",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Personal Effects",
+        "released": "2012-08-06",
+        "rating": "N/A",
+        "imdb_id": "tt2353465",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "There's Always a Downside",
+        "released": "2012-08-13",
+        "rating": "N/A",
+        "imdb_id": "tt2374521",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "No Pain No Gain",
+        "released": "2012-08-20",
+        "rating": "N/A",
+        "imdb_id": "tt2328449",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Fractures",
+        "released": "2012-08-27",
+        "rating": "8.0",
+        "imdb_id": "tt2358813",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Endless Wonder",
+        "released": "2012-09-10",
+        "rating": "N/A",
+        "imdb_id": "tt2400237",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Second Chance",
+        "released": "2012-09-17",
+        "rating": "N/A",
+        "imdb_id": "tt2404149",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Ones You Love",
+        "released": "2012-09-24",
+        "rating": "N/A",
+        "imdb_id": "tt2322366",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "We All Fall Down",
+        "released": "2012-10-01",
+        "rating": "N/A",
+        "imdb_id": "tt2398814",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Living and the Dead",
+        "released": "2013-04-29",
+        "rating": "N/A",
+        "imdb_id": "tt2225994",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Parks and Rehabilitation",
+        "released": "2013-05-06",
+        "rating": "N/A",
+        "imdb_id": "tt2534582",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Big Snag",
+        "released": "2013-05-13",
+        "rating": "N/A",
+        "imdb_id": "tt2449026",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Sky's the Limit",
+        "released": "2013-05-20",
+        "rating": "N/A",
+        "imdb_id": "tt2607524",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Instinct",
+        "released": "2013-06-03",
+        "rating": "N/A",
+        "imdb_id": "tt2607544",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Runaway",
+        "released": "2013-06-10",
+        "rating": "N/A",
+        "imdb_id": "tt2426442",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "What Matters Most",
+        "released": "2013-06-17",
+        "rating": "7.5",
+        "imdb_id": "tt2496012",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Lost & Found",
+        "released": "2013-06-24",
+        "rating": "8.1",
+        "imdb_id": "tt2424324",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "All the Time in the World",
+        "released": "2013-07-01",
+        "rating": "N/A",
+        "imdb_id": "tt2962924",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Truth Hurts",
+        "released": "2013-07-08",
+        "rating": "N/A",
+        "imdb_id": "tt2583080",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

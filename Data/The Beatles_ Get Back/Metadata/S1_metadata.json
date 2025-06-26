@@ -1,0 +1,26 @@
+{
+    "1": {
+        "title": "Part 1: Days 1-7",
+        "released": "2021-11-25",
+        "rating": "9.0",
+        "imdb_id": "tt14873812",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Part 2: Days 8-16",
+        "released": "2021-11-26",
+        "rating": "8.9",
+        "imdb_id": "tt14873818",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Part 3: Days 17-22",
+        "released": "2021-11-27",
+        "rating": "9.4",
+        "imdb_id": "tt14873820",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

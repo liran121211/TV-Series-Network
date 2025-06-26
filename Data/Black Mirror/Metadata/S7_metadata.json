@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Common People",
+        "released": "2025-04-10",
+        "rating": "8.1",
+        "imdb_id": "tt30127325",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Bête Noire",
+        "released": "2025-04-10",
+        "rating": "7.2",
+        "imdb_id": "tt31790114",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Hotel Reverie",
+        "released": "2025-04-10",
+        "rating": "6.7",
+        "imdb_id": "tt31790091",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Plaything",
+        "released": "2025-04-10",
+        "rating": "7.1",
+        "imdb_id": "tt31215636",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Eulogy",
+        "released": "2025-04-10",
+        "rating": "8.2",
+        "imdb_id": "tt31790112",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "USS Callister: Into Infinity",
+        "released": "2025-04-10",
+        "rating": "8.3",
+        "imdb_id": "tt31790115",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

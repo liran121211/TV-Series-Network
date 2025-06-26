@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Meet the Blacks",
+        "released": "2007-09-09",
+        "rating": "N/A",
+        "imdb_id": "tt1049249",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S6\\Curb.Your.Enthusiasm.S06.E01-E10.COMPLETE.DVDRip.x264-SARTRES6E1.zip"
+    },
+    "2": {
+        "title": "The Anonymous Donor",
+        "released": "2007-09-16",
+        "rating": "N/A",
+        "imdb_id": "tt1049250",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Ida Funkhouser Roadside Memorial",
+        "released": "2007-09-23",
+        "rating": "N/A",
+        "imdb_id": "tt0947227",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Lefty Call",
+        "released": "2007-09-30",
+        "rating": "N/A",
+        "imdb_id": "tt0902552",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Freak Book",
+        "released": "2007-10-07",
+        "rating": "8.4",
+        "imdb_id": "tt1049251",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Rat Dog",
+        "released": "2007-10-14",
+        "rating": "N/A",
+        "imdb_id": "tt0948188",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The TiVo Guy",
+        "released": "2007-10-21",
+        "rating": "N/A",
+        "imdb_id": "tt1104262",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The N Word",
+        "released": "2007-10-28",
+        "rating": "8.7",
+        "imdb_id": "tt1104263",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S9\\Curb.Your.Enthusiasm.S09E08.HDTV.XviD-NoGRPS9E8.zip"
+    },
+    "9": {
+        "title": "The Therapists",
+        "released": "2007-11-04",
+        "rating": "N/A",
+        "imdb_id": "tt1104264",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Bat Mitzvah",
+        "released": "2007-11-11",
+        "rating": "9.0",
+        "imdb_id": "tt1104261",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

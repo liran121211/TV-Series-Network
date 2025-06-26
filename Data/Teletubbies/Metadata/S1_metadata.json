@@ -1,0 +1,802 @@
+{
+    "1": {
+        "title": "Ned's Bicycle",
+        "released": "1998-04-07",
+        "rating": "N/A",
+        "imdb_id": "tt0868773",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Teletubbies\\Subtitles\\S1\\Teletubbies.2022.S01E01.Bubbles.1080p.NF.WEB-DL.DDP5.1.x264-LAZY.zip"
+    },
+    "6": {
+        "title": "Lambs",
+        "released": "1997-04-07",
+        "rating": "N/A",
+        "imdb_id": "tt0868740",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Teletubbies\\Subtitles\\S1\\Teletubbies.2022.S01E06.WEB-DL.NF.zip"
+    },
+    "8": {
+        "title": "Dad's Lorry",
+        "released": "1997-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt0868684",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Teletubbies\\Subtitles\\S1\\Teletubbies.2022.S01E08.WEB-DL.NF.zip"
+    },
+    "9": {
+        "title": "Numbers: One",
+        "released": "1997-04-10",
+        "rating": "N/A",
+        "imdb_id": "tt0868785",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Teletubbies\\Subtitles\\S1\\Teletubbies.2022.S01E09.WEB-DL.NF.zip"
+    },
+    "14": {
+        "title": "Larette Tap Dancing",
+        "released": "1997-04-17",
+        "rating": "N/A",
+        "imdb_id": "tt0868741",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Teletubbies\\Subtitles\\S1\\Teletubbies.2022.S01E14.WEB-DL.NF.zip"
+    },
+    "15": {
+        "title": "Emily and Jester",
+        "released": "1997-04-18",
+        "rating": "N/A",
+        "imdb_id": "tt0868696",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Teletubbies\\Subtitles\\S1\\Teletubbies.2022.S01E15.WEB-DL.NF.zip"
+    },
+    "16": {
+        "title": "Delilah Packing",
+        "released": "1997-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt0868686",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Teletubbies\\Subtitles\\S1\\Teletubbies.2022.S01E16.WEB-DL.NF.zip"
+    },
+    "17": {
+        "title": "Humpty Dumpty",
+        "released": "1997-04-22",
+        "rating": "N/A",
+        "imdb_id": "tt0868731",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Teletubbies\\Subtitles\\S1\\Teletubbies.2022.S01E17.WEB-DL.NF.zip"
+    },
+    "18": {
+        "title": "Feeding the Chickens",
+        "released": "1997-04-23",
+        "rating": "N/A",
+        "imdb_id": "tt0868701",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Teletubbies\\Subtitles\\S1\\Teletubbies.2022.S01E18.WEB-DL.NF.zip"
+    },
+    "20": {
+        "title": "Balancing",
+        "released": "1997-04-25",
+        "rating": "N/A",
+        "imdb_id": "tt0868654",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Teletubbies\\Subtitles\\S1\\Teletubbies.2022.S01E20.WEB-DL.NF.zip"
+    },
+    "21": {
+        "title": "Barbecue",
+        "released": "1997-04-28",
+        "rating": "N/A",
+        "imdb_id": "tt0868664",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Teletubbies\\Subtitles\\S1\\Teletubbies.2022.S01E21.WEB-DL.NF.zip"
+    },
+    "24": {
+        "title": "Drawing Cacti",
+        "released": "1997-05-01",
+        "rating": "N/A",
+        "imdb_id": "tt0868691",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Teletubbies\\Subtitles\\S1\\Teletubbies.2022.S01E24.WEB-DL.NF.zip"
+    },
+    "25": {
+        "title": "Washing the Bus",
+        "released": "1997-05-02",
+        "rating": "N/A",
+        "imdb_id": "tt0868843",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Teletubbies\\Subtitles\\S1\\Teletubbies.2022.S01E25.WEB-DL.NF.zip"
+    },
+    "27": {
+        "title": "Emily and the Trap",
+        "released": "1997-05-06",
+        "rating": "N/A",
+        "imdb_id": "tt0868697",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Numbers: Two",
+        "released": "1997-05-09",
+        "rating": "N/A",
+        "imdb_id": "tt0868790",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Swimming with Stephanie",
+        "released": "1997-05-12",
+        "rating": "N/A",
+        "imdb_id": "tt0868829",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "My Mum's Keyboard",
+        "released": "1997-05-14",
+        "rating": "N/A",
+        "imdb_id": "tt0868758",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "Walking in the Woods",
+        "released": "1997-05-15",
+        "rating": "N/A",
+        "imdb_id": "tt0868840",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Strawberry Picking",
+        "released": "1997-05-16",
+        "rating": "N/A",
+        "imdb_id": "tt0868827",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Teletubbies\\Subtitles\\S1\\Teletubbies.2022.S01E01.Bubbles.1080p.NF.WEB-DL.DDP5.1.x264-LAZY.zip"
+    },
+    "36": {
+        "title": "Shadows",
+        "released": "1997-05-19",
+        "rating": "N/A",
+        "imdb_id": "tt0868819",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Painting Swings",
+        "released": "1997-05-20",
+        "rating": "N/A",
+        "imdb_id": "tt0868797",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "My Mum's a Doctor",
+        "released": "1997-05-21",
+        "rating": "N/A",
+        "imdb_id": "tt0868762",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Tweet Tweet",
+        "released": "1997-05-22",
+        "rating": "N/A",
+        "imdb_id": "tt0868836",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Bubbles",
+        "released": "1997-05-23",
+        "rating": "N/A",
+        "imdb_id": "tt0868663",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Gospel Singing",
+        "released": "1997-06-23",
+        "rating": "N/A",
+        "imdb_id": "tt0868715",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Mark and Zoe Cooking",
+        "released": "1997-06-24",
+        "rating": "4.4",
+        "imdb_id": "tt0868755",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Arthur Robot Story",
+        "released": "1997-06-25",
+        "rating": "N/A",
+        "imdb_id": "tt0868653",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "Dirty Dog",
+        "released": "1997-06-27",
+        "rating": "N/A",
+        "imdb_id": "tt0868690",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Going for a Walk",
+        "released": "1997-06-30",
+        "rating": "N/A",
+        "imdb_id": "tt0868711",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Music with Debbie",
+        "released": "1997-07-01",
+        "rating": "4.6",
+        "imdb_id": "tt0868759",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "Numbers: Three",
+        "released": "1997-07-02",
+        "rating": "4.6",
+        "imdb_id": "tt0868788",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "Haymaking",
+        "released": "1997-07-03",
+        "rating": "4.4",
+        "imdb_id": "tt0868724",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Naughty Cloud",
+        "released": "1997-07-04",
+        "rating": "4.6",
+        "imdb_id": "tt0868765",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "I Want to Be a Vet",
+        "released": "1997-07-07",
+        "rating": "N/A",
+        "imdb_id": "tt0868732",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Ned's Potatoes",
+        "released": "1997-07-08",
+        "rating": "N/A",
+        "imdb_id": "tt0868775",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "54": {
+        "title": "Sarah, Fraser and the Ducks",
+        "released": "1997-07-10",
+        "rating": "4.6",
+        "imdb_id": "tt0868816",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "Throwing",
+        "released": "1997-07-11",
+        "rating": "N/A",
+        "imdb_id": "tt0868833",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "56": {
+        "title": "Lighthouse",
+        "released": "1997-07-14",
+        "rating": "3.8",
+        "imdb_id": "tt0868744",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "58": {
+        "title": "Paddling Pool",
+        "released": "1997-07-16",
+        "rating": "N/A",
+        "imdb_id": "tt0868795",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Teletubbies\\Subtitles\\S1\\Teletubbies.2022.S01E01.Bubbles.1080p.NF.WEB-DL.DDP5.1.x264-LAZY.zip"
+    },
+    "59": {
+        "title": "Numbers: Five",
+        "released": "1997-07-17",
+        "rating": "4.0",
+        "imdb_id": "tt0868781",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "60": {
+        "title": "Swans",
+        "released": "1997-07-18",
+        "rating": "3.8",
+        "imdb_id": "tt0868828",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "61": {
+        "title": "Butterfly",
+        "released": "1997-09-01",
+        "rating": "4.3",
+        "imdb_id": "tt0868665",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "62": {
+        "title": "Carnival",
+        "released": "1997-09-02",
+        "rating": "4.6",
+        "imdb_id": "tt0868668",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "63": {
+        "title": "Naughty Snake",
+        "released": "1997-09-03",
+        "rating": "4.6",
+        "imdb_id": "tt0868770",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "65": {
+        "title": "Numbers: Four",
+        "released": "1997-09-05",
+        "rating": "4.3",
+        "imdb_id": "tt0868783",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "66": {
+        "title": "Dandelion Clocks",
+        "released": "1997-09-08",
+        "rating": "3.5",
+        "imdb_id": "tt0868685",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "67": {
+        "title": "Colours (Yellow)",
+        "released": "1997-09-09",
+        "rating": "N/A",
+        "imdb_id": "tt0868679",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "68": {
+        "title": "Josie's Pots",
+        "released": "1997-09-10",
+        "rating": "N/A",
+        "imdb_id": "tt0868736",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "69": {
+        "title": "Animals 4: Fish",
+        "released": "1997-09-11",
+        "rating": "N/A",
+        "imdb_id": "tt0868652",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "70": {
+        "title": "Hickory Dickory Dock",
+        "released": "1997-09-12",
+        "rating": "N/A",
+        "imdb_id": "tt0868728",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "72": {
+        "title": "Wake-up",
+        "released": "1997-09-16",
+        "rating": "N/A",
+        "imdb_id": "tt0868839",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "73": {
+        "title": "Sophie Art: Circus",
+        "released": "1997-09-17",
+        "rating": "N/A",
+        "imdb_id": "tt0868821",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "74": {
+        "title": "Emily Washing the Pony",
+        "released": "1997-09-18",
+        "rating": "4.2",
+        "imdb_id": "tt0868695",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "75": {
+        "title": "Gymnastics",
+        "released": "1997-09-19",
+        "rating": "N/A",
+        "imdb_id": "tt0868718",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "76": {
+        "title": "Sandcastles",
+        "released": "1997-09-22",
+        "rating": "N/A",
+        "imdb_id": "tt0868815",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "77": {
+        "title": "Walking the Dog",
+        "released": "1997-09-23",
+        "rating": "N/A",
+        "imdb_id": "tt0868841",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "78": {
+        "title": "Sand Pendulum",
+        "released": "1997-09-24",
+        "rating": "4.0",
+        "imdb_id": "tt0868814",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Teletubbies\\Subtitles\\S1\\Teletubbies.2022.S01E01.Bubbles.1080p.NF.WEB-DL.DDP5.1.x264-LAZY.zip"
+    },
+    "79": {
+        "title": "Going on a Train",
+        "released": "1997-09-25",
+        "rating": "5.0",
+        "imdb_id": "tt0868712",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "80": {
+        "title": "Herding Sheep",
+        "released": "1997-09-26",
+        "rating": "4.0",
+        "imdb_id": "tt0868726",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "82": {
+        "title": "Picking and Sorting",
+        "released": "1997-09-30",
+        "rating": "4.6",
+        "imdb_id": "tt0868802",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "83": {
+        "title": "Numbers: Nine",
+        "released": "1997-10-01",
+        "rating": "N/A",
+        "imdb_id": "tt0868784",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "84": {
+        "title": "Going to School by Boat",
+        "released": "1997-10-02",
+        "rating": "N/A",
+        "imdb_id": "tt0868713",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "87": {
+        "title": "Urban Birds",
+        "released": "1997-10-07",
+        "rating": "N/A",
+        "imdb_id": "tt0868837",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "88": {
+        "title": "Bubble Pictures",
+        "released": "1997-10-08",
+        "rating": "4.8",
+        "imdb_id": "tt0868662",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "89": {
+        "title": "Good Morning",
+        "released": "1997-10-09",
+        "rating": "N/A",
+        "imdb_id": "tt0868714",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "90": {
+        "title": "Numbers: Eight",
+        "released": "1997-10-10",
+        "rating": "4.2",
+        "imdb_id": "tt0868779",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "91": {
+        "title": "Monkey Safari",
+        "released": "1997-10-13",
+        "rating": "4.2",
+        "imdb_id": "tt0868757",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "92": {
+        "title": "Leaves",
+        "released": "1997-10-14",
+        "rating": "4.6",
+        "imdb_id": "tt0868742",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "93": {
+        "title": "Flamenco Guitar",
+        "released": "1997-10-15",
+        "rating": "3.8",
+        "imdb_id": "tt0868705",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "94": {
+        "title": "Numbers: 1",
+        "released": "1997-10-16",
+        "rating": "N/A",
+        "imdb_id": "tt0868776",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "95": {
+        "title": "Stop and Go",
+        "released": "1997-10-17",
+        "rating": "4.2",
+        "imdb_id": "tt0868826",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "96": {
+        "title": "Chinese New Year",
+        "released": "1997-10-20",
+        "rating": "4.8",
+        "imdb_id": "tt0868670",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "97": {
+        "title": "Pancakes",
+        "released": "1997-10-21",
+        "rating": "4.4",
+        "imdb_id": "tt0868799",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "98": {
+        "title": "Funghi the Dolphin",
+        "released": "1997-10-22",
+        "rating": "N/A",
+        "imdb_id": "tt0868707",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Teletubbies\\Subtitles\\S1\\Teletubbies.2022.S01E01.Bubbles.1080p.NF.WEB-DL.DDP5.1.x264-LAZY.zip"
+    },
+    "99": {
+        "title": "Music with Debbie 1",
+        "released": "1997-10-23",
+        "rating": "N/A",
+        "imdb_id": "tt0868760",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "100": {
+        "title": "Mandir Temple",
+        "released": "1997-10-24",
+        "rating": "4.0",
+        "imdb_id": "tt0868753",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "101": {
+        "title": "Little Baby",
+        "released": "1997-12-08",
+        "rating": "N/A",
+        "imdb_id": "tt0868745",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "102": {
+        "title": "How Things Swim",
+        "released": "1997-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt0868730",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "103": {
+        "title": "Naughty Horse Returns",
+        "released": "1997-12-10",
+        "rating": "N/A",
+        "imdb_id": "tt0868767",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "104": {
+        "title": "Bell Ringing",
+        "released": "1997-12-11",
+        "rating": "4.3",
+        "imdb_id": "tt0868659",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "105": {
+        "title": "Colors: Blue",
+        "released": "1997-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt0868675",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "107": {
+        "title": "Feeding Sheep in Winter",
+        "released": "1997-12-16",
+        "rating": "N/A",
+        "imdb_id": "tt0868700",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "108": {
+        "title": "Hanukah",
+        "released": "1997-12-17",
+        "rating": "4.3",
+        "imdb_id": "tt0868723",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "109": {
+        "title": "Washing Up",
+        "released": "1997-12-18",
+        "rating": "4.5",
+        "imdb_id": "tt0868842",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "110": {
+        "title": "Numbers: 5",
+        "released": "1997-12-19",
+        "rating": "4.5",
+        "imdb_id": "tt0868778",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "112": {
+        "title": "Making Christmas Cards",
+        "released": "1997-12-23",
+        "rating": "4.3",
+        "imdb_id": "tt0868748",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "113": {
+        "title": "Crackers",
+        "released": "1997-12-24",
+        "rating": "4.2",
+        "imdb_id": "tt0868681",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "114": {
+        "title": "Carol Singing",
+        "released": "1997-12-25",
+        "rating": "N/A",
+        "imdb_id": "tt0868672",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "117": {
+        "title": "Becky and Jed Find Eggs",
+        "released": "1997-12-30",
+        "rating": "4.4",
+        "imdb_id": "tt0868657",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "118": {
+        "title": "Rocking Chair",
+        "released": "1997-12-31",
+        "rating": "N/A",
+        "imdb_id": "tt0868809",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "119": {
+        "title": "Colours: Pink",
+        "released": "1998-01-01",
+        "rating": "N/A",
+        "imdb_id": "tt0868677",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "120": {
+        "title": "Living in Flats",
+        "released": "1998-01-02",
+        "rating": "4.6",
+        "imdb_id": "tt0868746",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "121": {
+        "title": "Urban Walk",
+        "released": "1998-01-05",
+        "rating": "N/A",
+        "imdb_id": "tt0868838",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "122": {
+        "title": "Our Calf Treacle",
+        "released": "1998-01-06",
+        "rating": "N/A",
+        "imdb_id": "tt0868791",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "123": {
+        "title": "Naughty Pig",
+        "released": "1998-01-07",
+        "rating": "N/A",
+        "imdb_id": "tt0868768",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "124": {
+        "title": "Washing the Car",
+        "released": "1998-01-08",
+        "rating": "4.4",
+        "imdb_id": "tt0868844",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "125": {
+        "title": "Handy Hands",
+        "released": "1998-01-09",
+        "rating": "N/A",
+        "imdb_id": "tt0868722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "127": {
+        "title": "Irish Dancing",
+        "released": "1998-01-13",
+        "rating": "3.7",
+        "imdb_id": "tt0868734",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "128": {
+        "title": "Numbers: Two",
+        "released": "1998-01-14",
+        "rating": "4.4",
+        "imdb_id": "tt0868789",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "129": {
+        "title": "Giraffes",
+        "released": "1998-01-15",
+        "rating": "N/A",
+        "imdb_id": "tt0868710",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

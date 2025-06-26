@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Two Swords",
+        "released": "2014-04-06",
+        "rating": "9.0",
+        "imdb_id": "tt2816136",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S4\\Game.of.Thrones.S04E01.HDTVRip.XviD-AQOSS4E1.zip"
+    },
+    "2": {
+        "title": "The Lion and the Rose",
+        "released": "2014-04-13",
+        "rating": "9.7",
+        "imdb_id": "tt2832378",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S4\\Game.of.Thrones.S04E02.720p.HDTV.DD5.1.x264-DONS4E2.zip"
+    },
+    "3": {
+        "title": "Breaker of Chains",
+        "released": "2014-04-20",
+        "rating": "8.7",
+        "imdb_id": "tt2972426",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S4\\Game.of.Thrones.S04E03.720p.HDTV.DD5.1.x264-DONS4E3.zip"
+    },
+    "4": {
+        "title": "Oathkeeper",
+        "released": "2014-04-27",
+        "rating": "8.7",
+        "imdb_id": "tt2972428",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S4\\Game.of.Thrones.S04E04.720p.HDTV.DD5.1.x264-DONS4E4.zip"
+    },
+    "5": {
+        "title": "First of His Name",
+        "released": "2014-05-04",
+        "rating": "8.6",
+        "imdb_id": "tt3060856",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S4\\Game.of.Thrones.S04E05.720p.HDTV.DD5.1.x264-DONS4E5.zip"
+    },
+    "6": {
+        "title": "The Laws of Gods and Men",
+        "released": "2014-05-11",
+        "rating": "9.7",
+        "imdb_id": "tt3060910",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S4\\Game.of.Thrones.S04E06.720p.HDTV.DD5.1.x264-DONS4E6.zip"
+    },
+    "7": {
+        "title": "Mockingbird",
+        "released": "2014-05-18",
+        "rating": "9.0",
+        "imdb_id": "tt3060876",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S4\\Game.of.Thrones.S04E07.720p.HDTV.DD5.1.x264-DONS4E7.zip"
+    },
+    "8": {
+        "title": "The Mountain and the Viper",
+        "released": "2014-06-01",
+        "rating": "9.7",
+        "imdb_id": "tt3060782",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S4\\Game.of.Thrones.S04E08.720p.HDTV.DD5.1.x264-DONS4E8.zip"
+    },
+    "9": {
+        "title": "The Watchers on the Wall",
+        "released": "2014-06-08",
+        "rating": "9.6",
+        "imdb_id": "tt3060858",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S4\\Game.of.Thrones.S04E09.720p.HDTV.DD5.1.x264-DONS4E9.zip"
+    },
+    "10": {
+        "title": "The Children",
+        "released": "2014-06-15",
+        "rating": "9.6",
+        "imdb_id": "tt3060860",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

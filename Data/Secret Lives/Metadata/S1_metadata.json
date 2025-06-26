@@ -1,0 +1,802 @@
+{
+    "1": {
+        "title": "Pihlajakadun asukkaat kokevat järkytyksen",
+        "released": "1999-01-25",
+        "rating": "N/A",
+        "imdb_id": "tt0790974",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Siljasta tulee paha tytärpuoli",
+        "released": "1999-01-26",
+        "rating": "N/A",
+        "imdb_id": "tt0790985",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Aki kompastuu omaan nokkeluuteensa",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt0790996",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Jenni ja Katja tahtovat pitää Tonista kiinni",
+        "released": "1999-01-28",
+        "rating": "N/A",
+        "imdb_id": "tt0791007",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Seppo jää kiinni rysän päältä",
+        "released": "1999-01-29",
+        "rating": "N/A",
+        "imdb_id": "tt0791015",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Kuka tappoi Tyynen?",
+        "released": "1999-02-01",
+        "rating": "N/A",
+        "imdb_id": "tt0791016",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Epäluuloa ilmassa",
+        "released": "1999-02-02",
+        "rating": "N/A",
+        "imdb_id": "tt0791017",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Laura ja Markus ovat napit vastakkain",
+        "released": "1999-02-03",
+        "rating": "N/A",
+        "imdb_id": "tt0791018",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Katjan hulttiosisko",
+        "released": "1999-02-04",
+        "rating": "N/A",
+        "imdb_id": "tt0791019",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Syyllinen sormi osoittaa Sakua",
+        "released": "1999-02-05",
+        "rating": "N/A",
+        "imdb_id": "tt0790975",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Lauralla ja Markuksella kipinöi",
+        "released": "1999-02-08",
+        "rating": "N/A",
+        "imdb_id": "tt0790976",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Aleksi saa puolustajan",
+        "released": "1999-02-09",
+        "rating": "N/A",
+        "imdb_id": "tt0790977",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Ullaa uhkaillaan",
+        "released": "1999-02-11",
+        "rating": "N/A",
+        "imdb_id": "tt0790979",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Jenni aiheuttaa hormonimyrskyn",
+        "released": "1999-02-12",
+        "rating": "N/A",
+        "imdb_id": "tt0790980",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Katja kuulee ikävän totuuden",
+        "released": "1999-02-15",
+        "rating": "N/A",
+        "imdb_id": "tt0790981",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Ullan ihmissuhdesoppa sakenee",
+        "released": "1999-02-16",
+        "rating": "N/A",
+        "imdb_id": "tt0790982",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Miia osoittaa luonteenlujuutta",
+        "released": "1999-02-17",
+        "rating": "N/A",
+        "imdb_id": "tt0790983",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Menneisyys piinaa Aleksia",
+        "released": "1999-02-18",
+        "rating": "N/A",
+        "imdb_id": "tt0790984",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Elinan elämään puututaan",
+        "released": "1999-02-19",
+        "rating": "N/A",
+        "imdb_id": "tt0790986",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Laura saa Jukan pelkäämään",
+        "released": "1999-02-22",
+        "rating": "N/A",
+        "imdb_id": "tt0790987",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Katja ei jaksa kuunnella Jennin moralisointia",
+        "released": "1999-02-23",
+        "rating": "N/A",
+        "imdb_id": "tt0790988",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Ismon itsehillintä pettää ikävin seurauksin",
+        "released": "1999-02-24",
+        "rating": "N/A",
+        "imdb_id": "tt0790989",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Ulla rikkoo kirjesalaisuutta",
+        "released": "1999-02-25",
+        "rating": "N/A",
+        "imdb_id": "tt0790990",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Saku ja Silja huolestuvat ystävästään",
+        "released": "1999-02-26",
+        "rating": "N/A",
+        "imdb_id": "tt0790991",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Jukka ja Hanna jakavat salaisuuden, joka uhkaa muuttaa heidän elämänsä pysyvästi",
+        "released": "1999-03-01",
+        "rating": "N/A",
+        "imdb_id": "tt0790992",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Ismon pahimmat pelot ovat käymässä toteen",
+        "released": "1999-03-02",
+        "rating": "N/A",
+        "imdb_id": "tt0790993",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Markuksen unelmatreffit saavat märän lopun",
+        "released": "1999-03-03",
+        "rating": "N/A",
+        "imdb_id": "tt0790994",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Lauran on pakko niellä ylpeytensä",
+        "released": "1999-03-04",
+        "rating": "N/A",
+        "imdb_id": "tt0790995",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Kari mykistää ystävät ja perheen",
+        "released": "1999-03-05",
+        "rating": "N/A",
+        "imdb_id": "tt0790997",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Saku ei peittele tunteitaan",
+        "released": "1999-03-08",
+        "rating": "N/A",
+        "imdb_id": "tt0790998",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Romanssi ei olekaan ihan sitä, mitä Miia odotti",
+        "released": "1999-03-10",
+        "rating": "N/A",
+        "imdb_id": "tt0790999",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Toni tekee lämpimän tunnustuksen Jennille",
+        "released": "1999-03-12",
+        "rating": "N/A",
+        "imdb_id": "tt0791000",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "Niin työssä kuin huveissakin Aki näyttää päässeen voittoputkeen",
+        "released": "1999-03-15",
+        "rating": "N/A",
+        "imdb_id": "tt0791001",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Kari on selityksen velkaa",
+        "released": "1999-03-16",
+        "rating": "N/A",
+        "imdb_id": "tt0791002",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Saku kuorruttaa Kallen oksennuksella",
+        "released": "1999-03-17",
+        "rating": "N/A",
+        "imdb_id": "tt0791003",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Toni ottaa ohjat käsiinsä",
+        "released": "1999-03-18",
+        "rating": "N/A",
+        "imdb_id": "tt0791004",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Seppo pitää pojalleen puhuttelun",
+        "released": "1999-03-19",
+        "rating": "N/A",
+        "imdb_id": "tt0791005",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Pelkoja ja hormoneja",
+        "released": "1999-03-22",
+        "rating": "N/A",
+        "imdb_id": "tt0791006",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Laura antaa Sakulle rakkausvalistusta",
+        "released": "1999-03-23",
+        "rating": "N/A",
+        "imdb_id": "tt0791008",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Jukka kuulee järkyttäviä totuuksia",
+        "released": "1999-03-24",
+        "rating": "N/A",
+        "imdb_id": "tt0791009",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Miian yritykset pelastaa kärsivä sielu näköjään epäonnistuivat",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt0791010",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Lauran elämäntapa osoittautuu hyvin vaaralliseksi",
+        "released": "1999-03-26",
+        "rating": "N/A",
+        "imdb_id": "tt0791011",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Kari pääsee Jukan niskan päälle",
+        "released": "1999-03-29",
+        "rating": "N/A",
+        "imdb_id": "tt0791012",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "Pahaa-aavistamaton Aleksi luottaa vilpilliseen ystäväänsä",
+        "released": "1999-03-30",
+        "rating": "N/A",
+        "imdb_id": "tt0791013",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Laura saa tarjouksen, josta hän erittäin mielellään kieltäytyisi",
+        "released": "1999-04-01",
+        "rating": "N/A",
+        "imdb_id": "tt0791014",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Aki yrittää päihittää Tonin suunsoitossa",
+        "released": "1999-04-02",
+        "rating": "N/A",
+        "imdb_id": "tt2893784",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "Houkutus on suuri, kun Kari löytää itsensä vaarallisesta suhteesta",
+        "released": "1999-04-03",
+        "rating": "N/A",
+        "imdb_id": "tt2893798",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "Toni katuu osaansa Jennin sydänsuruihin",
+        "released": "1999-04-04",
+        "rating": "N/A",
+        "imdb_id": "tt2893776",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Kateus pistää Katjaa",
+        "released": "1999-04-05",
+        "rating": "N/A",
+        "imdb_id": "tt2893800",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "Toni lohduttaa Jenniä",
+        "released": "1999-04-07",
+        "rating": "N/A",
+        "imdb_id": "tt2893802",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Aleksilla on paineita",
+        "released": "1999-04-08",
+        "rating": "N/A",
+        "imdb_id": "tt2893804",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "53": {
+        "title": "Laitelat harrastavat talviurheilua",
+        "released": "1999-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt2893824",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "54": {
+        "title": "Katja ja Jenni haikailevat Tonin perään",
+        "released": "1999-04-12",
+        "rating": "N/A",
+        "imdb_id": "tt2893830",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "Silja paljastaa Sakun suunnitelmat",
+        "released": "1999-04-15",
+        "rating": "N/A",
+        "imdb_id": "tt2893816",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "56": {
+        "title": "Yllättävän käänteen saanut hiihtoretki kuohuttaa Salinien menneisyyttä",
+        "released": "1999-04-19",
+        "rating": "N/A",
+        "imdb_id": "tt2893812",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "57": {
+        "title": "Salin vs Salin",
+        "released": "1999-04-20",
+        "rating": "N/A",
+        "imdb_id": "tt2893840",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "58": {
+        "title": "Golfkriisi koettelee Lauraa ja Markusta",
+        "released": "1999-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt2893788",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "59": {
+        "title": "Silakkapihvien viettelys Vainioilla",
+        "released": "1999-04-22",
+        "rating": "N/A",
+        "imdb_id": "tt2893848",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "60": {
+        "title": "Barbaari, Markus ja Aki; naiset ja karman laki",
+        "released": "1999-04-23",
+        "rating": "N/A",
+        "imdb_id": "tt2893794",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "61": {
+        "title": "Markus osoittautuu yllättävän hyväksi ja huonoksi golfissa",
+        "released": "1999-04-26",
+        "rating": "N/A",
+        "imdb_id": "tt2893828",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "62": {
+        "title": "Hanna ja Maarit törmäyskurssilla",
+        "released": "1999-04-27",
+        "rating": "N/A",
+        "imdb_id": "tt2893832",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "63": {
+        "title": "Mustasukkaisuuden uhkapeli - Jennillä on kovat panokset",
+        "released": "1999-04-28",
+        "rating": "N/A",
+        "imdb_id": "tt2893862",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "64": {
+        "title": "Veri on viintä sakeampaa",
+        "released": "1999-04-29",
+        "rating": "N/A",
+        "imdb_id": "tt2893856",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "65": {
+        "title": "Ismo lämmittelee - tunteita ja moottoreita",
+        "released": "1999-04-30",
+        "rating": "N/A",
+        "imdb_id": "tt2893836",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "66": {
+        "title": "Laura saa selville, että hänen ylennykseensä sisältyy ei-toivottu ehto",
+        "released": "1999-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt2893820",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "67": {
+        "title": "Jenni ja ruusut eivät aina sovi yhteen",
+        "released": "1999-05-04",
+        "rating": "N/A",
+        "imdb_id": "tt2893838",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "68": {
+        "title": "Markus saa tarjouksen, josta on vaikea kieltäytyä",
+        "released": "1999-05-05",
+        "rating": "N/A",
+        "imdb_id": "tt2893858",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "69": {
+        "title": "Hääkellot kutsuvat - vaikka vahingossa",
+        "released": "1999-05-06",
+        "rating": "N/A",
+        "imdb_id": "tt2893822",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "70": {
+        "title": "Seksiä ja totuuksia",
+        "released": "1999-05-07",
+        "rating": "N/A",
+        "imdb_id": "tt2893866",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "71": {
+        "title": "Markukselle selviää, että hänellä on salainen ihailija",
+        "released": "1999-05-10",
+        "rating": "N/A",
+        "imdb_id": "tt2893870",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "72": {
+        "title": "Ullan ja Sepon lemmenlomalle ilmaantuu yllätysvieras menneisyydestä",
+        "released": "1999-05-11",
+        "rating": "N/A",
+        "imdb_id": "tt2893846",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "73": {
+        "title": "Laura pelastaa Markuksen kuolemaakin pahemmalta kohtalolta",
+        "released": "1999-05-12",
+        "rating": "N/A",
+        "imdb_id": "tt2893852",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "74": {
+        "title": "Maaritin elämä saa sysäyksen uuteen suuntaan",
+        "released": "1999-05-13",
+        "rating": "N/A",
+        "imdb_id": "tt2893882",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "75": {
+        "title": "Rastatytön murtunut itsetunto",
+        "released": "1999-05-14",
+        "rating": "N/A",
+        "imdb_id": "tt2893844",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "76": {
+        "title": "Aleksi menettää kontrollin",
+        "released": "1999-05-17",
+        "rating": "N/A",
+        "imdb_id": "tt2893868",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "77": {
+        "title": "Ullan mitta täyttyy",
+        "released": "1999-05-18",
+        "rating": "N/A",
+        "imdb_id": "tt2893872",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "78": {
+        "title": "Maaritin treffit Ismon kanssa saavat yllättävän käänteen",
+        "released": "1999-05-19",
+        "rating": "N/A",
+        "imdb_id": "tt2893860",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "79": {
+        "title": "Tonin kosteat yllätysjuhlat",
+        "released": "1999-05-20",
+        "rating": "N/A",
+        "imdb_id": "tt2893876",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "80": {
+        "title": "Akin menneisyys uhkaa Markuksen tulevaisuutta",
+        "released": "1999-05-21",
+        "rating": "N/A",
+        "imdb_id": "tt2893884",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "81": {
+        "title": "Katja saa silmäyksen kylmästä totuudesta",
+        "released": "1999-05-24",
+        "rating": "N/A",
+        "imdb_id": "tt1421835",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "82": {
+        "title": "Tyynellä on salaperäinen ihailija",
+        "released": "1999-05-25",
+        "rating": "N/A",
+        "imdb_id": "tt0693637",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "83": {
+        "title": "Voitto saa Ullan ja Sepon sapen kiehumaan",
+        "released": "1999-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt2893896",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "84": {
+        "title": "Ismon pettymys ihmissuhteisiin purkautuu tuhoavana raivona",
+        "released": "1999-05-27",
+        "rating": "N/A",
+        "imdb_id": "tt2893904",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "85": {
+        "title": "Miian treffit päättyvät katastrofiin",
+        "released": "1999-05-28",
+        "rating": "N/A",
+        "imdb_id": "tt2893898",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "86": {
+        "title": "Salinien salatut elämät",
+        "released": "1999-05-31",
+        "rating": "N/A",
+        "imdb_id": "tt1421836",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "87": {
+        "title": "Ulla tekee sopimattoman ehdotuksen",
+        "released": "1999-06-01",
+        "rating": "N/A",
+        "imdb_id": "tt1421837",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "88": {
+        "title": "Jenni rakkauden, rahan ja rikollisuuden kolmiossa",
+        "released": "1999-06-02",
+        "rating": "N/A",
+        "imdb_id": "tt1421838",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "89": {
+        "title": "Kalle saa Harrilta enemmän kuin mitä alun perin tinki",
+        "released": "1999-06-03",
+        "rating": "N/A",
+        "imdb_id": "tt1421839",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "90": {
+        "title": "Markus kuulee lopultakin totuuden Akista",
+        "released": "1999-06-04",
+        "rating": "N/A",
+        "imdb_id": "tt2893902",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "91": {
+        "title": "Hanna tekee vaikean valintansa",
+        "released": "1999-08-30",
+        "rating": "N/A",
+        "imdb_id": "tt2922362",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "92": {
+        "title": "Teinirakkauden monimutkaiset kuviot",
+        "released": "1999-08-31",
+        "rating": "N/A",
+        "imdb_id": "tt2922364",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "93": {
+        "title": "Aki saa tarjouksen ryhtyä vaaralliseen diiliin",
+        "released": "1999-09-01",
+        "rating": "N/A",
+        "imdb_id": "tt2922372",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "94": {
+        "title": "Kallen todelliset tunteet paljastuvat",
+        "released": "1999-09-02",
+        "rating": "N/A",
+        "imdb_id": "tt2922370",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "95": {
+        "title": "Ullan menneisyys paljastuu - kalliin seuraamuksin",
+        "released": "1999-09-03",
+        "rating": "N/A",
+        "imdb_id": "tt2922368",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "96": {
+        "title": "Virkavaltaan pettyneet Ismo ja Jukka ottavat lain omiin käsiinsä",
+        "released": "1999-09-06",
+        "rating": "N/A",
+        "imdb_id": "tt2922380",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "97": {
+        "title": "Tonin valheilta katkaistaan siivet",
+        "released": "1999-09-07",
+        "rating": "N/A",
+        "imdb_id": "tt2922376",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "98": {
+        "title": "Huijatun Siljan raivonpurkaus saa traagisen lopun",
+        "released": "1999-09-08",
+        "rating": "N/A",
+        "imdb_id": "tt2922378",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "99": {
+        "title": "Kallelle tarjotaan mahdollisuutta jättää ennakkoluulot taakseen",
+        "released": "1999-09-09",
+        "rating": "N/A",
+        "imdb_id": "tt2922384",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "100": {
+        "title": "Salinien perhepotretin uudelleenmuotoilu",
+        "released": "1999-09-10",
+        "rating": "N/A",
+        "imdb_id": "tt2922386",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "101": {
+        "title": "Toni ja syyllisyyden taakka",
+        "released": "1999-09-13",
+        "rating": "N/A",
+        "imdb_id": "tt2922412",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

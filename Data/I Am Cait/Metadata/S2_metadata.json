@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Politically Incorrect",
+        "released": "2016-03-06",
+        "rating": "N/A",
+        "imdb_id": "tt5155254",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\I Am Cait\\Subtitles\\S2\\I.Am.Cait.S02E01.Politically.Incorrect.HDTV-MegaTVS2E1.zip"
+    },
+    "2": {
+        "title": "Woman of the Year?",
+        "released": "2016-03-13",
+        "rating": "N/A",
+        "imdb_id": "tt5545854",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\I Am Cait\\Subtitles\\S2\\I.Am.Cait.S02E02.HDTV.x264-CRiMSONS2E2.zip"
+    },
+    "3": {
+        "title": "Partner Up",
+        "released": "2016-03-20",
+        "rating": "N/A",
+        "imdb_id": "tt5572426",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\I Am Cait\\Subtitles\\S2\\I.Am.Cait.S02E03.Partner.Up.HDTV-MEGATVS2E3.zip"
+    },
+    "4": {
+        "title": "The Great Debate",
+        "released": "2016-03-27",
+        "rating": "N/A",
+        "imdb_id": "tt5588388",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\I Am Cait\\Subtitles\\S2\\I.Am.Cait.S02E04.HDTV.x264-CRiMSONS2E4.zip"
+    },
+    "5": {
+        "title": "Great Scott!",
+        "released": "2016-04-03",
+        "rating": "N/A",
+        "imdb_id": "tt5606172",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\I Am Cait\\Subtitles\\S2\\I.Am.Cait.S02E05.Great.Scott.HDTV-MEGATVS2E5.zip"
+    },
+    "6": {
+        "title": "Guess Who's Coming to Dinner?",
+        "released": "2016-04-10",
+        "rating": "3.4",
+        "imdb_id": "tt5624816",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\I Am Cait\\Subtitles\\S2\\I.Am.Cait.S02E06.HDTV.x264-CRiMSONS2E6.zip"
+    },
+    "7": {
+        "title": "Kiss and Make-Up",
+        "released": "2016-04-17",
+        "rating": "4.5",
+        "imdb_id": "tt5648758",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Houston, We Have a Problem",
+        "released": "2016-04-24",
+        "rating": "N/A",
+        "imdb_id": "tt5664074",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

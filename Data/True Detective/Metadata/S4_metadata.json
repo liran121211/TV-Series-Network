@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Night Country: Part 1",
+        "released": "2024-01-14",
+        "rating": "7.1",
+        "imdb_id": "tt18925452",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S4\\True.Detective.S04E01.1080p.WEB.h264-ETHELS4E1.zip"
+    },
+    "2": {
+        "title": "Night Country: Part 2",
+        "released": "2024-01-21",
+        "rating": "N/A",
+        "imdb_id": "tt29314270",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S4\\TrueDetective.S04E02.WEBRip-HBOGOS4E2.zip"
+    },
+    "3": {
+        "title": "Night Country: Part 3",
+        "released": "2024-01-28",
+        "rating": "6.3",
+        "imdb_id": "tt29314274",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S4\\True.Detective.S04E03.1080p.WEB.H264-SuccessfulCrabS4E3.zip"
+    },
+    "4": {
+        "title": "Night Country: Part 4",
+        "released": "2024-02-04",
+        "rating": "6.1",
+        "imdb_id": "tt29314277",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S4\\TrueDetective.S04E04.WEBRip-HBOGOS4E4.zip"
+    },
+    "5": {
+        "title": "Night Country: Part 5",
+        "released": "2024-02-09",
+        "rating": "6.8",
+        "imdb_id": "tt29314279",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S4\\TrueDetective.S04E05.WEBRip-HBOGOS4E5.zip"
+    },
+    "6": {
+        "title": "Night Country: Part 6",
+        "released": "2024-02-18",
+        "rating": "5.4",
+        "imdb_id": "tt29314280",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

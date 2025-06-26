@@ -1,0 +1,194 @@
+{
+    "1": {
+        "title": "Meaning",
+        "released": "2006-09-05",
+        "rating": "8.8",
+        "imdb_id": "tt0828219",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S3\\House.S03E01-24.HDTV.engS3E1.zip"
+    },
+    "2": {
+        "title": "Cane and Able",
+        "released": "2006-09-12",
+        "rating": "8.3",
+        "imdb_id": "tt0834714",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S3\\House.M.D.S03E02.720p.WEB-DL.DD5.1.h.264-TjHDS3E2.zip"
+    },
+    "3": {
+        "title": "Informed Consent",
+        "released": "2006-09-19",
+        "rating": "8.5",
+        "imdb_id": "tt0834715",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S3\\House.M.D.S03E03.720p.WEB-DL.DD5.1.h.264-TjHDS3E3.zip"
+    },
+    "4": {
+        "title": "Lines in the Sand",
+        "released": "2006-09-26",
+        "rating": "8.9",
+        "imdb_id": "tt0836216",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S3\\House.M.D.S03E04.720p.WEB-DL.DD5.1.h.264-TjHDS3E4.zip"
+    },
+    "5": {
+        "title": "Fools for Love",
+        "released": "2006-10-31",
+        "rating": "N/A",
+        "imdb_id": "tt0873021",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S3\\House.M.D.S03E05.720p.WEB-DL.DD5.1.h.264-TjHDS3E5.zip"
+    },
+    "6": {
+        "title": "Que Será Será",
+        "released": "2006-11-07",
+        "rating": "8.0",
+        "imdb_id": "tt0854514",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S3\\House.M.D.S03E06.720p.WEB-DL.DD5.1.h.264-TjHDS3E6.zip"
+    },
+    "7": {
+        "title": "Son of Coma Guy",
+        "released": "2006-11-14",
+        "rating": "8.8",
+        "imdb_id": "tt0859366",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S3\\House.M.D.S03E07.720p.WEB-DL.DD5.1.h.264-TjHDS3E7.zip"
+    },
+    "8": {
+        "title": "Whac-A-Mole",
+        "released": "2006-11-21",
+        "rating": "8.0",
+        "imdb_id": "tt0866187",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S3\\House.M.D.S03E08.720p.WEB-DL.DD5.1.h.264-TjHDS3E8.zip"
+    },
+    "9": {
+        "title": "Finding Judas",
+        "released": "2006-11-28",
+        "rating": "8.4",
+        "imdb_id": "tt0871152",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S3\\House.M.D.S03E09.720p.WEB-DL.DD5.1.h.264-TjHDS3E9.zip"
+    },
+    "10": {
+        "title": "Merry Little Christmas",
+        "released": "2006-12-12",
+        "rating": "8.6",
+        "imdb_id": "tt0882414",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Words and Deeds",
+        "released": "2007-01-09",
+        "rating": "8.5",
+        "imdb_id": "tt0888858",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "One Day, One Room",
+        "released": "2007-01-30",
+        "rating": "9.0",
+        "imdb_id": "tt0902016",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Needle in a Haystack",
+        "released": "2007-02-06",
+        "rating": "7.8",
+        "imdb_id": "tt0897691",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Insensitive",
+        "released": "2007-02-13",
+        "rating": "8.7",
+        "imdb_id": "tt0917153",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Half-Wit",
+        "released": "2007-03-06",
+        "rating": "9.0",
+        "imdb_id": "tt0942528",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Top Secret",
+        "released": "2007-03-27",
+        "rating": "8.0",
+        "imdb_id": "tt0979558",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Fetal Position",
+        "released": "2007-04-03",
+        "rating": "N/A",
+        "imdb_id": "tt0987017",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Airborne",
+        "released": "2007-04-10",
+        "rating": "8.9",
+        "imdb_id": "tt0994242",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Act Your Age",
+        "released": "2007-04-17",
+        "rating": "N/A",
+        "imdb_id": "tt0976557",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "House Training",
+        "released": "2007-04-24",
+        "rating": "8.2",
+        "imdb_id": "tt0994243",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Family",
+        "released": "2007-05-01",
+        "rating": "8.2",
+        "imdb_id": "tt0994241",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Resignation",
+        "released": "2007-05-08",
+        "rating": "8.3",
+        "imdb_id": "tt0994244",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "The Jerk",
+        "released": "2007-05-15",
+        "rating": "8.3",
+        "imdb_id": "tt1023376",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Human Error",
+        "released": "2007-05-29",
+        "rating": "8.8",
+        "imdb_id": "tt1023643",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

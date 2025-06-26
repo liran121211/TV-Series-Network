@@ -1,0 +1,545 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Atlanta.S01E07.B.A.N.720p.WEB-DL.2CH.x265.HEVC-PSA
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.63,0:00:06.63,Default,,0,0,0,,{\i1}(upbeat hip-hop instrumental\Nmusic){\i0}
+Dialogue: 0,0:00:19.45,0:00:21.32,Default,,0,0,0,,{\i1}MAN: The Dodge Charger...{\i0}
+Dialogue: 0,0:00:21.32,0:00:23.18,Default,,0,0,0,,{\i1}the official car\Nof making a statement{\i0}
+Dialogue: 0,0:00:23.19,0:00:25.45,Default,,0,0,0,,{\i1}without saying anything at all.{\i0}
+Dialogue: 0,0:00:25.45,0:00:28.46,Default,,0,0,0,,{\i1}(mellow jazz){\i0}
+Dialogue: 0,0:00:28.46,0:00:31.93,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:00:33.10,0:00:36.00,Default,,0,0,0,,{\i1}(upbeat theme music playing){\i0}
+Dialogue: 0,0:00:36.00,0:00:42.94,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:00:47.18,0:00:50.18,Default,,0,0,0,,Good evening,\Nand welcome to "Montague."
+Dialogue: 0,0:00:50.18,0:00:52.45,Default,,0,0,0,,I'm your host,\NFranklin Montague.
+Dialogue: 0,0:00:52.45,0:00:53.95,Default,,0,0,0,,And today we're gonna\Ntake a look
+Dialogue: 0,0:00:53.95,0:00:56.45,Default,,0,0,0,,at the growing outlook\Nof accepted sexuality
+Dialogue: 0,0:00:56.45,0:00:58.85,Default,,0,0,0,,and its effects\Non black youth and culture.
+Dialogue: 0,0:00:58.85,0:01:00.49,Default,,0,0,0,,With us today, we have
+Dialogue: 0,0:01:00.49,0:01:03.22,Default,,0,0,0,,the Head of the Center\Nof Trans-American Issues,
+Dialogue: 0,0:01:03.23,0:01:04.73,Default,,0,0,0,,Dr. Debra Holt,
+Dialogue: 0,0:01:04.73,0:01:07.29,Default,,0,0,0,,and recording artist Paper Boi.
+Dialogue: 0,0:01:07.30,0:01:08.90,Default,,0,0,0,,Good evening to you both.
+Dialogue: 0,0:01:08.90,0:01:10.33,Default,,0,0,0,,- Good evening, Montague.\N- 'Sup?
+Dialogue: 0,0:01:10.33,0:01:11.90,Default,,0,0,0,,Uh, let's start\Nat the beginning.
+Dialogue: 0,0:01:11.90,0:01:15.00,Default,,0,0,0,,Paper Boi, last Tuesday\Nyou engaged in a Twitter rant
+Dialogue: 0,0:01:15.00,0:01:17.84,Default,,0,0,0,,that had some pretty\Ninflammatory statements.
+Dialogue: 0,0:01:17.84,0:01:19.64,Default,,0,0,0,,But the one statement\Nthat seems to have made
+Dialogue: 0,0:01:19.64,0:01:21.24,Default,,0,0,0,,- the biggest impact...\N- (sighs)
+Dialogue: 0,0:01:21.24,0:01:23.31,Default,,0,0,0,,Was this one and I quote,\N"Y'all the..."
+Dialogue: 0,0:01:23.31,0:01:27.21,Default,,0,0,0,,N-words "who said I was weird\Nfor not wanting to"
+Dialogue: 0,0:01:27.22,0:01:29.65,Default,,0,0,0,,F-word "Caitlyn Jenner."
+Dialogue: 0,0:01:29.65,0:01:32.49,Default,,0,0,0,,Would you want to, uh,\Nexplain that statement?
+Dialogue: 0,0:01:32.49,0:01:34.59,Default,,0,0,0,,No.
+Dialogue: 0,0:01:36.36,0:01:40.49,Default,,0,0,0,,Well, could you\Nexplain that statement?
+Dialogue: 0,0:01:40.50,0:01:42.83,Default,,0,0,0,,(blows)\NI...
+Dialogue: 0,0:01:42.83,0:01:44.50,Default,,0,0,0,,meant what I said.
+Dialogue: 0,0:01:44.50,0:01:47.87,Default,,0,0,0,,You don't think\Nyour tweets are transphobic?
+Dialogue: 0,0:01:47.87,0:01:49.40,Default,,0,0,0,,I just don't have to have sex
+Dialogue: 0,0:01:49.41,0:01:50.90,Default,,0,0,0,,with Caitlyn Jenner\N'cause y'all say so.
+Dialogue: 0,0:01:50.91,0:01:52.71,Default,,0,0,0,,Mm.\NSo you don't think
+Dialogue: 0,0:01:52.71,0:01:54.44,Default,,0,0,0,,- Caitlyn Jenner's important?\N- (tsks)
+Dialogue: 0,0:01:54.44,0:01:55.94,Default,,0,0,0,,Look, I get what\Ny'all saying, right?
+Dialogue: 0,0:01:55.95,0:01:58.68,Default,,0,0,0,,But she's not\Nsuper important to me,
+Dialogue: 0,0:01:58.68,0:02:00.25,Default,,0,0,0,,like, not my life.
+Dialogue: 0,0:02:00.25,0:02:03.68,Default,,0,0,0,,So how long\Nhave you disliked transpeople?
+Dialogue: 0,0:02:03.69,0:02:05.92,Default,,0,0,0,,Man, look,\NI just found out they exist,
+Dialogue: 0,0:02:05.92,0:02:07.52,Default,,0,0,0,,- to be honest.\N- I... No, no...
+Dialogue: 0,0:02:07.52,0:02:09.69,Default,,0,0,0,,"I make her switch sides,\NCaitlyn Jenner in reverse"?
+Dialogue: 0,0:02:09.69,0:02:11.59,Default,,0,0,0,,Is that not a...\NA lyric of yours?
+Dialogue: 0,0:02:11.59,0:02:13.13,Default,,0,0,0,,Man, I was just rapping, man.
+Dialogue: 0,0:02:13.13,0:02:15.06,Default,,0,0,0,,Look, I've said worse things.
+Dialogue: 0,0:02:15.06,0:02:17.40,Default,,0,0,0,,You ever heard my song,\N"Illuminati Sex"?
+Dialogue: 0,0:02:17.40,0:02:19.03,Default,,0,0,0,,- Haven't heard it yet.\N- Well, there we go then.
+Dialogue: 0,0:02:19.03,0:02:20.80,Default,,0,0,0,,Debra, you've written
+Dialogue: 0,0:02:20.80,0:02:23.04,Default,,0,0,0,,about this current phenomenon\Nin your book,
+Dialogue: 0,0:02:23.04,0:02:25.81,Default,,0,0,0,,{\i1}Transition:\NGender in a New Generation.{\i0}
+Dialogue: 0,0:02:25.81,0:02:28.08,Default,,0,0,0,,What do you think\Nabout all this?
+Dialogue: 0,0:02:28.08,0:02:29.98,Default,,0,0,0,,I look at these statements as
+Dialogue: 0,0:02:29.98,0:02:31.95,Default,,0,0,0,,natural consequences\Nof a culture
+Dialogue: 0,0:02:31.95,0:02:33.75,Default,,0,0,0,,- of exclusion and power.\N- Mm.
+Dialogue: 0,0:02:33.75,0:02:35.25,Default,,0,0,0,,You know, there's...\NThere's a large swath of...
+Dialogue: 0,0:02:35.25,0:02:37.45,Default,,0,0,0,,- (scoffs)\N- Gender and sexuality roles
+Dialogue: 0,0:02:37.45,0:02:40.42,Default,,0,0,0,,that are just being exposed to\Na large portion of the public.
+Dialogue: 0,0:02:40.42,0:02:41.99,Default,,0,0,0,,(chuckling)
+Dialogue: 0,0:02:41.99,0:02:44.09,Default,,0,0,0,,DEBRA: Uh, it's harder\Nfor certain sections
+Dialogue: 0,0:02:44.09,0:02:45.63,Default,,0,0,0,,to deal with this transition
+Dialogue: 0,0:02:45.63,0:02:47.89,Default,,0,0,0,,uh, because of conflict\Nof interest,
+Dialogue: 0,0:02:47.90,0:02:50.46,Default,,0,0,0,,and, frankly, identity issues.
+Dialogue: 0,0:02:50.47,0:02:52.23,Default,,0,0,0,,In this case, the rap community.
+Dialogue: 0,0:02:52.23,0:02:54.23,Default,,0,0,0,,Now, I truly believe it's, uh,
+Dialogue: 0,0:02:54.24,0:02:56.60,Default,,0,0,0,,has more to do with issues\Nof masculinity
+Dialogue: 0,0:02:56.61,0:02:58.97,Default,,0,0,0,,in the black community\Nthan actual
+Dialogue: 0,0:02:58.97,0:03:01.11,Default,,0,0,0,,homophobia or... or transphobia.
+Dialogue: 0,0:03:01.11,0:03:03.01,Default,,0,0,0,,- Please explain.\N- Yes, please, please.
+Dialogue: 0,0:03:03.01,0:03:04.75,Default,,0,0,0,,Tell me...\NTell me about myself.
+Dialogue: 0,0:03:04.75,0:03:06.31,Default,,0,0,0,,Go on.
+Dialogue: 0,0:03:06.32,0:03:08.95,Default,,0,0,0,,Well, Mis... Mister, uh, Pa...\NMr. Paper Boi...
+Dialogue: 0,0:03:08.95,0:03:10.25,Default,,0,0,0,,Mister, yeah.
+Dialogue: 0,0:03:10.25,0:03:12.82,Default,,0,0,0,,What would you\Nconsider yourself?
+Dialogue: 0,0:03:12.82,0:03:13.99,Default,,0,0,0,,A rapper?
+Dialogue: 0,0:03:13.99,0:03:15.09,Default,,0,0,0,,A straight rapper?
+Dialogue: 0,0:03:15.09,0:03:16.52,Default,,0,0,0,,Hell yeah.
+Dialogue: 0,0:03:16.53,0:03:18.19,Default,,0,0,0,,Well, I did some research\Non your lyrics,
+Dialogue: 0,0:03:18.19,0:03:20.79,Default,,0,0,0,,and they're actually\Nvery pro sexual-spectrum.
+Dialogue: 0,0:03:20.80,0:03:22.13,Default,,0,0,0,,- Oh?\N- Pro-what?
+Dialogue: 0,0:03:22.13,0:03:24.43,Default,,0,0,0,,"If I eff with you,\Nyou my N-word,
+Dialogue: 0,0:03:24.43,0:03:25.87,Default,,0,0,0,,you my N-word for life."
+Dialogue: 0,0:03:25.87,0:03:27.30,Default,,0,0,0,,Yo, you know\Nthat ain't what I meant.
+Dialogue: 0,0:03:27.30,0:03:28.54,Default,,0,0,0,,Yeah, oh, I understand,\Nbut, you know,
+Dialogue: 0,0:03:28.54,0:03:30.00,Default,,0,0,0,,there's a layer of fluidity...
+Dialogue: 0,0:03:30.01,0:03:31.54,Default,,0,0,0,,No, no, no.\NThere's no extra layer.
+Dialogue: 0,0:03:31.54,0:03:33.47,Default,,0,0,0,,DEBRA: That you yourself\Ndon't even realize.
+Dialogue: 0,0:03:33.48,0:03:35.04,Default,,0,0,0,,I don't think about\Nwhat I'm rapping half the time.
+Dialogue: 0,0:03:35.04,0:03:36.14,Default,,0,0,0,,Look, I'm just trying\Nto get paid,
+Dialogue: 0,0:03:36.15,0:03:37.48,Default,,0,0,0,,you feel me?\NLook, (bleep),
+Dialogue: 0,0:03:37.48,0:03:39.21,Default,,0,0,0,,why you think I'm on this show?
+Dialogue: 0,0:03:39.21,0:03:42.32,Default,,0,0,0,,You're not\Ngetting paid for this.
+Dialogue: 0,0:03:42.32,0:03:44.65,Default,,0,0,0,,Hey...\NHey, Earn... man?
+Dialogue: 0,0:03:44.65,0:03:47.29,Default,,0,0,0,,Black men aren't ready\Nto accept the implications
+Dialogue: 0,0:03:47.29,0:03:49.02,Default,,0,0,0,,of a trans-accepting culture.
+Dialogue: 0,0:03:49.02,0:03:50.82,Default,,0,0,0,,No... look, I'm allowed\Nto say that it's weird.
+Dialogue: 0,0:03:50.83,0:03:52.33,Default,,0,0,0,,"It"?
+Dialogue: 0,0:03:52.33,0:03:53.69,Default,,0,0,0,,No, look, I'm not\Ncalling him a "it."
+Dialogue: 0,0:03:53.70,0:03:55.06,Default,,0,0,0,,- Naw, I'm just saying that...\N- "Him"?
+Dialogue: 0,0:03:55.06,0:03:56.63,Default,,0,0,0,,Look... look, can I say something?\NDamn!
+Dialogue: 0,0:03:56.63,0:03:58.17,Default,,0,0,0,,FRANKLIN: All right.\N- Well, it depends.
+Dialogue: 0,0:03:58.17,0:03:59.87,Default,,0,0,0,,- I was trying to say...\N- We got to take a break.
+Dialogue: 0,0:03:59.87,0:04:01.50,Default,,0,0,0,,When we're back,\Nwe're gonna take a look
+Dialogue: 0,0:04:01.50,0:04:04.37,Default,,0,0,0,,into a young boy's struggle\Nfor equality.
+Dialogue: 0,0:04:04.37,0:04:05.37,Default,,0,0,0,,{\i1}(theme music playing){\i0}
+Dialogue: 0,0:04:05.37,0:04:06.64,Default,,0,0,0,,(sighs)
+Dialogue: 0,0:04:06.64,0:04:08.54,Default,,0,0,0,,{\i1}(theme music){\i0}
+Dialogue: 0,0:04:09.68,0:04:10.98,Default,,0,0,0,,{\i1}(sportscaster on phone){\i0}
+Dialogue: 0,0:04:10.98,0:04:12.18,Default,,0,0,0,,(front entrance dings)
+Dialogue: 0,0:04:12.18,0:04:15.08,Default,,0,0,0,,{\i1}(Muzak plays in background){\i0}
+Dialogue: 0,0:04:15.08,0:04:19.42,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:04:19.42,0:04:22.22,Default,,0,0,0,,{\i1}(sportscasters continue){\i0}
+Dialogue: 0,0:04:22.22,0:04:23.22,Default,,0,0,0,,(beep)
+Dialogue: 0,0:04:26.93,0:04:28.26,Default,,0,0,0,,$1.49?
+Dialogue: 0,0:04:28.26,0:04:30.33,Default,,0,0,0,,But the price\Non the can, though.
+Dialogue: 0,0:04:30.33,0:04:31.87,Default,,0,0,0,,The price is on the can, though.
+Dialogue: 0,0:04:31.87,0:04:34.60,Default,,0,0,0,,{\i1}(crowd cheers on phone){\i0}
+Dialogue: 0,0:04:34.60,0:04:37.77,Default,,0,0,0,,{\i1}(sportscasters continue){\i0}
+Dialogue: 0,0:04:40.68,0:04:43.68,Default,,0,0,0,,{\i1}(jazzy lounge music){\i0}
+Dialogue: 0,0:04:43.68,0:04:50.62,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:05:09.57,0:05:12.47,Default,,0,0,0,,{\i1}(music continues){\i0}
+Dialogue: 0,0:05:12.47,0:05:18.38,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:05:22.12,0:05:25.22,Default,,0,0,0,,{\i1}(upbeat hip-hop instrumental\Nmusic){\i0}
+Dialogue: 0,0:05:25.22,0:05:32.16,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:05:44.14,0:05:45.81,Default,,0,0,0,,{\i1}MAN: The Dodge Charger.{\i0}
+Dialogue: 0,0:05:45.81,0:05:48.74,Default,,0,0,0,,{\i1}Make a statement without\Nsaying anything at all.{\i0}
+Dialogue: 0,0:05:49.81,0:05:53.31,Default,,0,0,0,,{\i1}(theme music playing){\i0}
+Dialogue: 0,0:05:53.32,0:05:55.02,Default,,0,0,0,,Earlier in our show,\Nwe talked about
+Dialogue: 0,0:05:55.02,0:05:56.78,Default,,0,0,0,,transitions in sexuality.
+Dialogue: 0,0:05:56.79,0:05:58.59,Default,,0,0,0,,Uh, but what about race?
+Dialogue: 0,0:05:58.59,0:06:01.02,Default,,0,0,0,,Our correspondent,\NNathan Wielder,
+Dialogue: 0,0:06:01.02,0:06:02.26,Default,,0,0,0,,has the story.
+Dialogue: 0,0:06:11.17,0:06:12.80,Default,,0,0,0,,Harrison looks from the outside
+Dialogue: 0,0:06:12.80,0:06:14.53,Default,,0,0,0,,to be your average teenager.
+Dialogue: 0,0:06:14.54,0:06:17.27,Default,,0,0,0,,He goes to school,\Nplays video games,
+Dialogue: 0,0:06:17.27,0:06:20.01,Default,,0,0,0,,even listens to music\Nin his room.
+Dialogue: 0,0:06:20.01,0:06:21.71,Default,,0,0,0,,But there's one difference.
+Dialogue: 0,0:06:21.71,0:06:24.34,Default,,0,0,0,,I'm a 35-year-old white man.
+Dialogue: 0,0:06:24.35,0:06:26.78,Default,,0,0,0,,{\i1}NATHAN: Harrison,\Nborn Antwoine Smalls,{\i0}
+Dialogue: 0,0:06:26.78,0:06:28.72,Default,,0,0,0,,{\i1}has trans-racial identity,{\i0}
+Dialogue: 0,0:06:28.72,0:06:30.48,Default,,0,0,0,,{\i1}identifying as Harrison Booth,{\i0}
+Dialogue: 0,0:06:30.49,0:06:33.79,Default,,0,0,0,,{\i1}a 35-year-old white man\Nfrom Colorado.{\i0}
+Dialogue: 0,0:06:33.79,0:06:35.29,Default,,0,0,0,,And when did you know\Nthat you were a
+Dialogue: 0,0:06:35.29,0:06:36.89,Default,,0,0,0,,35-year-old white man?
+Dialogue: 0,0:06:36.89,0:06:38.46,Default,,0,0,0,,Well, I've always\Nfelt different.
+Dialogue: 0,0:06:38.46,0:06:40.86,Default,,0,0,0,,I go to the store, the movies,
+Dialogue: 0,0:06:40.86,0:06:42.40,Default,,0,0,0,,and just be thinking\Nto myself, like,
+Dialogue: 0,0:06:42.40,0:06:45.63,Default,,0,0,0,,"Why am I not getting\Nthe respect I deserve?"
+Dialogue: 0,0:06:45.63,0:06:48.80,Default,,0,0,0,,And then, it just hit me.
+Dialogue: 0,0:06:48.80,0:06:50.90,Default,,0,0,0,,I'm white...
+Dialogue: 0,0:06:50.91,0:06:52.67,Default,,0,0,0,,and 35.
+Dialogue: 0,0:06:52.67,0:06:54.74,Default,,0,0,0,,I just miss Colorado sometimes,\Nyou know.
+Dialogue: 0,0:06:54.74,0:06:56.64,Default,,0,0,0,,Here, I pretend the buildings\Nare the old
+Dialogue: 0,0:06:56.65,0:06:59.25,Default,,0,0,0,,San Juan Mountain ranges but,\Nyou know, the jobs is here.
+Dialogue: 0,0:06:59.25,0:07:00.75,Default,,0,0,0,,And where do you work?
+Dialogue: 0,0:07:00.75,0:07:02.52,Default,,0,0,0,,I'm a Systems Engineer\Nfor Coca-Cola.
+Dialogue: 0,0:07:02.52,0:07:03.48,Default,,0,0,0,,Oh. Okay.
+Dialogue: 0,0:07:03.49,0:07:04.72,Default,,0,0,0,,That boy don't work.
+Dialogue: 0,0:07:04.72,0:07:06.32,Default,,0,0,0,,He go to school, and that's it.
+Dialogue: 0,0:07:06.32,0:07:07.52,Default,,0,0,0,,- Mm-hmm.\N- One day, he said,
+Dialogue: 0,0:07:07.52,0:07:09.19,Default,,0,0,0,,"Call me Harrison."
+Dialogue: 0,0:07:09.19,0:07:11.16,Default,,0,0,0,,I said, "Who's that?"
+Dialogue: 0,0:07:11.16,0:07:12.56,Default,,0,0,0,,He said, "Me."
+Dialogue: 0,0:07:12.56,0:07:15.06,Default,,0,0,0,,Do you believe\Nthat he is a white man?
+Dialogue: 0,0:07:15.06,0:07:16.70,Default,,0,0,0,,I mean, he isn't.
+Dialogue: 0,0:07:16.70,0:07:18.57,Default,,0,0,0,,(bleep), I'd love\Nto wake up one day and say,
+Dialogue: 0,0:07:18.57,0:07:20.77,Default,,0,0,0,,"Hey, everybody,\NI'm Rihanna."
+Dialogue: 0,0:07:20.77,0:07:21.77,Default,,0,0,0,,But I ain't.
+Dialogue: 0,0:07:21.77,0:07:22.77,Default,,0,0,0,,It's been pretty hard.
+Dialogue: 0,0:07:22.77,0:07:24.60,Default,,0,0,0,,My family just doesn't get it.
+Dialogue: 0,0:07:24.61,0:07:26.84,Default,,0,0,0,,You know, I try to get them\Nto go out with me,
+Dialogue: 0,0:07:26.84,0:07:29.01,Default,,0,0,0,,go on walks,\Ngo to the farmers market,
+Dialogue: 0,0:07:29.01,0:07:31.88,Default,,0,0,0,,chat with people,\Nbut... yeah.
+Dialogue: 0,0:07:31.88,0:07:34.71,Default,,0,0,0,,So why don't you think\Nthat they get it?
+Dialogue: 0,0:07:34.72,0:07:36.45,Default,,0,0,0,,I don't think\Nthey get it because
+Dialogue: 0,0:07:36.45,0:07:38.79,Default,,0,0,0,,they don't realize that race\Nis just a made-up thing.
+Dialogue: 0,0:07:38.79,0:07:40.02,Default,,0,0,0,,Mm-hmm.
+Dialogue: 0,0:07:40.02,0:07:41.35,Default,,0,0,0,,They grew up\Nhaving labels, and me,
+Dialogue: 0,0:07:41.36,0:07:42.79,Default,,0,0,0,,I'm just... I'm just\Nnot like that.
+Dialogue: 0,0:07:42.79,0:07:44.12,Default,,0,0,0,,I see.
+Dialogue: 0,0:07:44.13,0:07:46.46,Default,,0,0,0,,So how do you embrace\Nyour identity?
+Dialogue: 0,0:07:46.46,0:07:47.96,Default,,0,0,0,,- I dress a certain way.\N- Ah.
+Dialogue: 0,0:07:47.96,0:07:49.20,Default,,0,0,0,,Patagonia.
+Dialogue: 0,0:07:49.20,0:07:51.10,Default,,0,0,0,,I wear a thick,\Nbrown leather belt.
+Dialogue: 0,0:07:51.10,0:07:53.40,Default,,0,0,0,,I like to envision myself\Nafter the surgery.
+Dialogue: 0,0:07:53.40,0:07:54.90,Default,,0,0,0,,(clears throat)
+Dialogue: 0,0:07:54.90,0:07:58.31,Default,,0,0,0,,"Hey, excuse me,\Nwhat IPA do you have on tap?"
+Dialogue: 0,0:07:58.31,0:08:02.58,Default,,0,0,0,,"Hey, did you see\N{\i1}Game of Thrones{\i0} last night?"
+Dialogue: 0,0:08:02.58,0:08:04.08,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:08:04.08,0:08:05.78,Default,,0,0,0,,So your...\NYour surgery,
+Dialogue: 0,0:08:05.78,0:08:06.95,Default,,0,0,0,,that's later this year?
+Dialogue: 0,0:08:06.95,0:08:08.28,Default,,0,0,0,,Right.\NI started working
+Dialogue: 0,0:08:08.28,0:08:10.05,Default,,0,0,0,,at Stonecrest Mall, so hopefully
+Dialogue: 0,0:08:10.05,0:08:12.12,Default,,0,0,0,,by then I have enough money\Nto take the next step.
+Dialogue: 0,0:08:12.12,0:08:13.49,Default,,0,0,0,,Mm-hmm.
+Dialogue: 0,0:08:13.49,0:08:16.89,Default,,0,0,0,,So you work at Coca-Cola\Nand the mall?
+Dialogue: 0,0:08:16.89,0:08:20.16,Default,,0,0,0,,Right.\NCorrect, I work at both.
+Dialogue: 0,0:08:20.16,0:08:21.96,Default,,0,0,0,,{\i1}NATHAN: Harrison\Nhas been planning{\i0}
+Dialogue: 0,0:08:21.96,0:08:24.80,Default,,0,0,0,,{\i1}a full racial transition\Nwith a Dr. Samuel Vergara{\i0}
+Dialogue: 0,0:08:24.80,0:08:26.63,Default,,0,0,0,,{\i1}who guarantees Harrison\Ncan visually transition{\i0}
+Dialogue: 0,0:08:26.64,0:08:28.47,Default,,0,0,0,,{\i1}through an experimental\Nprocedure{\i0}
+Dialogue: 0,0:08:28.47,0:08:30.80,Default,,0,0,0,,{\i1}that will allow Harrison\Nnot only to be a white man{\i0}
+Dialogue: 0,0:08:30.81,0:08:32.41,Default,,0,0,0,,{\i1}but whatever race he chooses.{\i0}
+Dialogue: 0,0:08:32.41,0:08:36.41,Default,,0,0,0,,The procedure's\Nabsolutely 100% possible.
+Dialogue: 0,0:08:36.41,0:08:38.68,Default,,0,0,0,,He's gonna look weird though.
+Dialogue: 0,0:08:38.68,0:08:40.48,Default,,0,0,0,,{\i1}NATHAN: But before Harrison\Ncan fully realize{\i0}
+Dialogue: 0,0:08:40.48,0:08:43.18,Default,,0,0,0,,{\i1}his physical identity,\Nhe still has the day-to-day{\i0}
+Dialogue: 0,0:08:43.19,0:08:45.92,Default,,0,0,0,,{\i1}that's filled with\Ndiscrimination and ridicule.{\i0}
+Dialogue: 0,0:08:45.92,0:08:47.35,Default,,0,0,0,,It... it's pretty awful,\Nyou know.
+Dialogue: 0,0:08:47.36,0:08:49.09,Default,,0,0,0,,You... you walk\Nin the streets,
+Dialogue: 0,0:08:49.09,0:08:51.29,Default,,0,0,0,,and black people, they see you,\Nthey nod to you like,
+Dialogue: 0,0:08:51.29,0:08:53.03,Default,,0,0,0,,"Hey, good to see us."
+Dialogue: 0,0:08:53.03,0:08:55.30,Default,,0,0,0,,And it's to the point\Nwhere I've just given up.
+Dialogue: 0,0:08:55.30,0:08:57.00,Default,,0,0,0,,I've stopped trying\Nto convince them
+Dialogue: 0,0:08:57.00,0:08:59.77,Default,,0,0,0,,- that I'm not "us."\N- Gotcha.
+Dialogue: 0,0:08:59.77,0:09:02.10,Default,,0,0,0,,Hey, excuse me,\Nthis is definitely the guy.
+Dialogue: 0,0:09:02.10,0:09:04.14,Default,,0,0,0,,He doesn't even live\Nin the area.
+Dialogue: 0,0:09:04.14,0:09:05.77,Default,,0,0,0,,I've never seen him before.
+Dialogue: 0,0:09:10.18,0:09:13.18,Default,,0,0,0,,{\i1}(police radio chatter){\i0}
+Dialogue: 0,0:09:13.18,0:09:15.12,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:09:15.12,0:09:17.22,Default,,0,0,0,,{\i1}HARRISON: I think\Nwe're taking slow strides,{\i0}
+Dialogue: 0,0:09:17.22,0:09:19.35,Default,,0,0,0,,{\i1}but you have to believe\Nthings are getting better,{\i0}
+Dialogue: 0,0:09:19.35,0:09:21.49,Default,,0,0,0,,{\i1}otherwise,\Nyou'll just die inside.{\i0}
+Dialogue: 0,0:09:21.49,0:09:23.19,Default,,0,0,0,,Is there anything\Nyou'd like to say to
+Dialogue: 0,0:09:23.19,0:09:25.29,Default,,0,0,0,,other black kids out there\Nwho may be going through
+Dialogue: 0,0:09:25.29,0:09:26.99,Default,,0,0,0,,the same thing?
+Dialogue: 0,0:09:27.00,0:09:28.29,Default,,0,0,0,,Just be you.
+Dialogue: 0,0:09:28.30,0:09:30.13,Default,,0,0,0,,At all costs.
+Dialogue: 0,0:09:30.13,0:09:31.80,Default,,0,0,0,,But also,
+Dialogue: 0,0:09:31.80,0:09:34.37,Default,,0,0,0,,stop dressing so crazy.
+Dialogue: 0,0:09:34.37,0:09:35.84,Default,,0,0,0,,Hmm.
+Dialogue: 0,0:09:35.84,0:09:38.84,Default,,0,0,0,,{\i1}(gentle instrumental music){\i0}
+Dialogue: 0,0:09:38.84,0:09:45.78,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:09:49.85,0:09:52.82,Default,,0,0,0,,{\i1}(guitar music flourishes){\i0}
+Dialogue: 0,0:09:52.82,0:09:54.45,Default,,0,0,0,,Absolutely.
+Dialogue: 0,0:09:55.56,0:09:57.19,Default,,0,0,0,,Hi.
+Dialogue: 0,0:09:57.19,0:09:59.53,Default,,0,0,0,,I'm Devyonne Johnson,\Nfamous movie star.
+Dialogue: 0,0:09:59.53,0:10:02.20,Default,,0,0,0,,When the director calls cut\Nand I get a quick five,
+Dialogue: 0,0:10:02.20,0:10:04.66,Default,,0,0,0,,you know I'm reaching\Nfor the smooth taste
+Dialogue: 0,0:10:04.67,0:10:06.60,Default,,0,0,0,,of Swisher Sweets.
+Dialogue: 0,0:10:06.60,0:10:09.37,Default,,0,0,0,,{\i1}Swisher Sweets are the only\Ncigarillos made with{\i0}
+Dialogue: 0,0:10:09.37,0:10:12.91,Default,,0,0,0,,{\i1}the highest quality tobacco\Nfrom family-owned farms.{\i0}
+Dialogue: 0,0:10:12.91,0:10:14.91,Default,,0,0,0,,{\i1}It's their high standards\Nand experience{\i0}
+Dialogue: 0,0:10:14.91,0:10:18.45,Default,,0,0,0,,{\i1}that make for a quality smoke\Nyou can enjoy every time.{\i0}
+Dialogue: 0,0:10:19.68,0:10:21.08,Default,,0,0,0,,(sniffs)
+Dialogue: 0,0:10:23.35,0:10:24.35,Default,,0,0,0,,(click)
+Dialogue: 0,0:10:24.35,0:10:31.12,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:10:32.59,0:10:35.86,Default,,0,0,0,,(blows)
+Dialogue: 0,0:10:35.86,0:10:37.53,Default,,0,0,0,,Yeah...\N(chuckles)
+Dialogue: 0,0:10:39.27,0:10:41.03,Default,,0,0,0,,I only smoke Swisher Sweets.
+Dialogue: 0,0:10:42.70,0:10:44.34,Default,,0,0,0,,It's the smooth taste.
+Dialogue: 0,0:10:46.41,0:10:49.61,Default,,0,0,0,,These Swisher Sweets\Nis good as hell.
+Dialogue: 0,0:10:49.61,0:10:53.15,Default,,0,0,0,,Here, make sure\Nthis one's empty.
+Dialogue: 0,0:10:53.15,0:10:54.61,Default,,0,0,0,,Swisher Sweets.
+Dialogue: 0,0:10:54.62,0:10:56.22,Default,,0,0,0,,There's just\Nsomething about 'em.
+Dialogue: 0,0:10:56.22,0:10:59.15,Default,,0,0,0,,And try our new pre-dumps\NSwisher Sweets as well.
+Dialogue: 0,0:11:05.93,0:11:08.93,Default,,0,0,0,,{\i1}(mellow jazz music){\i0}
+Dialogue: 0,0:11:08.93,0:11:12.90,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:11:14.00,0:11:17.34,Default,,0,0,0,,{\i1}(theme music playing){\i0}
+Dialogue: 0,0:11:17.34,0:11:19.41,Default,,0,0,0,,And we're back.\NAnd today we're talking about
+Dialogue: 0,0:11:19.41,0:11:21.27,Default,,0,0,0,,transitions with my guests,
+Dialogue: 0,0:11:21.28,0:11:24.74,Default,,0,0,0,,Atlanta rapper Paper Boi\Nand Dr. Debra Holt.
+Dialogue: 0,0:11:24.75,0:11:27.81,Default,,0,0,0,,Ah, Paper Boi, are you afraid\Nto speak your mind
+Dialogue: 0,0:11:27.82,0:11:29.45,Default,,0,0,0,,on this subject?
+Dialogue: 0,0:11:29.45,0:11:31.92,Default,,0,0,0,,Actually, yup, I am.
+Dialogue: 0,0:11:31.92,0:11:33.95,Default,,0,0,0,,You can't say real (bleep)\Nanymore without somebody
+Dialogue: 0,0:11:33.96,0:11:36.16,Default,,0,0,0,,trying to make sure\Nyou never make money forever.
+Dialogue: 0,0:11:36.16,0:11:37.59,Default,,0,0,0,,FRANKLIN: So you think\Nyou're being persecuted?
+Dialogue: 0,0:11:37.59,0:11:39.26,Default,,0,0,0,,Yes, I am.
+Dialogue: 0,0:11:39.26,0:11:40.96,Default,,0,0,0,,Man, you can't even say\N"ho" in a song no more.
+Dialogue: 0,0:11:40.96,0:11:42.63,Default,,0,0,0,,(scoffs)\NA travesty, I'm sure.
+Dialogue: 0,0:11:42.63,0:11:43.86,Default,,0,0,0,,- (chuckles)\NALFRED: Yo, why you...
+Dialogue: 0,0:11:43.87,0:11:45.43,Default,,0,0,0,,Yo, why you talk like that?
+Dialogue: 0,0:11:45.43,0:11:46.93,Default,,0,0,0,,Like, "a travesty, I'm sur..."\Nlike, what?
+Dialogue: 0,0:11:46.94,0:11:48.87,Default,,0,0,0,,You're... you're whining\Nabout chickens
+Dialogue: 0,0:11:48.87,0:11:50.30,Default,,0,0,0,,- coming home to roost.\N- No-no-no-no-no.
+Dialogue: 0,0:11:50.31,0:11:52.21,Default,,0,0,0,,Rap is chickens\Ncoming home to roost.
+Dialogue: 0,0:11:52.21,0:11:54.94,Default,,0,0,0,,Look, my life is messed up\Nfrom (bleep) y'all did, okay?
+Dialogue: 0,0:11:54.94,0:11:56.51,Default,,0,0,0,,That's black news.\NYou can look that up.
+Dialogue: 0,0:11:56.51,0:11:58.21,Default,,0,0,0,,Well, your news is problematic.
+Dialogue: 0,0:11:58.21,0:12:00.05,Default,,0,0,0,,- Bitch, that ain't my fault!\N- Whoa, whoa, whoa!
+Dialogue: 0,0:12:00.05,0:12:01.68,Default,,0,0,0,,I won't have you on my show\Ncalling anyone "bitches."
+Dialogue: 0,0:12:01.68,0:12:03.05,Default,,0,0,0,,How you gonna blame me\Nfor news being bad, huh?
+Dialogue: 0,0:12:03.05,0:12:04.55,Default,,0,0,0,,FRANKLIN: All right,\Nsimmer down, simmer down.
+Dialogue: 0,0:12:04.55,0:12:05.99,Default,,0,0,0,,You can't even have\Nan intelligent dialogue
+Dialogue: 0,0:12:05.99,0:12:07.79,Default,,0,0,0,,- without spewing profanities.\N- (groans)
+Dialogue: 0,0:12:07.79,0:12:09.19,Default,,0,0,0,,- It's... it's ludicrous.\NFRANKLIN: Okay, okay, okay.
+Dialogue: 0,0:12:09.19,0:12:12.29,Default,,0,0,0,,Paper Boi,\Nisn't a lack of a father
+Dialogue: 0,0:12:12.29,0:12:14.46,Default,,0,0,0,,the reason you hate transpeople?
+Dialogue: 0,0:12:14.46,0:12:15.86,Default,,0,0,0,,What?\NLack of a father?
+Dialogue: 0,0:12:15.86,0:12:17.66,Default,,0,0,0,,Man, you hear yourself?\N(bleep), shut up.
+Dialogue: 0,0:12:17.67,0:12:18.97,Default,,0,0,0,,Man, here's the thing.
+Dialogue: 0,0:12:18.97,0:12:20.70,Default,,0,0,0,,Man, I...\NIt's hard for me to care
+Dialogue: 0,0:12:20.70,0:12:22.47,Default,,0,0,0,,about this when nobody\Ncares about me
+Dialogue: 0,0:12:22.47,0:12:24.24,Default,,0,0,0,,as a black human man,\Nyou feel me?
+Dialogue: 0,0:12:24.24,0:12:26.04,Default,,0,0,0,,Like, Caitlyn Jenner\Nis just doing
+Dialogue: 0,0:12:26.04,0:12:27.67,Default,,0,0,0,,what rich white men been doing\Nsince the dawn of time,
+Dialogue: 0,0:12:27.68,0:12:29.31,Default,,0,0,0,,which is whatever\Nthe hell he want.
+Dialogue: 0,0:12:29.31,0:12:31.98,Default,,0,0,0,,So why should I care?\NWhat make him so special?
+Dialogue: 0,0:12:31.98,0:12:33.71,Default,,0,0,0,,But... but as a black man\Nin this country,
+Dialogue: 0,0:12:33.72,0:12:35.88,Default,,0,0,0,,shouldn't you care about\Nthe civil liberties of others,
+Dialogue: 0,0:12:35.88,0:12:37.35,Default,,0,0,0,,since they're\Nso closely related to... to
+Dialogue: 0,0:12:37.35,0:12:38.75,Default,,0,0,0,,your struggle for equality?
+Dialogue: 0,0:12:38.75,0:12:40.55,Default,,0,0,0,,What you talking 'bout?\NI do care.
+Dialogue: 0,0:12:40.56,0:12:42.49,Default,,0,0,0,,Look, I don't have a problem\Nwith gay people, transpeople,
+Dialogue: 0,0:12:42.49,0:12:44.16,Default,,0,0,0,,because that's tolerance,\Nbut where's tolerance
+Dialogue: 0,0:12:44.16,0:12:46.56,Default,,0,0,0,,for people like me?\NYou know what I'm saying?
+Dialogue: 0,0:12:46.56,0:12:50.00,Default,,0,0,0,,Like...\N(sighs) Look.
+Dialogue: 0,0:12:50.00,0:12:51.90,Default,,0,0,0,,I should be able\Nto say something is weird
+Dialogue: 0,0:12:51.90,0:12:53.77,Default,,0,0,0,,without people hating on me.\NAll right?
+Dialogue: 0,0:12:53.77,0:12:56.57,Default,,0,0,0,,Look, I never...\NI never said anything
+Dialogue: 0,0:12:56.57,0:12:58.00,Default,,0,0,0,,about taking away\Nnobody's rights.
+Dialogue: 0,0:12:58.01,0:12:59.27,Default,,0,0,0,,A'ight? Never.
+Dialogue: 0,0:12:59.27,0:13:00.74,Default,,0,0,0,,I... I understand\Nwhat you're saying,
+Dialogue: 0,0:13:00.74,0:13:03.11,Default,,0,0,0,,but... but some people\Nfound your remarks offensive.
+Dialogue: 0,0:13:03.11,0:13:06.11,Default,,0,0,0,,Yeah, well,\Nfreedom of speech, (bleep).
+Dialogue: 0,0:13:07.28,0:13:09.72,Default,,0,0,0,,No, you're right.
+Dialogue: 0,0:13:09.72,0:13:11.28,Default,,0,0,0,,I agree.
+Dialogue: 0,0:13:16.29,0:13:20.43,Default,,0,0,0,,But your music is detrimental\Nto black teens.
+Dialogue: 0,0:13:20.43,0:13:23.63,Default,,0,0,0,,(scoffs) Yeah, but so is\Nall rap music, right?
+Dialogue: 0,0:13:23.63,0:13:24.93,Default,,0,0,0,,- I mean, and rock music...\N- Rock.
+Dialogue: 0,0:13:24.93,0:13:26.27,Default,,0,0,0,,Before it was taken over by rap.
+Dialogue: 0,0:13:26.27,0:13:28.30,Default,,0,0,0,,Yeah, I agree.
+Dialogue: 0,0:13:28.30,0:13:31.10,Default,,0,0,0,,You hate... women!
+Dialogue: 0,0:13:31.11,0:13:32.27,Default,,0,0,0,,(bleep), what?
+Dialogue: 0,0:13:32.27,0:13:36.48,Default,,0,0,0,,{\i1}(theme music playing){\i0}
+Dialogue: 0,0:13:36.48,0:13:38.54,Default,,0,0,0,,Questions.
+Dialogue: 0,0:13:38.55,0:13:40.48,Default,,0,0,0,,The universe.
+Dialogue: 0,0:13:40.48,0:13:42.78,Default,,0,0,0,,Paternity tests?
+Dialogue: 0,0:13:42.78,0:13:44.28,Default,,0,0,0,,Salutations.
+Dialogue: 0,0:13:44.29,0:13:45.92,Default,,0,0,0,,{\i1}(gentle music){\i0}
+Dialogue: 0,0:13:45.92,0:13:48.32,Default,,0,0,0,,Hi.\NMy name is Ahmad White.
+Dialogue: 0,0:13:48.32,0:13:50.46,Default,,0,0,0,,You may know me\Nfrom your dreams.
+Dialogue: 0,0:13:50.46,0:13:51.82,Default,,0,0,0,,Call this number below
+Dialogue: 0,0:13:51.83,0:13:54.16,Default,,0,0,0,,and get the answers you deserve.
+Dialogue: 0,0:13:54.16,0:13:55.30,Default,,0,0,0,,{\i1}(upbeat music){\i0}
+Dialogue: 0,0:13:55.30,0:13:56.83,Default,,0,0,0,,When I called Ahmad White,
+Dialogue: 0,0:13:56.83,0:13:58.97,Default,,0,0,0,,I was three months behind\Non my car note.
+Dialogue: 0,0:13:58.97,0:14:01.23,Default,,0,0,0,,(scoffs) My stepson,\Nhe was in jail.
+Dialogue: 0,0:14:01.24,0:14:04.27,Default,,0,0,0,,My life was in shambles!
+Dialogue: 0,0:14:04.27,0:14:05.91,Default,,0,0,0,,But now, I got a truck,
+Dialogue: 0,0:14:05.91,0:14:08.64,Default,,0,0,0,,I got a girlfriend,
+Dialogue: 0,0:14:08.64,0:14:11.01,Default,,0,0,0,,I got the answers I deserve.
+Dialogue: 0,0:14:11.01,0:14:13.31,Default,,0,0,0,,Thank you, Ahmad White.
+Dialogue: 0,0:14:13.32,0:14:14.81,Default,,0,0,0,,Most people don't realize
+Dialogue: 0,0:14:14.82,0:14:17.62,Default,,0,0,0,,their chakra's\Nin another universe.
+Dialogue: 0,0:14:17.62,0:14:19.32,Default,,0,0,0,,Don't be dumb.
+Dialogue: 0,0:14:19.32,0:14:20.95,Default,,0,0,0,,Call now.
+Dialogue: 0,0:14:20.96,0:14:23.99,Default,,0,0,0,,Me and Ahmad found out\NI was a moon sign,
+Dialogue: 0,0:14:23.99,0:14:26.49,Default,,0,0,0,,and I wasn't getting enough\Ncrystal in my diet.
+Dialogue: 0,0:14:26.49,0:14:29.50,Default,,0,0,0,,Now, I live in a beautiful home.
+Dialogue: 0,0:14:29.50,0:14:31.80,Default,,0,0,0,,Ahmad gave me the answers\NI was looking for.
+Dialogue: 0,0:14:31.80,0:14:33.27,Default,,0,0,0,,Come to our Liberty Center
+Dialogue: 0,0:14:33.27,0:14:35.97,Default,,0,0,0,,and get a free juice\Nand Nutella sandwich.
+Dialogue: 0,0:14:35.97,0:14:39.31,Default,,0,0,0,,When I called Ahmad,\Nmy life was going nowhere fast.
+Dialogue: 0,0:14:39.31,0:14:41.51,Default,,0,0,0,,After a Nutella sandwich\Nand juice,
+Dialogue: 0,0:14:41.51,0:14:43.51,Default,,0,0,0,,my life's a lot better.
+Dialogue: 0,0:14:43.51,0:14:46.68,Default,,0,0,0,,{\i1}(upbeat tone sustained){\i0}
+Dialogue: 0,0:14:46.68,0:14:48.01,Default,,0,0,0,,Open your third eye.
+Dialogue: 0,0:14:48.02,0:14:49.65,Default,,0,0,0,,He works.
+Dialogue: 0,0:14:49.65,0:14:51.18,Default,,0,0,0,,He just works.
+Dialogue: 0,0:14:51.19,0:14:54.35,Default,,0,0,0,,He works.\NHe really works.
+Dialogue: 0,0:14:54.36,0:14:56.72,Default,,0,0,0,,He works.\NHe really, really works.
+Dialogue: 0,0:14:56.73,0:14:59.16,Default,,0,0,0,,Knowledge is the path\Nto greatness.
+Dialogue: 0,0:14:59.16,0:15:01.99,Default,,0,0,0,,If you'd like to be\Nsmart as a baby dolphin,
+Dialogue: 0,0:15:02.00,0:15:03.63,Default,,0,0,0,,call now.
+Dialogue: 0,0:15:03.63,0:15:06.57,Default,,0,0,0,,{\i1}(ethereal music){\i0}
+Dialogue: 0,0:15:09.70,0:15:12.71,Default,,0,0,0,,{\i1}(upbeat hip-hop instrumental\Nmusic){\i0}
+Dialogue: 0,0:15:12.71,0:15:14.71,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:15:14.71,0:15:16.44,Default,,0,0,0,,(engine revs)
+Dialogue: 0,0:15:22.08,0:15:23.65,Default,,0,0,0,,That's a nice car.
+Dialogue: 0,0:15:23.65,0:15:25.25,Default,,0,0,0,,You know him?
+Dialogue: 0,0:15:25.25,0:15:27.35,Default,,0,0,0,,That's Victor Wallace.
+Dialogue: 0,0:15:27.36,0:15:29.89,Default,,0,0,0,,His wife left him\Nfor his brother.
+Dialogue: 0,0:15:29.89,0:15:31.89,Default,,0,0,0,,Long court battle.
+Dialogue: 0,0:15:31.89,0:15:34.16,Default,,0,0,0,,Kids, house...
+Dialogue: 0,0:15:34.16,0:15:36.56,Default,,0,0,0,,It got messy.
+Dialogue: 0,0:15:36.56,0:15:39.57,Default,,0,0,0,,He ain't say one word\Nthe whole trial.
+Dialogue: 0,0:15:39.57,0:15:42.10,Default,,0,0,0,,But then at the end,\Nhe just stood up and said,
+Dialogue: 0,0:15:42.10,0:15:45.14,Default,,0,0,0,,"Leave me my Dodge Charger."
+Dialogue: 0,0:15:48.54,0:15:50.91,Default,,0,0,0,,He been driving around\Nthis neighborhood
+Dialogue: 0,0:15:50.91,0:15:52.78,Default,,0,0,0,,in circles for a week.
+Dialogue: 0,0:15:52.78,0:15:56.25,Default,,0,0,0,,- Just waving.\N- Mm.
+Dialogue: 0,0:15:56.25,0:15:58.38,Default,,0,0,0,,Nice car though.
+Dialogue: 0,0:15:58.39,0:15:59.79,Default,,0,0,0,,(nozzle fumbling)
+Dialogue: 0,0:15:59.79,0:16:02.86,Default,,0,0,0,,{\i1}(upbeat hip-hop instrumental\Nmusic){\i0}
+Dialogue: 0,0:16:02.86,0:16:08.19,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:16:08.20,0:16:09.53,Default,,0,0,0,,(tires screech)
+Dialogue: 0,0:16:09.53,0:16:11.10,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:16:11.10,0:16:14.33,Default,,0,0,0,,{\i1}MAN: The Dodge Charger.\NKeep it in the divorce.{\i0}
+Dialogue: 0,0:16:16.40,0:16:18.81,Default,,0,0,0,,(gasps)\NKing Coco's Crunch-O's.
+Dialogue: 0,0:16:18.81,0:16:21.14,Default,,0,0,0,,The legend is true!
+Dialogue: 0,0:16:21.14,0:16:22.21,Default,,0,0,0,,(creaking)
+Dialogue: 0,0:16:22.21,0:16:24.04,Default,,0,0,0,,Gimme that crunch!
+Dialogue: 0,0:16:24.05,0:16:25.48,Default,,0,0,0,,No!
+Dialogue: 0,0:16:25.48,0:16:26.48,Default,,0,0,0,,(grunts)
+Dialogue: 0,0:16:26.48,0:16:27.75,Default,,0,0,0,,Nice try.
+Dialogue: 0,0:16:27.75,0:16:28.82,Default,,0,0,0,,But only kids can have...
+Dialogue: 0,0:16:28.82,0:16:31.05,Default,,0,0,0,,all: Coconut Crunch-O's.
+Dialogue: 0,0:16:31.05,0:16:33.15,Default,,0,0,0,,{\i1}WOLF: That chocolatey\Ncoconut crunch{\i0}
+Dialogue: 0,0:16:33.15,0:16:34.99,Default,,0,0,0,,{\i1}in every bite.\N(crunches){\i0}
+Dialogue: 0,0:16:34.99,0:16:37.22,Default,,0,0,0,,{\i1}Oh, I can almost taste it!{\i0}
+Dialogue: 0,0:16:37.23,0:16:38.72,Default,,0,0,0,,Bbbbbb!
+Dialogue: 0,0:16:38.73,0:16:39.96,Default,,0,0,0,,(train horn whistles)
+Dialogue: 0,0:16:39.96,0:16:42.40,Default,,0,0,0,,Oh, I got to have\Nthem Crunch-O's!
+Dialogue: 0,0:16:42.40,0:16:43.76,Default,,0,0,0,,- (grunts)\N- Ow! Ow!
+Dialogue: 0,0:16:43.77,0:16:45.50,Default,,0,0,0,,Man!\NOw!
+Dialogue: 0,0:16:45.50,0:16:47.73,Default,,0,0,0,,- Stop resisting.\N- (pained groans)
+Dialogue: 0,0:16:47.74,0:16:49.64,Default,,0,0,0,,- Stop resisting, sir.\N- (pained struggle) Damn!
+Dialogue: 0,0:16:49.64,0:16:51.67,Default,,0,0,0,,- Stop... resisting.\N- Shit, man!
+Dialogue: 0,0:16:51.67,0:16:53.81,Default,,0,0,0,,Oh! Mother...\N(grunts)
+Dialogue: 0,0:16:53.81,0:16:55.01,Default,,0,0,0,,Stay down.\N(handcuffs click)
+Dialogue: 0,0:16:55.01,0:16:56.24,Default,,0,0,0,,What happened?
+Dialogue: 0,0:16:56.24,0:16:57.44,Default,,0,0,0,,He's going to jail.
+Dialogue: 0,0:16:57.45,0:16:58.51,Default,,0,0,0,,That's what happened.
+Dialogue: 0,0:16:58.51,0:17:00.35,Default,,0,0,0,,This is some bullshit!
+Dialogue: 0,0:17:00.35,0:17:01.41,Default,,0,0,0,,You all right?
+Dialogue: 0,0:17:01.42,0:17:02.68,Default,,0,0,0,,He's fine.
+Dialogue: 0,0:17:02.68,0:17:04.65,Default,,0,0,0,,He just doesn't wanna\Ngo to jail.
+Dialogue: 0,0:17:04.65,0:17:05.95,Default,,0,0,0,,You sitting on my back, man!
+Dialogue: 0,0:17:05.95,0:17:06.95,Default,,0,0,0,,(bones crack)\NAh!
+Dialogue: 0,0:17:06.96,0:17:08.19,Default,,0,0,0,,Sir, be quiet.
+Dialogue: 0,0:17:08.19,0:17:09.82,Default,,0,0,0,,Yo!\NYou sitting on his back!
+Dialogue: 0,0:17:09.82,0:17:11.69,Default,,0,0,0,,He was trying\Nto steal your cereal, right?
+Dialogue: 0,0:17:11.69,0:17:13.59,Default,,0,0,0,,I mean, it's just cereal.
+Dialogue: 0,0:17:13.60,0:17:14.69,Default,,0,0,0,,He can have it!
+Dialogue: 0,0:17:14.70,0:17:16.66,Default,,0,0,0,,Man, I'm just hungry, man!
+Dialogue: 0,0:17:16.66,0:17:18.66,Default,,0,0,0,,They don't let wolves\Nin stores, man!
+Dialogue: 0,0:17:18.67,0:17:20.10,Default,,0,0,0,,Step back, guys.
+Dialogue: 0,0:17:20.10,0:17:21.53,Default,,0,0,0,,I'm going to\Nlift the offender up.
+Dialogue: 0,0:17:21.54,0:17:23.94,Default,,0,0,0,,We are now going\Nto our feet, sir.
+Dialogue: 0,0:17:23.94,0:17:25.71,Default,,0,0,0,,Let's go, sir, let's go.
+Dialogue: 0,0:17:25.71,0:17:27.81,Default,,0,0,0,,Nigga, I could be\Neating these kids!
+Dialogue: 0,0:17:27.81,0:17:29.71,Default,,0,0,0,,But I'm out here eating cereal!
+Dialogue: 0,0:17:29.71,0:17:31.11,Default,,0,0,0,,Hey, it's cool!
+Dialogue: 0,0:17:31.11,0:17:32.85,Default,,0,0,0,,We'll just give him the cereal.
+Dialogue: 0,0:17:32.85,0:17:34.21,Default,,0,0,0,,No, only kids
+Dialogue: 0,0:17:34.22,0:17:36.55,Default,,0,0,0,,can have Coconut Crunch-O's.\NYou know that.
+Dialogue: 0,0:17:36.55,0:17:38.15,Default,,0,0,0,,(tsks)\NThat's a wack law.
+Dialogue: 0,0:17:38.15,0:17:40.85,Default,,0,0,0,,This fool know he eat\NCoconut Crunch-O's,
+Dialogue: 0,0:17:40.86,0:17:42.79,Default,,0,0,0,,and you ain't no kid!
+Dialogue: 0,0:17:42.79,0:17:44.89,Default,,0,0,0,,Let me do my job.
+Dialogue: 0,0:17:44.89,0:17:47.73,Default,,0,0,0,,I said back up... sir!
+Dialogue: 0,0:17:47.73,0:17:52.03,Default,,0,0,0,,{\i1}(brooding dramatic music){\i0}
+Dialogue: 0,0:17:52.03,0:17:54.57,Default,,0,0,0,,(crunches)
+Dialogue: 0,0:17:56.97,0:17:58.47,Default,,0,0,0,,{\i1}MAN: Coconut Crunch-O's{\i0}
+Dialogue: 0,0:17:58.47,0:18:00.57,Default,,0,0,0,,{\i1}is a part of\Nthis balanced breakfast.{\i0}
+Dialogue: 0,0:18:00.58,0:18:04.34,Default,,0,0,0,,{\i1}(theme music playing){\i0}
+Dialogue: 0,0:18:04.35,0:18:07.05,Default,,0,0,0,,Earlier we showed a clip\Nabout a young man
+Dialogue: 0,0:18:07.05,0:18:09.98,Default,,0,0,0,,dealing with trans-racial\Nidentity.
+Dialogue: 0,0:18:09.98,0:18:13.52,Default,,0,0,0,,Well, we've got him joining us\Nvia Facebook video chat.
+Dialogue: 0,0:18:13.52,0:18:16.22,Default,,0,0,0,,Please welcome\NAntwoine Smalls to the show.
+Dialogue: 0,0:18:16.22,0:18:19.09,Default,,0,0,0,,Hello, Montague, thank you\Nfor having me on your show.
+Dialogue: 0,0:18:19.09,0:18:20.83,Default,,0,0,0,,- So now, Antwoine...\NALFRED: (laughs)
+Dialogue: 0,0:18:20.83,0:18:23.43,Default,,0,0,0,,{\i1}- It's Harrison.{\i0}\N- I'm sorry.
+Dialogue: 0,0:18:23.43,0:18:25.73,Default,,0,0,0,,- Harrison.\N- (chuckling)
+Dialogue: 0,0:18:25.73,0:18:28.07,Default,,0,0,0,,FRANKLIN: How's your life been\Nsince we last saw you?
+Dialogue: 0,0:18:28.07,0:18:29.17,Default,,0,0,0,,ALFRED: Ohh...
+Dialogue: 0,0:18:29.17,0:18:30.60,Default,,0,0,0,,It's pretty good.
+Dialogue: 0,0:18:30.61,0:18:32.77,Default,,0,0,0,,I just came back\Nfrom Charleston, South Carolina.
+Dialogue: 0,0:18:32.77,0:18:34.37,Default,,0,0,0,,{\i1}FRANKLIN: Ah.{\i0}\N- Beautiful.
+Dialogue: 0,0:18:34.38,0:18:35.94,Default,,0,0,0,,{\i1}I was checking out\Nsome cheap art spaces{\i0}
+Dialogue: 0,0:18:35.94,0:18:37.71,Default,,0,0,0,,{\i1}for me and a friend\Nthat I made, uh...{\i0}
+Dialogue: 0,0:18:37.71,0:18:39.35,Default,,0,0,0,,What... wait...\NI'm sorry, I'm sorry, I'm sorry.
+Dialogue: 0,0:18:39.35,0:18:41.55,Default,,0,0,0,,Yo. This is dumb.
+Dialogue: 0,0:18:41.55,0:18:43.42,Default,,0,0,0,,- Like, that... this is dumb.\NDEBRA: What...
+Dialogue: 0,0:18:43.42,0:18:45.22,Default,,0,0,0,,{\i1}ALFRED: Like, dude, wait, wait.\NDid you power up?{\i0}
+Dialogue: 0,0:18:45.22,0:18:46.89,Default,,0,0,0,,'Cause you look like\NSuper Saiyan right now.
+Dialogue: 0,0:18:46.89,0:18:48.72,Default,,0,0,0,,Like, is that, like,\Nis that the Goku...
+Dialogue: 0,0:18:48.72,0:18:49.96,Default,,0,0,0,,FRANKLIN: (sighs)\N- Like Dragon Ball collection,
+Dialogue: 0,0:18:49.96,0:18:51.56,Default,,0,0,0,,my (bleep), like?\NYou look like
+Dialogue: 0,0:18:51.56,0:18:53.06,Default,,0,0,0,,- a fake Ellen DeGeneres.\N- This is just...
+Dialogue: 0,0:18:53.06,0:18:54.89,Default,,0,0,0,,- Like a Felon DeGeneres.\N- Okay.
+Dialogue: 0,0:18:54.90,0:18:57.70,Default,,0,0,0,,Look, no-no-no, you look\Nlike Drake Malfoy, dude, like.
+Dialogue: 0,0:18:57.70,0:19:00.20,Default,,0,0,0,,Bangs, my (bleep)?\NLike, nobody told you
+Dialogue: 0,0:19:00.20,0:19:01.87,Default,,0,0,0,,- not to do bangs... Like...\NFRANKLIN: Okay, okay.
+Dialogue: 0,0:19:01.87,0:19:03.97,Default,,0,0,0,,- Nice tolerance.\NFRANKLIN: Mr. Boi.
+Dialogue: 0,0:19:03.97,0:19:05.64,Default,,0,0,0,,ALFRED: What is up... Wait, wait...\N- Okay, okay, thank you.
+Dialogue: 0,0:19:05.64,0:19:07.44,Default,,0,0,0,,- None of y'all? Okay.\NFRANKLIN: Thank you.
+Dialogue: 0,0:19:07.44,0:19:08.77,Default,,0,0,0,,- That is very inappropriate.\N- Sorry, man, go ahead.
+Dialogue: 0,0:19:08.78,0:19:10.61,Default,,0,0,0,,- Shh.\N{\i1}- It's... it's okay.{\i0}
+Dialogue: 0,0:19:10.61,0:19:13.15,Default,,0,0,0,,Sadly, the black community,\Nthey just aren't accepting
+Dialogue: 0,0:19:13.15,0:19:14.78,Default,,0,0,0,,of racial diversity or
+Dialogue: 0,0:19:14.78,0:19:16.32,Default,,0,0,0,,anyone different,\Nfor that matter.
+Dialogue: 0,0:19:16.32,0:19:18.65,Default,,0,0,0,,- Mm. Now, Harrison...\NALFRED: (groans)
+Dialogue: 0,0:19:18.65,0:19:20.72,Default,,0,0,0,,Would you say that, uh,\Nthe... the rap game
+Dialogue: 0,0:19:20.72,0:19:23.32,Default,,0,0,0,,or the hip-hop community\Nis especially intolerant
+Dialogue: 0,0:19:23.32,0:19:25.26,Default,,0,0,0,,of the lifestyle you chose?
+Dialogue: 0,0:19:25.26,0:19:27.73,Default,,0,0,0,,We really can't blame rap\Nor the hip-hop culture.
+Dialogue: 0,0:19:27.73,0:19:30.46,Default,,0,0,0,,He's just expressing himself\Nto the best of his ability.
+Dialogue: 0,0:19:30.47,0:19:32.80,Default,,0,0,0,,And I will defend\Nhis right to do that.
+Dialogue: 0,0:19:32.80,0:19:35.33,Default,,0,0,0,,{\i1}He's telling a story, or, like,\Nviews from the streets.{\i0}
+Dialogue: 0,0:19:35.34,0:19:36.97,Default,,0,0,0,,{\i1}- You know, like a ghetto news.{\i0}\N- Mm.
+Dialogue: 0,0:19:36.97,0:19:38.84,Default,,0,0,0,,- Okay. (snickers)\N- But... but Harrison,
+Dialogue: 0,0:19:38.84,0:19:41.11,Default,,0,0,0,,don't you think\Nthat the rap community
+Dialogue: 0,0:19:41.11,0:19:43.81,Default,,0,0,0,,and its treatment of transpeople\Nand homosexuals
+Dialogue: 0,0:19:43.81,0:19:46.91,Default,,0,0,0,,is indicative of a larger\Nproblem in the black community,
+Dialogue: 0,0:19:46.91,0:19:49.52,Default,,0,0,0,,{\i1}one that makes\Nyour lifestyle unacceptable?{\i0}
+Dialogue: 0,0:19:49.52,0:19:51.18,Default,,0,0,0,,No, no way.\NNot at all.
+Dialogue: 0,0:19:51.19,0:19:54.19,Default,,0,0,0,,I mean, a man wanting\Nto turn himself into a woman...
+Dialogue: 0,0:19:54.19,0:19:56.16,Default,,0,0,0,,That's just unnatural,\Nand I don't think
+Dialogue: 0,0:19:56.16,0:19:58.99,Default,,0,0,0,,{\i1}we should have our kids\Nthinking that that's okay.{\i0}
+Dialogue: 0,0:19:58.99,0:20:00.59,Default,,0,0,0,,{\i1}So I will support that message.{\i0}
+Dialogue: 0,0:20:00.60,0:20:02.09,Default,,0,0,0,,Wait, wait, wait, wait.
+Dialogue: 0,0:20:02.10,0:20:03.33,Default,,0,0,0,,- What are you saying?\N- (stifled laugh)
+Dialogue: 0,0:20:03.33,0:20:04.83,Default,,0,0,0,,{\i1}I'm not into gay marriage.{\i0}
+Dialogue: 0,0:20:04.83,0:20:06.37,Default,,0,0,0,,That... that is gross.
+Dialogue: 0,0:20:06.37,0:20:07.93,Default,,0,0,0,,Why would I ever tolerate\Nsomething like that?
+Dialogue: 0,0:20:07.94,0:20:09.34,Default,,0,0,0,,{\i1}Marriage is meant for{\i0}
+Dialogue: 0,0:20:09.34,0:20:11.00,Default,,0,0,0,,{\i1}a man and a woman, not that...{\i0}
+Dialogue: 0,0:20:11.01,0:20:13.11,Default,,0,0,0,,That's an abomination.\NWe're... We... No.
+Dialogue: 0,0:20:13.11,0:20:14.77,Default,,0,0,0,,How can you say that
+Dialogue: 0,0:20:14.78,0:20:16.51,Default,,0,0,0,,with the discrimination\Nyou were just talking about?
+Dialogue: 0,0:20:16.51,0:20:18.04,Default,,0,0,0,,- I mean, how...\N{\i1}- It's the truth.{\i0}
+Dialogue: 0,0:20:18.05,0:20:20.71,Default,,0,0,0,,- What are you, crazy?\N- This (bleep) crazy!
+Dialogue: 0,0:20:20.72,0:20:22.38,Default,,0,0,0,,That is all the time\Nwe have tonight.
+Dialogue: 0,0:20:22.38,0:20:24.18,Default,,0,0,0,,- I'd like to thank my guests...\NALFRED: Oh, my God.
+Dialogue: 0,0:20:24.19,0:20:26.32,Default,,0,0,0,,- Dr. Holt, Paper Boi.\NALFRED: (chuckling)
+Dialogue: 0,0:20:26.32,0:20:29.12,Default,,0,0,0,,Please check for her book\N{\i1}Transition,{\i0}
+Dialogue: 0,0:20:29.12,0:20:31.82,Default,,0,0,0,,as well as\NPaper Boi's mixtape{\i1} Postal.{\i0}
+Dialogue: 0,0:20:31.83,0:20:33.63,Default,,0,0,0,,ALFRED: Yup!\N- Available...
+Dialogue: 0,0:20:33.63,0:20:36.63,Default,,0,0,0,,wherever mixtapes are available.
+Dialogue: 0,0:20:36.63,0:20:39.20,Default,,0,0,0,,- Good night.\NALFRED: (laughing)
+Dialogue: 0,0:20:39.20,0:20:42.47,Default,,0,0,0,,Like, you look\Nlike a dying palm tree.
+Dialogue: 0,0:20:42.47,0:20:45.17,Default,,0,0,0,,Right? Like you look like\Nthe lost fifth Beatle,
+Dialogue: 0,0:20:45.17,0:20:46.91,Default,,0,0,0,,my (bleep), that they just\Ndon't talk about.
+Dialogue: 0,0:20:46.91,0:20:49.04,Default,,0,0,0,,That, like, power up, like...
+Dialogue: 0,0:20:49.04,0:20:51.64,Default,,0,0,0,,They gave him (bleep) bangs,\Nlike... (laughing).
+Dialogue: 0,0:20:51.65,0:20:53.35,Default,,0,0,0,,DEBRA: I don't care for it.
+Dialogue: 0,0:20:53.35,0:20:56.35,Default,,0,0,0,,{\i1}(theme music playing){\i0}
+Dialogue: 0,0:20:56.35,0:21:03.26,Default,,0,0,0,,{\i1}♪ ♪{\i0}

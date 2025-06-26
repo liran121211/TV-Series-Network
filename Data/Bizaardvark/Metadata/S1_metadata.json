@@ -1,0 +1,130 @@
+{
+    "1": {
+        "title": "First!",
+        "released": "2016-06-17",
+        "rating": "5.9",
+        "imdb_id": "tt5390542",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Draw My Life",
+        "released": "2016-07-10",
+        "rating": "N/A",
+        "imdb_id": "tt5460384",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Frankie Has a Hater",
+        "released": "2016-07-17",
+        "rating": "7.5",
+        "imdb_id": "tt5460382",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Superfan",
+        "released": "2016-07-24",
+        "rating": "7.2",
+        "imdb_id": "tt5460378",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Collab",
+        "released": "2016-07-31",
+        "rating": "N/A",
+        "imdb_id": "tt5460376",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Unboxing",
+        "released": "2016-08-07",
+        "rating": "8.2",
+        "imdb_id": "tt5482230",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The First Law of Dirk",
+        "released": "2016-08-14",
+        "rating": "N/A",
+        "imdb_id": "tt5482228",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Bernie's in Charge",
+        "released": "2016-09-18",
+        "rating": "N/A",
+        "imdb_id": "tt5482214",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Puff and Frankie",
+        "released": "2016-10-02",
+        "rating": "N/A",
+        "imdb_id": "tt5482216",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Halloweenvark",
+        "released": "2016-10-07",
+        "rating": "N/A",
+        "imdb_id": "tt5565738",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Bizaardvark vs Vicki 'Hot Head' Fuego",
+        "released": "2016-11-06",
+        "rating": "N/A",
+        "imdb_id": "tt5565734",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Moosetashio: A Cautionary Tale",
+        "released": "2016-11-13",
+        "rating": "N/A",
+        "imdb_id": "tt5565736",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Control + Alt + Escape!",
+        "released": "2016-11-27",
+        "rating": "N/A",
+        "imdb_id": "tt5482224",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Agh, Humbug",
+        "released": "2016-12-11",
+        "rating": "N/A",
+        "imdb_id": "tt5946926",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Mom! Stop!",
+        "released": "2017-01-13",
+        "rating": "N/A",
+        "imdb_id": "tt5565744",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "In Your Space!",
+        "released": "2017-01-27",
+        "rating": "N/A",
+        "imdb_id": "tt5950620",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

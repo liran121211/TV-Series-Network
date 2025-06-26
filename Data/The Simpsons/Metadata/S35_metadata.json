@@ -1,0 +1,146 @@
+{
+    "1": {
+        "title": "Homer's Crossing",
+        "released": "2023-10-01",
+        "rating": "6.7",
+        "imdb_id": "tt26457880",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S35\\The.Simpsons.S35E01.WEB.x264-TORRENTGALAXYS35E1.zip"
+    },
+    "2": {
+        "title": "A Mid-Childhood Night's Dream",
+        "released": "2023-10-08",
+        "rating": "7.1",
+        "imdb_id": "tt29076700",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S35\\The.Simpsons.S35E02.WEB.x264-TORRENTGALAXYS35E2.zip"
+    },
+    "3": {
+        "title": "McMansion & Wife",
+        "released": "2023-10-22",
+        "rating": "6.3",
+        "imdb_id": "tt29379873",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S35\\The.Simpsons.S35E03.WEB.x264-TORRENTGALAXYS35E3.zip"
+    },
+    "4": {
+        "title": "Thirst Trap: A Corporate Love Story",
+        "released": "2023-10-29",
+        "rating": "N/A",
+        "imdb_id": "tt29387613",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S35\\The.Simpsons.S35E04.WEB.x264-TORRENTGALAXYS35E4.zip"
+    },
+    "5": {
+        "title": "Treehouse of Horror XXXIV",
+        "released": "2023-11-05",
+        "rating": "6.9",
+        "imdb_id": "tt29236803",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S35\\The.Simpsons.S35E05.WEB.x264-TORRENTGALAXYS35E5.zip"
+    },
+    "6": {
+        "title": "Iron Marge",
+        "released": "2023-11-12",
+        "rating": "6.8",
+        "imdb_id": "tt29593472",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S35\\The.Simpsons.S35E06.WEB.x264-TORRENTGALAXYS35E6.zip"
+    },
+    "7": {
+        "title": "It's a Blunderful Life",
+        "released": "2023-11-19",
+        "rating": "6.4",
+        "imdb_id": "tt29593478",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S35\\The.Simpsons.S35E07.720p.WEB.H264-BAES35E7.zip"
+    },
+    "8": {
+        "title": "AE Bonny Romance",
+        "released": "2023-12-03",
+        "rating": "6.3",
+        "imdb_id": "tt30028382",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S35\\The.Simpsons.S35E08.WEB.x264-TORRENTGALAXYS35E8.zip"
+    },
+    "9": {
+        "title": "Murder, She Boat",
+        "released": "2023-12-17",
+        "rating": "6.7",
+        "imdb_id": "tt29804412",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S35\\The.Simpsons.S35E09.ALL.WEBRipS35E9.zip"
+    },
+    "10": {
+        "title": "Do the Wrong Thing",
+        "released": "2023-12-24",
+        "rating": "6.5",
+        "imdb_id": "tt26457881",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Frinkenstein's Monster",
+        "released": "2024-02-18",
+        "rating": "6.1",
+        "imdb_id": "tt30428532",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Lisa Gets an F1",
+        "released": "2024-02-25",
+        "rating": "6.4",
+        "imdb_id": "tt31187346",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Clan of the Cave Mom",
+        "released": "2024-03-24",
+        "rating": "6.9",
+        "imdb_id": "tt31547909",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Night of the Living Wage",
+        "released": "2024-04-07",
+        "rating": "7.0",
+        "imdb_id": "tt31844041",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Cremains of the Day",
+        "released": "2024-04-21",
+        "rating": "7.0",
+        "imdb_id": "tt31998422",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Tell-Tale Pants",
+        "released": "2024-05-05",
+        "rating": "6.4",
+        "imdb_id": "tt32135555",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Tipping Point",
+        "released": "2024-05-12",
+        "rating": "6.1",
+        "imdb_id": "tt32143941",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Bart's Brain",
+        "released": "2024-05-19",
+        "rating": "N/A",
+        "imdb_id": "tt32143945",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "The Bonfire of the Manatees",
+        "released": "2005-09-11",
+        "rating": "6.2",
+        "imdb_id": "tt0701071",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E01.WEB-DL.DSNPS17E1.zip"
+    },
+    "2": {
+        "title": "The Girl Who Slept Too Little",
+        "released": "2005-09-18",
+        "rating": "N/A",
+        "imdb_id": "tt0701239",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E02.WEB-DL.DSNPS17E2.zip"
+    },
+    "3": {
+        "title": "Milhouse of Sand and Fog",
+        "released": "2005-09-25",
+        "rating": "6.8",
+        "imdb_id": "tt0757020",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E03.WEB-DL.DSNPS17E3.zip"
+    },
+    "4": {
+        "title": "Treehouse of Horror XVI",
+        "released": "2005-11-06",
+        "rating": "7.3",
+        "imdb_id": "tt0701287",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E04.WEB-DL.DSNPS17E4.zip"
+    },
+    "5": {
+        "title": "Marge's Son Poisoning",
+        "released": "2005-11-13",
+        "rating": "6.9",
+        "imdb_id": "tt0757019",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E05.WEB-DL.DSNPS17E5.zip"
+    },
+    "6": {
+        "title": "See Homer Run",
+        "released": "2005-11-20",
+        "rating": "N/A",
+        "imdb_id": "tt0784542",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E06.WEB-DL.DSNPS17E6.zip"
+    },
+    "7": {
+        "title": "The Last of the Red Hat Mamas",
+        "released": "2005-11-27",
+        "rating": "6.6",
+        "imdb_id": "tt0701248",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E07.WEB-DL.DSNPS17E7.zip"
+    },
+    "8": {
+        "title": "The Italian Bob",
+        "released": "2005-12-11",
+        "rating": "7.1",
+        "imdb_id": "tt0701244",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E08.WEB-DL.DSNPS17E8.zip"
+    },
+    "9": {
+        "title": "Simpsons Christmas Stories",
+        "released": "2005-12-18",
+        "rating": "6.8",
+        "imdb_id": "tt0782576",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E09.WEB-DL.DSNPS17E9.zip"
+    },
+    "10": {
+        "title": "Homer's Paternity Coot",
+        "released": "2006-01-08",
+        "rating": "N/A",
+        "imdb_id": "tt0701125",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "We're on the Road to D'ohwhere",
+        "released": "2006-01-29",
+        "rating": "6.9",
+        "imdb_id": "tt0758509",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "My Fair Laddy",
+        "released": "2006-02-26",
+        "rating": "6.5",
+        "imdb_id": "tt0773649",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Seemingly Never-Ending Story",
+        "released": "2006-03-12",
+        "rating": "7.6",
+        "imdb_id": "tt0776642",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Bart Has Two Mommies",
+        "released": "2006-03-19",
+        "rating": "7.0",
+        "imdb_id": "tt0780424",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Homer Simpson, This Is Your Wife",
+        "released": "2006-03-26",
+        "rating": "6.4",
+        "imdb_id": "tt0701111",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Million Dollar Abie",
+        "released": "2006-04-02",
+        "rating": "6.3",
+        "imdb_id": "tt0787753",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Kiss Kiss, Bang Bangalore",
+        "released": "2006-04-09",
+        "rating": "7.1",
+        "imdb_id": "tt0701146",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Wettest Stories Ever Told",
+        "released": "2006-04-23",
+        "rating": "6.7",
+        "imdb_id": "tt0795278",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Girls Just Want to Have Sums",
+        "released": "2006-04-30",
+        "rating": "7.1",
+        "imdb_id": "tt0798764",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Regarding Margie",
+        "released": "2006-05-07",
+        "rating": "6.7",
+        "imdb_id": "tt0800706",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Monkey Suit",
+        "released": "2006-05-14",
+        "rating": "7.1",
+        "imdb_id": "tt0800707",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Homer and Marge Turn a Couple Play",
+        "released": "2006-05-21",
+        "rating": "6.3",
+        "imdb_id": "tt0809050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

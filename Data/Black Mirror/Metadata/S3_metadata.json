@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Nosedive",
+        "released": "2016-10-21",
+        "rating": "8.3",
+        "imdb_id": "tt5497778",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Black Mirror\\Subtitles\\S3\\Black.Mirror.S03E01-06.WEBRip.x264-TURBOS3E1.zip"
+    },
+    "2": {
+        "title": "Playtest",
+        "released": "2016-10-21",
+        "rating": "8.0",
+        "imdb_id": "tt5709242",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Black Mirror\\Subtitles\\S3\\Black.Mirror.S03E02.WebRip.x264-FS-HIS3E2.zip"
+    },
+    "3": {
+        "title": "Shut Up and Dance",
+        "released": "2016-10-21",
+        "rating": "8.4",
+        "imdb_id": "tt5709230",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Black Mirror\\Subtitles\\S3\\Black.Mirror.S03E03.WebRip.x264-FS-HIS3E3.zip"
+    },
+    "4": {
+        "title": "San Junipero",
+        "released": "2016-10-21",
+        "rating": "8.5",
+        "imdb_id": "tt4538072",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Black Mirror\\Subtitles\\S3\\Black.Mirror.S03E04.WebRip.x264-FSS3E4.zip"
+    },
+    "5": {
+        "title": "Men Against Fire",
+        "released": "2016-10-21",
+        "rating": "7.5",
+        "imdb_id": "tt5709234",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Black Mirror\\Subtitles\\S3\\Black.Mirror.S03E05.WEBRip.x264-TURBOS3E5.zip"
+    },
+    "6": {
+        "title": "Hated in the Nation",
+        "released": "2016-10-21",
+        "rating": "8.4",
+        "imdb_id": "tt5709236",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

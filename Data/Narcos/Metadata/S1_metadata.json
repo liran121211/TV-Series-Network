@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Descenso",
+        "released": "2015-08-28",
+        "rating": "8.8",
+        "imdb_id": "tt3591824",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S1\\Narcos.S01E01.REPACK.WEBRip.x264-TASTETVS1E1.zip"
+    },
+    "2": {
+        "title": "The Sword of Simón Bolivar",
+        "released": "2015-08-28",
+        "rating": "8.4",
+        "imdb_id": "tt3736868",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S1\\Narcos.S01E02.WEBRip.x264-TASTETVS1E2.zip"
+    },
+    "3": {
+        "title": "The Men of Always",
+        "released": "2015-08-28",
+        "rating": "8.4",
+        "imdb_id": "tt3736866",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S1\\Narcos.S01E03.WEBRip.x264-TASTETVS1E3.zip"
+    },
+    "4": {
+        "title": "The Palace in Flames",
+        "released": "2015-08-28",
+        "rating": "8.6",
+        "imdb_id": "tt3736870",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S1\\Narcos.S01E04.WEBRip.x264-TASTETVS1E4.zip"
+    },
+    "5": {
+        "title": "There Will Be a Future",
+        "released": "2015-08-28",
+        "rating": "8.3",
+        "imdb_id": "tt3736874",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S1\\Narcos.S01E05.WEBRip.x264-TASTETVS1E5.zip"
+    },
+    "6": {
+        "title": "Explosivos",
+        "released": "2015-08-28",
+        "rating": "9.0",
+        "imdb_id": "tt3736872",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S1\\Narcos.S01E06.WEBRip.x264-TASTETVS1E6.zip"
+    },
+    "7": {
+        "title": "You Will Cry Tears of Blood",
+        "released": "2015-08-28",
+        "rating": "8.5",
+        "imdb_id": "tt3736876",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S1\\Narcos.S01E07.WEBRip.XviD-AFGS1E7.zip"
+    },
+    "8": {
+        "title": "La Gran Mentira",
+        "released": "2015-08-28",
+        "rating": "8.9",
+        "imdb_id": "tt3736878",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S1\\Narcos.S01E08.WEBRip.XviD-AFGS1E8.zip"
+    },
+    "9": {
+        "title": "La Catedral",
+        "released": "2015-08-28",
+        "rating": "8.6",
+        "imdb_id": "tt3736882",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S1\\Narcos.S01E09.WEBRip.XviD-AFGS1E9.zip"
+    },
+    "10": {
+        "title": "Despegue",
+        "released": "2015-08-28",
+        "rating": "8.8",
+        "imdb_id": "tt3736880",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

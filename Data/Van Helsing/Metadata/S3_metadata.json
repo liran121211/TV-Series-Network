@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Fresh Tendrils",
+        "released": "2018-10-05",
+        "rating": "7.3",
+        "imdb_id": "tt7787492",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Super Unknown",
+        "released": "2018-10-12",
+        "rating": "7.6",
+        "imdb_id": "tt7992306",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "I Awake",
+        "released": "2018-10-19",
+        "rating": "7.5",
+        "imdb_id": "tt8230954",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Rusty Cage",
+        "released": "2018-10-26",
+        "rating": "6.1",
+        "imdb_id": "tt8488652",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Pretty Noose",
+        "released": "2018-11-02",
+        "rating": "7.0",
+        "imdb_id": "tt8461474",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Like Suicide",
+        "released": "2018-11-09",
+        "rating": "7.2",
+        "imdb_id": "tt8488656",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Crooked Steps",
+        "released": "2018-11-23",
+        "rating": "7.3",
+        "imdb_id": "tt8488660",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Loud Love",
+        "released": "2018-11-30",
+        "rating": "7.1",
+        "imdb_id": "tt8016482",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Outside World",
+        "released": "2018-12-07",
+        "rating": "6.1",
+        "imdb_id": "tt8016484",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Been Away",
+        "released": "2018-12-14",
+        "rating": "7.2",
+        "imdb_id": "tt8488664",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Christ Pose",
+        "released": "2018-12-21",
+        "rating": "7.1",
+        "imdb_id": "tt8384792",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Birth Ritual",
+        "released": "2018-12-28",
+        "rating": "5.8",
+        "imdb_id": "tt8119550",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "1": {
+        "title": "The Perfect Storm",
+        "released": "2005-03-31",
+        "rating": "7.7",
+        "imdb_id": "tt0733936",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Last Good Day",
+        "released": "2005-04-14",
+        "rating": "N/A",
+        "imdb_id": "tt0733925",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Enough",
+        "released": "2005-04-21",
+        "rating": "7.9",
+        "imdb_id": "tt0733921",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "'Twas the Night Before Christmas... Again",
+        "released": "2005-09-22",
+        "rating": "8.2",
+        "imdb_id": "tt0733914",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

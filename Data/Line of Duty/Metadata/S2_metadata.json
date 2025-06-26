@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "The Ambush",
+        "released": "2014-02-12",
+        "rating": "8.5",
+        "imdb_id": "tt3162268",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Carly",
+        "released": "2014-02-19",
+        "rating": "8.5",
+        "imdb_id": "tt3162272",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Behind Bars",
+        "released": "2014-02-26",
+        "rating": "8.2",
+        "imdb_id": "tt3162274",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Blood Money",
+        "released": "2014-03-05",
+        "rating": "8.4",
+        "imdb_id": "tt3162276",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Last Words",
+        "released": "2014-03-12",
+        "rating": "8.6",
+        "imdb_id": "tt3162280",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Caddy",
+        "released": "2014-03-19",
+        "rating": "8.2",
+        "imdb_id": "tt3162282",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

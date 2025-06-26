@@ -1,0 +1,410 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Italics - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Next Ep Title,Times New Roman,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0030,0030,0200,1
+Style: sign_7523_72_Class_B_Rank_3_W,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,2,1,0022,0423,0016,1
+Style: sign_10002_106_Charanko__Fist_o,Arial,26,&H001F2120,&H000000FF,&H00DEE1D1,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0198,0000,0167,1
+Style: sign_9089_95_Bazuzu_VS_Boltan,Arial,30,&H00E8E8E1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0167,0167,0018,1
+Style: sign_17224_200_Monster_Expert_I,Arial,19,&H00FFFFFF,&H000000FF,&H0075796E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0018,1
+Style: sign_17482_204_Hero_Guide,Arial,19,&H002826A8,&H000000FF,&H0050C9D5,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0168,0411,0187,1
+Style: sign_17670_207_Critically_Injur,Times New Roman,19,&H00FAFEFE,&H000000FF,&H00AFA046,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0238,0238,0086,1
+Style: sign_17991_214_Waganma,Times New Roman,19,&H00A49E78,&H000000FF,&H00665E32,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0190,0355,0080,1
+Style: sign_10926_119_Hero_Association,Arial,14,&H00DEE6DF,&H000000FF,&H00222B2D,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0318,0126,0255,1
+Style: sign_30154_352_Bottom_of_Foot,Trebuchet MS,12,&H00353732,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,292.2,1,0,0,2,0094,0457,0170,1
+Style: sign_30659_361_Big_winner__,Trebuchet MS,16,&H00463DC3,&H000000FF,&H00CCDCDD,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0059,0486,0197,1
+Style: sign_30659_360_Super_big,Trebuchet MS,20,&H00375DBE,&H000000FF,&H0074CAF0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0136,0409,0108,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:01.56,0:00:02.85,Main,Guy,0000,0000,0000,,Here he comes!
+Dialogue: 0,0:00:03.34,0:00:04.60,Main,Guy 2,0000,0000,0000,,The one we've been waiting for!
+Dialogue: 0,0:00:04.92,0:00:07.35,Main,Sour,0000,0000,0000,,The crowd's mood has changed.
+Dialogue: 0,0:00:07.35,0:00:08.05,Main,Sai,0000,0000,0000,,Why, though?
+Dialogue: 0,0:00:08.05,0:00:11.83,Main,Guy,0000,0000,0000,,To think we'd be able to \Nsee this man fight again!
+Dialogue: 0,0:00:11.83,0:00:15.11,Main,Guy,0000,0000,0000,,The crowd is quivering in bliss!
+Dialogue: 0,0:00:15.11,0:00:17.83,Main,Guy,0000,0000,0000,,Suiryu is here!
+Dialogue: 0,0:00:17.83,0:00:20.60,Main,Guy,0000,0000,0000,,He'll be going up against Max!
+Dialogue: 0,0:00:21.01,0:00:25.75,Italics,Max,0000,0000,0000,,He's got quite the reputation, \Nbut is he actually better than me?
+Dialogue: 0,0:00:27.07,0:00:31.21,Italics,Max,0000,0000,0000,,No... Remember, Lightning Max.
+Dialogue: 0,0:00:31.94,0:00:34.09,Italics,Max,0000,0000,0000,,The opponent I really need to surpass...
+Dialogue: 0,0:00:35.63,0:00:39.97,Italics,Max,0000,0000,0000,,Compared to that monster, you're puny.
+Dialogue: 0,0:00:40.42,0:00:44.60,Main,Max,0000,0000,0000,,Suiryu, I have to get stronger.
+Dialogue: 0,0:00:44.60,0:00:47.27,Main,Max,0000,0000,0000,,Otherwise, I won't be able to \Nprotect everyone as a hero.
+Dialogue: 0,0:00:47.27,0:00:48.98,Main,Max,0000,0000,0000,,Unfortunately for you,
+Dialogue: 0,0:00:48.98,0:00:55.32,Main,Max,0000,0000,0000,,I view you as a worthy opponent for \Ntesting a new anti-monster technique!
+Dialogue: 0,0:00:55.69,0:00:58.35,Main,Suiryu,0000,0000,0000,,So you're a pro hero?
+Dialogue: 0,0:00:58.86,0:01:03.08,Main,Suiryu,0000,0000,0000,,With rather lofty ambitions, I see.
+Dialogue: 0,0:01:03.08,0:01:06.83,Main,Suiryu,0000,0000,0000,,I guess everyone has their own \Nreasons for seeking strength.
+Dialogue: 0,0:01:09.17,0:01:10.61,Main,Guy,0000,0000,0000,,Take your stance.
+Dialogue: 0,0:01:11.21,0:01:12.09,Main,Guy,0000,0000,0000,,Begin!
+Dialogue: 0,0:01:12.43,0:01:17.09,Main,Max,0000,0000,0000,,Lightning Big Wheel Double Ax Kick!
+Dialogue: 0,0:01:20.93,0:01:23.89,Main,Suiryu,0000,0000,0000,,The reason I sought strength...
+Dialogue: 0,0:01:35.15,0:01:38.64,Main,Suiryu,0000,0000,0000,,was so I could glide through life easily.
+Dialogue: 0,0:01:38.64,0:01:40.99,Main,Suiryu,0000,0000,0000,,Sorry I'm the stronger one.
+Dialogue: 0,0:03:10.96,0:03:15.27,Next Ep Title,Sign,0000,0000,0000,,{\pos(457,90)\fad(1,451)\an8\fs26}The Uprising of the Monsters
+Dialogue: 0,0:03:12.89,0:03:14.76,Main,Sour,0000,0000,0000,,D-Did you see that, Charanko?!
+Dialogue: 0,0:03:14.76,0:03:16.57,Main,Sour,0000,0000,0000,,Did you see Suiryu's kick?!
+Dialogue: 0,0:03:16.57,0:03:17.84,Main,Sai,0000,0000,0000,,Yeah, why?
+Dialogue: 0,0:03:18.99,0:03:20.88,Main,Sour,0000,0000,0000,,How are you so calm right now?
+Dialogue: 0,0:03:22.13,0:03:24.80,Italics,Sour,0000,0000,0000,,Oh, it must be because he's an amateur.
+Dialogue: 0,0:03:24.80,0:03:27.52,Italics,Genos,0000,0000,0000,,He took down a Class A \Nhero in a single blow.
+Dialogue: 0,0:03:27.52,0:03:30.51,Italics,Genos,0000,0000,0000,,I guess there's a surprising \Nnumber of civilians
+Dialogue: 0,0:03:30.51,0:03:32.02,Italics,Genos,0000,0000,0000,,who are stronger than pro heroes.
+Dialogue: 0,0:03:32.02,0:03:33.81,Italics,Genos,0000,0000,0000,,I guess that's to be expected.
+Dialogue: 0,0:03:33.81,0:03:36.98,Italics,Genos,0000,0000,0000,,Master Saitama was also \Ndoing hero work as a hobby.
+Dialogue: 0,0:03:36.98,0:03:40.13,Italics,Genos,0000,0000,0000,,It makes sense that there could be \Nother powerful people like him.
+Dialogue: 0,0:03:40.13,0:03:43.42,Italics,Genos,0000,0000,0000,,I'm sure none of them are \Non Master's level, though.
+Dialogue: 0,0:03:43.42,0:03:48.66,Italics,Genos,0000,0000,0000,,But that man might be able to satisfy \NMaster's desire to experience martial arts.
+Dialogue: 0,0:03:52.13,0:03:52.87,Main,Genos,0000,0000,0000,,This is...
+Dialogue: 0,0:03:52.87,0:03:56.23,Main,Guy,0000,0000,0000,,Ladies and gentlemen, I'm sure \Nyou're even more fired up now,
+Dialogue: 0,0:03:56.23,0:03:57.18,Main,Guy,0000,0000,0000,,but next up,
+Dialogue: 0,0:03:57.18,0:04:01.30,Main,Guy,0000,0000,0000,,we have Benpats from Bad Roads Martial \NArts and Snek from Snakebite Fist!
+Dialogue: 0,0:04:01.30,0:04:05.29,Main,Guy,0000,0000,0000,,Whoever wins this fight will face off \Nagainst Suiryu in the second round!
+Dialogue: 0,0:04:05.29,0:04:06.94,Main,Ben,0000,0000,0000,,You're a Class A hero?
+Dialogue: 0,0:04:07.64,0:04:09.52,Main,Ben,0000,0000,0000,,You don't look very strong.
+Dialogue: 0,0:04:09.52,0:04:12.69,Italics,Snek,0000,0000,0000,,If I can defeat Suiryu, \Nwho defeated Lightning Max,
+Dialogue: 0,0:04:12.69,0:04:16.19,Italics,Snek,0000,0000,0000,,it might have a positive effect on my rank.
+Dialogue: 0,0:04:16.19,0:04:17.19,Italics,Snek,0000,0000,0000,,All right.
+Dialogue: 0,0:04:17.90,0:04:19.42,Main,Snek,0000,0000,0000,,Snakebite Fist.
+Dialogue: 0,0:04:20.15,0:04:23.36,Main,Ben,0000,0000,0000,,Like anyone would fall for a fake \Nstance like that nowadays.
+Dialogue: 0,0:04:23.36,0:04:26.49,Main,Ben,0000,0000,0000,,You lowest-ranking hero jerk!
+Dialogue: 0,0:04:26.49,0:04:27.87,Main,Snek,0000,0000,0000,,I'm not the lowest ranking.
+Dialogue: 0,0:04:28.12,0:04:30.04,Main,Snek,0000,0000,0000,,I'm the lowest-ranking Class A hero!
+Dialogue: 0,0:04:30.33,0:04:31.75,Main,Sign,0000,0000,0000,,{\an8\fnTimes New Roman\b1\bord0\shad0\pos(330,220)\c&H292517&}Commentators' Booth
+Dialogue: 0,0:04:30.99,0:04:31.75,Main,Guy,0000,0000,0000,,There's trouble!
+Dialogue: 0,0:04:31.75,0:04:34.33,Main,Guy,0000,0000,0000,,An extremely violent monster \Nhas appeared nearby!
+Dialogue: 0,0:04:34.96,0:04:36.96,Main,Guy,0000,0000,0000,,We need to evacuate everyone immediately!
+Dialogue: 0,0:04:36.96,0:04:39.28,Main,Guy,0000,0000,0000,,Seriously? Hurry up and \Nmake the announcement—
+Dialogue: 0,0:04:39.28,0:04:40.63,Main,Guy,0000,0000,0000,,There's no need.
+Dialogue: 0,0:04:40.63,0:04:42.60,Main,Guy,0000,0000,0000,,Huh? Bakuzan!
+Dialogue: 0,0:04:42.60,0:04:44.77,Main,Baku,0000,0000,0000,,That'll just cause people to panic.
+Dialogue: 0,0:04:44.77,0:04:47.76,Main,Guy,0000,0000,0000,,But if a monster shows up at this venue...
+Dialogue: 0,0:04:48.24,0:04:50.72,Main,Baku,0000,0000,0000,,Look at how many martial \Narts masters we have here.
+Dialogue: 0,0:04:51.12,0:04:53.27,Main,Baku,0000,0000,0000,,No place could be safer.
+Dialogue: 0,0:04:53.27,0:04:54.76,Main,Guy,0000,0000,0000,,True...
+Dialogue: 0,0:04:54.76,0:04:59.09,Main,Baku,0000,0000,0000,,Don't worry. If any monsters \Ninfiltrate the venue,
+Dialogue: 0,0:04:59.09,0:05:00.98,Main,Baku,0000,0000,0000,,I'll take care of them myself.
+Dialogue: 0,0:05:00.98,0:05:02.97,Italics,Genos,0000,0000,0000,,Monsters have appeared, huh?
+Dialogue: 0,0:05:02.97,0:05:04.99,Italics,Genos,0000,0000,0000,,That's way too many.
+Dialogue: 0,0:05:04.99,0:05:08.66,Italics,Genos,0000,0000,0000,,City C... There's one in this city, too.
+Dialogue: 0,0:05:08.66,0:05:10.58,Italics,Genos,0000,0000,0000,,Should I let Master know?
+Dialogue: 0,0:05:12.10,0:05:14.37,Italics,Genos,0000,0000,0000,,No, I can just go take care of it myself.
+Dialogue: 0,0:05:15.13,0:05:17.11,Italics,Genos,0000,0000,0000,,I won't let it interfere \Nwith this tournament.
+Dialogue: 0,0:05:17.11,0:05:20.46,Italics,Genos,0000,0000,0000,,No matter how many small fry there are, \NI'll dispose of them immediately.
+Dialogue: 0,0:05:23.62,0:05:24.97,Main,Ben,0000,0000,0000,,Wh-What the hell?
+Dialogue: 0,0:05:25.44,0:05:27.86,Main,Ben,0000,0000,0000,,You aren't weak at all...
+Dialogue: 0,0:05:28.79,0:05:30.05,Main,Guy,0000,0000,0000,,The winner is Snek!
+Dialogue: 0,0:05:31.47,0:05:34.94,Main,Snek,0000,0000,0000,,I want to believe that I rank \Namong the strongest myself.
+Dialogue: 0,0:05:34.94,0:05:37.39,Main,Snek,0000,0000,0000,,But you get sick of the reality pretty quick.
+Dialogue: 0,0:05:37.84,0:05:42.04,Main,Snek,0000,0000,0000,,The battlefield of top heroes is \Nfilled with nothing but monsters.
+Dialogue: 0,0:05:43.11,0:05:44.26,Main,Genos,0000,0000,0000,,Incinerate.
+Dialogue: 0,0:05:49.22,0:05:50.57,Main,Guy,0000,0000,0000,,It's the Demon Cyborg!
+Dialogue: 0,0:05:50.57,0:05:52.43,Main,Guy,0000,0000,0000,,That was some blow!
+Dialogue: 0,0:05:52.43,0:05:53.58,Main,Guy,0000,0000,0000,,We're saved!
+Dialogue: 0,0:05:54.01,0:05:57.93,Italics,Genos,0000,0000,0000,,I'm currently in City C near the stadium. \NWhat's the situation?
+Dialogue: 0,0:05:58.34,0:06:01.92,Main,Guy,0000,0000,0000,,Multiple monsters have appeared \Nsimultaneously in several cities.
+Dialogue: 0,0:06:02.30,0:06:04.38,Italics,Guy,0000,0000,0000,,We've confirmed that there are \Ncurrently five in City C.
+Dialogue: 0,0:06:04.80,0:06:08.31,Main,Girl,0000,0000,0000,,Mr. Demon Cyborg, \Nthere's another monster over there.
+Dialogue: 0,0:06:08.31,0:06:10.01,Main,Guy,0000,0000,0000,,There's one over there, too!
+Dialogue: 0,0:06:10.59,0:06:12.46,Main,Genos,0000,0000,0000,,I got rid of one.
+Dialogue: 0,0:06:12.46,0:06:14.23,Main,Genos,0000,0000,0000,,Where are the other four?
+Dialogue: 0,0:06:14.23,0:06:16.27,Italics,Guy,0000,0000,0000,,I'll guide you to them.
+Dialogue: 0,0:06:18.21,0:06:20.52,Main,Guy,0000,0000,0000,,A blow charged with electricity!
+Dialogue: 0,0:06:19.06,0:06:20.52,sign_9089_95_Bazuzu_VS_Boltan,Sign,0000,0000,0000,,Bazuzu VS Boltane
+Dialogue: 0,0:06:20.52,0:06:23.02,Main,Guy,0000,0000,0000,,The winner is Boltane!
+Dialogue: 0,0:06:20.83,0:06:23.02,sign_9089_95_Bazuzu_VS_Boltan,Sign,0000,0000,0000,,{\pos(470,18)}Winner:\NBoltane
+Dialogue: 0,0:06:23.40,0:06:27.03,Main,Guy,0000,0000,0000,,Gatling's super fast punches have \Nfinally taken down Hamukichi.
+Dialogue: 0,0:06:27.03,0:06:30.07,Main,Guy,0000,0000,0000,,He can no longer stand!
+Dialogue: 0,0:06:28.88,0:06:30.07,sign_9089_95_Bazuzu_VS_Boltan,Sign,0000,0000,0000,,{\pos(470,18)}Winner:\NGatling
+Dialogue: 0,0:06:30.44,0:06:34.20,Main,Guy,0000,0000,0000,,Dave immediately opened the match \Nwith an explosive body press!
+Dialogue: 0,0:06:34.20,0:06:36.16,sign_9089_95_Bazuzu_VS_Boltan,Sign,0000,0000,0000,,Winner:\NDave
+Dialogue: 0,0:06:34.20,0:06:36.16,Main,Guy,0000,0000,0000,,Rosie was taken down in mere seconds!
+Dialogue: 0,0:06:36.83,0:06:39.08,Main,Guy,0000,0000,0000,,And the referee had to interfere!
+Dialogue: 0,0:06:39.08,0:06:40.79,Main,Guy,0000,0000,0000,,Choze is strong!
+Dialogue: 0,0:06:40.79,0:06:43.00,Main,Guy,0000,0000,0000,,Mentai didn't stand a chance!
+Dialogue: 0,0:06:41.73,0:06:42.88,sign_9089_95_Bazuzu_VS_Boltan,Sign,0000,0000,0000,,{\pos(470,18)}Winner:\NChoze
+Dialogue: 0,0:06:43.55,0:06:45.42,Main,Genos,0000,0000,0000,,Rocket Stomp!
+Dialogue: 0,0:06:51.06,0:06:52.89,Main,Genos,0000,0000,0000,,I know there's another \None of you in the area.
+Dialogue: 0,0:06:52.89,0:06:57.47,Main,Genos,0000,0000,0000,,Tell me where they are or continue \Nto suffer until you die.
+Dialogue: 0,0:06:57.47,0:06:58.73,Main,Genos,0000,0000,0000,,Choose one.
+Dialogue: 0,0:06:59.15,0:07:02.81,Main,Guy,0000,0000,0000,,Next up, we have Jakumen \Nfrom Giga Pro Wrestling
+Dialogue: 0,0:07:02.81,0:07:05.22,Main,Guy,0000,0000,0000,,versus Sourface from Sourface-Style Kenpo!
+Dialogue: 0,0:07:05.22,0:07:07.85,Main,Guy,0000,0000,0000,,They are both competing \Nhere for the first time!
+Dialogue: 0,0:07:07.85,0:07:09.30,Main,Sai,0000,0000,0000,,Do your best out there, Sourface!
+Dialogue: 0,0:07:09.30,0:07:13.31,Main,Sour,0000,0000,0000,,Shut up! I used to be \NMaster Bang's second-best student!
+Dialogue: 0,0:07:15.89,0:07:17.50,Italics,Sour,0000,0000,0000,,This guy's pretty huge.
+Dialogue: 0,0:07:17.50,0:07:19.95,Italics,Sour,0000,0000,0000,,No, wait. I'm stronger!
+Dialogue: 0,0:07:19.95,0:07:20.90,Italics,Sour,0000,0000,0000,,I think...
+Dialogue: 0,0:07:20.90,0:07:23.41,Italics,Sour,0000,0000,0000,,Think back on all of your rigorous training!
+Dialogue: 0,0:07:23.89,0:07:27.25,Italics,Jak,0000,0000,0000,,This guy's face is pretty scary...
+Dialogue: 0,0:07:28.67,0:07:31.47,Main,Monster,0000,0000,0000,,Lemme have your face.
+Dialogue: 0,0:07:35.43,0:07:38.72,Main,Genos,0000,0000,0000,,There you are. I'm going to eliminate you.
+Dialogue: 0,0:07:38.72,0:07:41.96,Main,Monster,0000,0000,0000,,Oh, hey. If it isn't a celebrity.
+Dialogue: 0,0:07:41.96,0:07:45.02,Main,Monster,0000,0000,0000,,Can I rip off your face, too?
+Dialogue: 0,0:08:00.90,0:08:03.97,Main,Monster,0000,0000,0000,,How do you like my knifework?
+Dialogue: 0,0:08:05.66,0:08:08.05,Main,Genos,0000,0000,0000,,I had you hit my hard head on purpose.
+Dialogue: 0,0:08:09.07,0:08:10.55,Main,Genos,0000,0000,0000,,High Voltage Fist!
+Dialogue: 0,0:08:12.63,0:08:14.09,Main,Genos,0000,0000,0000,,Begone.
+Dialogue: 0,0:08:16.14,0:08:18.10,Main,Girl,0000,0000,0000,,He's taking care of them in seconds.
+Dialogue: 0,0:08:18.60,0:08:22.27,Main,Girl,0000,0000,0000,,The Class S hero, Genos... \NHe's incredibly powerful.
+Dialogue: 0,0:08:22.73,0:08:27.44,Main,Guy,0000,0000,0000,,Demon Cyborg... The last one is two \Nkilometers northwest from there.
+Dialogue: 0,0:08:27.88,0:08:29.90,Italics,Guy,0000,0000,0000,,There are already others \Nengaged in battle there.
+Dialogue: 0,0:08:33.99,0:08:35.41,Main,Genos,0000,0000,0000,,Can you speak?
+Dialogue: 0,0:08:35.74,0:08:40.16,Main,Guy,0000,0000,0000,,Wh-When you're fighting him, \Nmake sure you don't lose sight of him.
+Dialogue: 0,0:08:40.50,0:08:42.29,Main,Guy,0000,0000,0000,,He'll be behind you before you know it.
+Dialogue: 0,0:08:42.29,0:08:44.48,Main,Guy,0000,0000,0000,,Are you a Class S hero?
+Dialogue: 0,0:08:44.48,0:08:46.79,Main,Guy,0000,0000,0000,,Do you hate cockroaches, too?
+Dialogue: 0,0:08:48.02,0:08:52.21,Main,Genos,0000,0000,0000,,Not cockroaches in particular, but I have \Na long-running feud with bug monsters.
+Dialogue: 0,0:08:52.21,0:08:53.97,Italics,Genos,0000,0000,0000,,The last one.
+Dialogue: 0,0:08:54.61,0:08:56.70,Italics,Genos,0000,0000,0000,,If I can take care of \Nthis one with no issues,
+Dialogue: 0,0:08:56.70,0:08:59.05,Italics,Genos,0000,0000,0000,,I might make it to Master's match in time.
+Dialogue: 0,0:08:59.05,0:09:01.77,Main,Guy,0000,0000,0000,,Just so you know, I'm strong.
+Dialogue: 0,0:09:02.46,0:09:05.54,Main,Guy,0000,0000,0000,,Jakumen ends up tapping out!
+Dialogue: 0,0:09:05.54,0:09:08.06,Main,Guy,0000,0000,0000,,That was an excellent finishing \Nmove on Sourface's part!
+Dialogue: 0,0:09:08.06,0:09:10.44,Main,Guy,0000,0000,0000,,And they're holding each other up!
+Dialogue: 0,0:09:10.44,0:09:13.15,Main,Guy,0000,0000,0000,,What beautiful sportsmanship!
+Dialogue: 0,0:09:13.65,0:09:15.49,Main,Sai,0000,0000,0000,,Did you win, Sourface?
+Dialogue: 0,0:09:15.49,0:09:18.55,Main,Sour,0000,0000,0000,,What?! Weren't you watching, Charanko?
+Dialogue: 0,0:09:18.55,0:09:20.53,Main,Sour,0000,0000,0000,,Didn't you see how awesome I was?
+Dialogue: 0,0:09:20.53,0:09:21.95,Main,Sai,0000,0000,0000,,I was in the bathroom.
+Dialogue: 0,0:09:21.95,0:09:23.51,Main,Sour,0000,0000,0000,,You jerk...
+Dialogue: 0,0:09:23.51,0:09:26.62,Main,Sour,0000,0000,0000,,Hey! The guy you're up against next...
+Dialogue: 0,0:09:26.93,0:09:28.54,Main,Sour,0000,0000,0000,,Be careful with him.
+Dialogue: 0,0:09:28.54,0:09:31.13,Main,Sour,0000,0000,0000,,I've seen Bakuzan in action before.
+Dialogue: 0,0:09:30.17,0:09:33.63,Italics,Sai,0000,0000,0000,,{\an8}Crap... I undid my obi in the bathroom,
+Dialogue: 0,0:09:31.13,0:09:33.63,Main,,0000,0000,0000,,He shows no mercy to inferior opponents...
+Dialogue: 0,0:09:33.63,0:09:35.51,Main,,0000,0000,0000,,Hey!
+Dialogue: 0,0:09:33.63,0:09:35.51,Italics,Sai,0000,0000,0000,,{\an8}and I don't know how to retie it.
+Dialogue: 0,0:09:35.51,0:09:37.30,Main,Sour,0000,0000,0000,,Are you listening?!
+Dialogue: 0,0:09:37.30,0:09:42.50,Main,Guy,0000,0000,0000,,Next up, we have Charanko, \Nfresh off a victory over Zakkos,
+Dialogue: 0,0:09:42.50,0:09:46.31,Main,Guy,0000,0000,0000,,versus Bakuzan, a former \Ntwo-time consecutive winner!
+Dialogue: 0,0:09:46.31,0:09:51.73,Main,Guy,0000,0000,0000,,He is the master of Darkness Hellkill, \Nwhich has left many fighters bloody!
+Dialogue: 0,0:09:51.73,0:09:57.78,Main,Guy,0000,0000,0000,,Will he be sending even more of his \Nopponents to the hospital this time around?
+Dialogue: 0,0:09:59.05,0:10:02.16,Main,Baku,0000,0000,0000,,I'm just teaching those \Nwho lack resolve a lesson.
+Dialogue: 0,0:10:02.65,0:10:07.82,Main,Baku,0000,0000,0000,,Listen up. When two martial \Nartists fight, it's not a sport.
+Dialogue: 0,0:10:07.82,0:10:09.95,Main,Baku,0000,0000,0000,,Lives are at stake...
+Dialogue: 0,0:10:10.44,0:10:11.56,Main,Baku,0000,0000,0000,,Hey!
+Dialogue: 0,0:10:11.56,0:10:13.24,Main,Sai,0000,0000,0000,,Well, whatever. This should work.
+Dialogue: 0,0:10:14.10,0:10:15.01,Main,Baku,0000,0000,0000,,I'm going to kill you.
+Dialogue: 0,0:10:16.05,0:10:16.59,Main,Guy,0000,0000,0000,,Begin!
+Dialogue: 0,0:10:16.59,0:10:22.51,Main,Guy,0000,0000,0000,,And it's begun! How does Charanko \Nplan to fight against Bakuzan?
+Dialogue: 0,0:10:23.77,0:10:26.89,Italics,Baku,0000,0000,0000,,He's wide open. What's with this guy?
+Dialogue: 0,0:10:27.53,0:10:29.56,Italics,Bku,0000,0000,0000,,Does he even have the will to fight?
+Dialogue: 0,0:10:30.12,0:10:34.11,Main,Guy,0000,0000,0000,,Uh-oh! Bakuzan is closing \Nthe gap between them!
+Dialogue: 0,0:10:34.11,0:10:35.10,Main,Baku,0000,0000,0000,,Hey, you.
+Dialogue: 0,0:10:35.70,0:10:37.30,Main,Baku,0000,0000,0000,,Are you an amateur?
+Dialogue: 0,0:10:37.30,0:10:40.99,Main,Sai,0000,0000,0000,,Yeah. This is actually my first \Ntime doing one of these things.
+Dialogue: 0,0:10:40.99,0:10:43.24,Main,Sai,0000,0000,0000,,Let me experience your \Nmartial arts technique.
+Dialogue: 0,0:10:44.06,0:10:45.40,Main,Baku,0000,0000,0000,,Very well.
+Dialogue: 0,0:10:45.85,0:10:48.50,Main,Baku,0000,0000,0000,,As you wish, I'll give you my full \Ncourse before executing you.
+Dialogue: 0,0:10:48.96,0:10:50.58,Main,Baku,0000,0000,0000,,First, your leg.
+Dialogue: 0,0:10:51.15,0:10:56.34,Main,Baku,0000,0000,0000,,My Demon-Sweeper Low Kick crushes bone, \Nso you'll never be able to stand again.
+Dialogue: 0,0:10:57.25,0:10:58.34,Main,Baku,0000,0000,0000,,Next, your torso.
+Dialogue: 0,0:10:58.89,0:11:03.55,Main,Baku,0000,0000,0000,,After my Bear-Killer Mid \NKick and Carnage Punch...
+Dialogue: 0,0:11:04.18,0:11:07.68,Main,Baku,0000,0000,0000,,your arm will break, \Nand your guts will go flying.
+Dialogue: 0,0:11:07.68,0:11:10.02,Main,Baku,0000,0000,0000,,Lastly, your head...
+Dialogue: 0,0:11:10.02,0:11:13.27,Main,Baku,0000,0000,0000,,My Hell-Bringin' Hand Chop \Nwill split your skull,
+Dialogue: 0,0:11:13.27,0:11:14.92,Main,Baku,0000,0000,0000,,so you can kiss this world goodb—
+Dialogue: 0,0:11:14.92,0:11:16.57,Main,Sai,0000,0000,0000,,Don't touch my head!
+Dialogue: 0,0:11:21.15,0:11:23.68,Main,Guy,0000,0000,0000,,Uh... Out of bounds...
+Dialogue: 0,0:11:23.68,0:11:26.85,Main,Sai,0000,0000,0000,,Crap. I missed out on the \Nactual fighting part again.
+Dialogue: 0,0:11:26.85,0:11:29.91,Main,Guy,0000,0000,0000,,The match is over! Someone get a stretcher!
+Dialogue: 0,0:11:30.53,0:11:33.71,Main,Guy,0000,0000,0000,,What an absolutely stunning upset!
+Dialogue: 0,0:11:33.71,0:11:36.53,Main,Guy,0000,0000,0000,,The one who defeated Bakuzan, \Nwho was favored to win this tournament,
+Dialogue: 0,0:11:36.53,0:11:39.73,Main,Guy,0000,0000,0000,,was Charanko, who is competing \Nhere for the first time!
+Dialogue: 0,0:11:39.73,0:11:42.05,Main,Suiryu,0000,0000,0000,,He finished him in one punch again.
+Dialogue: 0,0:11:42.05,0:11:45.31,Main,Suiryu,0000,0000,0000,,Okay, then. I guess I'll do that, too.
+Dialogue: 0,0:11:47.01,0:11:52.48,Italics,Guy,0000,0000,0000,,Mr. Ignoramus is here to explain \Nthe recent monster outbreak.
+Dialogue: 0,0:11:53.05,0:11:58.36,Italics,Guy,0000,0000,0000,,Mr. Ignoramus, what are your thoughts \Non the recent outbreak of monsters?
+Dialogue: 0,0:11:58.36,0:12:01.86,sign_17224_200_Monster_Expert_I,Sign,0000,0000,0000,,{\fad(1692,1)}Monster Expert\N{\fs24}Ignoramus
+Dialogue: 0,0:12:00.33,0:12:01.86,Italics,Guy,0000,0000,0000,,Nothing?
+Dialogue: 0,0:12:03.07,0:12:05.82,Italics,Guy,0000,0000,0000,,Oh, we've just received new information.
+Dialogue: 0,0:12:06.71,0:12:12.04,Italics,Guy,0000,0000,0000,,The Class A hero Lightning Genji was \Ncritically injured and has collapsed.
+Dialogue: 0,0:12:09.14,0:12:12.04,sign_17482_204_Hero_Guide,Sign,0000,0000,0000,,{\fad(130,1)}Hero\NGuide
+Dialogue: 0,0:12:12.41,0:12:14.71,Italics,Guy,0000,0000,0000,,What do you think about this?
+Dialogue: 0,0:12:15.89,0:12:18.15,Italics,Guy,0000,0000,0000,,I see that you're speechless.
+Dialogue: 0,0:12:16.96,0:12:18.80,sign_17670_207_Critically_Injur,Sign,0000,0000,0000,,Critically Injured
+Dialogue: 0,0:12:18.15,0:12:18.80,Main,Guy,0000,0000,0000,,Hey!
+Dialogue: 0,0:12:19.16,0:12:20.67,Main,Guy,0000,0000,0000,,Hey, wake up!
+Dialogue: 0,0:12:22.11,0:12:23.01,Main,Mohi,0000,0000,0000,,Ow...
+Dialogue: 0,0:12:23.01,0:12:24.55,Main,Guy,0000,0000,0000,,Are you all right, Mohican?
+Dialogue: 0,0:12:24.55,0:12:27.01,Main,Guy,0000,0000,0000,,There should have been a \Nfather and a son here.
+Dialogue: 0,0:12:27.44,0:12:29.29,Main,Guy,0000,0000,0000,,Do you know where the son went?
+Dialogue: 0,0:12:30.35,0:12:35.48,sign_17991_214_Waganma,Sign,0000,0000,0000,,Waganma
+Dialogue: 0,0:12:30.35,0:12:35.48,sign_17991_214_Waganma,Sign,0000,0000,0000,,{\pos(422,230)}Narinki
+Dialogue: 0,0:12:31.53,0:12:35.48,Main,Lady,0000,0000,0000,,Mr. Narinki's son, Wanganma, \Nwas kidnapped by monsters.
+Dialogue: 0,0:12:35.80,0:12:38.29,Main,Guy,0000,0000,0000,,What?! But why?
+Dialogue: 0,0:12:38.29,0:12:44.11,Main,Lady,0000,0000,0000,,We're not sure, but Mr. Narinki's \Ncontributions cover 7% of our expenses,
+Dialogue: 0,0:12:44.11,0:12:47.04,Main,Lady,0000,0000,0000,,so we cannot lose his trust.
+Dialogue: 0,0:12:47.04,0:12:51.40,Main,Guy,0000,0000,0000,,Right. Getting Waganma back \Nsafely takes top priority.
+Dialogue: 0,0:12:51.40,0:12:55.00,Main,Guy,0000,0000,0000,,Gather all heroes at Class A and up!
+Dialogue: 0,0:12:55.00,0:12:56.02,Main,Guy,0000,0000,0000,,But...
+Dialogue: 0,0:12:56.02,0:12:59.38,Main,Lady,0000,0000,0000,,Are you saying to ignore all the \Nmonsters rampaging through the cities?
+Dialogue: 0,0:12:59.38,0:13:04.22,Main,Guy,0000,0000,0000,,The Class S hero Metal Bat has been found \Ncritically injured and unconscious.
+Dialogue: 0,0:13:05.63,0:13:07.34,Main,Bug,0000,0000,0000,,Come on, now. What's wrong?
+Dialogue: 0,0:13:10.14,0:13:12.35,Main,Bug,0000,0000,0000,,You can't hit me like that.
+Dialogue: 0,0:13:13.11,0:13:14.60,Main,Geno,0000,0000,0000,,I can't get a good shot at him...
+Dialogue: 0,0:13:15.86,0:13:17.83,Main,Bug,0000,0000,0000,,Where are you looking? \NI'm right over here!
+Dialogue: 0,0:13:22.74,0:13:24.24,Italics,Genos,0000,0000,0000,,It's not just that he's fast...
+Dialogue: 0,0:13:24.60,0:13:29.82,Italics,Genos,0000,0000,0000,,My eyes can't keep up with his unusual \Nmovements, and he slips between buildings.
+Dialogue: 0,0:13:29.82,0:13:31.15,Main,Genos,0000,0000,0000,,You leave me no choice.
+Dialogue: 0,0:13:31.70,0:13:33.70,Main,Genos,0000,0000,0000,,I didn't want to use this, but...
+Dialogue: 0,0:13:33.70,0:13:38.56,Main,Bug,0000,0000,0000,,Oh? Do you still have something \Nelse up your sleeve?
+Dialogue: 0,0:13:38.56,0:13:41.80,Main,Bug,0000,0000,0000,,Are you going to shoot laser \Nbeams from your eyes?
+Dialogue: 0,0:13:42.35,0:13:46.93,Italics,Genos,0000,0000,0000,,I didn't even want to equip myself \Nwith this, but Dr. Kuseno was right.
+Dialogue: 0,0:13:46.93,0:13:49.68,Main,Bug,0000,0000,0000,,Tracking missiles? Poisonous gas?
+Dialogue: 0,0:13:49.68,0:13:55.77,Italics,Genos,0000,0000,0000,,I will not grow if I cannot \Nface superior opponents.
+Dialogue: 0,0:13:55.77,0:13:59.31,Main,Bug,0000,0000,0000,,It's not pesticide, is it?
+Dialogue: 0,0:14:00.30,0:14:01.65,Main,Bug,0000,0000,0000,,Wh-What the...
+Dialogue: 0,0:14:02.62,0:14:04.90,Main,Bug,0000,0000,0000,,My legs! This is...
+Dialogue: 0,0:14:04.90,0:14:07.53,Main,Genos,0000,0000,0000,,It's an instantaneous \Nsuper-strength adhesive.
+Dialogue: 0,0:14:07.53,0:14:13.03,Main,Genos,0000,0000,0000,,Even if a super-fast ninja attacks me, \NI can take them out in an instant.
+Dialogue: 0,0:14:13.62,0:14:17.87,Main,Genos,0000,0000,0000,,But by using this, I'm basically \Nacknowledging how fast he is.
+Dialogue: 0,0:14:18.18,0:14:19.37,Main,Bug,0000,0000,0000,,What are you talking about?!
+Dialogue: 0,0:14:20.22,0:14:22.57,Main,Genos,0000,0000,0000,,I guess this doesn't concern you.
+Dialogue: 0,0:14:23.13,0:14:24.84,Main,Genos,0000,0000,0000,,Incinerate.
+Dialogue: 0,0:14:33.86,0:14:35.74,Italics,Genos,0000,0000,0000,,Did he leave his feet behind and flee?
+Dialogue: 0,0:14:36.30,0:14:38.33,Italics,Genos,0000,0000,0000,,Either way, he's critically injured.
+Dialogue: 0,0:14:38.83,0:14:41.05,Italics,Genos,0000,0000,0000,,I guess I can head back to the stadium.
+Dialogue: 0,0:14:41.05,0:14:43.44,Italics,Genos,0000,0000,0000,,I might make it back in \Ntime for Master's match.
+Dialogue: 0,0:14:44.35,0:14:46.06,Italics,Genos,0000,0000,0000,,Something's approaching at high speed...
+Dialogue: 0,0:14:46.49,0:14:50.24,Italics,Genos,0000,0000,0000,,Is it the cockroach? No... \NThis is something different.
+Dialogue: 0,0:14:57.05,0:15:02.29,Main,Bliz,0000,0000,0000,,Hey... You're not supposed to fall \Nunder her control so easily!
+Dialogue: 0,0:15:02.29,0:15:04.85,Main,Chick,0000,0000,0000,,You're so cute when you're panicked.
+Dialogue: 0,0:15:04.85,0:15:09.22,Main,Chick,0000,0000,0000,,Too bad for you, \Nbut they're all my slaves now.
+Dialogue: 0,0:15:11.63,0:15:13.97,Main,Chick,0000,0000,0000,,How does it feel to have your \Nsubordinates taken from you?
+Dialogue: 0,0:15:13.97,0:15:16.93,Main,Chick,0000,0000,0000,,Come on, you'd better fight back.
+Dialogue: 0,0:15:16.93,0:15:18.85,Main,Chick,0000,0000,0000,,You must be holding back.
+Dialogue: 0,0:15:20.17,0:15:24.69,Main,Chick,0000,0000,0000,,In that case, I'll let you join \Nthem as one of my slaves!
+Dialogue: 0,0:15:30.53,0:15:32.86,Flashback,Saitama,0000,0000,0000,,You're not gonna survive like that.
+Dialogue: 0,0:15:32.86,0:15:34.28,Main,Blizz,0000,0000,0000,,Shut up!
+Dialogue: 0,0:15:35.66,0:15:39.06,Main,Chick,0000,0000,0000,,Wow, you hold up against \Nthese numbers quite well.
+Dialogue: 0,0:15:39.96,0:15:42.75,Main,Chick,0000,0000,0000,,But I wonder how long you can keep that up!
+Dialogue: 0,0:15:46.89,0:15:50.26,Main,Chick,0000,0000,0000,,Here we go! I'm going to lash you to pieces!
+Dialogue: 0,0:15:55.35,0:15:57.14,Main,Chick,0000,0000,0000,,She's feeling that.
+Dialogue: 0,0:15:57.14,0:15:59.56,Main,Chick,0000,0000,0000,,Now you're mine.
+Dialogue: 0,0:15:59.93,0:16:03.40,Main,Chick,0000,0000,0000,,By the way, you're one of the \NPsychic Sisters, aren't you?
+Dialogue: 0,0:16:04.22,0:16:08.78,Main,Chick,0000,0000,0000,,In other words, your little sister is \Nthe Class S hero Terrible Tornado.
+Dialogue: 0,0:16:09.21,0:16:14.57,Main,Chick,0000,0000,0000,,Meaning if I use you as bait, \NI can lure Tornado out.
+Dialogue: 0,0:16:15.03,0:16:17.95,Main,Chick,0000,0000,0000,,Good thing your little sister's so special.
+Dialogue: 0,0:16:26.47,0:16:28.75,Italics,Chick,0000,0000,0000,,She hasn't lost her senses to my whip?
+Dialogue: 0,0:16:29.14,0:16:32.86,Italics,Chick,0000,0000,0000,,Her will is so strong... I think I hate her.
+Dialogue: 0,0:16:36.97,0:16:39.51,Main,Chick,0000,0000,0000,,That hurt, you stupid bitch!
+Dialogue: 0,0:16:40.27,0:16:44.01,Main,Chick,0000,0000,0000,,I was going to use you to lure out \Nyour little sister, but forget that!
+Dialogue: 0,0:16:44.01,0:16:46.01,Main,Chick,0000,0000,0000,,I'll rip you to shreds right now!
+Dialogue: 0,0:16:46.90,0:16:50.19,Main,Blizz,0000,0000,0000,,You don't have to lure her out. \NMy older sister will come.
+Dialogue: 0,0:16:52.05,0:16:53.32,Main,Chick,0000,0000,0000,,What's this shaking?
+Dialogue: 0,0:16:53.70,0:16:55.81,Main,Blizz,0000,0000,0000,,I guess she was closer than I thought.
+Dialogue: 0,0:16:56.61,0:16:59.45,Main,Blizz,0000,0000,0000,,She can sense when I've sustained damage.
+Dialogue: 0,0:17:00.47,0:17:00.91,Main,Blizz,0000,0000,0000,,She's coming.
+Dialogue: 0,0:17:02.18,0:17:03.62,Main,Chick,0000,0000,0000,,Explosions?!
+Dialogue: 0,0:17:04.10,0:17:05.62,Main,Chick,0000,0000,0000,,Something's coming nearer.
+Dialogue: 0,0:17:06.34,0:17:07.92,Main,Chick,0000,0000,0000,,Something terrible!
+Dialogue: 0,0:17:11.83,0:17:13.55,Main,Blizz,0000,0000,0000,,She's coming.
+Dialogue: 0,0:17:13.94,0:17:15.91,Main,Blizz,0000,0000,0000,,Terrible Tornado.
+Dialogue: 0,0:17:17.84,0:17:20.18,Main,Thing,0000,0000,0000,,S-Super S...
+Dialogue: 0,0:17:20.83,0:17:23.93,Main,Thing,0000,0000,0000,,There's an insane monster \Non the hero side, too...
+Dialogue: 0,0:17:24.53,0:17:27.33,Italics,Chick,0000,0000,0000,,She's even worse than I thought.
+Dialogue: 0,0:17:24.53,0:17:28.50,Main,Thing,0000,0000,0000,,{\an8}She destroyed... us all...
+Dialogue: 0,0:17:27.79,0:17:29.73,Italics,Chick,0000,0000,0000,,I should probably get out of here...
+Dialogue: 0,0:17:30.16,0:17:31.19,Main,Blizz,0000,0000,0000,,There she is.
+Dialogue: 0,0:17:33.45,0:17:37.24,Main,Blizz,0000,0000,0000,,Big Sis! I-I haven't lost ye—
+Dialogue: 0,0:17:37.24,0:17:40.38,Main,Tor,0000,0000,0000,,Go on home already, Blizzard.
+Dialogue: 0,0:17:40.38,0:17:43.12,Main,Tor,0000,0000,0000,,I'll clean up your mess.
+Dialogue: 0,0:17:43.12,0:17:47.21,Main,Chick,0000,0000,0000,,S-Slaves! Buy me time to run away!
+Dialogue: 0,0:17:48.85,0:17:52.86,Main,Blizz,0000,0000,0000,,Wait! They're on our side! \NPlease don't attack them!
+Dialogue: 0,0:17:57.58,0:18:00.01,Main,Blizz,0000,0000,0000,,I just asked you to not attack them...
+Dialogue: 0,0:18:00.66,0:18:02.97,Main,Tor,0000,0000,0000,,I wouldn't call this an attack.
+Dialogue: 0,0:18:02.97,0:18:04.41,Main,Blizz,0000,0000,0000,,Uh, that was definitely an attack.
+Dialogue: 0,0:18:04.41,0:18:08.87,Main,Tor,0000,0000,0000,,Also, I wouldn't say they're on our side. \NThey're just a hindrance.
+Dialogue: 0,0:18:08.87,0:18:12.23,Main,Tor,0000,0000,0000,,I'm surprised you still had that \NClass B club thing going on.
+Dialogue: 0,0:18:12.75,0:18:15.36,Main,Tor,0000,0000,0000,,Ugh, she escaped.
+Dialogue: 0,0:18:15.81,0:18:18.22,Main,Tor,0000,0000,0000,,I probably shouldn't waste time here talking
+Dialogue: 0,0:18:18.22,0:18:21.03,Main,Tor,0000,0000,0000,,since there are apparently other monsters.
+Dialogue: 0,0:18:21.54,0:18:23.71,Main,Tor,0000,0000,0000,,Could you tell your flunkies
+Dialogue: 0,0:18:23.71,0:18:27.85,Main,Tor,0000,0000,0000,,that they're just in the way, \Nso they should probably just run?
+Dialogue: 0,0:18:34.90,0:18:39.01,Italics,Snek,0000,0000,0000,,I'd be denying my own worth, \Nso I was trying not to think about it...
+Dialogue: 0,0:18:39.41,0:18:43.10,Italics,Snek,0000,0000,0000,,But this isn't good. \NI'm thinking about it again.
+Dialogue: 0,0:18:44.81,0:18:47.85,Flashback,Monster,0000,0000,0000,,I want to eat you! \NI want to eat human flesh!
+Dialogue: 0,0:18:47.85,0:18:49.58,Flashback,Snek,0000,0000,0000,,Hold it right there!
+Dialogue: 0,0:18:49.58,0:18:54.57,Flashback,Snek,0000,0000,0000,,Now that I, Snakebite Snek, am here, \NI won't let you hurt anyone else!
+Dialogue: 0,0:18:55.37,0:18:58.53,Italics,Snek,0000,0000,0000,,I was shining so brightly back then.
+Dialogue: 0,0:18:58.53,0:19:02.32,Italics,Snek,0000,0000,0000,,I was someone special who had \Nthe power to protect the masses.
+Dialogue: 0,0:19:02.32,0:19:06.74,Italics,Snek,0000,0000,0000,,The fact that I was a real \Nhero fulfilled my spirit.
+Dialogue: 0,0:19:07.45,0:19:10.25,Italics,Snek,0000,0000,0000,,But over time, I began to \Nsee reality a bit clearer.
+Dialogue: 0,0:19:10.66,0:19:14.49,Italics,Snek,0000,0000,0000,,There were creatures out there I couldn't \Ndefeat, no matter how much I struggled.
+Dialogue: 0,0:19:14.49,0:19:19.88,Italics,Snek,0000,0000,0000,,There were even nameless civilians \Nout there that I couldn't defeat.
+Dialogue: 0,0:19:20.47,0:19:23.53,Italics,Snek,0000,0000,0000,,Are pro heroes actually necessary?
+Dialogue: 0,0:19:23.76,0:19:25.87,Italics,Snek,0000,0000,0000,,I find myself asking that a lot lately.
+Dialogue: 0,0:19:26.54,0:19:28.39,Italics,Snek,0000,0000,0000,,Maybe even if I didn't exist...
+Dialogue: 0,0:19:28.90,0:19:30.94,Italics,Snek,0000,0000,0000,,Even if the Hero Association didn't exist...
+Dialogue: 0,0:19:31.31,0:19:35.40,Italics,Snek,0000,0000,0000,,There'd still be someone else \Nto defeat the monsters.
+Dialogue: 0,0:19:35.93,0:19:40.99,Italics,Snek,0000,0000,0000,,If anything, this man definitely doesn't \Nseem like he'd need me to protect him.
+Dialogue: 0,0:19:41.51,0:19:44.37,Main,Suiryu,0000,0000,0000,,That Max guy earlier had a little more oomph.
+Dialogue: 0,0:19:44.37,0:19:48.12,Main,Snek,0000,0000,0000,,Why do you just keep dodging? \NWhy not attack?
+Dialogue: 0,0:19:48.56,0:19:51.75,Main,Suiryu,0000,0000,0000,,I wanted to at least confirm your abilities.
+Dialogue: 0,0:19:52.54,0:19:55.25,Main,Suiryu,0000,0000,0000,,Class A heroes get a pretty \Nhigh salary, don't they?
+Dialogue: 0,0:19:55.25,0:19:58.71,Main,Suiryu,0000,0000,0000,,If someone at your level can \Ndo it, it might be a decent job.
+Dialogue: 0,0:19:59.51,0:20:02.09,Main,Suiryu,0000,0000,0000,,Just kidding. I'd just want the money.
+Dialogue: 0,0:20:03.42,0:20:05.34,Main,Snek,0000,0000,0000,,Why are you so strong?
+Dialogue: 0,0:20:05.79,0:20:09.93,Main,Snek,0000,0000,0000,,You're frivolous and lack all ambition.
+Dialogue: 0,0:20:11.38,0:20:13.31,Main,Suiryu,0000,0000,0000,,Maybe it's just pure talent.
+Dialogue: 0,0:20:13.31,0:20:15.63,Main,Snek,0000,0000,0000,,You really piss me off.
+Dialogue: 0,0:20:15.63,0:20:19.73,Main,Suiryu,0000,0000,0000,,When I was training, I'd just \Nrandomly spar with my master.
+Dialogue: 0,0:20:19.73,0:20:22.20,Main,Suiryu,0000,0000,0000,,But I haven't even trained \Nthe last couple of years.
+Dialogue: 0,0:20:22.57,0:20:27.41,Main,Suiryu,0000,0000,0000,,Why do you bother being a hero? \NI mean, at your skill level...
+Dialogue: 0,0:20:27.41,0:20:29.16,Main,Snek,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:20:29.16,0:20:32.07,Main,Suiryu,0000,0000,0000,,There are many more \Npowerful monsters lately.
+Dialogue: 0,0:20:32.07,0:20:35.29,Main,Suiryu,0000,0000,0000,,Is there even a reason \Nfor you to try anymore?
+Dialogue: 0,0:20:36.03,0:20:40.10,Main,Suiryu,0000,0000,0000,,Even if there weren't any heroes, the people \Nwho could survive would still survive.
+Dialogue: 0,0:20:40.10,0:20:43.93,Main,Suiryu,0000,0000,0000,,The weak are weeded out, \Nwhether we have monsters or not.
+Dialogue: 0,0:20:43.93,0:20:46.14,Main,Suiryu,0000,0000,0000,,That's how nature works.
+Dialogue: 0,0:20:46.14,0:20:50.81,Main,Snek,0000,0000,0000,,So you're saying that we should just \Nlet the monsters kill people?!
+Dialogue: 0,0:20:50.81,0:20:51.47,Main,Lady,0000,0000,0000,,What's going on?!
+Dialogue: 0,0:20:51.88,0:20:53.05,Main,Lady,0000,0000,0000,,Is this part of the show?
+Dialogue: 0,0:20:53.89,0:20:54.93,Main,Guy,0000,0000,0000,,Monsters!
+Dialogue: 0,0:20:53.89,0:20:55.90,sign_10926_119_Hero_Association,Sign,0000,0000,0000,,{\fad(1234,1)\fay.31\pos(294,90.333)}Hero Association Hospital
+Dialogue: 0,0:20:54.93,0:20:55.90,Main,Guy,0000,0000,0000,,Inside the hospital?!
+Dialogue: 0,0:20:55.90,0:20:59.50,Main,Mumen,0000,0000,0000,,We'll hold them back! \NEveryone, get to the roof!
+Dialogue: 0,0:20:57.65,0:21:00.61,sign_30154_352_Bottom_of_Foot,Sign,0000,0000,0000,,Bottom of Foot
+Dialogue: 0,0:20:59.99,0:21:03.09,Main,Suiryu,0000,0000,0000,,Despite that, we survive.
+Dialogue: 0,0:21:03.09,0:21:05.57,Main,Old,0000,0000,0000,,What the hell does a monster want at a jail?
+Dialogue: 0,0:21:05.57,0:21:08.57,Main,Old,0000,0000,0000,,The boss escaped from jail \Nto defeat some monsters!
+Dialogue: 0,0:21:08.57,0:21:11.13,Main,Guy,0000,0000,0000,,So Puri-Puri Prisoner isn't here?
+Dialogue: 0,0:21:11.63,0:21:12.79,Main,Guy,0000,0000,0000,,Oh, well.
+Dialogue: 0,0:21:13.13,0:21:14.79,Main,Snek,0000,0000,0000,,Who are you saying will survive?
+Dialogue: 0,0:21:18.71,0:21:20.25,Main,Suiryu,0000,0000,0000,,The strong.
+Dialogue: 0,0:21:18.71,0:21:20.84,sign_30659_360_Super_big,Sign,0000,0000,0000,,{\clip(m 140 106 l 181 105 179 109 179 114 179 117 180 120 186 121 187 125 189 128 189 133 190 135 189 138 140 138)}Super big
+Dialogue: 0,0:21:18.71,0:21:20.84,sign_30659_361_Big_winner__,Sign,0000,0000,0000,,Big winner!!
+Dialogue: 0,0:21:20.84,0:21:21.59,Main,Snek,0000,0000,0000,,What—
+Dialogue: 0,0:21:23.38,0:21:25.34,Main,Suiryu,0000,0000,0000,,This is what I'm talking about.
+Dialogue: 0,0:21:29.33,0:21:30.97,Main,Sai,0000,0000,0000,,Sounds exciting out there.
+Dialogue: 0,0:23:02.09,0:23:06.94,Main,Mon,0000,0000,0000,,Well, Gyoro-Gyoro, are the monsters \Nwe sent forth wreaking havoc?
+Dialogue: 0,0:23:06.94,0:23:12.83,Main,Gyo,0000,0000,0000,,Yes. We've lost some, but it appears \Nthat we still remain dominant.
+Dialogue: 0,0:23:12.83,0:23:15.62,Main,Gyo,0000,0000,0000,,The Hero Association is panicking.
+Dialogue: 0,0:23:15.62,0:23:17.95,Main,Mon,0000,0000,0000,,What is Goketsu doing?
+Dialogue: 0,0:23:17.95,0:23:20.53,Main,Gyo,0000,0000,0000,,It seems he's heading toward \Nan event venue where
+Dialogue: 0,0:23:20.53,0:23:22.54,Main,Gyo,0000,0000,0000,,there's a martial arts tournament going on.
+Dialogue: 0,0:23:22.54,0:23:31.22,Main,Gyo,0000,0000,0000,,So far, our big victories include Demon \NCyborg, Metal Bat, and Metal Knight.
+Dialogue: 0,0:23:31.22,0:23:35.72,Main,Gyo,0000,0000,0000,,And we still have our \Nmain forces on standby.
+Dialogue: 0,0:23:35.72,0:23:39.31,Main,Gyo,0000,0000,0000,,Victory is certain for the \NMonster Association,
+Dialogue: 0,0:23:39.31,0:23:42.59,Main,Gyo,0000,0000,0000,,Monster King Orochi.
+Dialogue: 0,0:23:44.98,0:23:50.25,Next Ep Title,Sign,0000,0000,0000,,{\pos(216.667,114.667)\an8}Class S Heroes

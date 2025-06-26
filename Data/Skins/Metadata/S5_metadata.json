@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Franky",
+        "released": "2011-01-27",
+        "rating": "7.1",
+        "imdb_id": "tt1728826",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Rich",
+        "released": "2011-02-03",
+        "rating": "7.3",
+        "imdb_id": "tt1759379",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Mini",
+        "released": "2011-02-10",
+        "rating": "7.4",
+        "imdb_id": "tt1759380",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Liv",
+        "released": "2011-02-17",
+        "rating": "6.9",
+        "imdb_id": "tt1759381",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Nick",
+        "released": "2011-02-24",
+        "rating": "6.9",
+        "imdb_id": "tt1759382",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Alo",
+        "released": "2011-03-03",
+        "rating": "7.1",
+        "imdb_id": "tt1759383",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Grace",
+        "released": "2011-03-10",
+        "rating": "N/A",
+        "imdb_id": "tt1759384",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Everyone",
+        "released": "2011-03-17",
+        "rating": "N/A",
+        "imdb_id": "tt1759385",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

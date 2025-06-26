@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Tony and Maxxie",
+        "released": "2008-02-11",
+        "rating": "8.2",
+        "imdb_id": "tt1182824",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Sketch",
+        "released": "2008-02-18",
+        "rating": "7.7",
+        "imdb_id": "tt1188337",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Sid",
+        "released": "2008-02-25",
+        "rating": "8.8",
+        "imdb_id": "tt1190053",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Michelle",
+        "released": "2008-03-03",
+        "rating": "N/A",
+        "imdb_id": "tt1190054",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Chris",
+        "released": "2008-03-10",
+        "rating": "8.6",
+        "imdb_id": "tt1199250",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Tony",
+        "released": "2008-03-17",
+        "rating": "8.2",
+        "imdb_id": "tt1204677",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Effy",
+        "released": "2008-03-24",
+        "rating": "N/A",
+        "imdb_id": "tt1204868",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Jal",
+        "released": "2008-03-31",
+        "rating": "N/A",
+        "imdb_id": "tt1211741",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Cassie",
+        "released": "2008-04-07",
+        "rating": "N/A",
+        "imdb_id": "tt1215375",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Everyone",
+        "released": "2008-04-14",
+        "rating": "N/A",
+        "imdb_id": "tt1215759",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

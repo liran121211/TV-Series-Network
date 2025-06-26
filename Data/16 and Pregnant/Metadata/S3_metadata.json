@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Jordan 2011",
+        "released": "2011-04-19",
+        "rating": "N/A",
+        "imdb_id": "tt1886788",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S03E01.Jordan.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "3": {
+        "title": "Jamie",
+        "released": "2011-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt1906534",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S03E03.Jamie.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "4": {
+        "title": "Danielle",
+        "released": "2011-05-10",
+        "rating": "4.7",
+        "imdb_id": "tt1912533",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S03E04.Danielle.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "5": {
+        "title": "Cleondra",
+        "released": "2011-05-17",
+        "rating": "N/A",
+        "imdb_id": "tt1922797",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S03E05.Cleondra.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "6": {
+        "title": "Kayla",
+        "released": "2011-05-24",
+        "rating": "N/A",
+        "imdb_id": "tt3809270",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S03E06.Kayla.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "7": {
+        "title": "Izabella 2011",
+        "released": "2011-05-31",
+        "rating": "N/A",
+        "imdb_id": "tt1935965",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S03E07.Izabella.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "8": {
+        "title": "Kianna",
+        "released": "2011-06-07",
+        "rating": "N/A",
+        "imdb_id": "tt1945237",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S03E08.Kianna.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "9": {
+        "title": "Taylor 2011",
+        "released": "2011-06-14",
+        "rating": "N/A",
+        "imdb_id": "tt1951316",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S03E09.Taylor.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "10": {
+        "title": "Allie",
+        "released": "2011-06-21",
+        "rating": "4.8",
+        "imdb_id": "tt1959619",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

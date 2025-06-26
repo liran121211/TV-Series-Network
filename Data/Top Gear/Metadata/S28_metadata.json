@@ -1,0 +1,58 @@
+{
+    "0": {
+        "title": "Nepal Special",
+        "released": "2020-08-30",
+        "rating": "6.3",
+        "imdb_id": "tt11517882",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "1": {
+        "title": "Episode #28.1",
+        "released": "2020-09-06",
+        "rating": "6.1",
+        "imdb_id": "tt11679296",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S20\\Top.Gear.S20E01.HDTV.XviD-FOVS20E1.zip"
+    },
+    "2": {
+        "title": "Episode #28.2",
+        "released": "2020-09-13",
+        "rating": "N/A",
+        "imdb_id": "tt11702224",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #28.3",
+        "released": "2020-09-20",
+        "rating": "N/A",
+        "imdb_id": "tt11702232",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S20\\Top.Gear.S20E03.HDTV.x264-TLAS20E3.zip"
+    },
+    "4": {
+        "title": "Episode #28.4",
+        "released": "2020-09-27",
+        "rating": "N/A",
+        "imdb_id": "tt11711778",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S20\\Top.Gear.S20E04.HDTV.x264-FoVS20E4.zip"
+    },
+    "5": {
+        "title": "Episode #28.5",
+        "released": "2020-10-04",
+        "rating": "6.1",
+        "imdb_id": "tt11711764",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S20\\Top_Gear_S20E05_720p_HDTV_x264-RiVERS20E5.zip"
+    },
+    "6": {
+        "title": "Episode #28.6",
+        "released": "2020-10-11",
+        "rating": "N/A",
+        "imdb_id": "tt11711756",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

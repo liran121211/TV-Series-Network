@@ -1,0 +1,26 @@
+{
+    "1": {
+        "title": "A Scandal in Belgravia",
+        "released": "2012-05-06",
+        "rating": "9.4",
+        "imdb_id": "tt1942612",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Hounds of Baskerville",
+        "released": "2012-05-13",
+        "rating": "8.3",
+        "imdb_id": "tt1942613",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Reichenbach Fall",
+        "released": "2012-05-20",
+        "rating": "9.6",
+        "imdb_id": "tt1942614",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

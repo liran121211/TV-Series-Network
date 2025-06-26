@@ -1,0 +1,18 @@
+{
+    "1": {
+        "title": "Part 1",
+        "released": "1999-09-14",
+        "rating": "N/A",
+        "imdb_id": "tt3980404",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Journey to the Center of the Earth\\Subtitles\\S1\\Journey.to.the.Center.of.the.Earth.S01E01.WEB-DL.DSNP.zip"
+    },
+    "2": {
+        "title": "Episode #1.2",
+        "released": "1999-09-15",
+        "rating": "N/A",
+        "imdb_id": "tt5819828",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Journey to the Center of the Earth\\Subtitles\\S1\\Journey.to.the.Center.of.the.Earth.S01E02.WEB-DL.DSNP.zip"
+    }
+}

@@ -1,0 +1,241 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,20,20,23,1
+Style: main,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,20,20,23,1
+Style: top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,20,20,23,1
+Style: italics,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,20,20,23,1
+Style: italicstop,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,20,20,23,1
+Style: flashback,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,20,20,23,1
+Style: flashbackitalicstop,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,20,20,23,1
+Style: overlap,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,20,20,23,1
+Style: overlaptop,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,20,20,23,1
+Style: overlap italics,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,20,20,23,1
+Style: sign_4700_10_Slave,Times New Roman,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_16622_97_A_fir_tree_on_a_,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:56.47,0:01:57.88,italics,NA,0,0,0,,Carve it.
+Dialogue: 0,0:02:03.76,0:02:06.14,italics,NA,0,0,0,,Carve it into your flesh.
+Dialogue: 0,0:02:13.19,0:02:15.44,italics,NA,0,0,0,,Carve it into the land.
+Dialogue: 0,0:02:21.45,0:02:23.74,italics,NA,0,0,0,,Carve it into the sea.
+Dialogue: 0,0:02:28.62,0:02:31.25,italics,NA,0,0,0,,Carve it into your enemies.
+Dialogue: 0,0:02:31.67,0:02:33.75,italics,NA,0,0,0,,Carve it into your spoils.
+Dialogue: 0,0:02:36.17,0:02:38.13,italics,NA,0,0,0,,Carve it.
+Dialogue: 0,0:02:38.88,0:02:40.76,italics,NA,0,0,0,,Carve it.
+Dialogue: 0,0:02:57.07,0:03:01.24,italics,NA,0,0,0,,Carve that warmth into me.
+Dialogue: 1,0:03:16.00,0:03:22.22,sign_4700_10_Slave,EPTITLE,0,0,0,,{\blur60\pos(321,930)\fad(1322,1145)\t(1,1322,\blur0)\t(5075,6220,\blur20)}Slave
+Dialogue: 0,0:03:16.00,0:03:22.22,sign_4700_10_Slave,EPTITLE,0,0,0,,{\blur60\pos(324,933)\fad(1322,1145)\t(1,1322,\blur0)\t(5075,6220,\blur20)\c&H000000&}Slave
+Dialogue: 0,0:03:23.32,0:03:24.33,main,EMMA,0,0,0,,Einar!
+Dialogue: 0,0:03:29.04,0:03:30.43,main,EINAR,0,0,0,,What are you doing?
+Dialogue: 0,0:03:30.43,0:03:32.44,main,EMMA,0,0,0,,I could ask you the same thing!
+Dialogue: 0,0:03:32.86,0:03:34.44,main,EMMA,0,0,0,,Why're you attackin' that tree?
+Dialogue: 0,0:03:34.44,0:03:35.94,main,EMMA,0,0,0,,You tryna crush the house?
+Dialogue: 0,0:03:37.41,0:03:39.74,main,LOTTA,0,0,0,,Are you gonna be a woodcutter, Einar?
+Dialogue: 0,0:03:39.74,0:03:41.04,main,EINAR,0,0,0,,No.
+Dialogue: 0,0:03:41.45,0:03:43.80,main,EINAR,0,0,0,,I'm training for battle.
+Dialogue: 0,0:03:43.80,0:03:45.20,main,EINAR,0,0,0,,Behold my power.
+Dialogue: 0,0:03:46.12,0:03:50.03,main,EMMA,0,0,0,,You're a big lad, \Nbut you'd be useless in battle.
+Dialogue: 0,0:03:50.03,0:03:51.53,main,EMMA,0,0,0,,Get ready for lunch.
+Dialogue: 0,0:03:51.53,0:03:54.08,main,LOTTA,0,0,0,,I'm so hungry...
+Dialogue: 0,0:03:57.99,0:04:00.22,main,EINAR,0,0,0,,You don't have to throw a knife at me.
+Dialogue: 0,0:04:00.22,0:04:02.75,main,EINAR,0,0,0,,You're holding dishes and spoons.
+Dialogue: 0,0:04:02.75,0:04:04.26,main,EMMA,0,0,0,,You wouldn't mind a dish?
+Dialogue: 0,0:04:09.43,0:04:14.49,main,LOTTA,0,0,0,,They say bears have to \Neat lots before winter.
+Dialogue: 0,0:04:14.49,0:04:15.64,main,EMMA,0,0,0,,Huh.
+Dialogue: 0,0:04:19.94,0:04:23.77,main,EMMA,0,0,0,,So, why are you trainin' again all of a sudden?
+Dialogue: 0,0:04:20.58,0:04:21.69,top,LOTTA,0,0,0,,Thankya.
+Dialogue: 0,0:04:25.25,0:04:28.44,main,EINAR,0,0,0,,Well, because I gotta protect this place.
+Dialogue: 0,0:04:32.00,0:04:36.58,main,EINAR,0,0,0,,After it was all burnt to ashes, \Nit's finally been rebuilt.
+Dialogue: 0,0:04:38.42,0:04:40.82,main,EINAR,0,0,0,,I'm not letting that happen again.
+Dialogue: 0,0:04:43.20,0:04:44.39,main,EINAR,0,0,0,,I'm sure Dad would—
+Dialogue: 0,0:04:46.36,0:04:49.14,main,LOTTA,0,0,0,,Mister Guthmur's milk is so good.
+Dialogue: 0,0:04:49.42,0:04:54.14,main,EMMA,0,0,0,,Right? That man knows his way around a teat.
+Dialogue: 0,0:04:54.14,0:04:56.40,main,LOTTA,0,0,0,,What are you doin' \Nwith your hands? It's so creepy.
+Dialogue: 0,0:04:56.40,0:04:58.33,main,EINAR,0,0,0,,Hey, listen to me.
+Dialogue: 0,0:04:57.96,0:04:59.13,top,LOTTA,0,0,0,,Gross!
+Dialogue: 0,0:04:58.33,0:05:00.06,main,EMMA,0,0,0,,Don't bother.
+Dialogue: 0,0:05:00.06,0:05:01.86,main,EMMA,0,0,0,,Don't poke your nose into warrior stuff.
+Dialogue: 0,0:05:04.32,0:05:07.34,main,EINAR,0,0,0,,Doesn't it frustrate you, \Nalways being on the losing side?
+Dialogue: 0,0:05:07.67,0:05:10.96,main,EINAR,0,0,0,,Dad died protecting us.
+Dialogue: 0,0:05:10.96,0:05:12.08,main,EMMA,0,0,0,,That's right.
+Dialogue: 0,0:05:12.08,0:05:14.00,main,EMMA,0,0,0,,And you're alive.
+Dialogue: 0,0:05:14.00,0:05:15.63,main,EMMA,0,0,0,,You've rebuilt this village,
+Dialogue: 0,0:05:15.63,0:05:18.36,main,EMMA,0,0,0,,and you're eating a delicious meal \Nwith two beautiful ladies.
+Dialogue: 0,0:05:22.95,0:05:24.33,main,EMMA,0,0,0,,We haven't lost at all.
+Dialogue: 0,0:05:38.61,0:05:39.15,main,OLD MAN ON CART,0,0,0,,Hey.
+Dialogue: 0,0:05:39.16,0:05:40.61,main,OLD MAN VILLAGER,0,0,0,,Hey, how are you?
+Dialogue: 0,0:05:42.24,0:05:43.58,main,CHILD VILLAGER,0,0,0,,Hurry up.
+Dialogue: 0,0:06:13.32,0:06:16.38,main,EMMA,0,0,0,,Listen closely. Once we enter \Nthe woods, I want you to run.
+Dialogue: 0,0:06:16.38,0:06:17.39,main,EMMA,0,0,0,,Follow the river, and...
+Dialogue: 0,0:06:18.44,0:06:19.27,main,EINAR,0,0,0,,Lotta.
+Dialogue: 0,0:06:20.60,0:06:21.53,main,EINAR,0,0,0,,Mom.
+Dialogue: 0,0:06:31.78,0:06:34.91,main,EMMA,0,0,0,,Don't think. Just run straight ahead.
+Dialogue: 0,0:06:35.67,0:06:37.58,main,EMMA,0,0,0,,Your brother and I will be with you.
+Dialogue: 0,0:07:13.68,0:07:14.73,main,EINAR,0,0,0,,Mom!
+Dialogue: 0,0:07:24.18,0:07:25.82,main,EINAR,0,0,0,,You ready? Let's get you up.
+Dialogue: 0,0:07:28.97,0:07:30.01,main,EINAR,0,0,0,,Mom!
+Dialogue: 0,0:07:39.33,0:07:44.99,main,EMMA,0,0,0,,Einar, run. Leave me.
+Dialogue: 0,0:07:44.99,0:07:45.91,main,EINAR,0,0,0,,I'm not...
+Dialogue: 0,0:07:47.27,0:07:49.92,main,EINAR,0,0,0,,Come on. Stand, damn it.
+Dialogue: 0,0:07:49.92,0:07:51.07,main,LOTTA,0,0,0,,Mom?
+Dialogue: 0,0:07:51.68,0:07:52.89,main,LOTTA,0,0,0,,Mom!
+Dialogue: 0,0:08:00.56,0:08:02.22,main,LOTTA,0,0,0,,Mom...
+Dialogue: 0,0:08:05.32,0:08:06.65,main,EMMA,0,0,0,,Silly girl...
+Dialogue: 0,0:08:09.25,0:08:12.16,main,VIKING B,0,0,0,,There are still people over there.
+Dialogue: 0,0:08:12.91,0:08:15.08,main,VIKING C,0,0,0,,Hey, they've got women, too!
+Dialogue: 0,0:08:15.08,0:08:17.10,main,VIKING B,0,0,0,,We're on our way, girls!
+Dialogue: 0,0:08:29.17,0:08:30.70,main,EMMA,0,0,0,,Stand up, Einar.
+Dialogue: 0,0:08:32.47,0:08:34.52,main,EMMA,0,0,0,,Take Lotta and go. Hurry!
+Dialogue: 0,0:08:36.52,0:08:37.53,main,EINAR,0,0,0,,Mom...
+Dialogue: 0,0:08:40.71,0:08:44.63,main,EMMA,0,0,0,,Even a dying old hag can still manage.
+Dialogue: 0,0:08:46.80,0:08:47.88,main,EMMA,0,0,0,,Live.
+Dialogue: 0,0:08:51.25,0:08:55.08,main,EMMA,0,0,0,,As long as you're alive, you can...
+Dialogue: 0,0:09:04.96,0:09:07.56,main,EMMA,0,0,0,,Ei...nar...
+Dialogue: 0,0:09:08.72,0:09:10.12,main,EMMA,0,0,0,,Lotta...
+Dialogue: 0,0:09:30.61,0:09:32.81,main,VIKING B,0,0,0,,Why aren't they running?
+Dialogue: 0,0:09:32.81,0:09:35.47,main,VIKING C,0,0,0,,Hey, she's pretty cute.
+Dialogue: 0,0:09:36.28,0:09:38.63,main,VIKING D,0,0,0,,Your mom's dead, isn't she?
+Dialogue: 0,0:09:40.31,0:09:41.10,main,EINAR,0,0,0,,Lotta!
+Dialogue: 0,0:09:41.10,0:09:43.35,main,LOTTA,0,0,0,,Let go! Einar!
+Dialogue: 0,0:09:43.35,0:09:44.10,main,EINAR,0,0,0,,Lotta!
+Dialogue: 0,0:09:44.56,0:09:46.12,main,EINAR,0,0,0,,Let go of her!
+Dialogue: 0,0:09:47.48,0:09:48.68,main,LOTTA,0,0,0,,Einar!
+Dialogue: 0,0:09:50.31,0:09:52.54,main,LOTTA,0,0,0,,How dare you!
+Dialogue: 0,0:09:53.27,0:09:56.17,main,LOTTA,0,0,0,,Einar! Einar!
+Dialogue: 0,0:10:05.80,0:10:07.41,main,LOTTA,0,0,0,,You'll pay for—
+Dialogue: 0,0:10:17.72,0:10:20.30,main,VIKING C,0,0,0,,What the hell are you doing?
+Dialogue: 0,0:10:20.30,0:10:23.35,main,VIKING B,0,0,0,,She freakin' stabbed me!
+Dialogue: 0,0:10:23.35,0:10:25.47,main,VIKING C,0,0,0,,Aw, man. What a waste.
+Dialogue: 0,0:10:25.47,0:10:26.78,main,VIKING D,0,0,0,,Nothing we can do about it.
+Dialogue: 0,0:10:26.78,0:10:29.48,main,VIKING D,0,0,0,,Let's sell the kid for beer money.
+Dialogue: 0,0:10:30.15,0:10:31.61,main,VIKING C,0,0,0,,You're such a dumbass.
+Dialogue: 0,0:10:31.61,0:10:33.34,main,VIKING B,0,0,0,,I'm sorry, okay?
+Dialogue: 0,0:10:33.34,0:10:36.01,main,VIKING C,0,0,0,,Come on. Let's go, beer money.
+Dialogue: 1,0:11:33.25,0:11:45.26,sign_16622_97_A_fir_tree_on_a_,SIGN,0,0,0,,{\pos(1140,105)\fnGeorgia\fad(1000,1)}A fir on a barren land withers\N With neither bark nor leaves\NSo too does the man loved by none\N Why should he live a long life?
+Dialogue: 0,0:11:33.25,0:11:45.26,sign_16622_97_A_fir_tree_on_a_,SIGN,0,0,0,,{\pos(1140,105)\fnGeorgia\fad(1000,1)\bord2\blur12}A fir on a barren land withers\N With neither bark nor leaves\NSo too does the man loved by none\N Why should he live a long life?
+Dialogue: 1,0:11:33.25,0:11:45.26,sign_16622_97_A_fir_tree_on_a_,SIGN,0,0,0,,{\fnGeorgia\fad(1000,1)\pos(1494,252)}— Hávamál
+Dialogue: 0,0:11:33.25,0:11:45.26,sign_16622_97_A_fir_tree_on_a_,SIGN,0,0,0,,{\fnGeorgia\fad(1000,1)\bord2\blur12\pos(1494,252)}— Hávamál
+Dialogue: 0,0:12:23.22,0:12:24.26,main,MERCHANT A,0,0,0,,How is she?
+Dialogue: 0,0:12:27.54,0:12:29.03,main,MERCHANT B,0,0,0,,She's not gonna make it.
+Dialogue: 0,0:12:29.43,0:12:33.24,main,MERCHANT A,0,0,0,,Shit. Fine, let's move her.
+Dialogue: 0,0:12:45.73,0:12:47.37,main,MERCHANTS,0,0,0,,Heave-ho!
+Dialogue: 0,0:12:49.96,0:12:50.70,main,EINAR,0,0,0,,Hey!
+Dialogue: 0,0:13:01.88,0:13:04.26,main,EINAR,0,0,0,,Hey, what the hell was that for?
+Dialogue: 0,0:13:04.26,0:13:05.93,main,EINAR,0,0,0,,You didn't need to throw her overboard!
+Dialogue: 0,0:13:10.80,0:13:13.06,main,MERCHANT A,0,0,0,,All right, you're not swollen.
+Dialogue: 0,0:13:15.50,0:13:17.02,main,MERCHANT B,0,0,0,,We're handing out blankets.
+Dialogue: 0,0:13:17.02,0:13:19.34,main,MERCHANT B,0,0,0,,Keep yourselves warm.
+Dialogue: 0,0:13:20.08,0:13:22.64,main,MERCHANT B,0,0,0,,We paid a fortune for you lot.
+Dialogue: 0,0:13:22.64,0:13:25.65,main,MERCHANT B,0,0,0,,Don't go getting sick without our say so.
+Dialogue: 0,0:13:26.36,0:13:29.45,main,MERCHANT B,0,0,0,,At the very least, stay healthy \Nuntil we find a buyer for you.
+Dialogue: 0,0:13:29.45,0:13:30.50,main,MERCHANT B,0,0,0,,Got it?
+Dialogue: 0,0:13:33.54,0:13:35.18,main,MERCHANT B,0,0,0,,Come on, hurry up!
+Dialogue: 0,0:13:35.18,0:13:36.66,main,MERCHANT B,0,0,0,,Take in that sail!
+Dialogue: 0,0:14:04.47,0:14:07.88,italics,EINAR,0,0,0,,That's right. I have to live.
+Dialogue: 0,0:14:18.92,0:14:22.43,main,MERCHANT D,0,0,0,,Don't skip the liquor. \NIt'll improve your color.
+Dialogue: 0,0:14:23.28,0:14:26.59,main,MERCHANT C,0,0,0,,Clean every nook and cranny, \Nespecially your heads.
+Dialogue: 0,0:14:27.11,0:14:29.11,main,MERCHANT C,0,0,0,,Check each other for lice.
+Dialogue: 0,0:14:33.68,0:14:36.12,main,WOMAN B,0,0,0,,How's this?
+Dialogue: 0,0:14:37.21,0:14:38.91,main,MERCHANT A,0,0,0,,Hair's good.
+Dialogue: 0,0:14:38.91,0:14:41.48,main,MERCHANT A,0,0,0,,Could you do her makeup \Nso she looks a little younger?
+Dialogue: 0,0:14:56.41,0:14:59.74,main,MERCHANT A,0,0,0,,Well? Pretty good selection \Nthis time, don't you think?
+Dialogue: 0,0:15:00.30,0:15:02.29,main,CUSTOMER A,0,0,0,,All second-rate crap.
+Dialogue: 0,0:15:02.29,0:15:03.84,main,MERCHANT A,0,0,0,,There you go again.
+Dialogue: 0,0:15:03.84,0:15:05.78,main,MERCHANT A,0,0,0,,You won't find anything better than ours!
+Dialogue: 0,0:15:09.17,0:15:12.15,italics,EINAR,0,0,0,,That's right. I can't stay there.
+Dialogue: 0,0:15:13.00,0:15:16.74,italics,EINAR,0,0,0,,I'll run away. \NAs long as I survive, I can try again.
+Dialogue: 0,0:15:39.46,0:15:41.06,main,WOMAN C,0,0,0,,Hup...
+Dialogue: 0,0:15:43.76,0:15:45.19,main,WOMAN C,0,0,0,,Thief!
+Dialogue: 0,0:15:46.28,0:15:47.34,main,EINAR,0,0,0,,Sorry!
+Dialogue: 0,0:15:54.34,0:15:55.76,main,MERCHANT A,0,0,0,,Hey, Einar.
+Dialogue: 0,0:15:56.64,0:15:59.27,main,MERCHANT A,0,0,0,,You still don't get it.
+Dialogue: 0,0:16:07.00,0:16:10.81,main,MERCHANT A,0,0,0,,Listen closely, slaves.
+Dialogue: 0,0:16:11.77,0:16:14.62,main,MERCHANT A,0,0,0,,Your homes are far, far away.
+Dialogue: 0,0:16:14.62,0:16:17.15,main,MERCHANT A,0,0,0,,No matter how much you struggle, \Nyou're never getting back to them.
+Dialogue: 0,0:16:17.15,0:16:22.00,main,MERCHANT A,0,0,0,,And naturally, \Nnobody's gonna help you escape.
+Dialogue: 0,0:16:22.36,0:16:28.73,main,MERCHANT A,0,0,0,,Because you're outsiders \Nand penniless slaves.
+Dialogue: 0,0:16:29.45,0:16:32.92,main,MERCHANT A,0,0,0,,Find a good master \Nand serve him as best you can.
+Dialogue: 0,0:16:33.56,0:16:37.68,main,MERCHANT A,0,0,0,,You'll eat way better than if you \Nrun away and end up a beggar.
+Dialogue: 0,0:16:38.03,0:16:41.93,main,MERCHANT A,0,0,0,,Before you go running off on adventures, \Nthink real hard about which is better.
+Dialogue: 0,0:16:42.96,0:16:45.27,main,MERCHANT A,0,0,0,,You got that, Einar?
+Dialogue: 0,0:17:00.29,0:17:05.06,main,EINAR,0,0,0,,I have to live...
+Dialogue: 0,0:17:13.85,0:17:20.88,main,CUSTOMER B,0,0,0,,Well, he's not bad, but have you \Ngot any boys with a cuter face?
+Dialogue: 0,0:17:20.88,0:17:22.47,main,MERCHANT D,0,0,0,,Ah, I see.
+Dialogue: 0,0:17:22.47,0:17:26.19,main,MERCHANT D,0,0,0,,In that case, we've got some \Nspecial products for you to look at.
+Dialogue: 0,0:17:26.19,0:17:29.23,main,CUSTOMER B,0,0,0,,Oh, really? How exciting.
+Dialogue: 0,0:17:29.23,0:17:32.17,main,MERCHANT D,0,0,0,,I'm sure you'll find them satisfactory.
+Dialogue: 0,0:17:37.70,0:17:39.29,italics,EINAR,0,0,0,,They're right.
+Dialogue: 0,0:17:40.42,0:17:44.22,italics,EINAR,0,0,0,,Even if I blindly ran away, \NI wouldn't know where I was going.
+Dialogue: 0,0:17:45.89,0:17:46.90,italics,EINAR,0,0,0,,And besides...
+Dialogue: 0,0:17:50.40,0:17:55.32,italics,EINAR,0,0,0,,I don't have anywhere to go back to.
+Dialogue: 0,0:17:57.51,0:18:02.31,italics,EINAR,0,0,0,,As long as I obediently serve \Nsome master somewhere...
+Dialogue: 0,0:18:04.55,0:18:08.28,main,MERCHANT A,0,0,0,,I'm telling you, you sure are lucky.
+Dialogue: 0,0:18:08.28,0:18:10.52,main,MERCHANT A,0,0,0,,We just got a huge batch in.
+Dialogue: 0,0:18:10.52,0:18:11.86,main,MERCHANT A,0,0,0,,Look, that's him.
+Dialogue: 0,0:18:14.23,0:18:16.49,main,MERCHANT A,0,0,0,,Isn't he the one you're looking for?
+Dialogue: 0,0:18:42.93,0:18:45.47,main,LEIF,0,0,0,,He looks nothing like him!
+Dialogue: 0,0:18:45.47,0:18:47.77,main,LEIF,0,0,0,,He's not blond {\i1}or{\i0} small!
+Dialogue: 0,0:18:47.77,0:18:51.06,main,MERCHANT A,0,0,0,,Huh? Now that I get a better look, \NI guess that's not him.
+Dialogue: 0,0:18:51.48,0:18:54.08,main,MERCHANT A,0,0,0,,That aside, what do you think?
+Dialogue: 0,0:18:54.08,0:18:56.56,main,MERCHANT A,0,0,0,,He's strong and tough. If you buy him now—
+Dialogue: 0,0:18:56.56,0:19:00.95,main,LEIF,0,0,0,,I told you, I'm not here to buy a worker.
+Dialogue: 0,0:19:01.36,0:19:04.03,main,LEIF,0,0,0,,All I want is to free my relative.
+Dialogue: 0,0:19:04.03,0:19:07.45,main,LEIF,0,0,0,,I'm certain he came to this town.
+Dialogue: 0,0:19:07.83,0:19:09.77,main,LEIF,0,0,0,,Blond and small...
+Dialogue: 0,0:19:09.77,0:19:11.24,main,LEIF,0,0,0,,His name is Thorfinn.
+Dialogue: 0,0:19:11.24,0:19:14.34,main,LEIF,0,0,0,,You really have no idea where he is?
+Dialogue: 0,0:19:21.89,0:19:23.31,main,LEIF,0,0,0,,I'm sorry.
+Dialogue: 0,0:19:26.11,0:19:27.40,main,LEIF,0,0,0,,And sorry to have bothered you.
+Dialogue: 0,0:19:27.40,0:19:30.44,main,MERCHANT A,0,0,0,,No problem. Come again soon.
+Dialogue: 0,0:19:32.77,0:19:34.74,main,MERCHANT A,0,0,0,,He's never gonna find him.
+Dialogue: 0,0:19:37.68,0:19:42.25,italics,EINAR,0,0,0,,So he's walking around \Nlooking for his relative.
+Dialogue: 0,0:19:45.83,0:19:50.34,italics,EINAR,0,0,0,,Whoever he's looking for is one lucky guy.
+Dialogue: 0,0:19:55.12,0:19:56.49,main,KETIL,0,0,0,,You there.
+Dialogue: 0,0:20:01.20,0:20:04.73,main,KETIL,0,0,0,,Can you speak? Let me see your teeth.
+Dialogue: 0,0:20:18.27,0:20:19.50,main,KETIL,0,0,0,,What's your name?
+Dialogue: 0,0:20:19.93,0:20:21.76,main,EINAR,0,0,0,,Einar.
+Dialogue: 0,0:20:21.76,0:20:24.14,main,KETIL,0,0,0,,Where are you from? What did you do before?
+Dialogue: 0,0:20:24.57,0:20:26.80,main,EINAR,0,0,0,,I was a farmer in Northern England.
+Dialogue: 0,0:20:27.42,0:20:28.68,main,KETIL,0,0,0,,Oh?
+Dialogue: 0,0:20:37.32,0:20:39.00,main,KETIL,0,0,0,,What do you say, Einar?
+Dialogue: 0,0:20:39.00,0:20:41.42,main,KETIL,0,0,0,,Would you like to help out on my farm?
+Dialogue: 0,0:20:49.48,0:20:50.90,main,EINAR,0,0,0,,A farm...
+Dialogue: 0,0:21:14.21,0:21:16.33,main,KETIL,0,0,0,,Einar, over here.
+Dialogue: 0,0:21:20.61,0:21:22.91,main,KETIL,0,0,0,,All of my people are at work now.
+Dialogue: 0,0:21:22.91,0:21:25.90,main,KETIL,0,0,0,,I'll introduce you to them at dinner.
+Dialogue: 0,0:21:25.90,0:21:26.92,main,EINAR,0,0,0,,Yes, sir.
+Dialogue: 0,0:21:28.37,0:21:31.08,main,KETIL,0,0,0,,But first, take a look at my farm.
+Dialogue: 0,0:22:02.58,0:22:07.11,italics,EINAR,0,0,0,,Hey, Mom. Was that really true?
+Dialogue: 0,0:22:09.52,0:22:14.73,italics,EINAR,0,0,0,,Live or die, I'll never be free again.
+Dialogue: 0,0:22:16.43,0:22:21.18,italics,EINAR,0,0,0,,You still think I haven't lost?
+Dialogue: 0,0:22:45.32,0:22:46.98,italics,EINAR,0,0,0,,My family was taken from me.
+Dialogue: 0,0:22:47.52,0:22:50.94,italics,EINAR,0,0,0,,I lost my home. I lost everything.
+Dialogue: 0,0:22:52.79,0:22:56.81,italics,EINAR,0,0,0,,I didn't even know \Nwhat the point of living was anymore.
+Dialogue: 0,0:23:05.94,0:23:09.32,main,KETIL,0,0,0,,Thorfinn, it's me. Come here.
+Dialogue: 0,0:23:25.48,0:23:30.78,italics,EINAR,0,0,0,,"I'll be bought by a good master \Nand do my best to serve him."
+Dialogue: 0,0:23:32.40,0:23:36.04,italics,EINAR,0,0,0,,"As long as I'm an obedient slave, \NI won't starve."
+Dialogue: 0,0:23:37.64,0:23:40.70,italics,EINAR,0,0,0,,I was beginning to think that way.
+Dialogue: 0,0:23:41.12,0:23:42.62,main,EINAR,0,0,0,,Thorfinn...
+Dialogue: 0,0:23:54.77,0:23:55.99,italics,EINAR,0,0,0,,That was...
+Dialogue: 0,0:23:58.21,0:24:03.10,italics,EINAR,0,0,0,,how Thorfinn and I met.
+Dialogue: 1,0:25:51.94,0:25:54.99,sign_4700_10_Slave,SIGN,0,0,0,,{\fs90\fsp5\blur60\pos(651,885)\fad(1153,1)\t(1,1153,\blur0)}Ketil's Farm
+Dialogue: 0,0:25:51.94,0:25:54.99,sign_4700_10_Slave,SIGN,0,0,0,,{\fs90\fsp5\blur60\pos(654,888)\fad(1153,1)\t(1,1322,\blur1)\c&H000000&}Ketil's Farm
+Dialogue: 0,0:25:52.73,0:25:54.38,italicstop,Narrator,0,0,0,,"Ketil's Farm."

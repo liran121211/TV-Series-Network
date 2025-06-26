@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Three Slaps",
+        "released": "2022-03-24",
+        "rating": "9.0",
+        "imdb_id": "tt8544114",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S3\\Atlanta.S03E01.Three.Slaps.HDTV.x264-CRiMSON[TGx]S3E1.zip"
+    },
+    "2": {
+        "title": "Sinterklaas Is Coming to Town",
+        "released": "2022-03-24",
+        "rating": "8.3",
+        "imdb_id": "tt8544116",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Old Man and the Tree",
+        "released": "2022-03-31",
+        "rating": "8.5",
+        "imdb_id": "tt8544120",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Big Payback",
+        "released": "2022-04-07",
+        "rating": "7.4",
+        "imdb_id": "tt8544122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Cancer Attack",
+        "released": "2022-04-14",
+        "rating": "8.5",
+        "imdb_id": "tt8544124",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "White Fashion",
+        "released": "2022-04-21",
+        "rating": "7.9",
+        "imdb_id": "tt8544126",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Trini 2 De Bone",
+        "released": "2022-04-28",
+        "rating": "7.5",
+        "imdb_id": "tt8544128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "New Jazz",
+        "released": "2022-05-05",
+        "rating": "8.6",
+        "imdb_id": "tt8544130",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Rich Wigga Poor Wigga",
+        "released": "2022-05-12",
+        "rating": "8.1",
+        "imdb_id": "tt8544134",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Tarrare",
+        "released": "2022-05-19",
+        "rating": "7.2",
+        "imdb_id": "tt8544132",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Hammerscale",
+        "released": "2023-11-03",
+        "rating": "8.7",
+        "imdb_id": "tt27568923",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Blue Eye Samurai\\Subtitles\\S1\\BlueEyeSamuraiS01E01-HammerscaleS1E1.zip"
+    },
+    "2": {
+        "title": "An Unexpected Element",
+        "released": "2023-11-03",
+        "rating": "8.5",
+        "imdb_id": "tt29550516",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Blue Eye Samurai\\Subtitles\\S1\\BlueEyeSamuraiS01E02-AnUnexpectedElementS1E2.zip"
+    },
+    "3": {
+        "title": "A Fixed Number of Paths",
+        "released": "2023-11-03",
+        "rating": "8.5",
+        "imdb_id": "tt29550522",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Blue Eye Samurai\\Subtitles\\S1\\BlueEyeSamuraiS01E03-AFixedNumberofPathsS1E3.zip"
+    },
+    "4": {
+        "title": "Peculiarities",
+        "released": "2023-11-03",
+        "rating": "8.8",
+        "imdb_id": "tt29550527",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Blue Eye Samurai\\Subtitles\\S1\\BlueEyeSamuraiS01E04-PeculiaritiesS1E4.zip"
+    },
+    "5": {
+        "title": "The Tale of the Ronin and the Bride",
+        "released": "2023-11-03",
+        "rating": "9.5",
+        "imdb_id": "tt29550532",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Blue Eye Samurai\\Subtitles\\S1\\BlueEyeSamuraiS01E05-TheTaleoftheRoninandtheBrideS1E5.zip"
+    },
+    "6": {
+        "title": "All Evil Dreams and Angry Words",
+        "released": "2023-11-03",
+        "rating": "8.8",
+        "imdb_id": "tt29550536",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Blue Eye Samurai\\Subtitles\\S1\\BlueEyeSamuraiS01E06-AllEvilDreamsandAngryWordsS1E6.zip"
+    },
+    "7": {
+        "title": "Nothing Broken",
+        "released": "2023-11-03",
+        "rating": "8.5",
+        "imdb_id": "tt29550540",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Blue Eye Samurai\\Subtitles\\S1\\BlueEyeSamuraiS01E07-NothingBrokenS1E7.zip"
+    },
+    "8": {
+        "title": "The Great Fire of 1657",
+        "released": "2023-11-03",
+        "rating": "8.1",
+        "imdb_id": "tt29550542",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

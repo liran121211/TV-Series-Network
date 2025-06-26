@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "The Mook, the Chef, the Wife and Her Homer",
+        "released": "2006-09-10",
+        "rating": "7.5",
+        "imdb_id": "tt0831239",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E01.WEB-DL.DSNPS18E1.zip"
+    },
+    "2": {
+        "title": "Jazzy & The Pussycats",
+        "released": "2006-09-17",
+        "rating": "N/A",
+        "imdb_id": "tt0858309",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E02.WEB-DL.DSNPS18E2.zip"
+    },
+    "3": {
+        "title": "Please Homer, Don't Hammer 'Em",
+        "released": "2006-09-24",
+        "rating": "6.7",
+        "imdb_id": "tt0858310",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E03.WEB-DL.DSNPS18E3.zip"
+    },
+    "4": {
+        "title": "Treehouse of Horror XVII",
+        "released": "2006-11-05",
+        "rating": "6.8",
+        "imdb_id": "tt0831240",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E04.WEB-DL.DSNPS18E4.zip"
+    },
+    "5": {
+        "title": "G.I. (Annoyed Grunt)",
+        "released": "2006-11-12",
+        "rating": "6.7",
+        "imdb_id": "tt0864054",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E05.WEB-DL.DSNPS18E5.zip"
+    },
+    "6": {
+        "title": "Moe'N'a Lisa",
+        "released": "2006-11-19",
+        "rating": "N/A",
+        "imdb_id": "tt0888356",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E06.WEB-DL.DSNPS18E6.zip"
+    },
+    "7": {
+        "title": "Ice Cream of Margie (with the Light Blue Hair)",
+        "released": "2006-11-26",
+        "rating": "N/A",
+        "imdb_id": "tt0888355",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E07.WEB-DL.DSNPS18E7.zip"
+    },
+    "8": {
+        "title": "The Haw-Hawed Couple",
+        "released": "2006-12-10",
+        "rating": "7.2",
+        "imdb_id": "tt0905908",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E08.WEB-DL.DSNPS18E8.zip"
+    },
+    "9": {
+        "title": "Kill Gil, Vol. 1 & 2",
+        "released": "2006-12-17",
+        "rating": "6.2",
+        "imdb_id": "tt0893217",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S18\\The.Simpsons.S18E09.WEB-DL.DSNPS18E9.zip"
+    },
+    "10": {
+        "title": "The Wife Aquatic",
+        "released": "2007-01-07",
+        "rating": "6.5",
+        "imdb_id": "tt0918024",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Revenge Is a Dish Best Served Three Times",
+        "released": "2007-01-28",
+        "rating": "N/A",
+        "imdb_id": "tt0918866",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Little Big Girl",
+        "released": "2007-02-11",
+        "rating": "6.7",
+        "imdb_id": "tt0918865",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Springfield Up",
+        "released": "2007-02-18",
+        "rating": "7.3",
+        "imdb_id": "tt0918868",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Yokel Chords",
+        "released": "2007-03-04",
+        "rating": "6.8",
+        "imdb_id": "tt0959423",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Rome-old and Juli-eh",
+        "released": "2007-03-11",
+        "rating": "6.3",
+        "imdb_id": "tt0918867",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Homerazzi",
+        "released": "2007-03-25",
+        "rating": "N/A",
+        "imdb_id": "tt0918864",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Marge Gamer",
+        "released": "2007-04-22",
+        "rating": "7.2",
+        "imdb_id": "tt0988495",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Boys of Bummer",
+        "released": "2007-04-29",
+        "rating": "5.9",
+        "imdb_id": "tt1019219",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Crook and Ladder",
+        "released": "2007-05-06",
+        "rating": "6.9",
+        "imdb_id": "tt1017618",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Stop, or My Dog Will Shoot!",
+        "released": "2007-05-13",
+        "rating": "6.8",
+        "imdb_id": "tt0918869",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "24 Minutes",
+        "released": "2007-05-20",
+        "rating": "8.1",
+        "imdb_id": "tt0907538",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "You Kent Always Say What You Want",
+        "released": "2007-05-20",
+        "rating": "7.1",
+        "imdb_id": "tt1023430",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "5": {
+        "title": "Training Day",
+        "released": "2011-08-10",
+        "rating": "N/A",
+        "imdb_id": "tt1998881",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Anger Management",
+        "released": "2011-08-17",
+        "rating": "N/A",
+        "imdb_id": "tt2023187",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Unlicensed to Drive",
+        "released": "2012-03-28",
+        "rating": "N/A",
+        "imdb_id": "tt2330155",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Dog House",
+        "released": "2012-05-02",
+        "rating": "N/A",
+        "imdb_id": "tt2218478",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Trouble at Tremont",
+        "released": "2012-05-16",
+        "rating": "N/A",
+        "imdb_id": "tt2218498",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

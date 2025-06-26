@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Samson & Delilah",
+        "released": "2008-09-08",
+        "rating": "8.1",
+        "imdb_id": "tt1245068",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S2\\Terminator.S02E01.DVDRip.XviD-TOPAZS2E1.zip"
+    },
+    "2": {
+        "title": "Automatic for the People",
+        "released": "2008-09-15",
+        "rating": "7.4",
+        "imdb_id": "tt1245067",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S2\\Terminator.S02E02.DVDRip.XviD-TOPAZS2E2.zip"
+    },
+    "3": {
+        "title": "The Mousetrap",
+        "released": "2008-09-22",
+        "rating": "7.7",
+        "imdb_id": "tt1245069",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S2\\Terminator.S02E03.DVDRip.XviD-TOPAZS2E3.zip"
+    },
+    "4": {
+        "title": "Allison from Palmdale",
+        "released": "2008-09-29",
+        "rating": "7.8",
+        "imdb_id": "tt1245336",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S2\\The.Sarah.Connor.Chronicles.S02E04.HDTV.XviD-NoTV_[Fixed]S2E4.zip"
+    },
+    "5": {
+        "title": "Goodbye to All That",
+        "released": "2008-10-06",
+        "rating": "7.7",
+        "imdb_id": "tt1245066",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S2\\Terminator.S02E05.DVDRip.XviD-TOPAZS2E5.zip"
+    },
+    "6": {
+        "title": "The Tower Is Tall But the Fall Is Short",
+        "released": "2008-10-20",
+        "rating": "7.5",
+        "imdb_id": "tt1245337",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S2\\Terminator.The.Sarah.Connor.Chronicles.S02E06.HDTV.XViD-DOT.engS2E6.zip"
+    },
+    "7": {
+        "title": "Brothers of Nablus",
+        "released": "2008-11-03",
+        "rating": "7.6",
+        "imdb_id": "tt1245338",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S2\\Terminator.The.Sarah.Connor.Chronicles.S02E07.HDTV.XviD-0TV.engS2E7.zip"
+    },
+    "8": {
+        "title": "Mr. Ferguson Is Ill Today",
+        "released": "2008-11-10",
+        "rating": "8.3",
+        "imdb_id": "tt1245339",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S2\\Terminator.The.Sarah.Connor.Chronicles.S02E08.HDTV.XviD-NoTV.engS2E8.zip"
+    },
+    "9": {
+        "title": "Complications",
+        "released": "2008-11-17",
+        "rating": "7.5",
+        "imdb_id": "tt1245340",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S2\\Terminator.S02E19.DVDRip.XviD-TOPAZS2E19.zip"
+    },
+    "10": {
+        "title": "Strange Things Happen at the One Two Point",
+        "released": "2008-11-24",
+        "rating": "7.4",
+        "imdb_id": "tt1245332",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Self Made Man",
+        "released": "2008-12-01",
+        "rating": "7.9",
+        "imdb_id": "tt1245333",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Alpine Fields",
+        "released": "2008-12-08",
+        "rating": "7.3",
+        "imdb_id": "tt1245334",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Earthlings Welcome Here",
+        "released": "2008-12-15",
+        "rating": "7.0",
+        "imdb_id": "tt1245335",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Good Wound",
+        "released": "2009-02-13",
+        "rating": "7.4",
+        "imdb_id": "tt1329925",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Desert Cantos",
+        "released": "2009-02-20",
+        "rating": "7.0",
+        "imdb_id": "tt1329926",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Some Must Watch While Some Must Sleep",
+        "released": "2009-02-27",
+        "rating": "6.4",
+        "imdb_id": "tt1329927",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Ourselves Alone",
+        "released": "2009-03-06",
+        "rating": "7.6",
+        "imdb_id": "tt1329928",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Today Is the Day: Part 1",
+        "released": "2009-03-13",
+        "rating": "7.7",
+        "imdb_id": "tt1329929",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Today Is the Day: Part 2",
+        "released": "2009-03-20",
+        "rating": "8.3",
+        "imdb_id": "tt1329930",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S2\\Terminator.S02E19.DVDRip.XviD-TOPAZS2E19.zip"
+    },
+    "20": {
+        "title": "To the Lighthouse",
+        "released": "2009-03-27",
+        "rating": "7.8",
+        "imdb_id": "tt1329931",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Adam Raised a Cain",
+        "released": "2009-04-03",
+        "rating": "8.5",
+        "imdb_id": "tt1329932",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Born to Run",
+        "released": "2009-04-10",
+        "rating": "8.9",
+        "imdb_id": "tt1329933",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S2\\SUBDL::terminator-the-sarah-connor-chronicles-second-season-english-3157036.zip"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Fear of Failure",
+        "released": "2016-06-21",
+        "rating": "8.3",
+        "imdb_id": "tt5070228",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Pork Is a Sausage",
+        "released": "2016-06-28",
+        "rating": "8.1",
+        "imdb_id": "tt5785480",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "A Pistachio Éclair",
+        "released": "2016-07-05",
+        "rating": "8.0",
+        "imdb_id": "tt5785478",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Welcome to Rico Face",
+        "released": "2016-07-12",
+        "rating": "8.0",
+        "imdb_id": "tt5785484",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "There's Strength in Arches",
+        "released": "2016-07-19",
+        "rating": "N/A",
+        "imdb_id": "tt5785482",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

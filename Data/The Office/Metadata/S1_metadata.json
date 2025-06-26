@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2005-03-24",
+        "rating": "7.3",
+        "imdb_id": "tt0664521",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S1\\The.Office.S01E01S1E1.zip"
+    },
+    "2": {
+        "title": "Diversity Day",
+        "released": "2005-03-16",
+        "rating": "8.1",
+        "imdb_id": "tt0664514",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S1\\The.Office.S01E02.HDTV.XviD-LOLS1E2.zip"
+    },
+    "3": {
+        "title": "Health Care",
+        "released": "2005-04-05",
+        "rating": "7.6",
+        "imdb_id": "tt0664517",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S1\\The.Office.S01E03.HDTV.XviD-LOLS1E3.zip"
+    },
+    "4": {
+        "title": "The Alliance",
+        "released": "2005-04-12",
+        "rating": "7.8",
+        "imdb_id": "tt0664523",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S1\\The.Office.S01E04.HDTV.XviD-LOLS1E4.zip"
+    },
+    "5": {
+        "title": "Basketball",
+        "released": "2005-04-19",
+        "rating": "N/A",
+        "imdb_id": "tt0664510",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S1\\The.Office.S01E05.HDTV.XviD-LOLS1E5.zip"
+    },
+    "6": {
+        "title": "Hot Girl",
+        "released": "2005-04-26",
+        "rating": "7.5",
+        "imdb_id": "tt0664518",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

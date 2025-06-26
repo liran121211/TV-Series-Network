@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Episode #9.1",
+        "released": "2013-05-27",
+        "rating": "N/A",
+        "imdb_id": "tt2767628",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #9.2",
+        "released": "2013-06-03",
+        "rating": "N/A",
+        "imdb_id": "tt2934812",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #9.4",
+        "released": "2013-06-17",
+        "rating": "N/A",
+        "imdb_id": "tt2962104",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #9.5",
+        "released": "2013-06-24",
+        "rating": "N/A",
+        "imdb_id": "tt2979770",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #9.6",
+        "released": "2013-07-01",
+        "rating": "5.8",
+        "imdb_id": "tt2993100",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #9.7",
+        "released": "2013-07-08",
+        "rating": "N/A",
+        "imdb_id": "tt3008798",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #9.8",
+        "released": "2013-07-15",
+        "rating": "N/A",
+        "imdb_id": "tt3026574",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Men Tell All",
+        "released": "2013-07-22",
+        "rating": "N/A",
+        "imdb_id": "tt3027206",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Final Rose",
+        "released": "2013-08-05",
+        "rating": "N/A",
+        "imdb_id": "tt3027218",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "After the Final Rose",
+        "released": "2013-08-05",
+        "rating": "N/A",
+        "imdb_id": "tt3027220",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

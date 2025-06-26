@@ -1,0 +1,402 @@
+{
+    "1": {
+        "title": "Perfect",
+        "released": "2021-09-05",
+        "rating": "8.7",
+        "imdb_id": "tt15314646",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Bedroom",
+        "released": "2021-11-22",
+        "rating": "9.0",
+        "imdb_id": "tt15550968",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Obstacle Course",
+        "released": "2021-11-23",
+        "rating": "N/A",
+        "imdb_id": "tt15550974",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Promises",
+        "released": "2021-11-24",
+        "rating": "N/A",
+        "imdb_id": "tt15550972",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Omelette",
+        "released": "2021-11-25",
+        "rating": "8.4",
+        "imdb_id": "tt15550980",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Born Yesterday",
+        "released": "2021-11-26",
+        "rating": "N/A",
+        "imdb_id": "tt15550982",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Mini Bluey",
+        "released": "2021-11-27",
+        "rating": "N/A",
+        "imdb_id": "tt15550990",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Unicorse",
+        "released": "2021-11-28",
+        "rating": "N/A",
+        "imdb_id": "tt15550986",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Curry Quest",
+        "released": "2021-11-29",
+        "rating": "8.9",
+        "imdb_id": "tt15550984",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Magic",
+        "released": "2021-11-30",
+        "rating": "N/A",
+        "imdb_id": "tt15550996",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Chest",
+        "released": "2021-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt15550994",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Sheep Dog",
+        "released": "2021-12-02",
+        "rating": "N/A",
+        "imdb_id": "tt15551002",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Housework",
+        "released": "2021-12-03",
+        "rating": "N/A",
+        "imdb_id": "tt15551006",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Pass The Parcel",
+        "released": "2021-12-04",
+        "rating": "9.1",
+        "imdb_id": "tt15551004",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Explorers",
+        "released": "2021-12-05",
+        "rating": "N/A",
+        "imdb_id": "tt15551010",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Phones",
+        "released": "2021-12-06",
+        "rating": "N/A",
+        "imdb_id": "tt15551014",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Pavlova",
+        "released": "2021-12-07",
+        "rating": "N/A",
+        "imdb_id": "tt15551012",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Rain",
+        "released": "2021-12-08",
+        "rating": "9.5",
+        "imdb_id": "tt15551024",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Pizza Girls",
+        "released": "2021-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt15551018",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Driving",
+        "released": "2021-12-10",
+        "rating": "N/A",
+        "imdb_id": "tt15551020",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Tina",
+        "released": "2022-12-02",
+        "rating": "N/A",
+        "imdb_id": "tt15551032",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Whale Watching",
+        "released": "2021-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt15551034",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Family Meeting",
+        "released": "2021-12-13",
+        "rating": "8.0",
+        "imdb_id": "tt15551040",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Faceytalk",
+        "released": "2021-12-14",
+        "rating": "9.0",
+        "imdb_id": "tt15551036",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Ragdoll",
+        "released": "2021-12-15",
+        "rating": "N/A",
+        "imdb_id": "tt15551046",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Fairytale",
+        "released": "2021-12-16",
+        "rating": "9.4",
+        "imdb_id": "tt15551050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Musical Statues",
+        "released": "2022-06-13",
+        "rating": "N/A",
+        "imdb_id": "tt20261024",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Stories",
+        "released": "2023-07-12",
+        "rating": "N/A",
+        "imdb_id": "tt20261764",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Puppets",
+        "released": "2022-06-15",
+        "rating": "N/A",
+        "imdb_id": "tt20261922",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Turtleboy",
+        "released": "2022-06-16",
+        "rating": "9.0",
+        "imdb_id": "tt20262320",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Onesies",
+        "released": "2023-07-12",
+        "rating": "9.5",
+        "imdb_id": "tt20262336",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Tradies",
+        "released": "2022-06-18",
+        "rating": "8.9",
+        "imdb_id": "tt20262928",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Granny Mobile",
+        "released": "2023-07-12",
+        "rating": "9.2",
+        "imdb_id": "tt20262876",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "Space",
+        "released": "2022-06-20",
+        "rating": "8.7",
+        "imdb_id": "tt20263186",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Smoochy Kiss",
+        "released": "2022-06-21",
+        "rating": "N/A",
+        "imdb_id": "tt20262704",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Dirt",
+        "released": "2022-06-22",
+        "rating": "N/A",
+        "imdb_id": "tt20263572",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "The Decider",
+        "released": "2022-06-23",
+        "rating": "8.6",
+        "imdb_id": "tt20263498",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Cubby",
+        "released": "2023-07-12",
+        "rating": "N/A",
+        "imdb_id": "tt22495974",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Exercise",
+        "released": "2024-01-12",
+        "rating": "8.0",
+        "imdb_id": "tt27122930",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Relax",
+        "released": "2024-01-12",
+        "rating": "N/A",
+        "imdb_id": "tt27122931",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Stickbird",
+        "released": "2024-01-12",
+        "rating": "N/A",
+        "imdb_id": "tt27122934",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Show and Tell",
+        "released": "2024-01-12",
+        "rating": "N/A",
+        "imdb_id": "tt27122935",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Dragon",
+        "released": "2024-01-12",
+        "rating": "N/A",
+        "imdb_id": "tt27122936",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Wild Girls",
+        "released": "2024-01-12",
+        "rating": "7.0",
+        "imdb_id": "tt27122938",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "TV Shop",
+        "released": "2024-01-12",
+        "rating": "N/A",
+        "imdb_id": "tt27301450",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Slide",
+        "released": "2024-01-12",
+        "rating": "N/A",
+        "imdb_id": "tt27301453",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Cricket",
+        "released": "2024-01-12",
+        "rating": "9.7",
+        "imdb_id": "tt27896202",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "Ghostbasket",
+        "released": "2024-04-07",
+        "rating": "N/A",
+        "imdb_id": "tt31241605",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "The Sign",
+        "released": "2024-04-14",
+        "rating": "9.8",
+        "imdb_id": "tt31491044",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Surprise!",
+        "released": "2024-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt31990177",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Chapter One: MADMAX",
+        "released": "2017-10-27",
+        "rating": "8.1",
+        "imdb_id": "tt6020684",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Stranger Things\\Subtitles\\S2\\Stranger.Things.S02E01-09.iNTERNAL.720p+1080p.WEB.x264-STRiFES2E1.zip"
+    },
+    "2": {
+        "title": "Chapter Two: Trick or Treat, Freak",
+        "released": "2017-10-27",
+        "rating": "8.3",
+        "imdb_id": "tt6020792",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Chapter Three: The Pollywog",
+        "released": "2017-10-27",
+        "rating": "8.5",
+        "imdb_id": "tt6020796",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Chapter Four: Will the Wise",
+        "released": "2017-10-27",
+        "rating": "8.5",
+        "imdb_id": "tt6020802",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Chapter Five: Dig Dug",
+        "released": "2017-10-27",
+        "rating": "8.8",
+        "imdb_id": "tt6020806",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Chapter Six: The Spy",
+        "released": "2017-10-27",
+        "rating": "9.1",
+        "imdb_id": "tt6020808",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Chapter Seven: The Lost Sister",
+        "released": "2017-10-27",
+        "rating": "N/A",
+        "imdb_id": "tt6020810",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Chapter Eight: The Mind Flayer",
+        "released": "2017-10-27",
+        "rating": "9.2",
+        "imdb_id": "tt6020812",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Chapter Nine: The Gate",
+        "released": "2017-10-27",
+        "rating": "9.3",
+        "imdb_id": "tt6020876",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

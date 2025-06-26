@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Summer Palace",
+        "released": "2019-08-11",
+        "rating": "8.3",
+        "imdb_id": "tt8543048",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S2\\Succession.S02E01.WEBRip.x264-ION10S2E1.zip"
+    },
+    "2": {
+        "title": "Vaulter",
+        "released": "2019-08-18",
+        "rating": "8.3",
+        "imdb_id": "tt9899086",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S2\\Succession.S02E02.Vaulter.720p.AMZN.WEBRip.DDP5.1.x264-NTbS2E2.zip"
+    },
+    "3": {
+        "title": "Hunting",
+        "released": "2019-08-25",
+        "rating": "9.0",
+        "imdb_id": "tt9899090",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S2\\Succession.S02E03.Hunting.720p.AMZN.WEB-DL.DDP5.1.H.264-NTbS2E3.zip"
+    },
+    "4": {
+        "title": "Safe Room",
+        "released": "2019-09-01",
+        "rating": "9.0",
+        "imdb_id": "tt10100382",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S2\\Succession.S02E04.Safe.Room.720p.AMZN.WEBRip.DDP5.1.x264-NTbS2E4.zip"
+    },
+    "5": {
+        "title": "Tern Haven",
+        "released": "2019-09-08",
+        "rating": "9.3",
+        "imdb_id": "tt10478714",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S2\\Succession.S02E05.Tern.Haven.WEB.x264-PHOENiXS2E5.zip"
+    },
+    "6": {
+        "title": "Argestes",
+        "released": "2019-09-15",
+        "rating": "8.6",
+        "imdb_id": "tt10495506",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S2\\Succession.S02E06.WEB.H264-iNSiDiOUSS2E6.zip"
+    },
+    "7": {
+        "title": "Return",
+        "released": "2019-09-22",
+        "rating": "8.1",
+        "imdb_id": "tt10495518",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S2\\Succession.S02E07.Return.720p.AMZN.WEBRip.DDP5.1.x264-NTbS2E7.zip"
+    },
+    "8": {
+        "title": "Dundee",
+        "released": "2019-09-29",
+        "rating": "N/A",
+        "imdb_id": "tt10495526",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S2\\Succession.S02E08.WEB.H264-STARZS2E8.zip"
+    },
+    "9": {
+        "title": "DC",
+        "released": "2019-10-06",
+        "rating": "9.1",
+        "imdb_id": "tt10882002",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S2\\Succession.S02E09.WEB.x264-PHOENiXS2E9.zip"
+    },
+    "10": {
+        "title": "This Is Not for Tears",
+        "released": "2019-10-13",
+        "rating": "9.7",
+        "imdb_id": "tt11079892",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

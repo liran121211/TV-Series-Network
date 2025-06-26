@@ -1,0 +1,18 @@
+{
+    "1": {
+        "title": "Episode #1.1",
+        "released": "2009-07-12",
+        "rating": "N/A",
+        "imdb_id": "tt1390453",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #1.2",
+        "released": "2009-07-19",
+        "rating": "5.0",
+        "imdb_id": "tt1394790",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

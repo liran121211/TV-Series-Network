@@ -1,0 +1,42 @@
+{
+    "2": {
+        "title": "Quintessence",
+        "released": "2019-09-01",
+        "rating": "N/A",
+        "imdb_id": "tt9658148",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "First Times",
+        "released": "2019-09-08",
+        "rating": "6.5",
+        "imdb_id": "tt9658150",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Perfectly Safe",
+        "released": "2019-09-15",
+        "rating": "N/A",
+        "imdb_id": "tt9658152",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Enemy",
+        "released": "2019-09-22",
+        "rating": "N/A",
+        "imdb_id": "tt9658154",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Little Gidding",
+        "released": "2019-09-29",
+        "rating": "6.1",
+        "imdb_id": "tt9658156",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

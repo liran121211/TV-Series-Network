@@ -1,0 +1,202 @@
+{
+    "1": {
+        "title": "Descent, Part II",
+        "released": "1993-09-18",
+        "rating": "7.7",
+        "imdb_id": "tt0708701",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Liaisons",
+        "released": "1993-09-25",
+        "rating": "6.6",
+        "imdb_id": "tt0708742",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Interface",
+        "released": "1993-10-02",
+        "rating": "6.2",
+        "imdb_id": "tt0708737",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Gambit, Part I",
+        "released": "1993-10-09",
+        "rating": "7.7",
+        "imdb_id": "tt0708721",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Gambit, Part II",
+        "released": "1993-10-16",
+        "rating": "7.9",
+        "imdb_id": "tt0708722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Phantasms",
+        "released": "1993-10-23",
+        "rating": "7.5",
+        "imdb_id": "tt0708755",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Dark Page",
+        "released": "1993-10-30",
+        "rating": "6.4",
+        "imdb_id": "tt0708695",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Attached",
+        "released": "1993-11-06",
+        "rating": "7.5",
+        "imdb_id": "tt0708678",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Force of Nature",
+        "released": "1993-11-13",
+        "rating": "6.3",
+        "imdb_id": "tt0708717",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Inheritance",
+        "released": "1993-11-20",
+        "rating": "7.5",
+        "imdb_id": "tt0708736",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Parallels",
+        "released": "1993-11-27",
+        "rating": "8.8",
+        "imdb_id": "tt0708752",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Pegasus",
+        "released": "1994-01-08",
+        "rating": "8.5",
+        "imdb_id": "tt0708817",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Homeward",
+        "released": "1994-01-15",
+        "rating": "7.0",
+        "imdb_id": "tt0708731",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Sub Rosa",
+        "released": "1994-01-29",
+        "rating": "4.8",
+        "imdb_id": "tt0708778",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Lower Decks",
+        "released": "1994-02-05",
+        "rating": "8.7",
+        "imdb_id": "tt0708745",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Thine Own Self",
+        "released": "1994-02-12",
+        "rating": "N/A",
+        "imdb_id": "tt0708826",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Masks",
+        "released": "1994-02-19",
+        "rating": "5.8",
+        "imdb_id": "tt0708748",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Eye of the Beholder",
+        "released": "1994-02-26",
+        "rating": "6.6",
+        "imdb_id": "tt0708711",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Genesis",
+        "released": "1994-03-19",
+        "rating": "7.0",
+        "imdb_id": "tt0708723",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Journey's End",
+        "released": "1994-03-26",
+        "rating": "6.2",
+        "imdb_id": "tt0708738",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Firstborn",
+        "released": "1994-04-23",
+        "rating": "6.7",
+        "imdb_id": "tt0708716",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Bloodlines",
+        "released": "1994-04-30",
+        "rating": "6.5",
+        "imdb_id": "tt0708681",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Emergence",
+        "released": "1994-05-07",
+        "rating": "6.5",
+        "imdb_id": "tt0708705",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Preemptive Strike",
+        "released": "1994-05-14",
+        "rating": "7.9",
+        "imdb_id": "tt0708757",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "All Good Things...",
+        "released": "1994-05-23",
+        "rating": "9.1",
+        "imdb_id": "tt0111281",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

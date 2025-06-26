@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Yogurt Shop/Pizzeria",
+        "released": "2013-02-28",
+        "rating": "N/A",
+        "imdb_id": "tt2717902",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Santa/Petting Zoo",
+        "released": "2013-03-07",
+        "rating": "N/A",
+        "imdb_id": "tt2745878",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Clothing Store/Restaurant",
+        "released": "2013-03-14",
+        "rating": "N/A",
+        "imdb_id": "tt2760564",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Gas Station/Caricature Artist",
+        "released": "2013-03-21",
+        "rating": "9.2",
+        "imdb_id": "tt2777064",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Haunted House/The Hunk",
+        "released": "2013-03-28",
+        "rating": "N/A",
+        "imdb_id": "tt2780864",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Funeral Home/Burger Joint/Skydiving",
+        "released": "2013-04-04",
+        "rating": "N/A",
+        "imdb_id": "tt2780870",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Claw of Shame",
+        "released": "2013-04-11",
+        "rating": "N/A",
+        "imdb_id": "tt2780878",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Private Investigator/Taxi Company",
+        "released": "2013-04-18",
+        "rating": "8.5",
+        "imdb_id": "tt2780880",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

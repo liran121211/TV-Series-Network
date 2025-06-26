@@ -1,0 +1,162 @@
+{
+    "1": {
+        "title": "601 (Auditions)",
+        "released": "2023-02-19",
+        "rating": "N/A",
+        "imdb_id": "tt20228606",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "602 (Auditions)",
+        "released": "2023-02-26",
+        "rating": "N/A",
+        "imdb_id": "tt26765905",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "603 (Auditions)",
+        "released": "2023-03-05",
+        "rating": "N/A",
+        "imdb_id": "tt26765907",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "603A (Auditions)",
+        "released": "2023-03-12",
+        "rating": "N/A",
+        "imdb_id": "tt26921283",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "604 (Auditions)",
+        "released": "2023-03-19",
+        "rating": "N/A",
+        "imdb_id": "tt26921284",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "605 (Auditions)",
+        "released": "2023-03-26",
+        "rating": "N/A",
+        "imdb_id": "tt27125849",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "606 (Hollywood Week Part #1)",
+        "released": "2023-04-02",
+        "rating": "N/A",
+        "imdb_id": "tt27125853",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "607 (Hollywood Week Part #2)",
+        "released": "2023-04-03",
+        "rating": "N/A",
+        "imdb_id": "tt27125854",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "608 (Showstopper/Final Judgement Part 1)",
+        "released": "2023-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt27201827",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S13\\American_Idol_S13E09_720p_HDTV_x264-2HDS13E9.zip"
+    },
+    "10": {
+        "title": "609 (Showstopper/Final Judgement Part 2)",
+        "released": "2023-04-10",
+        "rating": "N/A",
+        "imdb_id": "tt27201829",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "610 (Top 26 at Disney's Aulani Resort in Hawaii Part #1)",
+        "released": "2023-04-16",
+        "rating": "N/A",
+        "imdb_id": "tt27428648",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "611 (Top 26 at Disney's Aulani Resort in Hawaii Part #2)",
+        "released": "2023-04-17",
+        "rating": "N/A",
+        "imdb_id": "tt27428682",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "612 (Top 20)",
+        "released": "2023-04-23",
+        "rating": "N/A",
+        "imdb_id": "tt27428707",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "613 (Top 12 Reveal!)",
+        "released": "2023-04-24",
+        "rating": "N/A",
+        "imdb_id": "tt27428712",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "614 (Rock and Roll Hall of Fame Night)",
+        "released": "2023-04-30",
+        "rating": "N/A",
+        "imdb_id": "tt27429587",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "615 (Judge's Song Contest)",
+        "released": "2023-05-01",
+        "rating": "N/A",
+        "imdb_id": "tt27429588",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "616 (Top 8: Alanis Morisette/Ed Sheeran)",
+        "released": "2023-05-07",
+        "rating": "7.9",
+        "imdb_id": "tt27429592",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "617 (Disney Night)",
+        "released": "2023-05-14",
+        "rating": "7.8",
+        "imdb_id": "tt27429596",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "617A (Journey to the Finale)",
+        "released": "2023-05-15",
+        "rating": "N/A",
+        "imdb_id": "tt27429601",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "618 (Season Finale)",
+        "released": "2023-05-21",
+        "rating": "N/A",
+        "imdb_id": "tt27629285",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

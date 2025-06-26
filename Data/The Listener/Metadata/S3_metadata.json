@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "The Bank Job",
+        "released": "2012-05-30",
+        "rating": "7.7",
+        "imdb_id": "tt2090342",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Cold Case Blues",
+        "released": "2012-06-06",
+        "rating": "N/A",
+        "imdb_id": "tt2091159",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Curtain Call",
+        "released": "2012-06-13",
+        "rating": "N/A",
+        "imdb_id": "tt2074984",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Taking",
+        "released": "2012-06-20",
+        "rating": "N/A",
+        "imdb_id": "tt2103046",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Rogues' Gallery",
+        "released": "2012-06-27",
+        "rating": "N/A",
+        "imdb_id": "tt2103047",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "She Sells Sanctuary",
+        "released": "2012-07-11",
+        "rating": "N/A",
+        "imdb_id": "tt2102153",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Poisoned Minds",
+        "released": "2012-07-18",
+        "rating": "N/A",
+        "imdb_id": "tt2126105",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Now You See Him",
+        "released": "2012-07-25",
+        "rating": "N/A",
+        "imdb_id": "tt2143809",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Crossed",
+        "released": "2012-08-15",
+        "rating": "N/A",
+        "imdb_id": "tt2141389",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Lockdown",
+        "released": "2012-08-22",
+        "rating": "N/A",
+        "imdb_id": "tt2200779",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Captain Nightfall",
+        "released": "2012-08-29",
+        "rating": "N/A",
+        "imdb_id": "tt2200777",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Bro Code",
+        "released": "2012-09-05",
+        "rating": "7.5",
+        "imdb_id": "tt2246371",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Shooting",
+        "released": "2012-09-12",
+        "rating": "N/A",
+        "imdb_id": "tt2200781",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

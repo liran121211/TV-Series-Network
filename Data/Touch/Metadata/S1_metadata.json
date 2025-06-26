@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2012-01-25",
+        "rating": "8.4",
+        "imdb_id": "tt2085589",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "1+1=3",
+        "released": "2012-03-22",
+        "rating": "7.6",
+        "imdb_id": "tt2325329",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Safety in Numbers",
+        "released": "2012-03-29",
+        "rating": "7.9",
+        "imdb_id": "tt2156535",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Kite Strings",
+        "released": "2012-04-05",
+        "rating": "N/A",
+        "imdb_id": "tt2318197",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Lost & Found",
+        "released": "2012-04-19",
+        "rating": "N/A",
+        "imdb_id": "tt2362869",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Noosphere Rising",
+        "released": "2012-04-26",
+        "rating": "N/A",
+        "imdb_id": "tt2362873",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Zone of Exclusion",
+        "released": "2012-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt2379607",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Music of the Spheres",
+        "released": "2012-05-10",
+        "rating": "N/A",
+        "imdb_id": "tt2379603",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Tessellations",
+        "released": "2012-05-17",
+        "rating": "N/A",
+        "imdb_id": "tt2379605",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Gyre, Part 1",
+        "released": "2012-05-31",
+        "rating": "7.7",
+        "imdb_id": "tt2337663",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Gyre, Part 2",
+        "released": "2012-05-31",
+        "rating": "N/A",
+        "imdb_id": "tt2392307",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Road Not Taken",
+        "released": "2012-09-14",
+        "rating": "N/A",
+        "imdb_id": "tt2364992",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

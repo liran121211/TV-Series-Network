@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Let's begin at the Beginning",
+        "released": "2021-06-24",
+        "rating": "N/A",
+        "imdb_id": "tt14770526",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\When Nature Calls\\Subtitles\\S1\\SUBDL::when-nature-calls-2538883.zip"
+    },
+    "2": {
+        "title": "Sup?",
+        "released": "2021-07-01",
+        "rating": "N/A",
+        "imdb_id": "tt14991222",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\When Nature Calls\\Subtitles\\S1\\SUBDL::when-nature-calls-2538883.zip"
+    },
+    "3": {
+        "title": "Dastardly Death Gunk Stuff",
+        "released": "2021-07-15",
+        "rating": "N/A",
+        "imdb_id": "tt15060102",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\When Nature Calls\\Subtitles\\S1\\SUBDL::when-nature-calls-2538883.zip"
+    },
+    "4": {
+        "title": "A Partial In-Ground Pool",
+        "released": "2021-07-22",
+        "rating": "N/A",
+        "imdb_id": "tt15112266",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\When Nature Calls\\Subtitles\\S1\\SUBDL::when-nature-calls-2538883.zip"
+    },
+    "6": {
+        "title": "Nature's Justice",
+        "released": "2021-08-19",
+        "rating": "N/A",
+        "imdb_id": "tt15181158",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\When Nature Calls\\Subtitles\\S1\\SUBDL::when-nature-calls-2538883.zip"
+    },
+    "7": {
+        "title": "Uncle Antelope's Truth Bombs",
+        "released": "2021-09-09",
+        "rating": "N/A",
+        "imdb_id": "tt15409264",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\When Nature Calls\\Subtitles\\S1\\SUBDL::when-nature-calls-2538883.zip"
+    },
+    "8": {
+        "title": "The Burger Hole",
+        "released": "2021-09-16",
+        "rating": "N/A",
+        "imdb_id": "tt15526440",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\When Nature Calls\\Subtitles\\S1\\SUBDL::when-nature-calls-2538883.zip"
+    },
+    "10": {
+        "title": "Omen Cat",
+        "released": "2022-01-01",
+        "rating": "N/A",
+        "imdb_id": "tt16995834",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,802 @@
+{
+    "1": {
+        "title": "Episode #18.1",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt5155272",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Scammed by an Imposer Posing as Miranda Lambert",
+        "released": "2019-09-10",
+        "rating": "N/A",
+        "imdb_id": "tt10643404",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Social Media Meltdown: Parenting Gone Wild",
+        "released": "2019-09-11",
+        "rating": "N/A",
+        "imdb_id": "tt10900914",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Desperate for Insta-Fame",
+        "released": "2019-09-12",
+        "rating": "N/A",
+        "imdb_id": "tt10900916",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Caught Between Two Brittanys",
+        "released": "2019-09-13",
+        "rating": "N/A",
+        "imdb_id": "tt10900932",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Did He Murder His Wife?",
+        "released": "2019-09-16",
+        "rating": "N/A",
+        "imdb_id": "tt10951118",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Wrath of My Mother, Wanda",
+        "released": "2019-09-17",
+        "rating": "N/A",
+        "imdb_id": "tt10951122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Good, the Bad, and Wanda's Bipolar",
+        "released": "2019-09-18",
+        "rating": "N/A",
+        "imdb_id": "tt10951124",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Disappearance of Jennifer Dulos",
+        "released": "2019-09-19",
+        "rating": "N/A",
+        "imdb_id": "tt10951126",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Tragedy in the Tropics",
+        "released": "2019-09-20",
+        "rating": "N/A",
+        "imdb_id": "tt10951130",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Royal Tragedy: New Clues in Princess Diana's Death",
+        "released": "2019-09-23",
+        "rating": "N/A",
+        "imdb_id": "tt10994848",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Dr. Phil's 3,000th Show",
+        "released": "2019-09-24",
+        "rating": "N/A",
+        "imdb_id": "tt10994850",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Ghosted: Why Are My Dates Disappearing?",
+        "released": "2019-09-25",
+        "rating": "N/A",
+        "imdb_id": "tt10994852",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Lavish, Luxurious, and Spoiled Rotten",
+        "released": "2019-09-26",
+        "rating": "N/A",
+        "imdb_id": "tt10994854",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Young, Possessed, and in Love/Clickbait Scam",
+        "released": "2019-09-27",
+        "rating": "N/A",
+        "imdb_id": "tt10994856",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "MTV Romance on the Rocks",
+        "released": "2019-09-30",
+        "rating": "N/A",
+        "imdb_id": "tt11021912",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "MTV Romance: Will Nelson Finally Come Clean?",
+        "released": "2019-10-01",
+        "rating": "N/A",
+        "imdb_id": "tt11021914",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "My Mom Calls Us &quot;The Beauty and the Brainwasher&quot;",
+        "released": "2019-10-02",
+        "rating": "N/A",
+        "imdb_id": "tt11021916",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Gen Z: Desperate to Go Viral",
+        "released": "2019-10-03",
+        "rating": "N/A",
+        "imdb_id": "tt11021924",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Killer Cop Sentence: Victim's Family Reacts",
+        "released": "2019-10-04",
+        "rating": "N/A",
+        "imdb_id": "tt11021928",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "No Smart Phone, No Computer, But That Doesn't Stop Me",
+        "released": "2019-10-07",
+        "rating": "N/A",
+        "imdb_id": "tt11021936",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Dr. Phil, Only You Can Answer My Question",
+        "released": "2019-10-08",
+        "rating": "N/A",
+        "imdb_id": "tt11062482",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Family Divided: Torn Between Two Men",
+        "released": "2019-10-09",
+        "rating": "N/A",
+        "imdb_id": "tt11062484",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Rodney Reed's Death Row Countdown: Is an Innocent Man?",
+        "released": "2019-10-10",
+        "rating": "N/A",
+        "imdb_id": "tt11062486",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "What Happened to Stacey? What the Evidence Shows",
+        "released": "2019-10-11",
+        "rating": "N/A",
+        "imdb_id": "tt11062490",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Explosive Anger and Addiction",
+        "released": "2019-10-15",
+        "rating": "N/A",
+        "imdb_id": "tt10951116",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "When Social Media Turns Antisocial",
+        "released": "2019-10-16",
+        "rating": "N/A",
+        "imdb_id": "tt10951150",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "&quot;Chrisley Knows Best&quot; Reality Star Lindsie: Allegations of Lies, Extortion and Her Secret Meeting with Dad Todd",
+        "released": "2019-10-17",
+        "rating": "N/A",
+        "imdb_id": "tt10994846",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Dying to Be Hot",
+        "released": "2019-10-18",
+        "rating": "N/A",
+        "imdb_id": "tt11021930",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "The Trouble with Taylor",
+        "released": "2019-10-21",
+        "rating": "N/A",
+        "imdb_id": "tt11136770",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Liar, Liar: Which Sister Is Telling the Truth?",
+        "released": "2019-10-22",
+        "rating": "N/A",
+        "imdb_id": "tt11136772",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Extreme Mama's Boy",
+        "released": "2019-10-23",
+        "rating": "N/A",
+        "imdb_id": "tt11136774",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "DNA Drama: A Family in Turmoil",
+        "released": "2019-10-24",
+        "rating": "N/A",
+        "imdb_id": "tt11136776",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "What Were They Thinking? When Sentencing Seems to Make No Sense",
+        "released": "2019-10-25",
+        "rating": "N/A",
+        "imdb_id": "tt11136778",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Love Stoned: My Daughter Is Addicted to a Toxic Man!",
+        "released": "2019-10-28",
+        "rating": "N/A",
+        "imdb_id": "tt11177700",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Gun Toting, Pot-Smoking, and Only 11 Years Old",
+        "released": "2019-10-29",
+        "rating": "N/A",
+        "imdb_id": "tt11177706",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "My Beautiful Daughter Has Spiraled into a Homeless Hair Hoarder",
+        "released": "2019-10-30",
+        "rating": "N/A",
+        "imdb_id": "tt11177704",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Black and Blue Blackout Drunk",
+        "released": "2019-10-31",
+        "rating": "N/A",
+        "imdb_id": "tt11177708",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Former Anchorwoman and Beauty Queen Wife: Is She Addicted?",
+        "released": "2019-11-01",
+        "rating": "N/A",
+        "imdb_id": "tt11177710",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Torn Between Two Fiances",
+        "released": "2019-11-04",
+        "rating": "N/A",
+        "imdb_id": "tt11213530",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Holly's Fiances Face Off",
+        "released": "2019-11-05",
+        "rating": "N/A",
+        "imdb_id": "tt11213532",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "My Teen Son Is Facing Prison, After Escaping Police Custody, During a Televised Manhunt",
+        "released": "2019-11-06",
+        "rating": "N/A",
+        "imdb_id": "tt11213534",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Ukrainian Orphan: Child or Adult Sociopath?",
+        "released": "2019-11-07",
+        "rating": "N/A",
+        "imdb_id": "tt11213536",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "An Intense Intervention: I'm Addicted to Pain Pills, But I'm Not An Addict",
+        "released": "2019-11-08",
+        "rating": "N/A",
+        "imdb_id": "tt11213538",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "My Mom Is Homeless and Believes She Is Engaged to Putin",
+        "released": "2019-11-11",
+        "rating": "N/A",
+        "imdb_id": "tt11021932",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Prescription Drugs, Drinking, and DWIs: My Daughter Is a Hot Mess",
+        "released": "2019-11-12",
+        "rating": "N/A",
+        "imdb_id": "tt11136766",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Athlete to Addict",
+        "released": "2019-11-13",
+        "rating": "N/A",
+        "imdb_id": "tt11136768",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "Twins' Tragic Hot Car Death Exclusive",
+        "released": "2019-11-14",
+        "rating": "N/A",
+        "imdb_id": "tt11177696",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "Our 15-Year-Old Runaway Daughter Claims She Is Pregnant, But Is She?",
+        "released": "2019-11-15",
+        "rating": "N/A",
+        "imdb_id": "tt11177698",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Test Results Revealed: Is 15-Year-Old Marie Really Pregnant?",
+        "released": "2019-11-18",
+        "rating": "N/A",
+        "imdb_id": "tt11284800",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "Innocent and Behind Bars? Amanda Knox Fights to Free the Wrongfully Convicted",
+        "released": "2019-11-19",
+        "rating": "N/A",
+        "imdb_id": "tt11284802",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "I Will Do and Steal Anything to Be Bad and Boujee",
+        "released": "2019-11-20",
+        "rating": "N/A",
+        "imdb_id": "tt11284804",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "53": {
+        "title": "Terrorized by Technology: Held Hostage by Our Smart Homes",
+        "released": "2019-11-21",
+        "rating": "N/A",
+        "imdb_id": "tt11284808",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "54": {
+        "title": "We've Lost Control of Our Raging, Possibly Pregnant, Teen Daughter",
+        "released": "2019-11-22",
+        "rating": "N/A",
+        "imdb_id": "tt11284810",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "After Barricading Her Mom in the Car, Rae Makes It to the Stage",
+        "released": "2019-11-25",
+        "rating": "N/A",
+        "imdb_id": "tt11332070",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "56": {
+        "title": "My Husband's Double Life Exposed: Should I End My Marriage?",
+        "released": "2019-11-26",
+        "rating": "N/A",
+        "imdb_id": "tt11332072",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "57": {
+        "title": "I Run a Sober Living House but Can't Save My Own Son",
+        "released": "2019-11-27",
+        "rating": "N/A",
+        "imdb_id": "tt11332076",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "58": {
+        "title": "I Blame Myself for My Father's Murder",
+        "released": "2019-11-29",
+        "rating": "N/A",
+        "imdb_id": "tt11332080",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "59": {
+        "title": "I'm Leaving My Husband Next Week If He Doesn't Get Help with His OCD",
+        "released": "2019-12-02",
+        "rating": "N/A",
+        "imdb_id": "tt11213522",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "60": {
+        "title": "Battle of the Exes",
+        "released": "2019-12-03",
+        "rating": "N/A",
+        "imdb_id": "tt11213526",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "61": {
+        "title": "Chased by Police and Accused of an Interstate Crime Spree",
+        "released": "2019-12-04",
+        "rating": "N/A",
+        "imdb_id": "tt11284796",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "62": {
+        "title": "A Dr. Phil Exclusive: Two Young Women Who Put Larry Nassar Behind Bars",
+        "released": "2019-12-05",
+        "rating": "N/A",
+        "imdb_id": "tt11284798",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "63": {
+        "title": "Vanished! Where Is Dulce? And What Does Her Mother Know",
+        "released": "2019-12-06",
+        "rating": "N/A",
+        "imdb_id": "tt11332064",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "64": {
+        "title": "DNA Drama: Fertility Doctors' Secret Children",
+        "released": "2019-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt11414160",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "65": {
+        "title": "My Mom Took My Phone, Car, Condo, and Kids - Help Me Get Them Back!",
+        "released": "2019-12-10",
+        "rating": "N/A",
+        "imdb_id": "tt11414178",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "66": {
+        "title": "Pedophile Hunters",
+        "released": "2019-12-11",
+        "rating": "N/A",
+        "imdb_id": "tt11414186",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "67": {
+        "title": "Pedophile Hunters: Victim of Sting Fights Back!",
+        "released": "2019-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt11414202",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "68": {
+        "title": "Murder in Alaska: Teen Allegedly Lured to Death by Best Friend",
+        "released": "2019-12-13",
+        "rating": "N/A",
+        "imdb_id": "tt11414176",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "69": {
+        "title": "Our 11-Month-Old Died, and I'm Being Blamed",
+        "released": "2019-12-16",
+        "rating": "N/A",
+        "imdb_id": "tt11414208",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "70": {
+        "title": "Breakup, Breakdown",
+        "released": "2019-12-17",
+        "rating": "N/A",
+        "imdb_id": "tt11332066",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "71": {
+        "title": "From Army Specialist to Mooching Burnout Brother",
+        "released": "2019-12-18",
+        "rating": "N/A",
+        "imdb_id": "tt11332078",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "72": {
+        "title": "CPS Investigated Me, So I Kicked My Mother Out",
+        "released": "2019-12-19",
+        "rating": "N/A",
+        "imdb_id": "tt11414162",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "73": {
+        "title": "The Search for Missing Grandma",
+        "released": "2019-12-20",
+        "rating": "N/A",
+        "imdb_id": "tt11414156",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "74": {
+        "title": "My Wife Tricked Me Into Getting a Divorce",
+        "released": "2020-01-06",
+        "rating": "N/A",
+        "imdb_id": "tt11540628",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "75": {
+        "title": "Battered and Bruised: My Grandson Nearly Killed His Baby",
+        "released": "2020-01-07",
+        "rating": "N/A",
+        "imdb_id": "tt11540642",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "76": {
+        "title": "Mom Went from Nursing Assistant to Homeless & Sleeping in Her Car",
+        "released": "2020-01-08",
+        "rating": "N/A",
+        "imdb_id": "tt11540660",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "77": {
+        "title": "I Need to Walk 100K Steps a Day",
+        "released": "2020-01-09",
+        "rating": "N/A",
+        "imdb_id": "tt11540672",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "78": {
+        "title": "Terrorized by My 10-Year-Old",
+        "released": "2020-01-10",
+        "rating": "N/A",
+        "imdb_id": "tt11540682",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "79": {
+        "title": "Inside a Religious Reform School: Survivors of Hephzibah House",
+        "released": "2020-01-13",
+        "rating": "N/A",
+        "imdb_id": "tt11591902",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "80": {
+        "title": "Former Students of Hephzibah House Speak Out",
+        "released": "2020-01-14",
+        "rating": "N/A",
+        "imdb_id": "tt11591904",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "81": {
+        "title": "My Partying Sister Needs a Motherhood Master Class -- Now",
+        "released": "2020-01-15",
+        "rating": "N/A",
+        "imdb_id": "tt11591906",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "82": {
+        "title": "From Housewife to Sex Offender",
+        "released": "2020-01-16",
+        "rating": "N/A",
+        "imdb_id": "tt11591908",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "83": {
+        "title": "Do Words Matter or Are We Too Sensitive?",
+        "released": "2020-01-17",
+        "rating": "N/A",
+        "imdb_id": "tt11591898",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "84": {
+        "title": "My Boyfriend Is Married and His Wife Is Irrevelant to Me",
+        "released": "2020-01-20",
+        "rating": "N/A",
+        "imdb_id": "tt11591900",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "85": {
+        "title": "My Ex Put Cameras at My House to Prove I'm a Horrible Mom",
+        "released": "2020-01-21",
+        "rating": "N/A",
+        "imdb_id": "tt11628058",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "86": {
+        "title": "Black Eye and Busted Lip: Daughter Confronts Dad on Stage",
+        "released": "2020-01-22",
+        "rating": "N/A",
+        "imdb_id": "tt11628060",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "87": {
+        "title": "Cheerleader Hires Hit Man to Kill Parents: The Exclusive Interview",
+        "released": "2020-01-23",
+        "rating": "N/A",
+        "imdb_id": "tt11628064",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "88": {
+        "title": "Two Canceled Engagements, Fighting, and Drinking: Should I Leave My Fiance?",
+        "released": "2020-01-24",
+        "rating": "N/A",
+        "imdb_id": "tt11628066",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "89": {
+        "title": "My Manipulative, Raging Son Can't Stop Lying and Refuses to Go to School",
+        "released": "2020-01-27",
+        "rating": "N/A",
+        "imdb_id": "tt11668004",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "90": {
+        "title": "Forced at 14 to Be a Parent to My Out-of-Control Younger Brothers",
+        "released": "2020-01-28",
+        "rating": "N/A",
+        "imdb_id": "tt11668006",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "91": {
+        "title": "We Think Our Mother and Her Husband Are Being Duped by Her Online Boyfriend?",
+        "released": "2020-01-29",
+        "rating": "N/A",
+        "imdb_id": "tt11668008",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "92": {
+        "title": "Exclusive: Family Accused of Locking Their Children in Cages",
+        "released": "2020-01-30",
+        "rating": "N/A",
+        "imdb_id": "tt11668010",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "93": {
+        "title": "My Son Believes He's a Cyborg From the Future!",
+        "released": "2020-01-31",
+        "rating": "N/A",
+        "imdb_id": "tt11668012",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "94": {
+        "title": "A House of Addicts",
+        "released": "2020-02-03",
+        "rating": "N/A",
+        "imdb_id": "tt11707852",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "95": {
+        "title": "House of Addicts: The Family Confronts Shayne",
+        "released": "2020-02-04",
+        "rating": "N/A",
+        "imdb_id": "tt11707854",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "96": {
+        "title": "My Daughter Won't Stop Faking Pregnancies!",
+        "released": "2020-02-05",
+        "rating": "N/A",
+        "imdb_id": "tt11707856",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "97": {
+        "title": "Help! I'm Going to Inherit a Messy Mansion, Millions, and My Adult Sister",
+        "released": "2020-02-06",
+        "rating": "N/A",
+        "imdb_id": "tt11707860",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "98": {
+        "title": "Our Family Is Being Bullied by Raging Ryan",
+        "released": "2020-02-07",
+        "rating": "N/A",
+        "imdb_id": "tt11707862",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "99": {
+        "title": "A Monster in the Media?",
+        "released": "2020-02-10",
+        "rating": "N/A",
+        "imdb_id": "tt11742578",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "100": {
+        "title": "My Ex-Husband Blew Our Million Dollar Retirement",
+        "released": "2020-02-11",
+        "rating": "N/A",
+        "imdb_id": "tt11742580",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

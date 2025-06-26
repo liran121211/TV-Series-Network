@@ -1,0 +1,218 @@
+{
+    "1": {
+        "title": "Critical Race Theory",
+        "released": "2022-02-20",
+        "rating": "7.6",
+        "imdb_id": "tt16081888",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Sex Work",
+        "released": "2022-02-27",
+        "rating": "N/A",
+        "imdb_id": "tt18290964",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Wrongful Convictions",
+        "released": "2022-03-06",
+        "rating": "N/A",
+        "imdb_id": "tt18346616",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Tickets",
+        "released": "2022-03-13",
+        "rating": "N/A",
+        "imdb_id": "tt18500752",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Harm Reduction",
+        "released": "2022-03-27",
+        "rating": "N/A",
+        "imdb_id": "tt18689238",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Police Interrogations",
+        "released": "2022-04-17",
+        "rating": "N/A",
+        "imdb_id": "tt19495020",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Environmental Racism",
+        "released": "2022-05-01",
+        "rating": "7.6",
+        "imdb_id": "tt19729834",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Philippines",
+        "released": "2022-05-08",
+        "rating": "N/A",
+        "imdb_id": "tt19899438",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Electric Utilities",
+        "released": "2022-05-15",
+        "rating": "N/A",
+        "imdb_id": "tt20189952",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Subway",
+        "released": "2022-05-22",
+        "rating": "8.1",
+        "imdb_id": "tt20243762",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "School Police",
+        "released": "2022-06-05",
+        "rating": "N/A",
+        "imdb_id": "tt20448022",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Tech Monopolies",
+        "released": "2022-06-12",
+        "rating": "N/A",
+        "imdb_id": "tt20865366",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Rent",
+        "released": "2022-06-19",
+        "rating": "N/A",
+        "imdb_id": "tt21041618",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Inflation",
+        "released": "2022-07-24",
+        "rating": "N/A",
+        "imdb_id": "tt21146910",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Mental Health Care",
+        "released": "2022-07-31",
+        "rating": "N/A",
+        "imdb_id": "tt21411324",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Monkeypox",
+        "released": "2022-08-07",
+        "rating": "N/A",
+        "imdb_id": "tt21609346",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Afghanistan",
+        "released": "2022-08-14",
+        "rating": "7.7",
+        "imdb_id": "tt21609354",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Carbon Offsets",
+        "released": "2022-08-21",
+        "rating": "N/A",
+        "imdb_id": "tt21854978",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Law & Order",
+        "released": "2022-09-11",
+        "rating": "7.4",
+        "imdb_id": "tt21914424",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Bolsonaro",
+        "released": "2022-09-25",
+        "rating": "N/A",
+        "imdb_id": "tt21975578",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Museums",
+        "released": "2022-10-02",
+        "rating": "N/A",
+        "imdb_id": "tt21975580",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Crime Reporting",
+        "released": "2022-10-09",
+        "rating": "N/A",
+        "imdb_id": "tt22468524",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Transgender Rights II",
+        "released": "2022-10-16",
+        "rating": "7.1",
+        "imdb_id": "tt22643674",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Bail Reform",
+        "released": "2022-10-30",
+        "rating": "7.6",
+        "imdb_id": "tt22804108",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Election Subversion",
+        "released": "2022-11-06",
+        "rating": "N/A",
+        "imdb_id": "tt23143366",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "The Monarchy",
+        "released": "2022-11-13",
+        "rating": "7.9",
+        "imdb_id": "tt23457426",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Qatar World Cup",
+        "released": "2022-11-20",
+        "rating": "N/A",
+        "imdb_id": "tt23642792",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

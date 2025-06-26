@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2017-03-17",
+        "rating": "8.6",
+        "imdb_id": "tt6975526",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Marvelous Mrs. Maisel\\Subtitles\\S1\\The_Marvelous_Mrs._Maisel_-_S01E01_-_Pilot.AMZN.WEBRip.EnglishS1E1.zip"
+    },
+    "2": {
+        "title": "Ya Shivu v Bolshom Dome Na Kholme",
+        "released": "2017-11-29",
+        "rating": "8.3",
+        "imdb_id": "tt7113570",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Marvelous Mrs. Maisel\\Subtitles\\S1\\The_Marvelous_Mrs._Maisel_-_S01E02_-_Ya_Shivu_v_Bolshom_Dome_Na_Kholme.WEBrip.STRiFE.EnglishS1E2.zip"
+    },
+    "3": {
+        "title": "Because You Left",
+        "released": "2017-11-29",
+        "rating": "8.5",
+        "imdb_id": "tt6976082",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Marvelous Mrs. Maisel\\Subtitles\\S1\\The_Marvelous_Mrs._Maisel_-_S01E03_-_Because_You_Left.WEBrip.STRiFE.EnglishS1E3.zip"
+    },
+    "4": {
+        "title": "The Disappointment of the Dionne Quintuplets",
+        "released": "2017-11-29",
+        "rating": "8.1",
+        "imdb_id": "tt6997106",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Marvelous Mrs. Maisel\\Subtitles\\S1\\The_Marvelous_Mrs._Maisel_-_S01E04_-_The_Disappointment_of_the_Dionne_QuintuS1E4.zip"
+    },
+    "5": {
+        "title": "Doink",
+        "released": "2017-11-29",
+        "rating": "7.8",
+        "imdb_id": "tt7152106",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Marvelous Mrs. Maisel\\Subtitles\\S1\\The_Marvelous_Mrs._Maisel_-_S01E05_-_Doink.WebDl.S1E5.zip"
+    },
+    "6": {
+        "title": "Mrs. X at the Gaslight",
+        "released": "2017-11-29",
+        "rating": "8.2",
+        "imdb_id": "tt7086346",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Marvelous Mrs. Maisel\\Subtitles\\S1\\The_Marvelous_Mrs._Maisel_-_S01E06_-_Mrs._X_at_the_Gaslight.WEBrip.STRiFE.EnglishS1E6.zip"
+    },
+    "7": {
+        "title": "Put That on Your Plate!",
+        "released": "2017-11-29",
+        "rating": "8.6",
+        "imdb_id": "tt7212460",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Marvelous Mrs. Maisel\\Subtitles\\S1\\The.Marvelous.Mrs._Maisel-S01E07-WEBRip.x264-RARBGS1E7.zip"
+    },
+    "8": {
+        "title": "Thank You and Good Night",
+        "released": "2017-11-29",
+        "rating": "9.0",
+        "imdb_id": "tt7267456",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

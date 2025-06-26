@@ -1,0 +1,514 @@
+{
+    "1": {
+        "title": "Hagane no renkinjutsushi",
+        "released": "2009-04-09",
+        "rating": "7.6",
+        "imdb_id": "tt1413326",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Hajimari no hi",
+        "released": "2009-04-12",
+        "rating": "8.4",
+        "imdb_id": "tt1413327",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Jakyô no machi",
+        "released": "2009-04-19",
+        "rating": "7.7",
+        "imdb_id": "tt1415050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "An Alchemist's Distress",
+        "released": "2009-04-26",
+        "rating": "9.2",
+        "imdb_id": "tt1415049",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Rain of Sorrow",
+        "released": "2009-05-03",
+        "rating": "8.2",
+        "imdb_id": "tt1415051",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Kibou no michi",
+        "released": "2009-05-10",
+        "rating": "7.6",
+        "imdb_id": "tt1424977",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Kakusareta shinjitsu",
+        "released": "2009-05-17",
+        "rating": "7.6",
+        "imdb_id": "tt1429692",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Daigo kenkyuujo",
+        "released": "2009-05-24",
+        "rating": "8.0",
+        "imdb_id": "tt1433389",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Tsukurareta omoi",
+        "released": "2009-05-31",
+        "rating": "7.9",
+        "imdb_id": "tt1434026",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Sorezore no yukusaki",
+        "released": "2009-06-07",
+        "rating": "8.9",
+        "imdb_id": "tt1434025",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Rasshubarê no kiseki",
+        "released": "2009-06-14",
+        "rating": "7.2",
+        "imdb_id": "tt1434022",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Ichi wa zen, Zen wa ichi",
+        "released": "2009-06-21",
+        "rating": "8.2",
+        "imdb_id": "tt1434023",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Daburisu no kemono tachi",
+        "released": "2010-05-09",
+        "rating": "8.1",
+        "imdb_id": "tt1434024",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Chika ni hisomu mono tachi",
+        "released": "2009-07-05",
+        "rating": "8.9",
+        "imdb_id": "tt1459319",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Touhou no shisha",
+        "released": "2009-07-12",
+        "rating": "7.5",
+        "imdb_id": "tt1461557",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Tomo no ashiato",
+        "released": "2009-07-19",
+        "rating": "7.9",
+        "imdb_id": "tt1461558",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Reitetsu na honoo",
+        "released": "2009-07-26",
+        "rating": "N/A",
+        "imdb_id": "tt1461559",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Chiisana ningen no gouman na tenohira",
+        "released": "2009-08-02",
+        "rating": "8.2",
+        "imdb_id": "tt1477737",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Shinazaru mono no shi",
+        "released": "2009-08-09",
+        "rating": "9.5",
+        "imdb_id": "tt1484138",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Bozen no chichi",
+        "released": "2009-08-16",
+        "rating": "N/A",
+        "imdb_id": "tt1487438",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Gusha no zenshin",
+        "released": "2009-08-30",
+        "rating": "N/A",
+        "imdb_id": "tt1491878",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Tooku no senaka",
+        "released": "2009-09-06",
+        "rating": "N/A",
+        "imdb_id": "tt1500794",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Ikusaba no shoujo",
+        "released": "2009-09-13",
+        "rating": "N/A",
+        "imdb_id": "tt1505214",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Hara no naka",
+        "released": "2009-09-20",
+        "rating": "N/A",
+        "imdb_id": "tt1509989",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Yami no tobira",
+        "released": "2009-09-27",
+        "rating": "N/A",
+        "imdb_id": "tt1513120",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Saikai",
+        "released": "2009-10-04",
+        "rating": "9.1",
+        "imdb_id": "tt1514922",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Hazama no utage",
+        "released": "2009-10-11",
+        "rating": "N/A",
+        "imdb_id": "tt1521981",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Otousama",
+        "released": "2009-10-18",
+        "rating": "N/A",
+        "imdb_id": "tt1526676",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Gusha no agaki",
+        "released": "2009-10-25",
+        "rating": "N/A",
+        "imdb_id": "tt1530725",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Ishuvâru senmetsusen",
+        "released": "2009-11-01",
+        "rating": "N/A",
+        "imdb_id": "tt1534640",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "520 senzu no yakusoku",
+        "released": "2009-11-08",
+        "rating": "N/A",
+        "imdb_id": "tt1539093",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Daisoutou no musuko",
+        "released": "2009-11-15",
+        "rating": "N/A",
+        "imdb_id": "tt1543387",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Burigguzu no hokuheki",
+        "released": "2009-11-22",
+        "rating": "N/A",
+        "imdb_id": "tt1547750",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "Koori no joou",
+        "released": "2009-11-29",
+        "rating": "N/A",
+        "imdb_id": "tt1548830",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Kono kuni no katachi",
+        "released": "2009-12-06",
+        "rating": "N/A",
+        "imdb_id": "tt1554336",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Kazoku no shouzou",
+        "released": "2009-12-13",
+        "rating": "8.3",
+        "imdb_id": "tt1562664",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Hajimari no homunkurusu",
+        "released": "2009-12-20",
+        "rating": "N/A",
+        "imdb_id": "tt1566096",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Bazukûru no gekitou",
+        "released": "2009-12-27",
+        "rating": "N/A",
+        "imdb_id": "tt1570817",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Hakuchuu no yume",
+        "released": "2010-01-10",
+        "rating": "N/A",
+        "imdb_id": "tt1571822",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Homunkurusu",
+        "released": "2010-01-17",
+        "rating": "9.1",
+        "imdb_id": "tt1580981",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Naraku",
+        "released": "2010-01-24",
+        "rating": "N/A",
+        "imdb_id": "tt1585804",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Hangeki no kizashi",
+        "released": "2010-01-31",
+        "rating": "N/A",
+        "imdb_id": "tt1589090",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Ari no hitokami",
+        "released": "2010-02-07",
+        "rating": "N/A",
+        "imdb_id": "tt1593017",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Barin barin no zenkai",
+        "released": "2010-02-14",
+        "rating": "N/A",
+        "imdb_id": "tt1596850",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "Yakusoku no hi",
+        "released": "2010-02-21",
+        "rating": "N/A",
+        "imdb_id": "tt1600988",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Semaru kage",
+        "released": "2010-02-28",
+        "rating": "N/A",
+        "imdb_id": "tt1605239",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Yami no shisha",
+        "released": "2010-03-07",
+        "rating": "N/A",
+        "imdb_id": "tt1608867",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "Chikadou no chikai",
+        "released": "2010-03-14",
+        "rating": "N/A",
+        "imdb_id": "tt1612914",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "Oyako no jou",
+        "released": "2010-03-21",
+        "rating": "N/A",
+        "imdb_id": "tt1616769",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Sentoraru douran",
+        "released": "2010-03-28",
+        "rating": "N/A",
+        "imdb_id": "tt1621686",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "Fushi no gundan",
+        "released": "2010-04-04",
+        "rating": "8.8",
+        "imdb_id": "tt1626341",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Minna no chikara",
+        "released": "2010-04-11",
+        "rating": "8.8",
+        "imdb_id": "tt1630401",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "53": {
+        "title": "Fukushuu no honoo",
+        "released": "2010-04-18",
+        "rating": "N/A",
+        "imdb_id": "tt1634626",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "54": {
+        "title": "Rekka no saki ni",
+        "released": "2010-04-25",
+        "rating": "9.4",
+        "imdb_id": "tt1639964",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "Otonatachi no ikizama",
+        "released": "2010-05-02",
+        "rating": "N/A",
+        "imdb_id": "tt1643650",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "56": {
+        "title": "Daisoutou no kikan",
+        "released": "2010-05-09",
+        "rating": "N/A",
+        "imdb_id": "tt1647872",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "57": {
+        "title": "Eien no itoma",
+        "released": "2010-05-16",
+        "rating": "N/A",
+        "imdb_id": "tt1651583",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "58": {
+        "title": "Hitobashira",
+        "released": "2010-05-23",
+        "rating": "8.9",
+        "imdb_id": "tt1656322",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "59": {
+        "title": "Ushinawareta hikari",
+        "released": "2010-05-30",
+        "rating": "N/A",
+        "imdb_id": "tt1659862",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "60": {
+        "title": "Ten no hitomi, shi no tobira",
+        "released": "2010-06-06",
+        "rating": "9.3",
+        "imdb_id": "tt1663961",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "61": {
+        "title": "Kami o nomikomishi mono",
+        "released": "2010-06-13",
+        "rating": "9.2",
+        "imdb_id": "tt1667948",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "62": {
+        "title": "Seizetsunaru hangeki",
+        "released": "2010-06-20",
+        "rating": "9.6",
+        "imdb_id": "tt1673082",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "63": {
+        "title": "Tobira no mukougawa",
+        "released": "2010-06-27",
+        "rating": "9.6",
+        "imdb_id": "tt1675927",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "64": {
+        "title": "Tabiji no hate",
+        "released": "2010-07-04",
+        "rating": "9.3",
+        "imdb_id": "tt1680453",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

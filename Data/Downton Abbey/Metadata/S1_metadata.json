@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "Episode #1.1",
+        "released": "2011-01-09",
+        "rating": "8.3",
+        "imdb_id": "tt1608844",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S1\\Downton.Abbey.S01E01.HDTV.XviD-BiAS1E1.zip"
+    },
+    "2": {
+        "title": "Episode #1.2",
+        "released": "2011-01-09",
+        "rating": "8.2",
+        "imdb_id": "tt1617361",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S1\\Downton_Abbey_S01E02_HDTV_XviD-RiVERS1E2.zip"
+    },
+    "3": {
+        "title": "Episode #1.3",
+        "released": "2011-01-16",
+        "rating": "8.4",
+        "imdb_id": "tt1617362",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #1.4",
+        "released": "2011-01-16",
+        "rating": "8.1",
+        "imdb_id": "tt1617363",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #1.5",
+        "released": "2011-01-23",
+        "rating": "8.4",
+        "imdb_id": "tt1617364",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S1\\Downton_Abbey_S01_E05S1E5.zip"
+    },
+    "6": {
+        "title": "Episode #1.6",
+        "released": "2011-01-23",
+        "rating": "8.5",
+        "imdb_id": "tt1617365",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #1.7",
+        "released": "2011-01-30",
+        "rating": "8.8",
+        "imdb_id": "tt1617366",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

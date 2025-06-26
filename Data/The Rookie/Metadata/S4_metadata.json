@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Life and Death",
+        "released": "2021-09-26",
+        "rating": "7.4",
+        "imdb_id": "tt14661428",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S4\\The.Rookie.S04E01.Life.and.Death.1080p.WEBRip.6CH.x265.HEVC-PSA_HIS4E1.zip"
+    },
+    "2": {
+        "title": "Five Minutes",
+        "released": "2021-10-03",
+        "rating": "7.6",
+        "imdb_id": "tt15174052",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S4\\The.Rookie.S04E02.720p.WEB.x265-MiNXS4E2.zip"
+    },
+    "3": {
+        "title": "In the Line of Fire",
+        "released": "2021-10-10",
+        "rating": "7.7",
+        "imdb_id": "tt15485460",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S4\\The.Rookie.S04E03.720p.WEB.x265-MiNXS4E3.zip"
+    },
+    "4": {
+        "title": "Red Hot",
+        "released": "2021-10-17",
+        "rating": "7.9",
+        "imdb_id": "tt15533040",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S4\\The.Rookie.S04E04.Red_Hot.WEBRip.x264_-_4307_-_mS4E4.zip"
+    },
+    "5": {
+        "title": "A.C.H.",
+        "released": "2021-10-31",
+        "rating": "7.7",
+        "imdb_id": "tt15575390",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S4\\The.Rookie.S04E05.WEBRip.x264-ION10S4E5.zip"
+    },
+    "6": {
+        "title": "Poetic Justice",
+        "released": "2021-11-07",
+        "rating": "8.3",
+        "imdb_id": "tt15743812",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S4\\The.Rookie.S04E06.720p.WEB.x265-MiNXS4E6.zip"
+    },
+    "7": {
+        "title": "Fire Fight",
+        "released": "2021-11-14",
+        "rating": "7.8",
+        "imdb_id": "tt15798054",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S4\\The.Rookie.S04E07.720p.WEB.x265-MiNXS4E7.zip"
+    },
+    "8": {
+        "title": "Hit and Run",
+        "released": "2021-12-05",
+        "rating": "7.1",
+        "imdb_id": "tt16058154",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S4\\The.Rookie.S04E08.720p.HDTV.x265-MiNXS4E8.zip"
+    },
+    "9": {
+        "title": "Breakdown",
+        "released": "2021-12-12",
+        "rating": "7.8",
+        "imdb_id": "tt16256694",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S4\\The.Rookie.S04E09.720p.HDTV.x265-MiNXS4E9.zip"
+    },
+    "10": {
+        "title": "Heart Beat",
+        "released": "2022-01-02",
+        "rating": "7.7",
+        "imdb_id": "tt16411354",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "End Game",
+        "released": "2022-01-09",
+        "rating": "7.7",
+        "imdb_id": "tt16594480",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Knock",
+        "released": "2022-01-23",
+        "rating": "7.3",
+        "imdb_id": "tt16899090",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Fight or Flight",
+        "released": "2022-01-30",
+        "rating": "7.2",
+        "imdb_id": "tt16994466",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Long Shot",
+        "released": "2022-02-27",
+        "rating": "6.7",
+        "imdb_id": "tt17521328",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Hit List",
+        "released": "2022-03-06",
+        "rating": "7.9",
+        "imdb_id": "tt18275828",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Real Crime",
+        "released": "2022-03-13",
+        "rating": "4.8",
+        "imdb_id": "tt18332726",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Coding",
+        "released": "2022-04-03",
+        "rating": "7.1",
+        "imdb_id": "tt18555878",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Backstabbers",
+        "released": "2022-04-10",
+        "rating": "7.5",
+        "imdb_id": "tt18555882",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Simone",
+        "released": "2022-04-24",
+        "rating": "6.1",
+        "imdb_id": "tt18555886",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Enervo",
+        "released": "2022-05-01",
+        "rating": "6.0",
+        "imdb_id": "tt18555908",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Mother's Day",
+        "released": "2022-05-08",
+        "rating": "7.4",
+        "imdb_id": "tt18555910",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Day in the Hole",
+        "released": "2022-05-15",
+        "rating": "6.9",
+        "imdb_id": "tt18555914",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

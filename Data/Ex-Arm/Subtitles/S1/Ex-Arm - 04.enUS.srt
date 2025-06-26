@@ -1,0 +1,303 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: YTV  [http://www.crunchyroll.com/user/YTV]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Main Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Flashback Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Episode Title,Arial,22,&H00FFFFFF,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,0,0,3,0379,0038,0073,1
+Style: Next Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H006C6A6A,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,3,0050,0020,0055,1
+Style: Eyecatch,Arial,16,&H00FFFFFF,&H000000FF,&H00909090,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0377,0032,0044,1
+Style: sign_96_2_Yokosuka_Special,Arial,20,&H00F7F9FF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0138,0138,0076,1
+Style: sign_5481_8_Counter_EX_ARM_H,Arial,20,&H00F7F9FF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0209,0209,0076,1
+Style: sign_8549_33_UN_Military_Base,Arial,20,&H00F7F9FF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0231,0231,0076,1
+Style: sign_10317_59_Skies_over_the_M,Arial,20,&H00F7F9FF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0034,0398,0083,1
+Style: sign_10538_62_Tokyo_Bay,Arial,20,&H00ECE5DD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0263,0263,0076,1
+Style: sign_10908_68_UN_Military_Base,Arial,18,&H00FFFFFF,&H000000FF,&H00BE837B,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0373,0108,0041,1
+Style: sign_10908_67_Yokosuka_SEZ,Arial,18,&H00FFFFFF,&H000000FF,&H00BE837B,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0172,0328,0088,1
+Style: sign_15824_108_Illustration_by_,Arial,16,&H00FFFFFF,&H000000FF,&H00909090,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0038,0371,0038,1
+Style: sign_25100_198_not_so_fast,Arial,20,&H00FFFFFF,&H000000FF,&H00C486C3,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0263,0263,0018,1
+Style: sign_25845_209_it_s_over,Arial,20,&H00FFFFFF,&H000000FF,&H00C486C3,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0277,0277,0018,1
+Style: sign_25873_210_elmira,Arial,20,&H00FFFFFF,&H000000FF,&H00C486C3,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0205,0369,0072,1
+Style: sign_33941_256_Red_Hot_Daydream,Arial,20,&H00FFFFFF,&H000000FF,&H006C6A6A,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,3,0396,0042,0058,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.98,Episode Title,Ep Title,0000,0000,0000,,Inheritor of Courage
+Dialogue: 0,0:00:03.98,0:00:05.81,sign_96_2_Yokosuka_Special,Sign,0000,0000,0000,,Yokosuka Special Economic Zone
+Dialogue: 0,0:00:17.35,0:00:18.41,Main,Mi,0000,0000,0000,,Alma!
+Dialogue: 0,0:00:18.41,0:00:19.48,Main,Al,0000,0000,0000,,Minami!
+Dialogue: 0,0:00:22.37,0:00:23.54,Main,Mi,0000,0000,0000,,Alma!
+Dialogue: 0,0:01:01.20,0:01:05.10,Main,El,0000,0000,0000,,An unknown model... \NThere's absolutely no intel on it!
+Dialogue: 0,0:03:45.68,0:03:48.15,Main,Mi,0000,0000,0000,,Is {\i1}that{\i0} the extra gear?
+Dialogue: 0,0:03:48.58,0:03:51.16,sign_5481_8_Counter_EX_ARM_H,Sign,0000,0000,0000,,Counter EX-ARM HQ
+Dialogue: 0,0:03:48.58,0:03:51.16,Main Top,Ch,0000,0000,0000,,Chief, what is that?
+Dialogue: 0,0:03:51.50,0:03:57.67,Italics,Sh,0000,0000,0000,,A cutting-edge SA-class combat exoframe \Ndesigned by Iriya Heavy Industries.
+Dialogue: 0,0:04:02.76,0:04:06.23,Italics,Sh,0000,0000,0000,,Ignis Type 02X:
+Dialogue: 0,0:04:07.59,0:04:08.76,Italics,Sh,0000,0000,0000,,Ogre.
+Dialogue: 0,0:04:11.40,0:04:14.73,Main,Ar,0000,0000,0000,,We made it? I've heard nothing about this!
+Dialogue: 0,0:04:14.73,0:04:17.70,Italics,Sh,0000,0000,0000,,It was the CEO's secret pet project.
+Dialogue: 0,0:04:18.62,0:04:20.89,Main,Ar,0000,0000,0000,,God, that woman drives me up the wall.
+Dialogue: 0,0:04:20.89,0:04:25.21,Main,Ch,0000,0000,0000,,And who's controlling this SA-class exoframe?
+Dialogue: 0,0:04:25.21,0:04:25.86,Main,Ch,0000,0000,0000,,It can't be...
+Dialogue: 0,0:04:26.48,0:04:28.13,Main,Ch,0000,0000,0000,,Akira?!
+Dialogue: 0,0:04:28.13,0:04:31.86,Main,Ar,0000,0000,0000,,It is. I'm seeing an enormous spike \Nin traffic.
+Dialogue: 0,0:04:32.75,0:04:36.65,Main,Ch,0000,0000,0000,,How was he able to get it \Nmoving like that within seconds?
+Dialogue: 0,0:04:37.38,0:04:41.63,Main,Sh,0000,0000,0000,,Normally, we'd need \Nthe Prime Minister's approval to deploy it,
+Dialogue: 0,0:04:41.63,0:04:45.43,Main,Sh,0000,0000,0000,,but that's not a problem in the SEZ.
+Dialogue: 0,0:04:45.74,0:04:50.81,Main,Sh,0000,0000,0000,,{\i1}And{\i0} I got the green light for six hours \Nof unrestricted firearm use.
+Dialogue: 0,0:05:19.25,0:05:21.00,Main,A,0000,0000,0000,,I can tell how to move this thing.
+Dialogue: 0,0:05:21.00,0:05:24.30,Main,A,0000,0000,0000,,How to run, jump, and even fire a gun.
+Dialogue: 0,0:05:27.89,0:05:31.48,Main,A,0000,0000,0000,,It's almost as if I've done this \Ncountless times before.
+Dialogue: 0,0:05:32.22,0:05:35.89,Main,El,0000,0000,0000,,Anything that gets in our way \Nmust be eliminated. {\i1}Anything.{\i0}
+Dialogue: 0,0:05:39.10,0:05:41.08,Main,Mi,0000,0000,0000,,Kondo, is that who I think it is?
+Dialogue: 0,0:05:41.08,0:05:43.74,Main,Kon,0000,0000,0000,,Yeah. I'm being told it's Akira.
+Dialogue: 0,0:05:43.74,0:05:46.35,Main,Kon,0000,0000,0000,,It's an Iriya prototype and our shiny new toy.
+Dialogue: 0,0:05:46.35,0:05:49.24,Main,Kim,0000,0000,0000,,I can't believe a damn box \Ncan fight like that.
+Dialogue: 0,0:05:53.74,0:05:56.04,Main,G,0000,0000,0000,,Major Whitman! You need to see this!
+Dialogue: 0,0:05:56.04,0:05:59.58,Main Top,Whit,0000,0000,0000,,Why does a police force have such powerful weaponry? \NWho do they think they are?!
+Dialogue: 0,0:05:56.54,0:06:01.54,sign_8549_33_UN_Military_Base,Sign,0000,0000,0000,,{\fad(483,471)}UN Military Base
+Dialogue: 0,0:05:59.58,0:06:02.01,Main Top,Whit,0000,0000,0000,,We can't let them act like they own our turf!
+Dialogue: 0,0:06:02.88,0:06:05.36,Main,Whit,0000,0000,0000,,Patch me through to the States. \NNo more Mr. Nice Guy!
+Dialogue: 0,0:06:05.36,0:06:06.26,Main,G,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:06:08.28,0:06:10.34,Main,A,0000,0000,0000,,It's me, Minami! Can you hear me?
+Dialogue: 0,0:06:11.97,0:06:14.60,Main,A,0000,0000,0000,,I can hold Elmira off with this thing.
+Dialogue: 0,0:06:14.60,0:06:16.89,Main,A,0000,0000,0000,,I'll buy you some time to rescue \Nand evacuate the civilians.
+Dialogue: 0,0:06:17.41,0:06:18.60,Main,Mi,0000,0000,0000,,Gotcha!
+Dialogue: 0,0:06:18.60,0:06:20.35,Main,A,0000,0000,0000,,I'll help.
+Dialogue: 0,0:06:20.35,0:06:22.20,Main,Mi,0000,0000,0000,,Don't force it, Alma.
+Dialogue: 0,0:06:22.20,0:06:24.82,Main,Al,0000,0000,0000,,I'm fine. I don't feel any pain.
+Dialogue: 0,0:06:26.26,0:06:29.42,Main,Al,0000,0000,0000,,Also, my arm isn't completely gone. \NIt's just somewhere else.
+Dialogue: 0,0:06:33.32,0:06:34.03,Main,A,0000,0000,0000,,Damn it!
+Dialogue: 0,0:06:34.49,0:06:37.56,Main,A,0000,0000,0000,,My bullets can't penetrate \Nthat thick-ass armor!
+Dialogue: 0,0:06:37.56,0:06:40.62,Main,Ch,0000,0000,0000,,Is there no way to take down that Bibot?
+Dialogue: 0,0:06:40.62,0:06:41.51,Main,Ar,0000,0000,0000,,Found it.
+Dialogue: 0,0:06:42.64,0:06:43.79,Main,Ar,0000,0000,0000,,Alma's missing arm.
+Dialogue: 0,0:06:44.20,0:06:46.76,Main,Ar,0000,0000,0000,,The piece of the bodysuit \Nattached to it sent an SOS.
+Dialogue: 0,0:06:46.76,0:06:49.93,Main,Ar,0000,0000,0000,,Yeah, I knew it wasn't scientifically possible \Nto just make things go away.
+Dialogue: 0,0:06:49.93,0:06:50.84,Main,Ch,0000,0000,0000,,So where is it?
+Dialogue: 0,0:06:51.59,0:06:54.41,Main,Ch,0000,0000,0000,,In the Tokyo Bay waters? Why?
+Dialogue: 0,0:06:55.60,0:06:57.72,Main,Ar,0000,0000,0000,,Send in a drone from MPD! Now!
+Dialogue: 0,0:07:00.73,0:07:02.20,Main,Mi,0000,0000,0000,,This way!
+Dialogue: 0,0:07:04.82,0:07:06.20,Main,Al,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:07:08.40,0:07:09.67,Main,G,0000,0000,0000,,Thank you.
+Dialogue: 0,0:07:10.28,0:07:13.07,sign_10317_59_Skies_over_the_M,Sign,0000,0000,0000,,Skies over the MPD
+Dialogue: 0,0:07:15.10,0:07:16.86,Main,Ar,0000,0000,0000,,It'll get to the point soon.
+Dialogue: 0,0:07:16.86,0:07:18.30,Main,Ar,0000,0000,0000,,Switching to visual data.
+Dialogue: 0,0:07:19.50,0:07:23.50,sign_10538_62_Tokyo_Bay,Sign,0000,0000,0000,,{\fad(481,481)}Tokyo Bay
+Dialogue: 0,0:07:22.95,0:07:24.08,Main Top,Ch,0000,0000,0000,,What is that?
+Dialogue: 0,0:07:24.40,0:07:27.43,Main,Ar,0000,0000,0000,,Something just got dumped \Ninto the water from mid-air.
+Dialogue: 0,0:07:28.24,0:07:29.30,Main,Ch,0000,0000,0000,,What the...
+Dialogue: 0,0:07:29.68,0:07:34.46,Main,Ar,0000,0000,0000,,Would you look at that! \NI think I know how that ability works now!
+Dialogue: 0,0:07:34.93,0:07:37.60,sign_10908_67_Yokosuka_SEZ,Sign,0000,0000,0000,,Yokosuka SEZ
+Dialogue: 0,0:07:34.93,0:07:37.60,sign_10908_68_UN_Military_Base,Sign,0000,0000,0000,,UN Military Base
+Dialogue: 0,0:08:22.89,0:08:24.20,Main,A,0000,0000,0000,,Excuse me?
+Dialogue: 0,0:08:24.20,0:08:25.60,Main,A,0000,0000,0000,,It swaps entire spaces?!
+Dialogue: 0,0:08:25.60,0:08:26.68,Main,Ar,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:26.68,0:08:31.57,Main,Ar,0000,0000,0000,,That EX-ARM doesn't vaporize its targets. \NIt just sends them someplace else!
+Dialogue: 0,0:08:39.60,0:08:42.54,Main,Ar,0000,0000,0000,,Whatever it "destroys" just gets dumped \Nin another location.
+Dialogue: 0,0:08:43.04,0:08:46.75,Main,Ar,0000,0000,0000,,So, if we fire a missile \Nat its dumping portal...
+Dialogue: 0,0:08:47.97,0:08:49.61,Main,Ch,0000,0000,0000,,I'm good to go.
+Dialogue: 0,0:08:49.61,0:08:52.21,Main,Ar,0000,0000,0000,,Great. Just think of it as playing a game.
+Dialogue: 0,0:08:52.59,0:08:54.80,Main,Ch,0000,0000,0000,,You picked the right woman to do this, then!
+Dialogue: 0,0:08:58.21,0:08:59.93,Main,Ar,0000,0000,0000,,Lock on to the coordinates.
+Dialogue: 0,0:08:59.93,0:09:00.97,Main,Ch,0000,0000,0000,,Copy that.
+Dialogue: 0,0:09:02.60,0:09:03.85,Main,Ar,0000,0000,0000,,Okay, here's the plan.
+Dialogue: 0,0:09:04.40,0:09:09.34,Main,Ar,0000,0000,0000,,Akira, attack Elmira at close range \Nand force her to deploy her portal.
+Dialogue: 0,0:09:09.34,0:09:12.86,Main,Ar,0000,0000,0000,,We'll launch a bomb at that portal
+Dialogue: 0,0:09:12.86,0:09:14.53,Main,Ar,0000,0000,0000,,and send it flying into Elmira's face.
+Dialogue: 0,0:09:14.95,0:09:16.20,Main,A,0000,0000,0000,,Got it!
+Dialogue: 0,0:09:18.13,0:09:19.14,Main,Ar,0000,0000,0000,,There she is!
+Dialogue: 0,0:09:20.53,0:09:21.48,Main,Mi,0000,0000,0000,,Akira!
+Dialogue: 0,0:09:21.48,0:09:22.38,Main,Al,0000,0000,0000,,Akira...
+Dialogue: 0,0:09:22.38,0:09:23.43,Main,Kon,0000,0000,0000,,Akira.
+Dialogue: 0,0:09:24.12,0:09:25.83,Main,A,0000,0000,0000,,I got this.
+Dialogue: 0,0:09:33.91,0:09:37.13,Main,Kim,0000,0000,0000,,Damn, he tamed the hounds!
+Dialogue: 0,0:09:37.86,0:09:39.01,Main,A,0000,0000,0000,,Go!
+Dialogue: 0,0:09:41.96,0:09:43.14,Main,El,0000,0000,0000,,Did he hack them?!
+Dialogue: 0,0:09:54.53,0:09:56.07,Main,A,0000,0000,0000,,Now, Chikage!
+Dialogue: 0,0:09:56.43,0:09:58.25,Main,Ar,0000,0000,0000,,Shoot the missile into the portal!
+Dialogue: 0,0:09:58.96,0:10:00.16,Main,Ch,0000,0000,0000,,Firing now!
+Dialogue: 0,0:10:05.12,0:10:08.26,Main,A,0000,0000,0000,,Hit the target!
+Dialogue: 0,0:10:11.64,0:10:12.71,Main,Ar,0000,0000,0000,,Sweet!
+Dialogue: 0,0:10:13.00,0:10:14.20,Main,Kon,0000,0000,0000,,Did we get her?!
+Dialogue: 0,0:10:16.72,0:10:18.34,Main,Mi,0000,0000,0000,,Wait. Look!
+Dialogue: 0,0:10:22.63,0:10:25.53,Main,El,0000,0000,0000,,I'm terribly sorry, Master Mraw.
+Dialogue: 0,0:10:29.74,0:10:31.93,Main,El,0000,0000,0000,,Please don't worry so.
+Dialogue: 0,0:10:31.93,0:10:34.62,Main,El,0000,0000,0000,,I'm not out of it yet.
+Dialogue: 0,0:10:34.94,0:10:37.36,Main,Kin,0000,0000,0000,,The hell is up with that?
+Dialogue: 0,0:10:37.36,0:10:39.95,Main,Kon,0000,0000,0000,,Please don't tell me that's Mraw.
+Dialogue: 0,0:10:42.00,0:10:44.15,Main,Al,0000,0000,0000,,I hate to break it to you, but it is.
+Dialogue: 0,0:10:44.76,0:10:47.13,Main,Al,0000,0000,0000,,He's still alive, but in a vegetative state.
+Dialogue: 0,0:10:47.97,0:10:49.94,Main,Al,0000,0000,0000,,He's probably brain dead.
+Dialogue: 0,0:10:59.97,0:11:01.97,sign_15824_108_Illustration_by_,Eyecatch,0000,0000,0000,,Illustration by Komi Shinya
+Dialogue: 0,0:11:03.49,0:11:07.10,Main,Ar,0000,0000,0000,,Wait. How is his EX-ARM still functioning, then?
+Dialogue: 0,0:11:08.63,0:11:11.18,Main,Al,0000,0000,0000,,I found Elmira's spec data.
+Dialogue: 0,0:11:11.18,0:11:15.48,Main,Al,0000,0000,0000,,It seems Mraw embedded \Nan illegal data-sharing device in his brain.
+Dialogue: 0,0:11:18.85,0:11:21.86,Main,Ar,0000,0000,0000,,A brain implant? So that's it!
+Dialogue: 0,0:11:23.43,0:11:27.83,Main,Ar,0000,0000,0000,,A VR system that's installed directly in the brain \Nand enables data sharing!
+Dialogue: 0,0:11:29.36,0:11:34.66,Main,Ar,0000,0000,0000,,Mraw connected to Elmira \Nusing dangerous, unapproved technology.
+Dialogue: 0,0:11:37.69,0:11:42.43,Main,El,0000,0000,0000,,I shall switch to emergency mode, Master Mraw.
+Dialogue: 0,0:11:44.50,0:11:46.71,Main,El,0000,0000,0000,,Emergency mode activated.
+Dialogue: 0,0:11:48.02,0:11:49.79,Main,Kon,0000,0000,0000,,It's the same thing as the priest!
+Dialogue: 0,0:11:49.79,0:11:52.41,Main,Kon,0000,0000,0000,,The EX-ARM will stop functioning \Nif its user dies!
+Dialogue: 0,0:11:52.41,0:11:53.74,Main,Kon,0000,0000,0000,,Shoot Mraw dead,
+Dialogue: 0,0:11:54.35,0:11:55.51,Main,Kon,0000,0000,0000,,Akira!
+Dialogue: 0,0:12:02.36,0:12:04.01,Main,Ar,0000,0000,0000,,No point firing randomly.
+Dialogue: 0,0:12:04.01,0:12:06.41,Main,Ar,0000,0000,0000,,It's swapping the spaces out \Nat insane speed.
+Dialogue: 0,0:12:06.41,0:12:09.93,Main,A,0000,0000,0000,,Fire another bomb, then! Chikage!
+Dialogue: 0,0:12:09.93,0:12:10.86,Main,Ch,0000,0000,0000,,I can't.
+Dialogue: 0,0:12:10.86,0:12:14.23,Main,Ch,0000,0000,0000,,I don't see a thing. I'm pretty sure \NI locked on to the coordinates, too.
+Dialogue: 0,0:12:16.90,0:12:19.21,Main,Ar,0000,0000,0000,,Looks like the portal was moved.
+Dialogue: 0,0:12:19.21,0:12:22.47,Main,Ar,0000,0000,0000,,There's no way we can find \Nthe new coordinates immediately.
+Dialogue: 0,0:12:26.32,0:12:28.64,Main,El,0000,0000,0000,,There's no fooling me twice.
+Dialogue: 0,0:12:30.90,0:12:33.81,Main,Kim,0000,0000,0000,,Oh shit! We're in danger here!
+Dialogue: 0,0:12:36.88,0:12:37.96,Main,A,0000,0000,0000,,Guys!
+Dialogue: 0,0:12:38.85,0:12:41.23,Main,A,0000,0000,0000,,Please stop this, Elmira!
+Dialogue: 0,0:12:41.23,0:12:42.67,Main,Mi,0000,0000,0000,,Akira!
+Dialogue: 0,0:12:42.67,0:12:44.17,Main,A,0000,0000,0000,,Minami? You okay?!
+Dialogue: 0,0:12:45.54,0:12:48.65,Main,Mi,0000,0000,0000,,Yeah, just barely. But Kondo's...
+Dialogue: 0,0:12:49.45,0:12:51.98,Main,Kon,0000,0000,0000,,I screwed up. My bad.
+Dialogue: 0,0:12:53.75,0:12:56.11,Main,A,0000,0000,0000,,Her swapping's getting more frequent \Nby the second.
+Dialogue: 0,0:12:56.11,0:12:58.13,Main,A,0000,0000,0000,,I've got my hands full \Njust dodging her attacks.
+Dialogue: 0,0:12:59.80,0:13:02.71,Main,Ar,0000,0000,0000,,Elmira's swapping range is starting to expand!
+Dialogue: 0,0:13:03.20,0:13:05.88,Main,Ch,0000,0000,0000,,How is she covering so much space?
+Dialogue: 0,0:13:05.88,0:13:07.34,Main,Ar,0000,0000,0000,,It's gotta be GPS!
+Dialogue: 0,0:13:08.37,0:13:09.40,Main,Ch,0000,0000,0000,,Hello?
+Dialogue: 0,0:13:10.10,0:13:11.64,Main,Ch,0000,0000,0000,,The UN is what?!
+Dialogue: 0,0:13:13.14,0:13:14.89,Italics,Ch,0000,0000,0000,,HQ to all agents.
+Dialogue: 0,0:13:14.89,0:13:17.08,Italics,Ch,0000,0000,0000,,The UN Military sent word to the MPD.
+Dialogue: 0,0:13:17.08,0:13:20.22,Italics,Ch,0000,0000,0000,,They're going to use a fuel-air explosive.
+Dialogue: 0,0:13:20.22,0:13:21.18,Main,Kon,0000,0000,0000,,What?!
+Dialogue: 0,0:13:22.50,0:13:25.53,Main,Ch,0000,0000,0000,,The bomber's headed your way as we speak.
+Dialogue: 0,0:13:25.53,0:13:28.76,Main,G,0000,0000,0000,,Mraw's Bibot is now within a kilo \Nof the base!
+Dialogue: 0,0:13:29.20,0:13:31.07,Main,Whit,0000,0000,0000,,The general gave us the okay.
+Dialogue: 0,0:13:31.07,0:13:35.62,Main,Whit,0000,0000,0000,,We've been ordered to prevent its escape, \Neven if we gotta burn the damn city down!
+Dialogue: 0,0:13:36.07,0:13:37.84,Main,Ch,0000,0000,0000,,Is this the end of the line?
+Dialogue: 0,0:13:37.84,0:13:40.71,Main,Ar,0000,0000,0000,,The bomber's almost at Yokosuka.
+Dialogue: 0,0:13:41.49,0:13:44.49,Main,Kim,0000,0000,0000,,They can't be serious. \NThe whole city's gonna blow!
+Dialogue: 0,0:13:45.41,0:13:47.72,Italics,Ch,0000,0000,0000,,Hurry up and get out of there!
+Dialogue: 0,0:13:50.17,0:13:54.00,Italics,Ch,0000,0000,0000,,Come in, Akira! You have to retreat!
+Dialogue: 0,0:13:54.00,0:13:55.10,Italics,Ch,0000,0000,0000,,This is an order!
+Dialogue: 0,0:13:55.68,0:13:58.23,Main,A,0000,0000,0000,,The bomb hasn't been dropped yet.
+Dialogue: 0,0:13:58.23,0:14:00.38,Main,A,0000,0000,0000,,Let me keep at it as long as I can!
+Dialogue: 0,0:14:01.64,0:14:06.95,Main,A,0000,0000,0000,,I know there's gotta be something I can do! \NI'm putting my best foot forward!
+Dialogue: 0,0:14:10.95,0:14:12.36,Main,A,0000,0000,0000,,Damn it!
+Dialogue: 0,0:14:13.60,0:14:17.91,Main,A,0000,0000,0000,,Wake up, Elmira! Mraw's dead!
+Dialogue: 0,0:14:17.91,0:14:21.50,Main,El,0000,0000,0000,,His vitals are still alive.
+Dialogue: 0,0:14:21.50,0:14:24.75,Main,El,0000,0000,0000,,He asked me to protect his life.
+Dialogue: 0,0:14:24.75,0:14:26.97,Main,El,0000,0000,0000,,And that order is my top priority.
+Dialogue: 0,0:14:28.47,0:14:33.39,Main,El,0000,0000,0000,,I will obey any order he gives me. \NThat is my very purpose.
+Dialogue: 0,0:14:33.96,0:14:39.24,Main,A,0000,0000,0000,,Nothing you do will make him happy anymore!
+Dialogue: 0,0:14:39.24,0:14:44.32,Main,El,0000,0000,0000,,So long as his order still stands, \NI will obey and uphold it.
+Dialogue: 0,0:14:44.32,0:14:48.86,Main,El,0000,0000,0000,,That will bring him happiness, \Nand his happiness is my happiness.
+Dialogue: 0,0:14:51.00,0:14:52.78,Main,El,0000,0000,0000,,How are you any different?
+Dialogue: 0,0:14:55.62,0:14:59.29,Main,El,0000,0000,0000,,Your happiness lies in constant battle.
+Dialogue: 0,0:15:00.13,0:15:04.00,Main,El,0000,0000,0000,,Is that not why you were built as an EX-ARM?
+Dialogue: 0,0:15:26.04,0:15:30.86,Flashback,Fakira,0000,0000,0000,,That's what we were built for...
+Dialogue: 0,0:15:33.48,0:15:36.54,Flashback,Fakira,0000,0000,0000,,To destroy it all.
+Dialogue: 0,0:15:45.64,0:15:46.54,Main,A,0000,0000,0000,,Wrong.
+Dialogue: 0,0:15:47.64,0:15:52.47,Main,A,0000,0000,0000,,I absolutely will not let it happen.
+Dialogue: 0,0:15:52.84,0:15:55.72,Main,A,0000,0000,0000,,I will use my everything
+Dialogue: 0,0:15:57.06,0:16:01.02,Main,A,0000,0000,0000,,to stop you here and now.
+Dialogue: 0,0:16:07.66,0:16:08.57,Main,El,0000,0000,0000,,So fast!
+Dialogue: 0,0:16:11.99,0:16:13.71,Main,Chi,0000,0000,0000,,What's happening?!
+Dialogue: 0,0:16:13.71,0:16:16.38,Main,Ar,0000,0000,0000,,That punk removed all the restrictions \Nplaced on him!
+Dialogue: 0,0:16:17.68,0:16:19.71,Main,Ar,0000,0000,0000,,His brain temp's crossed critical!
+Dialogue: 0,0:16:19.71,0:16:21.29,Main,Ar,0000,0000,0000,,Telemetry monitoring's stopped working!
+Dialogue: 0,0:16:21.29,0:16:24.17,Main,Ar,0000,0000,0000,,All the safety fallbacks have been deactivated!
+Dialogue: 0,0:16:24.17,0:16:26.13,Main,Ar,0000,0000,0000,,Akira's brain can't take this!
+Dialogue: 0,0:16:26.13,0:16:27.58,Main,Ch,0000,0000,0000,,Akira!
+Dialogue: 0,0:16:28.08,0:16:30.52,Main,Ch,0000,0000,0000,,Come in, Akira!
+Dialogue: 0,0:16:31.51,0:16:33.22,Italics,Ch,0000,0000,0000,,Akira!
+Dialogue: 0,0:16:45.49,0:16:46.57,Main,Mi,0000,0000,0000,,Akira?
+Dialogue: 0,0:16:47.70,0:16:50.11,Main,Kim,0000,0000,0000,,What is he, some kinda monster?
+Dialogue: 0,0:16:51.78,0:16:52.86,Main,Kon,0000,0000,0000,,That noise...
+Dialogue: 0,0:16:53.23,0:16:54.40,Main,Kon,0000,0000,0000,,No!
+Dialogue: 0,0:16:55.04,0:16:56.65,Italics,Pilot,0000,0000,0000,,Visual on target.
+Dialogue: 0,0:16:56.65,0:16:58.33,Italics,Pilot,0000,0000,0000,,Entering bombing trajectory.
+Dialogue: 0,0:16:58.33,0:16:59.78,Italics,Pilot,0000,0000,0000,,We are a go.
+Dialogue: 0,0:17:01.67,0:17:03.05,Main,Kim,0000,0000,0000,,Oh, god...
+Dialogue: 0,0:17:03.05,0:17:05.16,Main,Kon,0000,0000,0000,,It's too late.
+Dialogue: 0,0:17:06.56,0:17:08.17,Main,Mi,0000,0000,0000,,Akira!
+Dialogue: 0,0:17:26.85,0:17:28.77,sign_25100_198_not_so_fast,Sign,0000,0000,0000,,not so fast
+Dialogue: 0,0:17:27.64,0:17:28.77,Main,A,0000,0000,0000,,Not so fast.
+Dialogue: 0,0:17:34.44,0:17:36.56,Main,Pilot,0000,0000,0000,,The drop switch ain't responding!
+Dialogue: 0,0:17:36.56,0:17:38.11,Main,Pilot,0000,0000,0000,,Plane's going out of control!
+Dialogue: 0,0:17:39.41,0:17:40.41,Main,G,0000,0000,0000,,We're being hacked.
+Dialogue: 0,0:17:40.41,0:17:42.14,Main,G,0000,0000,0000,,Someone took over the system!
+Dialogue: 0,0:17:42.14,0:17:43.87,Main,G,0000,0000,0000,,We can't drop the BLU!
+Dialogue: 0,0:17:43.87,0:17:47.37,Main,Whit,0000,0000,0000,,No. Nobody could ever break in\N to our network!
+Dialogue: 0,0:17:51.29,0:17:53.66,Main,G,0000,0000,0000,,Even the higher privileges \Nare being taken over!
+Dialogue: 0,0:17:53.66,0:17:54.68,Main,Whit,0000,0000,0000,,What?!
+Dialogue: 0,0:17:54.68,0:17:56.63,Main,G,0000,0000,0000,,It's... It's trying to...
+Dialogue: 0,0:17:57.62,0:18:00.05,Main,A,0000,0000,0000,,You're done, Elmira.
+Dialogue: 0,0:17:57.93,0:18:00.05,sign_25845_209_it_s_over,Sign,0000,0000,0000,,{\an9\pos(429,19)}it's over
+Dialogue: 0,0:17:59.09,0:18:00.05,sign_25873_210_elmira,Sign,0000,0000,0000,,Elmira
+Dialogue: 0,0:18:03.64,0:18:05.60,Main,Kon,0000,0000,0000,,Is he charging in head-on?
+Dialogue: 0,0:18:05.60,0:18:07.31,Main,Kim,0000,0000,0000,,What's wrong with him?
+Dialogue: 0,0:18:07.31,0:18:08.51,Main,El,0000,0000,0000,,Target locked on.
+Dialogue: 0,0:18:08.51,0:18:10.68,Main,El,0000,0000,0000,,GPS coordinates acquired. Converted.
+Dialogue: 0,0:18:10.68,0:18:13.24,Main,El,0000,0000,0000,,Predicting trajectory. \NAccounting for margin of error.
+Dialogue: 0,0:18:13.24,0:18:14.48,Main,El,0000,0000,0000,,Transmitting data.
+Dialogue: 0,0:18:14.78,0:18:17.11,Main,El,0000,0000,0000,,You're the one who's done for!
+Dialogue: 0,0:18:22.66,0:18:24.15,Main,El,0000,0000,0000,,Master Mraw!
+Dialogue: 0,0:18:38.31,0:18:39.75,Main,Kon,0000,0000,0000,,He did it?
+Dialogue: 0,0:18:42.07,0:18:43.57,Main,Al,0000,0000,0000,,Akira...
+Dialogue: 0,0:18:43.57,0:18:44.65,Main,Mi,0000,0000,0000,,Akira!
+Dialogue: 0,0:18:46.95,0:18:49.43,Main,Ch,0000,0000,0000,,How did he do that?
+Dialogue: 0,0:18:51.56,0:18:55.13,Main,Ar,0000,0000,0000,,Akira... What the hell have you done?
+Dialogue: 0,0:18:55.13,0:18:57.19,Main,Ch,0000,0000,0000,,What happened, Professor?
+Dialogue: 0,0:18:58.60,0:19:00.74,Main,Ar,0000,0000,0000,,He altered her target.
+Dialogue: 0,0:19:02.82,0:19:07.62,Main,Ar,0000,0000,0000,,I said Elmira chooses her target coordinates \Nusing GPS, remember?
+Dialogue: 0,0:19:11.99,0:19:13.56,Main,Ar,0000,0000,0000,,And you know what Akira did?
+Dialogue: 0,0:19:15.09,0:19:20.13,Main,Ar,0000,0000,0000,,He used the UN's armored vehicle's data link, \Naccessed the military network,
+Dialogue: 0,0:19:20.63,0:19:25.64,sign_96_2_Yokosuka_Special,Sign,0000,0000,0000,,{\fad(471,471)}NORAD: North American \NAerospace Defense Command
+Dialogue: 0,0:19:20.88,0:19:25.30,Main Top,Ar,0000,0000,0000,,broke into NORAD's systems, \Nwhich operate the GPS satellites,
+Dialogue: 0,0:19:27.25,0:19:30.85,Main,Ar,0000,0000,0000,,and moved the satellites up in space!
+Dialogue: 0,0:19:31.21,0:19:32.79,Main,Ch,0000,0000,0000,,He did what?!
+Dialogue: 0,0:19:33.59,0:19:34.27,Main,Ch,0000,0000,0000,,Wait a second!
+Dialogue: 0,0:19:34.65,0:19:38.68,Main,Ch,0000,0000,0000,,Even the slightest deviation in GPS signals \Ncould be catastrophic!
+Dialogue: 0,0:19:38.68,0:19:40.32,Main,Ar,0000,0000,0000,,Too late.
+Dialogue: 0,0:19:40.32,0:19:42.57,Main,Ar,0000,0000,0000,,Things are going crazy all over the world.
+Dialogue: 0,0:19:44.28,0:19:47.85,Main,El,0000,0000,0000,,Forgive me, Master Mraw.
+Dialogue: 0,0:19:47.85,0:19:52.08,Main,El,0000,0000,0000,,I appear to have... erred.
+Dialogue: 0,0:19:55.40,0:19:56.65,Main,Mi,0000,0000,0000,,No!
+Dialogue: 0,0:19:57.38,0:20:00.27,Main,Mi,0000,0000,0000,,All she was doing was following orders!
+Dialogue: 0,0:20:00.27,0:20:02.17,Main,Mi,0000,0000,0000,,It's not all her fault!
+Dialogue: 0,0:20:08.26,0:20:10.67,Main,Mi,0000,0000,0000,,Didn't you want to go back to being human?
+Dialogue: 0,0:20:10.67,0:20:13.35,Main,Mi,0000,0000,0000,,Come back to your senses first, you moron!
+Dialogue: 0,0:20:24.49,0:20:25.61,Main,Al,0000,0000,0000,,Akira.
+Dialogue: 0,0:20:29.96,0:20:31.56,Main,Al,0000,0000,0000,,Let me take you back.
+Dialogue: 0,0:20:40.56,0:20:41.66,Main,Mi,0000,0000,0000,,Akira!
+Dialogue: 0,0:20:42.67,0:20:45.64,Main,Ar,0000,0000,0000,,The link got shut down due to overload.
+Dialogue: 0,0:20:45.64,0:20:49.10,Main,Ar,0000,0000,0000,,Looks like the safety functions came back online.
+Dialogue: 0,0:20:49.86,0:20:51.77,Italics,Mi,0000,0000,0000,,Don't talk about him like that!
+Dialogue: 0,0:20:52.24,0:20:55.18,Main,Mi,0000,0000,0000,,Akira's human, and you know it!
+Dialogue: 0,0:23:25.57,0:23:28.56,Main,Mi,0000,0000,0000,,Hold up, Superintendent! \NWhat's with this outfit?
+Dialogue: 0,0:23:28.56,0:23:31.72,Main,Ch,0000,0000,0000,,Wear it for him. \NAlso, it actually looks good on you.
+Dialogue: 0,0:23:31.72,0:23:33.48,Main,Mi,0000,0000,0000,,N-Not happy to hear it!
+Dialogue: 0,0:23:33.48,0:23:36.57,Main Top,A,0000,0000,0000,,Next time, on {\i1}EX-ARM:{\i0} \N"Battle 005 - Red-Hot Daydream."
+Dialogue: 0,0:23:35.60,0:23:39.98,sign_33941_256_Red_Hot_Daydream,Next Title,0000,0000,0000,,Red-Hot Daydream!
+Dialogue: 0,0:23:36.57,0:23:39.29,Main Top,Min,0000,0000,0000,,This will be the first and last time!

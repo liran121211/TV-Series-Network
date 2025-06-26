@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "The Pee Pee Guy",
+        "released": "2018-09-25",
+        "rating": "N/A",
+        "imdb_id": "tt7493662",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S1\\Mr.Inbetween.S01E01.WEBRip.x264-eScS1E1.zip"
+    },
+    "2": {
+        "title": "Unicorns Know Everybody's Name",
+        "released": "2018-09-25",
+        "rating": "N/A",
+        "imdb_id": "tt7493668",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S1\\Mr.Inbetween.S01E02.WEBRip-ION10.HIS1E2.zip"
+    },
+    "3": {
+        "title": "Captain Obvious",
+        "released": "2018-10-02",
+        "rating": "N/A",
+        "imdb_id": "tt7493670",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S1\\Mr.Inbetween.S01E03.WEBRip-ION10.HIS1E3.zip"
+    },
+    "4": {
+        "title": "On Behalf of Society",
+        "released": "2018-10-02",
+        "rating": "N/A",
+        "imdb_id": "tt7493672",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S1\\Mr.Inbetween.S01E04.WEBRip-ION10.HIS1E4.zip"
+    },
+    "5": {
+        "title": "Hard Worker",
+        "released": "2018-10-09",
+        "rating": "N/A",
+        "imdb_id": "tt7493674",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S1\\Mr.Inbetween.S01E05.Hard_Worker.TBS.HIS1E5.zip"
+    },
+    "6": {
+        "title": "Your Mum's Got a Strongbox",
+        "released": "2018-10-09",
+        "rating": "N/A",
+        "imdb_id": "tt7493678",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

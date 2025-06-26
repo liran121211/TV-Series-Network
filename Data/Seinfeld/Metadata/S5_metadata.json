@@ -1,0 +1,170 @@
+{
+    "1": {
+        "title": "The Mango",
+        "released": "1993-09-16",
+        "rating": "8.5",
+        "imdb_id": "tt0697728",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S5\\Seinfeld.S05E01.The.Mango.DVDRip.x264-DiGGS5E1.zip"
+    },
+    "2": {
+        "title": "The Puffy Shirt",
+        "released": "1993-09-23",
+        "rating": "8.8",
+        "imdb_id": "tt0697762",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S5\\Seinfeld.S05E02.The.Glasses.DVDRip.x264-DiGGS5E2.zip"
+    },
+    "3": {
+        "title": "The Glasses",
+        "released": "1993-09-30",
+        "rating": "8.3",
+        "imdb_id": "tt0697703",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S5\\Seinfeld.S05E03.The.Puffy.Shirt.DVDRip.x264-DiGGS5E3.zip"
+    },
+    "4": {
+        "title": "The Sniffing Accountant",
+        "released": "1993-10-07",
+        "rating": "8.1",
+        "imdb_id": "tt0697779",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S5\\Seinfeld.S05E04.The.Sniffing.Accountant.DVDRip.x264-DiGGS5E4.zip"
+    },
+    "5": {
+        "title": "The Bris",
+        "released": "1993-10-14",
+        "rating": "8.0",
+        "imdb_id": "tt0697661",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S5\\Seinfeld.S05E05.The.Bris.DVDRip.x264-DiGGS5E5.zip"
+    },
+    "6": {
+        "title": "The Lip Reader",
+        "released": "1993-10-28",
+        "rating": "8.4",
+        "imdb_id": "tt0697723",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S5\\Seinfeld.S05E06.The.Lip.Reader.DVDRip.x264-DiGGS5E6.zip"
+    },
+    "7": {
+        "title": "The Non-Fat Yogurt",
+        "released": "1993-11-04",
+        "rating": "8.3",
+        "imdb_id": "tt0697739",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S5\\Seinfeld.S05E07.The.Non-Fat.Yogurt.DVDRip.x264-DiGGS5E7.zip"
+    },
+    "8": {
+        "title": "The Barber",
+        "released": "1993-11-11",
+        "rating": "8.3",
+        "imdb_id": "tt0697653",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S5\\Seinfeld.S05E08.The.Barber.DVDRip.x264-DiGGS5E8.zip"
+    },
+    "9": {
+        "title": "The Masseuse",
+        "released": "1993-11-18",
+        "rating": "7.7",
+        "imdb_id": "tt0697730",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S5\\Seinfeld.S05E09.The.Masseuse.DVDRip.x264-DiGGS5E9.zip"
+    },
+    "10": {
+        "title": "The Cigar Store Indian",
+        "released": "1993-12-09",
+        "rating": "8.4",
+        "imdb_id": "tt0697677",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Conversion",
+        "released": "1993-12-16",
+        "rating": "8.1",
+        "imdb_id": "tt0697680",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Stall",
+        "released": "1994-01-06",
+        "rating": "8.6",
+        "imdb_id": "tt0697785",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Dinner Party",
+        "released": "1994-02-03",
+        "rating": "8.2",
+        "imdb_id": "tt0697684",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Marine Biologist",
+        "released": "1994-02-10",
+        "rating": "9.2",
+        "imdb_id": "tt0697729",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Pie",
+        "released": "1994-02-17",
+        "rating": "8.5",
+        "imdb_id": "tt0697753",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Stand-In",
+        "released": "1994-02-24",
+        "rating": "7.6",
+        "imdb_id": "tt0697786",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Wife",
+        "released": "1994-03-17",
+        "rating": "8.0",
+        "imdb_id": "tt0697810",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Raincoats",
+        "released": "1994-04-28",
+        "rating": "8.4",
+        "imdb_id": "tt0697764",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Fire",
+        "released": "1994-05-05",
+        "rating": "8.6",
+        "imdb_id": "tt0697697",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Hamptons",
+        "released": "1994-05-12",
+        "rating": "9.0",
+        "imdb_id": "tt0697707",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Opposite",
+        "released": "1994-05-19",
+        "rating": "9.5",
+        "imdb_id": "tt0697744",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

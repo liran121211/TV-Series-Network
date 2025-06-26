@@ -1,0 +1,2669 @@
+﻿1
+00:00:03,881 --> 00:00:07,050
+I'm here in Pasadena with
+the NASA Mission Control team...
+
+2
+00:00:07,134 --> 00:00:09,761
+...as they celebrate scientific history.
+
+3
+00:00:09,887 --> 00:00:12,639
+The first close-up photographs of Mars...
+
+4
+00:00:12,723 --> 00:00:15,350
+...from the Viking Observer spacecraft.
+
+5
+00:00:15,434 --> 00:00:17,728
+Photos that have created a stir...
+
+6
+00:00:17,811 --> 00:00:21,064
+...by revealing surprising
+geologic information.
+
+7
+00:00:21,148 --> 00:00:25,444
+The presence of large amounts of water
+locked in Mars' polar ice caps.
+
+8
+00:00:25,527 --> 00:00:30,199
+Water that some speculate could have
+possibly sustained life on the planet.
+
+9
+00:00:30,616 --> 00:00:34,578
+Even more controversial
+is one image of a land formation.
+
+10
+00:00:34,661 --> 00:00:37,915
+A formation that looks like
+a sculpted human face.
+
+11
+00:00:37,998 --> 00:00:43,128
+However, NASA officials are denying
+it is an indication of an alien civilisation.
+
+12
+00:00:43,837 --> 00:00:48,050
+It's no more than a trick of light and
+shadows. A geologic anomaly.
+
+13
+00:00:48,133 --> 00:00:51,094
+The only sculptors at work
+are the solar winds...
+
+14
+00:00:51,178 --> 00:00:55,474
+...that blow across the surface of Mars
+at 300mph, ten months a year.
+
+15
+00:01:32,094 --> 00:01:34,179
+I'm seeing... I've got...
+
+16
+00:01:34,263 --> 00:01:36,348
+<i>How's it going out there?</i>
+
+17
+00:01:36,431 --> 00:01:40,644
+- There's something out here!
+<i>- Can you repeat that, Commander Belt?</i>
+
+18
+00:01:40,727 --> 00:01:43,105
+It's coming at me! Holy God!
+
+19
+00:03:03,477 --> 00:03:06,188
+<i>Pickup terminal sequence.</i>
+
+20
+00:03:06,271 --> 00:03:09,107
+<i>Booster hydraulic</i>
+<i>power units on.</i>
+
+21
+00:03:09,191 --> 00:03:12,736
+<i>This is Shuttle Launch Control.</i>
+<i>T minus one minute, 15 seconds.</i>
+
+22
+00:03:12,819 --> 00:03:16,365
+<i>- OTC to CDR, how do you read?</i>
+<i>- Loud and clear, OVCC.</i>
+
+23
+00:03:19,117 --> 00:03:21,495
+<i>- Port setup, 2.0.</i>
+<i>- Copy setup. 2.0.</i>
+
+24
+00:03:21,578 --> 00:03:24,206
+<i>CDR Houston, how do you read?</i>
+
+25
+00:03:24,289 --> 00:03:25,707
+Loud and clear.
+
+26
+00:03:25,791 --> 00:03:29,086
+<i>Side hatch closeout and</i>
+<i>white room configuration complete.</i>
+
+27
+00:03:29,169 --> 00:03:32,422
+<i>Retracting orbiter arm.</i>
+
+28
+00:03:32,506 --> 00:03:36,259
+<i>- OMS pressure on. Cabin vent complete.</i>
+<i>- Roger. We see that.</i>
+
+29
+00:03:36,343 --> 00:03:39,679
+<i>All systems go for APU start.</i>
+<i>Transfer to internal power.</i>
+
+30
+00:03:39,805 --> 00:03:42,432
+<i>Pre-start complete. APU to inhibit.</i>
+
+31
+00:03:42,516 --> 00:03:44,518
+<i>Oxygen vent hood retracted.</i>
+
+32
+00:03:44,601 --> 00:03:46,395
+<i>External tank is at flight pressure.</i>
+
+33
+00:03:46,645 --> 00:03:49,523
+<i>Lock your visors and initiate your O2 flow.</i>
+
+34
+00:03:49,648 --> 00:03:52,984
+<i>- Y'all have a good trip.</i>
+<i>- Roger that.</i>
+
+35
+00:03:53,568 --> 00:03:55,654
+<i>T minus 20 seconds and counting.</i>
+
+36
+00:03:56,905 --> 00:03:58,990
+<i>Go for auto-sequence start.</i>
+
+37
+00:03:59,074 --> 00:04:01,326
+<i>Booster hydraulic units have started.</i>
+
+38
+00:04:03,829 --> 00:04:05,247
+<i>T minus 10...</i>
+
+39
+00:04:05,330 --> 00:04:06,415
+<i>Nine...</i>
+
+40
+00:04:06,498 --> 00:04:07,582
+<i>Eight...</i>
+
+41
+00:04:07,666 --> 00:04:08,666
+<i>Seven...</i>
+
+42
+00:04:08,667 --> 00:04:09,668
+<i>Six...</i>
+
+43
+00:04:09,793 --> 00:04:10,836
+<i>Five...</i>
+
+44
+00:04:10,919 --> 00:04:11,753
+<i>Four...</i>
+
+45
+00:04:11,837 --> 00:04:13,422
+<i>Three...</i>
+
+46
+00:04:13,505 --> 00:04:16,007
+<i>- Abort liftoff. Abort liftoff.</i>
+
+47
+00:04:16,133 --> 00:04:17,926
+<i>System failure. Abort.</i>
+
+48
+00:04:18,009 --> 00:04:21,638
+<i>Repeat. We have an abort liftoff</i>
+<i>at T minus three seconds.</i>
+
+49
+00:04:24,683 --> 00:04:26,768
+What did the note say?
+
+50
+00:04:27,853 --> 00:04:32,023
+That they worked for NASA and wanted
+to talk to somebody from the FBI.
+
+51
+00:04:33,859 --> 00:04:37,112
+- Why the cloak-and-dagger routine?
+- I have no idea.
+
+52
+00:04:37,195 --> 00:04:40,699
+- Think it's a crank?
+- It's beginning to look that way.
+
+53
+00:04:54,129 --> 00:04:56,923
+- My name is Michelle Generoo.
+- Fox Mulder.
+
+54
+00:04:57,048 --> 00:04:59,092
+I sent you the note.
+
+55
+00:04:59,217 --> 00:05:01,052
+Hi. Special Agent Dana Scully.
+
+56
+00:05:01,136 --> 00:05:06,349
+I'm sorry to have to take these precautions.
+I flew up from Houston this morning.
+
+57
+00:05:06,433 --> 00:05:09,728
+- I work at the Space Center there.
+- In what capacity?
+
+58
+00:05:09,811 --> 00:05:13,940
+I'm the Mission Control communications
+commander for the Space Program.
+
+59
+00:05:14,065 --> 00:05:15,734
+What brings you to Washington?
+
+60
+00:05:15,817 --> 00:05:19,404
+I have reason to believe
+a saboteur may be at work inside NASA.
+
+61
+00:05:19,488 --> 00:05:23,283
+- You have evidence of sabotage?
+- I don't know. I may.
+
+62
+00:05:23,909 --> 00:05:28,872
+Two weeks ago, a shuttle mission was
+scrubbed three seconds before liftoff...
+
+63
+00:05:28,955 --> 00:05:32,417
+...when an auxiliary power unit
+valve malfunctioned.
+
+64
+00:05:32,501 --> 00:05:34,920
+If the flight had not been aborted...
+
+65
+00:05:35,003 --> 00:05:38,673
+...the orbiter would have exploded
+on the launch pad.
+
+66
+00:05:38,757 --> 00:05:41,468
+This was sent to me in the mail.
+
+67
+00:05:43,220 --> 00:05:46,014
+It's a material analysis that shows
+
+68
+00:05:46,097 --> 00:05:49,518
+deep grooved scoring marks
+inside this APU valve.
+
+69
+00:05:49,601 --> 00:05:53,104
+Marks that could have
+caused a malfunction.
+
+70
+00:05:53,230 --> 00:05:56,942
+- Evidence of tampering?
+- That's what it looks like but...
+
+71
+00:05:57,067 --> 00:06:02,781
+The person who gave me your names said
+you are experts in unexplained phenomena.
+
+72
+00:06:02,864 --> 00:06:06,201
+It's unexplainable how and when
+anybody could've done it.
+
+73
+00:06:06,284 --> 00:06:09,871
+- How do you mean?
+- The valve is made of ferrocarbon titanium.
+
+74
+00:06:09,955 --> 00:06:14,042
+To score it would take extreme
+temperatures. Launch pad temperatures.
+
+75
+00:06:14,125 --> 00:06:16,044
+Anyone at NASA would say...
+
+76
+00:06:16,127 --> 00:06:20,882
+...it would be impossible for anyone
+to do that type of damage undetected.
+
+77
+00:06:20,966 --> 00:06:24,135
+- Any idea who may have sent that to you?
+- No. No idea.
+
+78
+00:06:24,261 --> 00:06:29,057
+But the official analysis of the malfunction
+was simple mechanical failure.
+
+79
+00:06:29,140 --> 00:06:33,895
+- Does anybody share your suspicions?
+- If they do, they're not talking to the FBI.
+
+80
+00:06:33,979 --> 00:06:36,398
+I believe in the Space Program.
+
+81
+00:06:36,481 --> 00:06:41,570
+I believe in the people who run it. But
+there's another launch window tomorrow.
+
+82
+00:06:41,653 --> 00:06:44,406
+And my reasons may sound selfish...
+
+83
+00:06:44,489 --> 00:06:48,618
+...but my fiancé is the shuttle commander
+on that mission.
+
+84
+00:06:52,998 --> 00:06:56,585
+Why would somebody
+sabotage the space shuttle?
+
+85
+00:06:56,668 --> 00:07:01,840
+If you're a terrorist, it's a potent symbol
+of American progress and prosperity.
+
+86
+00:07:01,923 --> 00:07:06,261
+If you're an opponent of big science,
+NASA represents a vast money trench...
+
+87
+00:07:06,344 --> 00:07:10,348
+...that exists outside
+the crucible of the democratic process.
+
+88
+00:07:10,432 --> 00:07:14,436
+Then there are futurists who think
+the shuttle is a rusty old bucket
+
+89
+00:07:14,519 --> 00:07:16,104
+that we should mothball.
+
+90
+00:07:16,187 --> 00:07:21,776
+A dinosaur spacecraft built in the '70s
+by scientists setting their sights on space.
+
+91
+00:07:21,860 --> 00:07:25,196
+And we thought we'd rest easy
+when the Soviet Union fell.
+
+92
+00:07:25,280 --> 00:07:30,702
+Not to mention fringe elements who accuse
+our government itself of space sabotage.
+
+93
+00:07:30,827 --> 00:07:34,956
+The failure of the Hubble telescope
+and the Mars Observer connected...
+
+94
+00:07:35,040 --> 00:07:38,376
+- ..to a conspiracy to deny us evidence.
+- Evidence of what?
+
+95
+00:07:39,336 --> 00:07:41,379
+Alien civilisations.
+
+96
+00:07:41,504 --> 00:07:42,964
+Oh, of course!
+
+97
+00:07:51,556 --> 00:07:54,768
+- Wow, look at that! Gemini Eight.
+- What?
+
+98
+00:07:54,893 --> 00:07:58,647
+The man we're gonna see, Colonel Marcus
+Aurelius Belt, nearly died on that mission.
+
+99
+00:07:58,730 --> 00:08:01,483
+Made an emergency landing
+in the Pacific Ocean.
+
+100
+00:08:01,566 --> 00:08:05,111
+- You remember all that stuff?
+- You never wanted to be an astronaut?
+
+101
+00:08:05,195 --> 00:08:07,280
+I guess I missed that phase.
+
+102
+00:08:10,033 --> 00:08:12,077
+<i>Come in.</i>
+
+103
+00:08:13,745 --> 00:08:16,748
+Colonel Belt, I'm Special Agent Dana Scully.
+
+104
+00:08:16,831 --> 00:08:20,418
+- And this is...
+- Colonel Belt. Fox Mulder.
+
+105
+00:08:21,586 --> 00:08:24,339
+I'm a big fan. It's an honour to meet you.
+
+106
+00:08:24,422 --> 00:08:26,800
+You were a big hero to me when I was a kid.
+
+107
+00:08:26,883 --> 00:08:27,967
+Thank you.
+
+108
+00:08:28,051 --> 00:08:31,763
+I... I stayed up all night when I was 14
+to watch your space walk.
+
+109
+00:08:31,846 --> 00:08:35,725
+Well, now it's like
+a stroll around the block.
+
+110
+00:08:36,851 --> 00:08:39,896
+So, how can I help you?
+
+111
+00:08:41,439 --> 00:08:43,942
+This found its way to the FBI.
+
+112
+00:08:44,859 --> 00:08:46,945
+Do you recognise it?
+
+113
+00:08:50,615 --> 00:08:53,034
+Sure. It's an auxiliary power unit valve.
+
+114
+00:08:53,118 --> 00:08:56,204
+Do you have any reason
+to believe it was damaged...
+
+115
+00:08:56,287 --> 00:08:59,290
+...in an effort to sabotage
+the Space Program?
+
+116
+00:08:59,416 --> 00:09:01,584
+No.
+
+117
+00:09:01,668 --> 00:09:05,922
+- Do you have reason to suspect it at all?
+- No reason whatsoever.
+
+118
+00:09:06,005 --> 00:09:08,258
+If you have any respect for this program
+
+119
+00:09:08,341 --> 00:09:11,553
+and for those who have devoted
+their lives to it...
+
+120
+00:09:11,636 --> 00:09:15,140
+...you'll be careful
+to whom you make those accusations.
+
+121
+00:09:15,265 --> 00:09:17,517
+Looking at this evidence, sir...
+
+122
+00:09:17,642 --> 00:09:21,229
+...would you consider
+postponing the shuttle flight...
+
+123
+00:09:21,312 --> 00:09:24,649
+...until a full investigation can be conducted?
+
+124
+00:09:24,774 --> 00:09:28,445
+I don't know where you got
+this specious artefact...
+
+125
+00:09:28,528 --> 00:09:32,157
+...but every precaution has been taken
+to rectify the problem.
+
+126
+00:09:32,282 --> 00:09:36,035
+We've waited two weeks for a window
+to initiate this mission.
+
+127
+00:09:36,161 --> 00:09:38,121
+We've got a payload to deliver.
+
+128
+00:09:38,204 --> 00:09:41,958
+Has an internal investigation
+been done in this matter?
+
+129
+00:09:42,041 --> 00:09:46,337
+The part you have here has been installed,
+inspected and designed...
+
+130
+00:09:46,463 --> 00:09:49,215
+...by over 100 highly trained technicians.
+
+131
+00:09:49,340 --> 00:09:53,595
+With the security measures we take,
+it would be virtually impossible...
+
+132
+00:09:53,678 --> 00:09:57,265
+...for one man working by himself,
+or two or four men...
+
+133
+00:09:57,348 --> 00:09:59,934
+...to do what you're suggesting.
+
+134
+00:10:00,018 --> 00:10:03,062
+I can assure you,
+there's no one in this facility...
+
+135
+00:10:03,188 --> 00:10:07,025
+...that doesn't want to see that shuttle
+complete its mission...
+
+136
+00:10:07,150 --> 00:10:09,736
+...and come back like Winged Victory herself.
+
+137
+00:10:09,861 --> 00:10:12,989
+And in about ten hours, God willing...
+
+138
+00:10:13,072 --> 00:10:14,783
+...you're gonna see just that.
+
+139
+00:10:14,866 --> 00:10:20,121
+Do you think there'd be a problem with us
+watching liftoff from Mission Control?
+
+140
+00:10:20,205 --> 00:10:25,251
+Well, being that you'd probably go over
+my head anyway, please, be my guests.
+
+141
+00:10:25,376 --> 00:10:27,420
+It was an honour, sir.
+
+142
+00:10:28,505 --> 00:10:30,381
+Thank you.
+
+143
+00:10:34,093 --> 00:10:36,679
+Didn't you wanna get his autograph?
+
+144
+00:10:39,557 --> 00:10:41,851
+Where did you say you got this?
+
+145
+00:10:41,935 --> 00:10:44,270
+It came to us anonymously.
+
+146
+00:10:44,395 --> 00:10:48,066
+This is an APU valve, all right.
+But this doesn't make sense.
+
+147
+00:10:48,191 --> 00:10:51,027
+- What doesn't make sense?
+- This scoring here.
+
+148
+00:10:51,110 --> 00:10:53,822
+This valve was made of
+ferrocarbon titanium.
+
+149
+00:10:53,905 --> 00:10:57,659
+- You didn't order the analysis?
+- No. I've never seen this before.
+
+150
+00:10:57,742 --> 00:11:01,037
+We're on outside contract to NASA.
+They may have ordered it.
+
+151
+00:11:01,120 --> 00:11:05,083
+But wouldn't you order
+a material analysis if a part malfunctioned?
+
+152
+00:11:05,208 --> 00:11:08,127
+Every shuttle flies
+with that same APU valve.
+
+153
+00:11:08,253 --> 00:11:12,131
+To do an analysis and redesign
+would delay the Program for months.
+
+154
+00:11:12,257 --> 00:11:13,842
+Not to mention the cost.
+
+155
+00:11:13,925 --> 00:11:17,428
+Is it conceivable that
+the Program is being pushed ahead...
+
+156
+00:11:17,554 --> 00:11:19,764
+...without proper safety precaution?
+
+157
+00:11:19,889 --> 00:11:23,893
+There are about 17,000 things
+that can go wrong with the shuttle.
+
+158
+00:11:23,977 --> 00:11:27,146
+And about 17,000 people
+who make sure they don't.
+
+159
+00:11:27,272 --> 00:11:30,733
+Who makes
+the final determination as to its safety?
+
+160
+00:11:30,817 --> 00:11:34,445
+We make a recommendation
+but the decision is Colonel Belt's.
+
+161
+00:11:35,280 --> 00:11:36,948
+Thank you.
+
+162
+00:11:41,828 --> 00:11:43,454
+What do you think?
+
+163
+00:11:43,580 --> 00:11:46,916
+I can't believe
+how much faith we put in machines.
+
+164
+00:11:47,000 --> 00:11:52,005
+Do you think Colonel Belt
+lied about his knowledge of a saboteur?
+
+165
+00:11:52,130 --> 00:11:57,427
+I can't believe Colonel Belt would
+endanger the lives of those astronauts.
+
+166
+00:11:57,510 --> 00:12:00,305
+He was an astronaut himself.
+
+167
+00:12:00,430 --> 00:12:02,849
+So you think this x-ray is bogus?
+
+168
+00:12:04,017 --> 00:12:06,519
+God, I hope so.
+
+169
+00:12:08,396 --> 00:12:13,026
+<i>This is Shuttle Launch Control with T minus</i>
+<i>one minute, 40 seconds and counting.</i>
+
+170
+00:12:13,151 --> 00:12:16,988
+<i>- OVCC verified.</i>
+<i>- Roger that. OVCC verified.</i>
+
+171
+00:12:17,113 --> 00:12:18,948
+Here we go.
+
+172
+00:12:19,032 --> 00:12:21,951
+T minus one minute, 30 and counting.
+
+173
+00:12:22,160 --> 00:12:27,665
+<i>- Final purge sequence. Main engine check.</i>
+- Copy. Main engine check.
+
+174
+00:12:27,790 --> 00:12:29,834
+<i>Switching off ground supply.</i>
+
+175
+00:12:29,959 --> 00:12:31,753
+<i>- On-board fuel cells check.</i>
+- Roger, OTC.
+
+176
+00:12:31,836 --> 00:12:34,297
+<i>Pickup terminal sequence FPS.</i>
+
+177
+00:12:34,380 --> 00:12:36,799
+<i>- OTC to CDR, how do you read?</i>
+- Loud and clear.
+
+178
+00:12:36,883 --> 00:12:39,969
+Capacitor energy storage banks all at 241.
+
+179
+00:12:40,553 --> 00:12:43,473
+<i>- OTC to CDR, how do you read?</i>
+- Loud and clear.
+
+180
+00:12:45,391 --> 00:12:47,018
+<i>CDR Houston, how do you read?</i>
+
+181
+00:12:47,101 --> 00:12:48,645
+Loud and clear.
+
+182
+00:12:48,728 --> 00:12:51,898
+<i>Side hatch closeout and</i>
+<i>white room configuration complete.</i>
+
+183
+00:12:51,981 --> 00:12:53,858
+<i>Retracting orbiter arm.</i>
+
+184
+00:12:53,942 --> 00:12:57,779
+<i>- All systems go for APU start.</i>
+<i>- Go with APU start.</i>
+
+185
+00:12:57,862 --> 00:13:00,823
+BBSR power down and ready for launch.
+
+186
+00:13:00,907 --> 00:13:04,953
+- Transfer to internal power.
+<i>- Transfer to internal power.</i>
+
+187
+00:13:05,036 --> 00:13:08,748
+<i>Gimballing of engines complete.</i>
+<i>Aero surfaces in launch position.</i>
+
+188
+00:13:08,831 --> 00:13:11,751
+<i>MPDR assembled.</i>
+<i>Military recorder is running.</i>
+
+189
+00:13:11,834 --> 00:13:13,628
+OK. Copy.
+
+190
+00:13:13,711 --> 00:13:18,383
+<i>Oxygen vent hood retracted.</i>
+<i>External tank is at flight pressure.</i>
+
+191
+00:13:18,466 --> 00:13:21,719
+<i>CDR, lock your visors</i>
+<i>and initiate your O2 flow.</i>
+
+192
+00:13:21,803 --> 00:13:24,389
+<i>- Y'all have a good one.</i>
+<i>- Roger that.</i>
+
+193
+00:13:27,100 --> 00:13:29,519
+<i>Go for auto-sequence start.</i>
+
+194
+00:13:29,602 --> 00:13:32,021
+<i>Booster hydraulic units have started.</i>
+
+195
+00:13:32,397 --> 00:13:34,482
+<i>Go for main engine start.</i>
+
+196
+00:13:37,735 --> 00:13:40,405
+<i>T minus 10 and counting. Nine...</i>
+
+197
+00:13:40,488 --> 00:13:42,198
+<i>Eight... Seven...</i>
+
+198
+00:13:42,281 --> 00:13:46,202
+<i>Six... Five... Four...</i>
+
+199
+00:13:46,285 --> 00:13:49,247
+<i>Three... Two... One...</i>
+
+200
+00:13:49,747 --> 00:13:51,833
+<i>Zero... Ignition...</i>
+
+201
+00:13:51,916 --> 00:13:54,711
+<i>We have liftoff of the shuttle orbiter.</i>
+
+202
+00:14:02,885 --> 00:14:07,015
+<i>CDR Houston, betcha y'all have</i>
+<i>never seen a more beautiful sight.</i>
+
+203
+00:14:07,098 --> 00:14:09,183
+Roger that. Ten-four.
+
+204
+00:14:27,660 --> 00:14:30,788
+I have to admit I've fulfilled
+one of my boyhood fantasies.
+
+205
+00:14:30,913 --> 00:14:34,625
+Yeah, it ranks up there with
+learning how to braid my own hair.
+
+206
+00:14:34,709 --> 00:14:37,962
+Come on, Scully,
+you have to admit that was exciting.
+
+207
+00:14:38,129 --> 00:14:41,466
+- Mission Control, the countdown...
+- Mulder! Wait!
+
+208
+00:14:41,924 --> 00:14:44,635
+- Something's gone wrong.
+- What happened?
+
+209
+00:14:44,719 --> 00:14:46,804
+Something's wrong with the shuttle.
+
+210
+00:14:46,888 --> 00:14:49,557
+We had trouble with the rocket boosters,
+but fixed it.
+
+211
+00:14:49,640 --> 00:14:52,810
+We changed watch. I went home
+to try to get some sleep.
+
+212
+00:14:52,935 --> 00:14:55,813
+I got a call. Communication
+with the shuttle is down.
+
+213
+00:14:55,938 --> 00:14:58,232
+We've got to get back to Houston.
+
+214
+00:15:08,493 --> 00:15:12,663
+There's a press blackout. Chances are
+the media doesn't know about it.
+
+215
+00:15:12,747 --> 00:15:16,834
+- You think this is sabotage?
+- I don't know. Things go wrong all the time.
+
+216
+00:15:16,959 --> 00:15:20,171
+- Yeah, but they usually fix them, right?
+- Usually.
+
+217
+00:15:20,296 --> 00:15:21,422
+She's turning.
+
+218
+00:15:56,040 --> 00:15:57,959
+Michelle!
+
+219
+00:15:58,042 --> 00:16:00,294
+- I can see her.
+<i>- </i> Michelle!
+
+220
+00:16:00,378 --> 00:16:02,505
+- Help!
+- Are you all right?
+
+221
+00:16:03,798 --> 00:16:06,384
+- Oh, I'm stuck!
+<i>- </i> Can you move?
+
+222
+00:16:07,385 --> 00:16:10,012
+Just get me out of here! I'm wedged in!
+
+223
+00:16:11,139 --> 00:16:13,975
+- Are you all right?
+- I'm wedged in!
+
+224
+00:16:14,058 --> 00:16:17,145
+Come here. Can you push with your legs?
+
+225
+00:16:17,228 --> 00:16:19,647
+- Be careful.
+- Just get me out of here!
+
+226
+00:16:19,730 --> 00:16:22,900
+OK! All right! Come on.
+
+227
+00:16:36,998 --> 00:16:39,083
+Don't try to move.
+
+228
+00:16:40,585 --> 00:16:43,087
+I've got to get back to Houston.
+
+229
+00:16:45,715 --> 00:16:47,925
+- What happened?
+- I don't know.
+
+230
+00:16:48,009 --> 00:16:50,094
+Something came at me in the fog.
+
+231
+00:16:52,221 --> 00:16:54,765
+The next thing I knew, I was upside down.
+
+232
+00:16:54,891 --> 00:16:57,101
+- Was it some kind of an animal?
+- No.
+
+233
+00:16:57,185 --> 00:17:00,605
+It had a face. It was...
+
+234
+00:17:00,688 --> 00:17:03,107
+It was grotesque.
+
+235
+00:17:03,232 --> 00:17:05,860
+I don't know what it was.
+
+236
+00:17:18,623 --> 00:17:21,042
+Orbiter, this is Houston. Do you copy?
+
+237
+00:17:21,125 --> 00:17:23,211
+<i>Your transmission is breaking up.</i>
+
+238
+00:17:26,631 --> 00:17:28,716
+What's happening?
+
+239
+00:17:28,799 --> 00:17:31,385
+We have a malf
+in the OMS and RCF systems.
+
+240
+00:17:31,469 --> 00:17:34,555
+They can't get the orbiter
+into attitude rotation.
+
+241
+00:17:34,639 --> 00:17:38,809
+Temperature in the cabin is 103
+and they have transmission problems.
+
+242
+00:17:38,893 --> 00:17:42,563
+- What happened?
+- I had an accident. What's their position?
+
+243
+00:17:42,647 --> 00:17:46,901
+- Just over Eastern Africa.
+- Try the Seychelles tracking station.
+
+244
+00:17:51,072 --> 00:17:53,658
+Hang in there, OTC.
+
+245
+00:17:53,783 --> 00:17:56,160
+The orbiter manoeuvring system is down.
+
+246
+00:17:56,285 --> 00:18:01,082
+They can't rotate the shuttle to keep it away
+from the sun and keep the orbiter cool.
+
+247
+00:18:01,165 --> 00:18:04,335
+Drop in cabin pressure.
+21 kilopascals and declining.
+
+248
+00:18:05,002 --> 00:18:07,004
+They're gonna burn up.
+
+249
+00:18:07,129 --> 00:18:09,090
+- Where's Colonel Belt?
+- On his way.
+
+250
+00:18:09,757 --> 00:18:12,510
+- Damn! What happened to backup?
+- Failed to respond.
+
+251
+00:18:12,593 --> 00:18:15,846
+What about telemetry?
+Can we auto-activate from here?
+
+252
+00:18:15,972 --> 00:18:19,183
+We cannot auto-activate.
+It's like someone's interfering.
+
+253
+00:18:19,308 --> 00:18:22,853
+- Screwing communications from this end.
+- Can you trace it?
+
+254
+00:18:22,979 --> 00:18:27,692
+- It'd have to be a digital processor.
+- They'd have to be in the data banks.
+
+255
+00:18:27,775 --> 00:18:30,361
+- Where's that?
+- Come on.
+
+256
+00:19:13,904 --> 00:19:16,324
+Mulder?
+
+257
+00:19:19,201 --> 00:19:20,995
+I'm a federal agent!
+
+258
+00:19:21,078 --> 00:19:22,872
+Come on out of there!
+
+259
+00:19:24,915 --> 00:19:27,460
+- What are you doing in here?
+- I work here.
+
+260
+00:19:27,543 --> 00:19:28,836
+Let me see your clearance.
+
+261
+00:19:28,919 --> 00:19:32,006
+A sensor went off. There was a malfunction.
+
+262
+00:19:32,089 --> 00:19:34,175
+- Did you find it?
+- No.
+
+263
+00:19:34,258 --> 00:19:37,178
+Did you see anybody else in here?
+
+264
+00:19:37,261 --> 00:19:40,431
+OK, call Security.
+I want a search of the premises.
+
+265
+00:19:40,514 --> 00:19:44,143
+No-one is to come in or out
+of this building without proper clearance.
+
+266
+00:19:44,935 --> 00:19:48,105
+<i>- I'm breaking up, OTC.</i>
+- What's the attitude of the orbiter?
+
+267
+00:19:48,189 --> 00:19:50,608
+Flying tail first, belly towards the sun.
+
+268
+00:19:50,816 --> 00:19:53,986
+The flash evaporator system is working
+but not enough to cool 'em down.
+
+269
+00:19:54,070 --> 00:19:57,740
+- Cabin temperature 116.
+<i>- </i> Where's...
+
+270
+00:19:57,823 --> 00:20:00,451
+Somebody's jamming our transmissions.
+
+271
+00:20:00,534 --> 00:20:05,498
+Interfering with our ground communications
+and scrambling our uplink telemetry.
+
+272
+00:20:05,623 --> 00:20:08,918
+The shuttle is not responding
+to override signals.
+
+273
+00:20:09,001 --> 00:20:11,962
+I'm gonna let 'em fly by wire.
+
+274
+00:20:12,046 --> 00:20:15,216
+- I'm cutting off telemetry.
+- It might not work.
+
+275
+00:20:15,299 --> 00:20:18,344
+- We have to give it a chance.
+- We have to bring them down.
+
+276
+00:20:18,469 --> 00:20:20,137
+We have to give them control of the ship
+
+277
+00:20:20,221 --> 00:20:23,557
+to perform that rotation
+and deliver the payload.
+
+278
+00:20:23,641 --> 00:20:26,644
+What if they can't?
+We could be stranding them.
+
+279
+00:20:35,361 --> 00:20:38,030
+Abandon telemetry. Go to fly-by-wire mode.
+
+280
+00:20:39,740 --> 00:20:44,829
+They're cutting off ground control.
+The astronauts will be flying the shuttle.
+
+281
+00:20:44,912 --> 00:20:46,831
+Is it gonna work?
+
+282
+00:20:50,334 --> 00:20:52,420
+OTC, this is Houston.
+
+283
+00:20:52,503 --> 00:20:54,588
+How's the weather up there?
+
+284
+00:20:54,672 --> 00:20:57,633
+<i>Sunny and warm, Houston.</i>
+<i>What's the forecast?</i>
+
+285
+00:20:57,716 --> 00:21:00,219
+OTC, we're going to fly-by-wire mode.
+
+286
+00:21:00,302 --> 00:21:04,932
+We're going to abort ground control to see
+if you can bring those systems back up.
+
+287
+00:21:05,891 --> 00:21:07,935
+<i>Roger that, Houston.</i>
+
+288
+00:21:08,018 --> 00:21:10,104
+<i>And leave the driving to us.</i>
+
+289
+00:21:10,187 --> 00:21:12,481
+David...
+
+290
+00:21:12,565 --> 00:21:14,650
+You take care.
+
+291
+00:21:20,865 --> 00:21:22,950
+What just happened?
+
+292
+00:21:23,033 --> 00:21:25,411
+They cut off contact with the shuttle.
+
+293
+00:21:29,415 --> 00:21:34,128
+Negative.
+We pulled off the MPG. We're on manual.
+
+294
+00:21:41,177 --> 00:21:43,846
+45 seconds.
+
+295
+00:21:46,223 --> 00:21:49,685
+If they were able to execute,
+they'd have done it by now.
+
+296
+00:21:50,561 --> 00:21:52,438
+Standing by.
+
+297
+00:21:55,816 --> 00:21:57,902
+60 seconds.
+
+298
+00:22:01,322 --> 00:22:04,116
+Go to re-establish uplink communication.
+
+299
+00:22:12,208 --> 00:22:13,876
+Video signal's failed.
+
+300
+00:22:14,543 --> 00:22:16,712
+OTC, this is Houston. Do you copy?
+
+301
+00:22:23,511 --> 00:22:26,055
+OTC, this is Houston. Where are you?
+
+302
+00:22:27,806 --> 00:22:29,600
+<i>Howdy do, Houston?</i>
+
+303
+00:22:29,683 --> 00:22:32,603
+<i>Looks like we finally got</i>
+<i>this bird to fly right.</i>
+
+304
+00:22:39,610 --> 00:22:42,905
+- OTC, do you hear that?
+<i>- Music to our ears.</i>
+
+305
+00:22:45,574 --> 00:22:48,077
+Cabin temperature stabilising.
+
+306
+00:22:48,160 --> 00:22:51,372
+OTC, this is Marc Belt in Houston.
+
+307
+00:22:51,455 --> 00:22:53,374
+How's the crew holding up?
+
+308
+00:22:53,457 --> 00:22:55,543
+<i>They're looking good, sir.</i>
+
+309
+00:22:56,043 --> 00:22:58,128
+You all get some rest.
+
+310
+00:22:58,212 --> 00:23:00,297
+We'll get back to work...
+
+311
+00:23:00,381 --> 00:23:02,925
+- ..at about 0700.
+<i>- Roger that, Houston.</i>
+
+312
+00:23:03,008 --> 00:23:05,886
+Let's get to work
+on that telemetry problem.
+
+313
+00:23:07,179 --> 00:23:09,306
+We've got a big day ahead of us.
+
+314
+00:23:26,991 --> 00:23:29,410
+<i>Let's just let the electronic press...</i>
+
+315
+00:23:29,493 --> 00:23:31,662
+...get their sound equipment set.
+
+316
+00:23:38,335 --> 00:23:41,422
+I know you have a lot of questions.
+I'll get to them.
+
+317
+00:23:41,505 --> 00:23:44,425
+How did he know what he did
+was going to work?
+
+318
+00:23:44,508 --> 00:23:49,138
+He didn't. They could have died up there
+and there's nothing we could have done.
+
+319
+00:23:49,221 --> 00:23:51,724
+They'd have been a ghost ship stuck in orbit.
+
+320
+00:23:53,392 --> 00:23:55,477
+Why would he take that risk?
+
+321
+00:23:55,561 --> 00:23:59,523
+Bring those men back
+without delivering that payload?
+
+322
+00:23:59,607 --> 00:24:02,484
+You're talking millions of wasted dollars.
+
+323
+00:24:02,568 --> 00:24:05,821
+That's all Congress would need
+to shut down NASA.
+
+324
+00:24:06,780 --> 00:24:08,657
+As of 2200 hours...
+
+325
+00:24:08,741 --> 00:24:12,328
+...the crew has been conducting
+on-board tests and tasks...
+
+326
+00:24:12,411 --> 00:24:16,665
+...and resting up for their first
+full day in space tomorrow.
+
+327
+00:24:17,750 --> 00:24:21,086
+I'm happy to say,
+after a beautiful night launch...
+
+328
+00:24:22,046 --> 00:24:25,257
+...the shuttle orbiter
+has performed... magnificently.
+
+329
+00:24:33,849 --> 00:24:35,934
+So much for your boyhood hero.
+
+330
+00:24:44,735 --> 00:24:46,820
+Colonel Belt?
+
+331
+00:24:46,904 --> 00:24:49,698
+Colonel Belt?
+Can I talk to you for a moment?
+
+332
+00:24:52,076 --> 00:24:54,244
+You want to know why I lied to them.
+
+333
+00:24:54,328 --> 00:24:56,830
+You're asking yourself if I'd lie to you.
+
+334
+00:25:00,959 --> 00:25:04,922
+You know what it means
+to be an astronaut, sir?
+
+335
+00:25:05,005 --> 00:25:08,759
+You risk your life every time
+you get into your spacecraft.
+
+336
+00:25:08,842 --> 00:25:11,970
+For nothing more than
+the good progress of mankind.
+
+337
+00:25:12,054 --> 00:25:14,264
+You've got no argument from me, sir.
+
+338
+00:25:14,348 --> 00:25:16,850
+- You're true American heroes.
+- Heroes?
+
+339
+00:25:16,934 --> 00:25:20,062
+We used to make headlines
+when we did our job right.
+
+340
+00:25:20,145 --> 00:25:22,564
+Now they bury you in the back of the paper.
+
+341
+00:25:22,648 --> 00:25:25,484
+Name two astronauts
+in the last shuttle mission.
+
+342
+00:25:27,069 --> 00:25:30,155
+You make the front page today
+only if you screw up.
+
+343
+00:25:30,239 --> 00:25:32,116
+They only know your name...
+
+344
+00:25:32,199 --> 00:25:36,328
+...if you're the unlucky s.o.b.
+sitting on 500 tons of dynamite.
+
+345
+00:25:36,412 --> 00:25:39,039
+That's what they're really waiting for.
+
+346
+00:25:40,249 --> 00:25:42,126
+Sir, I have to ask.
+
+347
+00:25:42,209 --> 00:25:44,586
+I'm sorry. It's my job.
+
+348
+00:25:44,670 --> 00:25:48,006
+Do you think someone
+is sabotaging the shuttle?
+
+349
+00:25:48,090 --> 00:25:52,845
+My answer to you, sir, will be to
+bring those men back safely to Earth.
+
+350
+00:27:07,336 --> 00:27:10,255
+- I've got...
+<i>- How's it going out there?</i>
+
+351
+00:27:10,339 --> 00:27:14,510
+- There's something out here!
+<i>- Can you repeat that, Commander Belt?</i>
+
+352
+00:27:14,593 --> 00:27:16,678
+It's coming at me! Holy God!
+
+353
+00:28:18,031 --> 00:28:20,534
+<i>Houston, we just heard something weird.</i>
+
+354
+00:28:21,869 --> 00:28:24,121
+OTC, Houston. Can you describe it?
+
+355
+00:28:24,204 --> 00:28:28,333
+<i>Uh, sort of a dull thump like...</i>
+<i>something bumped the ship!</i>
+
+356
+00:28:28,417 --> 00:28:30,586
+<i>Have you got any ideas about that?</i>
+
+357
+00:28:30,669 --> 00:28:32,963
+<i>There it is again!</i>
+
+358
+00:28:38,176 --> 00:28:40,137
+We're taking a look at it now.
+
+359
+00:28:41,388 --> 00:28:42,848
+That one right there.
+
+360
+00:28:45,267 --> 00:28:48,562
+They've got an oxygen leak
+on board the orbiter.
+
+361
+00:28:49,646 --> 00:28:52,858
+<i>Our O2 gauges</i>
+<i>are going all screwy, Houston.</i>
+
+362
+00:28:55,360 --> 00:28:58,280
+We got problems.
+An O2 leak in the main tank.
+
+363
+00:28:58,363 --> 00:29:00,198
+What did they say happened?
+
+364
+00:29:00,282 --> 00:29:02,409
+They don't know. They said it was a thump.
+
+365
+00:29:02,492 --> 00:29:03,660
+Stand by.
+
+366
+00:29:04,036 --> 00:29:09,458
+An astronomer in Winnipeg just spotted a
+mile-long gaseous cloud trailing in our orbit.
+
+367
+00:29:09,541 --> 00:29:11,793
+The liquid O2 leaking out into space.
+
+368
+00:29:11,877 --> 00:29:15,005
+Exactly what happened
+to Colonel Belt on an Apollo mission.
+
+369
+00:29:15,088 --> 00:29:16,590
+How much time do they have?
+
+370
+00:29:16,673 --> 00:29:21,386
+Hard to say without accurate telemetry
+data. We're doing a guesstimate.
+
+371
+00:29:21,470 --> 00:29:24,473
+- Where is Colonel Belt?
+- He was due 90 minutes ago...
+
+372
+00:29:24,556 --> 00:29:26,850
+...to begin payload deployment.
+
+373
+00:29:26,975 --> 00:29:29,436
+<i>Uh, Houston, we're up here wondering...</i>
+
+374
+00:29:29,519 --> 00:29:33,607
+<i>- .. when do we start holding our breath?</i>
+- We're working on it, OTC.
+
+375
+00:29:33,690 --> 00:29:36,860
+I need those calculations
+and a worst-case scenario.
+
+376
+00:29:36,985 --> 00:29:39,529
+We don't know
+if both O2 tanks are damaged.
+
+377
+00:29:39,655 --> 00:29:41,782
+Worst-case scenario!
+
+378
+00:29:41,865 --> 00:29:44,701
+- And someone find Colonel Belt!
+- We'll find him.
+
+379
+00:29:44,826 --> 00:29:48,038
+They've got 30 minutes of oxygen.
+Then it's anybody's guess.
+
+380
+00:29:49,831 --> 00:29:51,333
+Why does she need Belt?
+
+381
+00:29:51,416 --> 00:29:53,502
+She doesn't know how serious the leak is.
+
+382
+00:29:53,585 --> 00:29:56,964
+Even I can figure out what happens
+when you run out of oxygen.
+
+383
+00:29:57,255 --> 00:30:01,426
+Colonel Belt's been in the same situation.
+He'll know what to do.
+
+384
+00:30:01,551 --> 00:30:03,595
+Where the hell is he?
+
+385
+00:30:13,063 --> 00:30:15,148
+Colonel Belt!
+
+386
+00:30:18,443 --> 00:30:20,570
+Colonel Belt!
+
+387
+00:30:21,655 --> 00:30:23,740
+I'm gonna go get Security.
+
+388
+00:30:24,950 --> 00:30:27,077
+Colonel Belt.
+
+389
+00:30:29,579 --> 00:30:31,248
+Are you all right?
+
+390
+00:30:33,000 --> 00:30:35,085
+Yeah, I wasn't feeling well.
+
+391
+00:30:35,168 --> 00:30:37,212
+They need you at Mission Control.
+
+392
+00:30:37,295 --> 00:30:39,840
+There's been another accident.
+
+393
+00:30:39,923 --> 00:30:44,177
+OTC, is your orbital
+manoeuvring system still operational?
+
+394
+00:30:44,261 --> 00:30:48,265
+<i>Roger, Houston. We're ready for re-entry.</i>
+<i>Just say the word.</i>
+
+395
+00:30:48,348 --> 00:30:50,434
+How bad's the leak?
+
+396
+00:30:52,019 --> 00:30:54,604
+We have no way to determine.
+
+397
+00:30:55,647 --> 00:30:57,733
+OTC.
+
+398
+00:30:57,816 --> 00:31:00,861
+What's the condensation in your cabin?
+
+399
+00:31:00,944 --> 00:31:02,988
+<i>The windows are getting steamy.</i>
+
+400
+00:31:03,113 --> 00:31:04,990
+Carbon dioxide build-up.
+
+401
+00:31:05,115 --> 00:31:07,159
+OK, OTC.
+
+402
+00:31:07,284 --> 00:31:09,327
+Everything's gonna be fine.
+
+403
+00:31:09,453 --> 00:31:11,663
+I want you to get in your spacesuits...
+
+404
+00:31:11,788 --> 00:31:13,832
+...and depressurise your cabin.
+
+405
+00:31:13,957 --> 00:31:17,377
+And then I want you to... vent that CO2.
+
+406
+00:31:17,461 --> 00:31:20,881
+<i>- Roger, Houston. Then what?</i>
+- I want you to stay in your suits.
+
+407
+00:31:20,964 --> 00:31:25,552
+And then I want you to prepare
+to use your emergency oxygen systems.
+
+408
+00:31:25,635 --> 00:31:27,471
+And then I want you to...
+
+409
+00:31:29,556 --> 00:31:32,893
+...to... deliver your payload.
+
+410
+00:31:34,978 --> 00:31:37,022
+Those are men up there.
+
+411
+00:31:39,649 --> 00:31:44,905
+You're out of line. You wanna tell me how
+to do my job? I've been in that situation.
+
+412
+00:31:44,988 --> 00:31:49,576
+There's more at risk than your personal life.
+If you can't accept that...
+
+413
+00:31:49,659 --> 00:31:53,497
+...or operate effectively
+in these circumstances...
+
+414
+00:31:53,580 --> 00:31:57,667
+...you'd better leave the decisions
+to people in this room who can!
+
+415
+00:32:09,012 --> 00:32:11,056
+OTC...
+
+416
+00:32:11,181 --> 00:32:13,225
+...do you copy?
+
+417
+00:32:13,350 --> 00:32:16,728
+<i>Roger, Houston. We're waiting on</i>
+<i>those O2 calculations.</i>
+
+418
+00:32:24,778 --> 00:32:26,863
+Michelle!
+
+419
+00:32:28,115 --> 00:32:30,826
+- They're gonna die!
+- You don't know that.
+
+420
+00:32:30,909 --> 00:32:35,539
+It's unconscionable putting that payload
+before those men's lives!
+
+421
+00:32:35,622 --> 00:32:39,835
+I think she's right, Mulder.
+You saw him in there. He's losing it.
+
+422
+00:32:39,918 --> 00:32:43,296
+- He saved their lives earlier.
+- Or put them in unnecessary jeopardy.
+
+423
+00:32:43,380 --> 00:32:47,217
+If he can't deliver that payload,
+Congress will kill the Space Program.
+
+424
+00:32:47,300 --> 00:32:49,469
+So will killing the astronauts.
+
+425
+00:32:49,553 --> 00:32:52,264
+Somebody must have
+sabotaged the shuttle.
+
+426
+00:32:52,347 --> 00:32:54,057
+Too many things have gone wrong.
+
+427
+00:32:54,141 --> 00:32:58,228
+- I think Colonel Belt knows about it.
+- We've got to stop him.
+
+428
+00:32:58,687 --> 00:33:01,857
+- Pull them out of orbit!
+- He doesn't want them to die.
+
+429
+00:33:01,940 --> 00:33:04,526
+- How do you know?
+- I know it. I'm sure of it.
+
+430
+00:33:04,609 --> 00:33:08,363
+- He put them up there!
+- And only he can get them down alive.
+
+431
+00:33:08,446 --> 00:33:13,118
+How can you be certain that what he's doing
+isn't gonna save their lives?
+
+432
+00:33:13,201 --> 00:33:16,163
+Now, I need access
+to your records, in a hurry.
+
+433
+00:33:17,664 --> 00:33:21,459
+Everything on
+the Hubble Telescope, Mars Observer...
+
+434
+00:33:21,543 --> 00:33:23,628
+...and the current orbiter mission.
+
+435
+00:33:23,712 --> 00:33:25,797
+Tens of thousands of documents.
+
+436
+00:33:25,881 --> 00:33:29,551
+- What are we looking for?
+- X-rays, diagrams, schematics.
+
+437
+00:33:29,634 --> 00:33:34,014
+- Proof that Belt knew about a sabotage.
+<i>- </i> A needle in a haystack.
+
+438
+00:33:52,908 --> 00:33:56,077
+<i>Payload deployment initiated.</i>
+
+439
+00:33:57,621 --> 00:34:00,957
+<i>Roger that, OTC. Tracking it now.</i>
+
+440
+00:34:02,250 --> 00:34:04,419
+<i>Looks good from here.</i>
+
+441
+00:34:10,508 --> 00:34:12,510
+<i>Payload delivery is complete, Houston.</i>
+
+442
+00:34:12,594 --> 00:34:14,679
+<i>We're awaiting your order.</i>
+
+443
+00:34:15,597 --> 00:34:19,267
+System check for re-entry de-orbit burn.
+
+444
+00:34:20,227 --> 00:34:23,980
+<i>Holy God! There's something</i>
+<i>outside the ship that...</i>
+
+445
+00:34:24,064 --> 00:34:27,984
+<i>- There's someone outside the ship!</i>
+<i>- </i> Can you repeat that, OTC?
+
+446
+00:34:28,068 --> 00:34:30,153
+<i>There's... some kind of...</i>
+
+447
+00:34:30,237 --> 00:34:32,739
+<i>..ghost outside the ship!</i>
+
+448
+00:34:33,114 --> 00:34:34,783
+No... No...
+
+449
+00:34:37,702 --> 00:34:39,621
+No... No!
+
+450
+00:34:39,704 --> 00:34:43,416
+No! No-o-o-o-o!
+
+451
+00:34:48,171 --> 00:34:50,840
+Mulder? I found it.
+
+452
+00:34:50,924 --> 00:34:54,177
+This is the same diagram
+that was sent to Michelle.
+
+453
+00:34:56,346 --> 00:35:00,767
+Ordered by Colonel Belt. Which means
+he knew about the faulty valve.
+
+454
+00:35:00,850 --> 00:35:06,022
+This is from the Challenger. It's the O-ring
+fitting that failed, dated January 21, 1986.
+
+455
+00:35:06,147 --> 00:35:08,608
+One week before the space shuttle blew up.
+
+456
+00:35:08,692 --> 00:35:11,194
+The analysis was ordered by Colonel Belt.
+
+457
+00:35:11,319 --> 00:35:14,614
+So he might have known
+about the Challenger defect?
+
+458
+00:35:14,698 --> 00:35:17,951
+Something weird is going on here, Scully.
+
+459
+00:35:18,034 --> 00:35:21,121
+Colonel Belt's collapsed. He's in his office.
+
+460
+00:35:25,166 --> 00:35:27,210
+He was just here!
+
+461
+00:35:31,214 --> 00:35:33,300
+Oh, my God.
+
+462
+00:35:33,383 --> 00:35:35,635
+What's wrong with him?
+
+463
+00:35:38,054 --> 00:35:40,223
+Get a doctor.
+
+464
+00:35:47,856 --> 00:35:49,899
+Help me!
+
+465
+00:35:51,026 --> 00:35:53,570
+- Help me!
+- How can we help you, Colonel?
+
+466
+00:35:53,653 --> 00:35:55,238
+He's having some kind of a seizure.
+
+467
+00:35:55,322 --> 00:35:56,823
+Come on! Come on, come on!
+
+468
+00:35:56,906 --> 00:36:01,328
+No... They're... tearing me apart!
+
+469
+00:36:02,495 --> 00:36:04,581
+Let me see if I can get a pulse.
+
+470
+00:36:07,459 --> 00:36:09,836
+Oh... Help me!
+
+471
+00:36:09,919 --> 00:36:13,298
+- I'm bringing that shuttle down.
+- No-o-o-o!
+
+472
+00:36:13,423 --> 00:36:16,134
+- It's out there!
+- Come on, let's put him down.
+
+473
+00:36:18,762 --> 00:36:21,264
+- Spacesuit...
+- Easy, easy.
+
+474
+00:36:21,348 --> 00:36:24,768
+- Strap him down!
+- Give him 10mg of diazepam!
+
+475
+00:36:24,851 --> 00:36:27,062
+- No!
+- He's gonna hurt himself!
+
+476
+00:36:27,145 --> 00:36:29,481
+He's trying to tell us something!
+Colonel Belt?
+
+477
+00:36:29,564 --> 00:36:35,070
+- Those men are running out of oxygen.
+- They don't have to die.
+
+478
+00:36:35,153 --> 00:36:39,032
+Colonel Belt, I want you to focus.
+Focus your breathing.
+
+479
+00:36:39,115 --> 00:36:42,160
+Focus your pain... right here.
+
+480
+00:36:44,704 --> 00:36:47,874
+Blood pressure's 174 over 120.
+Vitals are rising.
+
+481
+00:36:47,957 --> 00:36:50,627
+- Mulder, you're risking an aneurysm.
+- Focus!
+
+482
+00:36:54,130 --> 00:36:55,840
+Now you're focused.
+
+483
+00:36:55,965 --> 00:36:57,801
+Right here.
+
+484
+00:36:57,884 --> 00:37:02,305
+Now you're gonna save those astronauts
+and you're gonna tell me how to do it.
+
+485
+00:37:04,724 --> 00:37:08,561
+The shuttle... can't survive re-entry.
+
+486
+00:37:08,645 --> 00:37:11,398
+- He's lying.
+- How do you know it can't survive?
+
+487
+00:37:11,481 --> 00:37:15,527
+The fuselage... the fuselage is damaged.
+
+488
+00:37:15,610 --> 00:37:19,489
+- The silicone tiles are destroyed.
+- How does he know?
+
+489
+00:37:19,572 --> 00:37:22,909
+- How has it been damaged?
+- I'm responsible.
+
+490
+00:37:22,992 --> 00:37:27,914
+- Did you sabotage the shuttle?
+- No, but I couldn't stop them.
+
+491
+00:37:27,997 --> 00:37:31,167
+Nobody could stop them!
+
+492
+00:37:31,251 --> 00:37:33,294
+- Stop who?
+- Pulse is 194.
+
+493
+00:37:33,378 --> 00:37:35,547
+- You'll kill him, Mulder!
+- Stop who?
+
+494
+00:37:35,630 --> 00:37:37,674
+They don't want us to know!
+
+495
+00:37:37,757 --> 00:37:40,218
+- They don't want us to know!
+- Who?!
+
+496
+00:37:41,553 --> 00:37:44,556
+It came to me. It lives in me!
+
+497
+00:37:48,810 --> 00:37:51,062
+It's coming at me! It's coming at me!
+
+498
+00:38:00,822 --> 00:38:05,410
+No! Help me! It's coming back!
+
+499
+00:38:16,087 --> 00:38:18,840
+That's the face I saw in the fog!
+
+500
+00:38:18,923 --> 00:38:21,009
+- We're losing him!
+- V-fib!
+
+501
+00:38:22,051 --> 00:38:23,720
+Here you go.
+
+502
+00:38:26,139 --> 00:38:27,807
+Clear!
+
+503
+00:38:31,227 --> 00:38:36,816
+They just ran out of oxygen. They've got
+30 minutes left in the emergency system.
+
+504
+00:38:36,900 --> 00:38:42,113
+They'll suffocate up there. I've got to bring
+them down. It's the only chance I've got.
+
+505
+00:38:42,780 --> 00:38:44,991
+Again.
+
+506
+00:38:49,162 --> 00:38:52,165
+Hold on. We've got vitals. We got a pulse.
+
+507
+00:38:52,248 --> 00:38:54,876
+We've got to get him to a hospital.
+
+508
+00:38:56,002 --> 00:38:59,297
+OTC, this is Houston, Mission Control.
+Do you copy?
+
+509
+00:38:59,380 --> 00:39:01,466
+<i>Roger, Houston.</i>
+
+510
+00:39:01,549 --> 00:39:03,885
+<i>We've got some spooky stuff up here.</i>
+
+511
+00:39:03,968 --> 00:39:06,012
+OTC, we're gonna bring you down.
+
+512
+00:39:06,095 --> 00:39:09,015
+We want you to instigate de-orbit burn...
+
+513
+00:39:09,098 --> 00:39:11,768
+...and begin deceleration.
+
+514
+00:39:11,851 --> 00:39:14,896
+<i>Roger, Houston.</i>
+<i>We kinda hoped you'd say that.</i>
+
+515
+00:39:14,979 --> 00:39:18,483
+<i>Activating OMS rockets.</i>
+<i>All systems go for re-entry.</i>
+
+516
+00:39:18,566 --> 00:39:20,902
+They're bringing the shuttle down.
+
+517
+00:39:20,985 --> 00:39:25,907
+You said the shuttle would burn up
+on re-entry. Can we do anything to save it?
+
+518
+00:39:25,990 --> 00:39:29,035
+Change the trajectory.
+
+519
+00:39:29,244 --> 00:39:35,291
+- Change the trajectory to what?
+- Change re-entry trajectory to 35 degrees.
+
+520
+00:39:40,588 --> 00:39:43,550
+T minus 35 seconds
+to ionosphere re-entry.
+
+521
+00:39:43,633 --> 00:39:46,261
+- Change the re-entry trajectory!
+<i>- </i> What?
+
+522
+00:39:46,344 --> 00:39:50,390
+- Change it to 35 degrees!
+- 30 seconds to re-entry.
+
+523
+00:39:50,473 --> 00:39:52,267
+- Colonel Belt...
+- I can't!
+
+524
+00:39:52,350 --> 00:39:54,519
+- 25 seconds.
+- It's your only shot!
+
+525
+00:39:54,602 --> 00:39:57,689
+We'd have to change site
+and tell them before the blackout.
+
+526
+00:39:57,772 --> 00:39:59,357
+15 seconds to blackout.
+
+527
+00:40:00,483 --> 00:40:05,822
+I want to know the weather in Albuquerque!
+Are we go for an emergency landing?
+
+528
+00:40:05,905 --> 00:40:08,032
+Landing conditions go in Albuquerque.
+
+529
+00:40:08,116 --> 00:40:10,201
+T minus 5 seconds to blackout.
+
+530
+00:40:10,285 --> 00:40:14,122
+OTC, change your re-entry trajectory
+to 35 degrees.
+
+531
+00:40:14,205 --> 00:40:17,000
+You'll land at Kirtland Field
+in Albuquerque. Do you copy?
+
+532
+00:40:17,083 --> 00:40:20,545
+- Blackout in effect.
+- Did they get that transmission?
+
+533
+00:40:20,628 --> 00:40:23,256
+- Two minutes to re-establish.
+- Damn it!
+
+534
+00:40:29,804 --> 00:40:32,932
+- How much oxygen do they have?
+- 16 minutes.
+
+535
+00:40:35,602 --> 00:40:38,438
+OTC, this is Houston. Come in, OTC.
+
+536
+00:40:39,814 --> 00:40:41,899
+OTC, this is Houston.
+
+537
+00:40:41,983 --> 00:40:44,068
+Come in, OTC!
+
+538
+00:40:45,028 --> 00:40:46,904
+Anything?
+
+539
+00:40:48,156 --> 00:40:51,909
+- What's the point of their new re-entry?
+- 500 miles west of Hawaii.
+
+540
+00:40:51,993 --> 00:40:53,745
+See if Hawaii can...
+
+541
+00:40:53,828 --> 00:40:56,372
+- Hawaii's got them on radar.
+- They made it.
+
+542
+00:40:56,456 --> 00:40:57,999
+Not necessarily.
+
+543
+00:41:00,585 --> 00:41:04,047
+<i>Albuquerque, do you have</i>
+<i>radar confirmation?</i>
+
+544
+00:41:04,422 --> 00:41:07,050
+<i>Negative, Houston. Nothing on the screen.</i>
+
+545
+00:41:15,183 --> 00:41:18,519
+OTC, this is Houston. Come in, OTC.
+
+546
+00:41:19,729 --> 00:41:22,857
+OTC, this is Houston! Come in, OTC!
+
+547
+00:41:23,941 --> 00:41:26,027
+<i>Houston, this is OTC.</i>
+
+548
+00:41:26,110 --> 00:41:28,946
+<i>You know a good place to eat</i>
+<i>in Albuquerque?</i>
+
+549
+00:41:29,030 --> 00:41:33,117
+<i>- Thought we'd meet for dinner.</i>
+
+550
+00:41:36,204 --> 00:41:38,373
+Whoo! OTC, welcome home.
+
+551
+00:41:38,456 --> 00:41:41,417
+Welcome home, OTC.
+You're lookin' real good.
+
+552
+00:41:42,377 --> 00:41:43,628
+Yes!
+
+553
+00:41:55,556 --> 00:42:00,895
+<i>The space shuttle touched down today</i>
+<i>at 10. 56 Central Standard Time.</i>
+
+554
+00:42:00,978 --> 00:42:04,774
+<i>The orbiter delivered its payload</i>
+<i>afterjust 13 orbits...</i>
+
+555
+00:42:04,857 --> 00:42:06,943
+<i>..and returned to Earth...</i>
+
+556
+00:42:08,194 --> 00:42:10,279
+<i>.. without incident.</i>
+
+557
+00:42:10,363 --> 00:42:14,117
+<i>We at NASA are looking forward</i>
+<i>to our next shuttle mission...</i>
+
+558
+00:42:14,200 --> 00:42:18,454
+<i>..and to future successful explorations</i>
+<i>of space, for mankind...</i>
+
+559
+00:42:19,539 --> 00:42:21,958
+<i>..and for the future of mankind.</i>
+
+560
+00:42:54,282 --> 00:42:55,950
+No more!
+
+561
+00:42:56,409 --> 00:42:58,077
+Argh!
+
+562
+00:43:23,561 --> 00:43:25,646
+I just heard.
+
+563
+00:43:28,858 --> 00:43:30,943
+Something had possessed him.
+
+564
+00:43:31,027 --> 00:43:34,697
+Something he must have seen
+out there in space.
+
+565
+00:43:34,781 --> 00:43:39,660
+The doctors who examined him said
+he was experiencing severe dementia.
+
+566
+00:43:40,703 --> 00:43:43,456
+I don't think he ever really knew...
+
+567
+00:43:43,539 --> 00:43:46,709
+...exactly how it was working through him.
+
+568
+00:43:46,793 --> 00:43:49,045
+Or, if he ever knew...
+
+569
+00:43:49,796 --> 00:43:54,884
+...that he was...
+responsible for his own actions.
+
+570
+00:43:55,009 --> 00:43:58,137
+He ordered those x-rays
+of the damaged parts.
+
+571
+00:43:58,221 --> 00:44:00,807
+You saw what I saw, Scully.
+
+572
+00:44:00,890 --> 00:44:02,975
+I think he was trying to warn her.
+
+573
+00:44:03,059 --> 00:44:08,147
+I think he sent Michelle those x-rays like...
+he was trying to reach out to her...
+
+574
+00:44:08,231 --> 00:44:10,650
+...without quite knowing why.
+
+575
+00:44:10,733 --> 00:44:15,363
+As if his own instinctual impulse
+was to... save those men.
+
+576
+00:44:15,446 --> 00:44:18,241
+While simultaneously trying to kill them?
+
+577
+00:44:19,075 --> 00:44:23,871
+Scully, we send those men up into space
+to unlock the doors of the universe.
+
+578
+00:44:23,955 --> 00:44:26,165
+And we don't even know
+what's behind them.
+
+579
+00:44:26,249 --> 00:44:28,334
+I think whatever it was...
+
+580
+00:44:28,459 --> 00:44:30,628
+...he took it with him.
+
+581
+00:44:30,711 --> 00:44:33,714
+In the end, that was
+the only way he knew how to stop it.
+
+582
+00:44:34,090 --> 00:44:36,509
+There's an investigation, you know.
+
+583
+00:44:37,635 --> 00:44:39,804
+They haven't ruled out foul play.
+
+584
+00:44:39,929 --> 00:44:42,431
+He gave his own life.
+
+585
+00:44:45,351 --> 00:44:49,689
+As an astronaut, that was something
+he was prepared to do.
+
+586
+00:44:49,772 --> 00:44:52,942
+Colonel Marcus Aurelius Belt
+devoted his life...
+
+587
+00:44:53,025 --> 00:44:56,153
+...to the exploration
+and understanding of space.
+
+588
+00:44:56,320 --> 00:44:59,073
+Learning its mysteries and experiencing it...
+
+589
+00:44:59,156 --> 00:45:01,909
+...not just for himself, but for humanity.
+
+590
+00:45:02,660 --> 00:45:06,956
+Lord, take this man's soul
+and let it rise up to your heavens...
+
+591
+00:45:07,039 --> 00:45:09,667
+...higher than he could ever go as a man.
+
+592
+00:45:09,792 --> 00:45:14,171
+Let him know the true nature
+of the universe that he sought to learn.
+
+593
+00:45:58,674 --> 00:46:02,386
+Visiontext subtitles by Doreen Trenerry
+
+594
+00:46:28,746 --> 00:46:30,456
+<i>I made this!</i>
+

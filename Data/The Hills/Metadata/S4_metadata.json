@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "We'll Never Be Friends",
+        "released": "2008-08-18",
+        "rating": "7.1",
+        "imdb_id": "tt1277843",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Hills\\Subtitles\\S4\\The.Hills.S04E01.Well.Never.Be.Friends.WEBRip.NF.en[cc].zip"
+    },
+    "2": {
+        "title": "Drama Follows Them",
+        "released": "2008-08-25",
+        "rating": "6.3",
+        "imdb_id": "tt1277845",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Hills\\Subtitles\\S4\\The.Hills.S04E02.Drama.Follows.Them.WEBRip.NF.en[cc].zip"
+    },
+    "5": {
+        "title": "Something Has to Change",
+        "released": "2008-09-08",
+        "rating": "7.0",
+        "imdb_id": "tt1277848",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Hills\\Subtitles\\S4\\The.Hills.S04E05.Something.Has.to.Change.WEBRip.NF.en[cc].zip"
+    },
+    "7": {
+        "title": "While Lauren's Away...",
+        "released": "2008-09-22",
+        "rating": "N/A",
+        "imdb_id": "tt1277850",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Hills\\Subtitles\\S4\\The.Hills.S04E07.While.Laurens.Away....WEBRip.NF.en[cc].zip"
+    },
+    "9": {
+        "title": "If She Never Met Spencer...",
+        "released": "2008-10-06",
+        "rating": "N/A",
+        "imdb_id": "tt1277852",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Hills\\Subtitles\\S4\\The.Hills.S04E09.If.She.Never.Met.Spencer.WEBRip.NF.en[cc].zip"
+    },
+    "12": {
+        "title": "I Want You to Be with Me",
+        "released": "2008-10-27",
+        "rating": "N/A",
+        "imdb_id": "tt1315489",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Hills\\Subtitles\\S4\\The.Hills.S04E12.I.Want.You.to.Be.With.Me.WEBRip.NF.en[cc].zip"
+    },
+    "14": {
+        "title": "Back to New York",
+        "released": "2008-11-10",
+        "rating": "4.8",
+        "imdb_id": "tt1322040",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "One Last Chance",
+        "released": "2008-11-17",
+        "rating": "N/A",
+        "imdb_id": "tt1327377",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "You Did This",
+        "released": "2008-11-24",
+        "rating": "5.2",
+        "imdb_id": "tt1329764",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "It's About Trust",
+        "released": "2008-12-01",
+        "rating": "5.2",
+        "imdb_id": "tt1332821",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Dream Boy, Dream Job",
+        "released": "2008-12-08",
+        "rating": "N/A",
+        "imdb_id": "tt1335165",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Mr. and Mrs. Pratt",
+        "released": "2008-12-15",
+        "rating": "N/A",
+        "imdb_id": "tt1340489",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "I Heidi Take Thee Spencer...",
+        "released": "2008-12-22",
+        "rating": "N/A",
+        "imdb_id": "tt1350102",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

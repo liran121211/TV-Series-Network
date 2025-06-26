@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Déjà Vu (1858-1961)",
+        "released": "2017-09-17",
+        "rating": "8.6",
+        "imdb_id": "tt4026132",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Vietnam War\\Subtitles\\S1\\The.Vietnam.War.S01E01.Deja.Vu.1858-1961.720p.WEB-DL.AAC2.0.H.264-BOOPS1E1.zip"
+    },
+    "2": {
+        "title": "Riding the Tiger (1961-1963)",
+        "released": "2017-09-18",
+        "rating": "8.6",
+        "imdb_id": "tt5733734",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Vietnam War\\Subtitles\\S1\\The.Vietnam.War.S01E02.Riding.the.Tiger.1961-1963.720p.WEB-DL.AAC2.0.H.264-BOOPS1E2.zip"
+    },
+    "3": {
+        "title": "The River Styx (January 1964-December 1965)",
+        "released": "2017-09-19",
+        "rating": "8.7",
+        "imdb_id": "tt5734246",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Vietnam War\\Subtitles\\S1\\The.Vietnam.War.S01E03.The.River.Styx.January.1964-December.1965.720p.WEB-DL.AAC2.0.H.264-BOOPS1E3.zip"
+    },
+    "4": {
+        "title": "Resolve (January 1966-June 1967)",
+        "released": "2017-09-20",
+        "rating": "8.6",
+        "imdb_id": "tt5734256",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "This Is What We Do (July-December 1967)",
+        "released": "2017-09-21",
+        "rating": "8.6",
+        "imdb_id": "tt5734268",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Things Fall Apart (January-June 1968)",
+        "released": "2017-09-24",
+        "rating": "8.8",
+        "imdb_id": "tt5734282",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Veneer of Civilization (June 1968-May 1969)",
+        "released": "2017-09-25",
+        "rating": "8.5",
+        "imdb_id": "tt5734290",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The History of the World (April 1969-May 1970)",
+        "released": "2017-09-26",
+        "rating": "8.7",
+        "imdb_id": "tt5734298",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "A Disrespectful Loyalty (May 1970-March 1973)",
+        "released": "2017-09-27",
+        "rating": "8.7",
+        "imdb_id": "tt5734312",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Weight of Memory (March 1973 - Onward)",
+        "released": "2017-09-28",
+        "rating": "8.8",
+        "imdb_id": "tt5734330",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

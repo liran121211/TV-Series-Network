@@ -1,0 +1,210 @@
+{
+    "1": {
+        "title": "Bonnie & Neddy",
+        "released": "2015-11-02",
+        "rating": "N/A",
+        "imdb_id": "tt4388470",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S7\\Adventure.Time.S07E01.Bonnie.and.Neddy.720p.WEB-DL.AAC2.0.H.264-NTbS7E1.zip"
+    },
+    "2": {
+        "title": "Varmints",
+        "released": "2015-11-03",
+        "rating": "8.7",
+        "imdb_id": "tt4849092",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S7\\Adventure.Time.S07E02.Varmints.720p.WEB-DL.AAC2.0.H.264-NTbS7E2.zip"
+    },
+    "3": {
+        "title": "Cherry Cream Soda",
+        "released": "2015-11-04",
+        "rating": "N/A",
+        "imdb_id": "tt5179110",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S7\\Adventure.Time.S07E03.Cherry.Cream.Soda.720p.WEB-DL.AAC2.0.H.264-NTbS7E3.zip"
+    },
+    "4": {
+        "title": "Mama Said",
+        "released": "2015-11-05",
+        "rating": "7.3",
+        "imdb_id": "tt5172666",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S7\\Adventure.Time.S07E04.Mama.Said.720p.WEB-DL.AAC2.0.H.264-NTbS7E4.zip"
+    },
+    "5": {
+        "title": "Football",
+        "released": "2015-11-06",
+        "rating": "N/A",
+        "imdb_id": "tt5172664",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S7\\Adventure.Time.S07E05.Football.PREAiR.360p.WEBRip.x264-SRSS7E5.zip"
+    },
+    "6": {
+        "title": "Stakes Part 1: Marceline the Vampire Queen",
+        "released": "2015-11-16",
+        "rating": "N/A",
+        "imdb_id": "tt5175672",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S7\\Adventure.Time.S07E06.Marceline.the.Vampire.Queen.720p.WEB-DL.AAC2.0.H.264-NTbS7E6.zip"
+    },
+    "7": {
+        "title": "Stakes Part 2: Everything Stays",
+        "released": "2015-11-16",
+        "rating": "N/A",
+        "imdb_id": "tt5179138",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S7\\Adventure.Time.S07E07.Everyng.Stays.720p.WEB-DL.AAC2.0.H.264-NTbS7E7.zip"
+    },
+    "8": {
+        "title": "Stakes Part 3: Vamps About",
+        "released": "2015-11-17",
+        "rating": "9.0",
+        "imdb_id": "tt5178356",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S7\\Adventure.Time.S07E08.Vamps.About.720p.WEB-DL.AAC2.0.H.264-NTbS7E8.zip"
+    },
+    "9": {
+        "title": "Stakes Part 4: The Empress Eyes",
+        "released": "2015-11-17",
+        "rating": "N/A",
+        "imdb_id": "tt5200472",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S7\\Adventure.Time.S07E09.The.Empress.Eyes.72p.WEB-DL.AAC2.0.H.264-NTbS7E9.zip"
+    },
+    "10": {
+        "title": "Stakes Part 5: May I Come In?",
+        "released": "2015-11-18",
+        "rating": "N/A",
+        "imdb_id": "tt5180622",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Stakes Part 6: Take Her Back",
+        "released": "2015-11-18",
+        "rating": "N/A",
+        "imdb_id": "tt5202928",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Stakes Part 7: Checkmate",
+        "released": "2015-11-19",
+        "rating": "N/A",
+        "imdb_id": "tt5202930",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Stakes Part 8: The Dark Cloud",
+        "released": "2015-11-19",
+        "rating": "N/A",
+        "imdb_id": "tt5202932",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The More You Moe",
+        "released": "2015-12-03",
+        "rating": "N/A",
+        "imdb_id": "tt5252828",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Moe You Know",
+        "released": "2015-12-03",
+        "rating": "8.6",
+        "imdb_id": "tt5253278",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Summer Showers",
+        "released": "2016-01-07",
+        "rating": "7.3",
+        "imdb_id": "tt5318284",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Angel Face",
+        "released": "2016-01-11",
+        "rating": "N/A",
+        "imdb_id": "tt5328198",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "President Porpoise Is Missing!",
+        "released": "2016-01-12",
+        "rating": "6.7",
+        "imdb_id": "tt5337548",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Blank Eyed Girl",
+        "released": "2016-01-13",
+        "rating": "8.2",
+        "imdb_id": "tt5320452",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Bad Jubies",
+        "released": "2016-01-14",
+        "rating": "N/A",
+        "imdb_id": "tt5337584",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "A King's Ransom",
+        "released": "2016-01-15",
+        "rating": "N/A",
+        "imdb_id": "tt5320450",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Scamps",
+        "released": "2016-01-21",
+        "rating": "N/A",
+        "imdb_id": "tt5337586",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Crossover",
+        "released": "2016-01-28",
+        "rating": "N/A",
+        "imdb_id": "tt5337588",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "The Hall of Egress",
+        "released": "2016-03-05",
+        "rating": "9.5",
+        "imdb_id": "tt5490178",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Flute Spell",
+        "released": "2016-03-12",
+        "rating": "N/A",
+        "imdb_id": "tt5509092",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "The Thin Yellow Line",
+        "released": "2016-03-19",
+        "rating": "N/A",
+        "imdb_id": "tt5526410",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

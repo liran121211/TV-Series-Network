@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "The Butter Shave",
+        "released": "1997-09-25",
+        "rating": "8.4",
+        "imdb_id": "tt0697665",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S9\\S09E01The_Butter_Shave.enS9E1.zip"
+    },
+    "2": {
+        "title": "The Voice",
+        "released": "1997-10-02",
+        "rating": "8.3",
+        "imdb_id": "tt0697806",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Serenity Now",
+        "released": "1997-10-09",
+        "rating": "8.8",
+        "imdb_id": "tt0697773",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Blood",
+        "released": "1997-10-16",
+        "rating": "8.1",
+        "imdb_id": "tt0697658",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Junk Mail",
+        "released": "1997-10-30",
+        "rating": "8.0",
+        "imdb_id": "tt0697716",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Merv Griffin Show",
+        "released": "1997-11-06",
+        "rating": "9.0",
+        "imdb_id": "tt0697731",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Slicer",
+        "released": "1997-11-13",
+        "rating": "8.4",
+        "imdb_id": "tt0697777",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Betrayal",
+        "released": "1997-11-20",
+        "rating": "8.9",
+        "imdb_id": "tt0697655",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Apology",
+        "released": "1997-12-11",
+        "rating": "8.2",
+        "imdb_id": "tt0697651",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Strike",
+        "released": "1997-12-18",
+        "rating": "8.7",
+        "imdb_id": "tt0697790",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Dealership",
+        "released": "1998-01-08",
+        "rating": "8.4",
+        "imdb_id": "tt0697683",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Reverse Peephole",
+        "released": "1998-01-15",
+        "rating": "8.2",
+        "imdb_id": "tt0697767",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Cartoon",
+        "released": "1998-01-29",
+        "rating": "7.8",
+        "imdb_id": "tt0697670",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Strongbox",
+        "released": "1998-02-05",
+        "rating": "8.0",
+        "imdb_id": "tt0697791",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Wizard",
+        "released": "1998-02-26",
+        "rating": "7.9",
+        "imdb_id": "tt0697813",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Burning",
+        "released": "1998-03-19",
+        "rating": "8.3",
+        "imdb_id": "tt0697663",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Bookstore",
+        "released": "1998-04-09",
+        "rating": "8.2",
+        "imdb_id": "tt0697659",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Frogger",
+        "released": "1998-04-23",
+        "rating": "8.7",
+        "imdb_id": "tt0697701",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Maid",
+        "released": "1998-04-30",
+        "rating": "8.0",
+        "imdb_id": "tt0697727",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Puerto Rican Day",
+        "released": "1998-05-07",
+        "rating": "7.9",
+        "imdb_id": "tt0697761",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Chronicle",
+        "released": "1998-05-14",
+        "rating": "7.6",
+        "imdb_id": "tt0893212",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Finale",
+        "released": "1998-05-14",
+        "rating": "7.8",
+        "imdb_id": "tt0697695",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

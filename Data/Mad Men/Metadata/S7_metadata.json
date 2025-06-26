@@ -1,0 +1,114 @@
+{
+    "1": {
+        "title": "Time Zones",
+        "released": "2014-04-13",
+        "rating": "7.9",
+        "imdb_id": "tt3029774",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S7\\Mad_Men_S07E01_HDTV_x264-KILLERSS7E1.zip"
+    },
+    "2": {
+        "title": "A Day's Work",
+        "released": "2014-04-20",
+        "rating": "8.3",
+        "imdb_id": "tt3669680",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S7\\Mad.Men.S07E02.HDTV.x264-EXCELLENCES7E2.zip"
+    },
+    "3": {
+        "title": "Field Trip",
+        "released": "2014-04-27",
+        "rating": "8.6",
+        "imdb_id": "tt3678086",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S7\\Mad.Men.S07E03.HDTV.XviD-FUMS7E3.zip"
+    },
+    "4": {
+        "title": "The Monolith",
+        "released": "2014-05-04",
+        "rating": "8.5",
+        "imdb_id": "tt3680402",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S7\\Mad.Men.S07E04.720p.HDTV.x264-KILLERSS7E4.zip"
+    },
+    "5": {
+        "title": "The Runaways",
+        "released": "2014-05-11",
+        "rating": "8.5",
+        "imdb_id": "tt3709284",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S7\\Mad.Men.S07E05.HDTV.XviD-FUMS7E5.zip"
+    },
+    "6": {
+        "title": "The Strategy",
+        "released": "2014-05-18",
+        "rating": "N/A",
+        "imdb_id": "tt3709286",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S7\\Mad.Men.S07E06.HDTV.XviD-FUMS7E6.zip"
+    },
+    "7": {
+        "title": "Waterloo",
+        "released": "2014-05-25",
+        "rating": "9.5",
+        "imdb_id": "tt3740788",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S7\\Mad.Men.S07E07.HDTV.XviD-FUMS7E7.zip"
+    },
+    "8": {
+        "title": "Severance",
+        "released": "2015-04-05",
+        "rating": "8.1",
+        "imdb_id": "tt3239886",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S7\\Mad.Men.S07E08.HDTV.XviD-FUMS7E8.zip"
+    },
+    "9": {
+        "title": "New Business",
+        "released": "2015-04-12",
+        "rating": "7.8",
+        "imdb_id": "tt3868862",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S7\\Mad.Men.S07E09.HDTV.XviD-FUMS7E9.zip"
+    },
+    "10": {
+        "title": "The Forecast",
+        "released": "2015-04-19",
+        "rating": "8.3",
+        "imdb_id": "tt3908430",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Time & Life",
+        "released": "2015-04-26",
+        "rating": "8.9",
+        "imdb_id": "tt3707054",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Lost Horizon",
+        "released": "2015-05-03",
+        "rating": "9.0",
+        "imdb_id": "tt3908436",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Milk and Honey Route",
+        "released": "2015-05-10",
+        "rating": "9.1",
+        "imdb_id": "tt3783560",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Person to Person",
+        "released": "2015-05-17",
+        "rating": "9.3",
+        "imdb_id": "tt3756834",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

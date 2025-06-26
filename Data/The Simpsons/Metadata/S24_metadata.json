@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Moonshine River",
+        "released": "2012-09-30",
+        "rating": "6.3",
+        "imdb_id": "tt2289606",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S24\\The.Simpsons.S24E01.HDTV.x264-LOLS24E1.zip"
+    },
+    "2": {
+        "title": "Treehouse of Horror XXIII",
+        "released": "2012-10-07",
+        "rating": "7.2",
+        "imdb_id": "tt2396464",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S24\\The.Simpsons.S24E02.HDTV.x264-LOL.HIS24E2.zip"
+    },
+    "3": {
+        "title": "Adventures in Baby-Getting",
+        "released": "2012-11-04",
+        "rating": "6.8",
+        "imdb_id": "tt2396344",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S24\\The.Simpsons.S24E03.HDTV.x264-LOLS24E3.zip"
+    },
+    "4": {
+        "title": "Gone Abie Gone",
+        "released": "2012-11-11",
+        "rating": "N/A",
+        "imdb_id": "tt2507828",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S24\\The.Simpsons.S24E04.HDTV.x264-LOL.HIS24E4.zip"
+    },
+    "5": {
+        "title": "Penny-Wiseguys",
+        "released": "2012-11-18",
+        "rating": "6.3",
+        "imdb_id": "tt2518612",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S24\\The.Simpsons.S24E05.HDTV.x264-LOL.HIS24E5.zip"
+    },
+    "6": {
+        "title": "A Tree Grows in Springfield",
+        "released": "2012-11-25",
+        "rating": "6.3",
+        "imdb_id": "tt2518614",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S24\\The.Simpsons.S24E06.HDTV.x264-LOL.HIS24E6.zip"
+    },
+    "7": {
+        "title": "The Day the Earth Stood Cool",
+        "released": "2012-12-09",
+        "rating": "6.9",
+        "imdb_id": "tt2533216",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S24\\The.Simpsons.S24E07.HDTV.x264-LOL.HIS24E7.zip"
+    },
+    "8": {
+        "title": "To Cur with Love",
+        "released": "2012-12-16",
+        "rating": "7.2",
+        "imdb_id": "tt2533218",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S24\\The.Simpsons.S24E08.HDTV.x264-LOL.HIS24E8.zip"
+    },
+    "9": {
+        "title": "Homer Goes to Prep School",
+        "released": "2013-01-06",
+        "rating": "6.7",
+        "imdb_id": "tt2580138",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S24\\The.Simpsons.S24E09.HDTV.x264-LOL.HIS24E9.zip"
+    },
+    "10": {
+        "title": "A Test Before Trying",
+        "released": "2013-01-13",
+        "rating": "6.9",
+        "imdb_id": "tt2581142",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Changing of the Guardian",
+        "released": "2013-01-27",
+        "rating": "6.5",
+        "imdb_id": "tt2649908",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Love Is a Many Splintered Thing",
+        "released": "2013-02-10",
+        "rating": "6.2",
+        "imdb_id": "tt2649910",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Hardly Kirk-ing",
+        "released": "2013-02-17",
+        "rating": "7.0",
+        "imdb_id": "tt2710778",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Gorgeous Grampa",
+        "released": "2013-03-03",
+        "rating": "6.2",
+        "imdb_id": "tt2710780",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Black-Eyed, Please",
+        "released": "2013-03-10",
+        "rating": "6.9",
+        "imdb_id": "tt2710782",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Dark Knight Court",
+        "released": "2013-03-17",
+        "rating": "7.1",
+        "imdb_id": "tt2739622",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "What Animated Women Want",
+        "released": "2013-04-14",
+        "rating": "6.4",
+        "imdb_id": "tt2778778",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Pulpit Friction",
+        "released": "2013-04-28",
+        "rating": "6.4",
+        "imdb_id": "tt2850616",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Whiskey Business",
+        "released": "2013-05-05",
+        "rating": "6.7",
+        "imdb_id": "tt2850620",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Fabulous Faker Boy",
+        "released": "2013-05-12",
+        "rating": "6.2",
+        "imdb_id": "tt2850618",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Saga of Carl",
+        "released": "2013-05-19",
+        "rating": "7.1",
+        "imdb_id": "tt2857338",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Dangers on a Train",
+        "released": "2013-05-19",
+        "rating": "7.0",
+        "imdb_id": "tt2739624",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

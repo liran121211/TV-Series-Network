@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "I'm Watching You",
+        "released": "2007-10-14",
+        "rating": "4.6",
+        "imdb_id": "tt1122730",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Keeping Up with the Kardashians\\Subtitles\\S12\\Keeping.Up.With.the.Kardashians.S12E01.WEBRip.NF.en.zip"
+    },
+    "3": {
+        "title": "Brody in the House",
+        "released": "2007-10-28",
+        "rating": "N/A",
+        "imdb_id": "tt1122732",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Keeping Up with the Kardashians\\Subtitles\\S12\\Keeping.Up.With.the.Kardashians.S12E03.WEBRip.NF.en.zip"
+    },
+    "4": {
+        "title": "Birthday Suit",
+        "released": "2007-11-04",
+        "rating": "N/A",
+        "imdb_id": "tt1122733",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Keeping Up with the Kardashians\\Subtitles\\S12\\Keeping.Up.With.the.Kardashians.S12E04.WEBRip.NF.en.zip"
+    },
+    "5": {
+        "title": "Remembering Dad",
+        "released": "2007-11-11",
+        "rating": "N/A",
+        "imdb_id": "tt1122734",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Keeping Up with the Kardashians\\Subtitles\\S12\\Keeping.Up.With.the.Kardashians.S12E05.WEBRip.NF.en.zip"
+    },
+    "6": {
+        "title": "You Are So Pregnant, Dude!",
+        "released": "2007-11-18",
+        "rating": "N/A",
+        "imdb_id": "tt1122735",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Keeping Up with the Kardashians\\Subtitles\\S12\\Keeping.Up.With.the.Kardashians.S12E06.WEBRip.NF.en.zip"
+    },
+    "7": {
+        "title": "Helping Hand",
+        "released": "2007-11-15",
+        "rating": "N/A",
+        "imdb_id": "tt1122736",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Keeping Up with the Kardashians\\Subtitles\\S12\\Keeping.Up.With.the.Kardashians.S12E07.WEBRip.NF.en.zip"
+    },
+    "8": {
+        "title": "The Price of Fame",
+        "released": "2007-12-02",
+        "rating": "N/A",
+        "imdb_id": "tt1122737",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

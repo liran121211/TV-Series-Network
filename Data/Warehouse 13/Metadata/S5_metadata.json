@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Endless Terror",
+        "released": "2014-04-14",
+        "rating": "7.7",
+        "imdb_id": "tt3537172",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Secret Service",
+        "released": "2014-04-21",
+        "rating": "7.5",
+        "imdb_id": "tt2990220",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "A Faire to Remember",
+        "released": "2014-04-28",
+        "rating": "7.4",
+        "imdb_id": "tt3132706",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Savage Seduction",
+        "released": "2014-05-05",
+        "rating": "8.0",
+        "imdb_id": "tt3116590",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Cangku Shisi",
+        "released": "2014-05-12",
+        "rating": "N/A",
+        "imdb_id": "tt3305482",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Endless",
+        "released": "2014-05-19",
+        "rating": "8.9",
+        "imdb_id": "tt3468334",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

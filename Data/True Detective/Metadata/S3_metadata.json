@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "The Great War and Modern Memory",
+        "released": "2019-01-13",
+        "rating": "8.5",
+        "imdb_id": "tt6710716",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S3\\True_Detective_S03E01_The_Great_War_and_Modern_Memory_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S3E1.zip"
+    },
+    "2": {
+        "title": "Kiss Tomorrow Goodbye",
+        "released": "2019-01-13",
+        "rating": "8.0",
+        "imdb_id": "tt7320860",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S3\\True_Detective_S03E02_Kiss_Tomorrow_Goodbye_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S3E2.zip"
+    },
+    "3": {
+        "title": "The Big Never",
+        "released": "2019-01-20",
+        "rating": "7.8",
+        "imdb_id": "tt7320868",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S3\\True_Detective_S03E03_The_Big_Never_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S3E3.zip"
+    },
+    "4": {
+        "title": "The Hour and the Day",
+        "released": "2019-01-27",
+        "rating": "8.0",
+        "imdb_id": "tt7320854",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S3\\True_Detective_S03E04_The_Hour_and_the_Day_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S3E4.zip"
+    },
+    "5": {
+        "title": "If You Have Ghosts",
+        "released": "2019-02-01",
+        "rating": "N/A",
+        "imdb_id": "tt7320886",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S3\\True_Detective_S03E05_If_You_Have_Ghosts_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S3E5.zip"
+    },
+    "6": {
+        "title": "Hunters in the Dark",
+        "released": "2019-02-10",
+        "rating": "8.3",
+        "imdb_id": "tt7320878",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S3\\True_Detective_S03E06_Hunters_in_the_Dark_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S3E6.zip"
+    },
+    "7": {
+        "title": "The Final Country",
+        "released": "2019-02-17",
+        "rating": "8.5",
+        "imdb_id": "tt8215522",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S3\\True_Detective_S03E07_The_Final_Country_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S3E7.zip"
+    },
+    "8": {
+        "title": "Now Am Found",
+        "released": "2019-02-24",
+        "rating": "8.0",
+        "imdb_id": "tt8215524",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

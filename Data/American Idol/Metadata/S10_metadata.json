@@ -1,0 +1,274 @@
+{
+    "1": {
+        "title": "Auditions No. 1: New York/New Jersey",
+        "released": "2011-01-19",
+        "rating": "N/A",
+        "imdb_id": "tt1792170",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Auditions No. 2: New Orleans",
+        "released": "2011-01-20",
+        "rating": "N/A",
+        "imdb_id": "tt1803233",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Auditions No. 3",
+        "released": "2011-01-26",
+        "rating": "N/A",
+        "imdb_id": "tt1819799",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S10\\American.Idol.S10E03.HDTV.XviD-FQMS10E3.zip"
+    },
+    "4": {
+        "title": "Auditions No. 4",
+        "released": "2011-01-27",
+        "rating": "N/A",
+        "imdb_id": "tt1819800",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S10\\American.Idol.S10E04.HDTV.XviD-FQMS10E4.zip"
+    },
+    "5": {
+        "title": "Auditions No. 5",
+        "released": "2011-02-02",
+        "rating": "N/A",
+        "imdb_id": "tt1826100",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S10\\American.Idol.S10E05.HDTV.XviD-FQMS10E5.zip"
+    },
+    "6": {
+        "title": "Auditions No. 6",
+        "released": "2011-02-03",
+        "rating": "N/A",
+        "imdb_id": "tt1826101",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Auditions No. 7",
+        "released": "2011-02-09",
+        "rating": "N/A",
+        "imdb_id": "tt1830927",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Hollywood Round: Part 1",
+        "released": "2011-02-10",
+        "rating": "N/A",
+        "imdb_id": "tt1830928",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Hollywood Round, Part 1",
+        "released": "2011-02-16",
+        "rating": "N/A",
+        "imdb_id": "tt1830938",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S10\\American.Idol.S10E09.HDTV.XviD-FQMS10E9.zip"
+    },
+    "10": {
+        "title": "Hollywood Round, Part 2",
+        "released": "2011-02-17",
+        "rating": "N/A",
+        "imdb_id": "tt1830939",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Las Vegas Round",
+        "released": "2011-02-23",
+        "rating": "N/A",
+        "imdb_id": "tt1830940",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Top 24 Semifinalists Announced",
+        "released": "2011-02-24",
+        "rating": "N/A",
+        "imdb_id": "tt1830943",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Semifinalists Perform, Part 2",
+        "released": "2011-03-02",
+        "rating": "N/A",
+        "imdb_id": "tt1830942",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "First Results Show and Finalists Announced",
+        "released": "2011-03-03",
+        "rating": "N/A",
+        "imdb_id": "tt1830937",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Finalists Compete",
+        "released": "2011-03-09",
+        "rating": "N/A",
+        "imdb_id": "tt1830929",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "One Voted Off",
+        "released": "2011-03-10",
+        "rating": "N/A",
+        "imdb_id": "tt1830930",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Finalists Compete",
+        "released": "2011-03-16",
+        "rating": "N/A",
+        "imdb_id": "tt1830931",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "One Voted Off",
+        "released": "2011-03-17",
+        "rating": "N/A",
+        "imdb_id": "tt1830932",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "11 Finalists Compete",
+        "released": "2011-03-23",
+        "rating": "N/A",
+        "imdb_id": "tt1830933",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "11 Finalists Compete Again",
+        "released": "2011-03-30",
+        "rating": "N/A",
+        "imdb_id": "tt1830935",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "2 of 11 Voted Off",
+        "released": "2011-03-31",
+        "rating": "N/A",
+        "imdb_id": "tt1830936",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "9 Finalists Compete",
+        "released": "2011-04-06",
+        "rating": "N/A",
+        "imdb_id": "tt1865604",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "1 of 9 Voted Off",
+        "released": "2011-04-07",
+        "rating": "N/A",
+        "imdb_id": "tt1865600",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "8 Finalists Compete",
+        "released": "2011-04-13",
+        "rating": "N/A",
+        "imdb_id": "tt1865603",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "1 of 8 Voted Off",
+        "released": "2011-04-14",
+        "rating": "N/A",
+        "imdb_id": "tt1865599",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "7 Finalists Compete",
+        "released": "2011-04-20",
+        "rating": "N/A",
+        "imdb_id": "tt1865602",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "1 of 7 Voted Off",
+        "released": "2011-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt1865598",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "1 of 6 Voted Off",
+        "released": "2011-04-28",
+        "rating": "N/A",
+        "imdb_id": "tt1865597",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "One of Five Voted Off",
+        "released": "2011-05-05",
+        "rating": "N/A",
+        "imdb_id": "tt1908636",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "One of Four Voted Off",
+        "released": "2011-05-12",
+        "rating": "N/A",
+        "imdb_id": "tt1928381",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Three Finalists Compete",
+        "released": "2011-05-18",
+        "rating": "N/A",
+        "imdb_id": "tt1924591",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "One of Three Voted Off",
+        "released": "2011-05-19",
+        "rating": "N/A",
+        "imdb_id": "tt1925575",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Two Finalists Compete",
+        "released": "2011-05-24",
+        "rating": "N/A",
+        "imdb_id": "tt1930612",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Finale",
+        "released": "2011-05-25",
+        "rating": "N/A",
+        "imdb_id": "tt1933691",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

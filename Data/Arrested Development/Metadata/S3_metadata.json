@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "The Cabin Show",
+        "released": "2005-09-19",
+        "rating": "8.6",
+        "imdb_id": "tt0515250",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arrested Development\\Subtitles\\S3\\Arrested_Development.S3E01-E13.HDTVS3E1.zip"
+    },
+    "2": {
+        "title": "For British Eyes Only",
+        "released": "2005-09-26",
+        "rating": "8.2",
+        "imdb_id": "tt0515249",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Forget Me Now",
+        "released": "2005-10-03",
+        "rating": "N/A",
+        "imdb_id": "tt0515218",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Notapusy",
+        "released": "2005-11-07",
+        "rating": "N/A",
+        "imdb_id": "tt0515233",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Mr. F",
+        "released": "2005-11-07",
+        "rating": "8.7",
+        "imdb_id": "tt0515230",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Ocean Walker",
+        "released": "2005-12-05",
+        "rating": "8.5",
+        "imdb_id": "tt0515252",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Prison Break-In",
+        "released": "2005-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt0515237",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Making a Stand",
+        "released": "2005-12-19",
+        "rating": "8.7",
+        "imdb_id": "tt0515225",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "S.O.B.s",
+        "released": "2006-01-02",
+        "rating": "8.7",
+        "imdb_id": "tt0515242",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Fakin' It",
+        "released": "2006-02-10",
+        "rating": "N/A",
+        "imdb_id": "tt0515216",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Family Ties",
+        "released": "2006-02-10",
+        "rating": "N/A",
+        "imdb_id": "tt0515217",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Exit Strategy",
+        "released": "2006-02-10",
+        "rating": "8.8",
+        "imdb_id": "tt0515215",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Development Arrested",
+        "released": "2006-02-10",
+        "rating": "9.1",
+        "imdb_id": "tt0757386",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

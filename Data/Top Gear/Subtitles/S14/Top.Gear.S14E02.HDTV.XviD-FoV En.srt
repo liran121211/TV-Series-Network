@@ -1,0 +1,4223 @@
+1
+00:00:34,833 --> 00:00:36,389
+Now...
+
+2
+00:00:36,429 --> 00:00:41,169
+if you buy a G-Wiz,
+
+3
+00:00:41,209 --> 00:00:45,373
+plainly you are not interested
+in style or comfort or speed
+
+4
+00:00:45,413 --> 00:00:50,389
+or practicality or driving pleasure
+- or safety or your dignity.
+
+5
+00:00:50,429 --> 00:00:52,889
+LAUGHTER
+
+6
+00:00:52,929 --> 00:00:57,921
+And that got us thinking. If all
+you want is a battery-powered box,
+
+7
+00:00:57,961 --> 00:01:01,169
+why spend Â£8,500 on one of these?
+
+8
+00:01:01,209 --> 00:01:08,281
+Why not simply build one yourself?
+I mean, how hard can it be?
+
+9
+00:01:08,321 --> 00:01:14,965
+Keen to get cracking, we went to the Top
+Gear Technology Centre and set to work.
+
+10
+00:01:15,005 --> 00:01:17,109
+It's all very simple, really.
+
+11
+00:01:17,149 --> 00:01:19,717
+I am in charge of the batteries
+and the electric motor.
+
+12
+00:01:19,757 --> 00:01:23,641
+Clarkson is in charge - God help
+us - of the bodywork and interior,
+
+13
+00:01:23,681 --> 00:01:28,061
+and Richard Hammond is in charge
+of the chassis and the brakes.
+
+14
+00:01:28,101 --> 00:01:32,341
+If you are going to build your owncar, there's no
+point just throwing the chassis together yourself
+
+15
+00:01:32,381 --> 00:01:36,609
+cos you'll get caught up in 20 years
+- of red tape trying to get it registered to use on the road,
+
+16
+00:01:36,649 --> 00:01:40,593
+so what you need to do is use
+the chassis from another car.
+
+17
+00:01:40,633 --> 00:01:44,213
+But there is a problem, because most
+modern cars don't have a chassis as such.
+
+18
+00:01:44,253 --> 00:01:48,733
+It's all kind of built into the body,
+so you need to choose from an older car.
+
+19
+00:01:48,773 --> 00:01:52,517
+Specifically, you've got a choice of
+either a Land Rover, a Lincoln Town Car,
+
+20
+00:01:52,557 --> 00:01:57,217
+or this, a TVR Chimaera.
+
+21
+00:01:57,257 --> 00:02:01,797
+I bought this one for Â£5,000, and I
+was going to remove its body and engine
+
+22
+00:02:01,837 --> 00:02:07,873
+and then use its chassis as
+the backbone of our new car.
+
+23
+00:02:07,913 --> 00:02:14,685
+James, meanwhile, was preparing to
+cannibalise something a bit less sporty.
+
+24
+00:02:14,725 --> 00:02:20,157
+I shall be using the electric motor
+- from this, which just leaves me with the problem of the batteries.
+
+25
+00:02:20,197 --> 00:02:23,157
+Now, the Tesla - that
+American electric sports car -
+
+26
+00:02:23,197 --> 00:02:27,189
+uses 6,831 batteries,
+
+27
+00:02:27,229 --> 00:02:29,749
+but that seems a bit excessive
+to me, so to save weight,
+
+28
+00:02:29,789 --> 00:02:36,893
+and money, I'm going
+to use two batteries.
+
+29
+00:02:36,933 --> 00:02:41,141
+Like all great car designers,
+I'd created a mood room,
+
+30
+00:02:41,181 --> 00:02:45,857
+hung with images from which
+I could draw inspiration.
+
+31
+00:02:45,897 --> 00:02:51,517
+Big cats, jet fighters,
+the actor Peter Bowles,
+
+32
+00:02:51,557 --> 00:03:00,237
+and pretty soon, I was
+ready to start work.
+
+33
+00:03:00,277 --> 00:03:04,701
+It's a lovely material to work
+with, aluminium, because it bends.
+
+34
+00:03:04,741 --> 00:03:08,501
+Car makers could learn a lot from
+this simple system I've adopted.
+
+35
+00:03:08,541 --> 00:03:11,765
+Ow! BLEEP! Ow!
+
+36
+00:03:11,805 --> 00:03:14,733
+And there is the precious chassis.
+
+37
+00:03:14,773 --> 00:03:23,705
+That is the basisof everything
+we're doing. A doddle!
+
+38
+00:03:23,745 --> 00:03:28,081
+In terms of construction, I've
+taken my lead from shelving.
+
+39
+00:03:28,121 --> 00:03:31,373
+You've simply got the
+uprights, which I've got here.
+
+40
+00:03:31,413 --> 00:03:34,125
+There it is.
+
+41
+00:03:34,165 --> 00:03:36,533
+The bolt goes through there.
+
+42
+00:03:36,573 --> 00:03:38,453
+Damn it!
+
+43
+00:03:38,493 --> 00:03:40,373
+How simple is this?
+
+44
+00:03:40,413 --> 00:03:44,893
+One piece, another piece,
+bolts holding them together.
+
+45
+00:03:44,933 --> 00:03:49,521
+With the milk float dismembered,
+my power system was taking shape.
+
+46
+00:03:49,561 --> 00:03:53,937
+That's 100 quid's worth of
+batteries, a 20 quid milk float motor,
+
+47
+00:03:53,977 --> 00:03:56,705
+and watch this. MOTOR WHIRRS
+
+48
+00:03:56,745 --> 00:03:59,173
+Hear that?
+
+49
+00:03:59,213 --> 00:04:02,425
+Is that turning round now? Don't put
+your finger on it. I'm not going to.
+
+50
+00:04:02,465 --> 00:04:05,173
+As long as you two keep the weight
+of your body and chassis down,
+
+51
+00:04:05,213 --> 00:04:08,677
+that'll go like a
+stabbed rat. Are you sure?
+
+52
+00:04:08,717 --> 00:04:13,205
+Well, it'll be a damn
+sight faster than a G-Wiz.
+
+53
+00:04:13,245 --> 00:04:20,725
+'While May wired up his batteries and
+Hammond prepared his chassis...' It's free!
+
+54
+00:04:20,765 --> 00:04:27,173
+'..I retired to the mood room to
+seek further design inspiration.'
+
+55
+00:04:27,213 --> 00:04:30,909
+OK. We're removing
+ancient history here. Guys!
+
+56
+00:04:30,949 --> 00:04:33,069
+Is he...? Yes?
+
+57
+00:04:33,109 --> 00:04:41,053
+Has anyone ever done a car
+with a moustache? No. No.
+
+58
+00:04:41,093 --> 00:04:48,005
+Having finished their jobs, Hammond and
+May left me alone to complete the bodywork.
+
+59
+00:04:48,045 --> 00:04:56,893
+Beautiful.
+
+60
+00:04:56,933 --> 00:05:00,457
+Our masterpiece was ready.
+
+61
+00:05:00,497 --> 00:05:06,021
+Well, credit where it's due... I can't see
+any of the nail heads. I mean, it's all right.
+
+62
+00:05:06,061 --> 00:05:08,709
+You're pleased? Very. Amazed.
+
+63
+00:05:08,749 --> 00:05:11,569
+I have to say, this isn't actually it.
+
+64
+00:05:11,609 --> 00:05:13,601
+Oh. Oh.
+
+65
+00:05:13,641 --> 00:05:15,193
+There you go!
+
+66
+00:05:15,233 --> 00:05:22,285
+FANFARE PLAYS
+
+67
+00:05:22,325 --> 00:05:25,365
+That is the worst-looking
+car in the whole world.
+
+68
+00:05:25,405 --> 00:05:27,525
+I'd rather look at one
+of your dingleberries.
+
+69
+00:05:27,565 --> 00:05:30,725
+What is the matter exactly?
+Everything is straight.
+
+70
+00:05:30,765 --> 00:05:33,477
+Everything is doable
+on your kitchen table.
+
+71
+00:05:33,517 --> 00:05:37,581
+Jeremy, is that a section from
+a garage door? Yes. Oh, OK.
+
+72
+00:05:37,621 --> 00:05:41,053
+What's more, I'd fitted a tape
+player, and, rather brilliantly,
+
+73
+00:05:41,093 --> 00:05:44,041
+three-abreast seating.
+
+74
+00:05:44,081 --> 00:05:46,885
+Who's going to sit here? You
+haven't given them any head room.
+
+75
+00:05:46,925 --> 00:05:49,225
+Hammond can sit in the middle. Oh, God.
+
+76
+00:05:49,265 --> 00:05:52,193
+Careful of my roof!
+You're bending my roof!
+
+77
+00:05:52,233 --> 00:05:55,381
+It's bending my spine! You
+really need to change the roof.
+
+78
+00:05:55,421 --> 00:06:00,333
+That's no good. All right, all
+right! Back to the drawing board.
+
+79
+00:06:00,373 --> 00:06:02,693
+'While Jeremy modified the roof...'
+
+80
+00:06:02,733 --> 00:06:04,789
+Out. Out! '..Hammond and I
+
+81
+00:06:04,829 --> 00:06:08,885
+'started to think about
+a name for our creation.'
+
+82
+00:06:08,925 --> 00:06:13,693
+I hate it when eco-cars are given a
+really pious name like Intelligentsia.
+
+83
+00:06:13,733 --> 00:06:18,021
+So we want to give it a more aggressive
+name? Like Mustang, Tiger, Leopard, Panther.
+
+84
+00:06:18,061 --> 00:06:21,053
+Or Vixen. Vixen!
+
+85
+00:06:21,093 --> 00:06:26,649
+'Sadly, though, Jeremy
+had beaten us to it.'
+
+86
+00:06:26,689 --> 00:06:29,229
+"Geoff".
+
+87
+00:06:29,269 --> 00:06:31,213
+MECHANICAL GRINDING
+
+88
+00:06:31,253 --> 00:06:42,741
+And after some more styling tweaks,
+- Geoff was ready for the road.
+
+89
+00:06:42,781 --> 00:06:46,069
+I feel like the Pope
+with his head in a box!
+
+90
+00:06:46,109 --> 00:06:48,333
+It works!
+
+91
+00:06:48,373 --> 00:06:50,917
+THUD! Ow.
+
+92
+00:06:50,957 --> 00:06:54,213
+LOUD DRONING What is that
+noise? It's the motor.
+
+93
+00:06:54,253 --> 00:06:56,933
+It sounds like they're
+filming an episode of Bonanza.
+
+94
+00:06:56,973 --> 00:06:58,509
+It's an amazing racket.
+
+95
+00:06:58,549 --> 00:07:01,069
+Don't knock it. It's working.
+
+96
+00:07:01,109 --> 00:07:03,121
+Open it up, James. Open it up.
+
+97
+00:07:03,161 --> 00:07:05,633
+Yeah, go on. Give it some
+beans! I have. Is that it?
+
+98
+00:07:05,673 --> 00:07:08,009
+Is that full speed? Uh, yeah.
+
+99
+00:07:08,049 --> 00:07:11,685
+How fast is that? Nearly ten.
+
+100
+00:07:11,725 --> 00:07:15,761
+You've built a car that
+will only do 10mph?!
+
+101
+00:07:15,801 --> 00:07:18,933
+It... Yeah.
+
+102
+00:07:18,973 --> 00:07:21,337
+'Actually, that wasn't such a bad thing
+
+103
+00:07:21,377 --> 00:07:26,257
+'on account of the design flaw
+with Jeremy's shiny bonnet.'
+
+104
+00:07:26,297 --> 00:07:31,369
+Ah, I'm blind! My head's being
+cooked in a box! That's quite bad.
+
+105
+00:07:31,409 --> 00:07:34,165
+I'll tell you what, though
+- it works. It does work.
+
+106
+00:07:34,205 --> 00:07:39,933
+I mean, it's going along. We're in an electric
+car. Which we made. It's fantastic. Â£6,000.
+
+107
+00:07:39,973 --> 00:07:43,729
+Can you put three
+people in a G-Wiz? No.
+
+108
+00:07:43,769 --> 00:07:48,713
+'In fact, we were so proud of Geoff,
+we took him for a drive into Oxford.'
+
+109
+00:07:48,753 --> 00:07:51,901
+Now, you do realise Oxford
+loathes the motorcar?
+
+110
+00:07:51,941 --> 00:07:55,337
+Not this one. But this
+one will be welcome.
+
+111
+00:07:55,377 --> 00:07:59,293
+They will think it's the
+second coming! A hippy!
+
+112
+00:07:59,333 --> 00:08:01,493
+See the happy hippies?
+
+113
+00:08:01,533 --> 00:08:06,413
+Did you see the cyclist smiling at us?
+
+114
+00:08:06,453 --> 00:08:12,653
+'However, as we neared the city centre, James'
+power system started to develop some issues.'
+
+115
+00:08:12,693 --> 00:08:15,277
+I'm not going to indicate.
+It seems to slow it down.
+
+116
+00:08:15,317 --> 00:08:18,229
+You're not telling me that the
+indicators affect the charge?!
+
+117
+00:08:18,269 --> 00:08:22,493
+There's something not quite right with the
+way it's wired. I felt a drop in power as I...
+
+118
+00:08:22,533 --> 00:08:25,277
+Why did you not fit
+more than two batteries?
+
+119
+00:08:25,317 --> 00:08:29,525
+Because I wanted to save
+weight. Stop picking holes in it!
+
+120
+00:08:29,565 --> 00:08:33,513
+'To take our minds off the power
+problems, I found some music.'
+
+121
+00:08:33,553 --> 00:08:36,201
+Belinda Carlisle.
+
+122
+00:08:36,241 --> 00:08:39,561
+MUSIC PLAYS
+
+123
+00:08:39,601 --> 00:08:44,493
+'Sadly, though, James doesn't
+like Belinda Carlisle.'
+
+124
+00:08:44,533 --> 00:08:46,293
+Off! TURNS MUSIC OFF
+
+125
+00:08:46,333 --> 00:08:49,717
+James, James, we aren't allowed to
+drive down this street. Yes, we are.
+
+126
+00:08:49,757 --> 00:08:57,181
+No, we aren't. We are.
+'I was right. We weren't.'
+
+127
+00:08:57,221 --> 00:08:58,685
+Oh, God!
+
+128
+00:08:58,725 --> 00:09:02,185
+Well, you're going to have to
+turn round. That's a dead end.
+
+129
+00:09:02,225 --> 00:09:05,373
+Hang on. It's packed up. Oh, no. DRONING
+
+130
+00:09:05,413 --> 00:09:08,169
+Don't tell me it's died. HORN BLARES
+
+131
+00:09:08,209 --> 00:09:10,669
+Sorry. Why is it doing that?
+
+132
+00:09:10,709 --> 00:09:12,245
+HORNS BLARE
+
+133
+00:09:12,285 --> 00:09:15,153
+You designed the engine. It's working!
+
+134
+00:09:15,193 --> 00:09:18,981
+James, wait! The cyclist!
+There's a Peugeot! Sorry, mate!
+
+135
+00:09:19,021 --> 00:09:20,653
+Mind the cyclists.
+
+136
+00:09:20,693 --> 00:09:24,077
+'Then it stopped again.' Sorry.
+
+137
+00:09:24,117 --> 00:09:27,453
+Sorry. It's got a bad connection.
+It just cuts out. HORNS BLARE
+
+138
+00:09:27,493 --> 00:09:29,605
+I feel silly now.
+
+139
+00:09:29,645 --> 00:09:31,873
+Oh, there's a policeman!
+
+140
+00:09:31,913 --> 00:09:35,453
+'Every time we reversed,
+the motor cut out,
+
+141
+00:09:35,493 --> 00:09:40,845
+'so we had to go forwards into the
+buses-only zone.' Excuse me, Hammond.
+
+142
+00:09:40,885 --> 00:09:44,093
+Sorry. Sorry.
+
+143
+00:09:44,133 --> 00:09:47,405
+# You say that it's complicated... #
+
+144
+00:09:47,445 --> 00:09:53,293
+Sorry. Belinda Carlisle!
+What do you think of that?
+
+145
+00:09:53,333 --> 00:09:58,981
+'Having annoyed the people the centre of Oxford,
+we drove on and ended up annoying the people
+
+146
+00:09:59,021 --> 00:10:01,233
+'in the outskirts of Oxford.'
+
+147
+00:10:01,273 --> 00:10:04,361
+Have we got anyone behind us? Yes.
+
+148
+00:10:04,401 --> 00:10:07,061
+Oh, yes! Yes, we have, yes!
+
+149
+00:10:07,101 --> 00:10:09,373
+This is embarrassing. HORNS BLARE
+
+150
+00:10:09,413 --> 00:10:13,341
+'And then it got a
+bit more embarrassing.'
+
+151
+00:10:13,381 --> 00:10:16,469
+James, this isn't... Why
+are you stopping? Oh, God.
+
+152
+00:10:16,509 --> 00:10:20,405
+James? Why...?ENGINE SPLUTTERS
+
+153
+00:10:20,445 --> 00:10:23,361
+We've run out of juice. But...
+
+154
+00:10:23,401 --> 00:10:25,685
+HORNS BLARE
+
+155
+00:10:25,725 --> 00:10:28,733
+'While James and Richard
+directed the traffic round Geoff,
+
+156
+00:10:28,773 --> 00:10:33,733
+'I went in search of some
+electricity.' DOORBELL RINGS
+
+157
+00:10:33,773 --> 00:10:38,969
+HORNS BLARE A tiny, tiny bit left.
+That'll do. You've got room on the left.
+
+158
+00:10:39,009 --> 00:10:41,125
+Nobody in.
+
+159
+00:10:41,165 --> 00:10:43,689
+Wait, wait, wait. Just
+go back a little bit.
+
+160
+00:10:43,729 --> 00:10:47,265
+HORNS BLARE
+
+161
+00:10:47,305 --> 00:10:49,845
+I thought everybody was unemployed!
+
+162
+00:10:49,885 --> 00:10:52,421
+So it's left a bit. A bit more.
+
+163
+00:10:52,461 --> 00:10:55,049
+No, no, no! Left. That's right.
+
+164
+00:10:55,089 --> 00:11:00,049
+This'll be an old people's home. They
+won't have electricity. HORNS BLARE
+
+165
+00:11:00,089 --> 00:11:03,205
+Guys, we're going to have to get the
+electricity from this side of the road.
+
+166
+00:11:03,245 --> 00:11:05,765
+Nobody is in there. OK.
+
+167
+00:11:05,805 --> 00:11:07,297
+Thank you.
+
+168
+00:11:07,337 --> 00:11:10,533
+Sorry, everybody. You are so kind.
+
+169
+00:11:10,573 --> 00:11:15,813
+When you run out of fuel in the future, this will be your life
+- undoing spaghetti.
+
+170
+00:11:15,853 --> 00:11:18,469
+We're in!
+
+171
+00:11:18,509 --> 00:11:21,141
+There. That works.
+
+172
+00:11:21,181 --> 00:11:23,861
+Sorry. Sorry.
+
+173
+00:11:23,901 --> 00:11:27,005
+James, how long does it take
+to charge an electric car?
+
+174
+00:11:27,045 --> 00:11:30,533
+Well, to charge it fully would take a good
+six or seven hours, but in two hours...
+
+175
+00:11:30,573 --> 00:11:32,781
+Whoa! Six or seven HOURS?!
+
+176
+00:11:32,821 --> 00:11:37,733
+My arm's aching already. Those are the
+facts of battery-powered cars. We know that.
+
+177
+00:11:37,773 --> 00:11:41,329
+'Still, much to the
+relief of everyone...'
+
+178
+00:11:41,369 --> 00:11:45,049
+CRUNCH! No! '.. Geoff was ready to go.'
+
+179
+00:11:45,089 --> 00:11:47,733
+Let's see. Yes! MUSIC:
+Theme from "Rocky"
+
+180
+00:11:47,773 --> 00:11:51,333
+'Sadly, though, he was
+just as slow as before.'
+
+181
+00:11:51,373 --> 00:11:55,365
+James, you're being
+overtaken by children.
+
+182
+00:11:55,405 --> 00:11:57,285
+A lot of children coming past.
+
+183
+00:11:57,325 --> 00:12:02,033
+There's a bicycle coming by. With two
+people on it. Another bicycle coming by.
+
+184
+00:12:02,073 --> 00:12:07,957
+'On balance, we thought it best to leave Oxford
+and get back to the Top Gear Technology Centre,
+
+185
+00:12:07,997 --> 00:12:12,453
+'but then James took a wrong
+turning...' Left! Left there!
+
+186
+00:12:12,493 --> 00:12:17,565
+What? '..with terrible consequences.'
+
+187
+00:12:17,605 --> 00:12:20,597
+HORNS BLARE James, this is the A34!
+
+188
+00:12:20,637 --> 00:12:25,657
+Oh, God! This is a road
+with a speed limit of 70mph.
+
+189
+00:12:25,697 --> 00:12:29,813
+A lot of traffic now! Can
+you drive with the hazards on?
+
+190
+00:12:29,853 --> 00:12:33,269
+Yeah, but it might slow
+us down a bit. Oh, my God.
+
+191
+00:12:33,309 --> 00:12:35,909
+James, get off the dual carriageway.
+
+192
+00:12:35,949 --> 00:12:39,445
+That sign says "Motorway 6". I
+don't want to go on the motorway!
+
+193
+00:12:39,485 --> 00:12:42,489
+James, do not... Is there
+a junction before that?
+
+194
+00:12:42,529 --> 00:12:45,193
+Look at the traffic jam. I can't.
+
+195
+00:12:45,233 --> 00:12:47,193
+It's too embarrassing.
+Look at the traffic jam.
+
+196
+00:12:47,233 --> 00:12:50,813
+I can't! I've got my head in a
+plastic box, and everyone can see me!
+
+197
+00:12:50,853 --> 00:12:53,097
+HORNS BLARE Do you know what we've done?
+
+198
+00:12:53,137 --> 00:12:55,785
+We've made something
+worse than a G-Wiz.
+
+199
+00:12:55,825 --> 00:12:58,365
+Don't say that. We have.
+
+200
+00:12:58,405 --> 00:13:01,377
+I disagree. It's slower. Yes.
+
+201
+00:13:01,417 --> 00:13:03,861
+He's being cooked. Yes.
+
+202
+00:13:03,901 --> 00:13:09,961
+It's rubbish.
+
+203
+00:13:10,001 --> 00:13:16,097
+MUSIC PLAYS SLOWLY: "Heaven Is
+APlace On Earth" by Belinda Carlisle
+
+204
+00:13:16,137 --> 00:13:21,893
+# We'll make heaven a place on... #
+
+205
+00:13:21,933 --> 00:13:24,773
+Eventually, we ended
+up in the countryside
+
+206
+00:13:24,813 --> 00:13:27,833
+where at least we couldn't
+get in anyone's way,
+
+207
+00:13:27,873 --> 00:13:33,961
+but unfortunately, the A34 had had a
+catastrophic effect on our performance.
+
+208
+00:13:34,001 --> 00:13:39,365
+We're hardly
+moving!HIGH-PITCHED DRONING
+
+209
+00:13:39,405 --> 00:13:43,849
+I wouldn't mind it going slowly. I
+just wish it wouldn't make that noise.
+
+210
+00:13:43,889 --> 00:13:45,117
+James...
+
+211
+00:13:45,157 --> 00:13:46,865
+Oh, God! What?
+
+212
+00:13:46,905 --> 00:13:50,773
+ENGINE WHINES
+
+213
+00:13:50,813 --> 00:13:55,209
+Please tell me that... ENGINE STOPS
+
+214
+00:13:55,249 --> 00:13:57,365
+You bloody idiot!
+
+215
+00:13:57,405 --> 00:14:00,457
+Why did you think two batteries
+was the right solution?
+
+216
+00:14:00,497 --> 00:14:05,253
+Tesla used 6,800 batteries for a reason.
+
+217
+00:14:05,293 --> 00:14:09,613
+Oh, great(!) We're actually holding
+people up here. Sorry. Sorry!
+
+218
+00:14:09,653 --> 00:14:12,681
+THEY STRAIN Come on, Geoff.
+
+219
+00:14:12,721 --> 00:14:14,681
+Come on! I'll tell you what, James.
+
+220
+00:14:14,721 --> 00:14:17,817
+What? There's loads of houses
+around here where we can get
+
+221
+00:14:17,857 --> 00:14:22,885
+some more electricity(!) James, seriously, why
+didn't you put more than two batteries in it?
+
+222
+00:14:22,925 --> 00:14:27,613
+I didn't want it to weigh too much.
+- Batteries go flat. This is important consumer information.
+
+223
+00:14:27,653 --> 00:14:30,725
+Stored electricity is
+like a caged animal.
+
+224
+00:14:30,765 --> 00:14:35,365
+You should have used more than two.
+- Well, next time, I know and we know.
+
+225
+00:14:35,405 --> 00:14:39,869
+Tell me that isn't happening.
+Tell me that isn't happening.
+
+226
+00:14:39,909 --> 00:14:43,661
+CRASH!
+
+227
+00:14:43,701 --> 00:14:47,117
+I... I don't want to...
+
+228
+00:14:47,157 --> 00:14:51,041
+The lonely walk
+confirmed our worst fears.
+
+229
+00:14:51,081 --> 00:14:58,273
+Geoff was dead.
+
+230
+00:14:58,313 --> 00:15:02,725
+Don't applaud. Don't
+applaud. Geoff is dead!
+
+231
+00:15:02,765 --> 00:15:07,557
+It was the saddest moment. As
+it hit the tree, my heart broke.
+
+232
+00:15:07,597 --> 00:15:10,917
+They're obviously all from
+Oxford, that's what it is.
+
+233
+00:15:10,957 --> 00:15:13,257
+Yeah.
+
+234
+00:15:13,297 --> 00:15:16,165
+Anyway, we could have given up
+at that point, but we didn't.
+
+235
+00:15:16,205 --> 00:15:18,897
+We went back to the drawing board
+and later on you'll be able to see
+
+236
+00:15:18,937 --> 00:15:23,213
+the results of our frankly brilliant
+effort. But for now, it's the news.
+
+237
+00:15:23,253 --> 00:15:26,293
+It is indeed and we start with this.
+
+238
+00:15:26,333 --> 00:15:30,729
+As we know, Formula One has always
+been the most glamorous sport
+
+239
+00:15:30,769 --> 00:15:34,257
+in the world, hasn't it? Yeah? But
+not any more. Not from next year.
+
+240
+00:15:34,297 --> 00:15:37,841
+There's four new teams joining in,
+OK. One of them, Manor Grand Prix,
+
+241
+00:15:37,881 --> 00:15:42,309
+is based in Sheffield.
+How glamorous is that?
+
+242
+00:15:42,349 --> 00:15:45,325
+Strictly speaking, it's actually
+between Sheffield and Rotherham.
+
+243
+00:15:45,365 --> 00:15:49,461
+If we're going to be pedantic, it's
+between Sheffield, Rotherham and Worksop,
+
+244
+00:15:49,501 --> 00:15:51,977
+in a place called
+Dinnington, which I know well.
+
+245
+00:15:52,017 --> 00:15:57,025
+And it's exactly like Monte
+Carlo...apart from in every single detail.
+
+246
+00:15:57,065 --> 00:16:00,541
+It does take the shine of it a bit.
+I can't wait to see their new car.
+
+247
+00:16:00,581 --> 00:16:04,053
+I don't why you bother with all that
+carbon fibre, I made mine out of steel.
+
+248
+00:16:04,093 --> 00:16:08,057
+Stainless steel. If that
+Fernando Alonso hits our car,
+
+249
+00:16:08,097 --> 00:16:12,165
+his Ferrari will be knackered.
+I'll tell you that for nowt.
+
+250
+00:16:12,205 --> 00:16:16,309
+It's funny, me dad worked in pit and
+now I've got a job in pit and all.
+
+251
+00:16:16,349 --> 00:16:21,729
+They're replacing Toyota and
+they've signed Timo Glock,
+
+252
+00:16:21,769 --> 00:16:24,433
+who presumably is currently learning
+why it's important to punch anyone
+
+253
+00:16:24,473 --> 00:16:26,869
+who looks at him funny.
+
+254
+00:16:26,909 --> 00:16:30,869
+Is anyone from Sheffield?
+Yeah. Are you? Whereabouts?
+
+255
+00:16:30,909 --> 00:16:34,213
+You're from Sheffield?
+Cos I'm just thinking,
+
+256
+00:16:34,253 --> 00:16:38,405
+they're using Cosworth engines,
+or I should say, Sheffield, Cozza.
+
+257
+00:16:38,445 --> 00:16:42,733
+Cosa? No, Coz-za. You've got to have-
+a stroke halfway through the word.
+
+258
+00:16:42,773 --> 00:16:47,293
+Coz-za. So your face falls.
+Coz-za.- Coz-za. Your face falls off.
+
+259
+00:16:47,333 --> 00:16:50,793
+You're from Sheffield, just
+practise it, just show us.
+
+260
+00:16:50,833 --> 00:16:53,125
+How do you say it? Cozza.
+
+261
+00:16:53,165 --> 00:16:54,717
+There you go!
+
+262
+00:16:54,757 --> 00:16:57,213
+I think it's fair to say that
+that team is probably Top Gear's
+
+263
+00:16:57,253 --> 00:17:00,105
+absolute favourite F1 team.
+I want them to win everything,
+
+264
+00:17:00,145 --> 00:17:02,997
+so on the podium they're gonna
+have a big brass band at the end.
+
+265
+00:17:03,037 --> 00:17:09,261
+Abide With Me. Ain't that a national anthem? We'll
+have Abide With Me on a brass band, be lovely.
+
+266
+00:17:09,301 --> 00:17:13,717
+Now, criminals, would you like
+to get away with your crimes?
+
+267
+00:17:13,757 --> 00:17:17,493
+Are you capable of running
+more than 100 yards?
+
+268
+00:17:17,533 --> 00:17:22,453
+Well, good news, because the police
+- are thinking of using these now.
+
+269
+00:17:22,493 --> 00:17:25,561
+It's a Mitsubishi electric.
+
+270
+00:17:25,601 --> 00:17:30,309
+They say it's helping
+them crack down on CO2.
+
+271
+00:17:30,349 --> 00:17:33,933
+I don't want the police
+to crack down on CO2.
+
+272
+00:17:33,973 --> 00:17:36,341
+I want them to get my
+bloody television back,
+
+273
+00:17:36,381 --> 00:17:38,981
+because it's been six
+years since that was nicked,
+
+274
+00:17:39,021 --> 00:17:42,653
+and I haven't heard a peep out of them whilst
+they've been going on about cracking down on CO2.
+
+275
+00:17:42,693 --> 00:17:45,405
+I'll have to buy
+another one at this rate.
+
+276
+00:17:45,445 --> 00:17:48,417
+What were you stopped for
+the other day, by a policeman?
+
+277
+00:17:48,457 --> 00:17:50,857
+It was some motoring misdemeanour.
+You just turned around and said,
+
+278
+00:17:50,897 --> 00:17:55,417
+"Oh, good. This must mean
+you've found my television."
+
+279
+00:17:55,457 --> 00:17:59,261
+If I was a policeman and my chief
+freemason came into the office
+
+280
+00:17:59,301 --> 00:18:04,969
+and said... I mean Chief Constable.
+- I always get them muddled up.
+
+281
+00:18:05,009 --> 00:18:08,421
+And he said, "Right, you've got
+to do your beat in one of those."
+
+282
+00:18:08,461 --> 00:18:10,721
+I would drink my own pepper spray.
+
+283
+00:18:10,761 --> 00:18:14,565
+I'll tell you what, this is a
+slightly interesting one, OK.
+
+284
+00:18:14,605 --> 00:18:18,749
+There was a survey recently
+about the effects that a nice car
+
+285
+00:18:18,789 --> 00:18:23,029
+can have on a male, the human male, OK?
+
+286
+00:18:23,069 --> 00:18:26,217
+What they did was they got 40 young
+- guys and they made them drive
+
+287
+00:18:26,257 --> 00:18:28,813
+up and down the street in a Toyota
+Camry and then drive up and down
+
+288
+00:18:28,853 --> 00:18:31,877
+the same street, in the
+same manner, in a Porsche 911
+
+289
+00:18:31,917 --> 00:18:34,905
+and then they measured their
+testosterone after each drive.
+
+290
+00:18:34,945 --> 00:18:38,313
+And after driving the
+Porsche, it had shot up.
+
+291
+00:18:38,353 --> 00:18:40,877
+So it had an actual physiological
+effect on them? Yeah.
+
+292
+00:18:40,917 --> 00:18:43,813
+I'm amazed by that. I think that
+makes perfect sense, doesn't it?
+
+293
+00:18:43,853 --> 00:18:47,029
+Cos whenever I drive a really nice,
+- exciting car I always get
+
+294
+00:18:47,069 --> 00:18:51,157
+like a nice little fizzing sensation.
+
+295
+00:18:51,197 --> 00:18:55,001
+No, it's not... Where is
+this fizzing sensation?
+
+296
+00:18:55,041 --> 00:18:57,125
+It's not actually in
+my penis, but it's...
+
+297
+00:18:57,165 --> 00:19:00,781
+but it's sort of just behind it.
+
+298
+00:19:00,821 --> 00:19:03,125
+A fizzing sensation
+just behind your penis?
+
+299
+00:19:03,165 --> 00:19:05,341
+Yeah. So, isn't that
+the pit of your stomach?
+
+300
+00:19:05,381 --> 00:19:08,253
+No, no, lower down than
+that, sort of right...
+
+301
+00:19:08,293 --> 00:19:13,781
+That's your prostate, mate.
+You've sat on the gear.
+
+302
+00:19:13,821 --> 00:19:17,253
+Does anybody else have a fizzing
+sensation just behind their penis...
+
+303
+00:19:17,293 --> 00:19:20,701
+Am I the only person... Ah! Thank
+you, sir. You have? Good man.
+
+304
+00:19:20,741 --> 00:19:24,813
+Or do you just want to be on television?
+
+305
+00:19:24,853 --> 00:19:27,093
+Come here. Do come here.
+
+306
+00:19:27,133 --> 00:19:32,313
+It's just got a lot worse! James May, a
+man in a moustache has come on the stage
+
+307
+00:19:32,353 --> 00:19:35,765
+and wishes to meet you to discuss...
+Please, have a seat. ..your fizzing penises.
+
+308
+00:19:35,805 --> 00:19:39,141
+That's the end of the news. Oh, God!
+
+309
+00:19:39,181 --> 00:19:42,861
+APPLAUSE
+
+310
+00:19:42,901 --> 00:19:45,109
+I'd like to commend you
+on being brave enough,
+
+311
+00:19:45,149 --> 00:19:48,017
+especially as you've grown
+a moustache for charity,
+
+312
+00:19:48,057 --> 00:19:51,861
+to come on the stage and admit that
+- you too have been bestowed
+
+313
+00:19:51,901 --> 00:19:55,501
+with this great gift from the
+gods of a slight fizzing sensation
+
+314
+00:19:55,541 --> 00:19:58,937
+somewhere behind your penis but in front of
+your prostate when you drive an exciting car.
+
+315
+00:19:58,977 --> 00:20:02,221
+What sort of car are you
+driving when you feel it?
+
+316
+00:20:02,261 --> 00:20:06,173
+Citroen AX.
+
+317
+00:20:06,213 --> 00:20:09,005
+Honestly, no, seriously...
+
+318
+00:20:09,045 --> 00:20:19,657
+we really must invite you to...
+go back over there. Thank you.
+
+319
+00:20:19,697 --> 00:20:22,349
+I think some of us are just
+more fortunate than others.
+
+320
+00:20:22,389 --> 00:20:25,065
+You must have had this on
+a motorcycle. No, never!
+
+321
+00:20:25,105 --> 00:20:30,253
+I'm just gonna stand. I don't
+even want to use that seat now.
+
+322
+00:20:30,293 --> 00:20:34,037
+Now, we have to just touch on
+something, don't we, before we go,
+
+323
+00:20:34,077 --> 00:20:36,549
+because... LAUGHTER
+
+324
+00:20:36,589 --> 00:20:41,269
+No, we don't, no. No, no, no. Argh!
+
+325
+00:20:41,309 --> 00:20:44,097
+The news has gone wrong this week.
+
+326
+00:20:44,137 --> 00:20:48,409
+I'd rather chop them off.
+I'd rather slice them.
+
+327
+00:20:48,449 --> 00:20:51,881
+Thing is, next week
+we're doing this item
+
+328
+00:20:51,921 --> 00:20:57,445
+on which car company has produced
+the largest number of great cars.
+
+329
+00:20:57,485 --> 00:21:00,501
+This is GREAT cars? Yes, GREAT cars.
+- So, any thoughts on which
+
+330
+00:21:00,541 --> 00:21:05,221
+car company's made the
+biggest number of GREAT cars?
+
+331
+00:21:05,261 --> 00:21:07,521
+See, Aston Martin isn't...
+
+332
+00:21:07,561 --> 00:21:10,849
+I don't think Aston has made a single
+great, GREAT car. They make some lovely...
+
+333
+00:21:10,889 --> 00:21:14,129
+DB5 was only great because of
+JamesBond. It's actually a bit rubbish...
+
+334
+00:21:14,169 --> 00:21:16,677
+Exactly. Anyone else got any thoughts?
+
+335
+00:21:16,717 --> 00:21:19,973
+Who said Ferrari? Somebody said Ferrari
+over there. That's a good call, but...
+
+336
+00:21:20,013 --> 00:21:23,457
+It's a good call, but if you think about
+it, they've made a lot of rubbish cars too.
+
+337
+00:21:23,497 --> 00:21:26,053
+Their 348 was rubbish, the
+Testarossa was rubbish...
+
+338
+00:21:26,093 --> 00:21:29,525
+Mondial was rubbish. The F40
+was a great car. That was great.
+
+339
+00:21:29,565 --> 00:21:32,269
+But what about mainstream
+manufacturers, though? Ford.
+
+340
+00:21:32,309 --> 00:21:34,925
+They did the Model T, that's
+kind of an important car.
+
+341
+00:21:34,965 --> 00:21:38,173
+Mustang... GT40 is a great car.
+
+342
+00:21:38,213 --> 00:21:41,709
+This, I think, is an interesting
+debate that petrol heads can have.
+
+343
+00:21:41,749 --> 00:21:43,805
+We genuinely would like to
+hear what you have to say,
+
+344
+00:21:43,845 --> 00:21:47,445
+so do please go on our website,
+which is on the internet,
+
+345
+00:21:47,485 --> 00:21:51,193
+and then write something on... I don't
+know how you... Write something on it,
+
+346
+00:21:51,233 --> 00:21:56,085
+which car firm you think has produced the largest
+number of great cars. If you write that down
+
+347
+00:21:56,125 --> 00:21:59,817
+on our internet...we'll read it.
+
+348
+00:21:59,857 --> 00:22:02,301
+LAUGHTER
+
+349
+00:22:02,341 --> 00:22:06,493
+Now, last year I drove an Audi R8,
+and I thought it was the knees of
+
+350
+00:22:06,533 --> 00:22:09,253
+the bee, but in a straight line, at
+- least, it was a little bit slower
+
+351
+00:22:09,293 --> 00:22:11,021
+than a Porsche 911.
+
+352
+00:22:11,061 --> 00:22:14,117
+Yeah, quite a lot slower
+than a 911, actually.
+
+353
+00:22:14,157 --> 00:22:17,613
+It was about THAT much slower. I admit
+that much makes all the difference.
+
+354
+00:22:17,653 --> 00:22:21,973
+LAUGHTER
+
+355
+00:22:22,013 --> 00:22:35,101
+However, Audi has now
+released a new faster version.
+
+356
+00:22:35,141 --> 00:22:40,245
+This is it, and it looks pretty
+much the same as the original.
+
+357
+00:22:40,285 --> 00:22:48,009
+However...
+
+358
+00:22:48,049 --> 00:22:53,009
+The standard R8 has a 4.2-litre V8.
+
+359
+00:22:53,049 --> 00:23:01,605
+THIS has a 5.2-litre Lamborghini V10.
+
+360
+00:23:01,645 --> 00:23:05,973
+That means 518-brake horsepower...
+
+361
+00:23:06,013 --> 00:23:09,509
+enough torque to tenderise an elephant
+
+362
+00:23:09,549 --> 00:23:15,477
+and a top speed of about 200mph.
+
+363
+00:23:15,517 --> 00:23:20,069
+0 to 60 is dealt with in
+3.7 seconds. That's there -
+
+364
+00:23:20,109 --> 00:23:24,789
+80, 90, 100, 110,
+
+365
+00:23:24,829 --> 00:23:28,741
+120, 125 in eight seconds.
+
+366
+00:23:28,781 --> 00:23:33,245
+This thing is phenomenal!
+
+367
+00:23:33,285 --> 00:23:47,213
+The handling is pretty epic as well.
+
+368
+00:23:47,253 --> 00:23:52,933
+As a driver's car, this
+is...spectacularly good.
+
+369
+00:23:52,973 --> 00:24:00,761
+It's like Scarlett Johansson's lips
+- or the roof of Paddington Station.
+
+370
+00:24:00,801 --> 00:24:04,773
+Absolutely faultless.
+
+371
+00:24:04,813 --> 00:24:08,229
+Oh, God, it's good!
+
+372
+00:24:08,269 --> 00:24:10,413
+Oh, mmmmm!
+
+373
+00:24:10,501 --> 00:24:19,369
+r!
+
+374
+00:24:19,409 --> 00:24:27,413
+And unlike most super-cars, it's
+not even desperately impractical.
+
+375
+00:24:27,453 --> 00:24:32,385
+You get a boot, which is big
+enough- for three medium-sized goats.
+
+376
+00:24:32,425 --> 00:24:34,697
+You get a useful shelf behind the seats,
+
+377
+00:24:34,737 --> 00:24:39,933
+and you get room inside to move about
+- and breathe.
+
+378
+00:24:39,973 --> 00:24:43,125
+There are a couple of mistakes, I admit.
+
+379
+00:24:43,165 --> 00:24:47,133
+If, for instance, you have a can of
+- tangy, refreshing drink here
+
+380
+00:24:47,173 --> 00:24:49,685
+in the cup holder, and
+you go to change gear,
+
+381
+00:24:49,725 --> 00:24:52,841
+your elbow's going to knock
+it and that's annoying.
+
+382
+00:24:52,881 --> 00:24:57,169
+And as far as I can work out,
+the trip computer isn't working.
+
+383
+00:24:57,209 --> 00:24:59,765
+I don't like to say that because
+it would have been installed by
+
+384
+00:24:59,805 --> 00:25:02,777
+a German who will be shot
+at dawn for his mistake,
+
+385
+00:25:02,817 --> 00:25:07,885
+but it...it doesn't.
+
+386
+00:25:07,925 --> 00:25:12,793
+And then there's the biggest mistake of them all
+- the price.
+
+387
+00:25:12,833 --> 00:25:16,341
+It's Â£100,000. And
+that's just the start.
+
+388
+00:25:16,381 --> 00:25:20,465
+If you want ceramic brakes, Â£7,000.
+
+389
+00:25:20,505 --> 00:25:23,485
+Flappy-paddle gearbox, Â£5,000.
+
+390
+00:25:23,525 --> 00:25:26,341
+If you want the boot
+lined in fake suede,
+
+391
+00:25:26,381 --> 00:25:28,309
+Â£1,600.
+
+392
+00:25:28,349 --> 00:25:31,389
+Bucket seats
+- Â£2,350.
+
+393
+00:25:31,429 --> 00:25:35,793
+Colour co-ordinated
+seatbelts - 750 quid!
+
+394
+00:25:35,833 --> 00:25:39,249
+If you want these panels,
+here, finished in carbon fibre,
+
+395
+00:25:39,289 --> 00:25:42,309
+you're mad, mad as a Mexican's dog.
+
+396
+00:25:42,349 --> 00:25:48,485
+They even charge Â£500 if you want to
+pick the car up from the factory yourself.
+
+397
+00:25:48,525 --> 00:25:51,389
+That's like charging someone
+Â£10 extra for a bottle of wine
+
+398
+00:25:51,429 --> 00:25:53,777
+if you tread the grapes yourself.
+
+399
+00:25:53,817 --> 00:25:59,309
+I'd tell them to get lost.
+
+400
+00:25:59,349 --> 00:26:05,513
+Strangely, however, it's not the money
+that would stop me buying this car.
+
+401
+00:26:05,553 --> 00:26:09,889
+The trouble is... is
+it's a bit too joyless.
+
+402
+00:26:09,929 --> 00:26:12,361
+A bit too like Scarlett
+Johansson's lips.
+
+403
+00:26:12,401 --> 00:26:17,953
+You can...never imagine
+this thing smiling.
+
+404
+00:26:17,993 --> 00:26:20,669
+I mean, look what happens,
+OK, if I hit this button here.
+
+405
+00:26:20,709 --> 00:26:24,157
+"Sport mode on," exclamation mark.
+
+406
+00:26:24,197 --> 00:26:27,045
+What's it got an exclamation mark for?
+
+407
+00:26:27,085 --> 00:26:32,857
+You put the sport on in a
+super-car? You mad, crazy fool, you!
+
+408
+00:26:32,897 --> 00:26:34,845
+Look at the sat-nav, OK.
+
+409
+00:26:34,885 --> 00:26:39,565
+It can take you to a bank or a
+bowling alley or a bus station.
+
+410
+00:26:39,605 --> 00:26:42,233
+I'm sorry? Golf course.
+
+411
+00:26:42,273 --> 00:26:44,593
+Historical monument.
+
+412
+00:26:44,633 --> 00:26:46,517
+Yes, I've got a super-car,
+but I'm going to stop off
+
+413
+00:26:46,557 --> 00:26:51,249
+and look at this Neolithic fort!
+
+414
+00:26:51,289 --> 00:26:55,001
+The R8 V10, then, doesn't really do fun.
+
+415
+00:26:55,041 --> 00:26:59,721
+It doesn't do pantomime, so if I
+was spending Â£100,000 on a car,
+
+416
+00:26:59,761 --> 00:27:20,033
+I'd think very seriously
+about buying something worse.
+
+417
+00:27:20,073 --> 00:27:35,297
+This is the Corvette ZR1,
+which is extremely fast.
+
+418
+00:27:35,337 --> 00:27:39,441
+This has a super-charged
+6.2-litre engine,
+
+419
+00:27:39,481 --> 00:27:49,269
+which is a turbot compared to
+Audi's 5.2-litre un-supercharged cod.
+
+420
+00:27:49,309 --> 00:27:56,081
+Put it in a drag race with the
+R8 and the results are inevitable.
+
+421
+00:27:56,121 --> 00:28:02,393
+I have got 120 more
+horsepower than the R8...
+
+422
+00:28:02,433 --> 00:28:05,781
+and because the Corvette
+is made from plastic,
+
+423
+00:28:05,821 --> 00:28:09,581
+it's lighter as well.
+
+424
+00:28:09,621 --> 00:28:13,237
+If only America could win
+its wars so convincingly.
+
+425
+00:28:13,277 --> 00:28:18,441
+However, there are a few problems.
+
+426
+00:28:18,481 --> 00:28:22,237
+I tested one in America
+last year and, erm...
+
+427
+00:28:22,277 --> 00:28:25,989
+after three days, it was starting to
+fall apart, and then on the fourth,
+
+428
+00:28:26,029 --> 00:28:29,221
+it refused to start.
+
+429
+00:28:29,261 --> 00:28:32,317
+It's also insanely vulgar.
+
+430
+00:28:32,357 --> 00:28:35,065
+It's only available
+with left-hand drive.
+
+431
+00:28:35,105 --> 00:28:38,409
+The luggage cover looks
+like a motel shower curtain.
+
+432
+00:28:38,449 --> 00:28:47,693
+It's much too wide and in the
+corners, it's a complete mad man.
+
+433
+00:28:47,733 --> 00:28:51,141
+Oh.
+
+434
+00:28:51,181 --> 00:28:55,769
+When I drove this thing
+in California, I loved it!
+
+435
+00:28:55,809 --> 00:28:59,241
+But I think it might have
+been a holiday romance,
+
+436
+00:28:59,281 --> 00:29:04,501
+because here on our track it's,
+it's... Well, let's be kind,
+
+437
+00:29:04,541 --> 00:29:15,925
+let's say difficult.
+
+438
+00:29:15,965 --> 00:29:20,833
+Remember, I've got more
+power than the Ferrari Enzo.
+
+439
+00:29:20,873 --> 00:29:27,301
+Oh, my God. Come on!
+Get in a straight line!
+
+440
+00:29:27,341 --> 00:29:30,429
+I may have more firepower, but
+trying to keep up with the Audi
+
+441
+00:29:30,469 --> 00:29:34,925
+is like trying to win the Grand
+National whilst riding a lion,
+
+442
+00:29:34,965 --> 00:29:38,893
+that's made out of teeth and jelly.
+
+443
+00:29:38,933 --> 00:29:42,221
+It sort of wobbles about and
+then if you're not careful,
+
+444
+00:29:42,261 --> 00:29:45,085
+it bites your arm off. Aaahh!
+
+445
+00:29:45,125 --> 00:29:48,833
+Oh, no! I'm gone!
+
+446
+00:29:48,873 --> 00:29:53,165
+The thing is, though, despite the
+waywardness and the terrible danger,
+
+447
+00:29:53,205 --> 00:29:57,021
+the Corvette is more fun.
+
+448
+00:29:57,061 --> 00:30:01,833
+It's disintegrating already, I'm
+being strangled by my own seatbelt
+
+449
+00:30:01,873 --> 00:30:09,273
+and the end's come off! Get on!
+
+450
+00:30:09,313 --> 00:30:13,177
+Be in no doubt, then
+- the Audi is a better car.
+
+451
+00:30:13,217 --> 00:30:16,133
+It's better built, better
+to look at, better to drive,
+
+452
+00:30:16,173 --> 00:30:19,849
+more comfortable, easier to
+park, and, in the real world,
+
+453
+00:30:19,889 --> 00:30:23,509
+faster.
+
+454
+00:30:23,549 --> 00:30:27,381
+You'd have to be bonkers
+to buy the Corvette.
+
+455
+00:30:27,421 --> 00:30:36,053
+And that is why you should.
+
+456
+00:30:36,093 --> 00:30:39,477
+APPLAUSE
+
+457
+00:30:39,517 --> 00:30:42,149
+It's that exclamation mark that
+says everything about that car.
+
+458
+00:30:42,189 --> 00:30:44,289
+You want Sport Mode?! Sport Mode!
+
+459
+00:30:44,329 --> 00:30:46,817
+Sport Mode!
+
+460
+00:30:46,857 --> 00:30:49,177
+Oh, now, ah-ha...
+
+461
+00:30:49,217 --> 00:30:51,445
+I have got an apology to make.
+
+462
+00:30:51,485 --> 00:30:55,365
+I said in that film that the Audi's
+- trip computer was broken.
+
+463
+00:30:55,405 --> 00:30:59,401
+It isn't, OK? It turned out I hadn't
+pressed the reset button properly.
+
+464
+00:30:59,441 --> 00:31:00,965
+LAUGHTER
+
+465
+00:31:01,005 --> 00:31:03,525
+We did actually ring Audi
+to confess to what he'd done,
+
+466
+00:31:03,565 --> 00:31:07,805
+but it was too late. The man
+responsible had...shot himself.
+
+467
+00:31:07,845 --> 00:31:09,649
+Yeah. He had.
+
+468
+00:31:09,689 --> 00:31:16,177
+Anyway, it's now time to put both cars
+in the hands of our tame racing driver.
+
+469
+00:31:16,217 --> 00:31:21,149
+Some say that he has some terrible
+plans involving the moon...
+
+470
+00:31:21,189 --> 00:31:22,993
+LAUGHTER
+
+471
+00:31:23,033 --> 00:31:27,461
+..and that he was turned down for a place
+on I'm A Celebrity because he IS one.
+
+472
+00:31:27,501 --> 00:31:30,713
+LAUGHTER
+
+473
+00:31:30,753 --> 00:31:32,853
+All we know is... he's called The Stig!
+
+474
+00:31:32,893 --> 00:31:35,333
+CHEERING
+
+475
+00:31:35,373 --> 00:31:38,085
+They're off! A genuinely
+interesting battle, this,
+
+476
+00:31:38,125 --> 00:31:41,213
+because the Corvette is
+faster in a straight line,
+
+477
+00:31:41,253 --> 00:31:43,305
+but it needs an extraordinary talent
+
+478
+00:31:43,345 --> 00:31:46,649
+to get it round corners
+without crashing.
+
+479
+00:31:46,689 --> 00:31:48,229
+Look at that.
+
+480
+00:31:48,269 --> 00:31:49,821
+And there is the talent.
+
+481
+00:31:49,861 --> 00:31:53,461
+MUSIC: "When I'm Cleaning Windows"
+
+482
+00:31:53,501 --> 00:31:57,805
+Oh dear, Stig continues to make
+each lap into a Cockney knees-up.
+
+483
+00:31:57,845 --> 00:32:01,309
+Ooh, did you see that? Weirdly,
+it's the Audi going sideways.
+
+484
+00:32:01,349 --> 00:32:04,493
+Through Chicago. What'll
+happen in Hammerhead?
+
+485
+00:32:04,533 --> 00:32:08,053
+Let's have a look here.
+
+486
+00:32:08,093 --> 00:32:11,213
+Again it's the four-wheel
+drive R8 that's out of shape.
+
+487
+00:32:11,253 --> 00:32:14,053
+The 'Vette in the Stig's
+talented paws clinging on.
+
+488
+00:32:14,093 --> 00:32:16,025
+A wiggle on the way out, but that's it.
+
+489
+00:32:16,065 --> 00:32:20,089
+MUSIC CONTINUES
+
+490
+00:32:20,129 --> 00:32:21,977
+Right.
+Follow-through -
+
+491
+00:32:22,017 --> 00:32:25,541
+this is where the
+Corvette's super-charged V8
+
+492
+00:32:25,581 --> 00:32:27,885
+can really deliver some shock and awe.
+
+493
+00:32:27,925 --> 00:32:29,901
+The tyres
+- they are both quick through there.
+
+494
+00:32:29,941 --> 00:32:32,773
+It's the in-bred lunatic versus
+a car with no sense of humour,
+
+495
+00:32:32,813 --> 00:32:35,201
+and they're pretty much
+neck-and-neck, just Gambon to go.
+
+496
+00:32:35,241 --> 00:32:39,697
+Both sigh through there,
+and they cross the line.
+
+497
+00:32:39,737 --> 00:32:42,977
+And now we have the times... APPLAUSE
+
+498
+00:32:43,017 --> 00:32:45,133
+Audi.
+
+499
+00:32:45,173 --> 00:32:46,853
+The Audi first?
+
+500
+00:32:46,893 --> 00:32:52,949
+It did it in 1:21.6, which
+puts it... That's for the Audi.
+
+501
+00:32:52,989 --> 00:32:58,013
+1:21.6? That was sort of a damp-ish-
+lap, as well. That's quick, OK.
+
+502
+00:32:58,053 --> 00:33:02,921
+However, Corvette did it in 1:20.4.
+- What?!
+
+503
+00:33:02,961 --> 00:33:07,045
+No... But the thing is, I reckon
+you or I could get the Audi round
+
+504
+00:33:07,085 --> 00:33:09,841
+in roughly that time, OK?
+
+505
+00:33:09,881 --> 00:33:13,965
+But there's no way we could make the Corvette go round in that.
+- Literally, I would
+
+506
+00:33:14,005 --> 00:33:18,405
+be five minutes dead. ..AND dead. Five
+minutes AND dead is what it would be.
+
+507
+00:33:18,445 --> 00:33:22,433
+Anyway, now it is time to put a
+star in our reasonably-priced car,
+
+508
+00:33:22,473 --> 00:33:24,889
+and my guest tonight is an actor.
+
+509
+00:33:24,929 --> 00:33:28,573
+He has played Kenneth Williams,
+who is no longer with us,
+
+510
+00:33:28,613 --> 00:33:31,417
+he's played Brian Clough,
+who's no longer with us,
+
+511
+00:33:31,457 --> 00:33:33,529
+and he's played Tony Blair, who, um...
+
+512
+00:33:33,569 --> 00:33:35,793
+LAUGHTER
+
+513
+00:33:35,833 --> 00:33:37,777
+..IS still with us.
+
+514
+00:33:37,817 --> 00:33:39,733
+Ladies and gentlemen, Michael Sheen!
+
+515
+00:33:39,773 --> 00:33:43,293
+APPLAUSE AND CHEERING
+
+516
+00:33:43,333 --> 00:33:45,325
+How are you?
+
+517
+00:33:45,365 --> 00:33:49,717
+Have a seat. Lovely.
+
+518
+00:33:49,757 --> 00:33:52,529
+I thought you were going
+to look like Tony Blair.
+
+519
+00:33:52,569 --> 00:33:55,213
+I... It's my day off
+today. Cos it's weird -
+
+520
+00:33:55,253 --> 00:33:58,825
+when I watched The Queen,
+obviously when you WERE Tony Blair,
+
+521
+00:33:58,865 --> 00:34:03,513
+I remember thinking, "God, they did very well to find an actor
+- who looks so like him."
+
+522
+00:34:03,553 --> 00:34:05,261
+But you're much better looking!
+
+523
+00:34:05,301 --> 00:34:06,889
+LAUGHTER
+
+524
+00:34:06,929 --> 00:34:09,341
+It's not hard, is it? Do people
+think you're going to look like him?
+
+525
+00:34:09,381 --> 00:34:12,621
+In America people think I'm
+a Tony Blair look-alike, yeah.
+
+526
+00:34:12,661 --> 00:34:16,249
+But you're not. I don't do
+work as a Tony Blair look-alike,
+
+527
+00:34:16,289 --> 00:34:19,341
+although I do have
+look-alikes in my family.
+
+528
+00:34:19,381 --> 00:34:21,469
+My dad is a Jack Nicholson
+look-alike. Is he?
+
+529
+00:34:21,509 --> 00:34:24,157
+He is indeed. Cos I was looking
+back at your family history
+
+530
+00:34:24,197 --> 00:34:27,185
+and it was all very weird, because
+nobody's done anything conventional
+
+531
+00:34:27,225 --> 00:34:30,077
+since the dawn of human
+history... That's true.
+
+532
+00:34:30,117 --> 00:34:35,529
+Your great-grandmother was... She was the first
+elephant and lion- tamer in Barnum & Bailey Circus.
+
+533
+00:34:35,569 --> 00:34:37,545
+Right...! LAUGHTER
+
+534
+00:34:37,585 --> 00:34:43,797
+Her name was Nanny Blower, and God bless her,
+she was talented, but she wasn't a looker.
+
+535
+00:34:43,837 --> 00:34:48,001
+She had her left breast mauled off
+by a lion, and the claw of that lion
+
+536
+00:34:48,041 --> 00:34:50,421
+is on a chain somewhere in our family.
+
+537
+00:34:50,461 --> 00:34:52,361
+Seriously? Yeah.
+
+538
+00:34:52,401 --> 00:34:55,533
+And it's at this point you go,
+"And we have that lion for you now!"
+
+539
+00:34:55,573 --> 00:34:58,673
+I wish I'd known. I
+would have looked into it.
+
+540
+00:34:58,713 --> 00:35:03,205
+There was your... Not grandfather...
+Great-grandfather. Who was the one who got drunk a lot?
+
+541
+00:35:03,245 --> 00:35:08,141
+Yeah, my great grandfather was a bit
+of a waster in the town, in Port Talbot,
+
+542
+00:35:08,181 --> 00:35:12,517
+and the story goes that he was lying in the gutter
+one night, having been chucked out of the pub,
+
+543
+00:35:12,557 --> 00:35:16,985
+and the moon appeared through the clouds, and
+God spoke to him through the moon and said,
+
+544
+00:35:17,025 --> 00:35:22,517
+"You must mend your ways. Save up money and buy the
+disused tin mine in the mountain." So from then on
+
+545
+00:35:22,557 --> 00:35:26,125
+he never touched another drink and he
+saved his money. Everyone thought he was mad
+
+546
+00:35:26,165 --> 00:35:29,517
+cos there was no tin left. They
+discovered a new vein of tin,
+
+547
+00:35:29,557 --> 00:35:33,877
+he became the richest man in Port Talbot
+and became a street preacher from then on.
+
+548
+00:35:33,917 --> 00:35:37,365
+This is fantastic. Then your dad
+was a Jack Nicholson impersonator...
+
+549
+00:35:37,405 --> 00:35:40,969
+A Jack Nicholson look-alike, not an
+impersonator. Look-alike. There is a difference.
+
+550
+00:35:41,009 --> 00:35:44,517
+He's a genetic freak,
+not a talented actor.
+
+551
+00:35:44,557 --> 00:35:46,577
+LAUGHTER
+
+552
+00:35:46,617 --> 00:35:51,613
+And now you're Tony Blair and David Frost... And Kenneth Williams
+- and Brian Clough.
+
+553
+00:35:51,653 --> 00:35:53,453
+This is... Can I just,
+
+554
+00:35:53,493 --> 00:35:57,005
+first of all, can I just take a moment
+to congratulate you on Frost/Nixon.
+
+555
+00:35:57,045 --> 00:35:59,549
+That was amazing. Thank you
+very much. Rocky is what it was.
+
+556
+00:35:59,589 --> 00:36:03,705
+It was Rocky for interviewers. Instead
+of fighting, it was interviewing Nixon.
+
+557
+00:36:03,745 --> 00:36:05,937
+Brilliant film, I adored that.
+
+558
+00:36:05,977 --> 00:36:11,393
+And I was just wondering, why
+do you choose parts predominantly
+
+559
+00:36:11,433 --> 00:36:14,365
+Now, the new film, Twilight
+- it's New Moon, isn't it, from the Twilight series?
+
+560
+00:36:14,405 --> 00:36:16,453
+which you did this presumably because
+you've got a 10-year-old daughter.
+
+561
+00:36:16,493 --> 00:36:20,285
+Yes. I have a 10-year-old daughter who
+is obsessed with the books. As have I.
+
+562
+00:36:20,325 --> 00:36:24,501
+Completely besotted. And I always
+say to her, "What are they about?"
+
+563
+00:36:24,669 --> 00:36:29,093
+rl,
+
+564
+00:36:29,133 --> 00:36:33,349
+"and she's in love with a werewolf, but she
+was..." and I say, "What are you reading?!"
+
+565
+00:36:33,389 --> 00:36:36,425
+It's sort of this great love story,
+- it seems,
+
+566
+00:36:36,465 --> 00:36:41,409
+and also, you know, they sort
+of tap into something about...
+
+567
+00:36:41,449 --> 00:36:45,085
+particularly a teenage
+girl's experience growing up.
+
+568
+00:36:45,125 --> 00:36:47,909
+So you're a v... I am a vampire.
+
+569
+00:36:47,949 --> 00:36:50,253
+So was it Peter Mandelson this time
+- you modelled it on?
+
+570
+00:36:50,293 --> 00:36:53,445
+Yes, absolutely, completely
+modelled it on Peter Mandelson.
+
+571
+00:36:53,485 --> 00:37:00,973
+Now, cars - you spend a lot of
+time- living there in Los Angeles,
+
+572
+00:37:01,013 --> 00:37:29,725
+so I would assume you
+have some form of hybrid.
+
+573
+00:37:29,765 --> 00:37:30,413
+It
+
+574
+00:37:30,453 --> 00:37:30,613
+It was
+
+575
+00:37:30,653 --> 00:37:35,129
+It was a
+
+576
+00:37:35,169 --> 00:37:39,941
+It was a Datsun Sunny and a Ford
+ Orion. I am not one who spends a
+
+577
+00:37:39,981 --> 00:37:45,193
+lot of money on cars. You spend a 
+lot of time in Los Angeles. I would
+
+578
+00:37:45,233 --> 00:37:54,209
+have assumed you would have some
+ form of hybrid. No, not really.
+
+579
+00:37:54,249 --> 00:38:04,349
+There is a lot of pressure. It is 
+the way for a. It is. I am going to
+
+580
+00:38:04,389 --> 00:38:09,273
+get a Jaguar. -- the way forward.
+ I'd like to get a green one.
+
+581
+00:38:09,313 --> 00:38:11,661
+So when you go on American chat shows
+and they say, "You got a hybrid?"
+
+582
+00:38:11,701 --> 00:38:13,349
+You can say, "No, I have
+a Jag." "I have a Ja-a-ag."
+
+583
+00:38:13,389 --> 00:38:14,833
+So what do you use in England?
+
+584
+00:38:14,873 --> 00:38:16,569
+I nip around London on a scooter.
+
+585
+00:38:16,609 --> 00:38:18,629
+I once rode one of those across
+Vietnam. It tried to kill me.
+
+586
+00:38:18,669 --> 00:38:20,709
+Did you ever fall off?
+They're fantastic. In fact,
+
+587
+00:38:20,749 --> 00:38:25,225
+when I first got the scooter, it was just
+before I started playing Kenneth Williams
+
+588
+00:38:25,265 --> 00:38:27,585
+in this film I did, Fantabulosa!
+
+589
+00:38:27,625 --> 00:38:31,209
+And I was desperately trying to lose as
+much weight as I possibly could to play him,
+
+590
+00:38:31,249 --> 00:38:34,493
+so I went on the cabbage soup diet
+for the last ten days. Which is great,
+
+591
+00:38:34,533 --> 00:38:38,973
+I lost ten pounds, but I did used to lose consciousness as well.
+- I was so faint.
+
+592
+00:38:39,013 --> 00:38:42,693
+So I was driving around on
+this scooter around London,
+
+593
+00:38:42,733 --> 00:38:47,165
+which was scary enough as it was,
+but I was also constantly farting.
+
+594
+00:38:47,205 --> 00:38:49,005
+My stomach was making terrible noises,
+
+595
+00:38:49,045 --> 00:38:51,165
+and whilst I used to drive it
+I used to practise the voice,
+
+596
+00:38:51,205 --> 00:38:56,445
+so if anyone saw an Aprilia going
+past them around the Clapham area
+
+597
+00:38:56,485 --> 00:39:00,973
+with a slightly sepia-looking
+visor- and a smell coming behind it
+
+598
+00:39:01,013 --> 00:39:04,773
+and a voice going "mrr-rr-rr-rr"
+as it was going along, that was me.
+
+599
+00:39:04,813 --> 00:39:06,965
+Did you ever fall off it?
+
+600
+00:39:07,005 --> 00:39:08,509
+No, I never fell off it.
+
+601
+00:39:08,549 --> 00:39:11,761
+I kept the stabilisers on, obviously.
+
+602
+00:39:11,801 --> 00:39:14,853
+Anyway, obviously you
+came here, I have to say,
+
+603
+00:39:14,893 --> 00:39:17,537
+Los Angeles, THIS morning...
+
+604
+00:39:17,577 --> 00:39:20,165
+I came from the airport
+straight here and into the car.
+
+605
+00:39:20,205 --> 00:39:23,009
+So you're... Well, what are
+we, ten hours out... Yeah.
+
+606
+00:39:23,049 --> 00:39:24,945
+I have no idea what time...
+
+607
+00:39:24,985 --> 00:39:28,525
+I'll tell you what time it is. It's
+- 6:30am, so it's time you were up.
+
+608
+00:39:28,565 --> 00:39:31,557
+I think there should be a new category,
+which is, instead of just "W" for "wet",
+
+609
+00:39:31,597 --> 00:39:33,213
+there should be "JL" for jet lag. Jet lag.
+And I believe... Was it damp out there as well?
+
+610
+00:39:33,253 --> 00:39:37,933
+It was damp-ish.
+
+611
+00:39:37,973 --> 00:39:42,257
+So that's jet-lagged and damp. And there
+were people shooting bows and arrows.
+
+612
+00:39:42,297 --> 00:39:45,933
+Shooting bows and arrows. Many, many
+things we have to write down. Many.
+
+613
+00:39:45,973 --> 00:39:49,741
+Jet-lagged, damp, bows and arrows.
+And I'm Welsh. And you're Welsh.
+
+614
+00:39:49,781 --> 00:39:51,413
+LAUGHTER
+
+615
+00:39:51,453 --> 00:39:53,509
+In fact, who are the other
+Welsh people on there?
+
+616
+00:39:53,549 --> 00:39:56,181
+Have I got a chance
+of being top Welshman?
+
+617
+00:39:56,221 --> 00:39:59,229
+Alan Davies, is he Welsh? Or does he
+just have a name... He's not Welsh.
+
+618
+00:39:59,269 --> 00:40:03,665
+Rob Brydon. Rob Brydon
+- where's he?
+
+619
+00:40:03,705 --> 00:40:08,025
+Tom Jones. It would be good to beat
+- Dame Helen Mirren, wouldn't it?
+
+620
+00:40:08,065 --> 00:40:12,509
+She's here. Tom Jones did. Tom Jones is on
+top of Helen Mirren, not for the first time!
+
+621
+00:40:12,549 --> 00:40:14,949
+There's Rob Brydon,
+just below Keith Allen.
+
+622
+00:40:14,989 --> 00:40:18,665
+This is kind of Little Wales, here, this
+area. So this is where you're aiming for.
+
+623
+00:40:18,705 --> 00:40:23,009
+I want to be the fastest
+boy in the village.
+
+624
+00:40:23,049 --> 00:40:25,133
+That's Little Britain.
+I've just got that.
+
+625
+00:40:25,173 --> 00:40:27,869
+I'm there! See, even
+jet-lagged, I'm on form, Jeremy!
+
+626
+00:40:27,909 --> 00:40:29,133
+LAUGHTER
+
+627
+00:40:29,173 --> 00:40:30,413
+Who'd like to see the lap?
+
+628
+00:40:30,453 --> 00:40:33,089
+ALL: Yeah! Let's have a look at this.
+
+629
+00:40:33,129 --> 00:40:34,949
+Oh, dear Lord...
+
+630
+00:40:34,989 --> 00:40:45,133
+TYRES SCREECH
+
+631
+00:40:45,173 --> 00:40:47,325
+Nice, smooth gear change.
+'He's really ruined that.'
+
+632
+00:40:47,365 --> 00:40:49,073
+So here we go, coming up to
+the first corner... Ooh, I say,
+
+633
+00:40:49,113 --> 00:40:51,493
+that's a vigorous turn in there.
+
+634
+00:40:51,533 --> 00:40:56,045
+Right, so we're not going
+for the smooth approach.
+
+635
+00:40:56,085 --> 00:40:57,965
+Brake, you BLEEP, brake!
+
+636
+00:40:58,005 --> 00:40:59,841
+LAUGHTER
+
+637
+00:40:59,881 --> 00:41:02,201
+I like the hands on the
+wheel there. That's wide!
+
+638
+00:41:02,241 --> 00:41:04,809
+This really is...
+
+639
+00:41:04,849 --> 00:41:07,933
+Don't go into fourth, Michael,
+go into second, try that!
+
+640
+00:41:07,973 --> 00:41:11,841
+Well, one'll do! No, you're
+supposed to LOOK slow,
+
+641
+00:41:11,881 --> 00:41:16,089
+so that you're actually...
+That's not looking slow.
+
+642
+00:41:16,129 --> 00:41:18,089
+That's looking wide again.
+
+643
+00:41:18,129 --> 00:41:19,885
+The Stig did say,
+well, he communicated...
+
+644
+00:41:19,925 --> 00:41:22,653
+Textbook. Absolute textbook.
+
+645
+00:41:22,693 --> 00:41:24,337
+LAUGHTER
+
+646
+00:41:24,377 --> 00:41:26,561
+That's not what The Stig
+said. He said "clunky".
+
+647
+00:41:26,601 --> 00:41:30,433
+"Clunky but brave" is how he
+described you. Clunky but brave!
+
+648
+00:41:30,473 --> 00:41:33,997
+It's not healthy, that's
+not healthy, Michael!
+
+649
+00:41:34,037 --> 00:41:35,541
+Looking very Welsh.
+
+650
+00:41:35,581 --> 00:41:37,029
+That's pretty quick!
+
+651
+00:41:37,069 --> 00:41:38,561
+Oh-oh! Yes!
+
+652
+00:41:38,601 --> 00:41:40,057
+Now you go... Look...
+
+653
+00:41:40,097 --> 00:41:42,185
+Holy cow, that's quick!
+
+654
+00:41:42,225 --> 00:41:43,933
+That's very quick!
+
+655
+00:41:43,973 --> 00:41:45,261
+Now, what about Gambon?
+
+656
+00:41:45,301 --> 00:41:46,589
+Bloody hell, look at that!
+
+657
+00:41:46,629 --> 00:41:49,873
+And across the line! That was amazing.
+
+658
+00:41:49,913 --> 00:41:55,389
+CHEERING
+
+659
+00:41:55,429 --> 00:42:02,137
+I have here... Mm, mm,
+mm-mm-mm mm-mm-mm... LAUGHTER
+
+660
+00:42:02,177 --> 00:42:04,981
+If it's under Roger
+Bannister's mile, I'll be happy.
+
+661
+00:42:05,021 --> 00:42:06,921
+Under four minutes.
+
+662
+00:42:06,961 --> 00:42:10,545
+So you want to be somewhere down...
+- The top of the Welsh zone.
+
+663
+00:42:10,585 --> 00:42:15,373
+It would be nice if I was, you know, above
+Helen, and I would love it if I was above Rob.
+
+664
+00:42:15,413 --> 00:42:20,109
+So they're all around the one...
+Rob's 1:51.7, but that was wet.
+
+665
+00:42:20,149 --> 00:42:23,829
+Michael Sheen, you
+did it in one minute...
+
+666
+00:42:23,869 --> 00:42:25,293
+Yes...
+
+667
+00:42:25,333 --> 00:42:27,213
+..forty...
+
+668
+00:42:27,253 --> 00:42:30,249
+..six, point three.
+
+669
+00:42:30,289 --> 00:42:32,309
+Good Lord!
+
+670
+00:42:32,349 --> 00:42:35,421
+APPLAUSE AND CHEERING
+
+671
+00:42:36,557 --> 00:42:37,829
+Seriously.
+
+672
+00:42:37,869 --> 00:42:39,421
+How did that happen?
+
+673
+00:42:39,461 --> 00:42:41,361
+That was a brave lap.
+
+674
+00:42:41,401 --> 00:42:43,313
+Gordon Ramsay just committed suicide.
+
+675
+00:42:43,353 --> 00:42:45,749
+I'm sort of mystified.
+
+676
+00:42:45,789 --> 00:42:50,389
+That was very fast. You can see it,
+- cos you were doing a million down the straight.
+
+677
+00:42:50,429 --> 00:42:52,485
+I heard that Tom Jones
+didn't want to come in,
+
+678
+00:42:52,525 --> 00:42:55,093
+and it must be something Welsh,
+cos I didn't want to stop,
+
+679
+00:42:55,133 --> 00:42:59,577
+I wanted to keep going. I could
+have beaten Jay Kay. Help yourself!
+
+680
+00:42:59,617 --> 00:43:01,845
+There's still 20
+minutes of daylight left.
+
+681
+00:43:01,885 --> 00:43:04,701
+Ladies and gentlemen, Michael Sheen!
+
+682
+00:43:04,741 --> 00:43:07,437
+Thank you very much.
+
+683
+00:43:07,477 --> 00:43:15,329
+Thank you very much.
+
+684
+00:43:15,369 --> 00:43:20,341
+Now, earlier on, we built
+an electric car called Geoff,
+
+685
+00:43:20,381 --> 00:43:23,081
+and he was...a disaster.
+
+686
+00:43:23,121 --> 00:43:25,217
+Now, I'm not one to apportion blame,
+
+687
+00:43:25,257 --> 00:43:27,813
+but it was entirely James' fault.
+
+688
+00:43:27,853 --> 00:43:29,625
+Why?
+
+689
+00:43:29,665 --> 00:43:32,441
+Well, because...Jeremy's
+body was brilliant...
+
+690
+00:43:32,481 --> 00:43:35,893
+Er, not Jeremy's actual
+body, cos that's horrible.
+
+691
+00:43:35,933 --> 00:43:38,013
+The one on the car. My
+chassis was brilliant,
+
+692
+00:43:38,053 --> 00:43:42,005
+and your battery system was
+terrible. Well, it wasn't! Well...
+
+693
+00:43:42,045 --> 00:43:46,329
+it was. And, as a result, Geoff
+ended up crashed into a wood.
+
+694
+00:43:46,369 --> 00:43:49,061
+We didn't give up. We decided
+to go back to the drawing board,
+
+695
+00:43:49,101 --> 00:43:53,501
+and build Geoff II.
+
+696
+00:43:53,541 --> 00:43:59,877
+Back at the Top Gear Technology Centre, I fitted
+narrower wheels which would reduce friction.
+
+697
+00:43:59,917 --> 00:44:04,221
+And James, mercifully,
+found some more batteries.
+
+698
+00:44:04,261 --> 00:44:07,205
+I've also devised a
+very, very clever way
+
+699
+00:44:07,245 --> 00:44:12,017
+of recharging them
+while we're on the move.
+
+700
+00:44:12,057 --> 00:44:15,329
+Meanwhile, in the mood
+room, Jeremy had decided
+
+701
+00:44:15,369 --> 00:44:19,049
+Geoff should no longer be called Geoff.
+
+702
+00:44:19,089 --> 00:44:20,989
+Hammerhead.
+
+703
+00:44:21,029 --> 00:44:24,285
+Hammerhead Shark. That's a dolphin.
+
+704
+00:44:24,325 --> 00:44:26,253
+I know, but it's like
+a hammerhead shark.
+
+705
+00:44:26,293 --> 00:44:28,629
+Not really. It lives in the sea. Yeah...
+
+706
+00:44:28,669 --> 00:44:32,501
+I'll tell you the other thing
+we've got to have, is the letter I.
+
+707
+00:44:32,541 --> 00:44:35,425
+Why? Because if you put
+little i, not capital I,
+
+708
+00:44:35,465 --> 00:44:37,253
+little i with a little dot on it,
+
+709
+00:44:37,293 --> 00:44:40,005
+it tells everyone who
+sees it that it's eco,
+
+710
+00:44:40,045 --> 00:44:45,189
+and that's OK. Doesn't. It does,
+cos ecomentalists are stupid.
+
+711
+00:44:45,229 --> 00:44:54,645
+After many days of development,
+ournew, improved car was finally ready.
+
+712
+00:44:54,685 --> 00:44:57,785
+But Jeremy, you haven't done anything.
+
+713
+00:44:57,825 --> 00:44:59,725
+You can't improve on perfection.
+
+714
+00:44:59,765 --> 00:45:02,221
+Anyway, I have done something. Look.
+
+715
+00:45:02,261 --> 00:45:04,645
+An energy-absorbing front end.
+
+716
+00:45:04,685 --> 00:45:08,053
+You can have massive accidents
+and no damage will be caused.
+
+717
+00:45:08,093 --> 00:45:10,473
+You could run this into
+a wood at top speed -
+
+718
+00:45:10,513 --> 00:45:12,833
+nothing would happen.
+
+719
+00:45:12,873 --> 00:45:17,473
+Then James unveiled his
+radical new propulsion system.
+
+720
+00:45:17,513 --> 00:45:23,833
+Look at this! Batteries as before. But a few more
+of them for extra power. Here's the clever bit.
+
+721
+00:45:23,873 --> 00:45:29,085
+They're recharged by that.
+That is a diesel generator.
+
+722
+00:45:29,125 --> 00:45:32,909
+That charges the batteries? Yeah.
+that a generator just from a shop?
+
+723
+00:45:32,949 --> 00:45:38,961
+Yeah. So, we've made a hybrid?! Yeah, sort of! No, because a hybrid
+- uses a normal engine
+
+724
+00:45:39,001 --> 00:45:43,005
+that drives the wheels. A hybrid is
+- a normal car for fools.
+
+725
+00:45:43,045 --> 00:45:49,661
+This just charges the battery. a diesel electric.
+I got the idea from old railway locomotives.
+
+726
+00:45:49,701 --> 00:45:54,849
+So you just run the generator. means that
+you'll never run out electricity. Exactly. Yeah.
+
+727
+00:45:54,889 --> 00:45:58,053
+Uses a tiny amount of fuel.
+
+728
+00:45:58,093 --> 00:46:03,037
+Yeah! Seriously, credit where credit's due!
+That's not something you hear often on Top Gear.
+
+729
+00:46:03,077 --> 00:46:07,525
+Or ever, even! That's actually
+quite a good idea. Thank you.
+
+730
+00:46:07,565 --> 00:46:11,053
+And this will go like stink.
+
+731
+00:46:11,093 --> 00:46:28,849
+And it did!
+
+732
+00:46:28,889 --> 00:46:32,253
+Well, that's brilliant! It's
+a hybrid! We've built a Prius!
+
+733
+00:46:32,293 --> 00:46:34,741
+You don't think the producers are
+messing with the subtitles, do you?
+
+734
+00:46:34,781 --> 00:46:37,973
+No! They wouldn't do that!
+
+735
+00:46:38,013 --> 00:46:42,101
+Since our amazing Eagle i
+Thrust Head had cost Â£1,000 less
+
+736
+00:46:42,141 --> 00:46:45,477
+than a G-Wiz, we
+decided it was brilliant,
+
+737
+00:46:45,517 --> 00:46:49,585
+and that we should put it on
+sale to the general public.
+
+738
+00:46:49,625 --> 00:46:56,197
+However, before you can do that, it
+must pass a series of stringent EU tests.
+
+739
+00:46:56,237 --> 00:46:59,681
+So we took the Eagle Thrust to
+the motor industry's top secret
+
+740
+00:46:59,721 --> 00:47:08,273
+proving ground, just off the A5 between
+Atherstone and Hinckley near Fenny Drayton.
+
+741
+00:47:08,313 --> 00:47:12,229
+When we get out, remember, be
+positive, be positive! Yes! Positive!
+
+742
+00:47:12,269 --> 00:47:14,973
+Everyone's a customer!
+
+743
+00:47:15,013 --> 00:47:19,477
+We started with one of the biggies.
+- A crash test.
+
+744
+00:47:19,517 --> 00:47:22,509
+We've all seen these. A car
+is loaded up with dummies
+
+745
+00:47:22,549 --> 00:47:26,305
+and fired into a concrete block,
+whilst super slow motion cameras
+
+746
+00:47:26,345 --> 00:47:32,945
+record the impact.
+
+747
+00:47:32,985 --> 00:47:38,229
+I, however, am so confident about
+the Hammerhead-i Eagle Thrust,
+
+748
+00:47:38,269 --> 00:47:42,993
+that we will be using a
+different sort of dummy.
+
+749
+00:47:43,033 --> 00:47:45,977
+Don't worry, we're coming as well.
+
+750
+00:47:46,017 --> 00:47:48,821
+There you go. Done. Can
+you paint one on my face?
+
+751
+00:47:48,861 --> 00:47:53,461
+Why do crash test dummies have
+these things? I don't know.
+
+752
+00:47:53,501 --> 00:47:58,085
+For the slow motion camera that records
+the impact. It gives you a datum point.
+
+753
+00:47:58,125 --> 00:48:01,541
+Oh, I'm not interested in datum points... I didn't
+think it was fashion amongst crash test dummies.
+
+754
+00:48:01,581 --> 00:48:04,133
+Are you sure about your
+new bumper design? Yeah.
+
+755
+00:48:04,173 --> 00:48:06,605
+Thank you very much.
+
+756
+00:48:06,645 --> 00:48:12,589
+Hang on.
+
+757
+00:48:12,629 --> 00:48:14,413
+We were a bit frightened
+
+758
+00:48:14,453 --> 00:48:16,789
+when we saw the concrete crash block,
+
+759
+00:48:16,829 --> 00:48:19,841
+because we had to
+crash into it at 30mph.
+
+760
+00:48:19,881 --> 00:48:22,741
+But then Jeremy had a brainwave.
+
+761
+00:48:22,781 --> 00:48:25,557
+Remember what I told you.
+
+762
+00:48:25,597 --> 00:48:28,325
+It's a very, very good plan this.
+
+763
+00:48:28,365 --> 00:48:37,481
+OK. Now, let's see the
+slow motion crash footage.
+
+764
+00:48:37,521 --> 00:48:42,901
+We're going to
+cra-a-a-a-sh.
+
+765
+00:48:42,941 --> 00:48:47,461
+
+
+767
+00:48:52,005 --> 00:48:56,809
+Ohhhhhh!
+
+768
+00:48:56,849 --> 00:48:58,337
+Ohhhhhh!
+
+769
+00:48:58,377 --> 00:49:04,653
+Ow...my...chest.
+
+770
+00:49:04,693 --> 00:49:09,213
+Do you think we fooled them? Yeah!
+Yeah. We're alive! We're alive! Wow!
+
+771
+00:49:09,253 --> 00:49:11,169
+We sur... That was...
+
+772
+00:49:11,209 --> 00:49:14,541
+It's not even marked! Oh, man,
+that was, oh...! Staggering!
+
+773
+00:49:14,581 --> 00:49:17,965
+I think this is very convincing.
+
+774
+00:49:18,005 --> 00:49:25,589
+Shush, shush, OK, it's now time to watch
+that crash at the speed it actually happened.
+
+775
+00:49:25,629 --> 00:49:27,949
+We're going to crash!
+
+776
+00:49:27,989 --> 00:49:29,765
+Ooh! Oh, my nose!
+
+777
+00:49:29,805 --> 00:49:33,949
+Oh! Oh! Ow, my chest!
+
+778
+00:49:33,989 --> 00:49:38,793
+And there we are, a superb
+result in the crash test.
+
+779
+00:49:38,833 --> 00:49:43,889
+So, let's move on, shall we
+and do...the pendulum test!
+
+780
+00:49:43,929 --> 00:49:46,697
+This is designed to measure
+how a car will stand up
+
+781
+00:49:46,737 --> 00:49:55,261
+to being side-swiped
+by a bus or a truck.
+
+782
+00:49:55,301 --> 00:50:01,293
+Frankly, it was hard to see how we could possible
+pass this, but then James came up with a plan.
+
+783
+00:50:01,333 --> 00:50:04,545
+We need a camera. Yeah.
+
+784
+00:50:04,585 --> 00:50:08,765
+A plan that would fool even
+the most astute EU bureaucrat.
+
+785
+00:50:08,805 --> 00:50:13,949
+Action! Wow! Wow! Wow! THEY LAUGH
+
+786
+00:50:13,989 --> 00:50:16,233
+Pendulum!
+
+787
+00:50:16,273 --> 00:50:18,169
+TOU KOOL!
+
+788
+00:50:18,209 --> 00:50:26,281
+Oh, right. So, now our car is going
+- to face the fearsome pendulum test.
+
+789
+00:50:26,321 --> 00:50:28,965
+SPEECH IS REVERSED
+
+790
+00:50:29,005 --> 00:50:31,669
+PENDULUM CLANGS
+
+791
+00:50:31,709 --> 00:50:34,573
+Wow! Wow! Wow!
+
+792
+00:50:34,613 --> 00:50:39,249
+Wow indeed! Another pass! And happy
+- that our car was completely safe,
+
+793
+00:50:39,289 --> 00:50:42,593
+we lined it up for a drag race.
+
+794
+00:50:42,633 --> 00:50:49,889
+We would be up against a Toyota Prius.
+
+795
+00:50:49,929 --> 00:50:51,777
+Chris Hoy's next-door neighbour.
+
+796
+00:50:51,817 --> 00:50:55,389
+Hannah...the fastest girl in our office.
+
+797
+00:50:55,429 --> 00:50:59,517
+And our main rival, the G-Wiz.
+
+798
+00:50:59,557 --> 00:51:04,125
+This was the quietest starting line
+- in drag racing history.
+
+799
+00:51:04,165 --> 00:51:06,981
+ENGINE STARTS
+
+800
+00:51:07,021 --> 00:51:08,953
+Until Hammond started the generator.
+
+801
+00:51:08,993 --> 00:51:13,293
+OK, this is it! The future is here!
+
+802
+00:51:13,333 --> 00:51:19,469
+Three, two, one!
+
+803
+00:51:19,509 --> 00:51:23,081
+Did he jump the start? No.
+
+804
+00:51:23,121 --> 00:51:26,361
+I am so in the lead, straight away!
+
+805
+00:51:26,401 --> 00:51:30,389
+Oh! The Toyota's gone!
+
+806
+00:51:30,429 --> 00:51:34,005
+Where's the G-Wiz? I am all over it!
+
+807
+00:51:34,045 --> 00:51:38,205
+Come on!
+
+808
+00:51:38,245 --> 00:51:41,645
+This is brilliant! I'm going to win,
+- I'm going to win!
+
+809
+00:51:41,685 --> 00:51:49,845
+Yes! Yes! Yes!
+
+810
+00:51:49,885 --> 00:51:52,237
+JEREMY LAUGHS Yes!
+
+811
+00:51:52,277 --> 00:51:54,157
+He beat the G-Wiz! By a mile!
+
+812
+00:51:54,197 --> 00:51:55,749
+He beat the G-Wiz!
+
+813
+00:51:55,789 --> 00:51:57,893
+And as ever, Hammond
+was gracious in victory!
+
+814
+00:51:57,933 --> 00:52:00,577
+Yeah! Ha, ha, ha, ha!
+
+815
+00:52:00,617 --> 00:52:01,957
+Oh, yeah!
+
+816
+00:52:01,997 --> 00:52:03,597
+What do you think of that, then?
+
+817
+00:52:03,637 --> 00:52:07,845
+With your stupid little plastic gerbil!
+
+818
+00:52:07,885 --> 00:52:11,421
+Next we had to drive on
+the fearsome Belgian Pave,
+
+819
+00:52:11,461 --> 00:52:15,421
+in a test designed to measure
+both comfort and build quality.
+
+820
+00:52:15,461 --> 00:52:17,285
+VEHICLE CLANGS ALONG
+
+821
+00:52:17,325 --> 00:52:19,861
+THEY SHOUT WITH DISCOMFORT
+
+822
+00:52:19,901 --> 00:52:22,297
+Oh! Haw, haw, haw!
+
+823
+00:52:22,337 --> 00:52:28,113
+The chassis is smashing into the ground. It's
+his generator weighs too much for my suspension.
+
+824
+00:52:28,153 --> 00:52:30,189
+Ow!
+
+825
+00:52:30,229 --> 00:52:33,769
+James! What?! The chimney's come off!
+
+826
+00:52:33,809 --> 00:52:36,689
+Oh! Oh! That's quite...
+
+827
+00:52:36,729 --> 00:52:38,881
+Quite a lot of smoke in here!
+
+828
+00:52:38,921 --> 00:52:42,521
+THEY COUGH It's all
+collecting in my Pope box!
+
+829
+00:52:42,561 --> 00:52:44,801
+VEHICLE CLANGS AND CLANKS Ow!
+
+830
+00:52:44,841 --> 00:52:48,533
+But we're still going!
+
+831
+00:52:48,573 --> 00:52:50,957
+Yeah, we're hammering now!
+
+832
+00:52:50,997 --> 00:52:53,597
+Ow!
+
+833
+00:52:53,637 --> 00:52:56,141
+Oh! Has one of the doors fallen off?
+
+834
+00:52:56,181 --> 00:52:59,333
+No! No? Well then we
+passed! I think we have.
+
+835
+00:52:59,373 --> 00:53:05,285
+It's an EU regulation. Is it? It actually
+says if the doors are on after doing this,
+
+836
+00:53:05,325 --> 00:53:10,645
+then you've passed!
+Well, they're still on!
+
+837
+00:53:10,685 --> 00:53:14,769
+Although we'd been a bit
+gassed, the torture wasn't over!
+
+838
+00:53:14,809 --> 00:53:19,709
+So we re-attached the stove pipe and
+went to see how the Eagle i-Thrust
+
+839
+00:53:19,749 --> 00:53:23,253
+would perform in the fearsome steep
+- hill test.
+
+840
+00:53:23,293 --> 00:53:27,881
+OK, we're off!
+
+841
+00:53:27,921 --> 00:53:35,069
+GRILLE CLANGS Come on!
+
+842
+00:53:35,109 --> 00:53:46,165
+Come on.
+
+843
+00:53:46,205 --> 00:53:49,849
+I think we've passed this! Yeah!
+Well done, everybody, that's good!
+
+844
+00:53:49,889 --> 00:53:52,145
+Yeah, we've passed. I bet the
+G-Wiz wouldn't get up here.
+
+845
+00:53:52,185 --> 00:53:54,301
+I bet it wouldn't! No!
+
+846
+00:53:54,341 --> 00:53:59,069
+In the interest of fairness, we decided
+to see how the G-Wiz would get on.
+
+847
+00:53:59,109 --> 00:54:04,833
+Using, of course, an
+independent test driver!
+
+848
+00:54:04,873 --> 00:54:07,629
+Is he good, this guy?
+
+849
+00:54:07,669 --> 00:54:11,913
+He's independent, that's
+the important thing.
+
+850
+00:54:11,953 --> 00:54:15,381
+It's Â£1,000 more than our
+car, this. Hard to believe.
+
+851
+00:54:15,421 --> 00:54:18,553
+Will it go 1,000 feet higher
+up this hill? Let's see!
+
+852
+00:54:18,593 --> 00:54:21,085
+Oh! It... Uh...
+
+853
+00:54:21,125 --> 00:54:22,929
+It's struggling!
+
+854
+00:54:22,969 --> 00:54:27,149
+Now that's a failure! Yeah, there
+you go! Right there, that's a failure!
+
+855
+00:54:27,189 --> 00:54:34,005
+The Ham Head Eagle i was sailing through
+every test the EU could throw at it!
+
+856
+00:54:34,045 --> 00:54:36,585
+But then it was time to
+head to the wind tunnel
+
+857
+00:54:36,625 --> 00:54:41,457
+where we could measure the
+aerodynamic efficiency of that body.
+
+858
+00:54:41,497 --> 00:54:45,989
+Where's Hammond? I'll call him.
+
+859
+00:54:46,029 --> 00:54:48,853
+Hello, lads. We gonna get
+on with this? THEY LAUGH
+
+860
+00:54:48,893 --> 00:54:52,273
+Let's get going. What?! That
+works! What? What? Nothing! Nothing!
+
+861
+00:54:52,313 --> 00:54:55,133
+Well come on, then, how does it work?
+I don't know. How hard can it be?
+
+862
+00:54:55,173 --> 00:54:58,885
+Ready! FANS START
+
+863
+00:54:58,925 --> 00:55:02,993
+FANS WHIRR Yes! Look
+at this! Oh, my God!
+
+864
+00:55:03,033 --> 00:55:07,245
+There we go, 12. 13. Here
+we go. Look at the speed!
+
+865
+00:55:07,285 --> 00:55:15,681
+28mph. I'm gonna take
+this baby up a bit!
+
+866
+00:55:15,721 --> 00:55:18,537
+When the body work ripples like
+that, it does look beautiful.
+
+867
+00:55:18,577 --> 00:55:20,305
+It looks like a fish!
+
+868
+00:55:20,345 --> 00:55:25,365
+A really square fish with wooden ears.
+
+869
+00:55:25,405 --> 00:55:31,177
+It's also moving. It's moving.
+Did you put the handbrake on?
+
+870
+00:55:31,217 --> 00:55:35,229
+Now, that's... Stop it or it'll go
+in the fans! No, make it stop now!
+
+871
+00:55:35,269 --> 00:55:39,197
+Stop! Stop it, Jeeves! Stop it!
+
+872
+00:55:39,237 --> 00:55:41,761
+How do you stop the bloody fan?!
+
+873
+00:55:41,801 --> 00:55:45,605
+CRASHING
+
+874
+00:55:45,645 --> 00:55:49,617
+Despite the slight issue with the fans,
+we decided that our car had passed.
+
+875
+00:55:49,657 --> 00:55:53,525
+So we moved on to what
+would be the final hurdle.
+
+876
+00:55:53,565 --> 00:55:56,121
+The i-Ham would be
+driven round the clock,
+
+877
+00:55:56,161 --> 00:56:01,713
+flat out on the proving ground's
+test track, to measure it's range.
+
+878
+00:56:01,753 --> 00:56:05,557
+Obviously, in these conditions,
+it's damp, there's a bit of drizzle
+
+879
+00:56:05,597 --> 00:56:09,229
+in the air. The concentration
+required to do this,
+
+880
+00:56:09,269 --> 00:56:15,229
+is just immense! It's too demanding, we
+couldn't do that. No. But we know a man who can!
+
+881
+00:56:15,269 --> 00:56:19,821
+He's not the Stig, but he is
+the Stig's vegetarian cousin.
+
+882
+00:56:19,861 --> 00:56:21,869
+# All the leaves are brown
+
+883
+00:56:21,909 --> 00:56:26,805
+# And the sky is grey
+
+884
+00:56:26,845 --> 00:56:30,073
+# I've been for a walk... #
+
+885
+00:56:30,113 --> 00:56:36,841
+What's he called? His name
+is...Janet Stig Porter. Oh!
+
+886
+00:56:36,881 --> 00:56:39,213
+Right! Fire up that generator!
+
+887
+00:56:39,253 --> 00:56:42,637
+ENGINE STARTS
+
+888
+00:56:42,677 --> 00:56:46,293
+Go!
+
+889
+00:56:46,333 --> 00:56:52,917
+Look at the speed of him.
+
+890
+00:56:52,957 --> 00:56:57,949
+James, how long, realistically, are
+- you expecting that to keep going?
+
+891
+00:56:57,989 --> 00:57:00,917
+Well, I've topped up the
+geni-tank,- so that's eight hours
+
+892
+00:57:00,957 --> 00:57:04,541
+on the generator. And that fully
+charges the batteries as well,
+
+893
+00:57:04,581 --> 00:57:07,229
+so you get another hour out
+of those, just the batteries.
+
+894
+00:57:07,269 --> 00:57:19,213
+So realistically, you're looking
+for nine hours of running? Yeah.
+
+895
+00:57:19,253 --> 00:57:28,229
+SIRENS WAIL
+
+896
+00:57:28,269 --> 00:57:32,229
+What's happened there is...
+Well, the Stig's died. Yeah.
+
+897
+00:57:32,269 --> 00:57:34,745
+And that's because the
+stove pipe came off.
+
+898
+00:57:34,785 --> 00:57:41,057
+Now if we re-attach that stove I think
+I'm right in saying, am I not, gentlemen,
+
+899
+00:57:41,097 --> 00:57:48,325
+that the Thrust i Eagle Hammer Head
+- is ready for its road test. Yes. It's ready.
+
+900
+00:57:48,365 --> 00:57:51,873
+Obviously, we couldn't do
+that, because we'd be biased,
+
+901
+00:57:51,913 --> 00:57:58,605
+so we decided to lend it to Britain's oldest
+motoring magazine for an independent review.
+
+902
+00:57:58,645 --> 00:58:02,153
+They test all the latest cars
+and innovations and to make sure
+
+903
+00:58:02,193 --> 00:58:06,389
+they didn't realise who were the
+brains behind the Eagle Head i Hammer,
+
+904
+00:58:06,429 --> 00:58:13,029
+we had it dropped off
+by an anonymous driver.
+
+905
+00:58:13,069 --> 00:58:19,701
+Hello, how can I help you?
+
+906
+00:58:19,741 --> 00:58:33,293
+All we could do now was
+wait for their verdict.
+
+907
+00:58:33,333 --> 00:58:39,889
+CHEERING AND APPLAUSE
+
+908
+00:58:39,929 --> 00:58:47,217
+Now, we have been sent advanced copies
+of the magazine that has reviewed our car.
+
+909
+00:58:47,257 --> 00:58:49,497
+Here it is! HE GASPS
+
+910
+00:58:49,537 --> 00:58:52,701
+We're on the cover! We're on the cover!
+
+911
+00:58:52,741 --> 00:58:56,137
+We have! Right, where is it?
+
+912
+00:58:56,177 --> 00:59:04,389
+The Eagle... Right, here we go!
+
+913
+00:59:04,429 --> 00:59:11,137
+LAUGHTER
+
+914
+00:59:11,177 --> 00:59:17,829
+Erm...it says in the ride and handling section
+where they deal with things like the chassis,
+
+915
+00:59:17,869 --> 00:59:23,013
+that to all intents and purposes, the Hammer Head
+Eagle i-Thrust has no ride and handling as such,
+
+916
+00:59:23,053 --> 00:59:25,857
+instead it lurches around
+almost uncontrollably.
+
+917
+00:59:25,897 --> 00:59:28,797
+LAUGHTER
+
+918
+00:59:28,837 --> 00:59:32,593
+Oh, God Almighty, no, it
+gets worse! Listen to this.
+
+919
+00:59:32,633 --> 00:59:36,985
+They say that in the Highway Code, they say the stopping distance from
+- 70mph is 215 feet.
+

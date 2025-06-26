@@ -1,0 +1,170 @@
+{
+    "1": {
+        "title": "Within",
+        "released": "2000-11-05",
+        "rating": "8.2",
+        "imdb_id": "tt0751262",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S8\\The_X-Files_S08E01_Within_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S8E1.zip"
+    },
+    "2": {
+        "title": "Without",
+        "released": "2000-11-12",
+        "rating": "8.2",
+        "imdb_id": "tt0751263",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S8\\The_X-Files_S08E02_Without_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S8E2.zip"
+    },
+    "3": {
+        "title": "Patience",
+        "released": "2000-11-19",
+        "rating": "7.4",
+        "imdb_id": "tt0751176",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S8\\The_X-Files_S08E03_Patience_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S8E3.zip"
+    },
+    "4": {
+        "title": "Roadrunners",
+        "released": "2000-11-26",
+        "rating": "N/A",
+        "imdb_id": "tt0751192",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S8\\The_X-Files_S08E04_Roadrunners_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S8E4.zip"
+    },
+    "5": {
+        "title": "Invocation",
+        "released": "2000-12-03",
+        "rating": "7.6",
+        "imdb_id": "tt0751143",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S8\\The_X-Files_S08E05_Invocation_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S8E5.zip"
+    },
+    "6": {
+        "title": "Redrum",
+        "released": "2000-12-10",
+        "rating": "8.3",
+        "imdb_id": "tt0751186",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S8\\The_X-Files_S08E06_Redrum_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S8E6.zip"
+    },
+    "7": {
+        "title": "Via Negativa",
+        "released": "2000-12-17",
+        "rating": "7.5",
+        "imdb_id": "tt0751257",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S8\\The_X-Files_S08E07_Via_Negativa_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S8E7.zip"
+    },
+    "8": {
+        "title": "Surekill",
+        "released": "2001-01-07",
+        "rating": "6.8",
+        "imdb_id": "tt0751210",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S8\\The_X-Files_S08E08_Surekill_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S8E8.zip"
+    },
+    "9": {
+        "title": "Salvage",
+        "released": "2001-01-14",
+        "rating": "6.7",
+        "imdb_id": "tt0751196",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S8\\The_X-Files_S08E09_Salvage_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S8E9.zip"
+    },
+    "10": {
+        "title": "Badlaa",
+        "released": "2001-01-21",
+        "rating": "6.8",
+        "imdb_id": "tt0751082",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Gift",
+        "released": "2001-02-04",
+        "rating": "7.7",
+        "imdb_id": "tt0751226",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Medusa",
+        "released": "2001-02-11",
+        "rating": "7.3",
+        "imdb_id": "tt0751157",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Per Manum",
+        "released": "2001-02-18",
+        "rating": "7.8",
+        "imdb_id": "tt0751178",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "This Is Not Happening",
+        "released": "2001-02-25",
+        "rating": "8.2",
+        "imdb_id": "tt0751242",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Deadalive",
+        "released": "2001-04-01",
+        "rating": "8.2",
+        "imdb_id": "tt0751098",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Three Words",
+        "released": "2001-04-08",
+        "rating": "8.0",
+        "imdb_id": "tt0751243",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Empedocles",
+        "released": "2001-04-22",
+        "rating": "7.1",
+        "imdb_id": "tt0751112",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Vienen",
+        "released": "2001-04-29",
+        "rating": "7.8",
+        "imdb_id": "tt0751258",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Alone",
+        "released": "2001-05-06",
+        "rating": "7.8",
+        "imdb_id": "tt0751072",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Essence",
+        "released": "2001-05-13",
+        "rating": "8.3",
+        "imdb_id": "tt0751115",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Existence",
+        "released": "2001-05-20",
+        "rating": "N/A",
+        "imdb_id": "tt0751118",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

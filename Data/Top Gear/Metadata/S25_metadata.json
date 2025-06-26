@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Episode #25.1",
+        "released": "2018-03-03",
+        "rating": "6.0",
+        "imdb_id": "tt8064578",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S25\\Top.Gear.S25E01.720p.HDTV.2CH.x265.HEVC.PSAS25E1.zip"
+    },
+    "2": {
+        "title": "Episode #25.2",
+        "released": "2018-03-04",
+        "rating": "6.2",
+        "imdb_id": "tt8105610",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #25.3",
+        "released": "2018-03-11",
+        "rating": "6.7",
+        "imdb_id": "tt8120038",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S17\\Top.Gear.S17E03.HDTV.XviD-RiVERS17E3.zip"
+    },
+    "4": {
+        "title": "Episode #25.4",
+        "released": "2018-03-18",
+        "rating": "6.2",
+        "imdb_id": "tt8146416",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S17\\Top.Gear.S17E04.HDTV.XviD-RiVERS17E4.zip"
+    },
+    "5": {
+        "title": "Episode #25.5",
+        "released": "2018-03-25",
+        "rating": "N/A",
+        "imdb_id": "tt8198436",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #25.6",
+        "released": "2018-04-01",
+        "rating": "5.5",
+        "imdb_id": "tt8200748",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

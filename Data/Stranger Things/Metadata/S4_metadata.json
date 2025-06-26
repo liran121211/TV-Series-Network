@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Chapter One: The Hellfire Club",
+        "released": "2022-05-27",
+        "rating": "8.1",
+        "imdb_id": "tt11043488",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Stranger Things\\Subtitles\\S4\\Stranger.Things.S04E01-E07.WEBRip.Netflix.en[cc]S4E1.zip"
+    },
+    "2": {
+        "title": "Chapter Two: Vecna's Curse",
+        "released": "2022-05-27",
+        "rating": "8.1",
+        "imdb_id": "tt11171932",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Chapter Three: The Monster and the Superhero",
+        "released": "2022-05-27",
+        "rating": "8.3",
+        "imdb_id": "tt11171954",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Chapter Four: Dear Billy",
+        "released": "2022-05-27",
+        "rating": "9.4",
+        "imdb_id": "tt11171978",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Chapter Five: The Nina Project",
+        "released": "2022-05-27",
+        "rating": "8.1",
+        "imdb_id": "tt11172000",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Chapter Six: The Dive",
+        "released": "2022-05-27",
+        "rating": "8.5",
+        "imdb_id": "tt11172012",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Chapter Seven: The Massacre at Hawkins Lab",
+        "released": "2022-05-27",
+        "rating": "9.6",
+        "imdb_id": "tt11172022",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Chapter Eight: Papa",
+        "released": "2022-07-01",
+        "rating": "8.6",
+        "imdb_id": "tt11172054",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Stranger Things\\Subtitles\\S4\\Stranger.Things.S04E08-E09.WEBRip.x264-ION10S4E8.zip"
+    },
+    "9": {
+        "title": "Chapter Nine: The Piggyback",
+        "released": "2022-07-01",
+        "rating": "9.1",
+        "imdb_id": "tt12810166",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

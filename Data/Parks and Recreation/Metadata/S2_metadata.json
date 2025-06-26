@@ -1,0 +1,194 @@
+{
+    "1": {
+        "title": "Pawnee Zoo",
+        "released": "2009-09-17",
+        "rating": "7.8",
+        "imdb_id": "tt1467703",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S2\\Parks.and.Recreation.S02E01.Pawnee.Zoo.1080p.AMZN.WEBRip.DD5.1.x264-NTbS2E1.zip"
+    },
+    "2": {
+        "title": "The Stakeout",
+        "released": "2009-09-24",
+        "rating": "8.0",
+        "imdb_id": "tt1490874",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S2\\Parks.and.Recreation.S02E02.The.Stakeout.1080p.AMZN.WEBRip.DD5.1.x264-NTbS2E2.zip"
+    },
+    "3": {
+        "title": "Beauty Pageant",
+        "released": "2009-10-01",
+        "rating": "7.6",
+        "imdb_id": "tt1490293",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S2\\Parks.and.Recreation.S02E03.Beauty.Pageant.1080p.AMZN.WEBRip.DD5.1.x264-NTbS2E3.zip"
+    },
+    "4": {
+        "title": "Practice Date",
+        "released": "2009-10-08",
+        "rating": "8.2",
+        "imdb_id": "tt1504600",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S2\\Parks.and.Recreation.S02E04.The.Practice.Date.1080p.AMZN.WEBRip.DD5.1.x264-NTbS2E4.zip"
+    },
+    "5": {
+        "title": "Sister City",
+        "released": "2009-10-15",
+        "rating": "7.6",
+        "imdb_id": "tt1504148",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S2\\Parks.and.Recreation.S02E05.Sister.City.1080p.AMZN.WEBRip.DD5.1.x264-NTbS2E5.zip"
+    },
+    "6": {
+        "title": "Kaboom",
+        "released": "2009-10-22",
+        "rating": "7.6",
+        "imdb_id": "tt1509675",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S2\\Parks.and.Recreation.S02E06.Kaboom.1080p.AMZN.WEBRip.DD5.1.x264-NTbS2E6.zip"
+    },
+    "7": {
+        "title": "Greg Pikitis",
+        "released": "2009-10-29",
+        "rating": "8.2",
+        "imdb_id": "tt1523800",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S2\\Parks.and.Recreation.S02E07.Greg.Pikitis.1080p.AMZN.WEBRip.DD5.1.x264-NTbS2E7.zip"
+    },
+    "8": {
+        "title": "Ron and Tammy",
+        "released": "2009-11-05",
+        "rating": "8.3",
+        "imdb_id": "tt1531526",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S2\\Parks.and.Recreation.S02E08.Ron.And.Tammy.1080p.AMZN.WEBRip.DD5.1.x264-NTbS2E8.zip"
+    },
+    "9": {
+        "title": "The Camel",
+        "released": "2009-11-12",
+        "rating": "7.7",
+        "imdb_id": "tt1536813",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S2\\Parks.and.Recreation.S02E09.The.Camel.1080p.AMZN.WEBRip.DD5.1.x264-NTbS2E9.zip"
+    },
+    "10": {
+        "title": "Hunting Trip",
+        "released": "2009-11-19",
+        "rating": "8.6",
+        "imdb_id": "tt1539432",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Tom's Divorce",
+        "released": "2009-12-03",
+        "rating": "7.7",
+        "imdb_id": "tt1541365",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Christmas Scandal",
+        "released": "2009-12-10",
+        "rating": "7.9",
+        "imdb_id": "tt1545370",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Set Up",
+        "released": "2010-01-14",
+        "rating": "7.9",
+        "imdb_id": "tt1559848",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Leslie's House",
+        "released": "2010-01-21",
+        "rating": "7.8",
+        "imdb_id": "tt1559849",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Sweetums",
+        "released": "2010-02-04",
+        "rating": "7.8",
+        "imdb_id": "tt1559850",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Galentine's Day",
+        "released": "2010-02-11",
+        "rating": "7.5",
+        "imdb_id": "tt1559851",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Woman of the Year",
+        "released": "2010-03-04",
+        "rating": "7.9",
+        "imdb_id": "tt1559852",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Possum",
+        "released": "2010-03-11",
+        "rating": "7.9",
+        "imdb_id": "tt1559853",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Park Safety",
+        "released": "2010-03-18",
+        "rating": "8.0",
+        "imdb_id": "tt1559854",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Summer Catalog",
+        "released": "2010-03-25",
+        "rating": "7.8",
+        "imdb_id": "tt1559855",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "94 Meetings",
+        "released": "2010-04-29",
+        "rating": "8.4",
+        "imdb_id": "tt1559856",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Telethon",
+        "released": "2010-05-06",
+        "rating": "8.2",
+        "imdb_id": "tt1559857",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "The Master Plan",
+        "released": "2010-05-13",
+        "rating": "8.5",
+        "imdb_id": "tt1587572",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Freddy Spaghetti",
+        "released": "2010-05-20",
+        "rating": "8.5",
+        "imdb_id": "tt1587573",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

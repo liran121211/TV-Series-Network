@@ -1,0 +1,26 @@
+{
+    "1": {
+        "title": "Promises",
+        "released": "2024-06-02",
+        "rating": "9.0",
+        "imdb_id": "tt28419624",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Moon to Blood",
+        "released": "2024-06-09",
+        "rating": "9.0",
+        "imdb_id": "tt29519701",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Sitting, Serving, Scheming",
+        "released": "2024-06-16",
+        "rating": "8.8",
+        "imdb_id": "tt29519706",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

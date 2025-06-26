@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Episode #32.1",
+        "released": "2022-07-14",
+        "rating": "6.0",
+        "imdb_id": "tt20560234",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S2\\Top.Gear.S32E01.WEBS2E1.zip"
+    },
+    "2": {
+        "title": "Episode #32.2",
+        "released": "2022-06-12",
+        "rating": "N/A",
+        "imdb_id": "tt20879038",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S2\\Top.Gear.S32E02.WEBS2E2.zip"
+    },
+    "3": {
+        "title": "Episode #32.3",
+        "released": "2022-06-19",
+        "rating": "5.4",
+        "imdb_id": "tt21032948",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S2\\Top.Gear.S32E03.WEBS2E3.zip"
+    },
+    "4": {
+        "title": "Episode #32.4",
+        "released": "2022-06-26",
+        "rating": "5.9",
+        "imdb_id": "tt21080800",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S2\\Top.Gear.S32E04.WEBS2E4.zip"
+    },
+    "5": {
+        "title": "Episode #32.5",
+        "released": "2022-07-03",
+        "rating": "6.0",
+        "imdb_id": "tt21111580",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S2\\Top.Gear.S32E05.WEBS2E5.zip"
+    }
+}

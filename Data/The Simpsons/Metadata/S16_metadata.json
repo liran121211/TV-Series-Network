@@ -1,0 +1,170 @@
+{
+    "1": {
+        "title": "Treehouse of Horror XV",
+        "released": "2004-11-07",
+        "rating": "7.4",
+        "imdb_id": "tt0701286",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E01.WEB-DL.DSNPS16E1.zip"
+    },
+    "2": {
+        "title": "All's Fair in Oven War",
+        "released": "2004-11-14",
+        "rating": "6.9",
+        "imdb_id": "tt0701051",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E02.WEB-DL.DSNPS16E2.zip"
+    },
+    "3": {
+        "title": "Sleeping with the Enemy",
+        "released": "2004-11-21",
+        "rating": "7.1",
+        "imdb_id": "tt0784543",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E03.WEB-DL.DSNPS16E3.zip"
+    },
+    "4": {
+        "title": "She Used to Be My Girl",
+        "released": "2004-12-05",
+        "rating": "6.5",
+        "imdb_id": "tt0701205",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E04.WEB-DL.DSNPS16E4.zip"
+    },
+    "5": {
+        "title": "Fat Man and Little Boy",
+        "released": "2004-12-12",
+        "rating": "7.0",
+        "imdb_id": "tt0701096",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E05.WEB-DL.DSNPS16E5.zip"
+    },
+    "6": {
+        "title": "Midnight Rx",
+        "released": "2005-01-16",
+        "rating": "7.1",
+        "imdb_id": "tt0784541",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E06.WEB-DL.DSNPS16E6.zip"
+    },
+    "7": {
+        "title": "Mommie Beerest",
+        "released": "2005-01-30",
+        "rating": "N/A",
+        "imdb_id": "tt0763036",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E07.WEB-DL.DSNPS16E7.zip"
+    },
+    "8": {
+        "title": "Homer and Ned's Hail Mary Pass",
+        "released": "2005-02-06",
+        "rating": "6.3",
+        "imdb_id": "tt0701113",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E08.WEB-DL.DSNPS16E8.zip"
+    },
+    "9": {
+        "title": "Pranksta Rap",
+        "released": "2005-02-13",
+        "rating": "6.5",
+        "imdb_id": "tt0701198",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E09.WEB-DL.DSNPS16E9.zip"
+    },
+    "10": {
+        "title": "There's Something About Marrying",
+        "released": "2005-02-20",
+        "rating": "6.9",
+        "imdb_id": "tt0757022",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "On a Clear Day I Can't See My Sister",
+        "released": "2005-03-06",
+        "rating": "6.7",
+        "imdb_id": "tt0701194",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Goo Goo Gai Pan",
+        "released": "2005-03-13",
+        "rating": "N/A",
+        "imdb_id": "tt0701100",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Mobile Homer",
+        "released": "2005-03-20",
+        "rating": "N/A",
+        "imdb_id": "tt0763035",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Seven-Beer Snitch",
+        "released": "2005-04-03",
+        "rating": "6.7",
+        "imdb_id": "tt0701260",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Future-Drama",
+        "released": "2005-04-17",
+        "rating": "7.3",
+        "imdb_id": "tt0701099",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Don't Fear the Roofer",
+        "released": "2005-05-01",
+        "rating": "7.4",
+        "imdb_id": "tt0701089",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Heartbroke Kid",
+        "released": "2005-05-01",
+        "rating": "N/A",
+        "imdb_id": "tt0701242",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "A Star Is Torn",
+        "released": "2005-05-08",
+        "rating": "6.7",
+        "imdb_id": "tt0701047",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Thank God It's Doomsday",
+        "released": "2005-05-08",
+        "rating": "N/A",
+        "imdb_id": "tt0701224",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Home Away from Homer",
+        "released": "2005-05-15",
+        "rating": "7.0",
+        "imdb_id": "tt0701107",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Father, the Son, and the Holy Guest Star",
+        "released": "2005-05-15",
+        "rating": "7.2",
+        "imdb_id": "tt0701236",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

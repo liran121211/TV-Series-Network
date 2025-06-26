@@ -1,0 +1,715 @@
+﻿1
+00:00:06,172 --> 00:00:10,552
+SERIAL NETFLIX
+
+2
+00:00:24,566 --> 00:00:27,902
+{\an8}JANGAN BERISIK
+
+3
+00:00:30,196 --> 00:00:35,618
+<i>Di atas bukit nan jauh,
+Teletubbies bermain-main.</i>
+
+4
+00:00:36,828 --> 00:00:37,871
+<i>Satu!</i>
+
+5
+00:00:38,872 --> 00:00:39,789
+Satu!
+
+6
+00:00:39,873 --> 00:00:41,583
+- <i>Dua!</i>
+- Dua!
+
+7
+00:00:42,167 --> 00:00:43,418
+<i>Tiga!</i>
+
+8
+00:00:43,501 --> 00:00:44,627
+Tiga!
+
+9
+00:00:45,754 --> 00:00:46,921
+<i>Empat!</i>
+
+10
+00:00:48,381 --> 00:00:49,883
+Empat!
+
+11
+00:00:55,513 --> 00:00:57,474
+{\an8}<i>Teletubbies!</i>
+
+12
+00:00:58,016 --> 00:01:00,477
+{\an8}Ah-oh!
+
+13
+00:01:08,735 --> 00:01:12,572
+<i>- Inilah Teletubbies!
+- Inilah Teletubbies!</i>
+
+14
+00:01:12,655 --> 00:01:13,698
+<i>Tinky Winky!</i>
+
+15
+00:01:13,782 --> 00:01:14,616
+<i>Tinky Winky!</i>
+
+16
+00:01:14,699 --> 00:01:15,617
+<i>Dipsy!</i>
+
+17
+00:01:15,700 --> 00:01:16,618
+<i>Dipsy!</i>
+
+18
+00:01:16,701 --> 00:01:17,660
+<i>Laa-Laa!</i>
+
+19
+00:01:17,744 --> 00:01:18,661
+<i>Laa-Laa!</i>
+
+20
+00:01:18,745 --> 00:01:19,579
+<i>Po!</i>
+
+21
+00:01:19,662 --> 00:01:20,663
+<i>Po!</i>
+
+22
+00:01:20,747 --> 00:01:24,542
+<i>Teletubbies!</i>
+
+23
+00:01:24,626 --> 00:01:27,462
+<i>Ucapkan halo!</i>
+
+24
+00:01:27,545 --> 00:01:28,630
+Ah-oh!
+
+25
+00:01:30,673 --> 00:01:32,967
+Berpelukan!
+
+26
+00:01:35,762 --> 00:01:36,638
+Berpelukan!
+
+27
+00:01:41,392 --> 00:01:42,977
+Ah-oh!
+
+28
+00:01:52,445 --> 00:01:54,864
+<i>Ke mana perginya Teletubbies, ya?</i>
+
+29
+00:02:18,263 --> 00:02:19,639
+Ah-oh!
+
+30
+00:02:21,349 --> 00:02:25,812
+<i>Suatu hari di Negeri Teletubby,
+Tinky Winky tak bisa tidur.</i>
+
+31
+00:02:26,813 --> 00:02:28,815
+Tinky Winky tak mengantuk!
+
+32
+00:02:29,774 --> 00:02:31,860
+<i>Tinky Winky ingin bermain.</i>
+
+33
+00:02:33,194 --> 00:02:37,198
+Tinky Winky ingin bermain!
+
+34
+00:02:39,534 --> 00:02:43,872
+<i>Tinky Winky jangan membangunkan
+Dipsy, Laa-Laa, dan Po.</i>
+
+35
+00:02:47,041 --> 00:02:51,462
+<i>Tinky Winky jangan membangunkan
+Dipsy, Laa-Laa, dan Po.</i>
+
+36
+00:02:52,338 --> 00:02:54,424
+<i>Tinky Winky melihat skuter.</i>
+
+37
+00:02:55,341 --> 00:02:56,759
+Ah, skuter!
+
+38
+00:02:56,843 --> 00:02:58,887
+Tinky Winky bermain skuter!
+
+39
+00:03:02,348 --> 00:03:04,475
+<i>Jangan bangunkan Po, Tinky Winky.</i>
+
+40
+00:03:04,559 --> 00:03:07,478
+Ah-oh! Tinky Winky membangunkan Po!
+
+41
+00:03:08,938 --> 00:03:12,442
+<i>Tidurlah, Po</i>
+
+42
+00:03:14,444 --> 00:03:16,446
+<i>Tinky Winky melihat bola.</i>
+
+43
+00:03:17,739 --> 00:03:20,408
+Bola! Tinky Winky bermain bola!
+
+44
+00:03:21,701 --> 00:03:23,828
+Tinky Winky bermain bola!
+
+45
+00:03:24,996 --> 00:03:26,456
+Bola!
+
+46
+00:03:26,539 --> 00:03:29,292
+Ah-oh! Tinky Winky membangunkan Laa-Laa.
+
+47
+00:03:31,669 --> 00:03:35,798
+<i>Tidurlah, Laa-laa</i>
+
+48
+00:03:40,678 --> 00:03:43,514
+<i>Sekarang, apa yang akan
+dimainkan Tinky Winky?</i>
+
+49
+00:03:44,974 --> 00:03:47,644
+Topi! Tinky Winky bermain topi!
+
+50
+00:03:48,937 --> 00:03:51,314
+Tinky Winky bermain topi!
+
+51
+00:03:54,901 --> 00:03:57,779
+- Topi!
+- Ah-oh! Tinky Winky membangunkan Dipsy.
+
+52
+00:03:57,862 --> 00:03:58,905
+Topi!
+
+53
+00:03:58,988 --> 00:04:02,659
+<i>Tidurlah, Dipsy</i>
+
+54
+00:04:09,624 --> 00:04:13,336
+<i>Astaga, Tinky Winky.
+Apa yang akan kau mainkan?</i>
+
+55
+00:04:15,922 --> 00:04:16,923
+Dup Dup!
+
+56
+00:04:20,385 --> 00:04:22,637
+Tinky Winky melihat tas!
+
+57
+00:04:25,056 --> 00:04:27,016
+Tinky Winky bermain tas.
+
+58
+00:04:30,645 --> 00:04:33,690
+Tinky Winky bermain tas!
+
+59
+00:04:35,024 --> 00:04:37,026
+Naiklah, Dup Dup!
+
+60
+00:04:38,278 --> 00:04:39,821
+Naiklah, Dup Dup!
+
+61
+00:04:44,909 --> 00:04:46,995
+Tinky Winky bermain tas!
+
+62
+00:04:47,078 --> 00:04:49,706
+<i>Sekarang, Tinky Winky di luar,</i>
+
+63
+00:04:49,789 --> 00:04:53,543
+<i>dia bisa bermain
+tanpa membangunkan Dipsy, Laa-Laa, dan Po.</i>
+
+64
+00:04:54,419 --> 00:04:57,380
+Tinky Winky bermain!
+
+65
+00:04:57,880 --> 00:05:01,843
+<i>Tinky Winky melakukan tarian tas
+menginjak yang berisik.</i>
+
+66
+00:05:02,468 --> 00:05:05,513
+Tarian tas menginjak yang berisik!
+
+67
+00:05:27,493 --> 00:05:29,662
+Melompat!
+
+68
+00:05:30,538 --> 00:05:31,664
+Ah-oh!
+
+69
+00:05:32,665 --> 00:05:35,043
+Apa itu?
+
+70
+00:05:35,126 --> 00:05:36,127
+Ah-oh!
+
+71
+00:05:36,627 --> 00:05:37,670
+Apa itu?
+
+72
+00:05:38,796 --> 00:05:40,006
+Ah-oh!
+
+73
+00:05:41,507 --> 00:05:43,009
+Melompat! Menginjak!
+
+74
+00:05:53,394 --> 00:05:54,854
+Ah-oh!
+
+75
+00:05:56,898 --> 00:05:58,733
+Ah-oh!
+
+76
+00:06:36,020 --> 00:06:36,979
+Tinky Winky!
+
+77
+00:06:37,063 --> 00:06:38,815
+Dipsy!
+
+78
+00:06:39,315 --> 00:06:40,775
+Laa-Laa!
+
+79
+00:06:41,275 --> 00:06:42,485
+Po!
+
+80
+00:06:50,410 --> 00:06:51,953
+Ah, Tinky Winky!
+
+81
+00:06:57,792 --> 00:07:00,336
+{\an8}- Ah-oh!
+- <i>Hai!</i>
+
+82
+00:07:00,420 --> 00:07:03,297
+{\an8}<i>- Hai!
+- Halo!</i>
+
+83
+00:07:03,381 --> 00:07:07,176
+Ayo cari tempat
+yang nyaman dan pejamkan mata.
+
+84
+00:07:07,260 --> 00:07:09,804
+Karena akan dimulai.
+
+85
+00:07:10,972 --> 00:07:13,349
+<i>Waktunya shh</i>
+
+86
+00:07:13,433 --> 00:07:15,226
+<i>Tolong diamlah</i>
+
+87
+00:07:15,309 --> 00:07:18,271
+<i>Shh, tutup matamu</i>
+
+88
+00:07:18,354 --> 00:07:19,522
+<i>Tolong diamlah</i>
+
+89
+00:07:19,605 --> 00:07:22,442
+<i>Waktunya tidur siang</i>
+
+90
+00:07:23,317 --> 00:07:26,320
+<i>Tetapi guk guk guk di luar jendela</i>
+
+91
+00:07:26,404 --> 00:07:28,865
+<i>Guk guk guk! Anjingnya berisik!</i>
+
+92
+00:07:28,948 --> 00:07:31,284
+<i>Guk guk guk! Hei! Anjing menggonggong!</i>
+
+93
+00:07:31,909 --> 00:07:35,663
+<i>Kau tak tahu
+Sekarang waktunya tidur siang?</i>
+
+94
+00:07:36,831 --> 00:07:39,208
+<i>Waktunya shh</i>
+
+95
+00:07:39,292 --> 00:07:41,377
+<i>Tolong diamlah</i>
+
+96
+00:07:41,461 --> 00:07:43,588
+<i>Shh, tutup matamu</i>
+
+97
+00:07:44,213 --> 00:07:45,047
+<i>Tolong diamlah</i>
+
+98
+00:07:45,131 --> 00:07:48,259
+<i>Waktunya tidur siang</i>
+
+99
+00:07:49,177 --> 00:07:52,346
+<i>Tapi din din din di luar jendela</i>
+
+100
+00:07:52,430 --> 00:07:54,599
+<i>Din din! Truknya berisik!</i>
+
+101
+00:07:54,682 --> 00:07:55,683
+<i>Din din!</i>
+
+102
+00:07:55,766 --> 00:07:57,685
+<i>Hei! Truk berklakson!</i>
+
+103
+00:07:57,768 --> 00:08:01,230
+<i>Kau tak tahu
+Sekarang waktunya tidur siang?</i>
+
+104
+00:08:01,314 --> 00:08:03,858
+<i>Waktunya shh</i>
+
+105
+00:08:03,941 --> 00:08:06,027
+<i>Tolong diamlah</i>
+
+106
+00:08:06,110 --> 00:08:08,488
+<i>Shh, tutup matamu</i>
+
+107
+00:08:08,571 --> 00:08:09,989
+<i>Tolong diamlah</i>
+
+108
+00:08:10,072 --> 00:08:15,203
+<i>Waktunya tidur siang</i>
+
+109
+00:08:15,286 --> 00:08:18,915
+<i>Waktunya tidur siang</i>
+
+110
+00:08:27,632 --> 00:08:29,091
+Luar biasa!
+
+111
+00:08:29,592 --> 00:08:31,427
+Kini sangat hening.
+
+112
+00:08:32,345 --> 00:08:34,305
+{\an8}- <i>Dadah! Selamat tinggal!</i>
+- Dadah!
+
+113
+00:08:34,388 --> 00:08:35,932
+{\an8}Dadah!
+
+114
+00:08:40,645 --> 00:08:42,897
+Lagi!
+
+115
+00:08:42,980 --> 00:08:45,858
+- Lagi!
+- Lagi!
+
+116
+00:08:46,400 --> 00:08:49,529
+{\an8}- Ah-oh!
+- <i>Ada din din din di luar jendela!</i>
+
+117
+00:08:49,612 --> 00:08:51,989
+<i>Din din din! Truknya berisik!</i>
+
+118
+00:08:52,073 --> 00:08:54,742
+<i>Din din! Hei! Truk berklakson!</i>
+
+119
+00:08:54,825 --> 00:08:58,287
+<i>Kau tak tahu
+Sekarang waktunya tidur siang?</i>
+
+120
+00:08:58,371 --> 00:09:00,873
+<i>Waktunya shh</i>
+
+121
+00:09:00,957 --> 00:09:03,084
+<i>Tolong diamlah</i>
+
+122
+00:09:03,167 --> 00:09:05,545
+<i>Shh, tutup matamu</i>
+
+123
+00:09:05,628 --> 00:09:07,046
+<i>Tolong diamlah</i>
+
+124
+00:09:07,129 --> 00:09:12,301
+<i>Waktunya tidur siang</i>
+
+125
+00:09:12,385 --> 00:09:16,097
+<i>Waktunya tidur siang</i>
+
+126
+00:09:32,655 --> 00:09:34,115
+Ah-oh!
+
+127
+00:09:34,198 --> 00:09:38,536
+<i>Saatnya Tiddlytubbies tidur!</i>
+
+128
+00:09:38,619 --> 00:09:42,164
+Tiddlytubbies tidur!
+
+129
+00:09:47,920 --> 00:09:52,800
+Tiddlytubbies tidur!
+
+130
+00:09:56,178 --> 00:09:57,346
+Tidur!
+
+131
+00:09:59,849 --> 00:10:02,893
+<i>Saatnya untuk Tiddlytubbies tidur.</i>
+
+132
+00:10:06,480 --> 00:10:09,775
+Tiddlytubbies tidur!
+
+133
+00:10:12,987 --> 00:10:14,989
+<i>Selamat tidur, Ru-Ru.</i>
+
+134
+00:10:15,072 --> 00:10:16,198
+Ru-Ru.
+
+135
+00:10:16,282 --> 00:10:18,242
+<i>Selamat tidur, Duggle Dee.</i>
+
+136
+00:10:18,326 --> 00:10:20,119
+Duggle Dee.
+
+137
+00:10:20,202 --> 00:10:21,662
+<i>Selamat tidur, Mi-Mi.</i>
+
+138
+00:10:21,746 --> 00:10:23,164
+Mi-Mi.
+
+139
+00:10:24,582 --> 00:10:26,208
+<i>Selamat tidur, Nin.</i>
+
+140
+00:10:26,709 --> 00:10:27,668
+Nin.
+
+141
+00:10:29,920 --> 00:10:32,214
+<i>Tiddlytubbies akan tidur.</i>
+
+142
+00:10:32,298 --> 00:10:36,927
+Tiddlytubbies tidur!
+
+143
+00:10:38,596 --> 00:10:41,223
+<i>Tiddlytubbies sudah tidur.</i>
+
+144
+00:10:44,977 --> 00:10:48,230
+Tiddlytubbies tidur.
+
+145
+00:10:49,857 --> 00:10:52,401
+<i>Teletubbies sayang Tiddlytubbies.</i>
+
+146
+00:10:52,902 --> 00:10:55,321
+- Tiddlytubbies.
+- Sayang Tiddlytubbies.
+
+147
+00:10:55,404 --> 00:10:58,699
+<i>Dan Teletubbies saling menyayangi.</i>
+
+148
+00:10:58,783 --> 00:11:00,117
+Berpelukan.
+
+149
+00:11:00,201 --> 00:11:02,161
+Berpelukan!
+
+150
+00:11:09,752 --> 00:11:13,547
+<i>Saatnya Tubby berpisah!</i>
+
+151
+00:11:23,849 --> 00:11:25,476
+<i>Dadah, Tinky Winky.</i>
+
+152
+00:11:25,559 --> 00:11:26,936
+Dadah!
+
+153
+00:11:28,354 --> 00:11:29,814
+<i>Dadah, Dipsy.</i>
+
+154
+00:11:31,315 --> 00:11:32,692
+Dadah!
+
+155
+00:11:34,527 --> 00:11:35,945
+<i>Dadah, Laa-Laa.</i>
+
+156
+00:11:36,862 --> 00:11:38,364
+Dadah!
+
+157
+00:11:39,949 --> 00:11:41,450
+<i>Dadah, Po.</i>
+
+158
+00:11:41,534 --> 00:11:43,035
+Dadah!
+
+159
+00:11:47,248 --> 00:11:48,499
+Ba!
+
+160
+00:11:48,582 --> 00:11:50,418
+- Ba!
+- Ba!
+
+161
+00:11:50,501 --> 00:11:52,962
+- Ba!
+- Ba!
+
+162
+00:11:53,504 --> 00:11:55,005
+<i>Tidak.</i>
+
+163
+00:11:55,089 --> 00:11:57,633
+Tidak!
+
+164
+00:11:58,509 --> 00:12:00,302
+<i>Dadah, Teletubbies.</i>
+
+165
+00:12:00,386 --> 00:12:02,138
+Dadah!
+
+166
+00:12:05,766 --> 00:12:08,352
+<i>Matahari mulai tenggelam.</i>
+
+167
+00:12:08,436 --> 00:12:10,646
+<i>Teletubbies berpamitan!</i>
+
+168
+00:12:12,064 --> 00:12:13,149
+{\an8}Dadah!
+
+169
+00:12:14,275 --> 00:12:15,526
+{\an8}Dadah!
+
+170
+00:12:17,027 --> 00:12:18,362
+{\an8}Dadah!
+
+171
+00:12:19,989 --> 00:12:21,157
+{\an8}Dadah!
+
+172
+00:12:26,162 --> 00:12:27,788
+{\an8}Dadah!
+
+173
+00:12:32,418 --> 00:12:35,921
+{\an8}Terjemahan subtitle oleh Lysa Weiss
+

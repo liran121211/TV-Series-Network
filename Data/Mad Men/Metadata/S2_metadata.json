@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "For Those Who Think Young",
+        "released": "2008-07-27",
+        "rating": "N/A",
+        "imdb_id": "tt1118051",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S2\\Mad.Men.S02E01.HDTV.XviD-LOLS2E1.zip"
+    },
+    "2": {
+        "title": "Flight 1",
+        "released": "2008-08-03",
+        "rating": "7.9",
+        "imdb_id": "tt1118056",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S2\\Mad.Men.S02E02.HDTV.XviD-LOLS2E2.zip"
+    },
+    "3": {
+        "title": "The Benefactor",
+        "released": "2008-08-10",
+        "rating": "7.8",
+        "imdb_id": "tt1118057",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S2\\Mad.Men.S02E03.HDTV.XviD-FoVS2E3.zip"
+    },
+    "4": {
+        "title": "Three Sundays",
+        "released": "2008-08-17",
+        "rating": "N/A",
+        "imdb_id": "tt1118058",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S2\\Mad.Men.S02E04.REPACK.HDTV.XviD-FoVS2E4.zip"
+    },
+    "5": {
+        "title": "The New Girl",
+        "released": "2008-08-24",
+        "rating": "8.3",
+        "imdb_id": "tt1118059",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S2\\Mad.Men.S02E05.HDTV.XviD-FQMS2E5.zip"
+    },
+    "6": {
+        "title": "Maidenform",
+        "released": "2008-08-31",
+        "rating": "7.9",
+        "imdb_id": "tt1118060",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S2\\Mad.Men.S02E06.HDTV.XviD-FoVS2E6.zip"
+    },
+    "7": {
+        "title": "The Gold Violin",
+        "released": "2008-09-07",
+        "rating": "8.4",
+        "imdb_id": "tt1118061",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S2\\Mad.Men.S02E07.HDTV.XviD-NoTVS2E7.zip"
+    },
+    "8": {
+        "title": "A Night to Remember",
+        "released": "2008-09-14",
+        "rating": "N/A",
+        "imdb_id": "tt1118062",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S2\\Mad.Men.S02E08.HDTV.XviD-DOTS2E8.zip"
+    },
+    "9": {
+        "title": "Six Month Leave",
+        "released": "2008-09-28",
+        "rating": "8.5",
+        "imdb_id": "tt1118063",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S2\\Mad.Men.S02E09.HDTV.XviD-NoTVS2E9.zip"
+    },
+    "10": {
+        "title": "The Inheritance",
+        "released": "2008-10-05",
+        "rating": "7.9",
+        "imdb_id": "tt1118052",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Jet Set",
+        "released": "2008-10-12",
+        "rating": "N/A",
+        "imdb_id": "tt1118053",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Mountain King",
+        "released": "2008-10-19",
+        "rating": "N/A",
+        "imdb_id": "tt1118054",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Meditations in an Emergency",
+        "released": "2008-10-26",
+        "rating": "N/A",
+        "imdb_id": "tt1118055",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

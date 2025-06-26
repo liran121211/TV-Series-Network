@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "My Bad",
+        "released": "2010-09-26",
+        "rating": "8.8",
+        "imdb_id": "tt1615586",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S5\\Dexter.S05E01.My.Bad.DVDRip.XviD-REWARDS5E1.zip"
+    },
+    "2": {
+        "title": "Hello Bandit",
+        "released": "2010-10-03",
+        "rating": "8.1",
+        "imdb_id": "tt1681772",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S5\\Dexter.S05E02.Hello.Bandit.DVDRip.XviD-REWARDS5E2.zip"
+    },
+    "3": {
+        "title": "Practically Perfect",
+        "released": "2010-10-10",
+        "rating": "8.3",
+        "imdb_id": "tt1691535",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S5\\Dexter.S05E03.Practically.Perfect.DVDRip.XviD-REWARDS5E3.zip"
+    },
+    "4": {
+        "title": "Beauty And The Beast",
+        "released": "2010-10-17",
+        "rating": "8.3",
+        "imdb_id": "tt1691360",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S5\\Dexter.S05E04.Beauty.and.the.Beast.DVDRip.XviD-REWARDS5E4.zip"
+    },
+    "5": {
+        "title": "First Blood",
+        "released": "2010-10-24",
+        "rating": "7.9",
+        "imdb_id": "tt1699327",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S5\\Dexter.S05E05.First.Blood.DVDRip.XviD-REWARDS5E5.zip"
+    },
+    "6": {
+        "title": "Everything Is Illumenated",
+        "released": "2010-10-31",
+        "rating": "8.7",
+        "imdb_id": "tt1699544",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S5\\Dexter.S05E06.Everything.Is.Illumenated.DVDRip.XviD-REWARDS5E6.zip"
+    },
+    "7": {
+        "title": "Circle Us",
+        "released": "2010-11-07",
+        "rating": "8.3",
+        "imdb_id": "tt1721224",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S5\\Dexter.S05E07.Circle.Us.DVDRip.XviD-REWARDS5E7.zip"
+    },
+    "8": {
+        "title": "Take It!",
+        "released": "2010-11-14",
+        "rating": "8.8",
+        "imdb_id": "tt1720655",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S5\\Dexter.S05E08.Take.It.DVDRip.XviD-REWARDS5E8.zip"
+    },
+    "9": {
+        "title": "Teenage Wasteland",
+        "released": "2010-11-21",
+        "rating": "8.9",
+        "imdb_id": "tt1733347",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S5\\Dexter.S05E09.Teenage.Wasteland.DVDRip.XviD-REWARDS5E9.zip"
+    },
+    "10": {
+        "title": "In The Beginning",
+        "released": "2010-11-28",
+        "rating": "8.9",
+        "imdb_id": "tt1733346",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Hop A Freighter",
+        "released": "2010-12-05",
+        "rating": "8.8",
+        "imdb_id": "tt1733345",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Big One",
+        "released": "2010-12-12",
+        "rating": "8.8",
+        "imdb_id": "tt1733344",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

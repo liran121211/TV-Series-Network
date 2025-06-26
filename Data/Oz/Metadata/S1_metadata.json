@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "The Routine",
+        "released": "1997-07-12",
+        "rating": "8.5",
+        "imdb_id": "tt0668322",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Oz\\Subtitles\\S1\\Oz.S01E01.1080p.AMZN.WEB-DL.DDP2.0.H.264-Pawel2006S1E1.zip"
+    },
+    "2": {
+        "title": "Visits, Conjugal and Otherwise",
+        "released": "1997-07-14",
+        "rating": "8.1",
+        "imdb_id": "tt0668330",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "God's Chillin'",
+        "released": "1997-07-21",
+        "rating": "N/A",
+        "imdb_id": "tt0668299",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Capital P",
+        "released": "1997-07-28",
+        "rating": "8.3",
+        "imdb_id": "tt0668288",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Straight Life",
+        "released": "1997-08-04",
+        "rating": "8.2",
+        "imdb_id": "tt0668319",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Oz\\Subtitles\\S1\\Oz.S01E05.iNTERNAL.DVDRip.XviD-SAVANNAHS1E5.zip"
+    },
+    "6": {
+        "title": "To Your Health",
+        "released": "1997-08-11",
+        "rating": "8.4",
+        "imdb_id": "tt0668325",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Oz\\Subtitles\\S1\\Oz.S01E06.iNTERNAL.DVDRip.XviD-SAVANNAHS1E6.zip"
+    },
+    "7": {
+        "title": "Plan B",
+        "released": "1997-08-18",
+        "rating": "8.8",
+        "imdb_id": "tt0668314",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "A Game of Checkers",
+        "released": "1997-08-25",
+        "rating": "9.2",
+        "imdb_id": "tt0668282",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

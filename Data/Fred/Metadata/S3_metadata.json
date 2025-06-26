@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Fred Rescues the Neighborhood Squirrels",
+        "released": "2009-02-19",
+        "rating": "4.3",
+        "imdb_id": "tt1406438",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Fred Cooks for Judy",
+        "released": "2009-03-08",
+        "rating": "3.2",
+        "imdb_id": "tt1406437",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Fred on April Fools Day",
+        "released": "2009-04-01",
+        "rating": "2.1",
+        "imdb_id": "tt1532664",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Fred Goes to the Doctor",
+        "released": "2009-04-30",
+        "rating": "2.4",
+        "imdb_id": "tt1532658",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Fred Throws a Party",
+        "released": "2009-05-21",
+        "rating": "2.1",
+        "imdb_id": "tt1532661",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Fred Gets Dissed at Bible School",
+        "released": "2009-06-04",
+        "rating": "N/A",
+        "imdb_id": "tt1532654",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Fred Tries Dancing",
+        "released": "2009-07-09",
+        "rating": "2.3",
+        "imdb_id": "tt1532662",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Fred Goes Fundraising",
+        "released": "2009-09-18",
+        "rating": "2.1",
+        "imdb_id": "tt1532656",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Fred Gives Advice",
+        "released": "2009-10-08",
+        "rating": "1.6",
+        "imdb_id": "tt1532655",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Fred Finds a Creepy Doll",
+        "released": "2009-10-29",
+        "rating": "1.4",
+        "imdb_id": "tt1663261",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

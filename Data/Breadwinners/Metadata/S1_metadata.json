@@ -1,0 +1,122 @@
+{
+    "1": {
+        "title": "Thug Loaf/Mine All Mine",
+        "released": "2014-02-17",
+        "rating": "N/A",
+        "imdb_id": "tt3485250",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breadwinners\\Subtitles\\S1\\Breadwinners S01E01.zip"
+    },
+    "2": {
+        "title": "Stank Breath/Frog Day Afternoon",
+        "released": "N/A",
+        "rating": "3.5",
+        "imdb_id": "tt3563248",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breadwinners\\Subtitles\\S1\\Breadwinners S01E02.zip"
+    },
+    "3": {
+        "title": "Employee of the Month/Brocrastination",
+        "released": "2014-03-01",
+        "rating": "N/A",
+        "imdb_id": "tt3567212",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breadwinners\\Subtitles\\S1\\Breadwinners S01E03.zip"
+    },
+    "4": {
+        "title": "Rocket Trouble/The Brave and the Mold",
+        "released": "2014-03-08",
+        "rating": "N/A",
+        "imdb_id": "tt3567216",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breadwinners\\Subtitles\\S1\\Breadwinners S01E04.zip"
+    },
+    "5": {
+        "title": "Lost at Pond/From Bad to Nurse",
+        "released": "2014-03-15",
+        "rating": "N/A",
+        "imdb_id": "tt3567210",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breadwinners\\Subtitles\\S1\\Breadwinners S01E05.zip"
+    },
+    "6": {
+        "title": "Love Loaf/Beach Day of Horror",
+        "released": "2014-03-22",
+        "rating": "2.4",
+        "imdb_id": "tt3567220",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breadwinners\\Subtitles\\S1\\Breadwinners S01E06.zip"
+    },
+    "7": {
+        "title": "Quazy for Vanessa/Tunnel of Fear",
+        "released": "2014-05-31",
+        "rating": "3.3",
+        "imdb_id": "tt3833854",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breadwinners\\Subtitles\\S1\\Breadwinners S01E07.zip"
+    },
+    "10": {
+        "title": "Introducktions/Fowl Feud",
+        "released": "2014-09-20",
+        "rating": "N/A",
+        "imdb_id": "tt3961560",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breadwinners\\Subtitles\\S1\\Breadwinners S01E10.zip"
+    },
+    "11": {
+        "title": "Insane in the Crane Game/Buhdeuce Goes Berserks",
+        "released": "2014-09-27",
+        "rating": "N/A",
+        "imdb_id": "tt3961562",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breadwinners\\Subtitles\\S1\\Breadwinners S01E11.zip"
+    },
+    "13": {
+        "title": "TNT-Midi/Poltergoose",
+        "released": "2014-10-11",
+        "rating": "N/A",
+        "imdb_id": "tt4103512",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breadwinners\\Subtitles\\S1\\Breadwinners S01E13.zip"
+    },
+    "14": {
+        "title": "Night of the Living Bread",
+        "released": "2014-10-18",
+        "rating": "N/A",
+        "imdb_id": "tt4184954",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breadwinners\\Subtitles\\S1\\Breadwinners S01E14.zip"
+    },
+    "15": {
+        "title": "Pizzawinners/Yeasterday",
+        "released": "2014-11-01",
+        "rating": "N/A",
+        "imdb_id": "tt4225914",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Breadwinners\\Subtitles\\S1\\Breadwinners S01E15.zip"
+    },
+    "16": {
+        "title": "Space Ducks/Kettastrophe",
+        "released": "2014-11-15",
+        "rating": "N/A",
+        "imdb_id": "tt4225950",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Robot Arms/PB & J",
+        "released": "2014-04-12",
+        "rating": "N/A",
+        "imdb_id": "tt4581756",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Big Screen Buhdeuce/Weekend at Furfle's",
+        "released": "2014-04-19",
+        "rating": "N/A",
+        "imdb_id": "tt4581758",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

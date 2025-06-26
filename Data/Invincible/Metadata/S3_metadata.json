@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "You're Not Laughing Now",
+        "released": "2025-02-06",
+        "rating": "8.0",
+        "imdb_id": "tt14556090",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S3\\Invincible.2021.S03E01.1080p.WEB.H264-SuccessfulCrabS3E1.zip"
+    },
+    "2": {
+        "title": "Episode #3.2",
+        "released": "2025-02-06",
+        "rating": "N/A",
+        "imdb_id": "tt31322395",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S3\\Invincible.2021.S03E02.1080p.WEB.H264-SuccessfulCrabS3E2.zip"
+    },
+    "3": {
+        "title": "Episode #3.3",
+        "released": "2025-02-06",
+        "rating": "N/A",
+        "imdb_id": "tt33254998",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S3\\Invincible.2021.S03E03.1080p.WEB.H264-SuccessfulCrabS3E3.zip"
+    },
+    "4": {
+        "title": "You Were My Hero",
+        "released": "2025-02-13",
+        "rating": "9.1",
+        "imdb_id": "tt33397685",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S3\\Invincible.2021.S03E04.You.were.My.Hero.AMZN.WEB.h264-ETHELS3E4.zip"
+    },
+    "5": {
+        "title": "Episode #3.5",
+        "released": "2025-03-03",
+        "rating": "N/A",
+        "imdb_id": "tt33397688",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S3\\Invincible.2021.S03E05.This.Was.Supposed.to.be.Easy.AMZN.WEB.H264-SuccessfulCrabS3E5.zip"
+    },
+    "6": {
+        "title": "Episode #3.6",
+        "released": "2025-02-27",
+        "rating": "N/A",
+        "imdb_id": "tt33458097",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S3\\Invincible.2021.S03E06.1080p.WEB.H264-SuccessfulCrabS3E6.zip"
+    },
+    "7": {
+        "title": "What Have I Done?",
+        "released": "2025-03-06",
+        "rating": "9.7",
+        "imdb_id": "tt34952920",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Invincible\\Subtitles\\S3\\Invincible.2021.S03E07.What.Have.I.Done.AMZN.WEB.H264-SuccessfulCrabS3E7.zip"
+    },
+    "8": {
+        "title": "I Thought You'd Never Shut Up",
+        "released": "2025-03-13",
+        "rating": "9.9",
+        "imdb_id": "tt34952922",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

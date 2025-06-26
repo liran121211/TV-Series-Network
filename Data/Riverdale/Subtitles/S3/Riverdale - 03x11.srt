@@ -1,0 +1,3328 @@
+﻿1
+00:00:08,258 --> 00:00:09,718
+<i>Previously on </i>Riverdale:
+
+2
+00:00:09,801 --> 00:00:11,595
+Tall Boy? We know
+you're working for Hiram.
+
+3
+00:00:11,678 --> 00:00:13,805
+Why would he want the town quarantined?
+
+4
+00:00:13,889 --> 00:00:17,226
+- Apparently there was a mass seizure.
+- Seizures aren't contagious.
+
+5
+00:00:17,309 --> 00:00:18,352
+So, what?
+
+6
+00:00:18,435 --> 00:00:20,646
+There's nowhere he won't follow me.
+It's over?
+
+7
+00:00:20,729 --> 00:00:25,025
+You will stoop to any level
+to get me back in your clutches.
+
+8
+00:00:25,108 --> 00:00:27,236
+I just wanted some father-daughter time.
+
+9
+00:00:27,319 --> 00:00:28,362
+Claudius Blossom.
+
+10
+00:00:28,445 --> 00:00:30,989
+You may not be the Man in Black,
+but his stink is on you.
+
+11
+00:00:31,073 --> 00:00:33,700
+Sheriff Minetta's body was found
+in the marsh last night.
+
+12
+00:00:33,784 --> 00:00:34,993
+It was decapitated.
+
+13
+00:00:35,077 --> 00:00:38,163
+No, Tall Boy was just trying to escape.
+It was an accident.
+
+14
+00:00:38,247 --> 00:00:40,624
+As far as anyone knows,
+Tall Boy's been exiled.
+
+15
+00:00:46,838 --> 00:00:50,217
+<i>Riverdale,
+once a safe, decent, innocent place,</i>
+
+16
+00:00:50,717 --> 00:00:52,010
+<i>had become Noir Town,</i>
+
+17
+00:00:52,094 --> 00:00:54,304
+<i>like the setting
+of a Raymond Chandler story,</i>
+
+18
+00:00:54,388 --> 00:00:58,433
+<i>filled with dames to kill for,
+postmen who like to ring twice,</i>
+
+19
+00:00:58,600 --> 00:00:59,560
+<i>and more mobsters</i>
+
+20
+00:00:59,643 --> 00:01:01,770
+<i>than a Scorsese retrospective
+at the Bijou.</i>
+
+21
+00:01:02,771 --> 00:01:05,899
+<i>We were a town of lost souls.
+Each of us wrestling with demons.</i>
+
+22
+00:01:06,358 --> 00:01:08,819
+<i>Each of us with secrets
+we were trying to keep.</i>
+
+23
+00:01:09,069 --> 00:01:11,363
+<i>Mine was on the large side.</i>
+
+24
+00:01:12,030 --> 00:01:13,365
+<i>Six-foot-five to be exact.</i>
+
+25
+00:01:13,448 --> 00:01:14,825
+Explain it to me once more.
+
+26
+00:01:14,908 --> 00:01:17,077
+We drove him to the bus station
+at gunpoint,
+
+27
+00:01:17,160 --> 00:01:19,788
+- got him on a bus out of town.
+- He murdered Joaquin.
+
+28
+00:01:19,871 --> 00:01:22,165
+You thought putting him on a bus
+was enough punishment?
+
+29
+00:01:22,249 --> 00:01:24,042
+- I don't buy it.
+- I made a decision.
+
+30
+00:01:24,126 --> 00:01:26,336
+I'm sorry you don't agree, but he's gone.
+
+31
+00:01:28,338 --> 00:01:30,674
+I'll pretend
+like I believe you idiots for now.
+
+32
+00:01:31,592 --> 00:01:34,469
+I got my hands full
+finding Hiram's would-be assassin.
+
+33
+00:01:35,804 --> 00:01:38,348
+Next time you see me, have a better story.
+
+34
+00:01:40,392 --> 00:01:42,936
+<i>I was covering up the death
+of a wicked man.</i>
+
+35
+00:01:43,020 --> 00:01:46,356
+<i>But Tall Boy Petite wasn't
+the only fresh corpse in Noir Town.</i>
+
+36
+00:01:46,773 --> 00:01:49,026
+<i>Claudius Blossom had taken the big sleep,</i>
+
+37
+00:01:49,109 --> 00:01:51,987
+<i>and my girlfriend, Betty Cooper,
+had murder on the brain.</i>
+
+38
+00:01:52,070 --> 00:01:55,574
+<i>And murderers, in Betty's world,
+needed to be brought to justice.</i>
+
+39
+00:01:55,657 --> 00:01:57,284
+It's infuriating, Dad.
+
+40
+00:01:57,367 --> 00:02:01,079
+<i>The Lodge Ledger</i> is calling
+Claudius Blossom's death a suicide,
+
+41
+00:02:01,163 --> 00:02:04,583
+- but I think he was murdered.
+- But if he ingested cyanide--
+
+42
+00:02:04,666 --> 00:02:06,585
+But how did it get in his prison cell?
+
+43
+00:02:07,002 --> 00:02:10,213
+A gift from his former partner-in-crime
+Penelope, I'm guessing?
+
+44
+00:02:10,297 --> 00:02:11,632
+Poison does suit her.
+
+45
+00:02:12,507 --> 00:02:14,009
+Subtle, elegant.
+
+46
+00:02:14,468 --> 00:02:17,804
+But if nobody else is asking questions
+about Claudius' death,
+
+47
+00:02:18,138 --> 00:02:19,139
+why are you?
+
+48
+00:02:19,222 --> 00:02:23,268
+Because it's black and white,
+and wrong, Dad.
+
+49
+00:02:23,352 --> 00:02:25,604
+Penelope's been killing people for years.
+
+50
+00:02:25,687 --> 00:02:28,273
+She's literally getting away with murder.
+
+51
+00:02:28,357 --> 00:02:32,486
+Daryl Doiley was poisoned with oleander,
+which is something only the Blossoms grow.
+
+52
+00:02:32,778 --> 00:02:34,196
+Featherhead, poisoned.
+
+53
+00:02:34,279 --> 00:02:35,822
+The nuns, poisoned.
+
+54
+00:02:36,239 --> 00:02:37,282
+And now Claudius.
+
+55
+00:02:37,366 --> 00:02:39,117
+I just can't prove any of it.
+
+56
+00:02:39,201 --> 00:02:42,162
+It's like she's committed
+the perfect murders.
+
+57
+00:02:42,245 --> 00:02:46,208
+You've already found the pattern,
+murders disguised as suicides.
+
+58
+00:02:47,125 --> 00:02:49,586
+Who else has died by suicide
+near Penelope?
+
+59
+00:02:49,670 --> 00:02:50,671
+Think now.
+
+60
+00:02:51,254 --> 00:02:52,089
+Clifford.
+
+61
+00:02:52,839 --> 00:02:54,091
+But he hung himself.
+
+62
+00:02:54,257 --> 00:02:55,092
+Perhaps.
+
+63
+00:02:55,175 --> 00:02:57,761
+I wonder, though,
+if that's the whole story.
+
+64
+00:02:59,137 --> 00:03:00,430
+Who was there that night?
+
+65
+00:03:02,182 --> 00:03:03,016
+Penelope.
+
+66
+00:03:05,602 --> 00:03:06,603
+And Cheryl.
+
+67
+00:03:07,020 --> 00:03:08,397
+If there's a witness,
+
+68
+00:03:09,231 --> 00:03:10,565
+it's not a perfect murder.
+
+69
+00:03:12,818 --> 00:03:17,322
+<i>Meanwhile, Archie Andrews
+no longer felt hunted by Hiram Lodge,</i>
+
+70
+00:03:17,698 --> 00:03:18,949
+<i>but he was still haunted.</i>
+
+71
+00:03:19,032 --> 00:03:21,576
+<i>Trapped in that in-between place,</i>
+
+72
+00:03:21,660 --> 00:03:24,496
+<i>avoiding his destined face-to-face
+with the Man in Black,</i>
+
+73
+00:03:24,579 --> 00:03:27,165
+<i>Archie struggled,
+searching for a sense of purpose.</i>
+
+74
+00:03:27,666 --> 00:03:28,834
+What's going on, son?
+
+75
+00:03:29,042 --> 00:03:31,962
+- Is it your breakup with Veronica?
+- No, Dad, it's not...
+
+76
+00:03:35,215 --> 00:03:36,174
+I've been thinking.
+
+77
+00:03:37,801 --> 00:03:39,469
+Maybe college isn't for me.
+
+78
+00:03:40,679 --> 00:03:43,640
+Maybe I can work with you
+in the construction company again.
+
+79
+00:03:44,141 --> 00:03:48,228
+Well, there's no shame in hard work,
+son, but where's this coming from?
+
+80
+00:03:48,603 --> 00:03:50,981
+After the crap I've seen
+these last few months,
+
+81
+00:03:51,064 --> 00:03:54,025
+I just wanna get out of my head,
+work with my hands,
+
+82
+00:03:54,735 --> 00:03:56,319
+try and make peace with things.
+
+83
+00:03:56,820 --> 00:03:59,906
+If you're serious about it,
+you better get your butt in gear.
+
+84
+00:03:59,990 --> 00:04:01,908
+Shift starts in about an hour.
+
+85
+00:04:02,909 --> 00:04:05,871
+<i>The only thing
+Archie knew for sure: he was angry.</i>
+
+86
+00:04:06,621 --> 00:04:08,331
+<i>And hitting things made it better.</i>
+
+87
+00:04:13,170 --> 00:04:14,171
+Meal break, boys.
+
+88
+00:04:17,132 --> 00:04:17,966
+Andrews.
+
+89
+00:04:18,508 --> 00:04:20,260
+This is a union crew.
+
+90
+00:04:20,719 --> 00:04:22,637
+You need to take your mandatory break.
+
+91
+00:04:23,013 --> 00:04:24,014
+Stop working.
+
+92
+00:04:29,352 --> 00:04:31,146
+When I say stop, you stop.
+
+93
+00:04:31,730 --> 00:04:33,690
+Back off. I don't need a break.
+
+94
+00:04:33,815 --> 00:04:35,400
+You don't want to do this, kid.
+
+95
+00:04:35,484 --> 00:04:37,068
+I got you by about 100 pounds.
+
+96
+00:04:43,450 --> 00:04:45,786
+That's it.
+I don't care if you are Fred's kid.
+
+97
+00:04:45,869 --> 00:04:47,829
+- You're off my crew!
+- The hell I am!
+
+98
+00:04:48,413 --> 00:04:50,832
+<i>With Hiram laid up
+in the hospital clinging to life,</i>
+
+99
+00:04:50,916 --> 00:04:53,877
+<i>there was blood in the water,
+and sharks were closing in</i>
+
+100
+00:04:53,960 --> 00:04:56,087
+<i>on the mobster's daughter, Veronica Lodge.</i>
+
+101
+00:04:56,713 --> 00:04:57,923
+From my family to yours.
+
+102
+00:04:59,299 --> 00:05:01,426
+While I love a grand gesture, Elio,
+
+103
+00:05:02,385 --> 00:05:05,514
+- diamonds are a girl's best friend.
+- These are for your father.
+
+104
+00:05:05,597 --> 00:05:08,975
+I heard he's still in the hospital,
+and I wanted to come here personally
+
+105
+00:05:09,059 --> 00:05:13,188
+- to tell you I'm praying he pulls through.
+- Well, to paraphrase Samuel Clemens,
+
+106
+00:05:13,772 --> 00:05:16,525
+reports of his death
+have been greatly exaggerated.
+
+107
+00:05:16,733 --> 00:05:18,860
+The vultures are circling, Veronica.
+
+108
+00:05:19,194 --> 00:05:21,071
+They're eager to swoop in
+on his territory.
+
+109
+00:05:21,154 --> 00:05:22,489
+Talking about yourself?
+
+110
+00:05:22,572 --> 00:05:24,658
+I'm offering some friendly advice.
+
+111
+00:05:24,741 --> 00:05:28,453
+Jobs like the hit on your father,
+it's very rare they go unfinished.
+
+112
+00:05:29,746 --> 00:05:31,915
+<i>Yes, we all had our problems.</i>
+
+113
+00:05:32,082 --> 00:05:33,583
+<i>The town was drowning in them.</i>
+
+114
+00:05:33,667 --> 00:05:36,294
+<i>A good-looking one was about
+to walk through my door.</i>
+
+115
+00:05:40,674 --> 00:05:42,384
+Nice hat, Bacall.
+
+116
+00:05:45,470 --> 00:05:47,013
+I've got a job for you, Jones.
+
+117
+00:05:48,056 --> 00:05:49,391
+I want you...
+
+118
+00:05:50,475 --> 00:05:52,269
+to find out who shot my father.
+
+119
+00:05:54,938 --> 00:05:57,148
+You'll get the other half
+when you give me their name.
+
+120
+00:05:58,692 --> 00:05:59,693
+That is a big job.
+
+121
+00:06:02,112 --> 00:06:05,782
+Half the people in this town wanna
+see your old man kick the maple barrel.
+
+122
+00:06:05,991 --> 00:06:07,200
+- No offense.
+- None taken.
+
+123
+00:06:07,492 --> 00:06:09,077
+I'll give you your first suspect.
+
+124
+00:06:12,289 --> 00:06:15,876
+My mother. A few weeks ago,
+I overheard my parents arguing.
+
+125
+00:06:15,959 --> 00:06:18,920
+It was right before the quarantine,
+after I had my seizure.
+
+126
+00:06:19,170 --> 00:06:20,797
+No. I supported you.
+
+127
+00:06:20,881 --> 00:06:23,717
+- You swore that this wouldn't happen.
+- What is going on?
+
+128
+00:06:23,800 --> 00:06:25,886
+<i>My mother was berating my father.</i>
+
+129
+00:06:26,052 --> 00:06:27,804
+Something about breaking a promise.
+
+130
+00:06:30,974 --> 00:06:33,602
+- What if you don't like what I find?
+- I'm a big girl.
+
+131
+00:06:33,810 --> 00:06:34,811
+I can take it.
+
+132
+00:06:35,687 --> 00:06:36,646
+Well, then...
+
+133
+00:06:37,856 --> 00:06:40,108
+Consider me your Philip Marlowe.
+
+134
+00:06:40,692 --> 00:06:43,695
+<i>I didn't mind playing detective,
+especially for this price.</i>
+
+135
+00:06:43,778 --> 00:06:47,282
+<i>But if I'd known then and there
+where this investigation would lead me,</i>
+
+136
+00:06:48,199 --> 00:06:49,868
+<i>I never would've taken the money.</i>
+
+137
+00:06:56,625 --> 00:07:00,211
+- To what do I owe the pleasure?
+- I'll just get right to it, Madam Mayor.
+
+138
+00:07:01,296 --> 00:07:03,048
+- You shoot your husband?
+- Excuse me?
+
+139
+00:07:03,965 --> 00:07:06,384
+- I love my husband.
+- Uh-huh. But did you shoot him?
+
+140
+00:07:06,927 --> 00:07:08,929
+I hear not all is well at The Pembrooke.
+
+141
+00:07:09,012 --> 00:07:10,722
+Records and witnesses will attest,
+
+142
+00:07:10,805 --> 00:07:13,141
+I was on the phone with Hiram
+when he was shot,
+
+143
+00:07:13,642 --> 00:07:15,518
+picking up lunch at Pop's.
+
+144
+00:07:15,727 --> 00:07:18,480
+What were you and Hiram arguing about
+when Veronica had a seizure?
+
+145
+00:07:18,563 --> 00:07:20,482
+Well, Mr. Jones, if you must know...
+
+146
+00:07:21,441 --> 00:07:23,860
+we fought
+because I caught Hiram having an affair.
+
+147
+00:07:24,486 --> 00:07:28,365
+I had been suspicious for a while,
+so, I had Sheriff Minetta follow him.
+
+148
+00:07:29,157 --> 00:07:31,451
+This was before he was butchered,
+of course.
+
+149
+00:07:32,869 --> 00:07:33,703
+And he...
+
+150
+00:07:35,455 --> 00:07:36,456
+gave me these.
+
+151
+00:07:40,835 --> 00:07:42,295
+Now, I don't know who she is,
+
+152
+00:07:43,004 --> 00:07:45,173
+but they met regularly
+at the Five Seasons.
+
+153
+00:07:45,256 --> 00:07:47,634
+But Hiram having another woman
+is good motive to shoot him.
+
+154
+00:07:47,717 --> 00:07:48,927
+No, it isn't.
+
+155
+00:07:49,636 --> 00:07:51,721
+I simply asked him to end it, and he did.
+
+156
+00:07:51,805 --> 00:07:54,599
+I'm telling you this
+because I have nothing to hide.
+
+157
+00:07:56,101 --> 00:07:58,311
+Keep those. I mean, who knows?
+
+158
+00:07:58,395 --> 00:08:01,272
+Maybe Hiram's mistress was angry
+when he called it quits.
+
+159
+00:08:01,356 --> 00:08:03,358
+You do know how volatile blonds can be.
+
+160
+00:08:07,404 --> 00:08:11,533
+No. You're not going to the job site today
+after you picked a fight yesterday.
+
+161
+00:08:12,409 --> 00:08:15,203
+I was trying to do my job.
+It wasn't my fault. And then Vic--
+
+162
+00:08:15,286 --> 00:08:18,540
+Vic? Vic who has worked for me
+for a very a long time?
+
+163
+00:08:18,957 --> 00:08:21,167
+- Who knows what he is doing?
+- Fine. Whatever.
+
+164
+00:08:21,584 --> 00:08:23,461
+No. We're not done here, young man.
+
+165
+00:08:23,545 --> 00:08:26,923
+You wanna explain to me
+how I found this in your bedroom?
+
+166
+00:08:27,007 --> 00:08:30,385
+You think you're the first kid
+to take a drink in high school? No.
+
+167
+00:08:30,635 --> 00:08:33,430
+- This does not solve your problems.
+- I'm out of here.
+
+168
+00:08:33,513 --> 00:08:35,390
+Fine. Take a walk. Clear your head.
+
+169
+00:08:35,473 --> 00:08:38,560
+While you're out there,
+think about how you need to shape up!
+
+170
+00:08:41,604 --> 00:08:46,276
+We are gathered today
+to mourn the passing of one of our own.
+
+171
+00:08:48,903 --> 00:08:49,946
+Betty.
+
+172
+00:08:50,530 --> 00:08:53,241
+Sweet, darling Betty.
+You've come to pay your respects.
+
+173
+00:08:53,992 --> 00:08:57,537
+Well, Uncle Claudius was family, so...
+
+174
+00:08:57,620 --> 00:08:58,705
+Mourn with us, cousin.
+
+175
+00:09:03,376 --> 00:09:09,007
+Tragically, this ungrateful town never
+welcomed Claudius to its bosom.
+
+176
+00:09:09,090 --> 00:09:13,094
+And I believe that is why
+he committed the most cardinal of sins...
+
+177
+00:09:14,554 --> 00:09:15,638
+taking his own life.
+
+178
+00:09:17,807 --> 00:09:19,684
+Crocodile tears.
+
+179
+00:09:25,815 --> 00:09:27,484
+While I appreciate the company,
+
+180
+00:09:28,276 --> 00:09:30,612
+tell me,
+what are you really doing here, Betty,
+
+181
+00:09:30,987 --> 00:09:32,155
+at our uncle's funeral?
+
+182
+00:09:32,238 --> 00:09:33,364
+I came to talk to you.
+
+183
+00:09:34,324 --> 00:09:39,245
+Cheryl, people connected to your mother
+keep dying by poisoning,
+
+184
+00:09:39,579 --> 00:09:41,664
+or by strange suicides,
+
+185
+00:09:41,748 --> 00:09:43,208
+including your father.
+
+186
+00:09:44,417 --> 00:09:45,502
+My father...
+
+187
+00:09:46,711 --> 00:09:49,380
+hung himself in a barn, Betty.
+
+188
+00:09:49,839 --> 00:09:51,925
+He slipped a rope around his neck
+
+189
+00:09:52,008 --> 00:09:54,427
+and kicked a maple barrel out
+from under him.
+
+190
+00:09:55,470 --> 00:09:56,471
+End of story.
+
+191
+00:09:57,222 --> 00:09:58,306
+Is everything okay?
+
+192
+00:09:58,890 --> 00:10:01,184
+Betty was being a gnat,
+as usual, Tee-Tee.
+
+193
+00:10:01,518 --> 00:10:04,270
+- And I don't have any patience for it.
+- Back off, Betty.
+
+194
+00:10:05,188 --> 00:10:06,314
+It's been a rough day.
+
+195
+00:10:09,317 --> 00:10:11,820
+Sweet Pea, Fangs.
+Why bring me here? I'm on a case.
+
+196
+00:10:11,903 --> 00:10:15,448
+I heard the Gargoyle Gang is riled up.
+They're looking for Tall Boy.
+
+197
+00:10:15,532 --> 00:10:19,119
+And as long as his body's down here,
+it's a ticking time bomb.
+
+198
+00:10:19,202 --> 00:10:21,704
+Yeah, well,
+it's too hot to move him right now.
+
+199
+00:10:21,788 --> 00:10:22,664
+Hey.
+
+200
+00:10:24,165 --> 00:10:25,583
+Let's not lose our heads.
+
+201
+00:10:25,667 --> 00:10:28,378
+Okay? Fangs,
+I need you to stay here with Tall Boy.
+
+202
+00:10:28,461 --> 00:10:31,047
+And I need you to lock this place up.
+I'm serious.
+
+203
+00:10:31,422 --> 00:10:33,550
+Sweet Pea,
+you need to tail someone for me.
+
+204
+00:10:38,888 --> 00:10:40,181
+<i>Nico, Leo.</i>
+
+205
+00:10:40,765 --> 00:10:41,808
+We're in a crisis.
+
+206
+00:10:41,891 --> 00:10:45,395
+The mob underworld smells blood,
+and we need to change the narrative.
+
+207
+00:10:45,895 --> 00:10:48,523
+Obscure the fact
+that my father's down for the count,
+
+208
+00:10:48,606 --> 00:10:50,692
+and present a strong front.
+
+209
+00:10:50,775 --> 00:10:52,402
+- Too late.
+- People are talking.
+
+210
+00:10:52,986 --> 00:10:55,780
+No one's seen the Man in Black.
+No one's collecting the vig.
+
+211
+00:10:55,864 --> 00:10:57,740
+What? Why the hell not?
+
+212
+00:10:57,824 --> 00:11:00,160
+We should get out there
+and start collecting, immediately.
+
+213
+00:11:00,243 --> 00:11:02,287
+Nico and I have been discussing options.
+
+214
+00:11:02,620 --> 00:11:06,040
+It might be in your family's best interest
+to align with the Grandes.
+
+215
+00:11:06,124 --> 00:11:07,792
+You mean Elio's family?
+
+216
+00:11:08,084 --> 00:11:10,795
+- Not gonna happen.
+- Your father took a bullet
+
+217
+00:11:10,879 --> 00:11:11,880
+two inches from his heart.
+
+218
+00:11:11,963 --> 00:11:14,424
+If we're not careful,
+our next play could be our last.
+
+219
+00:11:14,507 --> 00:11:18,303
+I don't need you to mob-splain
+what's best for my family.
+
+220
+00:11:18,386 --> 00:11:21,055
+Due respect, you're not being realistic.
+
+221
+00:11:21,806 --> 00:11:24,184
+Due respect, you're fired.
+
+222
+00:11:25,101 --> 00:11:26,644
+- Both of you.
+- Seriously?
+
+223
+00:11:27,103 --> 00:11:29,439
+You're getting rid
+of the only capos you have left?
+
+224
+00:11:29,522 --> 00:11:32,692
+The same two clowns who didn't
+protect my dad from getting shot?
+
+225
+00:11:32,984 --> 00:11:34,152
+Yeah, no, we're good.
+
+226
+00:11:40,074 --> 00:11:41,784
+I consider you both inner circle.
+
+227
+00:11:42,118 --> 00:11:43,953
+Smithers, as my former doorman,
+
+228
+00:11:44,662 --> 00:11:47,874
+and Reggie,
+as my jacked jack of all trades,
+
+229
+00:11:48,374 --> 00:11:50,919
+I asked you here
+because I need people I can trust.
+
+230
+00:11:51,461 --> 00:11:55,215
+Our enemies are sensing weakness,
+and we need to show strength.
+
+231
+00:11:55,298 --> 00:11:56,591
+Veronica, if I may...
+
+232
+00:11:56,883 --> 00:12:01,054
+There was a moment, back in the trenches,
+when our numbers were greatly diminished.
+
+233
+00:12:01,804 --> 00:12:05,558
+We knew the enemy would storm
+the barricade at any moment.
+
+234
+00:12:05,642 --> 00:12:09,312
+I collected the helmets from our dead,
+and propped them atop our bayonets.
+
+235
+00:12:09,395 --> 00:12:13,107
+High enough so that they'd be visible
+to our enemies and give them pause.
+
+236
+00:12:14,025 --> 00:12:15,026
+See, sometimes,
+
+237
+00:12:15,610 --> 00:12:17,195
+it's not what things are,
+
+238
+00:12:17,695 --> 00:12:19,280
+it's what they appear to be.
+
+239
+00:12:21,824 --> 00:12:23,785
+You've just given me an idea, Smithers.
+
+240
+00:12:24,244 --> 00:12:26,287
+But we're gonna need
+your bus driver's cap.
+
+241
+00:12:31,209 --> 00:12:33,836
+So, who's this blond bombshell
+that you're tracking?
+
+242
+00:12:34,212 --> 00:12:35,296
+Hiram's mistress.
+
+243
+00:12:35,672 --> 00:12:38,174
+He broke things off with her.
+She may want revenge.
+
+244
+00:12:38,508 --> 00:12:42,595
+Concierge tipped me off about the floor,
+but I wish they'd given me a room number.
+
+245
+00:12:43,012 --> 00:12:45,265
+Well, maybe there was no room number
+to give.
+
+246
+00:12:49,352 --> 00:12:51,980
+- Thanks for coming with me, by the way.
+- My pleasure.
+
+247
+00:12:52,272 --> 00:12:55,733
+My investigation is on hold
+until I hear back from Dr. Curdle Junior.
+
+248
+00:12:56,192 --> 00:12:59,195
+Turns out,
+there was no autopsy on Claudius.
+
+249
+00:12:59,570 --> 00:13:02,407
+Penelope had him cremated
+before he could perform one.
+
+250
+00:13:02,949 --> 00:13:06,244
+I'm hoping there's something
+in Clifford Blossom's autopsy report.
+
+251
+00:13:07,453 --> 00:13:08,913
+No one's home. Let's move on.
+
+252
+00:13:09,789 --> 00:13:11,291
+Would Bogart move on?
+
+253
+00:13:11,582 --> 00:13:12,959
+Let's just give it a try.
+
+254
+00:13:14,794 --> 00:13:16,629
+What kind of hotel room is unlocked?
+
+255
+00:13:27,390 --> 00:13:32,353
+And now apparently there's
+a not-so-secret sex club in Riverdale.
+
+256
+00:13:41,904 --> 00:13:42,947
+Excuse me.
+
+257
+00:13:47,201 --> 00:13:48,244
+What is this place?
+
+258
+00:13:49,662 --> 00:13:50,663
+The Maple Club.
+
+259
+00:13:51,581 --> 00:13:54,667
+A safe place,
+as long as you know the safe word.
+
+260
+00:13:57,086 --> 00:13:58,921
+You seen this woman? She come here?
+
+261
+00:14:00,089 --> 00:14:01,674
+You just scared off my client.
+
+262
+00:14:13,311 --> 00:14:15,480
+She doesn't work here,
+but I see her around.
+
+263
+00:14:17,190 --> 00:14:18,024
+Try Room 311.
+
+264
+00:14:19,150 --> 00:14:21,778
+Laura, why did Mr. Arklight leave
+in such a rush?
+
+265
+00:14:23,988 --> 00:14:25,073
+Why are you two here?
+
+266
+00:14:25,656 --> 00:14:27,950
+You know this is a private club. Get out.
+
+267
+00:14:28,034 --> 00:14:29,035
+You mean a brothel?
+
+268
+00:14:30,161 --> 00:14:34,207
+By the way, does the new sheriff know
+there's a red light district in Riverdale?
+
+269
+00:14:36,751 --> 00:14:40,088
+My time is costly, children,
+so, what do you want?
+
+270
+00:14:40,713 --> 00:14:45,259
+I knew you were an escort, Auntie,
+but now you're exploiting other women?
+
+271
+00:14:46,969 --> 00:14:49,472
+These women aren't victims, Betty.
+
+272
+00:14:50,390 --> 00:14:53,476
+At The Maple Club,
+it is the men who suffer.
+
+273
+00:14:54,352 --> 00:14:56,020
+We specialize in domination.
+
+274
+00:14:56,396 --> 00:14:58,731
+These ladies make enough
+to start new lives.
+
+275
+00:14:58,815 --> 00:15:01,567
+Oh, please. You are only helping yourself.
+
+276
+00:15:01,651 --> 00:15:02,819
+And why shouldn't I?
+
+277
+00:15:03,903 --> 00:15:05,279
+No one else ever has.
+
+278
+00:15:05,363 --> 00:15:06,781
+When I was eight years old,
+
+279
+00:15:06,864 --> 00:15:08,866
+<i>I was plucked
+from the Sisters of Quiet Mercy</i>
+
+280
+00:15:08,950 --> 00:15:10,076
+<i>by the Blossom family.</i>
+
+281
+00:15:10,159 --> 00:15:13,162
+You poisoned the Sisters
+because they sold you to the Blossoms?
+
+282
+00:15:13,246 --> 00:15:15,289
+I didn't kill those nuns. And, anyway...
+
+283
+00:15:16,290 --> 00:15:18,751
+it was the so-called monsignor
+who sold me,
+
+284
+00:15:18,835 --> 00:15:20,294
+- not the Sisters.
+- Fine.
+
+285
+00:15:20,378 --> 00:15:22,422
+You didn't kill the fake nuns.
+
+286
+00:15:22,505 --> 00:15:23,631
+Did you kill Claudius?
+
+287
+00:15:23,714 --> 00:15:27,885
+- He committed suicide, so I was told.
+- It's pretty convenient, don't you think?
+
+288
+00:15:27,969 --> 00:15:31,639
+Either way, I was right here
+when the poor man died.
+
+289
+00:15:32,515 --> 00:15:33,683
+Ask any of my girls.
+
+290
+00:15:34,684 --> 00:15:38,146
+<i>Fun fact of the day:
+Penelope is the madam of a kink club.</i>
+
+291
+00:15:38,229 --> 00:15:40,356
+Okay, her sob story
+doesn't change the fact
+
+292
+00:15:40,440 --> 00:15:42,150
+that she's a stone-cold murderer.
+
+293
+00:15:42,650 --> 00:15:45,778
+Wanna check out Room 311?
+I could use one of your bobby pins.
+
+294
+00:15:47,655 --> 00:15:51,742
+It's Curdle. Maybe he tracked down
+Clifford's autopsy report.
+
+295
+00:15:51,826 --> 00:15:54,203
+And just like that,
+you are back on the case.
+
+296
+00:15:54,912 --> 00:15:57,373
+- No rest for the wicked.
+- Not in a wicked town.
+
+297
+00:15:59,459 --> 00:16:00,460
+See you later.
+
+298
+00:16:10,636 --> 00:16:16,184
+♪ <i>Sooner or later
+You're gonna be mine ♪</i>
+
+299
+00:16:17,393 --> 00:16:23,733
+♪ <i>Sooner or later you're gonna be fine</i> ♪
+
+300
+00:16:24,150 --> 00:16:25,193
+♪ <i>Baby, it's time...</i> ♪
+
+301
+00:16:25,776 --> 00:16:26,611
+Reggie.
+
+302
+00:16:26,694 --> 00:16:31,282
+♪ <i>I always get my man</i> ♪
+
+303
+00:16:31,365 --> 00:16:34,577
+I think you've had enough, bud.
+Let me get you a cab.
+
+304
+00:16:35,328 --> 00:16:36,871
+I'm a paying customer, Reggie.
+
+305
+00:16:37,497 --> 00:16:41,167
+- I'll leave when I'm ready to leave.
+- Veronica's dealing with enough crap.
+
+306
+00:16:41,626 --> 00:16:43,669
+She doesn't need you making a scene.
+
+307
+00:16:44,378 --> 00:16:46,589
+Can I get another bartender
+in here, please?
+
+308
+00:16:46,672 --> 00:16:48,925
+- Another bartender? Don't touch me.
+- Let's go.
+
+309
+00:16:50,176 --> 00:16:51,677
+Hey, Toby. Toby.
+
+310
+00:16:52,094 --> 00:16:53,638
+It's okay. I know him.
+
+311
+00:16:54,764 --> 00:16:55,598
+He's our friend.
+
+312
+00:16:55,973 --> 00:16:57,934
+It's okay. I'll go.
+
+313
+00:16:59,435 --> 00:17:00,853
+- I'll go.
+- I got him.
+
+314
+00:17:00,937 --> 00:17:02,230
+I got him. It's fine.
+
+315
+00:17:04,315 --> 00:17:05,691
+God.
+
+316
+00:17:07,652 --> 00:17:08,653
+Josie.
+
+317
+00:17:09,237 --> 00:17:11,572
+You can't tell Veronica about this.
+
+318
+00:17:13,366 --> 00:17:14,867
+Listen up, Andrews.
+
+319
+00:17:15,910 --> 00:17:18,120
+You are in free fall,
+and I am not having it.
+
+320
+00:17:18,996 --> 00:17:21,332
+It's time for a literal, and metaphoric,
+
+321
+00:17:21,415 --> 00:17:22,416
+cold shower.
+
+322
+00:17:23,042 --> 00:17:24,752
+Wait. Wait, Josie, don't--
+
+323
+00:17:29,298 --> 00:17:31,133
+<i>At the docks,
+it was a classic con:</i>
+
+324
+00:17:31,551 --> 00:17:34,804
+- <i>Smoke and mirrors with a pretty girl.</i>
+- Collecting for Lodge.
+
+325
+00:17:36,847 --> 00:17:39,308
+- Where are Nico and Leo?
+- No longer in our employ.
+
+326
+00:17:39,767 --> 00:17:40,768
+I'm Veronica.
+
+327
+00:17:41,644 --> 00:17:44,063
+I'm sure you know my father, Hiram Lodge.
+
+328
+00:17:47,900 --> 00:17:50,987
+He doesn't like to be kept waiting,
+and neither do I.
+
+329
+00:17:56,200 --> 00:17:57,243
+See you next week.
+
+330
+00:18:02,665 --> 00:18:04,000
+Well played, Ms. Veronica.
+
+331
+00:18:04,834 --> 00:18:05,835
+Thank you, Smithers.
+
+332
+00:18:06,752 --> 00:18:08,129
+And you, too, Man in Black.
+
+333
+00:18:09,755 --> 00:18:14,343
+Apologies for the delay, Ms. Cooper,
+but this one took some digging.
+
+334
+00:18:14,719 --> 00:18:17,638
+Clifford Blossom's wife requested
+that there be no autopsy.
+
+335
+00:18:18,055 --> 00:18:20,725
+But my father was nothing
+if not a curious man.
+
+336
+00:18:21,058 --> 00:18:23,936
+So, let me guess.
+He performed one anyways?
+
+337
+00:18:24,770 --> 00:18:27,982
+What does it say?
+That he died of asphyxiation by hanging?
+
+338
+00:18:28,190 --> 00:18:30,443
+There was bruising around the esophagus,
+
+339
+00:18:30,943 --> 00:18:32,278
+consistent with a hanging.
+
+340
+00:18:32,820 --> 00:18:34,196
+However...
+
+341
+00:18:35,031 --> 00:18:38,034
+there was also tetrodotoxin
+in his bloodstream.
+
+342
+00:18:38,117 --> 00:18:39,160
+Puffer fish venom.
+
+343
+00:18:39,660 --> 00:18:42,997
+In Clifford's case,
+the dose was almost certainly fatal.
+
+344
+00:18:43,080 --> 00:18:46,292
+So, you're saying Clifford
+may not have died from hanging,
+
+345
+00:18:47,376 --> 00:18:50,004
+- but from being poisoned.
+- I'm saying that
+
+346
+00:18:50,421 --> 00:18:53,424
+Clifford Blossom was already dead
+when he hung himself.
+
+347
+00:18:54,508 --> 00:18:56,761
+<i>And Betty Cooper thought, "Gotcha."</i>
+
+348
+00:19:01,974 --> 00:19:03,017
+What's this?
+
+349
+00:19:03,100 --> 00:19:05,227
+Um, lemon, ginger, and cayenne.
+
+350
+00:19:11,108 --> 00:19:12,234
+Where is your dad?
+
+351
+00:19:12,526 --> 00:19:13,569
+He's at work.
+
+352
+00:19:14,445 --> 00:19:17,948
+I got canned on my first day,
+so, I went to drown my sorrows.
+
+353
+00:19:19,533 --> 00:19:20,660
+Look, Archie.
+
+354
+00:19:21,744 --> 00:19:24,121
+I know we didn't talk much last year,
+
+355
+00:19:24,205 --> 00:19:28,334
+and I can't even attempt to guess
+at the hell that you've been through.
+
+356
+00:19:28,417 --> 00:19:31,796
+And maybe all you can do now
+is wallow in booze,
+
+357
+00:19:31,879 --> 00:19:32,922
+and pick fights.
+
+358
+00:19:33,464 --> 00:19:36,967
+But personally, I think you need
+to channel your anger
+
+359
+00:19:37,051 --> 00:19:38,761
+into something constructive,
+
+360
+00:19:38,844 --> 00:19:41,430
+like music, maybe.
+
+361
+00:19:42,640 --> 00:19:43,808
+- Josie--
+- Or...
+
+362
+00:19:44,725 --> 00:19:46,936
+if you're in the mood to hit things...
+
+363
+00:19:48,312 --> 00:19:49,814
+Kevin's dad boxes at the gym.
+
+364
+00:19:50,981 --> 00:19:54,151
+Either way, you've gotta deal
+with your demons head-on.
+
+365
+00:19:56,737 --> 00:19:57,738
+I thought I did.
+
+366
+00:19:58,572 --> 00:20:00,700
+<i>In the cabin, I thought I faced my demons.</i>
+
+367
+00:20:01,617 --> 00:20:02,868
+And killed them.
+
+368
+00:20:07,123 --> 00:20:07,957
+And myself.
+
+369
+00:20:09,250 --> 00:20:10,251
+You're losing me.
+
+370
+00:20:10,334 --> 00:20:11,544
+You're right, Josie.
+
+371
+00:20:12,378 --> 00:20:14,088
+I gotta face this head-on.
+
+372
+00:20:15,589 --> 00:20:17,717
+And there's one person
+I still haven't seen
+
+373
+00:20:17,800 --> 00:20:19,260
+since I've been back in Riverdale.
+
+374
+00:20:19,677 --> 00:20:21,095
+Archie, where are you going?
+
+375
+00:20:21,804 --> 00:20:25,307
+I'm going to face,
+and kill, one last demon.
+
+376
+00:20:27,643 --> 00:20:30,104
+<i>That's one thing
+about being a crime boss:</i>
+
+377
+00:20:30,479 --> 00:20:32,440
+<i>You learn to never leave a paper trail.</i>
+
+378
+00:20:33,232 --> 00:20:36,986
+<i>But Hermione Lodge,
+it seems, was out of practice.</i>
+
+379
+00:20:38,195 --> 00:20:39,572
+What the hell is this, Mom?
+
+380
+00:20:39,905 --> 00:20:42,241
+I was entering today's take
+into Daddy's ledger
+
+381
+00:20:42,324 --> 00:20:45,536
+when I noticed a shady collection
+of invoices and receipts.
+
+382
+00:20:45,619 --> 00:20:47,580
+So, I dug a little deeper.
+
+383
+00:20:49,582 --> 00:20:51,333
+And Daddy's Fizzle Rocks empire?
+
+384
+00:20:52,918 --> 00:20:54,253
+You're a part of it, Mom.
+
+385
+00:20:55,045 --> 00:20:56,088
+No.
+
+386
+00:20:56,839 --> 00:20:59,592
+You ordered the quarantine.
+You paid these invoices.
+
+387
+00:20:59,967 --> 00:21:02,803
+- It's your name in blood-red ink.
+- No, Veronica.
+
+388
+00:21:03,763 --> 00:21:07,725
+I found out that your father
+and Claudius were making drugs
+
+389
+00:21:07,808 --> 00:21:10,978
+in the new prison,
+and at the Blossom Maple Factory,
+
+390
+00:21:11,061 --> 00:21:13,397
+so, I told him to shut it down.
+
+391
+00:21:13,814 --> 00:21:16,025
+I even helped him create a distraction,
+
+392
+00:21:16,484 --> 00:21:18,486
+so he could do it quickly and cleanly.
+
+393
+00:21:18,569 --> 00:21:19,695
+The quarantine.
+
+394
+00:21:19,779 --> 00:21:20,988
+It was a smoke screen.
+
+395
+00:21:21,989 --> 00:21:24,450
+But then, typical of your father,
+he lied to me.
+
+396
+00:21:24,533 --> 00:21:26,202
+Instead of shutting it down,
+
+397
+00:21:26,285 --> 00:21:29,330
+he consolidated everything
+into the prison. Believe me.
+
+398
+00:21:29,663 --> 00:21:31,624
+Veronica, I want no part of this.
+
+399
+00:21:33,667 --> 00:21:34,668
+We agree, then.
+
+400
+00:21:35,544 --> 00:21:37,379
+Let's end this nightmare.
+
+401
+00:21:37,546 --> 00:21:39,882
+Destroy the drugs,
+and the means of production.
+
+402
+00:21:39,965 --> 00:21:41,133
+Burn it to the ground.
+
+403
+00:21:41,217 --> 00:21:42,843
+While Daddy can't lift a finger
+to stop us.
+
+404
+00:21:42,927 --> 00:21:45,554
+Now, that is one option, yes.
+
+405
+00:21:46,096 --> 00:21:48,140
+Or we could sell it.
+
+406
+00:21:49,016 --> 00:21:50,851
+I already have a buyer lined up.
+
+407
+00:21:50,976 --> 00:21:51,977
+All-cash offer.
+
+408
+00:21:52,061 --> 00:21:55,189
+He's willing to take the drugs,
+the lab, everything.
+
+409
+00:21:57,233 --> 00:22:00,736
+Shouldn't we get something in return
+for all the pain he has caused us?
+
+410
+00:22:02,863 --> 00:22:05,366
+It's over, Auntie Blossom.
+
+411
+00:22:05,908 --> 00:22:06,951
+I know what you did.
+
+412
+00:22:07,034 --> 00:22:08,828
+I know what happened in the barn.
+
+413
+00:22:09,119 --> 00:22:11,956
+How you faked Clifford's hanging
+and lied to the police.
+
+414
+00:22:12,331 --> 00:22:15,334
+And who is your witness? Cheryl?
+
+415
+00:22:16,794 --> 00:22:20,256
+Proof that you poisoned Clifford
+with puffer fish venom.
+
+416
+00:22:20,339 --> 00:22:21,465
+You'll go to jail for this.
+
+417
+00:22:21,549 --> 00:22:24,802
+Won't be justice for everyone you killed,
+but it's a good start.
+
+418
+00:22:27,638 --> 00:22:29,640
+You think you know what I've done,
+
+419
+00:22:30,140 --> 00:22:32,685
+but have you paused to consider why?
+
+420
+00:22:34,395 --> 00:22:37,606
+Because you're a serial killer,
+a black widow.
+
+421
+00:22:37,690 --> 00:22:40,067
+The Red Dahlia, let's call you.
+
+422
+00:22:40,401 --> 00:22:41,986
+You poison people.
+
+423
+00:22:42,987 --> 00:22:44,196
+Not people, Betty.
+
+424
+00:22:45,990 --> 00:22:46,824
+Men.
+
+425
+00:22:47,783 --> 00:22:51,370
+I'm not admitting anything,
+but they are the true poison.
+
+426
+00:22:51,745 --> 00:22:53,247
+Clifford killed my son.
+
+427
+00:22:53,330 --> 00:22:55,082
+Daryl was a Judas.
+
+428
+00:22:55,165 --> 00:22:56,417
+And Claudius...
+
+429
+00:22:56,959 --> 00:22:59,211
+I'm surprised
+you're not thanking me for that.
+
+430
+00:22:59,295 --> 00:23:00,838
+Why would I thank you?
+
+431
+00:23:00,921 --> 00:23:02,631
+Because he caused your seizure.
+
+432
+00:23:03,090 --> 00:23:05,009
+He caused everyone's seizures.
+
+433
+00:23:05,467 --> 00:23:08,554
+Claudius was running
+a Fizzle Rocks operation
+
+434
+00:23:08,637 --> 00:23:11,015
+from our once-distinguished maple factory,
+
+435
+00:23:11,098 --> 00:23:14,268
+and dumping the runoff
+into Sweetwater River.
+
+436
+00:23:14,351 --> 00:23:17,855
+- Fizzle Rocks caused the seizures?
+- No, Betty.
+
+437
+00:23:17,938 --> 00:23:20,566
+The runoff from the manufacturing
+of the drug.
+
+438
+00:23:20,649 --> 00:23:21,650
+Not the drug itself.
+
+439
+00:23:21,734 --> 00:23:23,819
+But why did it only affect girls?
+
+440
+00:23:25,362 --> 00:23:29,158
+I am an herbalist, Betty,
+not a medical doctor.
+
+441
+00:23:29,241 --> 00:23:33,203
+Tests on Sweetwater Reservoir
+were ordered and faked.
+
+442
+00:23:34,121 --> 00:23:36,582
+But Claudius had every intention
+
+443
+00:23:36,665 --> 00:23:39,710
+of continuing
+to poison the town with drugs,
+
+444
+00:23:40,252 --> 00:23:43,464
+so, it was fitting that poison be his end.
+
+445
+00:23:43,547 --> 00:23:48,594
+Just because someone is a horrible person
+doesn't give you the right to kill them.
+
+446
+00:23:48,677 --> 00:23:49,845
+Doesn't it?
+
+447
+00:23:50,095 --> 00:23:53,307
+Isn't that what you did
+with the poison that infected your home?
+
+448
+00:23:53,390 --> 00:23:54,642
+The imposter Chic?
+
+449
+00:23:56,352 --> 00:23:57,686
+Hal tells me things, too.
+
+450
+00:23:58,062 --> 00:24:00,606
+<i>When you delivered Chic to the Black Hood,</i>
+
+451
+00:24:00,689 --> 00:24:02,232
+you sent him to his death.
+
+452
+00:24:02,942 --> 00:24:04,443
+You're not so innocent, Betty.
+
+453
+00:24:04,985 --> 00:24:07,321
+And if you insist on turning me in,
+
+454
+00:24:08,572 --> 00:24:10,699
+I will gladly do the same to you.
+
+455
+00:24:12,159 --> 00:24:14,328
+<i>And that is when Betty realized:</i>
+
+456
+00:24:14,954 --> 00:24:17,164
+<i>No one's innocent in Crime Town.</i>
+
+457
+00:24:18,290 --> 00:24:21,210
+<i>Certainly not
+Hiram Lodge's mystery mistress.</i>
+
+458
+00:24:33,305 --> 00:24:35,099
+What are you doing in my room?
+
+459
+00:24:36,934 --> 00:24:38,102
+That's a good question.
+
+460
+00:24:39,353 --> 00:24:40,354
+Here's another one.
+
+461
+00:24:41,438 --> 00:24:43,190
+Why's a water inspector got a gun?
+
+462
+00:24:44,650 --> 00:24:46,151
+I only wanna talk, Ms. Mulwray.
+
+463
+00:24:46,235 --> 00:24:48,487
+Who the hell are you?
+How do you know my name?
+
+464
+00:24:48,570 --> 00:24:50,447
+It's the Glamourge Egg, right?
+
+465
+00:24:51,281 --> 00:24:53,075
+You shoot me, I'll drop it.
+
+466
+00:24:56,745 --> 00:24:58,247
+I've seen one of these before.
+
+467
+00:24:58,914 --> 00:25:01,667
+Hiram gives them as gifts.
+Maybe in your case, payment.
+
+468
+00:25:01,750 --> 00:25:04,294
+And it costs more
+than you'll make in a lifetime.
+
+469
+00:25:04,503 --> 00:25:07,214
+So, put it down before you break it.
+
+470
+00:25:08,132 --> 00:25:11,635
+Based on the things I found in your room,
+here's what I know about you.
+
+471
+00:25:12,011 --> 00:25:14,096
+You're a health and sanitation inspector.
+
+472
+00:25:14,430 --> 00:25:17,266
+Must pay quite a bit
+if you can afford the Five Seasons.
+
+473
+00:25:18,308 --> 00:25:20,728
+- Unless Hiram put you up.
+- But I'm no kept woman.
+
+474
+00:25:21,687 --> 00:25:23,731
+I do a job, I get paid for it.
+
+475
+00:25:24,273 --> 00:25:27,526
+Report says you were sent
+to investigate Riverdale's water supply.
+
+476
+00:25:27,609 --> 00:25:30,529
+Specifically,
+Sweetwater River and Reservoir. Why?
+
+477
+00:25:31,363 --> 00:25:34,199
+Young women in town were having seizures.
+
+478
+00:25:34,283 --> 00:25:35,534
+I was sent in to help.
+
+479
+00:25:35,617 --> 00:25:37,077
+Brought in by Hiram Lodge.
+
+480
+00:25:37,536 --> 00:25:39,663
+He also make you write to Governor Dooley,
+
+481
+00:25:40,122 --> 00:25:42,458
+advising him
+to support a town-wide quarantine?
+
+482
+00:25:43,000 --> 00:25:44,126
+You see, I'm confused,
+
+483
+00:25:44,209 --> 00:25:47,921
+because the letter says the water's dirty,
+but the report says it's clean,
+
+484
+00:25:48,005 --> 00:25:50,591
+you either lied to the governor
+or faked that report.
+
+485
+00:25:52,259 --> 00:25:53,927
+- Or both.
+- You know what?
+
+486
+00:25:55,345 --> 00:25:58,390
+Break the egg if you want. I don't care.
+
+487
+00:25:58,849 --> 00:26:01,810
+Just get out of my room
+before I call hotel security.
+
+488
+00:26:07,566 --> 00:26:11,236
+<i>Why was Hiram faking
+water test reports? What was he hiding?</i>
+
+489
+00:26:11,320 --> 00:26:13,530
+<i>What did any of this have to do
+with who shot him?</i>
+
+490
+00:26:15,616 --> 00:26:16,450
+Yeah.
+
+491
+00:26:16,533 --> 00:26:20,287
+<i>I followed Hermione Lodge
+like you asked. You better get out here.</i>
+
+492
+00:26:21,830 --> 00:26:23,499
+Stay down, and keep quiet.
+
+493
+00:26:30,214 --> 00:26:31,215
+Is that...?
+
+494
+00:26:32,257 --> 00:26:33,258
+It can't be.
+
+495
+00:26:35,511 --> 00:26:36,720
+Sheriff Minetta's alive?
+
+496
+00:26:37,554 --> 00:26:40,432
+- Thought he was decapitated.
+- Nope. From the sounds of it,
+
+497
+00:26:40,516 --> 00:26:42,976
+he and Hermione
+have been having an affair for months.
+
+498
+00:26:43,060 --> 00:26:45,979
+- Wait, listen.
+- There's too many people asking questions.
+
+499
+00:26:46,897 --> 00:26:49,149
+Which means,
+our little outstanding problem,
+
+500
+00:26:49,983 --> 00:26:52,277
+you need to take care of tonight.
+
+501
+00:26:52,778 --> 00:26:54,113
+Now clear the decks.
+
+502
+00:26:55,781 --> 00:26:57,282
+Use your old sheriff's gun.
+
+503
+00:26:58,367 --> 00:27:00,494
+Then all signs will point to FP.
+
+504
+00:27:00,577 --> 00:27:02,871
+- They're talking about framing my dad.
+- For what?
+
+505
+00:27:03,831 --> 00:27:05,707
+I have to figure it out and warn him.
+
+506
+00:27:28,147 --> 00:27:30,899
+<i>Back in an eerily deserted
+Riverdale General,</i>
+
+507
+00:27:30,983 --> 00:27:33,152
+<i>Archie Andrews was a man on a mission.</i>
+
+508
+00:27:33,610 --> 00:27:35,946
+<i>On a collision course
+with his dark destiny.</i>
+
+509
+00:27:40,367 --> 00:27:43,287
+<i>After months of torment
+at the hands of the Man in Black...</i>
+
+510
+00:27:46,456 --> 00:27:49,626
+<i>he was trying to bring a sorry chapter
+in his life to a close...</i>
+
+511
+00:27:50,627 --> 00:27:52,171
+<i>the only way he knew how.</i>
+
+512
+00:28:01,847 --> 00:28:04,766
+- I need to talk to you.
+- There's something at the hospital.
+
+513
+00:28:04,850 --> 00:28:06,935
+No. You can't go there. It's a setup.
+
+514
+00:28:08,270 --> 00:28:10,480
+Hermione and Minetta-- He's alive.
+
+515
+00:28:10,981 --> 00:28:13,108
+They plotted together to kill Hiram Lodge.
+
+516
+00:28:13,192 --> 00:28:14,193
+- What?
+- Yes.
+
+517
+00:28:14,568 --> 00:28:16,987
+They're going to finish the job tonight
+and pin it on you.
+
+518
+00:28:17,070 --> 00:28:19,198
+- Minetta's alive?
+- Dad, there is a lot you need to know.
+
+519
+00:28:19,281 --> 00:28:20,949
+I just got back from the coroner's office.
+
+520
+00:28:22,326 --> 00:28:24,912
+A week ago, the torso
+of a Michael Minetta was found
+
+521
+00:28:24,995 --> 00:28:26,288
+without its head and hands.
+
+522
+00:28:26,997 --> 00:28:29,666
+But it wasn't Sheriff Minetta,
+because I just saw him.
+
+523
+00:28:30,167 --> 00:28:32,169
+- He's very much alive.
+- Oh, my.
+
+524
+00:28:32,252 --> 00:28:35,088
+- Someone must've made a grave mistake--
+- Save it, Junior.
+
+525
+00:28:35,172 --> 00:28:37,007
+Who asked you to fake Minetta's death?
+
+526
+00:28:39,843 --> 00:28:41,053
+Hermione Lodge.
+
+527
+00:28:41,303 --> 00:28:45,098
+I saw Minetta and Hermione,
+up at some secret love shack up north.
+
+528
+00:28:45,641 --> 00:28:48,310
+I heard them talking about setting you up.
+
+529
+00:28:48,393 --> 00:28:52,231
+She'll try to put Hiram's shooting on you.
+You need to arrest them.
+
+530
+00:28:52,314 --> 00:28:53,315
+I can't do that.
+
+531
+00:28:54,524 --> 00:28:56,526
+Yeah, you can. You're the sheriff.
+
+532
+00:28:57,236 --> 00:28:59,404
+They've been trying to murder Hiram Lodge.
+
+533
+00:28:59,488 --> 00:29:00,322
+No.
+
+534
+00:29:01,990 --> 00:29:03,033
+No, they didn't.
+
+535
+00:29:05,285 --> 00:29:06,620
+I shot Hiram.
+
+536
+00:29:07,204 --> 00:29:08,914
+- What?
+- Hermione came to me.
+
+537
+00:29:08,997 --> 00:29:10,749
+She wanted it done. And I...
+
+538
+00:29:12,251 --> 00:29:13,293
+I wanted revenge.
+
+539
+00:29:13,919 --> 00:29:15,754
+You think I forgot about Riot Night?
+
+540
+00:29:16,755 --> 00:29:19,466
+That son of a bitch came close
+to getting you killed.
+
+541
+00:29:19,549 --> 00:29:23,637
+I've been biding my time,
+waiting for the perfect opportunity.
+
+542
+00:29:24,388 --> 00:29:27,891
+If you and Hermione tried to kill Hiram,
+why'd she appoint you sheriff?
+
+543
+00:29:28,892 --> 00:29:30,269
+Payment. It was my payment.
+
+544
+00:29:30,936 --> 00:29:34,356
+I was naive enough to think
+the office of the sheriff would protect me
+
+545
+00:29:34,439 --> 00:29:36,149
+if Hermione got an itch
+to double-cross me.
+
+546
+00:29:36,525 --> 00:29:37,651
+Guess I was wrong.
+
+547
+00:29:39,778 --> 00:29:42,197
+Guess it's lucky
+that you have me in your corner.
+
+548
+00:29:44,283 --> 00:29:45,701
+I have a confession to make.
+
+549
+00:29:46,952 --> 00:29:47,911
+About Tall Boy.
+
+550
+00:29:49,371 --> 00:29:51,957
+There's a way
+that I can solve both of our problems.
+
+551
+00:29:52,499 --> 00:29:54,167
+But we'll need Ms. Cooper's help.
+
+552
+00:29:56,253 --> 00:29:58,213
+I came here to end our story.
+
+553
+00:29:58,755 --> 00:30:00,966
+When we first met, I was a scared kid,
+
+554
+00:30:01,341 --> 00:30:03,927
+afraid that I could lose everything.
+
+555
+00:30:04,678 --> 00:30:08,223
+You took me under your wing,
+taught me to use fear as a weapon.
+
+556
+00:30:09,057 --> 00:30:10,434
+And for a while, it worked.
+
+557
+00:30:11,226 --> 00:30:12,561
+But it also hurt people.
+
+558
+00:30:12,978 --> 00:30:17,107
+Of all the horrible things you've done,
+you know what enrages me the most?
+
+559
+00:30:17,524 --> 00:30:19,985
+That after my father was shot
+by the Black Hood,
+
+560
+00:30:20,527 --> 00:30:22,404
+and almost died in my arms,
+
+561
+00:30:22,988 --> 00:30:24,656
+you hired some stooge...
+
+562
+00:30:25,532 --> 00:30:27,743
+to take another shot at him, in our house.
+
+563
+00:30:32,331 --> 00:30:34,666
+Maybe it's time I balance the scales.
+
+564
+00:30:43,467 --> 00:30:44,676
+A shot for a shot.
+
+565
+00:31:25,425 --> 00:31:27,552
+FP. Alice.
+
+566
+00:31:27,636 --> 00:31:29,304
+- Hermione.
+- What's going on here?
+
+567
+00:31:29,388 --> 00:31:31,515
+Perfect timing. We'll start the interview.
+
+568
+00:31:31,973 --> 00:31:33,892
+All right, FP, let's check the levels.
+
+569
+00:31:34,393 --> 00:31:36,144
+- What, I just start talking?
+- Yeah.
+
+570
+00:31:36,561 --> 00:31:39,147
+Well, Madam Mayor,
+I am pleased to announce
+
+571
+00:31:39,231 --> 00:31:41,566
+that we caught the man
+who shot your husband.
+
+572
+00:31:44,528 --> 00:31:46,321
+You did?
+
+573
+00:31:47,155 --> 00:31:48,990
+- Who was it?
+- Gerald Petite.
+
+574
+00:31:49,449 --> 00:31:51,743
+But you might know him as Tall Boy.
+
+575
+00:31:51,993 --> 00:31:55,330
+It seems that Hiram kept him alive
+in a secret cabin in the north,
+
+576
+00:31:55,414 --> 00:31:56,415
+to carry out...
+
+577
+00:31:56,998 --> 00:31:58,333
+odd jobs for him.
+
+578
+00:32:01,211 --> 00:32:02,337
+Can you imagine that?
+
+579
+00:32:03,547 --> 00:32:05,757
+Tall Boy resisted arrest, got violent,
+
+580
+00:32:05,841 --> 00:32:09,052
+and unfortunately,
+I was forced to discharge my sidearm.
+
+581
+00:32:10,011 --> 00:32:12,597
+He died on the way to the hospital.
+
+582
+00:32:14,474 --> 00:32:17,310
+Well, thank goodness it's over.
+
+583
+00:32:18,019 --> 00:32:19,146
+And so neatly, too.
+
+584
+00:32:20,647 --> 00:32:23,066
+You know,
+I would love to interview you next.
+
+585
+00:32:23,150 --> 00:32:27,320
+Get your perspective as mayor,
+and wife of the victim, of course.
+
+586
+00:32:27,988 --> 00:32:29,489
+That's a great idea, Alice.
+
+587
+00:32:29,823 --> 00:32:33,243
+It's important that the mayor and I both
+go on the record about what happened.
+
+588
+00:32:33,326 --> 00:32:34,786
+Present a united front.
+
+589
+00:32:35,579 --> 00:32:38,874
+Don't you agree, Madam Mayor?
+That we should be on the same page?
+
+590
+00:32:39,624 --> 00:32:40,459
+Yes.
+
+591
+00:32:42,169 --> 00:32:43,170
+I think we are.
+
+592
+00:32:44,212 --> 00:32:47,215
+I think my mom may have hired someone
+to shoot my father,
+
+593
+00:32:47,299 --> 00:32:50,677
+so that she could make a profit
+from the sale of his drug operation.
+
+594
+00:32:51,136 --> 00:32:52,345
+- Damn.
+- I know.
+
+595
+00:32:52,429 --> 00:32:53,972
+So, we need to act fast.
+
+596
+00:32:54,055 --> 00:32:56,349
+Tonight we're gonna break into the prison,
+
+597
+00:32:56,433 --> 00:32:57,392
+find the drugs,
+
+598
+00:32:57,476 --> 00:33:01,271
+and destroy them, and the equipment,
+before my mom sells everything.
+
+599
+00:33:01,646 --> 00:33:03,773
+Sounds a lot like the plot of <i>Bad Boys II.</i>
+
+600
+00:33:05,150 --> 00:33:06,234
+I'm in, Ronnie.
+
+601
+00:33:06,860 --> 00:33:08,862
+But why? If she's selling it--
+
+602
+00:33:08,945 --> 00:33:11,698
+I'll be damned
+if my mom gets a payout for her crimes.
+
+603
+00:33:17,329 --> 00:33:19,289
+Archie? What happened?
+
+604
+00:33:24,211 --> 00:33:26,213
+- I gotta go.
+- To meet Archie?
+
+605
+00:33:26,296 --> 00:33:27,506
+It's not what you think.
+
+606
+00:33:28,256 --> 00:33:30,800
+But can you handle our heist
+on your own, Bad Boy?
+
+607
+00:33:31,343 --> 00:33:32,177
+Yeah.
+
+608
+00:33:50,028 --> 00:33:52,197
+- How is he?
+- Alive, thanks to you.
+
+609
+00:33:53,114 --> 00:33:55,033
+But, Archie, what were you doing here?
+
+610
+00:33:56,618 --> 00:33:57,661
+I...
+
+611
+00:33:58,954 --> 00:34:00,038
+came looking for you.
+
+612
+00:34:02,749 --> 00:34:05,377
+Reggie may have told you
+what happened at the speakeasy,
+
+613
+00:34:05,460 --> 00:34:06,962
+how I was acting like an ass.
+
+614
+00:34:07,587 --> 00:34:09,965
+I wanted to apologize. I wasn't myself.
+
+615
+00:34:11,466 --> 00:34:14,010
+- I haven't been for a while.
+- I'm sorry, too.
+
+616
+00:34:15,512 --> 00:34:18,265
+That I ever thought for a second
+that you shot him.
+
+617
+00:34:19,558 --> 00:34:21,351
+At some point, maybe I could have.
+
+618
+00:34:22,602 --> 00:34:24,563
+But I don't hate him anymore, Veronica.
+
+619
+00:34:29,109 --> 00:34:30,110
+He's awake.
+
+620
+00:34:31,236 --> 00:34:32,320
+And he wants see you.
+
+621
+00:34:36,741 --> 00:34:38,118
+And, Archie...
+
+622
+00:34:39,619 --> 00:34:41,580
+If you ever need a friend to talk to...
+
+623
+00:34:55,427 --> 00:34:56,386
+Archie Andrews.
+
+624
+00:34:59,347 --> 00:35:00,932
+Veronica told me what happened.
+
+625
+00:35:02,183 --> 00:35:04,603
+How I have you to thank for being alive.
+
+626
+00:35:13,486 --> 00:35:15,614
+We've been locked in battle for some time.
+
+627
+00:35:16,531 --> 00:35:19,117
+I never set out to be your enemy,
+Mr. Lodge.
+
+628
+00:35:20,410 --> 00:35:22,871
+All I want is
+to live in Riverdale in peace.
+
+629
+00:35:24,623 --> 00:35:25,665
+Well...
+
+630
+00:35:26,249 --> 00:35:28,293
+I see no reason for us to keep fighting.
+
+631
+00:35:29,586 --> 00:35:30,420
+So,
+
+632
+00:35:30,503 --> 00:35:31,838
+starting tonight...
+
+633
+00:35:33,173 --> 00:35:34,424
+I propose a truce.
+
+634
+00:35:35,133 --> 00:35:38,595
+You don't make a move against me,
+and I won't make a move against you.
+
+635
+00:35:39,220 --> 00:35:40,847
+A life for a life.
+
+636
+00:35:55,820 --> 00:35:58,657
+- What are you gonna tell your mom and dad?
+- I don't know.
+
+637
+00:35:59,699 --> 00:36:00,700
+Maybe the truth.
+
+638
+00:36:02,911 --> 00:36:03,995
+But probably not.
+
+639
+00:36:14,297 --> 00:36:16,466
+<i>Meanwhile,
+in case you'd forgotten,</i>
+
+640
+00:36:16,549 --> 00:36:19,010
+<i>Betty's encounter with Penelope
+had shaken her worldview.</i>
+
+641
+00:36:19,094 --> 00:36:21,638
+<i>There was only one person
+she could talk to about it.</i>
+
+642
+00:36:21,721 --> 00:36:25,100
+Penelope's guilty.
+I found proof that she poisoned Clifford.
+
+643
+00:36:25,183 --> 00:36:26,601
+My clever daughter.
+
+644
+00:36:27,477 --> 00:36:28,978
+What do you plan to do next?
+
+645
+00:36:29,062 --> 00:36:30,188
+I'm not sure.
+
+646
+00:36:32,315 --> 00:36:34,442
+I thought if I caught her,
+I'd turn her in.
+
+647
+00:36:34,526 --> 00:36:36,152
+But hearing her talk,
+
+648
+00:36:36,236 --> 00:36:38,905
+seeing how she's living her life,
+
+649
+00:36:38,988 --> 00:36:40,699
+how she's been twisted...
+
+650
+00:36:40,782 --> 00:36:42,951
+I don't know, I feel almost feel...
+
+651
+00:36:43,034 --> 00:36:44,327
+Pity for her?
+
+652
+00:36:44,786 --> 00:36:45,870
+Penelope and I,
+
+653
+00:36:45,954 --> 00:36:48,456
+we're products of our environment,
+raised by those
+
+654
+00:36:48,540 --> 00:36:51,501
+who taught us a twisted sense
+of right from wrong.
+
+655
+00:36:51,584 --> 00:36:55,422
+Do you still believe that she's a monster
+who deserves to be in here?
+
+656
+00:36:55,505 --> 00:36:58,049
+Maybe not every murderer is guilty.
+
+657
+00:36:59,467 --> 00:37:01,886
+And maybe not every victim is innocent.
+
+658
+00:37:01,970 --> 00:37:03,847
+Maybe it's not all black and white.
+
+659
+00:37:04,222 --> 00:37:08,810
+I wonder, Betty, if one day,
+you'll ever be able to see me
+
+660
+00:37:09,269 --> 00:37:11,813
+in that same compassionate light.
+
+661
+00:37:18,778 --> 00:37:20,989
+Well, how you feeling, Red?
+
+662
+00:37:21,072 --> 00:37:23,074
+- Better.
+- Good.
+
+663
+00:37:23,575 --> 00:37:25,994
+Thank you for taking care of me.
+
+664
+00:37:26,494 --> 00:37:27,495
+Setting me straight.
+
+665
+00:37:28,288 --> 00:37:30,540
+Sometimes we all need a little tough love.
+
+666
+00:37:32,292 --> 00:37:34,335
+I was thinking about your advice, too.
+
+667
+00:37:34,586 --> 00:37:36,254
+Doing something constructive.
+
+668
+00:37:36,337 --> 00:37:39,382
+- Would Mr. Keller talk to me about boxing?
+- For sure he will.
+
+669
+00:37:40,633 --> 00:37:41,968
+And, uh, I was thinking,
+
+670
+00:37:42,051 --> 00:37:43,428
+maybe we could...
+
+671
+00:37:43,762 --> 00:37:46,264
+I don't know,
+if you wanted to jam sometime, or...?
+
+672
+00:37:47,390 --> 00:37:49,934
+- Like the old days?
+- Yeah.
+
+673
+00:37:52,479 --> 00:37:53,480
+Yeah, sure.
+
+674
+00:37:54,105 --> 00:37:54,939
+Let's do it.
+
+675
+00:37:55,273 --> 00:37:57,025
+But you're singing backup.
+
+676
+00:37:58,109 --> 00:37:59,360
+- Okay.
+- Okay.
+
+677
+00:38:03,281 --> 00:38:04,783
+What the hell did you do?
+
+678
+00:38:04,866 --> 00:38:07,076
+I assume you're talking about the drugs.
+
+679
+00:38:07,869 --> 00:38:10,622
+Reggie and I burned them last night,
+with the equipment.
+
+680
+00:38:10,705 --> 00:38:14,083
+But I told you I had a buyer lined up.
+They paid in advance.
+
+681
+00:38:14,167 --> 00:38:16,586
+So, I saved you
+from being a drug dealer, Mom.
+
+682
+00:38:17,337 --> 00:38:20,340
+- Might I suggest you offer them a refund?
+- I can't, Veronica.
+
+683
+00:38:21,049 --> 00:38:23,259
+I used the cash
+to pay off Governor Dooley.
+
+684
+00:38:23,802 --> 00:38:25,011
+To keep our names clean.
+
+685
+00:38:25,094 --> 00:38:28,223
+And now my buyer is coming,
+and they are gonna want blood.
+
+686
+00:38:29,349 --> 00:38:32,727
+- You have no idea what you've just done.
+- I know exactly what I did.
+
+687
+00:38:33,520 --> 00:38:35,438
+And I know what you did, Mom.
+
+688
+00:38:36,064 --> 00:38:37,982
+And I'm not the only one on your case.
+
+689
+00:38:42,362 --> 00:38:44,739
+You think you're really smart, don't you?
+
+690
+00:38:45,740 --> 00:38:46,991
+You have all the answers.
+
+691
+00:38:47,075 --> 00:38:49,786
+I know Hiram's mistress works
+for the Sanitation Department
+
+692
+00:38:49,869 --> 00:38:52,622
+and doctored false water reports
+for your husband.
+
+693
+00:38:52,705 --> 00:38:53,873
+I see.
+
+694
+00:38:54,874 --> 00:38:56,125
+Is that all?
+
+695
+00:38:56,209 --> 00:38:57,085
+No.
+
+696
+00:38:58,545 --> 00:38:59,838
+Not in the slightest.
+
+697
+00:39:00,588 --> 00:39:02,090
+Betty told me about the runoff
+
+698
+00:39:02,173 --> 00:39:04,634
+from the Fizzle Rocks manufactured
+at the factory.
+
+699
+00:39:05,134 --> 00:39:08,471
+How it poisoned Sweetwater River,
+gave everyone seizures.
+
+700
+00:39:09,013 --> 00:39:11,224
+That's why Hiram had
+to doctor those reports.
+
+701
+00:39:11,307 --> 00:39:12,308
+To cover his ass.
+
+702
+00:39:12,433 --> 00:39:14,894
+It's also why he moved his drug lab
+to the prison.
+
+703
+00:39:15,812 --> 00:39:17,188
+Away from the water supply.
+
+704
+00:39:17,272 --> 00:39:21,276
+Now, my guess is
+that you were pissed about his drug lab
+
+705
+00:39:21,568 --> 00:39:24,070
+and what it was doing
+to all the girls in the town.
+
+706
+00:39:24,612 --> 00:39:28,700
+Soon after, you hired my father
+to shoot Hiram Lodge.
+
+707
+00:39:29,200 --> 00:39:30,326
+When that didn't work,
+
+708
+00:39:30,410 --> 00:39:32,579
+you tried to finish the job
+in the hospital with Minetta
+
+709
+00:39:32,662 --> 00:39:37,166
+and a sheriff-issued pistol
+so that you could pin it all on my dad.
+
+710
+00:39:37,250 --> 00:39:39,711
+Oh, and I also know why you did it.
+
+711
+00:39:40,336 --> 00:39:41,296
+Veronica.
+
+712
+00:39:41,838 --> 00:39:44,424
+You knew Hiram was responsible
+for her seizure.
+
+713
+00:39:44,507 --> 00:39:46,134
+Very good, Mr. Jones.
+
+714
+00:39:47,051 --> 00:39:48,386
+But you forgot one thing.
+
+715
+00:39:50,388 --> 00:39:52,765
+Last year, Hiram hired Tall Boy
+
+716
+00:39:52,849 --> 00:39:55,226
+to take shots at me
+during the mayoral debate,
+
+717
+00:39:55,727 --> 00:39:56,936
+nearly killing me.
+
+718
+00:39:57,020 --> 00:39:59,564
+So, that's what this was about? Revenge?
+
+719
+00:40:00,356 --> 00:40:04,152
+So that you could run off with Minetta?
+Live a happy little life together?
+
+720
+00:40:05,028 --> 00:40:07,405
+You can't tell anyone about this.
+
+721
+00:40:07,864 --> 00:40:09,616
+Not Veronica, no one.
+
+722
+00:40:09,699 --> 00:40:10,950
+Because if I go down...
+
+723
+00:40:12,368 --> 00:40:13,494
+your father goes down.
+
+724
+00:40:14,078 --> 00:40:15,163
+And that's a promise.
+
+725
+00:40:15,788 --> 00:40:16,998
+So, I think...
+
+726
+00:40:18,625 --> 00:40:19,667
+we should agree...
+
+727
+00:40:21,169 --> 00:40:22,629
+to keep each other's secrets.
+
+728
+00:40:24,005 --> 00:40:25,048
+Don't you think?
+
+729
+00:40:30,178 --> 00:40:32,388
+<i>So,
+Hermione and I were deadlocked.</i>
+
+730
+00:40:32,847 --> 00:40:33,681
+<i>In a stalemate.</i>
+
+731
+00:40:34,223 --> 00:40:35,600
+<i>Much like Hiram and Archie.</i>
+
+732
+00:40:36,351 --> 00:40:37,685
+<i>And Betty and Penelope.</i>
+
+733
+00:40:38,895 --> 00:40:39,896
+<i>As for Minetta?</i>
+
+734
+00:40:40,855 --> 00:40:43,274
+<i>I didn't imagine there was much
+to worry about.</i>
+
+735
+00:40:43,358 --> 00:40:44,943
+Grab me a cigarette, will you?
+
+736
+00:40:45,944 --> 00:40:47,028
+Of course, Michael.
+
+737
+00:40:49,489 --> 00:40:51,991
+We gotta talk about what to do
+with FP and his kid.
+
+738
+00:40:52,909 --> 00:40:55,870
+Your husband always had a simple way
+of tying up loose ends.
+
+739
+00:40:58,247 --> 00:40:59,332
+He did, didn't he?
+
+740
+00:41:06,547 --> 00:41:09,425
+<i>Perhaps, in Riverdale,
+the best you could hope for wasn't to win,</i>
+
+741
+00:41:09,509 --> 00:41:12,178
+<i>but to draw, and pray not to lose.</i>
+
+742
+00:41:13,304 --> 00:41:14,764
+Working late, I see.
+
+743
+00:41:17,725 --> 00:41:19,936
+I assume you're here to find out whodunit.
+
+744
+00:41:20,019 --> 00:41:23,272
+After my father woke up,
+it was the first thing he asked me.
+
+745
+00:41:24,357 --> 00:41:26,818
+- I told him it was Tall Boy.
+- Did he believe you?
+
+746
+00:41:26,901 --> 00:41:27,735
+I think so.
+
+747
+00:41:29,529 --> 00:41:32,448
+If it's good enough for my father,
+it's good enough for me.
+
+748
+00:41:35,410 --> 00:41:36,869
+Second half of your payment.
+
+749
+00:41:43,626 --> 00:41:45,461
+You don't wanna know who really did it?
+
+750
+00:41:50,508 --> 00:41:51,759
+Forget it, Jughead.
+
+751
+00:41:54,220 --> 00:41:55,054
+It's Riverdale.
+

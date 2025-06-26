@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Episode #3.1",
+        "released": "2016-05-31",
+        "rating": "8.1",
+        "imdb_id": "tt4277144",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S3\\Peaky.Blinders.UK.S03E01.HDTV.XviD-FUMS3E1.zip"
+    },
+    "2": {
+        "title": "Episode #3.2",
+        "released": "2016-05-31",
+        "rating": "8.8",
+        "imdb_id": "tt4370544",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S3\\Peaky.Blinders.UK.S03E02.HDTV.XviD-FUMS3E2.zip"
+    },
+    "3": {
+        "title": "Episode #3.3",
+        "released": "2016-05-31",
+        "rating": "8.5",
+        "imdb_id": "tt4370546",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S3\\Peaky.Blinders.UK.S03E03.HDTV.XviD-FUMS3E3.zip"
+    },
+    "4": {
+        "title": "Episode #3.4",
+        "released": "2016-05-31",
+        "rating": "8.6",
+        "imdb_id": "tt4370550",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S3\\Peaky.Blinders.UK.S03E04.HDTV.XviD-FUMS3E4.zip"
+    },
+    "5": {
+        "title": "Episode #3.5",
+        "released": "2016-05-31",
+        "rating": "8.3",
+        "imdb_id": "tt4370554",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S3\\Peaky.Blinders.UK.S03E05.HDTV.XviD-FUMS3E5.zip"
+    },
+    "6": {
+        "title": "Episode #3.6",
+        "released": "2016-05-31",
+        "rating": "N/A",
+        "imdb_id": "tt4370552",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "1": {
+        "title": "Kim's House Party",
+        "released": "2010-08-22",
+        "rating": "N/A",
+        "imdb_id": "tt1720703",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Blind Date",
+        "released": "2010-08-29",
+        "rating": "N/A",
+        "imdb_id": "tt1721312",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Missing Ring",
+        "released": "2010-09-05",
+        "rating": "N/A",
+        "imdb_id": "tt1721316",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "My Bodyguard",
+        "released": "2010-09-06",
+        "rating": "N/A",
+        "imdb_id": "tt1721315",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Botox and Cigarettes",
+        "released": "2010-09-12",
+        "rating": "N/A",
+        "imdb_id": "tt1721313",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Keeping Up with the Kardashians\\Subtitles\\S15\\Keeping.Up.with.the.Kardashians.S15E05.WEBRip.x264-ION10S15E5.zip"
+    },
+    "6": {
+        "title": "Kourt Goes A.W.O.L.",
+        "released": "2010-09-19",
+        "rating": "N/A",
+        "imdb_id": "tt1721314",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Match Made in Hell",
+        "released": "2010-09-26",
+        "rating": "N/A",
+        "imdb_id": "tt1730538",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Kris 'The Cougar' Jenner",
+        "released": "2010-10-10",
+        "rating": "N/A",
+        "imdb_id": "tt1750436",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Dash No More",
+        "released": "2010-10-17",
+        "rating": "N/A",
+        "imdb_id": "tt1750435",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Kardashians Take NYC",
+        "released": "2010-10-24",
+        "rating": "N/A",
+        "imdb_id": "tt1750437",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Junk in the Trunk 2",
+        "released": "2010-10-10",
+        "rating": "N/A",
+        "imdb_id": "tt1757238",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

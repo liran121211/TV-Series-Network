@@ -1,0 +1,34 @@
+{
+    "2": {
+        "title": "Episode #15.2",
+        "released": "2019-05-20",
+        "rating": "N/A",
+        "imdb_id": "tt10161714",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #15.3",
+        "released": "2019-05-27",
+        "rating": "N/A",
+        "imdb_id": "tt10161722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode #15.9",
+        "released": "2019-07-08",
+        "rating": "N/A",
+        "imdb_id": "tt10161744",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Season Finale: Part 2",
+        "released": "2019-07-30",
+        "rating": "N/A",
+        "imdb_id": "tt10649882",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

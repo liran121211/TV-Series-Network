@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Smoke",
+        "released": "2018-08-06",
+        "rating": "N/A",
+        "imdb_id": "tt7073996",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S4\\Better.Call.Saul.S04E01.HDTV.XviD-RMXS4E1.zip"
+    },
+    "2": {
+        "title": "Breathe",
+        "released": "2018-08-13",
+        "rating": "8.8",
+        "imdb_id": "tt7073998",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S4\\Better.Call.Saul.S04E02.HDTV.XviD-RMXS4E2.zip"
+    },
+    "3": {
+        "title": "Something Beautiful",
+        "released": "2018-08-20",
+        "rating": "8.4",
+        "imdb_id": "tt7074002",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S4\\Better.Call.Saul.S04E03.HDTV.XviD-RMXS4E3.zip"
+    },
+    "4": {
+        "title": "Talk",
+        "released": "2018-08-27",
+        "rating": "8.2",
+        "imdb_id": "tt7074006",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S4\\Better.Call.Saul.S04E04.HDTV.XviD-RMXS4E4.zip"
+    },
+    "5": {
+        "title": "Quite a Ride",
+        "released": "2018-09-03",
+        "rating": "8.5",
+        "imdb_id": "tt7074010",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S4\\Better.Call.Saul.S04E05.HDTV.XviD-RMXS4E5.zip"
+    },
+    "6": {
+        "title": "Piñata",
+        "released": "2018-09-10",
+        "rating": "8.5",
+        "imdb_id": "tt7074012",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S4\\Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERSS4E6.zip"
+    },
+    "7": {
+        "title": "Something Stupid",
+        "released": "2018-09-17",
+        "rating": "8.3",
+        "imdb_id": "tt7074020",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S4\\Better.Call.Saul.S04E07.HDTV.XviD-RMXS4E7.zip"
+    },
+    "8": {
+        "title": "Coushatta",
+        "released": "2018-09-24",
+        "rating": "8.8",
+        "imdb_id": "tt7074022",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S4\\Better.Call.Saul.S04E08.HDTV.XviD-RMXS4E8.zip"
+    },
+    "9": {
+        "title": "Wiedersehen",
+        "released": "2018-10-01",
+        "rating": "9.1",
+        "imdb_id": "tt7074032",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S4\\Better.Call.Saul.S04E09.HDTV.XviD-RMXS4E9.zip"
+    },
+    "10": {
+        "title": "Winner",
+        "released": "2018-10-08",
+        "rating": "9.5",
+        "imdb_id": "tt7074030",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S4\\Better.Call.Saul.S04E10.Winner.HDTV.SVA.HIS4E10.zip"
+    }
+}

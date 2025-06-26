@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "See Mr. Peanutbutter Run",
+        "released": "2017-09-08",
+        "rating": "7.5",
+        "imdb_id": "tt5903904",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Old Sugarman Place",
+        "released": "2017-09-08",
+        "rating": "9.3",
+        "imdb_id": "tt6542604",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Hooray! Todd Episode!",
+        "released": "2017-09-08",
+        "rating": "8.4",
+        "imdb_id": "tt6542616",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Commence Fracking",
+        "released": "2017-09-08",
+        "rating": "7.6",
+        "imdb_id": "tt6542606",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\BoJack Horseman\\Subtitles\\S4\\Bojack.Horseman.S04E04.720p.WEB.x264-STRiFES4E4.zip"
+    },
+    "5": {
+        "title": "Thoughts and Prayers",
+        "released": "2017-09-08",
+        "rating": "8.1",
+        "imdb_id": "tt6542602",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\BoJack Horseman\\Subtitles\\S4\\Bojack.Horseman.S04E05.720p.WEB.x264-STRiFES4E5.zip"
+    },
+    "6": {
+        "title": "Stupid Piece of Sh*t",
+        "released": "2017-09-08",
+        "rating": "9.2",
+        "imdb_id": "tt6542608",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\BoJack Horseman\\Subtitles\\S4\\Bojack.Horseman.S04E06.720p.WEB.x264-STRiFES4E6.zip"
+    },
+    "7": {
+        "title": "Underground",
+        "released": "2017-09-08",
+        "rating": "8.1",
+        "imdb_id": "tt6260644",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\BoJack Horseman\\Subtitles\\S4\\Bojack.Horseman.S04E07.1080p.WEB.x264-STRiFES4E7.zip"
+    },
+    "8": {
+        "title": "The Judge",
+        "released": "2017-09-08",
+        "rating": "7.4",
+        "imdb_id": "tt6542612",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\BoJack Horseman\\Subtitles\\S4\\Bojack.Horseman.S04E08.720p.WEB.x264-STRiFES4E8.zip"
+    },
+    "9": {
+        "title": "Ruthie",
+        "released": "2017-09-08",
+        "rating": "8.9",
+        "imdb_id": "tt6542622",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\BoJack Horseman\\Subtitles\\S4\\Bojack.Horseman.S04E09.720p.WEB.x264-STRiFES4E9.zip"
+    },
+    "10": {
+        "title": "lovin that cali lifestyle!!",
+        "released": "2017-09-08",
+        "rating": "8.4",
+        "imdb_id": "tt6542618",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Time's Arrow",
+        "released": "2017-09-08",
+        "rating": "9.8",
+        "imdb_id": "tt6542628",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "What Time Is It Right Now",
+        "released": "2017-09-08",
+        "rating": "N/A",
+        "imdb_id": "tt6542620",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

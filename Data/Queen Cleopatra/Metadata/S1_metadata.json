@@ -1,0 +1,34 @@
+{
+    "1": {
+        "title": "Rivals",
+        "released": "2023-05-10",
+        "rating": "1.2",
+        "imdb_id": "tt27530764",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Queen Cleopatra\\Subtitles\\S1\\Queen.Cleopatra.S01E01.Rivals.WEBRip.NF.en.zip"
+    },
+    "2": {
+        "title": "When in Rome",
+        "released": "2023-05-10",
+        "rating": "N/A",
+        "imdb_id": "tt21403982",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Queen Cleopatra\\Subtitles\\S1\\Queen.Cleopatra.S01E02.When.in.Rome.WEBRip.NF.en.zip"
+    },
+    "3": {
+        "title": "What Must Be Done",
+        "released": "2023-05-10",
+        "rating": "N/A",
+        "imdb_id": "tt21403984",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Queen Cleopatra\\Subtitles\\S1\\Queen.Cleopatra.S01E03.What.Must.Be.Done.WEBRip.NF.en.zip"
+    },
+    "4": {
+        "title": "The Last Pharaoh",
+        "released": "2023-05-10",
+        "rating": "1.1",
+        "imdb_id": "tt21403988",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Queen Cleopatra\\Subtitles\\S1\\Queen.Cleopatra.S01E04.the.Last.Pharaoh.WEBRip.NF.en.zip"
+    }
+}

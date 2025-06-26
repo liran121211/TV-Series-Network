@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Winterfell",
+        "released": "2019-04-14",
+        "rating": "7.6",
+        "imdb_id": "tt5924366",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S8\\Game.Of.Thrones.S08E01.iNTERNAL.HDTV.XviD-RMXS8E1.zip"
+    },
+    "2": {
+        "title": "A Knight of the Seven Kingdoms",
+        "released": "2019-04-21",
+        "rating": "7.9",
+        "imdb_id": "tt6027908",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S8\\Game.Of.Thrones.S08E02.iNTERNAL.HDTV.XviD-RMXS8E2.zip"
+    },
+    "3": {
+        "title": "The Long Night",
+        "released": "2019-04-28",
+        "rating": "7.5",
+        "imdb_id": "tt6027912",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S8\\Game.Of.Thrones.S08E03.iNTERNAL.HDTV.XviD-RMXS8E3.zip"
+    },
+    "4": {
+        "title": "The Last of the Starks",
+        "released": "2019-05-05",
+        "rating": "5.5",
+        "imdb_id": "tt6027914",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S8\\Game.Of.Thrones.S08E04.iNTERNAL.HDTV.XviD-RMXS8E4.zip"
+    },
+    "5": {
+        "title": "The Bells",
+        "released": "2019-05-12",
+        "rating": "5.9",
+        "imdb_id": "tt6027916",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S8\\Game.Of.Thrones.S08E05.iNTERNAL.HDTV.XviD-RMXS8E5.zip"
+    },
+    "6": {
+        "title": "The Iron Throne",
+        "released": "2019-05-19",
+        "rating": "4.0",
+        "imdb_id": "tt6027920",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S8\\Game.Of.Thrones.S08E06.iNTERNAL.HDTV.XviD-RMXS8E6.zip"
+    }
+}

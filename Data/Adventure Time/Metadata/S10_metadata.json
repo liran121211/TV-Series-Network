@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "The Wild Hunt",
+        "released": "2017-09-17",
+        "rating": "N/A",
+        "imdb_id": "tt7308394",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Always BMO Closing",
+        "released": "2017-09-17",
+        "rating": "N/A",
+        "imdb_id": "tt7308402",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Son of Rap Bear",
+        "released": "2017-09-17",
+        "rating": "7.2",
+        "imdb_id": "tt7308416",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S1\\Adventure_Time_-_S01E03b_-_The_JigglerS1E3.zip"
+    },
+    "4": {
+        "title": "Bonnibel Bubblegum",
+        "released": "2017-09-17",
+        "rating": "N/A",
+        "imdb_id": "tt7342228",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Seventeen",
+        "released": "2017-12-17",
+        "rating": "N/A",
+        "imdb_id": "tt7650228",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Ring of Fire",
+        "released": "2017-12-17",
+        "rating": "6.7",
+        "imdb_id": "tt7650230",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Marcy & Hunson",
+        "released": "2017-12-17",
+        "rating": "8.1",
+        "imdb_id": "tt7650234",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The First Investigation",
+        "released": "2017-12-17",
+        "rating": "N/A",
+        "imdb_id": "tt7650238",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Blenanas",
+        "released": "2018-03-18",
+        "rating": "N/A",
+        "imdb_id": "tt8058684",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Jake the Starchild",
+        "released": "2018-03-18",
+        "rating": "N/A",
+        "imdb_id": "tt8058686",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Temple of Mars",
+        "released": "2018-03-18",
+        "rating": "N/A",
+        "imdb_id": "tt8058682",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Gumbaldia",
+        "released": "2018-03-18",
+        "rating": "N/A",
+        "imdb_id": "tt8058688",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Come Along With Me",
+        "released": "2018-09-03",
+        "rating": "9.7",
+        "imdb_id": "tt8164820",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

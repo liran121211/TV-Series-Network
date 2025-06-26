@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Out of Town",
+        "released": "2009-08-16",
+        "rating": "8.2",
+        "imdb_id": "tt1439792",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S3\\Mad.Men.S03E01-E13.DVDRip.XviD-REWARDS3E1.zip"
+    },
+    "2": {
+        "title": "Love Among the Ruins",
+        "released": "2009-08-23",
+        "rating": "N/A",
+        "imdb_id": "tt1449612",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S3\\Mad.Men.S03E02.HDTV.XviD-YesTVS3E2.zip"
+    },
+    "3": {
+        "title": "My Old Kentucky Home",
+        "released": "2009-08-30",
+        "rating": "8.1",
+        "imdb_id": "tt1484415",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S3\\Mad.Men.S03E03.HDTV.XviD-FQM_and_720p-CTU_[Initial_Edits_by_VeRdiKT_and_Chamallow]S3E3.zip"
+    },
+    "4": {
+        "title": "The Arrangements",
+        "released": "2009-09-06",
+        "rating": "8.0",
+        "imdb_id": "tt1484416",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S3\\Mad.Men.S03E04.The.Arrangements.HDTV.XviD-FQMS3E4.zip"
+    },
+    "5": {
+        "title": "The Fog",
+        "released": "2009-09-13",
+        "rating": "8.0",
+        "imdb_id": "tt1484417",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S3\\Mad.Men.S03E05.HDTV.XviD-FQMS3E5.zip"
+    },
+    "6": {
+        "title": "Guy Walks Into an Advertising Agency",
+        "released": "2009-09-20",
+        "rating": "9.1",
+        "imdb_id": "tt1484435",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S3\\Mad.Men.S03E06.HDTV.XviD-hVS3E6.zip"
+    },
+    "7": {
+        "title": "Seven Twenty Three",
+        "released": "2009-09-27",
+        "rating": "8.4",
+        "imdb_id": "tt1472778",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S3\\Mad.Men.S03E07.HDTV.XviD-FQMS3E7.zip"
+    },
+    "8": {
+        "title": "Souvenir",
+        "released": "2009-10-04",
+        "rating": "8.0",
+        "imdb_id": "tt1484662",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Wee Small Hours",
+        "released": "2009-10-11",
+        "rating": "8.2",
+        "imdb_id": "tt1484663",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S3\\Mad.Men.S03E09.HDTV.XviD-FQMS3E9.zip"
+    },
+    "10": {
+        "title": "The Color Blue",
+        "released": "2009-10-18",
+        "rating": "8.3",
+        "imdb_id": "tt1484249",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Gypsy and the Hobo",
+        "released": "2009-10-25",
+        "rating": "9.2",
+        "imdb_id": "tt1484250",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Grown-Ups",
+        "released": "2009-11-01",
+        "rating": "8.9",
+        "imdb_id": "tt1484251",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Shut the Door. Have a Seat",
+        "released": "2009-11-08",
+        "rating": "9.7",
+        "imdb_id": "tt1484414",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

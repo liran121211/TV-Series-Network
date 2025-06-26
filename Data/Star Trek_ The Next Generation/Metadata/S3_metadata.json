@@ -1,0 +1,210 @@
+{
+    "1": {
+        "title": "Evolution",
+        "released": "1989-09-23",
+        "rating": "6.5",
+        "imdb_id": "tt0708710",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Ensigns of Command",
+        "released": "1989-09-30",
+        "rating": "7.4",
+        "imdb_id": "tt0708796",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Survivors",
+        "released": "1989-10-07",
+        "rating": "7.7",
+        "imdb_id": "tt0708823",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Who Watches the Watchers",
+        "released": "1989-10-14",
+        "rating": "N/A",
+        "imdb_id": "tt0708844",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Bonding",
+        "released": "1989-10-21",
+        "rating": "6.7",
+        "imdb_id": "tt0708788",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Booby Trap",
+        "released": "1989-10-28",
+        "rating": "7.4",
+        "imdb_id": "tt0708682",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Enemy",
+        "released": "1989-11-04",
+        "rating": "7.8",
+        "imdb_id": "tt0708795",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Price",
+        "released": "1989-11-11",
+        "rating": "6.3",
+        "imdb_id": "tt0708819",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Vengeance Factor",
+        "released": "1989-11-18",
+        "rating": "6.5",
+        "imdb_id": "tt0708824",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Defector",
+        "released": "1990-01-01",
+        "rating": "8.4",
+        "imdb_id": "tt0708792",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Hunted",
+        "released": "1990-01-08",
+        "rating": "7.5",
+        "imdb_id": "tt0708801",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The High Ground",
+        "released": "1990-01-27",
+        "rating": "6.8",
+        "imdb_id": "tt0708799",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Deja Q",
+        "released": "1990-02-03",
+        "rating": "8.5",
+        "imdb_id": "tt0708699",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "A Matter of Perspective",
+        "released": "1990-02-10",
+        "rating": "6.7",
+        "imdb_id": "tt0708671",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Yesterday's Enterprise",
+        "released": "1990-02-17",
+        "rating": "9.2",
+        "imdb_id": "tt0708845",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Offspring",
+        "released": "1990-03-10",
+        "rating": "8.5",
+        "imdb_id": "tt0708814",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Sins of the Father",
+        "released": "1990-03-17",
+        "rating": "8.1",
+        "imdb_id": "tt0708775",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Allegiance",
+        "released": "1990-03-24",
+        "rating": "7.4",
+        "imdb_id": "tt0708675",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Captain's Holiday",
+        "released": "1990-03-31",
+        "rating": "7.2",
+        "imdb_id": "tt0708684",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Tin Man",
+        "released": "1990-04-21",
+        "rating": "7.2",
+        "imdb_id": "tt0708831",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Hollow Pursuits",
+        "released": "1990-04-28",
+        "rating": "7.7",
+        "imdb_id": "tt0708729",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Most Toys",
+        "released": "1990-05-05",
+        "rating": "7.6",
+        "imdb_id": "tt0708809",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Sarek",
+        "released": "1990-05-12",
+        "rating": "8.1",
+        "imdb_id": "tt0708769",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Ménage à Troi",
+        "released": "1990-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt0708749",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Transfigurations",
+        "released": "1990-06-02",
+        "rating": "6.9",
+        "imdb_id": "tt0708833",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "The Best of Both Worlds Part 1",
+        "released": "1990-06-16",
+        "rating": "9.3",
+        "imdb_id": "tt0708785",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

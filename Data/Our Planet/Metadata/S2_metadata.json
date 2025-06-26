@@ -1,0 +1,34 @@
+{
+    "1": {
+        "title": "World on the Move",
+        "released": "2023-06-14",
+        "rating": "N/A",
+        "imdb_id": "tt23457148",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Following the Sun",
+        "released": "2023-06-14",
+        "rating": "N/A",
+        "imdb_id": "tt23457158",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Next Generation",
+        "released": "2023-06-14",
+        "rating": "8.8",
+        "imdb_id": "tt23457152",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Freedom to Roam",
+        "released": "2023-06-14",
+        "rating": "N/A",
+        "imdb_id": "tt23457156",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

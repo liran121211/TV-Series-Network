@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Legacy Begins",
+        "released": "2002-10-20",
+        "rating": "7.1",
+        "imdb_id": "tt0729659",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S12\\Top.Gear.S12E01.WS.PDTV.XviD-RiVERS12E1.zip"
+    },
+    "2": {
+        "title": "Bus Jumps Over Motorbikes",
+        "released": "2002-10-27",
+        "rating": "N/A",
+        "imdb_id": "tt0729660",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S12\\Top.Gear.S12E02.WS.PDTV.XviD-AFFiNiTYS12E2.zip"
+    },
+    "3": {
+        "title": "Grannies Doing Doughnuts",
+        "released": "2002-11-03",
+        "rating": "N/A",
+        "imdb_id": "tt0729661",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S12\\Top.Gear.S12E03.WS.PDTV.XviD-RiVERS12E3.zip"
+    },
+    "4": {
+        "title": "Clarkson Drives the Aston Martin Vanquish",
+        "released": "2002-11-10",
+        "rating": "N/A",
+        "imdb_id": "tt0729662",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S12\\Top.Gear.S12E04.WS.PDTV.XviD-RiVERS12E4.zip"
+    },
+    "5": {
+        "title": "Budget Bond Car",
+        "released": "2002-11-17",
+        "rating": "N/A",
+        "imdb_id": "tt0729663",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S12\\Top.Gear.S12E05.PROPER.WS.PDTV.XviD-RiVERS12E5.zip"
+    },
+    "6": {
+        "title": "Grannies Attempt Hand Brake Parking",
+        "released": "2002-11-24",
+        "rating": "N/A",
+        "imdb_id": "tt0729664",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S13\\Top.Gear.S13E06.WS.PDTV.XviD-RiVERS13E6.zip"
+    },
+    "7": {
+        "title": "Britain's Fastest Faith Race",
+        "released": "2002-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt0729665",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S14\\Top.Gear.S14E07.HDTV.XviD-BiAS14E7.zip"
+    },
+    "8": {
+        "title": "Britain's Fastest White-Van Driver",
+        "released": "2002-12-08",
+        "rating": "N/A",
+        "imdb_id": "tt0729666",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Can The Stig Be Beat?",
+        "released": "2002-12-22",
+        "rating": "N/A",
+        "imdb_id": "tt0729667",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Britain's Fastest Faith Race 2",
+        "released": "2002-12-29",
+        "rating": "N/A",
+        "imdb_id": "tt0729668",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

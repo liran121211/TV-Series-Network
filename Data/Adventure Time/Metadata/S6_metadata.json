@@ -1,0 +1,346 @@
+{
+    "1": {
+        "title": "Wake Up",
+        "released": "2014-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt3621758",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Escape from the Citadel",
+        "released": "2014-04-21",
+        "rating": "9.4",
+        "imdb_id": "tt3621760",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "James II",
+        "released": "2014-04-28",
+        "rating": "N/A",
+        "imdb_id": "tt3621766",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Tower",
+        "released": "2014-05-05",
+        "rating": "N/A",
+        "imdb_id": "tt3703172",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Sad Face",
+        "released": "2014-05-12",
+        "rating": "N/A",
+        "imdb_id": "tt3703170",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Breezy",
+        "released": "2014-06-05",
+        "rating": "7.7",
+        "imdb_id": "tt3762400",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Food Chain",
+        "released": "2014-06-12",
+        "rating": "8.0",
+        "imdb_id": "tt3683222",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Furniture & Meat",
+        "released": "2014-06-19",
+        "rating": "7.3",
+        "imdb_id": "tt3782940",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Prince Who Wanted Everything",
+        "released": "2014-06-26",
+        "rating": "6.9",
+        "imdb_id": "tt3779588",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Something Big",
+        "released": "2014-07-03",
+        "rating": "N/A",
+        "imdb_id": "tt3957648",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Little Brother",
+        "released": "2014-07-10",
+        "rating": "N/A",
+        "imdb_id": "tt3817212",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Ocarina",
+        "released": "2014-07-17",
+        "rating": "N/A",
+        "imdb_id": "tt3847508",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Thanks for the Crabapples, Giuseppe!",
+        "released": "2014-07-24",
+        "rating": "7.7",
+        "imdb_id": "tt3862844",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Princess Day",
+        "released": "2014-07-31",
+        "rating": "7.2",
+        "imdb_id": "tt3951422",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Nemesis",
+        "released": "2014-08-07",
+        "rating": "N/A",
+        "imdb_id": "tt3911902",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Joshua & Margaret Investigations",
+        "released": "2014-08-14",
+        "rating": "N/A",
+        "imdb_id": "tt3913650",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Ghost Fly",
+        "released": "2014-10-28",
+        "rating": "N/A",
+        "imdb_id": "tt4164980",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Everything's Jake",
+        "released": "2014-11-24",
+        "rating": "8.1",
+        "imdb_id": "tt4193322",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Is That You?",
+        "released": "2014-11-25",
+        "rating": "N/A",
+        "imdb_id": "tt4195610",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Jake the Brick",
+        "released": "2014-11-26",
+        "rating": "N/A",
+        "imdb_id": "tt4198326",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Dentist",
+        "released": "2014-11-28",
+        "rating": "7.6",
+        "imdb_id": "tt4203128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Cooler",
+        "released": "2014-12-04",
+        "rating": "7.9",
+        "imdb_id": "tt4219584",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "The Pajama War",
+        "released": "2015-01-08",
+        "rating": "N/A",
+        "imdb_id": "tt4342784",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Evergreen",
+        "released": "2015-01-15",
+        "rating": "N/A",
+        "imdb_id": "tt4324630",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Astral Plane",
+        "released": "2015-01-22",
+        "rating": "N/A",
+        "imdb_id": "tt4342792",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Gold Stars",
+        "released": "2015-01-29",
+        "rating": "8.0",
+        "imdb_id": "tt4342794",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "The Visitor",
+        "released": "2015-02-05",
+        "rating": "N/A",
+        "imdb_id": "tt4386732",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "The Mountain",
+        "released": "2015-02-12",
+        "rating": "7.7",
+        "imdb_id": "tt4426996",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Dark Purple",
+        "released": "2015-02-19",
+        "rating": "7.5",
+        "imdb_id": "tt4427000",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "The Diary",
+        "released": "2015-02-26",
+        "rating": "7.7",
+        "imdb_id": "tt4427006",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Walnuts & Rain",
+        "released": "2015-03-05",
+        "rating": "7.9",
+        "imdb_id": "tt4469728",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Friends Forever",
+        "released": "2015-04-16",
+        "rating": "N/A",
+        "imdb_id": "tt4485620",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Jermaine",
+        "released": "2015-04-23",
+        "rating": "8.1",
+        "imdb_id": "tt4558248",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "Chips & Ice Cream",
+        "released": "2015-04-30",
+        "rating": "6.7",
+        "imdb_id": "tt4613396",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Graybles 1000+",
+        "released": "2015-05-07",
+        "rating": "N/A",
+        "imdb_id": "tt4670012",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Hoots",
+        "released": "2015-05-14",
+        "rating": "8.2",
+        "imdb_id": "tt4655044",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Water Park Prank",
+        "released": "2015-05-21",
+        "rating": "4.9",
+        "imdb_id": "tt4657994",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "You Forgot Your Floaties",
+        "released": "2015-06-01",
+        "rating": "N/A",
+        "imdb_id": "tt4722224",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Be Sweet",
+        "released": "2015-06-02",
+        "rating": "N/A",
+        "imdb_id": "tt4722222",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Orgalorg",
+        "released": "2015-06-03",
+        "rating": "N/A",
+        "imdb_id": "tt4722220",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "On the Lam",
+        "released": "2015-06-04",
+        "rating": "N/A",
+        "imdb_id": "tt4736860",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Hot Diggity Doom",
+        "released": "2015-06-05",
+        "rating": "N/A",
+        "imdb_id": "tt4736890",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "The Comet",
+        "released": "2015-06-05",
+        "rating": "N/A",
+        "imdb_id": "tt4736892",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Episode #3.1",
+        "released": "2013-01-06",
+        "rating": "8.5",
+        "imdb_id": "tt2114648",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S3\\Downton.Abbey.S03E01.HDTV.x264-TLAS3E1.zip"
+    },
+    "2": {
+        "title": "Episode #3.2",
+        "released": "2013-01-06",
+        "rating": "8.1",
+        "imdb_id": "tt2374958",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #3.3",
+        "released": "2013-01-13",
+        "rating": "8.4",
+        "imdb_id": "tt2385216",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #3.4",
+        "released": "2013-01-20",
+        "rating": "8.0",
+        "imdb_id": "tt2385222",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #3.5",
+        "released": "2013-01-27",
+        "rating": "9.0",
+        "imdb_id": "tt2385244",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #3.6",
+        "released": "2013-02-03",
+        "rating": "8.2",
+        "imdb_id": "tt2385246",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #3.7",
+        "released": "2013-02-10",
+        "rating": "8.1",
+        "imdb_id": "tt2385260",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #3.8",
+        "released": "2013-02-10",
+        "rating": "8.3",
+        "imdb_id": "tt2385266",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "A Journey to the Highlands",
+        "released": "2013-02-17",
+        "rating": "N/A",
+        "imdb_id": "tt2385306",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

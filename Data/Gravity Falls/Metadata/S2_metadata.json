@@ -1,0 +1,170 @@
+{
+    "1": {
+        "title": "Scary-oke",
+        "released": "2014-08-01",
+        "rating": "8.8",
+        "imdb_id": "tt3780836",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Gravity Falls\\Subtitles\\S2\\Gravity.Falls.S02E01.Scary-oke.720p.WEB-DL.AAC2.0.H.264-YouChangS2E1.zip"
+    },
+    "2": {
+        "title": "Into the Bunker",
+        "released": "2014-08-04",
+        "rating": "9.2",
+        "imdb_id": "tt3802848",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Gravity Falls\\Subtitles\\S2\\Gravity.Falls.S02E02.Into.the.Bunker.720p.WEB-DL.AAC2.0.H.264-YoS2E2.zip"
+    },
+    "3": {
+        "title": "The Golf War",
+        "released": "2014-08-11",
+        "rating": "8.0",
+        "imdb_id": "tt3918432",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Gravity Falls\\Subtitles\\S2\\Gravity.Falls.S02E03.The.Golf.War.720p.WEB-DL.AAC2.0.H.264-YouChS2E3.zip"
+    },
+    "4": {
+        "title": "Sock Opera",
+        "released": "2014-09-08",
+        "rating": "8.7",
+        "imdb_id": "tt3918438",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Gravity Falls\\Subtitles\\S2\\Gravity_Falls_S02E04_720p_HDTV_x264-BATVS2E4.zip"
+    },
+    "5": {
+        "title": "Soos and the Real Girl",
+        "released": "2014-09-22",
+        "rating": "8.6",
+        "imdb_id": "tt4054258",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Gravity Falls\\Subtitles\\S2\\Gravity.Falls.S02E05.HDTV.XviD-BATVS2E5.zip"
+    },
+    "6": {
+        "title": "Little Gift Shop of Horrors",
+        "released": "2014-10-04",
+        "rating": "7.8",
+        "imdb_id": "tt4082996",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Gravity Falls\\Subtitles\\S2\\Gravity.Falls.S02E06.720p.HDTV.x264-BATVS2E6.zip"
+    },
+    "7": {
+        "title": "Society of the Blind Eye",
+        "released": "2014-10-27",
+        "rating": "9.2",
+        "imdb_id": "tt4074470",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Gravity Falls\\Subtitles\\S2\\Gravity.Falls.S02E07.HDTV.XviD-AFGS2E7.zip"
+    },
+    "8": {
+        "title": "Blendin's Game",
+        "released": "2014-11-10",
+        "rating": "9.0",
+        "imdb_id": "tt4192532",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Gravity Falls\\Subtitles\\S2\\Gravity.Falls.S02E08.720p.HDTVS2E8.zip"
+    },
+    "9": {
+        "title": "The Love God",
+        "released": "2014-11-26",
+        "rating": "7.6",
+        "imdb_id": "tt4192536",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Gravity Falls\\Subtitles\\S2\\Gravity.Falls.S02E09.REPACK.720p.HDTV.x264-BATVS2E9.zip"
+    },
+    "10": {
+        "title": "Northwest Mansion Mystery",
+        "released": "2015-02-16",
+        "rating": "9.2",
+        "imdb_id": "tt4373958",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Not What He Seems",
+        "released": "2015-03-09",
+        "rating": "9.8",
+        "imdb_id": "tt4460256",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "A Tale of Two Stans",
+        "released": "2015-07-13",
+        "rating": "9.6",
+        "imdb_id": "tt4575574",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Dungeons, Dungeons, and More Dungeons",
+        "released": "2015-08-03",
+        "rating": "8.3",
+        "imdb_id": "tt4823986",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Stanchurian Candidate",
+        "released": "2015-08-24",
+        "rating": "8.0",
+        "imdb_id": "tt4843660",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Last Mabelcorn",
+        "released": "2015-09-07",
+        "rating": "8.8",
+        "imdb_id": "tt4938792",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Roadside Attraction",
+        "released": "2015-09-21",
+        "rating": "N/A",
+        "imdb_id": "tt4938796",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Dipper and Mabel vs. the Future",
+        "released": "2015-10-12",
+        "rating": "9.3",
+        "imdb_id": "tt5045754",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Weirdmageddon: Part 1",
+        "released": "2015-10-26",
+        "rating": "9.5",
+        "imdb_id": "tt5107700",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Escape from Reality",
+        "released": "2015-11-23",
+        "rating": "9.3",
+        "imdb_id": "tt5153882",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Take Back the Falls",
+        "released": "2016-02-15",
+        "rating": "N/A",
+        "imdb_id": "tt5153884",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The End of Gravity Falls",
+        "released": "2015-11-06",
+        "rating": "N/A",
+        "imdb_id": "tt5201122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

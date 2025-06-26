@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Aftermath",
+        "released": "2023-11-17",
+        "rating": "7.4",
+        "imdb_id": "tt20412166",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Monarch_ Legacy of Monsters\\Subtitles\\S1\\Monarch.Legacy.of.Monsters.S01E01.1080p.WEB.H264-GloriousMongooseS1E1.zip"
+    },
+    "2": {
+        "title": "Departure",
+        "released": "2023-11-17",
+        "rating": "7.5",
+        "imdb_id": "tt22866594",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Monarch_ Legacy of Monsters\\Subtitles\\S1\\Monarch.Legacy.of.Monsters.S01E02.1080p.WEB.H264-GloriousMongooseS1E2.zip"
+    },
+    "3": {
+        "title": "Secrets and Lies",
+        "released": "2023-11-22",
+        "rating": "7.6",
+        "imdb_id": "tt21255044",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Monarch_ Legacy of Monsters\\Subtitles\\S1\\Monarch.Legacy.of.Monsters.S01E03.WEB.H264-GloriousMongoose_ATVPS1E3.zip"
+    },
+    "4": {
+        "title": "Parallels and Interiors",
+        "released": "2023-12-01",
+        "rating": "6.3",
+        "imdb_id": "tt21255050",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Monarch_ Legacy of Monsters\\Subtitles\\S1\\Monarch.Legacy.of.Monsters.S01E04.WEB.H264-NHTFSS1E4.zip"
+    },
+    "5": {
+        "title": "The Way Out",
+        "released": "2023-12-08",
+        "rating": "5.6",
+        "imdb_id": "tt23787572",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Monarch_ Legacy of Monsters\\Subtitles\\S1\\Monarch.Legacy.of.Monsters.S01E05.WEB.H264-NHTFS_ATVPS1E5.zip"
+    },
+    "6": {
+        "title": "Terrifying Miracles",
+        "released": "2023-12-15",
+        "rating": "7.1",
+        "imdb_id": "tt23787578",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Monarch_ Legacy of Monsters\\Subtitles\\S1\\Monarch.Legacy.of.Monsters.S01E06.ATVP.WEB-DL.DDP5.1.H.264-NTbS1E6.zip"
+    },
+    "7": {
+        "title": "Will the Real May Please Stand Up?",
+        "released": "2023-12-22",
+        "rating": "5.9",
+        "imdb_id": "tt23787580",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Monarch_ Legacy of Monsters\\Subtitles\\S1\\Monarch.Legacy.Of.Monsters.S01E07.XviD-AFGS1E7.zip"
+    },
+    "8": {
+        "title": "Birthright",
+        "released": "2023-12-29",
+        "rating": "6.9",
+        "imdb_id": "tt23787584",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Monarch_ Legacy of Monsters\\Subtitles\\S1\\Monarch.Legacy.of.Monsters.S01E08.ATVP.WEB-DL.DDP5.1.H.264-NTbS1E8.zip"
+    },
+    "9": {
+        "title": "Axis Mundi",
+        "released": "2024-01-05",
+        "rating": "7.5",
+        "imdb_id": "tt23787590",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Monarch_ Legacy of Monsters\\Subtitles\\S1\\Monarch.Legacy.of.Monsters.S01E09.ATVP.WEB-DL.DDP5.1.H.264-NTbS1E9.zip"
+    },
+    "10": {
+        "title": "Beyond Logic",
+        "released": "2024-01-12",
+        "rating": "8.2",
+        "imdb_id": "tt23787594",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

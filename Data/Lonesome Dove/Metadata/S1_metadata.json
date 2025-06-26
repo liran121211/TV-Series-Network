@@ -1,0 +1,34 @@
+{
+    "1": {
+        "title": "Leaving",
+        "released": "1989-02-05",
+        "rating": "N/A",
+        "imdb_id": "tt1439351",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "On the Trail",
+        "released": "1989-02-06",
+        "rating": "N/A",
+        "imdb_id": "tt1492004",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Plains",
+        "released": "1989-02-07",
+        "rating": "N/A",
+        "imdb_id": "tt1502547",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Return",
+        "released": "1989-02-08",
+        "rating": "8.7",
+        "imdb_id": "tt1502546",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

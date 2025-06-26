@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "My Struggle",
+        "released": "2016-01-24",
+        "rating": "7.8",
+        "imdb_id": "tt4549938",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S10\\The.X-Files.S10E01.720p.BluRay.x264S10E1.zip"
+    },
+    "2": {
+        "title": "Founder's Mutation",
+        "released": "2016-01-25",
+        "rating": "7.8",
+        "imdb_id": "tt4549948",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S10\\The_X-Files_S10E02_Founder's_Mutation_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S10E2.zip"
+    },
+    "3": {
+        "title": "Mulder & Scully Meet the Were-Monster",
+        "released": "2016-02-01",
+        "rating": "8.0",
+        "imdb_id": "tt4549942",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S10\\The_X-Files_S10E03_Mulder_&_Scully_Meet_the_Were-Monster_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S10E3.zip"
+    },
+    "4": {
+        "title": "Home Again",
+        "released": "2016-02-08",
+        "rating": "7.2",
+        "imdb_id": "tt4549940",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S10\\The_X-Files_S10E04_Home_Again_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S10E4.zip"
+    },
+    "5": {
+        "title": "Babylon",
+        "released": "2016-02-15",
+        "rating": "6.4",
+        "imdb_id": "tt4549946",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S10\\The_X-Files_S10E05_Babylon_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S10E5.zip"
+    },
+    "6": {
+        "title": "My Struggle II",
+        "released": "2016-02-22",
+        "rating": "7.0",
+        "imdb_id": "tt4549954",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S10\\The_X-Files_S10E06_My_Struggle_II_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S10E6.zip"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Jeremy at JLB",
+        "released": "2009-09-18",
+        "rating": "7.9",
+        "imdb_id": "tt1503944",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Test",
+        "released": "2009-09-25",
+        "rating": "8.5",
+        "imdb_id": "tt1503945",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Jeremy in Love",
+        "released": "2009-10-02",
+        "rating": "8.0",
+        "imdb_id": "tt1503946",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Affair",
+        "released": "2009-10-09",
+        "rating": "7.8",
+        "imdb_id": "tt1503947",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Party",
+        "released": "2009-10-16",
+        "rating": "8.4",
+        "imdb_id": "tt1503948",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Das Boot",
+        "released": "2009-10-23",
+        "rating": "N/A",
+        "imdb_id": "tt1503949",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

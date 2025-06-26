@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Revenge Sex",
+        "released": "2011-06-02",
+        "rating": "N/A",
+        "imdb_id": "tt1941064",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Single White Spenny\\Subtitles\\S1\\single.white.spenny.s01e01.hdtv.xvid-2hd.zip"
+    },
+    "4": {
+        "title": "Open Relationship",
+        "released": "2011-06-23",
+        "rating": "N/A",
+        "imdb_id": "tt1956221",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Luke",
+        "released": "2011-06-30",
+        "rating": "8.6",
+        "imdb_id": "tt1950831",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Circumcision",
+        "released": "2011-07-07",
+        "rating": "3.2",
+        "imdb_id": "tt1960854",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Meet Andy Patel",
+        "released": "2011-07-14",
+        "rating": "N/A",
+        "imdb_id": "tt1945924",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Mancamp",
+        "released": "2011-07-21",
+        "rating": "N/A",
+        "imdb_id": "tt1966107",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

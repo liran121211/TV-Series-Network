@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Misadventure",
+        "released": "2017-12-08",
+        "rating": "8.1",
+        "imdb_id": "tt6366744",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S2\\The.Crown.S02E01.WEBRip.x264-STRiFES2E1.zip"
+    },
+    "2": {
+        "title": "A Company of Men",
+        "released": "2017-12-08",
+        "rating": "8.1",
+        "imdb_id": "tt6758702",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S2\\The.Crown.S02E02.WEBRip.x264-STRiFES2E2.zip"
+    },
+    "3": {
+        "title": "Lisbon",
+        "released": "2017-12-08",
+        "rating": "8.3",
+        "imdb_id": "tt6977316",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S2\\The.Crown.S02E03.WEBRip.x264-STRiFES2E3.zip"
+    },
+    "4": {
+        "title": "Beryl",
+        "released": "2017-12-08",
+        "rating": "8.5",
+        "imdb_id": "tt6955526",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S2\\The.Crown.S02E04.WEBRip.x264-STRiFES2E4.zip"
+    },
+    "5": {
+        "title": "Marionettes",
+        "released": "2017-12-08",
+        "rating": "8.9",
+        "imdb_id": "tt6718340",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S2\\The.Crown.S02E05.WEBRip.x264-STRiFES2E5.zip"
+    },
+    "6": {
+        "title": "Vergangenheit",
+        "released": "2017-12-08",
+        "rating": "9.1",
+        "imdb_id": "tt6837072",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S2\\The.Crown.S02E06.WEBRip.x264-STRiFES2E6.zip"
+    },
+    "7": {
+        "title": "Matrimonium",
+        "released": "2017-12-08",
+        "rating": "8.1",
+        "imdb_id": "tt6955528",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S2\\The.Crown.S02E07.WEBRip.x264-STRiFES2E7.zip"
+    },
+    "8": {
+        "title": "Dear Mrs. Kennedy",
+        "released": "2017-12-08",
+        "rating": "9.1",
+        "imdb_id": "tt6410770",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S2\\The.Crown.S02E08.WEBRip.x264-STRiFES2E8.zip"
+    },
+    "9": {
+        "title": "Paterfamilias",
+        "released": "2017-12-08",
+        "rating": "8.7",
+        "imdb_id": "tt6410814",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S2\\The.Crown.S02E09.WEBRip.x264-STRiFES2E9.zip"
+    },
+    "10": {
+        "title": "Mystery Man",
+        "released": "2017-12-08",
+        "rating": "8.3",
+        "imdb_id": "tt6955530",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Smoke Signal",
+        "released": "2018-07-23",
+        "rating": "8.8",
+        "imdb_id": "tt7029252",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Attack on Titan\\Subtitles\\S3\\Attack.On.Titan.S03E19.720p.WEB.x264-URANiME[eztv]S3E19.zip"
+    },
+    "2": {
+        "title": "Pain",
+        "released": "2018-07-30",
+        "rating": "9.2",
+        "imdb_id": "tt8517724",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Attack on Titan\\Subtitles\\S3\\Attack_on_Titan_S03_-E02_[BD]S3E2.zip"
+    },
+    "3": {
+        "title": "Old Story",
+        "released": "2018-08-06",
+        "rating": "8.7",
+        "imdb_id": "tt8543946",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Trust",
+        "released": "2018-08-13",
+        "rating": "8.5",
+        "imdb_id": "tt8543952",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Reply",
+        "released": "2018-08-20",
+        "rating": "9.0",
+        "imdb_id": "tt8543956",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Sin",
+        "released": "2018-08-27",
+        "rating": "N/A",
+        "imdb_id": "tt8543958",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Wish",
+        "released": "2018-09-03",
+        "rating": "9.5",
+        "imdb_id": "tt8733180",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Outside the Walls of Orvud District",
+        "released": "2018-09-10",
+        "rating": "8.9",
+        "imdb_id": "tt8733182",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Ruler of the Walls",
+        "released": "2018-09-17",
+        "rating": "9.3",
+        "imdb_id": "tt8733184",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Attack on Titan\\Subtitles\\S3\\Attack.On.Titan.S03E19.720p.WEB.x264-URANiME[eztv]S3E19.zip"
+    },
+    "10": {
+        "title": "Friends",
+        "released": "2018-09-24",
+        "rating": "9.2",
+        "imdb_id": "tt8733188",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Bystander",
+        "released": "2018-10-08",
+        "rating": "9.1",
+        "imdb_id": "tt8733190",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Night of the Battle to Retake the Wall",
+        "released": "2018-10-15",
+        "rating": "8.9",
+        "imdb_id": "tt8733192",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Town Where Everything Began",
+        "released": "2019-04-29",
+        "rating": "9.5",
+        "imdb_id": "tt9038682",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Thunder Spears",
+        "released": "2019-05-06",
+        "rating": "9.5",
+        "imdb_id": "tt9790722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Descent",
+        "released": "2019-05-13",
+        "rating": "9.5",
+        "imdb_id": "tt9806162",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Perfect Game",
+        "released": "2019-05-20",
+        "rating": "9.8",
+        "imdb_id": "tt9898836",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Hero",
+        "released": "2019-05-27",
+        "rating": "9.7",
+        "imdb_id": "tt9906260",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Midnight Sun",
+        "released": "2019-06-03",
+        "rating": "9.8",
+        "imdb_id": "tt10023374",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Basement",
+        "released": "2019-06-10",
+        "rating": "9.2",
+        "imdb_id": "tt10023452",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Attack on Titan\\Subtitles\\S3\\Attack.On.Titan.S03E19.720p.WEB.x264-URANiME[eztv]S3E19.zip"
+    },
+    "20": {
+        "title": "That Day",
+        "released": "2019-06-17",
+        "rating": "9.7",
+        "imdb_id": "tt10034602",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Attack Titan",
+        "released": "2019-06-24",
+        "rating": "9.6",
+        "imdb_id": "tt10064964",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Other Side of the Wall",
+        "released": "2019-07-01",
+        "rating": "9.5",
+        "imdb_id": "tt10064968",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

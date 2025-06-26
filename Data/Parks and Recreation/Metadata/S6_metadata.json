@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "London: Part 1",
+        "released": "2013-09-26",
+        "rating": "N/A",
+        "imdb_id": "tt2909126",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S6\\Parks.and.Recreation.S06E01E02.HDTV.x264-LOLS6E1.zip"
+    },
+    "2": {
+        "title": "London: Part 2",
+        "released": "2013-09-26",
+        "rating": "N/A",
+        "imdb_id": "tt3334072",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Pawnee-Eagleton Tip Off Classic",
+        "released": "2013-10-03",
+        "rating": "7.6",
+        "imdb_id": "tt3186496",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S6\\Parks.and.Recreation.S06E03.HDTV.x264-LOLS6E3.zip"
+    },
+    "4": {
+        "title": "Doppelgängers",
+        "released": "2013-10-10",
+        "rating": "7.9",
+        "imdb_id": "tt3205444",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S6\\Parks.and.Recreation.S06E04.HDTV.x264-LOLS6E4.zip"
+    },
+    "5": {
+        "title": "Gin It Up!",
+        "released": "2013-10-17",
+        "rating": "N/A",
+        "imdb_id": "tt3248698",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S6\\Parks.and.Recreation.S06E05.HDTV.x264-LOLS6E5.zip"
+    },
+    "6": {
+        "title": "Filibuster",
+        "released": "2013-11-14",
+        "rating": "N/A",
+        "imdb_id": "tt3189126",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S6\\Parks.and.Recreation.S06E06.HDTV.x264-LOLS6E6.zip"
+    },
+    "7": {
+        "title": "Recall Vote",
+        "released": "2013-11-14",
+        "rating": "7.5",
+        "imdb_id": "tt3261934",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S6\\Parks.and.Recreation.S06E07.HDTV.x264-LOLS6E7.zip"
+    },
+    "8": {
+        "title": "Fluoride",
+        "released": "2013-11-21",
+        "rating": "N/A",
+        "imdb_id": "tt3197812",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S6\\Parks.and.Recreation.S06E08.HDTV.x264-LOLS6E8.zip"
+    },
+    "9": {
+        "title": "The Cones of Dunshire",
+        "released": "2013-11-21",
+        "rating": "N/A",
+        "imdb_id": "tt3305414",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S6\\Parks.and.Recreation.S06E09.720p.HDTV.X264-DIMENSIONS6E9.zip"
+    },
+    "10": {
+        "title": "Second Chunce",
+        "released": "2014-01-09",
+        "rating": "N/A",
+        "imdb_id": "tt3371312",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "New Beginnings",
+        "released": "2014-01-16",
+        "rating": "7.6",
+        "imdb_id": "tt3429722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Farmers Market",
+        "released": "2014-01-23",
+        "rating": "7.6",
+        "imdb_id": "tt3442160",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Ann and Chris",
+        "released": "2014-01-30",
+        "rating": "8.8",
+        "imdb_id": "tt3460878",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Anniversaries",
+        "released": "2014-02-27",
+        "rating": "N/A",
+        "imdb_id": "tt3511740",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Wall",
+        "released": "2014-03-06",
+        "rating": "N/A",
+        "imdb_id": "tt3479254",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "New Slogan",
+        "released": "2014-03-13",
+        "rating": "N/A",
+        "imdb_id": "tt3547114",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Galentine's Day",
+        "released": "2014-03-20",
+        "rating": "7.6",
+        "imdb_id": "tt3571458",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Prom",
+        "released": "2014-04-03",
+        "rating": "N/A",
+        "imdb_id": "tt3559602",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Flu Season 2",
+        "released": "2014-04-10",
+        "rating": "N/A",
+        "imdb_id": "tt3561964",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "One in 8,000",
+        "released": "2014-04-17",
+        "rating": "N/A",
+        "imdb_id": "tt3575408",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Moving Up: Part 1",
+        "released": "2014-04-24",
+        "rating": "8.8",
+        "imdb_id": "tt3575412",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Moving Up: Part 2",
+        "released": "2014-04-24",
+        "rating": "9.2",
+        "imdb_id": "tt3575414",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

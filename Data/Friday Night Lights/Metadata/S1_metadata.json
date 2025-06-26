@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2006-10-03",
+        "rating": "8.4",
+        "imdb_id": "tt0868133",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friday Night Lights\\Subtitles\\S1\\Friday.Night.Light.S01E01-E11S1E1.zip"
+    },
+    "2": {
+        "title": "Eyes Wide Open",
+        "released": "2006-10-10",
+        "rating": "7.7",
+        "imdb_id": "tt0871137",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Wind Sprints",
+        "released": "2006-10-17",
+        "rating": "7.7",
+        "imdb_id": "tt0863502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Who's Your Daddy",
+        "released": "2006-10-24",
+        "rating": "N/A",
+        "imdb_id": "tt0872912",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Git'er Done",
+        "released": "2006-10-30",
+        "rating": "7.9",
+        "imdb_id": "tt0863503",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "El Accidente",
+        "released": "2006-11-07",
+        "rating": "N/A",
+        "imdb_id": "tt0877087",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Homecoming",
+        "released": "2006-11-14",
+        "rating": "N/A",
+        "imdb_id": "tt0875325",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Crossing the Line",
+        "released": "2006-11-28",
+        "rating": "N/A",
+        "imdb_id": "tt0875324",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Full Hearts",
+        "released": "2006-12-05",
+        "rating": "N/A",
+        "imdb_id": "tt0886859",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "It's Different for Girls",
+        "released": "2006-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt0890844",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Nevermind",
+        "released": "2007-01-03",
+        "rating": "N/A",
+        "imdb_id": "tt0894070",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "What to Do While You're Waiting",
+        "released": "2007-01-10",
+        "rating": "N/A",
+        "imdb_id": "tt0902589",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Little Girl I Wanna Marry You",
+        "released": "2007-01-24",
+        "rating": "N/A",
+        "imdb_id": "tt0921960",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Upping the Ante",
+        "released": "2007-01-31",
+        "rating": "N/A",
+        "imdb_id": "tt0916979",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Blinders",
+        "released": "2007-02-07",
+        "rating": "N/A",
+        "imdb_id": "tt0921959",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Black Eyes and Broken Hearts",
+        "released": "2007-02-14",
+        "rating": "8.4",
+        "imdb_id": "tt0941552",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "I Think We Should Have Sex",
+        "released": "2007-02-21",
+        "rating": "N/A",
+        "imdb_id": "tt0962354",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Extended Families",
+        "released": "2007-02-28",
+        "rating": "N/A",
+        "imdb_id": "tt0975253",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Ch-Ch-Ch-Ch-Changes",
+        "released": "2007-03-21",
+        "rating": "N/A",
+        "imdb_id": "tt0974104",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Mud Bowl",
+        "released": "2007-03-28",
+        "rating": "N/A",
+        "imdb_id": "tt0967676",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Best Laid Plans",
+        "released": "2007-04-04",
+        "rating": "N/A",
+        "imdb_id": "tt0979518",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "State",
+        "released": "2007-04-11",
+        "rating": "8.9",
+        "imdb_id": "tt0998353",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

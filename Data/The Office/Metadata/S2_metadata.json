@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "The Dundies",
+        "released": "2005-09-20",
+        "rating": "8.6",
+        "imdb_id": "tt0664525",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S2\\The.Office.S02E01.HDTV.XviD-LOLS2E1.zip"
+    },
+    "2": {
+        "title": "Sexual Harassment",
+        "released": "2005-09-27",
+        "rating": "8.1",
+        "imdb_id": "tt0664522",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S2\\The.Office.S02E02.HDTV.XviD-LOLS2E2.zip"
+    },
+    "3": {
+        "title": "Office Olympics",
+        "released": "2005-10-04",
+        "rating": "8.2",
+        "imdb_id": "tt0664519",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S2\\The.Office.S02E03.HDTV.XviD-LOLS2E3.zip"
+    },
+    "4": {
+        "title": "The Fire",
+        "released": "2005-10-11",
+        "rating": "8.1",
+        "imdb_id": "tt0664527",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S2\\The.Office.S02E04-TCMS2E4.zip"
+    },
+    "5": {
+        "title": "Halloween",
+        "released": "2005-10-18",
+        "rating": "7.9",
+        "imdb_id": "tt0664516",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S2\\The.Office.S02E05.HDTV.XviD-LOLS2E5.zip"
+    },
+    "6": {
+        "title": "The Fight",
+        "released": "2005-11-01",
+        "rating": "7.9",
+        "imdb_id": "tt0664526",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S2\\The.Office.S02E06.HDTV.XviD-LOLS2E6.zip"
+    },
+    "7": {
+        "title": "The Client",
+        "released": "2005-11-08",
+        "rating": "8.5",
+        "imdb_id": "tt0664524",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S2\\The.Office.S02E07.HDTV.XviD-LOLS2E7.zip"
+    },
+    "8": {
+        "title": "Performance Review",
+        "released": "2005-11-15",
+        "rating": "8.0",
+        "imdb_id": "tt0664520",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S2\\The.Office.S02E08.HDTV.XviD-LOLS2E8.zip"
+    },
+    "9": {
+        "title": "E-Mail Surveillance",
+        "released": "2005-11-22",
+        "rating": "8.2",
+        "imdb_id": "tt0664515",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S2\\The.Office.S02E09.HDTV.XviD-LOLS2E9.zip"
+    },
+    "10": {
+        "title": "Christmas Party",
+        "released": "2005-12-06",
+        "rating": "8.7",
+        "imdb_id": "tt0664513",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Booze Cruise",
+        "released": "2006-01-05",
+        "rating": "8.5",
+        "imdb_id": "tt0664511",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Injury",
+        "released": "2006-01-12",
+        "rating": "9.0",
+        "imdb_id": "tt0664528",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Secret",
+        "released": "2006-01-19",
+        "rating": "8.1",
+        "imdb_id": "tt0756967",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Carpet",
+        "released": "2006-01-26",
+        "rating": "7.6",
+        "imdb_id": "tt0756966",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Boys and Girls",
+        "released": "2006-02-02",
+        "rating": "8.0",
+        "imdb_id": "tt0664512",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Valentine's Day",
+        "released": "2006-02-09",
+        "rating": "8.1",
+        "imdb_id": "tt0763221",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Dwight's Speech",
+        "released": "2006-03-02",
+        "rating": "8.3",
+        "imdb_id": "tt0770626",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Take Your Daughter to Work Day",
+        "released": "2006-03-16",
+        "rating": "8.2",
+        "imdb_id": "tt0779510",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Michael's Birthday",
+        "released": "2006-03-30",
+        "rating": "8.0",
+        "imdb_id": "tt0776249",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Drug Testing",
+        "released": "2006-04-27",
+        "rating": "8.2",
+        "imdb_id": "tt0795874",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Conflict Resolution",
+        "released": "2006-05-04",
+        "rating": "8.6",
+        "imdb_id": "tt0796140",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Casino Night",
+        "released": "2006-05-11",
+        "rating": "9.3",
+        "imdb_id": "tt0800604",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

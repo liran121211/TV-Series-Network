@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2009-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt1363447",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S1\\Parks.and.Recreation.S01E01.HDTV.XviD-LOLS1E1.zip"
+    },
+    "2": {
+        "title": "Canvassing",
+        "released": "2009-04-16",
+        "rating": "7.0",
+        "imdb_id": "tt1366779",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S1\\Parks.and.Recreation.S01E02.HDTV.XviD-LOLS1E2.zip"
+    },
+    "3": {
+        "title": "The Reporter",
+        "released": "2009-04-23",
+        "rating": "7.1",
+        "imdb_id": "tt1366780",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S1\\Parks.and.Recreation.S01E03.HDTV.XviD-LOLS1E3.zip"
+    },
+    "4": {
+        "title": "Boys' Club",
+        "released": "2009-04-30",
+        "rating": "7.2",
+        "imdb_id": "tt1366781",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S1\\Parks.and.Recreation.S01E04.Boys.Club.1080p.AMZN.WEBRip.DD5.1.x264-NTbS1E4.zip"
+    },
+    "5": {
+        "title": "The Banquet",
+        "released": "2009-05-07",
+        "rating": "7.1",
+        "imdb_id": "tt1366782",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S1\\Parks.and.Recreation.S01E05.HDTV.XviD-FQM.enS1E5.zip"
+    },
+    "6": {
+        "title": "Rock Show",
+        "released": "2009-05-14",
+        "rating": "N/A",
+        "imdb_id": "tt1366783",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

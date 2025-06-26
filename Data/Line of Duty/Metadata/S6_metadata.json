@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "Episode #6.1",
+        "released": "2021-03-21",
+        "rating": "7.7",
+        "imdb_id": "tt7814142",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #6.2",
+        "released": "2021-03-28",
+        "rating": "8.1",
+        "imdb_id": "tt7814144",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #6.3",
+        "released": "2021-04-04",
+        "rating": "8.3",
+        "imdb_id": "tt7814148",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #6.4",
+        "released": "2021-04-11",
+        "rating": "9.0",
+        "imdb_id": "tt7814146",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #6.5",
+        "released": "2021-04-18",
+        "rating": "8.9",
+        "imdb_id": "tt7985700",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #6.6",
+        "released": "2021-04-25",
+        "rating": "8.2",
+        "imdb_id": "tt7985702",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #6.7",
+        "released": "2021-05-02",
+        "rating": "6.0",
+        "imdb_id": "tt13968694",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

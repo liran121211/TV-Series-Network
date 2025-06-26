@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2002-03-12",
+        "rating": "8.5",
+        "imdb_id": "tt0699523",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S1\\The.Shield.S01E01.2002.EnglishS1E1.zip"
+    },
+    "2": {
+        "title": "Our Gang",
+        "released": "2002-03-19",
+        "rating": "N/A",
+        "imdb_id": "tt0699520",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S1\\The.Shield.S01E02.2002.EnglishS1E2.zip"
+    },
+    "3": {
+        "title": "The Spread",
+        "released": "2002-03-26",
+        "rating": "N/A",
+        "imdb_id": "tt0699538",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S1\\The.Shield.S01E03.2002.EnglishS1E3.zip"
+    },
+    "4": {
+        "title": "Dawg Days",
+        "released": "2002-04-02",
+        "rating": "N/A",
+        "imdb_id": "tt0699499",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S1\\The.Shield.S01E04.2002.EnglishS1E4.zip"
+    },
+    "5": {
+        "title": "Blowback",
+        "released": "2002-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt0699488",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S1\\The.Shield.S01E05.2002.EnglishS1E5.zip"
+    },
+    "6": {
+        "title": "Cherrypoppers",
+        "released": "2002-04-16",
+        "rating": "N/A",
+        "imdb_id": "tt0699493",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S1\\The.Shield.S01E06.2002.EnglishS1E6.zip"
+    },
+    "7": {
+        "title": "Pay in Pain",
+        "released": "2002-04-23",
+        "rating": "N/A",
+        "imdb_id": "tt0699522",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S1\\The.Shield.S01E07.2002.EnglishS1E7.zip"
+    },
+    "8": {
+        "title": "Cupid & Psycho",
+        "released": "2002-04-30",
+        "rating": "N/A",
+        "imdb_id": "tt0699497",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S1\\The.Shield.S01E08.2002.EnglishS1E8.zip"
+    },
+    "9": {
+        "title": "Throwaway",
+        "released": "2002-05-07",
+        "rating": "N/A",
+        "imdb_id": "tt0699539",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S1\\The.Shield.S01E09.2002.EnglishS1E9.zip"
+    },
+    "10": {
+        "title": "Dragonchasers",
+        "released": "2002-05-14",
+        "rating": "N/A",
+        "imdb_id": "tt0699504",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Carnivores",
+        "released": "2002-05-21",
+        "rating": "N/A",
+        "imdb_id": "tt0699491",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Two Days of Blood",
+        "released": "2002-05-28",
+        "rating": "N/A",
+        "imdb_id": "tt0699541",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Circles",
+        "released": "2002-06-04",
+        "rating": "8.8",
+        "imdb_id": "tt0699494",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

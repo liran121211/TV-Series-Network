@@ -1,0 +1,130 @@
+{
+    "1": {
+        "title": "A Horse Walks into a Rehab",
+        "released": "2019-10-25",
+        "rating": "9.1",
+        "imdb_id": "tt9207160",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The New Client",
+        "released": "2019-10-25",
+        "rating": "8.5",
+        "imdb_id": "tt11028144",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Feel-Good Story",
+        "released": "2019-10-25",
+        "rating": "8.0",
+        "imdb_id": "tt11028148",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Surprise!",
+        "released": "2019-10-25",
+        "rating": "9.0",
+        "imdb_id": "tt11028150",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "A Little Uneven, Is All",
+        "released": "2019-10-25",
+        "rating": "8.0",
+        "imdb_id": "tt11028152",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Kidney Stays in the Picture",
+        "released": "2019-10-25",
+        "rating": "N/A",
+        "imdb_id": "tt11028154",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Face of Depression",
+        "released": "2019-10-25",
+        "rating": "9.3",
+        "imdb_id": "tt11028156",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "A Quick One, While He's Away",
+        "released": "2019-10-25",
+        "rating": "8.5",
+        "imdb_id": "tt11028158",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Intermediate Scene Study w/ BoJack Horseman",
+        "released": "2020-01-31",
+        "rating": "8.3",
+        "imdb_id": "tt11028162",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\BoJack Horseman\\Subtitles\\S6\\BoJack.Horseman.S06E09~E16.WEBRip.x264-ION10S6E9.zip"
+    },
+    "10": {
+        "title": "Good Damage",
+        "released": "2020-01-31",
+        "rating": "8.9",
+        "imdb_id": "tt11028166",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Sunk Cost and All That",
+        "released": "2020-01-31",
+        "rating": "8.6",
+        "imdb_id": "tt11028164",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Xerox of a Xerox",
+        "released": "2020-01-31",
+        "rating": "9.2",
+        "imdb_id": "tt11028172",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Horny Unicorn",
+        "released": "2020-01-31",
+        "rating": "8.6",
+        "imdb_id": "tt11028168",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Angela",
+        "released": "2020-01-31",
+        "rating": "8.9",
+        "imdb_id": "tt11028170",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The View from Halfway Down",
+        "released": "2020-01-31",
+        "rating": "9.9",
+        "imdb_id": "tt11028174",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Nice While It Lasted",
+        "released": "2020-01-31",
+        "rating": "9.6",
+        "imdb_id": "tt11028176",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "The Name of the Game",
+        "released": "2019-07-26",
+        "rating": "8.7",
+        "imdb_id": "tt7775902",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Cherry",
+        "released": "2019-07-26",
+        "rating": "8.5",
+        "imdb_id": "tt8100946",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Get Some",
+        "released": "2019-07-26",
+        "rating": "8.3",
+        "imdb_id": "tt8100948",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Female of the Species",
+        "released": "2019-07-26",
+        "rating": "8.7",
+        "imdb_id": "tt8100950",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Good for the Soul",
+        "released": "2019-07-26",
+        "rating": "8.3",
+        "imdb_id": "tt8100952",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Innocents",
+        "released": "2019-07-26",
+        "rating": "8.1",
+        "imdb_id": "tt8100954",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Self-Preservation Society",
+        "released": "2019-07-26",
+        "rating": "8.7",
+        "imdb_id": "tt8100956",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "You Found Me",
+        "released": "2019-07-26",
+        "rating": "9.0",
+        "imdb_id": "tt8100958",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

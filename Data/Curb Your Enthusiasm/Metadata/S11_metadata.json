@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Five-Foot Fence",
+        "released": "2021-10-24",
+        "rating": "8.1",
+        "imdb_id": "tt12632016",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S2\\Curb.Your.Enthusiasm.S02.E01-E10.COMPLETE.DVDRip.x264-SARTRES2E1.zip"
+    },
+    "2": {
+        "title": "Angel Muffin",
+        "released": "2021-10-31",
+        "rating": "7.3",
+        "imdb_id": "tt15204200",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Mini Bar",
+        "released": "2021-11-07",
+        "rating": "N/A",
+        "imdb_id": "tt15204210",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Watermelon",
+        "released": "2021-11-14",
+        "rating": "8.7",
+        "imdb_id": "tt15204226",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "IRASSHAIMASE!",
+        "released": "2021-11-21",
+        "rating": "8.0",
+        "imdb_id": "tt15243598",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Man Fights Tiny Woman",
+        "released": "2021-11-28",
+        "rating": "7.7",
+        "imdb_id": "tt15243624",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Irma Kostroski",
+        "released": "2021-12-05",
+        "rating": "7.8",
+        "imdb_id": "tt15243632",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "What Have I Done?",
+        "released": "2021-12-12",
+        "rating": "8.5",
+        "imdb_id": "tt15243640",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Igor, Gregor, & Timor",
+        "released": "2021-12-19",
+        "rating": "7.6",
+        "imdb_id": "tt15243658",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Mormon Advantage",
+        "released": "2021-12-26",
+        "rating": "7.7",
+        "imdb_id": "tt15243674",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

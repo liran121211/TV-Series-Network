@@ -1,0 +1,26 @@
+{
+    "1": {
+        "title": "The National Anthem",
+        "released": "2011-12-04",
+        "rating": "7.6",
+        "imdb_id": "tt2089051",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Black Mirror\\Subtitles\\S1\\Black.Mirror.S01E01.The.National.Anthem.DVDRip.XviD-TASTETVS1E1.zip"
+    },
+    "2": {
+        "title": "Fifteen Million Merits",
+        "released": "2011-12-11",
+        "rating": "8.0",
+        "imdb_id": "tt2089049",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Black Mirror\\Subtitles\\S1\\Black.Mirror.S01E02.15.Million.Credits.DVDRip.XviD-TASTETVS1E2.zip"
+    },
+    "3": {
+        "title": "The Entire History of You",
+        "released": "2011-12-18",
+        "rating": "8.5",
+        "imdb_id": "tt2089050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

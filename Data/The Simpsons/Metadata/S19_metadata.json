@@ -1,0 +1,162 @@
+{
+    "1": {
+        "title": "He Loves to Fly and He D'ohs",
+        "released": "2007-09-23",
+        "rating": "6.6",
+        "imdb_id": "tt1103798",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\The.Simpsons.S19E01-E20.PDTV.XviDS19E1.zip"
+    },
+    "2": {
+        "title": "Homer of Seville",
+        "released": "2007-09-30",
+        "rating": "6.5",
+        "imdb_id": "tt1103799",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\The.Simpsons.S19E02.WEB-DL.DSNPS19E2.zip"
+    },
+    "3": {
+        "title": "Midnight Towboy",
+        "released": "2007-10-07",
+        "rating": "7.1",
+        "imdb_id": "tt1112081",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\The.Simpsons.S19E03.WEB-DL.DSNPS19E3.zip"
+    },
+    "4": {
+        "title": "I Don't Wanna Know Why the Caged Bird Sings",
+        "released": "2007-10-14",
+        "rating": "6.7",
+        "imdb_id": "tt1111719",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\The.Simpsons.S19E04.WEB-DL.DSNPS19E4.zip"
+    },
+    "5": {
+        "title": "Treehouse of Horror XVIII",
+        "released": "2007-11-04",
+        "rating": "6.9",
+        "imdb_id": "tt1112082",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\The.Simpsons.S19E05.PDTV.XviD-LOLS19E5.zip"
+    },
+    "6": {
+        "title": "Little Orphan Millie",
+        "released": "2007-11-11",
+        "rating": "6.6",
+        "imdb_id": "tt1137310",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\The.Simpsons.S19E06.PDTV.XviD-LOLS19E6.zip"
+    },
+    "7": {
+        "title": "Husbands and Knives",
+        "released": "2007-11-18",
+        "rating": "6.9",
+        "imdb_id": "tt0992614",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\S19E07-Husbands&amp;KnivesS19E7.zip"
+    },
+    "8": {
+        "title": "Funeral for a Fiend",
+        "released": "2007-11-25",
+        "rating": "7.1",
+        "imdb_id": "tt1137309",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\The.Simpsons.S19E08.PDTV.XviD-XORS19E8.zip"
+    },
+    "9": {
+        "title": "Eternal Moonshine of the Simpson Mind",
+        "released": "2007-12-16",
+        "rating": "8.1",
+        "imdb_id": "tt1147352",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\The.Simpsons.S19E09.PDTV.XviD-BlueTVS19E9.zip"
+    },
+    "10": {
+        "title": "E Pluribus Wiggum",
+        "released": "2008-01-06",
+        "rating": "6.7",
+        "imdb_id": "tt1157300",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "That '90s Show",
+        "released": "2008-01-27",
+        "rating": "6.3",
+        "imdb_id": "tt1166961",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Love, Springfieldian Style",
+        "released": "2008-02-17",
+        "rating": "6.5",
+        "imdb_id": "tt1178426",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The DeBarted",
+        "released": "2008-03-02",
+        "rating": "7.6",
+        "imdb_id": "tt1188966",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Dial 'N' for Nerder",
+        "released": "2008-03-09",
+        "rating": "7.4",
+        "imdb_id": "tt1191727",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Smoke on the Daughter",
+        "released": "2008-03-30",
+        "rating": "6.6",
+        "imdb_id": "tt1206071",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Papa Don't Leech",
+        "released": "2008-04-13",
+        "rating": "6.1",
+        "imdb_id": "tt1211739",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Apocalypse Cow",
+        "released": "2008-04-27",
+        "rating": "6.8",
+        "imdb_id": "tt1215758",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Any Given Sundance",
+        "released": "2008-05-04",
+        "rating": "7.0",
+        "imdb_id": "tt1225549",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Mona Leaves-a",
+        "released": "2008-05-11",
+        "rating": "7.0",
+        "imdb_id": "tt1225550",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "All About Lisa",
+        "released": "2008-05-18",
+        "rating": "6.4",
+        "imdb_id": "tt1226562",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

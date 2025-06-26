@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "In the Shadow of the Truth",
+        "released": "2017-03-26",
+        "rating": "8.4",
+        "imdb_id": "tt5760408",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Who Sows the Wind",
+        "released": "2017-04-02",
+        "rating": "8.1",
+        "imdb_id": "tt6148516",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "In the Trap",
+        "released": "2017-04-09",
+        "rating": "8.6",
+        "imdb_id": "tt6148492",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Moral Superiority",
+        "released": "2017-04-16",
+        "rating": "8.5",
+        "imdb_id": "tt6148548",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Lying Nest",
+        "released": "2017-04-23",
+        "rating": "8.5",
+        "imdb_id": "tt6148560",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Royal Hunting Ground",
+        "released": "2017-04-30",
+        "rating": "9.0",
+        "imdb_id": "tt6158184",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

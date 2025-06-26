@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Homerland",
+        "released": "2013-09-29",
+        "rating": "6.9",
+        "imdb_id": "tt2932788",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S25\\The.Simpsons.S25E01.HDTV.x264-LOL.HIS25E1.zip"
+    },
+    "2": {
+        "title": "Treehouse of Horror XXIV",
+        "released": "2013-10-06",
+        "rating": "6.9",
+        "imdb_id": "tt2930940",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S25\\The.Simpsons.S25E02.HDTV.x264-LOL.HIS25E2.zip"
+    },
+    "3": {
+        "title": "Four Regrettings and a Funeral",
+        "released": "2013-11-03",
+        "rating": "6.4",
+        "imdb_id": "tt2930944",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S25\\The.Simpsons.S25E03.HDTV.x264-LOL.HIS25E3.zip"
+    },
+    "4": {
+        "title": "YOLO",
+        "released": "2013-11-10",
+        "rating": "6.5",
+        "imdb_id": "tt2967632",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S25\\The.Simpsons.S25E04.HDTV.x264-LOL.HIS25E4.zip"
+    },
+    "5": {
+        "title": "Labor Pains",
+        "released": "2013-11-17",
+        "rating": "6.8",
+        "imdb_id": "tt2930950",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S25\\The.Simpsons.S25E05.HDTV.x264-LOL.HIS25E5.zip"
+    },
+    "6": {
+        "title": "The Kid Is All Right",
+        "released": "2013-11-24",
+        "rating": "6.4",
+        "imdb_id": "tt3298158",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S25\\The.Simpsons.S25E06.HDTV.x264-LOL.HIS25E6.zip"
+    },
+    "7": {
+        "title": "Yellow Subterfuge",
+        "released": "2013-12-08",
+        "rating": "6.7",
+        "imdb_id": "tt3181566",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S25\\The.Simpsons.S25E07.HDTV.x264-LOL.HIS25E7.zip"
+    },
+    "8": {
+        "title": "White Christmas Blues",
+        "released": "2013-12-15",
+        "rating": "6.4",
+        "imdb_id": "tt2930952",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S25\\The.Simpsons.S25E08.HDTV.x264-LOL.HIS25E8.zip"
+    },
+    "9": {
+        "title": "Steal This Episode",
+        "released": "2014-01-05",
+        "rating": "7.6",
+        "imdb_id": "tt2966850",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S25\\The.Simpsons.S25E09.HDTV.x264-LOL.HIS25E9.zip"
+    },
+    "10": {
+        "title": "Married to the Blob",
+        "released": "2014-01-12",
+        "rating": "6.9",
+        "imdb_id": "tt3181598",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Specs and the City",
+        "released": "2014-01-26",
+        "rating": "7.1",
+        "imdb_id": "tt3449580",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Diggs",
+        "released": "2014-03-09",
+        "rating": "6.3",
+        "imdb_id": "tt3181558",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Man Who Grew Too Much",
+        "released": "2014-03-09",
+        "rating": "6.6",
+        "imdb_id": "tt3181550",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Winter of His Content",
+        "released": "2014-03-16",
+        "rating": "6.6",
+        "imdb_id": "tt2985826",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The War of Art",
+        "released": "2014-03-23",
+        "rating": "6.9",
+        "imdb_id": "tt3181612",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "You Don't Have to Live Like a Referee",
+        "released": "2014-03-30",
+        "rating": "6.7",
+        "imdb_id": "tt3181608",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Luca$",
+        "released": "2014-04-06",
+        "rating": "6.3",
+        "imdb_id": "tt3181604",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Days of Future Future",
+        "released": "2014-04-13",
+        "rating": "7.0",
+        "imdb_id": "tt3181488",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "What to Expect When Bart's Expecting",
+        "released": "2014-04-27",
+        "rating": "5.8",
+        "imdb_id": "tt3181528",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Brick Like Me",
+        "released": "2014-05-04",
+        "rating": "7.9",
+        "imdb_id": "tt2967634",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Pay Pal",
+        "released": "2014-05-11",
+        "rating": "6.6",
+        "imdb_id": "tt3319012",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Yellow Badge of Cowardge",
+        "released": "2014-05-18",
+        "rating": "6.6",
+        "imdb_id": "tt3683030",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "To the Ends of the Earth",
+        "released": "2012-03-18",
+        "rating": "8.7",
+        "imdb_id": "tt2095246",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Frozen Planet\\Subtitles\\S1\\David.Attenborough.Frozen.Planet.S01E01.HDTV.XviD-FTPS1E1.zip"
+    },
+    "2": {
+        "title": "Spring",
+        "released": "2012-03-18",
+        "rating": "8.5",
+        "imdb_id": "tt2095243",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Frozen Planet\\Subtitles\\S1\\David.Attenborough.Frozen.Planet.S01E02.HDTV.XviD-BARGES1E2.zip"
+    },
+    "3": {
+        "title": "Summer",
+        "released": "2012-03-25",
+        "rating": "8.3",
+        "imdb_id": "tt2095244",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Frozen Planet\\Subtitles\\S1\\David.Attenborough.Frozen.Planet.S01E03.HDTV.XviD-FTPS1E3.zip"
+    },
+    "4": {
+        "title": "Autumn",
+        "released": "2012-04-08",
+        "rating": "8.3",
+        "imdb_id": "tt2095241",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Frozen Planet\\Subtitles\\S1\\David.Attenborough.Frozen.Planet.S01E04.HDTV.XviD-BARGES1E4.zip"
+    },
+    "5": {
+        "title": "Winter",
+        "released": "2012-04-01",
+        "rating": "8.6",
+        "imdb_id": "tt2095247",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Frozen Planet\\Subtitles\\S1\\David.Attenborough.Frozen.Planet.S01E05.HDTV.XviD-TASTETVS1E5.zip"
+    },
+    "6": {
+        "title": "The Last Frontier",
+        "released": "2012-04-15",
+        "rating": "8.2",
+        "imdb_id": "tt2095245",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Frozen Planet\\Subtitles\\S1\\David.Attenborough.Frozen.Planet.S01E06.UNCUT.HDTV.XviD-BARGES1E6.zip"
+    },
+    "7": {
+        "title": "On Thin Ice",
+        "released": "2012-04-22",
+        "rating": "8.0",
+        "imdb_id": "tt2095242",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Frozen Planet\\Subtitles\\S1\\David.Attenborough.Frozen.Planet.S01E07.UNCUT.HDTV.XviD-BARGES1E7.zip"
+    },
+    "8": {
+        "title": "The Epic Journey",
+        "released": "2012-04-22",
+        "rating": "N/A",
+        "imdb_id": "tt2166859",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Frozen Planet\\Subtitles\\S1\\BBC_Frozen_Planet_E08_The_Epic_JourneyS1E8.zip"
+    },
+    "10": {
+        "title": "The Making of 'Frozen Planet'",
+        "released": "2012-04-08",
+        "rating": "N/A",
+        "imdb_id": "tt11373898",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

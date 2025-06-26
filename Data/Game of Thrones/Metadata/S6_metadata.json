@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Red Woman",
+        "released": "2016-04-24",
+        "rating": "8.4",
+        "imdb_id": "tt3658014",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S6\\Game.of.Thrones.S06E01.WEB-DL.x264-RARBGS6E1.zip"
+    },
+    "2": {
+        "title": "Home",
+        "released": "2016-05-01",
+        "rating": "9.2",
+        "imdb_id": "tt4077554",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S6\\Game.of.Thrones.S06E02.WEB-DL.x264-RARBGS6E2.zip"
+    },
+    "3": {
+        "title": "Oathbreaker",
+        "released": "2016-05-08",
+        "rating": "8.6",
+        "imdb_id": "tt4131606",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S6\\Game.of.Thrones.S06E03.WEB-DL.x264-RARBGS6E3.zip"
+    },
+    "4": {
+        "title": "Book of the Stranger",
+        "released": "2016-05-15",
+        "rating": "9.0",
+        "imdb_id": "tt4283016",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S6\\Game.of.Thrones.S06E04.WEB-DL.x264-RARBGS6E4.zip"
+    },
+    "5": {
+        "title": "The Door",
+        "released": "2016-05-22",
+        "rating": "9.7",
+        "imdb_id": "tt4283028",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S6\\Game.of.Thrones.S06E05.WEBRip_[160Mb]S6E5.zip"
+    },
+    "6": {
+        "title": "Blood of My Blood",
+        "released": "2016-05-29",
+        "rating": "N/A",
+        "imdb_id": "tt4283054",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S6\\Game.of.Thrones.S06E06.WEB-DL.x264-RARBGS6E6.zip"
+    },
+    "7": {
+        "title": "The Broken Man",
+        "released": "2016-06-05",
+        "rating": "8.5",
+        "imdb_id": "tt4283060",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S6\\Game.of.Thrones.S06E07.WEB-DL.x264-RARBGS6E7.zip"
+    },
+    "8": {
+        "title": "No One",
+        "released": "2016-06-12",
+        "rating": "8.3",
+        "imdb_id": "tt4283074",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S6\\Game.of.Thrones.S06E08.WEBRip.x264-RBBS6E8.zip"
+    },
+    "9": {
+        "title": "Battle of the Bastards",
+        "released": "2016-06-19",
+        "rating": "9.9",
+        "imdb_id": "tt4283088",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S6\\Game.of.Thrones.S06E09.WEB-DL.x264-RARBGS6E9.zip"
+    },
+    "10": {
+        "title": "The Winds of Winter",
+        "released": "2016-06-26",
+        "rating": "9.9",
+        "imdb_id": "tt4283094",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S6\\Game.of.Thrones.S06E10.WEB-DL.x264-RARBGS6E10.zip"
+    }
+}

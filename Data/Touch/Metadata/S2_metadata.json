@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Event Horizon",
+        "released": "2013-02-08",
+        "rating": "7.5",
+        "imdb_id": "tt2184842",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Closer",
+        "released": "2013-02-08",
+        "rating": "N/A",
+        "imdb_id": "tt2356254",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Enemy of My Enemy",
+        "released": "2013-02-15",
+        "rating": "N/A",
+        "imdb_id": "tt2365854",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Perfect Storm",
+        "released": "2013-02-22",
+        "rating": "N/A",
+        "imdb_id": "tt2475050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Eye to Eye",
+        "released": "2013-03-01",
+        "rating": "N/A",
+        "imdb_id": "tt2477608",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Broken",
+        "released": "2013-03-08",
+        "rating": "N/A",
+        "imdb_id": "tt2728690",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Ghosts",
+        "released": "2013-03-15",
+        "rating": "N/A",
+        "imdb_id": "tt2739520",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Reunions",
+        "released": "2013-03-22",
+        "rating": "N/A",
+        "imdb_id": "tt2756120",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Clockwork",
+        "released": "2013-03-29",
+        "rating": "N/A",
+        "imdb_id": "tt2738814",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Two of a Kind",
+        "released": "2013-04-05",
+        "rating": "N/A",
+        "imdb_id": "tt2578680",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Accused",
+        "released": "2013-04-26",
+        "rating": "N/A",
+        "imdb_id": "tt2543158",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Fight or Flight",
+        "released": "2013-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt2887144",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Leviathan",
+        "released": "2013-05-10",
+        "rating": "N/A",
+        "imdb_id": "tt2853214",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

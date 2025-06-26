@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Episode #2.1",
+        "released": "2005-10-20",
+        "rating": "8.2",
+        "imdb_id": "tt0720701",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #2.2",
+        "released": "2005-10-27",
+        "rating": "7.8",
+        "imdb_id": "tt0720702",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #2.3",
+        "released": "2005-11-03",
+        "rating": "N/A",
+        "imdb_id": "tt0720703",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Rise of the Nutters",
+        "released": "2007-01-10",
+        "rating": "N/A",
+        "imdb_id": "tt0933666",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Spinners and Losers",
+        "released": "2007-07-03",
+        "rating": "N/A",
+        "imdb_id": "tt1062832",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Spinners and Losers: Opposition Extra",
+        "released": "2007-07-03",
+        "rating": "N/A",
+        "imdb_id": "tt1096734",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

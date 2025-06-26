@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Valar Dohaeris",
+        "released": "2013-03-31",
+        "rating": "8.6",
+        "imdb_id": "tt2178782",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S3\\Game.of.Thrones.S03E01.720p.WEB-DL.DD5.1.H.264-NTbS3E1.zip"
+    },
+    "2": {
+        "title": "Dark Wings, Dark Words",
+        "released": "2013-04-07",
+        "rating": "8.4",
+        "imdb_id": "tt2178772",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S3\\Game.of.Thrones.S03E02.720p.WEB-DL.DD5.1.H.264-NTbS3E2.zip"
+    },
+    "3": {
+        "title": "Walk of Punishment",
+        "released": "2013-04-14",
+        "rating": "8.7",
+        "imdb_id": "tt2178802",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S3\\Game.of.Thrones.S03E03.720p.WEB-DL.DD5.1.H.264-NTbS3E3.zip"
+    },
+    "4": {
+        "title": "And Now His Watch Is Ended",
+        "released": "2013-04-21",
+        "rating": "9.5",
+        "imdb_id": "tt2178798",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S3\\Game.of.Thrones.S03E04.720p.WEB-DL.DD5.1.H.264-NTbS3E4.zip"
+    },
+    "5": {
+        "title": "Kissed by Fire",
+        "released": "2013-04-28",
+        "rating": "8.9",
+        "imdb_id": "tt2178788",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S3\\Game.of.Thrones.S03E05.720p.WEB-DL.DD5.1.H.264-NTbS3E5.zip"
+    },
+    "6": {
+        "title": "The Climb",
+        "released": "2013-05-05",
+        "rating": "8.7",
+        "imdb_id": "tt2178812",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S3\\Game.of.Thrones.S03E06.720p.WEB-DL.DD5.1.H.264-NTbS3E6.zip"
+    },
+    "7": {
+        "title": "The Bear and the Maiden Fair",
+        "released": "2013-05-12",
+        "rating": "8.6",
+        "imdb_id": "tt2178814",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S3\\Game.of.Thrones.S03E07.720p.WEB-DL.DD5.1.H.264-NTbS3E7.zip"
+    },
+    "8": {
+        "title": "Second Sons",
+        "released": "2013-05-19",
+        "rating": "8.9",
+        "imdb_id": "tt2178806",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S3\\Game.of.Thrones.S03E08.720p.WEB-DL.DD5.1.H.264-NTbS3E8.zip"
+    },
+    "9": {
+        "title": "The Rains of Castamere",
+        "released": "2013-06-02",
+        "rating": "9.9",
+        "imdb_id": "tt2178784",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S3\\Game.of.Thrones.S03E09.Rains.of.Castamere.WEB-DLS3E9.zip"
+    },
+    "10": {
+        "title": "Mhysa",
+        "released": "2013-06-09",
+        "rating": "9.1",
+        "imdb_id": "tt2178796",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

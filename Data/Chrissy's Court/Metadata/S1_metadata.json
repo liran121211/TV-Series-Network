@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "C-Rap Music",
+        "released": "2020-04-06",
+        "rating": "N/A",
+        "imdb_id": "tt12058724",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Situation-Ship Status",
+        "released": "2020-04-06",
+        "rating": "N/A",
+        "imdb_id": "tt12061970",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "100% That Case",
+        "released": "2020-04-06",
+        "rating": "N/A",
+        "imdb_id": "tt12061972",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Chrissy's Court\\Subtitles\\S1\\SUBDL::chrissys-court-first-season-2235488.zip"
+    },
+    "4": {
+        "title": "That's a Rap",
+        "released": "2020-04-07",
+        "rating": "N/A",
+        "imdb_id": "tt12061974",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Chrissy's Court\\Subtitles\\S1\\SUBDL::chrissys-court-first-season-2235488.zip"
+    },
+    "5": {
+        "title": "Sister Dissed Her",
+        "released": "2020-04-08",
+        "rating": "N/A",
+        "imdb_id": "tt12061982",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Chrissy's Court\\Subtitles\\S1\\SUBDL::chrissys-court-first-season-2235488.zip"
+    },
+    "6": {
+        "title": "The Pillow Case",
+        "released": "2020-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt12061984",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Chrissy's Court\\Subtitles\\S1\\SUBDL::chrissys-court-first-season-2235488.zip"
+    },
+    "7": {
+        "title": "Cat-Astrophe",
+        "released": "2020-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt12061986",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Chrissy's Court\\Subtitles\\S1\\SUBDL::chrissys-court-first-season-2235488.zip"
+    },
+    "8": {
+        "title": "It's Car-plicated",
+        "released": "2020-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt12061988",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Chrissy's Court\\Subtitles\\S1\\SUBDL::chrissys-court-first-season-2235488.zip"
+    },
+    "11": {
+        "title": "Best Friend to Ex-Friend",
+        "released": "2020-04-13",
+        "rating": "N/A",
+        "imdb_id": "tt12168874",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

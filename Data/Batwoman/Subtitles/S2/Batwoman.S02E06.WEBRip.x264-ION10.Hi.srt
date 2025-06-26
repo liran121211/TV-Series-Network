@@ -1,0 +1,4271 @@
+1
+00:00:03,090 --> 00:00:05,353
+<i>Patient "a" Is A 10-year-old Male</i>
+
+2
+00:00:05,396 --> 00:00:07,268
+<i>With Stage-iv Leukemia.</i>
+
+3
+00:00:07,311 --> 00:00:10,967
+<i>On January 31, He Was Bitten
+By A Bat During The Attacks</i>
+
+4
+00:00:11,011 --> 00:00:12,621
+<i>In Gotham Square,</i>
+
+5
+00:00:12,664 --> 00:00:15,232
+<i>And He Immediately Began
+Showing Signs Of Sepsis.</i>
+
+6
+00:00:15,276 --> 00:00:17,060
+<i>Later That Night,
+He Received A Dose</i>
+
+7
+00:00:17,104 --> 00:00:19,845
+<i>Of The Miracle Serum Bp296,</i>
+
+8
+00:00:19,889 --> 00:00:21,586
+<i>Which Relieved
+The Sepsis Immediately.</i>
+
+9
+00:00:21,630 --> 00:00:23,632
+<i>He's Here Today, However,
+Because We Discovered</i>
+
+10
+00:00:23,675 --> 00:00:25,895
+<i>72 Hours Later
+That It Also Cured</i>
+
+11
+00:00:25,938 --> 00:00:29,551
+<i>His Stage-iv Leukemia
+Completely.</i>
+
+12
+00:00:29,594 --> 00:00:31,596
+<i>So Today, We've Isolated
+His White Blood Cells</i>
+
+13
+00:00:31,640 --> 00:00:34,425
+<i>In An Attempt To Siphon
+And Replicate</i>
+
+14
+00:00:34,469 --> 00:00:36,732
+<i>Their Curative Properties.</i>
+
+15
+00:00:36,775 --> 00:00:40,779
+<i>We're Now Mixing Them
+In Our Synthetic Granulocytes,</i>
+
+16
+00:00:40,823 --> 00:00:43,695
+<i>And We Are Now Injecting
+Them Into Patient B,</i>
+
+17
+00:00:43,739 --> 00:00:46,916
+<i>An 80-year-old Male
+With A Similar Cancer.</i>
+
+18
+00:00:46,959 --> 00:00:49,875
+<i>Our Hypothesis Is That
+The New Solution</i>
+
+19
+00:00:49,919 --> 00:00:52,530
+<i>Will Attack His Cancer
+In The Same Way.</i>
+
+20
+00:00:56,099 --> 00:00:59,146
+<i>We'll Check Back In 24 Hours
+And Look For Progress.</i>
+
+21
+00:01:00,843 --> 00:01:02,584
+<i>[instruments Beeping]</i>
+
+22
+00:01:02,627 --> 00:01:04,455
+<i>[gagging]</i>
+
+23
+00:01:04,499 --> 00:01:06,240
+<i>Oh. We Need Help
+In Here!</i>
+
+24
+00:01:06,283 --> 00:01:07,937
+<i>Just--just Try To Sit Back.
+Just Try To Relax.</i>
+
+25
+00:01:07,980 --> 00:01:10,026
+<i>Help! Help!</i>
+
+26
+00:01:10,070 --> 00:01:12,942
+<i>[patient B Coughing]</i>
+
+27
+00:01:12,985 --> 00:01:15,684
+<i>Doctor: Oh, Oh--</i>
+
+28
+00:01:15,727 --> 00:01:17,468
+<i>The Toxin Spread
+By The Bats</i>
+
+29
+00:01:17,512 --> 00:01:20,515
+<i>Was Intentionally
+Designed By Hamilton
+Without A Cure.</i>
+
+30
+00:01:20,558 --> 00:01:23,605
+<i>That Serum Cured It,
+And Not Just That,</i>
+
+31
+00:01:23,648 --> 00:01:25,824
+<i>It Reversed
+Hereditary Conditions,</i>
+
+32
+00:01:25,868 --> 00:01:29,306
+<i>Eradicated Anemia,
+Malaria, All Types
+Of Blood Diseases.</i>
+
+33
+00:01:29,350 --> 00:01:31,091
+<i>We Can't
+Replicate It, Sir.</i>
+
+34
+00:01:31,134 --> 00:01:32,440
+<i>Try Again.</i>
+
+35
+00:01:32,483 --> 00:01:34,572
+<i>Sir, With
+All Due Respect,</i>
+
+36
+00:01:34,616 --> 00:01:36,574
+<i>How Many People Have To Die
+For Me To Make My Point?</i>
+
+37
+00:01:36,618 --> 00:01:38,402
+<i>And How Many People
+Get To Live</i>
+
+38
+00:01:38,446 --> 00:01:40,274
+<i>If I Make Mine?</i>
+
+39
+00:01:40,317 --> 00:01:41,927
+<i>Whatever Was
+In The Antidote
+For That Bat Toxin</i>
+
+40
+00:01:41,971 --> 00:01:43,755
+<i>Is Gonna Change
+Modern Medicine Forever.</i>
+
+41
+00:01:43,799 --> 00:01:46,236
+<i>The Supply Was Exhausted
+Before We Knew Its Potential,</i>
+
+42
+00:01:46,280 --> 00:01:48,456
+<i>And It Can't Be
+Synthesized.</i>
+
+43
+00:01:48,499 --> 00:01:51,067
+<i>It's Gone, Sir.</i>
+
+44
+00:01:51,111 --> 00:01:53,156
+<i>Well, It Came
+From Somewhere, Right?</i>
+
+45
+00:01:53,200 --> 00:01:55,027
+<i>You Really Think Someone's
+Just Gonna Hand Over</i>
+
+46
+00:01:55,071 --> 00:01:57,160
+<i>The Secret
+To A Miracle Cure?</i>
+
+47
+00:01:57,204 --> 00:01:59,945
+<i>No. I Expect They're
+Gonna Cherish It</i>
+
+48
+00:01:59,989 --> 00:02:02,122
+<i>Like It's The Most
+Valuable Thing
+In The World.</i>
+
+49
+00:02:10,391 --> 00:02:11,479
+<i>[beep]</i>
+
+50
+00:02:11,522 --> 00:02:12,741
+<i>Don't Let
+This Door Close.</i>
+
+51
+00:02:12,784 --> 00:02:14,264
+<i>What's This One's Deal?</i>
+
+52
+00:02:19,182 --> 00:02:21,924
+<i>-mr. Helzinger.
+-what? What's Happening?</i>
+
+53
+00:02:21,967 --> 00:02:26,276
+<i>Aaron, It's Me.
+It's Dr. Rogers.</i>
+
+54
+00:02:26,320 --> 00:02:28,452
+<i>Uh, Tell Me You
+Got A--tell Me</i>
+
+55
+00:02:28,496 --> 00:02:31,629
+<i>You Got A Fix,
+Doc.</i>
+
+56
+00:02:31,673 --> 00:02:35,677
+<i>Not At The Moment,
+I'm Afraid.</i>
+
+57
+00:02:35,720 --> 00:02:37,592
+<i>Aah!</i>
+
+58
+00:02:37,635 --> 00:02:39,681
+<i>[grunting]</i>
+
+59
+00:02:42,031 --> 00:02:44,816
+<i>I Didn't Do
+Anything.
+Help Me!</i>
+
+60
+00:02:44,860 --> 00:02:46,470
+<i>Aaron: Agh!</i>
+
+61
+00:02:46,514 --> 00:02:49,212
+<i>[grunting]</i>
+
+62
+00:02:49,256 --> 00:02:50,779
+<i>Aaron, You're Ok.</i>
+
+63
+00:02:50,822 --> 00:02:53,782
+<i>You Just--you Just
+Had An Episode, Ok?</i>
+
+64
+00:02:53,825 --> 00:02:55,784
+<i>I Can't Keep Living
+Like This.</i>
+
+65
+00:02:55,827 --> 00:02:57,046
+<i>Well, That's
+Why I'm Here.</i>
+
+66
+00:02:57,089 --> 00:02:58,439
+<i>There Is A Cure
+For You</i>
+
+67
+00:02:58,482 --> 00:02:59,962
+<i>And For Dozens
+Of Their Patients</i>
+
+68
+00:03:00,005 --> 00:03:01,529
+<i>That Are Cooped Up
+In Here,</i>
+
+69
+00:03:01,572 --> 00:03:05,272
+<i>And, Aaron, You're
+Gonna Help Me Get It.</i>
+
+70
+00:03:15,369 --> 00:03:18,981
+<i>Vesper: The Role Of Batwoman
+Will Now Be Played By--</i>
+
+71
+00:03:19,024 --> 00:03:21,244
+<i>Well, We Don't Actually
+Know Her Name,</i>
+
+72
+00:03:21,288 --> 00:03:24,813
+<i>But 2.0 Seems To Be Sticking
+Around For A While.</i>
+
+73
+00:03:24,856 --> 00:03:27,642
+<i>You Got Some Big Boots
+To Fill, New Girl.</i>
+
+74
+00:03:27,685 --> 00:03:29,861
+<i>Hope You Like All-nighters.</i>
+
+75
+00:03:29,905 --> 00:03:33,517
+<i>Woman: ♪ I'm Fighting
+When The City Don't Sleep ♪</i>
+
+76
+00:03:33,561 --> 00:03:34,823
+<i>♪ Can't Put A Lion On Leash</i>
+
+77
+00:03:34,866 --> 00:03:36,259
+<i>Hi.</i>
+
+78
+00:03:36,303 --> 00:03:37,565
+<i>Unh!</i>
+
+79
+00:03:37,608 --> 00:03:38,870
+<i>♪ No Place For The Wicked</i>
+
+80
+00:03:38,914 --> 00:03:40,307
+<i>Nobody Robs Banks
+Anymore?</i>
+
+81
+00:03:40,350 --> 00:03:42,047
+<i>You Got To Loot
+Mom And Pop Shops?</i>
+
+82
+00:03:42,091 --> 00:03:43,527
+<i>♪ No Taming Me</i>
+
+83
+00:03:43,571 --> 00:03:45,660
+<i>♪ I Move My Feet
+To The Tempo ♪</i>
+
+84
+00:03:45,703 --> 00:03:47,531
+<i>[all Grunting]</i>
+
+85
+00:03:47,575 --> 00:03:49,272
+<i>[groaning]</i>
+
+86
+00:03:49,316 --> 00:03:51,013
+<i>Luke On Comms: Are You Good?
+Ryan: Little Busy.</i>
+
+87
+00:03:51,056 --> 00:03:52,667
+<i>Your Heart Rate
+Is Flooring It
+Right Now.</i>
+
+88
+00:03:52,710 --> 00:03:54,146
+<i>-if You Need Backup--
+-i Need You To Let Me</i>
+
+89
+00:03:54,190 --> 00:03:56,888
+<i>Do My Job Right Now!</i>
+
+90
+00:03:56,932 --> 00:03:58,673
+<i>Woman: ♪ I Walk These Streets
+To The Tempo ♪</i>
+
+91
+00:03:58,716 --> 00:04:00,805
+<i>♪ I, I, I Survive</i>
+
+92
+00:04:03,068 --> 00:04:06,028
+<i>[breathing Heavily]</i>
+
+93
+00:04:06,071 --> 00:04:07,856
+<i>Woman: ♪ Go Do Your Recon</i>
+
+94
+00:04:07,899 --> 00:04:09,814
+<i>♪ Find Out Who You're
+Messing With ♪</i>
+
+95
+00:04:09,858 --> 00:04:11,338
+<i>♪ Because I'm The Real One</i>
+
+96
+00:04:11,381 --> 00:04:12,774
+<i>♪ You Don't Want To Step
+To This ♪</i>
+
+97
+00:04:12,817 --> 00:04:14,079
+<i>Ryan: Agh!</i>
+
+98
+00:04:17,082 --> 00:04:18,910
+<i>Yo. Believe It Or Not,</i>
+
+99
+00:04:18,954 --> 00:04:21,304
+<i>The Pacing,
+It Isn't Healing Me.</i>
+
+100
+00:04:21,348 --> 00:04:23,393
+<i>What The Hell's
+Taking Them So Long?</i>
+
+101
+00:04:23,437 --> 00:04:25,090
+<i>Hey! You!</i>
+
+102
+00:04:25,134 --> 00:04:27,310
+<i>We Have Been Waiting
+For A Doctor
+For Two Hours.</i>
+
+103
+00:04:27,354 --> 00:04:29,225
+<i>Oh. Actually, I'm Not
+Her Attending.</i>
+
+104
+00:04:29,269 --> 00:04:31,009
+<i>Oh. Actually,
+Have You Heard
+Of A Little Issue</i>
+
+105
+00:04:31,053 --> 00:04:33,316
+<i>In Your Medical
+Community Called
+Implicit Bias?</i>
+
+106
+00:04:33,360 --> 00:04:34,926
+<i>I'm Sorry. We're Coding
+Down The Hall.</i>
+
+107
+00:04:34,970 --> 00:04:36,232
+<i>Let Me Educate You
+On Something.</i>
+
+108
+00:04:36,276 --> 00:04:37,755
+<i>Ang, Please.
+He's Busy.</i>
+
+109
+00:04:37,799 --> 00:04:39,540
+<i>It Is The Reason
+Black Women Die Of Neglect</i>
+
+110
+00:04:39,583 --> 00:04:41,063
+<i>At A Disproportionately
+High Rate In This Country.</i>
+
+111
+00:04:41,106 --> 00:04:42,673
+<i>We're Not Having
+That Tonight.</i>
+
+112
+00:04:42,717 --> 00:04:44,153
+<i>You Need To Get My Girl
+Some Actual Care</i>
+
+113
+00:04:44,196 --> 00:04:46,547
+<i>Before You Need
+Your Own.</i>
+
+114
+00:04:46,590 --> 00:04:48,070
+<i>I'll Find
+Your Attending.</i>
+
+115
+00:04:52,553 --> 00:04:57,253
+<i>Ok. Um...
+That Was Extra.</i>
+
+116
+00:04:57,297 --> 00:05:00,822
+<i>Also, Thank You
+For Bringing Me Here.</i>
+
+117
+00:05:00,865 --> 00:05:03,085
+<i>I Don't Know Who Else
+You'd Call At 2 A.m.,</i>
+
+118
+00:05:03,128 --> 00:05:05,435
+<i>-and If You Did...
+-uh-uh.</i>
+
+119
+00:05:05,479 --> 00:05:08,525
+<i>I Would Have Been
+A Little Jeal.</i>
+
+120
+00:05:08,569 --> 00:05:12,007
+<i>Only You, Babe.</i>
+
+121
+00:05:12,050 --> 00:05:13,878
+<i>Ms. Wilder,
+I'm Dr. Rodriguez.</i>
+
+122
+00:05:13,922 --> 00:05:15,880
+<i>I Understand You
+Have An Infection.</i>
+
+123
+00:05:15,924 --> 00:05:19,493
+<i>Yeah. Um, I've Had It
+A Couple Of Months.</i>
+
+124
+00:05:22,278 --> 00:05:25,368
+<i>Oh. This Is
+Really Extensive.</i>
+
+125
+00:05:25,412 --> 00:05:28,763
+<i>-how'd You Get This?
+-a Spider...</i>
+
+126
+00:05:28,806 --> 00:05:30,678
+<i>In My Work's Stockroom.</i>
+
+127
+00:05:30,721 --> 00:05:32,375
+<i>We'll Get You Some
+Antibiotics.</i>
+
+128
+00:05:32,419 --> 00:05:34,377
+<i>Should Start To Clear
+Up In About 48 Hours.</i>
+
+129
+00:05:34,421 --> 00:05:36,379
+<i>That's It?
+When She Showed Up</i>
+
+130
+00:05:36,423 --> 00:05:38,381
+<i>At My Doorstep,
+She Could Barely Stand.</i>
+
+131
+00:05:38,425 --> 00:05:40,470
+<i>Run Some Tests
+Or Something.</i>
+
+132
+00:05:40,514 --> 00:05:42,211
+<i>Unfortunately,
+Her Insurance Doesn't
+Cover Any Bloodwork.</i>
+
+133
+00:05:42,254 --> 00:05:44,082
+<i>I'll Cover It, Then.</i>
+
+134
+00:05:44,126 --> 00:05:45,997
+<i>Someone Will Be By
+To Draw Blood.</i>
+
+135
+00:05:46,041 --> 00:05:48,348
+<i>[cell Phone Vibrating]</i>
+
+136
+00:05:52,047 --> 00:05:54,005
+<i>You're Blowing Up.</i>
+
+137
+00:05:55,877 --> 00:05:58,445
+<i>Now You Have
+A Shortage Of Words.</i>
+
+138
+00:05:58,488 --> 00:05:59,968
+<i>You Know What I Do,
+Ryan.</i>
+
+139
+00:06:00,011 --> 00:06:01,404
+<i>I Don't Need You
+Judging Me For It.</i>
+
+140
+00:06:01,448 --> 00:06:05,582
+<i>I'm Not Judging You.</i>
+
+141
+00:06:05,626 --> 00:06:09,064
+<i>I Want You To Get Out
+While You Can.</i>
+
+142
+00:06:09,107 --> 00:06:11,371
+<i>-get Out?
+-yeah.</i>
+
+143
+00:06:11,414 --> 00:06:14,504
+<i>Ryan, I Trap
+For The Rich And Famous.</i>
+
+144
+00:06:14,548 --> 00:06:19,335
+<i>The Things I Know About Them,
+About My Plug,</i>
+
+145
+00:06:19,379 --> 00:06:21,076
+<i>I Can't Just "get Out."</i>
+
+146
+00:06:21,119 --> 00:06:22,947
+<i>You And If You
+Let Me Help You.</i>
+
+147
+00:06:22,991 --> 00:06:25,776
+<i>Look. I Got To Go, Ok?</i>
+
+148
+00:06:25,820 --> 00:06:27,865
+<i>-we'll Pick This Up Later?
+-mm-hmm.</i>
+
+149
+00:06:38,528 --> 00:06:40,748
+<i>Ocean: To Be Clear,
+You Think</i>
+
+150
+00:06:40,791 --> 00:06:43,446
+<i>I Pulled Out A Tube
+Of My Lipstick,</i>
+
+151
+00:06:43,490 --> 00:06:46,318
+<i>Wrote This Note,
+Hunted You Down,</i>
+
+152
+00:06:46,362 --> 00:06:48,059
+<i>And Then Tossed It
+At Our Feet</i>
+
+153
+00:06:48,103 --> 00:06:50,410
+<i>Because I Don't Have
+Anything Better To Do?</i>
+
+154
+00:06:50,453 --> 00:06:52,803
+<i>Safiyah Seems
+To Think So.</i>
+
+155
+00:06:52,847 --> 00:06:54,457
+<i>I Told You,
+I Don't Have Anything</i>
+
+156
+00:06:54,501 --> 00:06:55,850
+<i>To Do With Kate Kane,</i>
+
+157
+00:06:55,893 --> 00:06:58,113
+<i>And I Didn't
+Send This Note,</i>
+
+158
+00:06:58,156 --> 00:07:00,071
+<i>And I Think If You
+Really Believed</i>
+
+159
+00:07:00,115 --> 00:07:02,378
+<i>I Tried To Blow Up
+Your Sister's Airplane,</i>
+
+160
+00:07:02,422 --> 00:07:04,336
+<i>This Conversation
+Would Look A Lot More</i>
+
+161
+00:07:04,380 --> 00:07:07,601
+<i>Like You Fumbling
+To Kill Me Again.</i>
+
+162
+00:07:07,644 --> 00:07:09,559
+<i>I Wasn't Fumbling.</i>
+
+163
+00:07:09,603 --> 00:07:11,822
+<i>I Was Due-diligencing.</i>
+
+164
+00:07:11,866 --> 00:07:16,044
+<i>It Will Be Very Clear
+When I Transition
+To Actual Murder.</i>
+
+165
+00:07:16,087 --> 00:07:17,828
+<i>Hmm. I'm Sure.</i>
+
+166
+00:07:17,872 --> 00:07:19,482
+<i>Look. I'm A Botanist.</i>
+
+167
+00:07:19,526 --> 00:07:21,789
+<i>I Work Alone,
+I Keep To Myself.</i>
+
+168
+00:07:21,832 --> 00:07:24,182
+<i>The Idea Of Picking
+A Fight With A Warlord</i>
+
+169
+00:07:24,226 --> 00:07:25,793
+<i>Sounds Like
+A Lot Of Work.</i>
+
+170
+00:07:25,836 --> 00:07:27,577
+<i>Trust Me.
+It's A Full-time Job.</i>
+
+171
+00:07:27,621 --> 00:07:30,101
+<i>So Why Does She Think
+That You Tried To Frame Her</i>
+
+172
+00:07:30,145 --> 00:07:31,581
+<i>For My Sister's Death?</i>
+
+173
+00:07:31,625 --> 00:07:33,365
+<i>Why Don't You
+Ask Her Yourself?</i>
+
+174
+00:07:33,409 --> 00:07:35,890
+<i>The Last Thing I Need
+Is To Be In The Middle</i>
+
+175
+00:07:35,933 --> 00:07:38,849
+<i>Of Two Crazy Bitches
+Trying To Rip
+Each Other's Hair Out.</i>
+
+176
+00:07:38,893 --> 00:07:40,329
+<i>Have A Nice Life.</i>
+
+177
+00:07:44,289 --> 00:07:46,466
+<i>Doesn't It Bother You
+That We Both</i>
+
+178
+00:07:46,509 --> 00:07:49,425
+<i>Magically Forgot Being
+On Coryana Together,</i>
+
+179
+00:07:49,469 --> 00:07:53,124
+<i>That There Were Obviously
+Pieces Of Both Our
+Memories Wiped?</i>
+
+180
+00:07:53,168 --> 00:07:55,387
+<i>I Grow Psychedelic
+Mushrooms For A Living.</i>
+
+181
+00:07:55,431 --> 00:07:59,000
+<i>You Think It's
+The First Memory
+I've Lost.</i>
+
+182
+00:07:59,043 --> 00:08:02,046
+<i>But Did You Forget
+That She Has An Army?</i>
+
+183
+00:08:02,090 --> 00:08:05,006
+<i>Those Guys She Sent
+Are Just The Beginning,
+And You Know It.</i>
+
+184
+00:08:05,049 --> 00:08:07,530
+<i>Even If You Run
+To The Ends Of The Earth,</i>
+
+185
+00:08:07,574 --> 00:08:10,925
+<i>She Has Plenty Of Assassins
+With Pointy Weapons</i>
+
+186
+00:08:10,968 --> 00:08:12,709
+<i>And A Lot
+Of Frequent Flyer Miles,</i>
+
+187
+00:08:12,753 --> 00:08:16,017
+<i>So Why Does She Think
+You Framed Her?</i>
+
+188
+00:08:16,060 --> 00:08:18,802
+<i>I Trained Her Army.</i>
+
+189
+00:08:18,846 --> 00:08:20,238
+<i>I Followed Her Rules,</i>
+
+190
+00:08:20,282 --> 00:08:22,676
+<i>I Was A Good
+Little Solder,</i>
+
+191
+00:08:22,719 --> 00:08:27,550
+<i>And Then I Got Bored.</i>
+
+192
+00:08:27,594 --> 00:08:30,031
+<i>-you Tried To Leave.
+-uh-uh.</i>
+
+193
+00:08:30,074 --> 00:08:31,989
+<i>Not Just Leave.</i>
+
+194
+00:08:32,033 --> 00:08:34,078
+<i>I Tried To Leave
+With One Of Her
+Precious Flowers.</i>
+
+195
+00:08:34,122 --> 00:08:35,993
+<i>I Thought I Could
+Grow It Here,
+Do Some Good,</i>
+
+196
+00:08:36,037 --> 00:08:37,560
+<i>Make A Decent Living.</i>
+
+197
+00:08:37,604 --> 00:08:40,563
+<i>I Got Busted,
+And She Exiled Me.</i>
+
+198
+00:08:40,607 --> 00:08:45,133
+<i>So You Got To Leave,
+Just Without Your Little,
+Green Parting Gift.</i>
+
+199
+00:08:45,176 --> 00:08:46,613
+<i>Woke Up
+In Gotham Harbor</i>
+
+200
+00:08:46,656 --> 00:08:47,962
+<i>With The Worst
+Hangover Of Life.</i>
+
+201
+00:08:48,005 --> 00:08:49,354
+<i>Meaning You Didn't
+Remember The How,</i>
+
+202
+00:08:49,398 --> 00:08:53,489
+<i>The Where,
+The With Whoms.</i>
+
+203
+00:08:53,533 --> 00:08:55,143
+<i>Are You Ready To Hear
+What I Think?</i>
+
+204
+00:08:55,186 --> 00:08:58,842
+<i>I've Had An Option
+This Whole Time?</i>
+
+205
+00:08:58,886 --> 00:09:02,150
+<i>I Think That You
+Didn't Get Caught</i>
+
+206
+00:09:02,193 --> 00:09:04,587
+<i>Trying To Leave The Island
+With The Desert Rose.</i>
+
+207
+00:09:04,631 --> 00:09:07,459
+<i>Based On My Little--
+Tch--hot Flashes,</i>
+
+208
+00:09:07,503 --> 00:09:10,767
+<i>I Think We Got Caught...
+Together,</i>
+
+209
+00:09:10,811 --> 00:09:14,205
+<i>And I Think She Let Us
+Keep All Our Memories</i>
+
+210
+00:09:14,249 --> 00:09:17,339
+<i>Except The Ones
+Specifically</i>
+
+211
+00:09:17,382 --> 00:09:18,688
+<i>With Each Other.</i>
+
+212
+00:09:23,693 --> 00:09:26,870
+<i>Mary: Can You Believe
+The Audacity Of That Lawyer?</i>
+
+213
+00:09:26,914 --> 00:09:29,264
+<i>He Knows Everything
+That You Went Through
+With Beth,</i>
+
+214
+00:09:29,307 --> 00:09:31,048
+<i>And Now He's Trying
+To Browbeat You</i>
+
+215
+00:09:31,092 --> 00:09:33,616
+<i>Into Declaring
+Another Daughter Dead</i>
+
+216
+00:09:33,660 --> 00:09:36,053
+<i>So That He Can,
+What, Claim His 3%</i>
+
+217
+00:09:36,097 --> 00:09:37,925
+<i>Of Kate's
+Multimillion-dollar Estate?</i>
+
+218
+00:09:37,968 --> 00:09:40,710
+<i>Uhh. It's Disgusting.
+He Should Have
+His License Revoked.</i>
+
+219
+00:09:40,754 --> 00:09:42,451
+<i>You Know, If This
+Med School Thing
+Doesn't Work Out,</i>
+
+220
+00:09:42,494 --> 00:09:43,713
+<i>There's Always
+Litigation.</i>
+
+221
+00:09:43,757 --> 00:09:47,064
+<i>Heh. Thanks
+For Bringing Me.</i>
+
+222
+00:09:47,108 --> 00:09:49,066
+<i>[cell Phone Vibrating]</i>
+
+223
+00:09:49,110 --> 00:09:50,459
+<i>Moore,
+What'd You Find?</i>
+
+224
+00:09:50,502 --> 00:09:52,592
+<i>-the Napier's A Fake.
+-what?</i>
+
+225
+00:09:52,635 --> 00:09:54,332
+<i>How Is That Possible?</i>
+
+226
+00:09:54,376 --> 00:09:56,508
+<i>It's Pig's Blood.
+According To Our Forensics Tech,</i>
+
+227
+00:09:56,552 --> 00:09:58,206
+<i>The Real Jack Napier
+Would Have Favored</i>
+
+228
+00:09:58,249 --> 00:10:02,210
+<i>A More...
+Biologically Human Pigmentation.</i>
+
+229
+00:10:02,253 --> 00:10:03,777
+<i>So It's A Dead End.</i>
+
+230
+00:10:03,820 --> 00:10:06,344
+<i>Not Exactly.
+We Found A Partial Print,</i>
+
+231
+00:10:06,388 --> 00:10:09,130
+<i>I.d.ed The Forger To
+A 30-something Male In Gotham.</i>
+
+232
+00:10:09,173 --> 00:10:10,958
+<i>Well, That Means
+There's A Good Chance</i>
+
+233
+00:10:11,001 --> 00:10:12,524
+<i>He Knows
+A Hell Of A Lot
+About The Original.</i>
+
+234
+00:10:12,568 --> 00:10:14,222
+<i>-what's His Name?
+-ocean,</i>
+
+235
+00:10:14,265 --> 00:10:15,789
+<i>The Guy Alice
+Is Looking For,</i>
+
+236
+00:10:15,832 --> 00:10:17,399
+<i>And Now We Know Why.</i>
+
+237
+00:10:17,442 --> 00:10:19,053
+<i>I Might Be Able
+To Track Him Down,</i>
+
+238
+00:10:19,096 --> 00:10:20,620
+<i>But I Need Permission
+To Use The High-frequency</i>
+
+239
+00:10:20,663 --> 00:10:22,099
+<i>Generator Receiver.</i>
+
+240
+00:10:22,143 --> 00:10:24,667
+<i>-granted. Get It Done.
+-copy That, Sir.</i>
+
+241
+00:10:24,711 --> 00:10:26,626
+<i>Ok. I Give Up.</i>
+
+242
+00:10:26,669 --> 00:10:29,063
+<i>What's A High-frequency
+Generator Rec--</i>
+
+243
+00:10:50,475 --> 00:10:51,999
+<i>Not Open Yet.</i>
+
+244
+00:10:52,042 --> 00:10:54,001
+<i>The Door Was.</i>
+
+245
+00:10:54,044 --> 00:10:55,785
+<i>Good To See You
+Staying Out Of Trouble.</i>
+
+246
+00:10:55,829 --> 00:10:57,961
+<i>Good To Have
+Your Approval That...</i>
+
+247
+00:10:58,005 --> 00:10:59,876
+<i>I Don't Care About.</i>
+
+248
+00:10:59,920 --> 00:11:01,791
+<i>Still Not Open.</i>
+
+249
+00:11:01,835 --> 00:11:04,620
+<i>I've Been Building A Case
+On Your Girl Angelique Martin.</i>
+
+250
+00:11:04,664 --> 00:11:07,057
+<i>Looks Like Snakebite's
+Her New Money Maker.</i>
+
+251
+00:11:07,101 --> 00:11:11,018
+<i>Her Name's Linked
+To 5 Outstanding
+Possession Cases.</i>
+
+252
+00:11:11,061 --> 00:11:14,630
+<i>Party Kids,
+No Loyalty.</i>
+
+253
+00:11:14,674 --> 00:11:16,806
+<i>What Do You Want,
+Crow-phie?</i>
+
+254
+00:11:16,850 --> 00:11:18,895
+<i>She's The Little Fish.</i>
+
+255
+00:11:18,939 --> 00:11:21,202
+<i>I'm Looking
+For Her Supplier,</i>
+
+256
+00:11:21,245 --> 00:11:23,160
+<i>A Grower Linked
+To The Psychedelic Mushrooms</i>
+
+257
+00:11:23,204 --> 00:11:26,860
+<i>Being Used In Snakebite.
+Goes By Ocean.</i>
+
+258
+00:11:26,903 --> 00:11:28,383
+<i>Never Heard Of Him.</i>
+
+259
+00:11:28,426 --> 00:11:29,906
+<i>Angelique Has.</i>
+
+260
+00:11:29,950 --> 00:11:32,648
+<i>I Saw Her At His Apartment
+Before He Split.</i>
+
+261
+00:11:32,692 --> 00:11:34,650
+<i>I Just Need Your Help
+Getting His New Location
+From Her.</i>
+
+262
+00:11:34,694 --> 00:11:38,698
+<i>Sure. I'll Just
+Casually Text Her
+And Ask.</i>
+
+263
+00:11:40,787 --> 00:11:42,745
+<i>You Don't Have To
+Ask Her Anything.</i>
+
+264
+00:11:42,789 --> 00:11:45,095
+<i>Once This Is Within
+Range Of Her Cell,</i>
+
+265
+00:11:45,139 --> 00:11:48,708
+<i>It'll Install An Invisible
+High-frequency Generator
+Receiver App.</i>
+
+266
+00:11:48,751 --> 00:11:52,059
+<i>Essentially Turns
+Her Cell Into A Digital
+And Audio Microphone.</i>
+
+267
+00:11:52,102 --> 00:11:54,583
+<i>I Just Need You To Get It
+Close Enough To Transfer.</i>
+
+268
+00:11:54,626 --> 00:11:56,759
+<i>You Can't Be Serious
+Right Now.</i>
+
+269
+00:11:56,803 --> 00:12:00,328
+<i>As Serious As Your Girl
+Doing 8 To 10 At Blackgate.</i>
+
+270
+00:12:00,371 --> 00:12:03,505
+<i>Ok. First Of All,
+Technology Like This</i>
+
+271
+00:12:03,548 --> 00:12:06,160
+<i>Should Not Exist
+In A Free Society.</i>
+
+272
+00:12:06,203 --> 00:12:08,510
+<i>Second, Screw You.</i>
+
+273
+00:12:08,553 --> 00:12:12,383
+<i>I'm Not Betraying
+My Girlfriend.</i>
+
+274
+00:12:12,427 --> 00:12:13,776
+<i>This Is The Same Angelique</i>
+
+275
+00:12:13,820 --> 00:12:16,779
+<i>Who Let You Take
+The Fall For Her, Right,</i>
+
+276
+00:12:16,823 --> 00:12:19,086
+<i>Who Continues To Sell</i>
+
+277
+00:12:19,129 --> 00:12:21,131
+<i>Even After You Served
+Time For Being Caught</i>
+
+278
+00:12:21,175 --> 00:12:23,655
+<i>With Her Drugs On You?</i>
+
+279
+00:12:23,699 --> 00:12:25,919
+<i>Do The Right Thing
+Here, Ryan.</i>
+
+280
+00:12:30,184 --> 00:12:33,622
+<i>I'll Get You
+The Information
+You Want,</i>
+
+281
+00:12:33,665 --> 00:12:36,103
+<i>And Then This File
+Right Here,</i>
+
+282
+00:12:36,146 --> 00:12:38,322
+<i>It Disappears.</i>
+
+283
+00:12:38,366 --> 00:12:40,368
+<i>Is That Clear?</i>
+
+284
+00:12:40,411 --> 00:12:43,414
+<i>I Do This,
+You Can't Touch Her.</i>
+
+285
+00:12:43,458 --> 00:12:45,634
+<i>You Can't
+Protect Her Forever.</i>
+
+286
+00:12:45,677 --> 00:12:49,812
+<i>No, But I Can
+Protect Her From You.</i>
+
+287
+00:12:49,856 --> 00:12:52,119
+<i>Is That Clear?</i>
+
+288
+00:12:52,162 --> 00:12:53,511
+<i>Crystal.</i>
+
+289
+00:13:03,434 --> 00:13:05,959
+<i>-mary?
+-i'm Fine. I'm Fine.</i>
+
+290
+00:13:06,002 --> 00:13:08,700
+<i>-he Didn't Hurt Me.
+-ugh.</i>
+
+291
+00:13:08,744 --> 00:13:10,615
+<i>What Is This Place?</i>
+
+292
+00:13:10,659 --> 00:13:12,226
+<i>I Don't Know.</i>
+
+293
+00:13:12,269 --> 00:13:15,751
+<i>Looks Like Some Sort
+Of Underground Clinic...</i>
+
+294
+00:13:15,795 --> 00:13:18,972
+<i>Not That I've
+Ever Seen One.</i>
+
+295
+00:13:19,015 --> 00:13:20,887
+<i>Aaron: Finally. Ok.</i>
+
+296
+00:13:20,930 --> 00:13:23,890
+<i>Hi. First Hostage.</i>
+
+297
+00:13:23,933 --> 00:13:25,979
+<i>Heh. Unfortunately, No.</i>
+
+298
+00:13:26,022 --> 00:13:28,285
+<i>No. I Mean Me.
+I've Never Done
+This Before,</i>
+
+299
+00:13:28,329 --> 00:13:30,461
+<i>But If All
+Goes Right--</i>
+
+300
+00:13:30,505 --> 00:13:31,593
+<i>[clatter]</i>
+
+301
+00:13:31,636 --> 00:13:34,378
+<i>All Goes Right--</i>
+
+302
+00:13:34,422 --> 00:13:35,858
+<i>Now I Forgot What
+I Was Gonna Say!</i>
+
+303
+00:13:35,902 --> 00:13:37,251
+<i>[gasps]</i>
+
+304
+00:13:37,294 --> 00:13:40,994
+<i>Sorry. Spontaneous
+Rage Issues!</i>
+
+305
+00:13:41,037 --> 00:13:43,953
+<i>M-my Brain's
+A Little Wonky.</i>
+
+306
+00:13:43,997 --> 00:13:46,042
+<i>What Do You Want?</i>
+
+307
+00:13:46,086 --> 00:13:47,696
+<i>The Antidote.
+The Antidote</i>
+
+308
+00:13:47,739 --> 00:13:49,741
+<i>Hamilton Used
+On The Bat Toxin.</i>
+
+309
+00:13:49,785 --> 00:13:51,004
+<i>We Don't Have
+Anything To Do</i>
+
+310
+00:13:51,047 --> 00:13:52,875
+<i>With Hamilton Dynamics
+Anymore.</i>
+
+311
+00:13:52,919 --> 00:13:54,659
+<i>I Don't Know Anything
+About The Antidote.</i>
+
+312
+00:13:54,703 --> 00:13:56,879
+<i>I'm Not Talking
+To You.</i>
+
+313
+00:13:56,923 --> 00:13:58,838
+<i>I'm Talking To Her.</i>
+
+314
+00:13:58,881 --> 00:14:00,709
+<i>They Said It's
+Somewhere In This
+Underground Lab,</i>
+
+315
+00:14:00,752 --> 00:14:02,319
+<i>So Where Is It?</i>
+
+316
+00:14:02,363 --> 00:14:03,886
+<i>She Doesn't Know
+Anything About It Either.</i>
+
+317
+00:14:03,930 --> 00:14:05,670
+<i>Actually, I Know Literally
+Everything About It.</i>
+
+318
+00:14:05,714 --> 00:14:07,281
+<i>There's None Left.</i>
+
+319
+00:14:10,153 --> 00:14:12,286
+<i>-no!
+-aah!</i>
+
+320
+00:14:12,329 --> 00:14:14,244
+<i>Oh, I Can't Kill Her.
+I Need Her.</i>
+
+321
+00:14:18,161 --> 00:14:20,468
+<i>W-where Did You
+Get It?</i>
+
+322
+00:14:20,511 --> 00:14:22,818
+<i>Long Story Short,
+On The Night</i>
+
+323
+00:14:22,862 --> 00:14:25,125
+<i>A Total Bitch
+Named Alice</i>
+
+324
+00:14:25,168 --> 00:14:27,170
+<i>Poisoned My Mom And Me,</i>
+
+325
+00:14:27,214 --> 00:14:29,042
+<i>She Gave Me The Cure,
+Aka The Serum,</i>
+
+326
+00:14:29,085 --> 00:14:30,739
+<i>From This Fabled
+Island Flower.</i>
+
+327
+00:14:30,782 --> 00:14:33,481
+<i>It's Called
+The Desert Rose, Ok,</i>
+
+328
+00:14:33,524 --> 00:14:35,309
+<i>But A Few Months Later,</i>
+
+329
+00:14:35,352 --> 00:14:38,312
+<i>I Had This Blood--
+Well, Let's Just
+Call It A Transfusion,</i>
+
+330
+00:14:38,355 --> 00:14:40,967
+<i>And It Was No Longer
+In My System Anymore,</i>
+
+331
+00:14:41,010 --> 00:14:44,927
+<i>But, Unbeknownst To Me,
+Alice Stole A Pint
+Of The Transfusion Blood,</i>
+
+332
+00:14:44,971 --> 00:14:47,887
+<i>And On The Night
+Of The Bat Attack,
+She Gave It Back To Me.</i>
+
+333
+00:14:47,930 --> 00:14:49,845
+<i>She Gave It Back To Me,
+And She Said It Would
+Save Everyone</i>
+
+334
+00:14:49,889 --> 00:14:52,500
+<i>Because It Still Contained
+The Desert Rose.</i>
+
+335
+00:14:52,543 --> 00:14:56,112
+<i>I Gave It To Hamilton,
+And I Told Them
+To Make An Antidote.</i>
+
+336
+00:14:56,156 --> 00:14:58,593
+<i>To My Shock,
+It Actually Worked.</i>
+
+337
+00:14:58,636 --> 00:15:00,812
+<i>Why Didn't You Tell Me
+About This?</i>
+
+338
+00:15:00,856 --> 00:15:02,727
+<i>Would You Have
+Believed Me?</i>
+
+339
+00:15:04,642 --> 00:15:06,079
+<i>I Believe You,</i>
+
+340
+00:15:06,122 --> 00:15:08,733
+<i>And I Need You
+To Make More.</i>
+
+341
+00:15:08,777 --> 00:15:11,040
+<i>Don't You Think
+That I Tried?</i>
+
+342
+00:15:11,084 --> 00:15:14,130
+<i>The Solution Only Retains
+Stability After One Generation.</i>
+
+343
+00:15:14,174 --> 00:15:15,915
+<i>-huh?
+-hamilton Doctors</i>
+
+344
+00:15:15,958 --> 00:15:17,917
+<i>Could Extract It
+From My Blood</i>
+
+345
+00:15:17,960 --> 00:15:19,744
+<i>To Treat Patients
+With It,</i>
+
+346
+00:15:19,788 --> 00:15:21,398
+<i>But Once It's Been
+Extracted From
+The Second Bloodstream,</i>
+
+347
+00:15:21,442 --> 00:15:23,357
+<i>It Loses Its
+Curative Properties.</i>
+
+348
+00:15:23,400 --> 00:15:25,489
+<i>Trust Me. I Would
+Love Nothing More</i>
+
+349
+00:15:25,533 --> 00:15:28,144
+<i>Than To Be The One
+Who Finds The Cure
+For Blood Disease.</i>
+
+350
+00:15:28,188 --> 00:15:32,932
+<i>Yagh! Ugh! Ugh!</i>
+
+351
+00:15:32,975 --> 00:15:34,672
+<i>Argh!</i>
+
+352
+00:15:34,716 --> 00:15:37,371
+<i>You're Learning All
+This At Gotham U., Are You?</i>
+
+353
+00:15:37,414 --> 00:15:40,722
+<i>No, Dad. I'm Not.</i>
+
+354
+00:15:40,765 --> 00:15:42,637
+<i>Oh, God.</i>
+
+355
+00:15:42,680 --> 00:15:46,815
+<i>This Isn't The Way
+That I Wanted To Tell You,</i>
+
+356
+00:15:46,858 --> 00:15:51,907
+<i>But I've...been Practicing
+Underground Medicine
+For Two Years.</i>
+
+357
+00:15:51,951 --> 00:15:54,823
+<i>What Do You Mean
+Underground Medicine?</i>
+
+358
+00:15:54,866 --> 00:16:00,176
+<i>I Mean, The Reason
+Why He's Here Looking
+For The Antidote</i>
+
+359
+00:16:00,220 --> 00:16:02,962
+<i>Is Because The Antidote
+Came From Here.</i>
+
+360
+00:16:04,702 --> 00:16:06,704
+<i>This Is My Clinic.</i>
+
+361
+00:16:15,148 --> 00:16:17,193
+<i>[groans]</i>
+
+362
+00:16:17,237 --> 00:16:19,848
+<i>Damn It.</i>
+
+363
+00:16:19,891 --> 00:16:21,763
+<i>[door Opening]</i>
+
+364
+00:16:21,806 --> 00:16:24,505
+<i>Angelique: Oh,
+I Know Your Client
+Is A Major Star</i>
+
+365
+00:16:24,548 --> 00:16:27,160
+<i>And Way Too Busy
+To Walk To An Atm,</i>
+
+366
+00:16:27,203 --> 00:16:29,031
+<i>But That Still
+Doesn't Change
+The Fact</i>
+
+367
+00:16:29,075 --> 00:16:31,991
+<i>That I Don't Use
+Cash Apps.</i>
+
+368
+00:16:34,123 --> 00:16:36,299
+<i>This Isn't Her Save
+The Pigs Charity.</i>
+
+369
+00:16:36,343 --> 00:16:38,345
+<i>Bye.</i>
+
+370
+00:16:38,388 --> 00:16:39,824
+<i>Mm-hmm.</i>
+
+371
+00:16:42,088 --> 00:16:45,178
+<i>What?</i>
+
+372
+00:16:45,221 --> 00:16:48,485
+<i>Angelique:
+You Kept The Plant</i>
+
+373
+00:16:48,529 --> 00:16:53,142
+<i>I Gave You, What,
+Like, 5 Years Ago?</i>
+
+374
+00:16:53,186 --> 00:16:56,015
+<i>You're Soft, Babe.</i>
+
+375
+00:16:56,058 --> 00:16:57,625
+<i>How Are You Feeling?</i>
+
+376
+00:16:59,496 --> 00:17:01,846
+<i>Hopeful...</i>
+
+377
+00:17:01,890 --> 00:17:03,370
+<i>Because...</i>
+
+378
+00:17:08,766 --> 00:17:10,725
+<i>I Don't Get It.</i>
+
+379
+00:17:10,768 --> 00:17:14,120
+<i>It's Your Uniform
+For Your New Job
+At The Hold-up.</i>
+
+380
+00:17:14,163 --> 00:17:17,949
+<i>It's Legit,
+And I Can Protect You.</i>
+
+381
+00:17:17,993 --> 00:17:21,910
+<i>-oh. You Will Protect Me?
+-yeah.</i>
+
+382
+00:17:21,953 --> 00:17:23,607
+<i>-ok.
+-because You Said</i>
+
+383
+00:17:23,651 --> 00:17:25,218
+<i>You Wanted Out.</i>
+
+384
+00:17:25,261 --> 00:17:30,571
+<i>This Is Me Giving
+You A Way Out.</i>
+
+385
+00:17:30,614 --> 00:17:34,792
+<i>That's Very,
+Very Sweet, Ry.</i>
+
+386
+00:17:34,836 --> 00:17:36,577
+<i>Good Because You
+Start Tomorrow,</i>
+
+387
+00:17:36,620 --> 00:17:38,274
+<i>And Gays Order
+Some Weird-ass Drinks</i>
+
+388
+00:17:38,318 --> 00:17:39,580
+<i>That You Have
+To Learn How To--</i>
+
+389
+00:17:39,623 --> 00:17:42,409
+<i>I Don't Want Out.</i>
+
+390
+00:17:42,452 --> 00:17:45,325
+<i>-wait, But You Said That You--
+-i Lied.</i>
+
+391
+00:17:45,368 --> 00:17:46,891
+<i>I Like My Job.</i>
+
+392
+00:17:46,935 --> 00:17:48,850
+<i>I'm Good At It.</i>
+
+393
+00:17:48,893 --> 00:17:50,852
+<i>People Actually
+Respect Me.</i>
+
+394
+00:17:50,895 --> 00:17:52,636
+<i>What People?</i>
+
+395
+00:17:52,680 --> 00:17:56,031
+<i>You Sling
+To Influencers.</i>
+
+396
+00:17:56,075 --> 00:17:59,165
+<i>Sorry I'm Not Living Up
+To Your Moral Standards,</i>
+
+397
+00:17:59,208 --> 00:18:01,993
+<i>But Some Of Us Didn't
+Get Brangelinaed
+From The Group Home.</i>
+
+398
+00:18:02,037 --> 00:18:03,517
+<i>What Is That
+Supposed To Mean?</i>
+
+399
+00:18:03,560 --> 00:18:05,040
+<i>Somebody Found You, Ry,</i>
+
+400
+00:18:05,084 --> 00:18:07,608
+<i>And You Got A New Life.</i>
+
+401
+00:18:07,651 --> 00:18:09,566
+<i>I Didn't.</i>
+
+402
+00:18:09,610 --> 00:18:13,962
+<i>I Didn't Know What It
+Felt Like To Be Found
+By Something.</i>
+
+403
+00:18:14,005 --> 00:18:15,877
+<i>Now I Do.</i>
+
+404
+00:18:15,920 --> 00:18:17,705
+<i>I Went To Prison
+For You.</i>
+
+405
+00:18:17,748 --> 00:18:19,837
+<i>And I Have Apologized
+For That.</i>
+
+406
+00:18:19,881 --> 00:18:23,014
+<i>It Doesn't Count
+If You Don't Chan--
+Oh, My God!</i>
+
+407
+00:18:23,058 --> 00:18:24,451
+<i>[gasps]</i>
+
+408
+00:18:24,494 --> 00:18:25,974
+<i>-i Can't--
+-ry.</i>
+
+409
+00:18:26,017 --> 00:18:28,237
+<i>The Room Is Spinning.
+Aah!</i>
+
+410
+00:18:28,281 --> 00:18:29,586
+<i>What--what Can I Do?</i>
+
+411
+00:18:29,630 --> 00:18:32,546
+<i>My Medicine's
+In The Bathroom.</i>
+
+412
+00:18:32,589 --> 00:18:34,461
+<i>[moans]</i>
+
+413
+00:18:34,504 --> 00:18:38,117
+<i>[breathing Heavily]</i>
+
+414
+00:18:38,160 --> 00:18:39,640
+<i>What Is Happening To Me?</i>
+
+415
+00:18:53,132 --> 00:18:55,177
+<i>I Think They're
+Underneath The Sink.</i>
+
+416
+00:18:55,221 --> 00:18:57,310
+<i>[device Beeping]</i>
+
+417
+00:18:57,353 --> 00:18:58,920
+<i>Angelique:
+I Don't See Them.</i>
+
+418
+00:18:58,963 --> 00:19:00,487
+<i>Are You Sure?</i>
+
+419
+00:19:00,530 --> 00:19:03,011
+<i>They Should Be
+Under There.</i>
+
+420
+00:19:08,364 --> 00:19:10,932
+<i>[exhales]</i>
+
+421
+00:19:10,975 --> 00:19:12,803
+<i>They Were
+In The Medicine Cabinet.</i>
+
+422
+00:19:16,372 --> 00:19:18,026
+<i>-mmm.
+-i Need To Go Check In</i>
+
+423
+00:19:18,069 --> 00:19:19,332
+<i>On Some People.</i>
+
+424
+00:19:19,375 --> 00:19:22,248
+<i>Take These, Please,</i>
+
+425
+00:19:22,291 --> 00:19:25,642
+<i>And I'm Not Saying
+That As Some
+Shady Dealer.</i>
+
+426
+00:19:42,746 --> 00:19:45,488
+<i>Consider This Misfiled.</i>
+
+427
+00:19:45,532 --> 00:19:47,316
+<i>I Know This Was
+Hard For You.</i>
+
+428
+00:19:47,360 --> 00:19:49,536
+<i>But You Don't,
+Though,</i>
+
+429
+00:19:49,579 --> 00:19:52,669
+<i>Because You Don't
+Know What We've
+Been Through.</i>
+
+430
+00:19:52,713 --> 00:19:54,932
+<i>I Know You're Right Back
+In The Exact Same Situation</i>
+
+431
+00:19:54,976 --> 00:19:56,238
+<i>You Already Served Time For,</i>
+
+432
+00:19:56,282 --> 00:19:59,459
+<i>And You're Choosing
+To Stay There.</i>
+
+433
+00:19:59,502 --> 00:20:00,982
+<i>Why?</i>
+
+434
+00:20:01,025 --> 00:20:03,637
+<i>You've Never Been
+In Love, Huh?</i>
+
+435
+00:20:03,680 --> 00:20:05,421
+<i>Of Course I've
+Been In Love.</i>
+
+436
+00:20:05,465 --> 00:20:08,032
+<i>And Now You're Alone.</i>
+
+437
+00:20:08,076 --> 00:20:10,818
+<i>See, When I Care
+About Someone,</i>
+
+438
+00:20:10,861 --> 00:20:12,515
+<i>I Fight For Them.</i>
+
+439
+00:20:19,043 --> 00:20:22,308
+<i>[cell Phone Vibrating]</i>
+
+440
+00:20:22,351 --> 00:20:23,744
+<i>Ryan Speaking.</i>
+
+441
+00:20:23,787 --> 00:20:25,267
+<i>Ms. Wilder, This
+Is Dr. Rodriguez</i>
+
+442
+00:20:25,311 --> 00:20:26,747
+<i>From Gotham City General.</i>
+
+443
+00:20:26,790 --> 00:20:28,270
+<i>I'd Like You To Come In
+For Retesting.</i>
+
+444
+00:20:28,314 --> 00:20:29,837
+<i>What's Wrong
+With The First Test?</i>
+
+445
+00:20:29,880 --> 00:20:31,578
+<i>Unfortunately, I Think
+There Was A Contamination</i>
+
+446
+00:20:31,621 --> 00:20:32,840
+<i>With The Sample.</i>
+
+447
+00:20:32,883 --> 00:20:34,450
+<i>Contamination? What?</i>
+
+448
+00:20:34,494 --> 00:20:36,670
+<i>Lab Contaminants.
+We're Picking Up A Presence</i>
+
+449
+00:20:36,713 --> 00:20:38,367
+<i>Of Radioactive Material,</i>
+
+450
+00:20:38,411 --> 00:20:40,935
+<i>So Unless You Were Taking
+Selfies At Chernobyl,</i>
+
+451
+00:20:40,978 --> 00:20:42,893
+<i>You Wouldn't Have
+Readouts Like These.</i>
+
+452
+00:20:42,937 --> 00:20:44,678
+<i>The Front Desk Will
+Give You A Call To Set Up
+An Appointment.</i>
+
+453
+00:20:44,721 --> 00:20:46,114
+<i>Have A Good Day.</i>
+
+454
+00:20:51,815 --> 00:20:55,297
+<i>Ok. You're Gonna Need
+To Learn To Make More
+Of That Serum</i>
+
+455
+00:20:55,341 --> 00:20:58,213
+<i>Right Now,
+Or He Dies.</i>
+
+456
+00:20:58,257 --> 00:21:01,434
+<i>I Told You There Is
+No Antidote.</i>
+
+457
+00:21:01,477 --> 00:21:03,262
+<i>There Is None.</i>
+
+458
+00:21:06,874 --> 00:21:08,267
+<i>-unh!
+-aah!</i>
+
+459
+00:21:11,705 --> 00:21:12,749
+<i>Who Are You Working For?</i>
+
+460
+00:21:12,793 --> 00:21:14,447
+<i>No, No, No.
+No Names.</i>
+
+461
+00:21:14,490 --> 00:21:16,231
+<i>That's The Rules.
+Gah!</i>
+
+462
+00:21:16,275 --> 00:21:17,450
+<i>Agh!</i>
+
+463
+00:21:20,366 --> 00:21:21,758
+<i>Pain Meds.</i>
+
+464
+00:21:21,802 --> 00:21:23,891
+<i>Far Cab--
+Far Cabinet.</i>
+
+465
+00:21:23,934 --> 00:21:27,329
+<i>Over There. Far Cabinet.</i>
+
+466
+00:21:27,373 --> 00:21:29,200
+<i>Did He Hit
+Your Celiac Artery?</i>
+
+467
+00:21:29,244 --> 00:21:31,202
+<i>I'm Fine.
+I'm More Concerned</i>
+
+468
+00:21:31,246 --> 00:21:33,030
+<i>With How I Could
+Be Blind To Yet
+Another Daughter's</i>
+
+469
+00:21:33,074 --> 00:21:35,163
+<i>Secret Life.</i>
+
+470
+00:21:35,206 --> 00:21:36,512
+<i>Heh. It's Not Your Fault.</i>
+
+471
+00:21:36,556 --> 00:21:38,688
+<i>When You Met My Mom,
+All Of Your Energy</i>
+
+472
+00:21:38,732 --> 00:21:41,561
+<i>Was Focused
+On Finding Beth,</i>
+
+473
+00:21:41,604 --> 00:21:44,433
+<i>And Then When You
+Couldn't Find Her,</i>
+
+474
+00:21:44,477 --> 00:21:46,566
+<i>It Was About Building
+The Crows,</i>
+
+475
+00:21:46,609 --> 00:21:51,832
+<i>And Now...it's All
+About Finding Kate.</i>
+
+476
+00:21:51,875 --> 00:21:54,835
+<i>Truth Of The Matter Is</i>
+
+477
+00:21:54,878 --> 00:21:56,880
+<i>I've Never Really
+Been On Your Radar.</i>
+
+478
+00:21:56,924 --> 00:21:58,665
+<i>Mary.</i>
+
+479
+00:21:58,708 --> 00:22:00,580
+<i>It's Ok.</i>
+
+480
+00:22:00,623 --> 00:22:02,538
+<i>I Could Tell Him
+About Coryana.</i>
+
+481
+00:22:02,582 --> 00:22:04,410
+<i>No. Absolutely Not.</i>
+
+482
+00:22:04,453 --> 00:22:05,933
+<i>He's Gonna Kill You.</i>
+
+483
+00:22:05,976 --> 00:22:07,500
+<i>If He Kills Me,
+He's Got Nothing.</i>
+
+484
+00:22:07,543 --> 00:22:09,893
+<i>I Have Had Years
+Of Resistance Training.</i>
+
+485
+00:22:09,937 --> 00:22:11,634
+<i>I'll Be Fine.</i>
+
+486
+00:22:11,678 --> 00:22:14,289
+<i>[bottles Clatter]</i>
+
+487
+00:22:14,333 --> 00:22:16,857
+<i>[pills Rattle]</i>
+
+488
+00:22:19,555 --> 00:22:23,342
+<i>That Craniotomy Scar,</i>
+
+489
+00:22:23,385 --> 00:22:24,995
+<i>Is That What You're
+Trying To Heal?</i>
+
+490
+00:22:33,308 --> 00:22:38,400
+<i>Shrinks Called Me
+Amygdala,</i>
+
+491
+00:22:38,444 --> 00:22:40,228
+<i>Said I Had My
+Circuits Mixed Up,</i>
+
+492
+00:22:40,271 --> 00:22:42,448
+<i>That I Reacted
+Wrong To Things.</i>
+
+493
+00:22:42,491 --> 00:22:44,754
+<i>Saw A Puppy,
+I Got Pissed Off.</i>
+
+494
+00:22:44,798 --> 00:22:47,453
+<i>Saw A Kid Crying,
+It Cracked Me Up.</i>
+
+495
+00:22:47,496 --> 00:22:50,325
+<i>Then 5 Years Ago,
+The Doctors Decided</i>
+
+496
+00:22:50,369 --> 00:22:51,935
+<i>I'd Be The Perfect
+Lab Rat</i>
+
+497
+00:22:51,979 --> 00:22:53,981
+<i>For This Secret
+Experimental Treatment,</i>
+
+498
+00:22:54,024 --> 00:22:55,809
+<i>So They Fried
+The Bad Parts
+Of My Brain</i>
+
+499
+00:22:55,852 --> 00:22:59,160
+<i>With Uv Light.</i>
+
+500
+00:22:59,203 --> 00:23:02,424
+<i>Some Two Dozen
+Treatments Later,
+I Go To A Movie.</i>
+
+501
+00:23:02,468 --> 00:23:05,209
+<i>I'm Sitting There.
+At One Point,</i>
+
+502
+00:23:05,253 --> 00:23:07,951
+<i>I Started Laughing,</i>
+
+503
+00:23:07,995 --> 00:23:10,650
+<i>And Then I Hear
+Everybody Else
+Around Me,</i>
+
+504
+00:23:10,693 --> 00:23:13,304
+<i>And They Were
+Laughing, Too.</i>
+
+505
+00:23:13,348 --> 00:23:16,482
+<i>That Had Never
+Happened Before.</i>
+
+506
+00:23:16,525 --> 00:23:20,181
+<i>For The First Time
+In My Life,
+I--i Felt Normal.</i>
+
+507
+00:23:20,224 --> 00:23:23,271
+<i>The Uv Exposure,
+It Worked?</i>
+
+508
+00:23:23,314 --> 00:23:27,667
+<i>It Did...for A Week,</i>
+
+509
+00:23:27,710 --> 00:23:33,281
+<i>And Then Cancer
+Bloomed In My Brain
+Like A Cherry Blossom.</i>
+
+510
+00:23:33,324 --> 00:23:36,153
+<i>Sometimes,
+The Tumor Rubs Up</i>
+
+511
+00:23:36,197 --> 00:23:40,462
+<i>Against My Amygdala,
+And...</i>
+
+512
+00:23:40,506 --> 00:23:42,638
+<i>Jacob: Agh!
+Amygdala: I Have</i>
+
+513
+00:23:42,682 --> 00:23:43,987
+<i>An Unfortunate Moment!</i>
+
+514
+00:23:44,031 --> 00:23:45,511
+<i>Please, Please,
+Please Stop, Stop!</i>
+
+515
+00:23:45,554 --> 00:23:48,078
+<i>You Don't Want
+To Do This.</i>
+
+516
+00:23:48,122 --> 00:23:50,472
+<i>You're Gonna Kill Him.</i>
+
+517
+00:23:50,516 --> 00:23:52,518
+<i>Don't You Get It?</i>
+
+518
+00:23:52,561 --> 00:23:57,044
+<i>My Amygdala Is
+Infested With Cancer.</i>
+
+519
+00:23:57,087 --> 00:24:01,396
+<i>His Pain Doesn't
+Compute With Me.</i>
+
+520
+00:24:01,440 --> 00:24:04,530
+<i>I Don't Feel
+Anything But Angry.</i>
+
+521
+00:24:04,573 --> 00:24:06,445
+<i>Ok. There's
+More Antidote.</i>
+
+522
+00:24:06,488 --> 00:24:07,924
+<i>-where?
+-mary, No.</i>
+
+523
+00:24:07,968 --> 00:24:09,622
+<i>There's An Island,
+And If You Can Get There,</i>
+
+524
+00:24:09,665 --> 00:24:11,406
+<i>You Can Have All The Cure
+That You Want.</i>
+
+525
+00:24:11,450 --> 00:24:14,496
+<i>Just--just Let
+My Dad Go.</i>
+
+526
+00:24:14,540 --> 00:24:17,064
+<i>How Do I Get There?</i>
+
+527
+00:24:17,107 --> 00:24:18,413
+<i>She Doesn't Want
+Anyone Knowing</i>
+
+528
+00:24:18,457 --> 00:24:19,806
+<i>The Location
+Of The Island,</i>
+
+529
+00:24:19,849 --> 00:24:21,068
+<i>So She Blitzed
+My Memory</i>
+
+530
+00:24:21,111 --> 00:24:22,548
+<i>So I Can Never
+Get Back.</i>
+
+531
+00:24:22,591 --> 00:24:24,201
+<i>She Didn't Just
+Erase That Day.</i>
+
+532
+00:24:24,245 --> 00:24:25,376
+<i>She Erased Our
+Entire Existence
+From Each Other.</i>
+
+533
+00:24:25,420 --> 00:24:27,117
+<i>That's Not
+Strange To You?</i>
+
+534
+00:24:27,161 --> 00:24:28,554
+<i>You're Right, Alice.</i>
+
+535
+00:24:28,597 --> 00:24:30,556
+<i>Maybe You Were
+The One Busted</i>
+
+536
+00:24:30,599 --> 00:24:32,079
+<i>Stealing The Desert Rose,</i>
+
+537
+00:24:32,122 --> 00:24:33,515
+<i>And Maybe You
+Framed Me</i>
+
+538
+00:24:33,559 --> 00:24:35,082
+<i>To Save
+Your Own Ass.</i>
+
+539
+00:24:35,125 --> 00:24:37,084
+<i>I Don't Think
+I Would Have Done That.</i>
+
+540
+00:24:37,127 --> 00:24:40,609
+<i>Why? Too Honorable?</i>
+
+541
+00:24:40,653 --> 00:24:42,959
+<i>You Helped Me Gut
+3 Men Yesterday.</i>
+
+542
+00:24:43,003 --> 00:24:45,353
+<i>You Really Don't
+Remember, Do You?</i>
+
+543
+00:24:45,396 --> 00:24:46,615
+<i>Remember What?</i>
+
+544
+00:24:57,191 --> 00:25:00,803
+<i>You And I Had
+A Thing Together.</i>
+
+545
+00:25:00,847 --> 00:25:04,111
+<i>From The Looks Of It,
+It Should Have Been Memorable.</i>
+
+546
+00:25:07,375 --> 00:25:11,118
+<i>Oh, Crap.</i>
+
+547
+00:25:11,161 --> 00:25:13,120
+<i>Yeah. My Thoughts
+Exactly.</i>
+
+548
+00:25:15,296 --> 00:25:17,733
+<i>Ryan: "kryptonite
+Is Comprised Of Sodium,</i>
+
+549
+00:25:17,777 --> 00:25:22,782
+<i>"lithium, Boron, And Elements
+Not Found On Earth.</i>
+
+550
+00:25:22,825 --> 00:25:25,088
+<i>"as A Result, This Makes It
+The Singular Material</i>
+
+551
+00:25:25,132 --> 00:25:27,743
+<i>"that Can Penetrate The Batsuit</i>
+
+552
+00:25:27,787 --> 00:25:30,224
+<i>"and The Only Failsafe
+That Protects The Suit</i>
+
+553
+00:25:30,267 --> 00:25:33,227
+<i>Against Corruption."</i>
+
+554
+00:25:33,270 --> 00:25:35,403
+<i>[door Opening]</i>
+
+555
+00:25:37,797 --> 00:25:39,973
+<i>Hey. There You Are.</i>
+
+556
+00:25:40,016 --> 00:25:41,757
+<i>You Haven't
+Checked In All Day.</i>
+
+557
+00:25:41,801 --> 00:25:46,327
+<i>Sorry. I Was Busy
+Betraying My Girlfriend</i>
+
+558
+00:25:46,370 --> 00:25:49,199
+<i>So Your Crow Sophie
+Can Make A Drug Bust.</i>
+
+559
+00:25:49,243 --> 00:25:52,072
+<i>-oh, You Mean Ocean.
+-how Do You Know About That?</i>
+
+560
+00:25:52,115 --> 00:25:54,117
+<i>Sophie Told Me That
+He Forged The Fake
+Jack Napier Painting</i>
+
+561
+00:25:54,161 --> 00:25:55,945
+<i>And Might Know
+Where The Real One Is.</i>
+
+562
+00:25:55,989 --> 00:25:57,599
+<i>So Her Story About
+Having A Case
+On Angelique</i>
+
+563
+00:25:57,643 --> 00:26:01,342
+<i>To Catch Her Dealer,
+It Was All B.s.?</i>
+
+564
+00:26:01,385 --> 00:26:03,562
+<i>No. It Was Not All B.s.
+We Need Ocean To Find Kate.</i>
+
+565
+00:26:03,605 --> 00:26:05,259
+<i>What Does He Have
+To Do With Kate?</i>
+
+566
+00:26:05,302 --> 00:26:07,043
+<i>According To Alice,
+He Has Ties To Coryana,</i>
+
+567
+00:26:07,087 --> 00:26:10,873
+<i>So We Ran A Search,
+But The Guy's
+Practically A Ghost.</i>
+
+568
+00:26:10,917 --> 00:26:12,571
+<i>I'm Gonna Need You
+To Go Back To The Part</i>
+
+569
+00:26:12,614 --> 00:26:14,790
+<i>Where You Said,
+"according To Alice."</i>
+
+570
+00:26:14,834 --> 00:26:17,140
+<i>When Were You
+Talking To Alice?</i>
+
+571
+00:26:17,184 --> 00:26:20,317
+<i>Yeah. Right.
+So At Sophie's Condo
+The Other Day,</i>
+
+572
+00:26:20,361 --> 00:26:22,581
+<i>She Was There,
+And When I Showed Up,
+She Pulled A Gun On Me.</i>
+
+573
+00:26:22,624 --> 00:26:26,149
+<i>And Then You Left
+And Promptly Called 911.</i>
+
+574
+00:26:31,024 --> 00:26:34,549
+<i>And Then You Left
+And Promptly Called 911</i>
+
+575
+00:26:34,593 --> 00:26:36,638
+<i>To Tell The Cops
+The Location</i>
+
+576
+00:26:36,682 --> 00:26:39,075
+<i>Of The Bitch Whose Gang
+Killed My Mom.</i>
+
+577
+00:26:39,119 --> 00:26:43,384
+<i>Right Now, Alice Is
+Our Only Way To Coryana.</i>
+
+578
+00:26:45,299 --> 00:26:47,867
+<i>[cell Phone Vibrating]</i>
+
+579
+00:26:47,910 --> 00:26:49,303
+<i>It's Mary.</i>
+
+580
+00:26:52,611 --> 00:26:54,787
+<i>Hey. Uh,
+Not A Great Time.</i>
+
+581
+00:26:54,830 --> 00:26:57,485
+<i>Lucas, Hey. I'm Gonna
+Need You To Bring Me</i>
+
+582
+00:26:57,528 --> 00:26:59,226
+<i>That Map To Coryana.</i>
+
+583
+00:26:59,269 --> 00:27:00,836
+<i>What? What Are You
+Talking About?</i>
+
+584
+00:27:00,880 --> 00:27:02,838
+<i>My Dad And I Are Here
+At My Clinic,</i>
+
+585
+00:27:02,882 --> 00:27:04,666
+<i>And He Asked To See It.</i>
+
+586
+00:27:04,710 --> 00:27:06,494
+<i>What The Hell Is Your Dad
+Doing At The Clinic?</i>
+
+587
+00:27:06,537 --> 00:27:09,453
+<i>I'll Tell You As Soon
+As You Bring Me The Map, Ok?</i>
+
+588
+00:27:09,497 --> 00:27:11,151
+<i>Fast As You Can,</i>
+
+589
+00:27:11,194 --> 00:27:13,457
+<i>You Know, Like
+A Bat Out Of Hell.</i>
+
+590
+00:27:13,501 --> 00:27:14,981
+<i>Mary, Everything Good?</i>
+
+591
+00:27:15,024 --> 00:27:17,331
+<i>I'm Fine, Lucas.
+Just Bring Me The Map.</i>
+
+592
+00:27:17,374 --> 00:27:19,246
+<i>I'm Not Messing Around.</i>
+
+593
+00:27:22,684 --> 00:27:25,078
+<i>Her Dad Can't Know
+About The Clinic.</i>
+
+594
+00:27:25,121 --> 00:27:28,690
+<i>She's Never Called Me
+Lucas Ever, Not Once.</i>
+
+595
+00:27:28,734 --> 00:27:30,649
+<i>"a Bat Out Of Hell"?</i>
+
+596
+00:27:30,692 --> 00:27:32,738
+<i>Something's Wrong.
+I Need To Get To Her.</i>
+
+597
+00:27:32,781 --> 00:27:35,741
+<i>-ohh!
+-whoa. What's Up With You? Hey.</i>
+
+598
+00:27:35,784 --> 00:27:38,744
+<i>No, No, No. I Just--
+I Just Need Some Space.</i>
+
+599
+00:27:38,787 --> 00:27:40,093
+<i>Ok. What--what Can I--</i>
+
+600
+00:27:40,136 --> 00:27:41,660
+<i>I Don't Need
+Your--ohh!</i>
+
+601
+00:27:41,703 --> 00:27:46,012
+<i>Whoa, Ryan,
+Ryan, Hey.</i>
+
+602
+00:27:46,055 --> 00:27:47,491
+<i>Ryan,
+What's Going On?</i>
+
+603
+00:27:51,757 --> 00:27:53,410
+<i>It Doesn't
+Make Sense.</i>
+
+604
+00:27:53,454 --> 00:27:54,716
+<i>You're A Painter?
+Do I Have To</i>
+
+605
+00:27:54,760 --> 00:27:56,631
+<i>Draw You A...picture?</i>
+
+606
+00:27:56,675 --> 00:27:58,894
+<i>When Two People Don't Hate
+Each Other Very Much...</i>
+
+607
+00:27:58,938 --> 00:28:01,941
+<i>I Mean, Coryana
+Was Remote,</i>
+
+608
+00:28:01,984 --> 00:28:04,770
+<i>But I Was Never
+Desperate.</i>
+
+609
+00:28:04,813 --> 00:28:08,208
+<i>Well...apparently,
+I Was.</i>
+
+610
+00:28:08,251 --> 00:28:09,731
+<i>Where You Going?</i>
+
+611
+00:28:09,775 --> 00:28:12,734
+<i>To Call Safiyah's
+Side-chick.</i>
+
+612
+00:28:12,778 --> 00:28:15,737
+<i>Safiyah: Can I Assume
+It's Done?</i>
+
+613
+00:28:15,781 --> 00:28:17,783
+<i>I Was Calling
+Your Henchman.</i>
+
+614
+00:28:17,826 --> 00:28:19,828
+<i>Do You Normally Answer
+The Phone For Your
+Underlings?</i>
+
+615
+00:28:19,872 --> 00:28:21,830
+<i>It's Normally Not You.</i>
+
+616
+00:28:21,874 --> 00:28:23,571
+<i>How Are You, Alice?</i>
+
+617
+00:28:23,614 --> 00:28:26,052
+<i>I've Never Asked
+This To A Woman, But...</i>
+
+618
+00:28:26,095 --> 00:28:27,575
+<i>You Didn't Happen
+To Roofie Me</i>
+
+619
+00:28:27,618 --> 00:28:29,577
+<i>For 6 Months Straight,
+Did You,</i>
+
+620
+00:28:29,620 --> 00:28:31,100
+<i>Because I'm Hitting
+A Lot Of Potholes
+On Memory Lane</i>
+
+621
+00:28:31,144 --> 00:28:32,536
+<i>That Need Filling.</i>
+
+622
+00:28:32,580 --> 00:28:34,538
+<i>What Did You
+Do To Me?</i>
+
+623
+00:28:34,582 --> 00:28:37,498
+<i>I Made You A Woman
+Who Could Put A Knife
+Through A Man's Heart.</i>
+
+624
+00:28:37,541 --> 00:28:39,239
+<i>Tell Me Everything
+You Erased.</i>
+
+625
+00:28:39,282 --> 00:28:41,458
+<i>Happy To,
+But First, Ask Yourself,</i>
+
+626
+00:28:41,502 --> 00:28:43,678
+<i>"is That Really
+What I Want?"</i>
+
+627
+00:28:43,722 --> 00:28:46,725
+<i>Wouldn't It Be
+So Much Easier Not Having
+An Emotional Attachment</i>
+
+628
+00:28:46,768 --> 00:28:48,814
+<i>To The Man You've Been
+Tasked To Kill?</i>
+
+629
+00:28:48,857 --> 00:28:50,772
+<i>Why Don't You Ask
+Someone Who Has
+Emotional Attachments?</i>
+
+630
+00:28:50,816 --> 00:28:54,254
+<i>Says The Girl Willing
+To Do Anything To Get
+Her Sister Back.</i>
+
+631
+00:28:57,344 --> 00:28:59,389
+<i>I Wondered Why You
+Tasked Me With Such</i>
+
+632
+00:28:59,433 --> 00:29:01,304
+<i>A Specific Piece
+Of Work,</i>
+
+633
+00:29:01,348 --> 00:29:04,655
+<i>And...now I Know.</i>
+
+634
+00:29:04,699 --> 00:29:07,006
+<i>So You Could Sit Back
+And Watch Me Kill</i>
+
+635
+00:29:07,049 --> 00:29:10,836
+<i>An Old Flame. Heh.</i>
+
+636
+00:29:10,879 --> 00:29:12,489
+<i>You're Sick.</i>
+
+637
+00:29:12,533 --> 00:29:14,491
+<i>No, Alice.
+Sick Would Telling You</i>
+
+638
+00:29:14,535 --> 00:29:16,450
+<i>All The Details
+Of Your Story With Ocean</i>
+
+639
+00:29:16,493 --> 00:29:18,669
+<i>And Then Asking You
+To Kill Him,</i>
+
+640
+00:29:18,713 --> 00:29:21,803
+<i>Which, Again, I Am Happy
+To Do If You So Desire.</i>
+
+641
+00:29:21,847 --> 00:29:24,197
+<i>Let Me Know
+What You Decide.</i>
+
+642
+00:29:39,603 --> 00:29:41,867
+<i>[ryan Grunting]</i>
+
+643
+00:29:46,654 --> 00:29:49,657
+<i>Did That Just
+Pulsate?</i>
+
+644
+00:29:49,700 --> 00:29:51,964
+<i>This Is Why No One
+Can Help Me.</i>
+
+645
+00:29:52,007 --> 00:29:53,574
+<i>This From
+The Kryptonite?</i>
+
+646
+00:29:53,617 --> 00:29:55,358
+<i>You Said You
+Were Fine.</i>
+
+647
+00:29:55,402 --> 00:29:57,708
+<i>[grunting]</i>
+
+648
+00:30:00,929 --> 00:30:02,539
+<i>I Thought I Was.</i>
+
+649
+00:30:02,583 --> 00:30:04,324
+<i>I Knew It Could
+Pierce The Batsuit,</i>
+
+650
+00:30:04,367 --> 00:30:06,326
+<i>But When You Survived
+Tommy Shooting You,</i>
+
+651
+00:30:06,369 --> 00:30:08,067
+<i>I Assumed It Meant
+It Was Only Fatal</i>
+
+652
+00:30:08,110 --> 00:30:09,677
+<i>If The Shot Hit
+A Vital Organ.</i>
+
+653
+00:30:09,720 --> 00:30:12,332
+<i>No. Kryptonite Kills,</i>
+
+654
+00:30:12,375 --> 00:30:14,421
+<i>Just Hella Slow.</i>
+
+655
+00:30:14,464 --> 00:30:16,597
+<i>Why Didn't You Say
+Anything?</i>
+
+656
+00:30:16,640 --> 00:30:18,947
+<i>What I Was About To
+Say After I Begged
+To Put On The Suit?</i>
+
+657
+00:30:18,991 --> 00:30:21,384
+<i>"hey. Got To Take
+A Sick Day"?</i>
+
+658
+00:30:21,428 --> 00:30:23,473
+<i>I Spend Every Second
+In That Thing</i>
+
+659
+00:30:23,517 --> 00:30:27,913
+<i>Trying To Convince
+You I'm At Least Half
+As Good As Kate.</i>
+
+660
+00:30:27,956 --> 00:30:31,090
+<i>Wasn't About To Give
+You One More Reason
+To Doubt Me.</i>
+
+661
+00:30:31,133 --> 00:30:33,048
+<i>Um, I'm Sorry.</i>
+
+662
+00:30:33,092 --> 00:30:34,441
+<i>We Don't Have Time
+For This.</i>
+
+663
+00:30:34,484 --> 00:30:35,790
+<i>I Need To Get To Mary.</i>
+
+664
+00:30:35,834 --> 00:30:37,487
+<i>You Can Barely Walk.</i>
+
+665
+00:30:37,531 --> 00:30:39,446
+<i>You Can Keep Telling Me
+Everything I Can't Do,</i>
+
+666
+00:30:39,489 --> 00:30:41,361
+<i>Or You Can Make
+Yourself Useful</i>
+
+667
+00:30:41,404 --> 00:30:43,537
+<i>And Have My Back
+For Once.</i>
+
+668
+00:30:56,680 --> 00:30:58,552
+<i>Hyah!</i>
+
+669
+00:30:58,595 --> 00:31:00,902
+<i>Emily Blue: ♪ Emotions Come,
+I Don't Know Why ♪</i>
+
+670
+00:31:00,946 --> 00:31:02,077
+<i>♪ Cover Up Love's Alibi</i>
+
+671
+00:31:02,121 --> 00:31:05,951
+<i>You're An Idiot.</i>
+
+672
+00:31:05,994 --> 00:31:07,213
+<i>♪ Call Me...</i>
+
+673
+00:31:07,256 --> 00:31:08,475
+<i>Now Use My Weight
+Against Me.</i>
+
+674
+00:31:08,518 --> 00:31:10,129
+<i>♪ On The Line</i>
+
+675
+00:31:10,172 --> 00:31:13,741
+<i>♪ Call Me, Call Me
+Any Day Or Night ♪</i>
+
+676
+00:31:13,784 --> 00:31:15,482
+<i>♪ Call Me</i>
+
+677
+00:31:15,525 --> 00:31:18,006
+<i>I Think Safiyah
+Will Like You.</i>
+
+678
+00:31:18,050 --> 00:31:20,356
+<i>I Want To Escape,</i>
+
+679
+00:31:20,400 --> 00:31:23,185
+<i>And I Want You
+To Come With Me.</i>
+
+680
+00:31:23,229 --> 00:31:27,537
+<i>♪ Call Me, My Love</i>
+
+681
+00:31:27,581 --> 00:31:31,106
+<i>♪ Call Me, Call Me Any,
+Anytime ♪</i>
+
+682
+00:31:31,150 --> 00:31:32,673
+<i>♪ Call Me</i>
+
+683
+00:31:32,716 --> 00:31:36,068
+<i>-what'd You See?
+-what Did You See?</i>
+
+684
+00:31:36,111 --> 00:31:40,724
+<i>That This Is, Um,
+Getting Complicated.</i>
+
+685
+00:31:44,467 --> 00:31:45,947
+<i>[gun Cocks]</i>
+
+686
+00:31:45,991 --> 00:31:47,775
+<i>Sophie: Hands
+Where I Can See Them.</i>
+
+687
+00:31:47,818 --> 00:31:49,124
+<i>Oh, We're Kind Of
+In The Middle
+Of A Thing.</i>
+
+688
+00:31:49,168 --> 00:31:50,343
+<i>I'm Not Here For You.</i>
+
+689
+00:31:50,386 --> 00:31:52,214
+<i>[sighs]</i>
+
+690
+00:31:52,258 --> 00:31:55,391
+<i>Ocean, I'm Agent Moore
+With The Crows.</i>
+
+691
+00:31:55,435 --> 00:31:57,263
+<i>Where's
+The Napier Painting?</i>
+
+692
+00:31:57,306 --> 00:31:59,091
+<i>What Napier Painting?</i>
+
+693
+00:31:59,134 --> 00:32:01,049
+<i>The One You Were Looking At
+When You Forged The Fake.</i>
+
+694
+00:32:01,093 --> 00:32:02,921
+<i>No Idea What You're
+Talking About.</i>
+
+695
+00:32:02,964 --> 00:32:04,966
+<i>It'll Take Two Minutes
+To Have This Place Swarming</i>
+
+696
+00:32:05,010 --> 00:32:07,186
+<i>With A Bunch Of Crows,
+Looking To Catch The Man</i>
+
+697
+00:32:07,229 --> 00:32:09,797
+<i>Responsible For Gotham's
+Latest Drug Epidemic.</i>
+
+698
+00:32:09,840 --> 00:32:12,104
+<i>Give Me The Map,
+And I'll Let You Go.</i>
+
+699
+00:32:12,147 --> 00:32:15,063
+<i>Map? Oh, Now
+I'm Intrigued.</i>
+
+700
+00:32:15,107 --> 00:32:17,022
+<i>-hand It Over.
+-don't.</i>
+
+701
+00:32:17,065 --> 00:32:18,675
+<i>The Faster She Gets
+To The Island,</i>
+
+702
+00:32:18,719 --> 00:32:20,068
+<i>The Faster I'll
+Need You Dead.</i>
+
+703
+00:32:20,112 --> 00:32:22,549
+<i>[gunshot]</i>
+
+704
+00:32:22,592 --> 00:32:24,116
+<i>Not My Problem.</i>
+
+705
+00:32:34,387 --> 00:32:36,302
+<i>Show Me The Map!</i>
+
+706
+00:32:51,447 --> 00:32:52,753
+<i>I Got The Map.</i>
+
+707
+00:32:52,796 --> 00:32:54,059
+<i>Any Chance You Know
+How To Read A Nautical Chart?</i>
+
+708
+00:32:54,102 --> 00:32:55,060
+<i>No, But You Need To
+Bring It To The Clinic.</i>
+
+709
+00:32:55,103 --> 00:32:56,539
+<i>I Think Someone's
+Got Mary.</i>
+
+710
+00:32:56,583 --> 00:32:58,063
+<i>She Said Her Dad
+Is With Her And That
+She Needs The Map.</i>
+
+711
+00:32:58,106 --> 00:32:59,847
+<i>Oh, My God. Ok.
+I'm On My Way.</i>
+
+712
+00:32:59,890 --> 00:33:00,848
+<i>She Sounded
+Deadly Serious,</i>
+
+713
+00:33:00,891 --> 00:33:01,980
+<i>And This Goes
+Without Saying,</i>
+
+714
+00:33:02,023 --> 00:33:03,503
+<i>But You Can't Actually
+Hand It Over.</i>
+
+715
+00:33:03,546 --> 00:33:06,288
+<i>I Won't, But I'm Also
+Not Gonna Gamble
+With Their Lives.</i>
+
+716
+00:33:10,075 --> 00:33:11,467
+<i>What Are You Doing?</i>
+
+717
+00:33:11,511 --> 00:33:12,991
+<i>That Island Is Growing
+The Only Thing</i>
+
+718
+00:33:13,034 --> 00:33:15,341
+<i>On This Planet That Has
+A Shot At Curing Me.</i>
+
+719
+00:33:15,384 --> 00:33:17,604
+<i>I'm Not Putting My Life
+In The Hands Of Some Crow.</i>
+
+720
+00:33:17,647 --> 00:33:19,475
+<i>Look, Ryan.</i>
+
+721
+00:33:22,870 --> 00:33:24,872
+<i>The Suit Can Discharge
+A Single Dose</i>
+
+722
+00:33:24,915 --> 00:33:26,352
+<i>Of Adrenaline.</i>
+
+723
+00:33:26,395 --> 00:33:28,049
+<i>When You Need A Boost,
+Say The Word.</i>
+
+724
+00:33:29,877 --> 00:33:31,835
+<i>I Got This.</i>
+
+725
+00:33:31,879 --> 00:33:34,403
+<i>I Know.</i>
+
+726
+00:33:34,447 --> 00:33:36,275
+<i>You're One Of Them,
+Aren't You?</i>
+
+727
+00:33:36,318 --> 00:33:39,539
+<i>I'm So Stupid.
+Stupid, Stupid!</i>
+
+728
+00:33:39,582 --> 00:33:40,931
+<i>Ohh. No.</i>
+
+729
+00:33:40,975 --> 00:33:43,412
+<i>Stop, Stop, Stop!</i>
+
+730
+00:33:43,456 --> 00:33:45,588
+<i>Stop, Stop!
+One Of Who?</i>
+
+731
+00:33:45,632 --> 00:33:47,199
+<i>Just Another Lying
+Hamilton.</i>
+
+732
+00:33:47,242 --> 00:33:48,765
+<i>What? What Are You
+Talking About?</i>
+
+733
+00:33:48,809 --> 00:33:51,072
+<i>Hamilton Doctors
+Did This To You?</i>
+
+734
+00:33:51,116 --> 00:33:52,508
+<i>It's Not Possible.</i>
+
+735
+00:33:52,552 --> 00:33:53,901
+<i>You Said This Happened
+5 Years Ago.</i>
+
+736
+00:33:53,944 --> 00:33:55,772
+<i>Yeah. My Mom
+Was Ceo Then.</i>
+
+737
+00:33:55,816 --> 00:33:57,774
+<i>She Would Have Never
+Signed Off On Secret
+Human Testing.</i>
+
+738
+00:33:57,818 --> 00:34:00,081
+<i>Why Do You Think
+They Call It
+Secret, Genius?</i>
+
+739
+00:34:00,125 --> 00:34:01,822
+<i>And Your Doctors,
+They Promised--</i>
+
+740
+00:34:01,865 --> 00:34:05,695
+<i>They Promised,
+They Promised
+To Fix Me!</i>
+
+741
+00:34:05,739 --> 00:34:08,437
+<i>Did You Know That
+This Was Happening?</i>
+
+742
+00:34:08,481 --> 00:34:12,180
+<i>Apparently There's A Lot
+I Don't Know About.</i>
+
+743
+00:34:12,224 --> 00:34:15,227
+<i>Jacob: Unh!</i>
+
+744
+00:34:15,270 --> 00:34:17,794
+<i>Raah!</i>
+
+745
+00:34:17,838 --> 00:34:19,753
+<i>Mary: Oh, My God!</i>
+
+746
+00:34:19,796 --> 00:34:21,233
+<i>Sophie: Drop It,
+Or I Shoot!</i>
+
+747
+00:34:30,198 --> 00:34:32,679
+<i>Mary: Stop, Stop!
+She Brought The Map!</i>
+
+748
+00:34:32,722 --> 00:34:34,115
+<i>You're Not A Killer!</i>
+
+749
+00:34:34,159 --> 00:34:35,769
+<i>Your Family Did This
+To Me!</i>
+
+750
+00:34:51,698 --> 00:34:52,916
+<i>Ryan: Huh! Hyah!</i>
+
+751
+00:34:57,138 --> 00:34:59,314
+<i>Get Her Out Of Here.
+Go Out The Back.</i>
+
+752
+00:34:59,358 --> 00:35:01,621
+<i>I'm Not Leaving My Agent
+In A Damn Hallway.</i>
+
+753
+00:35:01,664 --> 00:35:04,319
+<i>I'll Protect Her,
+I Promise You.</i>
+
+754
+00:35:04,363 --> 00:35:05,973
+<i>Now Go!</i>
+
+755
+00:35:14,677 --> 00:35:16,288
+<i>[groans]</i>
+
+756
+00:35:18,855 --> 00:35:21,815
+<i>Luke...now.</i>
+
+757
+00:35:21,858 --> 00:35:23,208
+<i>[beep Beep]</i>
+
+758
+00:35:23,251 --> 00:35:25,558
+<i>Ohh! Huh!</i>
+
+759
+00:35:28,169 --> 00:35:31,694
+<i>Batwoman To Batcave,
+I Got It.</i>
+
+760
+00:35:31,738 --> 00:35:33,435
+<i>That's Ok. He's--</i>
+
+761
+00:35:38,701 --> 00:35:40,747
+<i>Sedate Him
+In The Car.</i>
+
+762
+00:35:40,790 --> 00:35:42,183
+<i>We Don't Need
+Any Incidents.</i>
+
+763
+00:35:42,227 --> 00:35:43,663
+<i>Who Are You?</i>
+
+764
+00:35:43,706 --> 00:35:45,186
+<i>Just A Man Looking
+For A Map.</i>
+
+765
+00:35:45,230 --> 00:35:47,188
+<i>Don't Give It To Him.</i>
+
+766
+00:35:47,232 --> 00:35:49,843
+<i>I Will Shoot
+This Crow In The Head.</i>
+
+767
+00:35:49,886 --> 00:35:52,150
+<i>Her Blood Will Be
+On Your Hands,
+Batwoman.</i>
+
+768
+00:35:52,193 --> 00:35:56,066
+<i>Is That Really How
+You Want To Start
+Your Legacy?</i>
+
+769
+00:35:56,110 --> 00:35:58,243
+<i>We Need That Map.</i>
+
+770
+00:35:58,286 --> 00:36:00,723
+<i>I Know....</i>
+
+771
+00:36:00,767 --> 00:36:02,856
+<i>But I Also Can't
+Let You Die.</i>
+
+772
+00:36:20,395 --> 00:36:22,354
+<i>What Do You Mean
+She's Dying?</i>
+
+773
+00:36:22,397 --> 00:36:23,572
+<i>I Looked At The Wound.</i>
+
+774
+00:36:23,616 --> 00:36:24,878
+<i>The Meds Were Working.</i>
+
+775
+00:36:24,921 --> 00:36:26,096
+<i>Why Didn't You
+Tell Me?</i>
+
+776
+00:36:26,140 --> 00:36:27,576
+<i>She Asked Me Not To.</i>
+
+777
+00:36:27,620 --> 00:36:31,667
+<i>-but We're The Batteam.
+-not To Her.</i>
+
+778
+00:36:31,711 --> 00:36:33,539
+<i>Well, The Meds
+Aren't Working.</i>
+
+779
+00:36:33,582 --> 00:36:35,280
+<i>Her Prolonged Exposure
+To The Kryptonite Radiation</i>
+
+780
+00:36:35,323 --> 00:36:36,846
+<i>Is Lethal.</i>
+
+781
+00:36:36,890 --> 00:36:38,500
+<i>Ryan's Only Hope
+Is The Desert Rose,</i>
+
+782
+00:36:38,544 --> 00:36:40,241
+<i>Which Is On Coryana
+With Kate,</i>
+
+783
+00:36:40,285 --> 00:36:42,504
+<i>Who We're Never
+Gonna See Again.</i>
+
+784
+00:36:42,548 --> 00:36:46,378
+<i>Since Putting On
+The Suit, Ryan's--</i>
+
+785
+00:36:46,421 --> 00:36:48,684
+<i>Ryan's Made
+The Streets Safer,</i>
+
+786
+00:36:48,728 --> 00:36:51,209
+<i>She's Inspired The City,</i>
+
+787
+00:36:51,252 --> 00:36:52,862
+<i>And She Helped Us
+Find Kate,</i>
+
+788
+00:36:52,906 --> 00:36:54,560
+<i>And She's Done It All
+While Having</i>
+
+789
+00:36:54,603 --> 00:36:58,390
+<i>A Terminal Illness.</i>
+
+790
+00:36:58,433 --> 00:37:02,132
+<i>I Mean, If That's
+Not A Hero,
+What He Hell Is?</i>
+
+791
+00:37:02,176 --> 00:37:04,526
+<i>So We're Gonna
+Find Coryana,</i>
+
+792
+00:37:04,570 --> 00:37:06,136
+<i>We're Gonna
+Get Kate Back,</i>
+
+793
+00:37:06,180 --> 00:37:08,138
+<i>And We're Gonna
+Save Ryan's Life.</i>
+
+794
+00:37:08,182 --> 00:37:10,750
+<i>Except We Have No Way
+Of Doing Any
+Of Those Things.</i>
+
+795
+00:37:10,793 --> 00:37:13,927
+<i>That's Not True.</i>
+
+796
+00:37:13,970 --> 00:37:15,842
+<i>We Have My Dad.</i>
+
+797
+00:37:18,410 --> 00:37:20,499
+<i>Jacob: If These People Have
+Anything To Do With Hamilton,</i>
+
+798
+00:37:20,542 --> 00:37:22,283
+<i>I Want To Be The First
+To Know About It.</i>
+
+799
+00:37:22,327 --> 00:37:24,851
+<i>I Want That Map In My Hands.</i>
+
+800
+00:37:28,246 --> 00:37:30,987
+<i>I Shouldn't Have Said
+Anything About Coryana.</i>
+
+801
+00:37:31,031 --> 00:37:32,598
+<i>You Were Acting
+On Instinct.</i>
+
+802
+00:37:32,641 --> 00:37:36,297
+<i>That Man Was
+Totally Unhinged.</i>
+
+803
+00:37:36,341 --> 00:37:40,649
+<i>Do You Think Mom
+Knew What They Were
+Doing To That Guy?</i>
+
+804
+00:37:40,693 --> 00:37:42,738
+<i>I Think Your Mom
+Was A Lot Like You,</i>
+
+805
+00:37:42,782 --> 00:37:46,829
+<i>A Woman Who Would Do
+Anything To Help People.</i>
+
+806
+00:37:46,873 --> 00:37:49,658
+<i>I Know You're Pissed
+About The Clinic.</i>
+
+807
+00:37:49,702 --> 00:37:51,660
+<i>I'm Shutting It
+Down, Mary.</i>
+
+808
+00:37:51,704 --> 00:37:53,749
+<i>-why? Why Would You Do That?
+-it's Illegal.</i>
+
+809
+00:37:53,793 --> 00:37:55,273
+<i>Yeah, But A Lot
+Of People In Gotham</i>
+
+810
+00:37:55,316 --> 00:37:57,840
+<i>Can't Afford Health Care
+In The Legal Way.</i>
+
+811
+00:37:57,884 --> 00:38:00,713
+<i>Practicing Without A License,
+Impersonating A Doctor,</i>
+
+812
+00:38:00,756 --> 00:38:02,715
+<i>Possession Of Narcotics,
+Need I Go On?</i>
+
+813
+00:38:02,758 --> 00:38:05,065
+<i>I've Saved Hundreds,
+Maybe Thousands
+Of Lives,</i>
+
+814
+00:38:05,108 --> 00:38:07,328
+<i>And Even More
+Than That, I Make
+People Feel Like</i>
+
+815
+00:38:07,372 --> 00:38:09,330
+<i>They're Worthy
+Of Being Alive!</i>
+
+816
+00:38:09,374 --> 00:38:11,419
+<i>Gotham City General
+Can't Say That.</i>
+
+817
+00:38:11,463 --> 00:38:13,987
+<i>I'm Not Questioning
+Your Passion Or The Good
+That You've Done,</i>
+
+818
+00:38:14,030 --> 00:38:15,989
+<i>But Did You Not Listen
+To What The Man Said?</i>
+
+819
+00:38:16,032 --> 00:38:18,426
+<i>This Is Exactly How
+Your Mother Started--
+With Good Intentions</i>
+
+820
+00:38:18,470 --> 00:38:21,081
+<i>And A Lot Of Disappearing
+Lines In The Sand.</i>
+
+821
+00:38:21,124 --> 00:38:23,388
+<i>Mom Knew
+About The Clinic.</i>
+
+822
+00:38:23,431 --> 00:38:25,172
+<i>She Was Proud Of Me.</i>
+
+823
+00:38:25,215 --> 00:38:29,132
+<i>She Was Conducting
+Human Experiments, Mary.</i>
+
+824
+00:38:29,176 --> 00:38:31,091
+<i>Well, I Wouldn't
+Do That.</i>
+
+825
+00:38:31,134 --> 00:38:33,354
+<i>Every Sick Person
+Who Walks Through
+Your Front Door</i>
+
+826
+00:38:33,398 --> 00:38:37,271
+<i>Is An Experiment Because
+You Are Not Qualified.</i>
+
+827
+00:38:39,055 --> 00:38:42,711
+<i>So Is This What Being
+A Dad Means To You?</i>
+
+828
+00:38:42,755 --> 00:38:45,801
+<i>You Finally Pay
+Attention To Me,</i>
+
+829
+00:38:45,845 --> 00:38:48,108
+<i>And Then You Take
+Away The Thing</i>
+
+830
+00:38:48,151 --> 00:38:50,415
+<i>That Means
+The Most To Me.</i>
+
+831
+00:38:53,200 --> 00:38:55,724
+<i>I Liked You Better
+When You Acted Like
+I Didn't Exist.</i>
+
+832
+00:38:56,986 --> 00:38:58,945
+<i>[door Opens And Closes]</i>
+
+833
+00:39:03,253 --> 00:39:05,038
+<i>Angelique: Hey.</i>
+
+834
+00:39:05,081 --> 00:39:08,389
+<i>Ryan: I Didn't
+Actually Think
+You Would Come.</i>
+
+835
+00:39:08,433 --> 00:39:09,869
+<i>I Did.</i>
+
+836
+00:39:09,912 --> 00:39:11,871
+<i>You Don't Look So Hot.</i>
+
+837
+00:39:11,914 --> 00:39:15,570
+<i>Yeah. It's Kind Of
+What I Wanted To
+Talk To You About.</i>
+
+838
+00:39:15,614 --> 00:39:17,224
+<i>It's Something
+Pretty Serious.</i>
+
+839
+00:39:17,267 --> 00:39:20,923
+<i>Like What? No. Wait.
+Let Me Guess.</i>
+
+840
+00:39:20,967 --> 00:39:23,796
+<i>Cops Got You On The Hook
+For Something.</i>
+
+841
+00:39:23,839 --> 00:39:25,319
+<i>Why Would You
+Think That?</i>
+
+842
+00:39:25,363 --> 00:39:27,060
+<i>I Don't Know, Ryan.</i>
+
+843
+00:39:27,103 --> 00:39:30,759
+<i>Why Would I Think That?</i>
+
+844
+00:39:30,803 --> 00:39:33,414
+<i>I Have No Idea.</i>
+
+845
+00:39:33,458 --> 00:39:36,722
+<i>Is It Maybe...</i>
+
+846
+00:39:36,765 --> 00:39:41,466
+<i>Because You Slipped
+Some Creepy Spy Tech
+Onto My Phone?</i>
+
+847
+00:39:41,509 --> 00:39:42,858
+<i>[sighs]</i>
+
+848
+00:39:42,902 --> 00:39:44,512
+<i>Oh, No.</i>
+
+849
+00:39:44,556 --> 00:39:46,645
+<i>I Heard Static,
+And Half My Apps
+Stopped Working,</i>
+
+850
+00:39:46,688 --> 00:39:48,255
+<i>And My Tech Guy
+Thinks He Deleted It,</i>
+
+851
+00:39:48,298 --> 00:39:50,953
+<i>But Who Knows?</i>
+
+852
+00:39:50,997 --> 00:39:54,217
+<i>The Feds Could Be Listening
+To Every Word Of This.</i>
+
+853
+00:39:54,261 --> 00:39:57,264
+<i>I--i Did Not
+Have A Choice.</i>
+
+854
+00:39:57,307 --> 00:40:00,789
+<i>You Did, Though,
+And You Chose To Snitch.</i>
+
+855
+00:40:00,833 --> 00:40:03,139
+<i>They Had A Case
+On You.</i>
+
+856
+00:40:03,183 --> 00:40:05,794
+<i>You Would Be
+In A Holding Cell
+Right Now.</i>
+
+857
+00:40:05,838 --> 00:40:07,622
+<i>That's Not How
+This Works, Ryan.</i>
+
+858
+00:40:07,666 --> 00:40:09,711
+<i>The Cops, The Crows,</i>
+
+859
+00:40:09,755 --> 00:40:11,191
+<i>They're Not The Ones
+I'm Afraid Of.</i>
+
+860
+00:40:11,234 --> 00:40:13,193
+<i>You Know What?
+My Bad, Ang.</i>
+
+861
+00:40:13,236 --> 00:40:17,502
+<i>I Am So Sorry That
+You Can't Drug-deal
+In Peace.</i>
+
+862
+00:40:17,545 --> 00:40:21,506
+<i>I Am So Sorry
+I Cannot Trust You.</i>
+
+863
+00:40:21,549 --> 00:40:23,246
+<i>Oh, Don't You Dare
+Turn This Around On Me!</i>
+
+864
+00:40:23,290 --> 00:40:25,161
+<i>How Do I Know You Don't
+Have This Whole Place Bugged?</i>
+
+865
+00:40:25,205 --> 00:40:27,294
+<i>How Do I Know You're
+Even Who You Say You Are?</i>
+
+866
+00:40:27,337 --> 00:40:30,471
+<i>Because You Know Me!</i>
+
+867
+00:40:30,515 --> 00:40:34,301
+<i>You Are The Only
+Person That Knows Me,</i>
+
+868
+00:40:34,344 --> 00:40:35,737
+<i>And I Need You
+Right Now,</i>
+
+869
+00:40:35,781 --> 00:40:39,785
+<i>I Really Need You.</i>
+
+870
+00:40:39,828 --> 00:40:42,962
+<i>You Should Have Thought
+Of That Before You
+Ratted Me Out.</i>
+
+871
+00:40:43,005 --> 00:40:47,009
+<i>Joy Oladokun: ♪ Did You Ever
+Really Love Me? ♪</i>
+
+872
+00:40:47,053 --> 00:40:49,316
+<i>Ryan: N-n-no.</i>
+
+873
+00:40:49,359 --> 00:40:52,667
+<i>♪ And Did You Ever
+Really Love Me? ♪</i>
+
+874
+00:40:52,711 --> 00:40:54,582
+<i>[door Slams]</i>
+
+875
+00:40:54,626 --> 00:40:57,716
+<i>Chorus: ♪ Ooh, Ooh,
+Ooh, Ooh, Ooh ♪</i>
+
+876
+00:40:57,759 --> 00:41:01,415
+<i>♪ Did You Ever Really
+Love Me? ♪</i>
+
+877
+00:41:01,459 --> 00:41:06,551
+<i>♪ Ooh, Ooh, Ooh, Ooh,
+Ooh, Ooh, Ooh, Ooh ♪</i>
+
+878
+00:41:16,474 --> 00:41:17,736
+<i>Safiyah: Hello Again.</i>
+
+879
+00:41:17,779 --> 00:41:19,564
+<i>This Is Where
+I Say Thank You.</i>
+
+880
+00:41:19,607 --> 00:41:21,566
+<i>-for What?
+-your Advice.</i>
+
+881
+00:41:21,609 --> 00:41:23,481
+<i>The Less I Knew,
+The Better.</i>
+
+882
+00:41:23,524 --> 00:41:25,308
+<i>Ocean's Dead.</i>
+
+883
+00:41:25,352 --> 00:41:27,572
+<i>I'll Need To See
+His Body.</i>
+
+884
+00:41:27,615 --> 00:41:30,488
+<i>And I'll Bring It,
+And You'll Give Me Kate.</i>
+
+885
+00:41:30,531 --> 00:41:32,446
+<i>Now Send Your Little
+Errand Girl To Come Fetch.</i>
+
+886
+00:41:37,930 --> 00:41:40,498
+<i>I'll Be Damned.</i>
+
+887
+00:41:40,541 --> 00:41:43,544
+<i>You're A Bigger
+Lunatic Than I Thought.</i>
+
+888
+00:41:43,588 --> 00:41:44,980
+<i>Thank You.</i>
+
+889
+00:42:14,923 --> 00:42:16,882
+<i>Man: Greg, Move Your Head!</i>
+

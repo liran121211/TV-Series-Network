@@ -1,0 +1,202 @@
+{
+    "1": {
+        "title": "The City of New York vs. Homer Simpson",
+        "released": "1997-09-21",
+        "rating": "9.0",
+        "imdb_id": "tt0701230",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\The.Simpsons.S19E01-E20.PDTV.XviDS19E1.zip"
+    },
+    "2": {
+        "title": "The Principal and the Pauper",
+        "released": "1997-09-28",
+        "rating": "6.9",
+        "imdb_id": "tt0701257",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\The.Simpsons.S19E02.WEB-DL.DSNPS19E2.zip"
+    },
+    "3": {
+        "title": "Lisa's Sax",
+        "released": "1997-10-19",
+        "rating": "8.1",
+        "imdb_id": "tt0701163",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\The.Simpsons.S19E03.WEB-DL.DSNPS19E3.zip"
+    },
+    "4": {
+        "title": "Treehouse of Horror VIII",
+        "released": "1997-10-26",
+        "rating": "8.2",
+        "imdb_id": "tt0779679",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\The.Simpsons.S19E04.WEB-DL.DSNPS19E4.zip"
+    },
+    "5": {
+        "title": "The Cartridge Family",
+        "released": "1997-11-02",
+        "rating": "8.2",
+        "imdb_id": "tt0763039",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\The.Simpsons.S19E05.PDTV.XviD-LOLS19E5.zip"
+    },
+    "6": {
+        "title": "Bart Star",
+        "released": "1997-11-09",
+        "rating": "7.6",
+        "imdb_id": "tt0701056",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\The.Simpsons.S19E06.PDTV.XviD-LOLS19E6.zip"
+    },
+    "7": {
+        "title": "The Two Mrs. Nahasapeemapetilons",
+        "released": "1997-11-16",
+        "rating": "7.6",
+        "imdb_id": "tt0701267",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\S19E07-Husbands&amp;KnivesS19E7.zip"
+    },
+    "8": {
+        "title": "Lisa the Skeptic",
+        "released": "1997-11-23",
+        "rating": "8.1",
+        "imdb_id": "tt0701156",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\The.Simpsons.S19E08.PDTV.XviD-XORS19E8.zip"
+    },
+    "9": {
+        "title": "Realty Bites",
+        "released": "1997-12-07",
+        "rating": "7.6",
+        "imdb_id": "tt0779673",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S19\\The.Simpsons.S19E09.PDTV.XviD-BlueTVS19E9.zip"
+    },
+    "10": {
+        "title": "Miracle on Evergreen Terrace",
+        "released": "1997-12-21",
+        "rating": "7.6",
+        "imdb_id": "tt0701176",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "All Singing, All Dancing",
+        "released": "1998-01-04",
+        "rating": "5.0",
+        "imdb_id": "tt0701050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Bart Carny",
+        "released": "1998-01-11",
+        "rating": "7.6",
+        "imdb_id": "tt0701054",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Joy of Sect",
+        "released": "1998-02-08",
+        "rating": "8.3",
+        "imdb_id": "tt0779676",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Das Bus",
+        "released": "1998-02-15",
+        "rating": "8.2",
+        "imdb_id": "tt0701085",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Last Temptation of Krusty",
+        "released": "1998-02-22",
+        "rating": "7.4",
+        "imdb_id": "tt0701247",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Dumbbell Indemnity",
+        "released": "1998-03-01",
+        "rating": "7.6",
+        "imdb_id": "tt0701091",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Lisa the Simpson",
+        "released": "1998-03-08",
+        "rating": "8.0",
+        "imdb_id": "tt0779668",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "This Little Wiggy",
+        "released": "1998-03-22",
+        "rating": "7.8",
+        "imdb_id": "tt0779677",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Simpson Tide",
+        "released": "1998-03-29",
+        "rating": "8.1",
+        "imdb_id": "tt0701210",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Trouble with Trillions",
+        "released": "1998-04-05",
+        "rating": "7.8",
+        "imdb_id": "tt0701265",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Girly Edition",
+        "released": "1998-04-19",
+        "rating": "7.8",
+        "imdb_id": "tt0779665",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Trash of the Titans",
+        "released": "1998-04-26",
+        "rating": "8.4",
+        "imdb_id": "tt0701277",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "King of the Hill",
+        "released": "1998-05-03",
+        "rating": "8.2",
+        "imdb_id": "tt0701145",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Lost Our Lisa",
+        "released": "1998-05-10",
+        "rating": "7.7",
+        "imdb_id": "tt0779670",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Natural Born Kissers",
+        "released": "1998-05-17",
+        "rating": "8.0",
+        "imdb_id": "tt0763037",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

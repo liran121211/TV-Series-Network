@@ -1,0 +1,76 @@
+﻿1
+00:46:18,526 --> 00:46:20,903
+<font color="#ffff00">It's a blessing from the Great Stallion</font>
+
+2
+00:46:50,683 --> 00:46:53,436
+<font color="#ffff00">Dothraki don't wear steel dresses.</font>
+
+3
+00:47:06,490 --> 00:47:09,201
+<font color="#ffff00">My father taught me how to fight.</font>
+
+4
+00:47:09,327 --> 00:47:12,705
+<font color="#ffff00">He taught me that speed defeats size.</font>
+
+5
+00:47:12,830 --> 00:47:15,583
+<font color="#ffff00">I've heard that
+your father was a famous warrior.</font>
+
+6
+00:47:15,708 --> 00:47:18,044
+<font color="#ffff00">He was bloodrider to Khal Bharbo.</font>
+
+7
+00:47:20,713 --> 00:47:24,508
+<font color="#ffff00">And your father, Jorah the Andal?
+He was a warrior also?</font>
+
+8
+00:47:36,562 --> 00:47:38,731
+<font color="#ffff00">The Khaleesi wants
+to eat something different tonight.</font>
+
+9
+00:47:38,856 --> 00:47:40,858
+<font color="#ffff00">Kill some rabbits.</font>
+
+10
+00:47:40,983 --> 00:47:43,027
+<font color="#ffff00">There are no rabbits.</font>
+
+11
+00:47:43,152 --> 00:47:46,864
+<font color="#ffff00">Find some ducks, she likes ducks.</font>
+
+12
+00:47:46,989 --> 00:47:50,451
+<font color="#ffff00">Have you seen any ducks, woman?
+No rabbits, no ducks.</font>
+
+13
+00:47:50,576 --> 00:47:52,912
+<font color="#ffff00">Do you have eyes in your head? Do you?</font>
+
+14
+00:47:53,037 --> 00:47:55,122
+<font color="#ffff00">Dog then. I have seen many dogs.</font>
+
+15
+00:48:12,765 --> 00:48:15,142
+<font color="#ffff00">A blessing from the Great Stallion.</font>
+
+16
+00:51:05,938 --> 00:51:07,606
+<font color="#ffff00">It's a boy.</font>
+
+17
+00:51:12,111 --> 00:51:14,363
+<font color="#ffff00">How do you know?</font>
+
+18
+00:51:16,740 --> 00:51:18,742
+<font color="#ffff00">I know.</font>
+

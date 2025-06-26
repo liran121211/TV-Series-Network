@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Anjin",
+        "released": "2024-02-27",
+        "rating": "8.4",
+        "imdb_id": "tt8888592",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Shōgun\\Subtitles\\S1\\Shogun.2024.S01E01-E02.1080p.WEB.H264-SuccessfulCrabS1E1.zip"
+    },
+    "2": {
+        "title": "Servants of Two Masters",
+        "released": "2024-02-27",
+        "rating": "8.9",
+        "imdb_id": "tt8888594",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Tomorrow Is Tomorrow",
+        "released": "2024-03-05",
+        "rating": "8.7",
+        "imdb_id": "tt8888596",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Shōgun\\Subtitles\\S1\\Shogun.S01E03.2024.WEBRip-DSN+S1E3.zip"
+    },
+    "4": {
+        "title": "The Eightfold Fence",
+        "released": "2024-03-12",
+        "rating": "8.9",
+        "imdb_id": "tt8888598",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Shōgun\\Subtitles\\S1\\Shogun.S01E04.2024.WEBRip-DSN+S1E4.zip"
+    },
+    "5": {
+        "title": "Broken to the Fist",
+        "released": "2024-03-19",
+        "rating": "8.8",
+        "imdb_id": "tt8888600",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Shōgun\\Subtitles\\S1\\Shogun.2024.S01E05.WEB.H264-SuccessfulCrabS1E5.zip"
+    },
+    "6": {
+        "title": "Ladies of the Willow World",
+        "released": "2024-03-26",
+        "rating": "8.1",
+        "imdb_id": "tt8888602",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Shōgun\\Subtitles\\S1\\公方.Shogun.S01E06.WEBRip-DSN+S1E6.zip"
+    },
+    "7": {
+        "title": "A Stick of Time",
+        "released": "2024-04-02",
+        "rating": "8.3",
+        "imdb_id": "tt8888604",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Shōgun\\Subtitles\\S1\\公方.Shogun.S01E07.WEBRip-DSN+S1E7.zip"
+    },
+    "8": {
+        "title": "The Abyss of Life",
+        "released": "2024-04-09",
+        "rating": "8.9",
+        "imdb_id": "tt8888606",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Shōgun\\Subtitles\\S1\\公方.Shogun.S01E08.WEBRip-DSN+S1E8.zip"
+    },
+    "9": {
+        "title": "Crimson Sky",
+        "released": "2024-04-16",
+        "rating": "9.4",
+        "imdb_id": "tt8888610",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Shōgun\\Subtitles\\S1\\公方.Shogun.S01E09.WEBRip-DSN+S1E9.zip"
+    },
+    "10": {
+        "title": "A Dream of a Dream",
+        "released": "2024-04-23",
+        "rating": "8.5",
+        "imdb_id": "tt8888612",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

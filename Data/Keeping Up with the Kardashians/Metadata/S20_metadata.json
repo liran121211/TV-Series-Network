@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Beginnings and Endings",
+        "released": "2021-03-18",
+        "rating": "N/A",
+        "imdb_id": "tt13518958",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "No Comment",
+        "released": "2021-03-25",
+        "rating": "N/A",
+        "imdb_id": "tt14259762",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Winners Take All",
+        "released": "2021-04-01",
+        "rating": "N/A",
+        "imdb_id": "tt14313734",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Keeping Up with the Kardashians\\Subtitles\\S12\\SUBDL::keeping-up-with-the-kardashians-twelfth-season-english-3041184.zip"
+    },
+    "4": {
+        "title": "New Friends and the Bunker",
+        "released": "2021-04-08",
+        "rating": "N/A",
+        "imdb_id": "tt14316092",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Great Ex-pectations",
+        "released": "2021-04-15",
+        "rating": "4.8",
+        "imdb_id": "tt14390102",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Keeping Up with the Kardashians\\Subtitles\\S12\\SUBDL::keeping-up-with-the-kardashians-twelfth-season-english-3041184.zip"
+    },
+    "6": {
+        "title": "Summer of Love",
+        "released": "2021-04-22",
+        "rating": "N/A",
+        "imdb_id": "tt14390104",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The End of An Era",
+        "released": "2021-05-06",
+        "rating": "N/A",
+        "imdb_id": "tt14432806",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Keeping Up With the Kids",
+        "released": "2021-05-20",
+        "rating": "N/A",
+        "imdb_id": "tt14581294",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Birthdays and Bad News",
+        "released": "2021-05-27",
+        "rating": "N/A",
+        "imdb_id": "tt14630194",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Keeping Up with the Kardashians\\Subtitles\\S12\\SUBDL::keeping-up-with-the-kardashians-twelfth-season-english-3041184.zip"
+    },
+    "11": {
+        "title": "The End Part 1",
+        "released": "2021-06-03",
+        "rating": "5.7",
+        "imdb_id": "tt14630196",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The End Part 2",
+        "released": "2021-06-10",
+        "rating": "N/A",
+        "imdb_id": "tt14630206",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Final Curtain Part 1",
+        "released": "2021-06-17",
+        "rating": "N/A",
+        "imdb_id": "tt14811152",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Keeping Up with the Kardashians\\Subtitles\\S12\\SUBDL::keeping-up-with-the-kardashians-twelfth-season-english-3041184.zip"
+    },
+    "14": {
+        "title": "The Final Curtain Part 2",
+        "released": "2021-06-24",
+        "rating": "N/A",
+        "imdb_id": "tt14811156",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

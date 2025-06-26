@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "New City, New Drama",
+        "released": "2006-05-31",
+        "rating": "N/A",
+        "imdb_id": "tt0962380",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Hills\\Subtitles\\S1\\The.Hills.S01E01.WEBRip.NF_HI.en.zip"
+    },
+    "4": {
+        "title": "Lauren and Jason, Take 2",
+        "released": "2006-06-21",
+        "rating": "N/A",
+        "imdb_id": "tt0962378",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Hills\\Subtitles\\S1\\The.Hills.S01E04.WEBRip.NF_HI.en.zip"
+    },
+    "5": {
+        "title": "Jason's Birthday",
+        "released": "2006-06-28",
+        "rating": "N/A",
+        "imdb_id": "tt0962377",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Hills\\Subtitles\\S1\\The.Hills.S01E05.WEBRip.NF_HI.en.zip"
+    },
+    "6": {
+        "title": "Boyfriends and Work Don't Mix",
+        "released": "2006-07-05",
+        "rating": "N/A",
+        "imdb_id": "tt0962376",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Hills\\Subtitles\\S1\\The.Hills.S01E06.WEBRip.NF_HI.en.zip"
+    },
+    "7": {
+        "title": "Somebody Always Has to Cry",
+        "released": "2006-07-12",
+        "rating": "N/A",
+        "imdb_id": "tt0962382",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "You Can't Just Be with Me?",
+        "released": "2006-07-19",
+        "rating": "N/A",
+        "imdb_id": "tt0962386",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

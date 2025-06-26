@@ -1,0 +1,58 @@
+{
+    "2": {
+        "title": "Avsnitt 2",
+        "released": "2018-01-07",
+        "rating": "N/A",
+        "imdb_id": "tt7677222",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S4\\Bron.S04E02.SWEDiSH.720p.HDTV.x264-CCCAMS4E2.zip"
+    },
+    "3": {
+        "title": "Avsnitt 3",
+        "released": "2018-01-14",
+        "rating": "7.9",
+        "imdb_id": "tt7677230",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S4\\The.Bridge.2011.S04E03.720p.NRK.WEB-DL.AAC2.0.x264-BTWS4E3.zip"
+    },
+    "4": {
+        "title": "Avsnitt 4",
+        "released": "2018-01-21",
+        "rating": "N/A",
+        "imdb_id": "tt7677238",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S4\\Bron.S04E04.1080p.HDTV.H.264.DD5.1-HjaS4E4.zip"
+    },
+    "5": {
+        "title": "Avsnitt 5",
+        "released": "2018-01-28",
+        "rating": "N/A",
+        "imdb_id": "tt7336766",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S4\\The.Bridge.2011.S04E05.720p.NRK.WEB-DL.AAC2.0.x264-BTWS4E5.zip"
+    },
+    "6": {
+        "title": "Avsnitt 6",
+        "released": "2018-02-04",
+        "rating": "N/A",
+        "imdb_id": "tt7336768",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S4\\The.Bridge.2011.S04E06.720p.NRK.WEBRIP.AAC2.0.x264-BTWS4E6.zip"
+    },
+    "7": {
+        "title": "Avsnitt 7",
+        "released": "2018-02-11",
+        "rating": "N/A",
+        "imdb_id": "tt7336770",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Avsnitt 8",
+        "released": "2018-02-18",
+        "rating": "N/A",
+        "imdb_id": "tt7336772",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

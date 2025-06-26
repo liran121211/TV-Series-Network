@@ -1,0 +1,186 @@
+{
+    "1": {
+        "title": "Bart's Not Dead",
+        "released": "2018-09-30",
+        "rating": "6.3",
+        "imdb_id": "tt6225298",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S1\\The.Simpsons.S30E01.Bart's_Not_Dead.WEB.x264-TBSS1E1.zip"
+    },
+    "2": {
+        "title": "Heartbreak Hotel",
+        "released": "2018-10-07",
+        "rating": "6.2",
+        "imdb_id": "tt8340874",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S1\\The.Simpsons.S30E02.Heartbreak_Hotel.WEB.x264-TBSS1E2.zip"
+    },
+    "3": {
+        "title": "My Way or the Highway to Heaven",
+        "released": "2018-10-14",
+        "rating": "6.3",
+        "imdb_id": "tt8340876",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S1\\The.Simpsons.S30E03.My_Way_or_the_Highway_to_Heaven.TBSS1E3.zip"
+    },
+    "4": {
+        "title": "Treehouse of Horror XXIX",
+        "released": "2018-10-21",
+        "rating": "6.0",
+        "imdb_id": "tt7636822",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Baby You Can't Drive My Car",
+        "released": "2018-11-04",
+        "rating": "7.0",
+        "imdb_id": "tt8340884",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S1\\The.Simpsons.S30E05.WEB-DL.DSNPS1E5.zip"
+    },
+    "6": {
+        "title": "From Russia Without Love",
+        "released": "2018-11-11",
+        "rating": "N/A",
+        "imdb_id": "tt8340890",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S1\\The.Simpsons.S30E06.HDTV.x264-KILLERSS1E6.zip"
+    },
+    "7": {
+        "title": "Werking Mom",
+        "released": "2018-11-18",
+        "rating": "5.8",
+        "imdb_id": "tt7702262",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S1\\The.Simpsons.S30E07.XviD-AFGS1E7.zip"
+    },
+    "8": {
+        "title": "Krusty the Clown",
+        "released": "2018-11-25",
+        "rating": "6.5",
+        "imdb_id": "tt8340896",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S1\\The.Simpsons.S30E08.XviD-AFGS1E8.zip"
+    },
+    "9": {
+        "title": "Daddicus Finch",
+        "released": "2018-12-02",
+        "rating": "6.8",
+        "imdb_id": "tt8340898",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S1\\The.Simpsons.S30E09.WEB-DL.DSNPS1E9.zip"
+    },
+    "10": {
+        "title": "'Tis the 30th Season",
+        "released": "2018-12-09",
+        "rating": "6.7",
+        "imdb_id": "tt8730968",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Mad About the Toy",
+        "released": "2019-01-06",
+        "rating": "6.0",
+        "imdb_id": "tt8730984",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Girl on the Bus",
+        "released": "2019-01-13",
+        "rating": "6.5",
+        "imdb_id": "tt8730994",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "I'm Dancing as Fat as I Can",
+        "released": "2019-02-10",
+        "rating": "6.8",
+        "imdb_id": "tt8733696",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Clown Stays in the Picture",
+        "released": "2019-02-17",
+        "rating": "6.2",
+        "imdb_id": "tt8733692",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "101 Mitigations",
+        "released": "2019-03-03",
+        "rating": "6.5",
+        "imdb_id": "tt8845304",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "I Want You (She's So Heavy)",
+        "released": "2019-03-10",
+        "rating": "5.8",
+        "imdb_id": "tt8733700",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Episode #30.17",
+        "released": "2019-03-17",
+        "rating": "N/A",
+        "imdb_id": "tt9652748",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Bart vs. Itchy & Scratchy",
+        "released": "2019-03-24",
+        "rating": "5.1",
+        "imdb_id": "tt8733706",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Girl's in the Band",
+        "released": "2019-03-31",
+        "rating": "6.5",
+        "imdb_id": "tt8733708",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "I'm Just a Girl Who Can't Say D'oh",
+        "released": "2019-04-07",
+        "rating": "5.6",
+        "imdb_id": "tt8733716",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "D'oh Canada",
+        "released": "2019-04-28",
+        "rating": "5.8",
+        "imdb_id": "tt10126678",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Woo-Hoo Dunnit?",
+        "released": "2019-05-05",
+        "rating": "6.3",
+        "imdb_id": "tt10165342",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S23\\The.Simpsons.S23E22.HDTV.x264-LOL.HIS23E22.zip"
+    },
+    "23": {
+        "title": "Crystal Blue-Haired Persuasion",
+        "released": "2019-05-12",
+        "rating": "6.2",
+        "imdb_id": "tt10198852",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

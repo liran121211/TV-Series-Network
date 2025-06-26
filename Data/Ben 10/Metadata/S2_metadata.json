@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Truth",
+        "released": "2006-05-29",
+        "rating": "7.8",
+        "imdb_id": "tt0826286",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Big Tick",
+        "released": "2006-05-30",
+        "rating": "7.3",
+        "imdb_id": "tt0826284",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Framed",
+        "released": "2006-05-31",
+        "rating": "8.5",
+        "imdb_id": "tt0826281",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Gwen 10",
+        "released": "2006-06-04",
+        "rating": "7.7",
+        "imdb_id": "tt0826283",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Grudge Match",
+        "released": "2006-06-07",
+        "rating": "8.3",
+        "imdb_id": "tt0826282",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Galactic Enforcers",
+        "released": "2006-06-13",
+        "rating": "7.4",
+        "imdb_id": "tt0826285",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Camp Fear",
+        "released": "2006-06-21",
+        "rating": "7.8",
+        "imdb_id": "tt0826280",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Ultimate Weapon",
+        "released": "2006-07-06",
+        "rating": "7.6",
+        "imdb_id": "tt0847945",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Tough Luck",
+        "released": "2006-07-12",
+        "rating": "7.7",
+        "imdb_id": "tt0844405",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "They Lurk Below",
+        "released": "2006-07-18",
+        "rating": "N/A",
+        "imdb_id": "tt0847944",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Ghostfreaked Out",
+        "released": "2006-07-25",
+        "rating": "N/A",
+        "imdb_id": "tt0847943",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Dr. Animo and the Mutant Ray",
+        "released": "2006-08-25",
+        "rating": "N/A",
+        "imdb_id": "tt0859901",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Back with a Vengeance",
+        "released": "2006-10-09",
+        "rating": "N/A",
+        "imdb_id": "tt0879431",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

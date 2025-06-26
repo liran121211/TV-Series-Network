@@ -1,0 +1,2439 @@
+﻿1
+00:00:02,127 --> 00:00:04,754
+NARRATOR: Previously on
+Terminator: The Sarah Connor Chronicles:
+
+2
+00:00:04,922 --> 00:00:09,759
+SARAH: There's a warehouse in the desert.
+They're building something there. Metal.
+
+3
+00:00:09,927 --> 00:00:11,511
+- Who are you?
+- My name's Winston.
+
+4
+00:00:11,679 --> 00:00:12,762
+Where's the metal?
+
+5
+00:00:17,643 --> 00:00:20,061
+DEREK: I talked to your mom.
+She found something.
+
+6
+00:00:20,229 --> 00:00:23,356
+- Is it real this time?
+- I detected this audio transmission...
+
+7
+00:00:23,524 --> 00:00:26,651
+...on an unsecured line.
+MAN: Breach. Man shot at Heat and Air.
+
+8
+00:00:26,819 --> 00:00:28,778
+Shut the place down.
+
+9
+00:00:30,447 --> 00:00:34,117
+You mind telling me
+where you keep your demolition materials?
+
+10
+00:00:36,745 --> 00:00:40,748
+I hate funerals. Mom, everybody who
+knew anything about the factory is dead.
+
+11
+00:00:40,916 --> 00:00:42,750
+Well, I'm not.
+DIANA: Winston.
+
+12
+00:00:42,918 --> 00:00:44,711
+Did you know my husband, Sarah?
+
+13
+00:00:44,878 --> 00:00:47,296
+The whole place was wired. Every house.
+
+14
+00:00:47,464 --> 00:00:50,049
+Every move anyone ever made
+was being watched.
+
+15
+00:00:50,259 --> 00:00:53,553
+You're tired. You've been sick.
+Chasing killer robots will do that.
+
+16
+00:00:56,432 --> 00:00:58,933
+SARAH:
+Midnight is the witching hour.
+
+17
+00:01:00,269 --> 00:01:04,814
+If you believe that kind of thing,
+and most people won't admit it if they do...
+
+18
+00:01:07,151 --> 00:01:10,528
+...midnight is the time when a door
+opens from our world into the next...
+
+19
+00:01:10,696 --> 00:01:14,365
+...and we are visited by dark spirits
+of the shadow lands.
+
+20
+00:01:15,325 --> 00:01:21,122
+The incubus, the succubus, the old hag.
+Visitors are known by many names...
+
+21
+00:01:21,290 --> 00:01:23,499
+...but each story bears the same marks.
+
+22
+00:01:25,961 --> 00:01:29,338
+The demons come after midnight
+in the first three hours of the new day...
+
+23
+00:01:29,506 --> 00:01:33,468
+...when we are alone and vulnerable,
+deep asleep and helpless.
+
+24
+00:01:33,635 --> 00:01:34,677
+When we cannot move.
+
+25
+00:01:35,846 --> 00:01:40,975
+They lay on us, press on us, suffocate us,
+take from us what is most precious.
+
+26
+00:01:42,436 --> 00:01:47,023
+Our lives, our love, our sanity.
+
+27
+00:01:47,566 --> 00:01:49,484
+Our sleep.
+
+28
+00:01:52,654 --> 00:01:55,323
+If you believe in that kind of thing.
+
+29
+00:02:03,499 --> 00:02:04,540
+John.
+
+30
+00:02:04,708 --> 00:02:06,000
+[PHONE BEEPS]
+
+31
+00:02:06,418 --> 00:02:07,877
+Where are you?
+
+32
+00:02:08,045 --> 00:02:10,880
+SARAH:
+In an industrial park near downtown.
+
+33
+00:02:11,048 --> 00:02:13,549
+Mom, it's almost 12.
+I was hoping you were asleep.
+
+34
+00:02:14,009 --> 00:02:16,052
+Well, it didn't take.
+
+35
+00:02:16,595 --> 00:02:18,596
+JOHN:
+What are you doing?
+
+36
+00:02:19,097 --> 00:02:22,016
+I got a lead off the surveillance tapes
+of Charm Acres.
+
+37
+00:02:22,184 --> 00:02:24,769
+Yeah, how many hours of people
+sleeping did you watch?
+
+38
+00:02:24,978 --> 00:02:26,062
+All of them.
+
+39
+00:02:26,772 --> 00:02:28,397
+JOHN:
+So who are you?
+
+40
+00:02:28,565 --> 00:02:29,982
+SARAH:
+Western Iron and Metal.
+
+41
+00:02:30,192 --> 00:02:33,444
+They supplied metal tooling equipment
+to Desert Heat and Air.
+
+42
+00:02:34,196 --> 00:02:36,030
+You think they're connected to Skynet.
+
+43
+00:02:36,198 --> 00:02:38,699
+Get on the computer,
+find out who owns the place.
+
+44
+00:02:38,867 --> 00:02:39,909
+I'm on it.
+
+45
+00:02:53,924 --> 00:02:55,925
+[CLATTERING]
+
+46
+00:03:19,950 --> 00:03:21,951
+[ELECTRICAL BUZZING]
+
+47
+00:03:32,629 --> 00:03:34,630
+[GASPING]
+
+48
+00:03:37,968 --> 00:03:39,260
+HOBSON:
+Sarah.
+
+49
+00:03:39,428 --> 00:03:41,053
+Sarah.
+
+50
+00:03:41,221 --> 00:03:43,556
+Sarah. You had another nightmare.
+
+51
+00:03:43,765 --> 00:03:46,100
+I can't stay here anymore.
+
+52
+00:03:47,102 --> 00:03:50,229
+- You've only been here one night.
+- Feels a lot longer.
+
+53
+00:03:50,397 --> 00:03:53,065
+We don't have enough data
+to prescribe a treatment.
+
+54
+00:03:53,233 --> 00:03:56,152
+- The first night establishes a baseline.
+- I'll be fine.
+
+55
+00:03:56,361 --> 00:03:59,113
+You go home now,
+things will only get worse.
+
+56
+00:03:59,740 --> 00:04:03,200
+You think two weeks without sleep
+is bad? Try two or three years.
+
+57
+00:04:03,368 --> 00:04:04,410
+It happens.
+
+58
+00:04:05,913 --> 00:04:07,872
+Everyone needs their sleep.
+
+59
+00:04:08,081 --> 00:04:09,248
+Not everyone.
+
+60
+00:04:09,416 --> 00:04:11,626
+You do.
+
+61
+00:04:11,835 --> 00:04:14,253
+I'm going to get you coffee.
+But I have to warn you.
+
+62
+00:04:14,421 --> 00:04:16,714
+This is a decaf only facility, all right?
+
+63
+00:04:17,674 --> 00:04:19,091
+Hmm.
+
+64
+00:04:20,302 --> 00:04:22,303
+[LIGHTER CLICKING]
+
+65
+00:04:29,061 --> 00:04:30,561
+[IN BRITISH ACCENT]
+Can I help you?
+
+66
+00:04:30,729 --> 00:04:31,771
+Who are you?
+
+67
+00:04:31,980 --> 00:04:34,815
+I'm your roommate. Dana.
+
+68
+00:04:35,817 --> 00:04:36,859
+When did you get here?
+
+69
+00:04:37,027 --> 00:04:39,695
+I checked in last night
+while you were asleep.
+
+70
+00:04:39,863 --> 00:04:43,324
+Well, not really asleep. More like
+thrashing and screaming in your bed.
+
+71
+00:04:44,952 --> 00:04:46,118
+What's with the lighter?
+
+72
+00:04:47,204 --> 00:04:49,747
+- What lighter?
+- The one in your bra.
+
+73
+00:04:51,416 --> 00:04:53,834
+I'm trying to give up smoking.
+
+74
+00:04:54,044 --> 00:04:57,213
+- In a sleep clinic.
+- Yeah, I've got sleep problems too.
+
+75
+00:04:57,422 --> 00:04:59,966
+The doctors think it's related
+to my chronic fatigue.
+
+76
+00:05:00,133 --> 00:05:02,259
+Which was caused by my eating disorder.
+
+77
+00:05:02,427 --> 00:05:06,430
+Which is why I had the lap band surgery.
+You know, the staple in your stomach.
+
+78
+00:05:07,224 --> 00:05:11,727
+But are the doctors satisfied
+with that? No.
+
+79
+00:05:12,145 --> 00:05:15,022
+They want to take away all my vices.
+
+80
+00:05:15,440 --> 00:05:17,525
+Well, that's not gonna happen.
+
+81
+00:05:17,693 --> 00:05:21,404
+- A girl's gotta sin sometime.
+- Hence the smoking.
+
+82
+00:05:21,947 --> 00:05:23,990
+Yeah, that and the younger men.
+
+83
+00:05:24,199 --> 00:05:26,200
+[FOOTSTEPS APPROACHING]
+
+84
+00:05:26,702 --> 00:05:29,161
+- Mom.
+- Hey, Tiger.
+
+85
+00:05:30,122 --> 00:05:32,873
+Hello. Uh... Ahem.
+
+86
+00:05:33,041 --> 00:05:35,292
+It's visiting time.
+Cameron's in the cafeteria.
+
+87
+00:05:35,460 --> 00:05:37,211
+DANA [WHISPERING]:
+Hey. Do me a favor.
+
+88
+00:05:37,838 --> 00:05:39,672
+Let's keep this our little secret.
+
+89
+00:05:48,223 --> 00:05:50,641
+Scrambled or hard boiled?
+
+90
+00:05:50,809 --> 00:05:51,851
+Scrambled.
+
+91
+00:05:52,060 --> 00:05:56,188
+You need a carbohydrate that makes
+up 15 percent of your daily allowance.
+
+92
+00:05:57,315 --> 00:05:59,233
+Those won't be as good as yours.
+
+93
+00:06:02,738 --> 00:06:04,071
+You made pancakes?
+
+94
+00:06:04,656 --> 00:06:07,033
+I added a teaspoon of vanilla
+to your recipe.
+
+95
+00:06:07,200 --> 00:06:10,786
+- I don't have a recipe.
+- The recipe on the box.
+
+96
+00:06:20,756 --> 00:06:22,506
+Not as good as hers?
+
+97
+00:06:22,716 --> 00:06:24,300
+Not as good as food.
+
+98
+00:06:24,468 --> 00:06:27,178
+Tomorrow, I'll bring you
+something real to eat.
+
+99
+00:06:27,804 --> 00:06:30,139
+- They have anything to say?
+- About what?
+
+100
+00:06:30,307 --> 00:06:32,933
+About what?
+About why you're not sleeping.
+
+101
+00:06:33,101 --> 00:06:34,518
+They figured out why?
+
+102
+00:06:34,728 --> 00:06:37,229
+Besides the fact
+the world's about to end?
+
+103
+00:06:38,523 --> 00:06:39,940
+You used to sleep well.
+
+104
+00:06:40,525 --> 00:06:43,152
+I shouldn't be here. I should be at home.
+
+105
+00:06:43,779 --> 00:06:46,113
+We're fine at home. Everything's fine.
+
+106
+00:06:46,323 --> 00:06:47,323
+[SCOFFS]
+
+107
+00:06:47,491 --> 00:06:49,408
+This was a mistake.
+
+108
+00:06:50,243 --> 00:06:53,496
+No, this... This is necessary.
+
+109
+00:06:55,082 --> 00:06:56,707
+Mom...
+
+110
+00:06:57,542 --> 00:06:59,168
+...you're useless like this.
+
+111
+00:06:59,377 --> 00:07:01,712
+Look at yourself.
+You haven't slept in two weeks.
+
+112
+00:07:01,880 --> 00:07:03,255
+You fell down the stairs.
+
+113
+00:07:03,423 --> 00:07:06,842
+If you don't take care of yourself,
+something worse might happen.
+
+114
+00:07:07,010 --> 00:07:09,220
+You need to get better.
+
+115
+00:07:10,305 --> 00:07:11,806
+I need you to get better.
+
+116
+00:07:15,852 --> 00:07:17,478
+Don't forget.
+
+117
+00:07:20,482 --> 00:07:21,607
+You're not her.
+
+118
+00:07:24,402 --> 00:07:26,779
+Please, get some sleep.
+
+119
+00:07:58,854 --> 00:08:00,479
+[GASPS]
+
+120
+00:08:03,859 --> 00:08:05,860
+[ROCK MUSIC
+PLAYING OVER STEREO]
+
+121
+00:08:24,963 --> 00:08:26,255
+[ENGINE AND MUSIC STOP]
+
+122
+00:08:29,009 --> 00:08:30,426
+[DOOR SLAMS]
+
+123
+00:08:33,805 --> 00:08:34,847
+[DOOR OPENS]
+
+124
+00:08:41,938 --> 00:08:42,980
+You're dead.
+
+125
+00:08:44,524 --> 00:08:47,651
+- I killed you.
+- And I killed you.
+
+126
+00:08:50,739 --> 00:08:53,407
+One of us is gonna have to step it up.
+
+127
+00:08:56,244 --> 00:08:57,578
+[GRUNTS]
+
+128
+00:09:14,179 --> 00:09:16,180
+So.
+
+129
+00:09:17,057 --> 00:09:19,308
+You want to know who I am?
+
+130
+00:09:22,562 --> 00:09:24,355
+It's the first thing most people ask.
+
+131
+00:09:24,522 --> 00:09:27,858
+First thing out of their mouths when
+the gag comes off. "Who are you?"
+
+132
+00:09:28,026 --> 00:09:31,111
+And they keep asking it
+over and over again.
+
+133
+00:09:33,406 --> 00:09:38,744
+Psychiatrists say naming things
+gives people power over them.
+
+134
+00:09:38,912 --> 00:09:40,454
+They're dead wrong on that.
+
+135
+00:09:41,623 --> 00:09:43,624
+I already know who you are.
+
+136
+00:09:43,833 --> 00:09:46,126
+Oh, yeah. Right. I forgot.
+
+137
+00:09:46,294 --> 00:09:52,007
+And you found Western Iron and Metal.
+
+138
+00:09:56,263 --> 00:09:57,304
+[WHIMPERS]
+
+139
+00:09:57,472 --> 00:10:02,768
+Course, I wouldn't expect anything less
+from the girl that used a cross-dresser...
+
+140
+00:10:02,936 --> 00:10:05,854
+...and a hypno-therapist to find us.
+
+141
+00:10:06,022 --> 00:10:08,941
+You know, I gotta admit,
+I didn't see that one coming.
+
+142
+00:10:10,318 --> 00:10:12,319
+You won't see
+the next one coming, either.
+
+143
+00:10:12,529 --> 00:10:14,863
+No, no. I beg to differ, ma'am.
+I beg to differ.
+
+144
+00:10:15,073 --> 00:10:17,366
+So who do you work for?
+
+145
+00:10:17,534 --> 00:10:18,784
+I work alone.
+
+146
+00:10:19,369 --> 00:10:23,247
+Somebody blew up our factory
+while you were getting patched up.
+
+147
+00:10:24,374 --> 00:10:26,292
+Was that your boyfriend on the phone?
+
+148
+00:10:26,501 --> 00:10:31,297
+What are you guys, some kind of
+a Bonnie-and-Clyde-type operation?
+
+149
+00:10:35,302 --> 00:10:38,304
+I said, was that your Clyde on the phone?
+
+150
+00:10:41,891 --> 00:10:43,976
+Why don't you come closer
+and I'll tell you?
+
+151
+00:10:44,477 --> 00:10:48,647
+So you can bite my face off?
+No. I don't think so.
+
+152
+00:10:51,818 --> 00:10:53,777
+See those seeds?
+
+153
+00:10:56,448 --> 00:10:59,408
+I go through about a bag in three hours.
+
+154
+00:10:59,909 --> 00:11:02,328
+Little habit I picked up
+when I quit smoking.
+
+155
+00:11:03,580 --> 00:11:07,833
+Before I finish that bag,
+you're gonna talk.
+
+156
+00:11:08,001 --> 00:11:09,043
+Special recipe.
+
+157
+00:11:09,627 --> 00:11:11,003
+Uhn.
+
+158
+00:11:11,880 --> 00:11:14,673
+It'll have you singing like Sunday choir.
+
+159
+00:11:21,723 --> 00:11:23,265
+What's wrong? Gel too cold?
+
+160
+00:11:24,559 --> 00:11:26,894
+Most people don't like
+the electrodes first time.
+
+161
+00:11:27,062 --> 00:11:30,731
+Makes them feel like Frankenstein.
+You'll get used to it.
+
+162
+00:11:30,899 --> 00:11:34,526
+- I'm willing to bet you sleep better tonight.
+- What's happening to me?
+
+163
+00:11:35,862 --> 00:11:37,780
+Let me show you something.
+
+164
+00:11:40,492 --> 00:11:43,827
+These are our observation machines.
+
+165
+00:11:45,705 --> 00:11:47,206
+And this is your chart.
+
+166
+00:11:48,083 --> 00:11:50,084
+There are five stages to the sleep cycle.
+
+167
+00:11:50,251 --> 00:11:53,379
+The fifth stage is the most active.
+Increased respiration rate...
+
+168
+00:11:53,546 --> 00:11:55,839
+- ...blood pressure, brain activity.
+- REM sleep.
+
+169
+00:11:56,007 --> 00:11:57,508
+When most dreaming occurs.
+
+170
+00:11:58,259 --> 00:12:02,513
+It's rare, but sometimes night terrors
+like the ones you're experiencing can...
+
+171
+00:12:02,680 --> 00:12:04,848
+I never said I was experiencing
+night terrors.
+
+172
+00:12:05,058 --> 00:12:08,852
+You didn't have to. Your chart tells us
+everything we need to know.
+
+173
+00:12:09,020 --> 00:12:11,188
+Night terrors can be caused
+by a brain tumor.
+
+174
+00:12:12,565 --> 00:12:13,607
+Cancer.
+
+175
+00:12:13,817 --> 00:12:18,112
+Which, far as we can tell, you don't have.
+MRI showed your brain was clear.
+
+176
+00:12:18,279 --> 00:12:22,116
+No heart disease, nocturnal asthma,
+or sleep apnea.
+
+177
+00:12:22,659 --> 00:12:24,993
+What's wrong with you is in your head.
+
+178
+00:12:25,203 --> 00:12:28,080
+And by your head, I mean your mind.
+
+179
+00:12:28,248 --> 00:12:30,958
+Therapy to reduce anxiety
+is part of the usual treatment.
+
+180
+00:12:31,126 --> 00:12:33,168
+Have you ever seen a therapist?
+
+181
+00:12:33,336 --> 00:12:36,004
+A lot of people find talking one on one
+to be helpful...
+
+182
+00:12:36,172 --> 00:12:39,216
+- ...in breaking down what's going on.
+- I tried it. Didn't take.
+
+183
+00:12:39,426 --> 00:12:42,302
+How about a prescription?
+Diazepam usually helps.
+
+184
+00:12:42,512 --> 00:12:43,595
+Don't like drugs.
+
+185
+00:12:44,806 --> 00:12:49,268
+Speaking of drugs, has your roommate
+been smoking again?
+
+186
+00:12:53,648 --> 00:12:55,816
+I'm not interested in being
+anybody's mother.
+
+187
+00:12:55,984 --> 00:12:58,694
+I've got two kids of my own
+and that's enough.
+
+188
+00:13:05,034 --> 00:13:06,201
+Did you know about this?
+
+189
+00:13:08,204 --> 00:13:11,415
+Besides all the other obvious hazards,
+nicotine is a stimulant.
+
+190
+00:13:11,624 --> 00:13:14,251
+Hits the brain in seconds,
+adds 20 heartbeats per minute.
+
+191
+00:13:14,419 --> 00:13:18,130
+I quit smoking years ago.
+I've got too much excitement in my life.
+
+192
+00:13:18,298 --> 00:13:19,339
+[CHUCKLES]
+
+193
+00:13:19,507 --> 00:13:21,049
+Yeah, don't we all?
+
+194
+00:13:21,926 --> 00:13:24,887
+Well, I have to file a report on this.
+
+195
+00:13:26,764 --> 00:13:28,932
+I'll be back later
+to attach your electrodes.
+
+196
+00:13:46,409 --> 00:13:50,370
+It's a dreamcatcher.
+It's supposed to catch nightmares.
+
+197
+00:13:50,538 --> 00:13:51,997
+Hector made me one too.
+
+198
+00:13:52,207 --> 00:13:54,583
+- Hector?
+- The cleaning guy.
+
+199
+00:13:54,751 --> 00:13:58,128
+You know, papi chulo
+with the neck tattoo.
+
+200
+00:13:59,964 --> 00:14:01,089
+You look tired.
+
+201
+00:14:02,217 --> 00:14:04,051
+You should take that as a compliment.
+
+202
+00:14:06,596 --> 00:14:08,805
+I ran into Nurse Ratched in the hallway.
+
+203
+00:14:09,015 --> 00:14:13,977
+She smacked my bum for the cigarette
+and gave me some sleeping pills.
+
+204
+00:14:15,396 --> 00:14:16,605
+The good stuff.
+
+205
+00:14:17,899 --> 00:14:20,108
+So, what about you?
+
+206
+00:14:20,276 --> 00:14:22,694
+Drowning? Being chased?
+Teeth falling out?
+
+207
+00:14:22,904 --> 00:14:24,905
+Being chased should probably cover it.
+
+208
+00:14:25,114 --> 00:14:28,575
+You're running away from something
+you don't want to deal with.
+
+209
+00:14:28,743 --> 00:14:30,410
+Least that's what they say, anyway.
+
+210
+00:14:31,913 --> 00:14:33,288
+And you?
+
+211
+00:14:33,456 --> 00:14:37,543
+Oh, I burn alive. Yeah, my whole body
+just catches on fire.
+
+212
+00:14:37,710 --> 00:14:40,087
+I try and I try
+and I can't put myself out.
+
+213
+00:14:40,296 --> 00:14:45,509
+- Anxiety about quitting smoking.
+- That, or I was a witch in another life.
+
+214
+00:14:46,344 --> 00:14:50,138
+They say if you die in your dreams,
+you die in real life.
+
+215
+00:14:51,724 --> 00:14:54,601
+Oh, I've died a thousand times.
+
+216
+00:14:55,061 --> 00:14:56,937
+Never gets any easier.
+
+217
+00:14:58,648 --> 00:15:00,274
+For all nightmares it's caught...
+
+218
+00:15:00,441 --> 00:15:03,360
+...I'm surprised it hasn't spilled them
+out all over the bed.
+
+219
+00:15:05,613 --> 00:15:07,614
+Do the bad guys ever catch you?
+
+220
+00:15:11,452 --> 00:15:12,494
+[ELECTRICAL BUZZING]
+
+221
+00:15:23,089 --> 00:15:25,007
+[INHALES DEEPLY]
+
+222
+00:15:31,431 --> 00:15:34,600
+That's quite a collection.
+
+223
+00:15:35,560 --> 00:15:38,228
+Bullet wounds. Stabbings.
+
+224
+00:15:41,608 --> 00:15:43,150
+Emergency C-section.
+
+225
+00:15:50,283 --> 00:15:53,076
+But that's plenty old, that last one.
+
+226
+00:15:53,953 --> 00:15:57,623
+Your child must be 15,
+maybe 20 by now.
+
+227
+00:16:01,294 --> 00:16:03,503
+They'll kill you.
+
+228
+00:16:03,671 --> 00:16:05,547
+Just like they killed everyone else.
+
+229
+00:16:06,174 --> 00:16:08,800
+- They?
+- Your bosses. Kaliba.
+
+230
+00:16:10,970 --> 00:16:14,848
+They blew up your factory.
+Killed 30 of their own people.
+
+231
+00:16:15,058 --> 00:16:16,767
+Lady, you're insane.
+
+232
+00:16:16,976 --> 00:16:20,312
+Why would anyone blow up
+their own factory?
+
+233
+00:16:20,855 --> 00:16:22,356
+To hide what you were building.
+
+234
+00:16:22,565 --> 00:16:23,899
+And what was that?
+
+235
+00:16:24,734 --> 00:16:26,526
+The End.
+
+236
+00:16:27,236 --> 00:16:30,030
+You're very dramatic.
+
+237
+00:16:34,702 --> 00:16:35,744
+Diana...
+
+238
+00:16:39,040 --> 00:16:40,582
+...thought you were a good man.
+
+239
+00:16:44,545 --> 00:16:46,880
+What do you think she'd say
+if she saw you now?
+
+240
+00:16:49,801 --> 00:16:51,551
+You...
+
+241
+00:16:53,012 --> 00:16:55,555
+You leave my wife out of this...
+
+242
+00:16:55,723 --> 00:16:58,642
+...you crazy bitch.
+
+243
+00:17:00,269 --> 00:17:01,728
+[GRUNTING, GROANING]
+
+244
+00:17:54,115 --> 00:17:55,824
+Dana.
+
+245
+00:17:57,285 --> 00:18:03,165
+Dana, wake up.
+
+246
+00:18:34,739 --> 00:18:42,739
+[ELEVATOR BELL DINGS]
+
+247
+00:19:01,015 --> 00:19:02,974
+[KEYPAD CHIRPING]
+
+248
+00:19:51,023 --> 00:19:52,649
+[CURTAIN OPENING]
+
+249
+00:19:55,111 --> 00:19:58,905
+Your electrodes came off last night.
+Did you take them off?
+
+250
+00:19:59,949 --> 00:20:01,199
+I don't remember.
+
+251
+00:20:02,451 --> 00:20:03,618
+Are you a sleepwalker?
+
+252
+00:20:04,453 --> 00:20:05,829
+It's happened once or twice.
+
+253
+00:20:07,206 --> 00:20:09,332
+You didn't mention that in your intake.
+
+254
+00:20:09,500 --> 00:20:11,418
+It must have slipped my mind. I'm sorry.
+
+255
+00:20:11,627 --> 00:20:14,254
+So you don't remember
+getting out of bed last night?
+
+256
+00:20:17,466 --> 00:20:19,968
+I don't remember anything.
+
+257
+00:20:30,021 --> 00:20:32,314
+Salvador Dali often explored the
+subconscious...
+
+258
+00:20:32,481 --> 00:20:35,108
+...and the dream world in his work.
+
+259
+00:20:35,943 --> 00:20:37,986
+Are your dreams like this painting?
+
+260
+00:20:41,240 --> 00:20:43,366
+Everyone's dreams are different.
+
+261
+00:20:43,534 --> 00:20:45,744
+Guess it depends on
+what's stuck in your head.
+
+262
+00:20:53,252 --> 00:20:55,170
+Gaah... Come on.
+
+263
+00:20:55,338 --> 00:20:56,671
+What's it like to dream?
+
+264
+00:20:58,007 --> 00:20:59,257
+Oh...
+
+265
+00:20:59,425 --> 00:21:01,092
+Um...
+
+266
+00:21:02,553 --> 00:21:06,014
+It's sort of like you're in a play
+or a movie...
+
+267
+00:21:06,182 --> 00:21:09,392
+...and it looks real and it feels real.
+
+268
+00:21:10,519 --> 00:21:11,978
+How do you know it's not real?
+
+269
+00:21:13,022 --> 00:21:14,189
+Sometimes you don't.
+
+270
+00:21:17,526 --> 00:21:18,526
+[POUNDING ON GLASS]
+
+271
+00:21:18,694 --> 00:21:20,445
+[JOHN GRUNTS]
+
+272
+00:21:20,738 --> 00:21:22,614
+[SIGHS]
+
+273
+00:21:25,326 --> 00:21:27,494
+Hey. Hey. Be careful.
+
+274
+00:21:29,205 --> 00:21:31,539
+[COINS CLINKING]
+
+275
+00:21:32,500 --> 00:21:34,209
+Yes, thank you.
+
+276
+00:21:36,379 --> 00:21:37,796
+John.
+
+277
+00:21:39,006 --> 00:21:40,048
+What's wrong?
+
+278
+00:21:49,558 --> 00:21:51,226
+Something strange is going on here.
+
+279
+00:21:52,186 --> 00:21:53,228
+Like what?
+
+280
+00:21:53,396 --> 00:21:58,733
+I woke up last night and saw the nurse
+giving my roommate a shot.
+
+281
+00:22:00,820 --> 00:22:05,407
+Okay, well, it's a medical clinic.
+So, what's strange about that?
+
+282
+00:22:05,616 --> 00:22:09,077
+She was passed out.
+She'd already taken sleeping pills.
+
+283
+00:22:10,955 --> 00:22:16,418
+So you think the nurse is, what,
+like the angel of death?
+
+284
+00:22:16,627 --> 00:22:20,046
+After she gave her the shot,
+she went to a room in the basement.
+
+285
+00:22:27,763 --> 00:22:29,764
+[INAUDIBLE DIALOGUE]
+
+286
+00:22:32,268 --> 00:22:33,768
+Well, she looks all right.
+
+287
+00:22:33,936 --> 00:22:36,271
+No, she's not.
+
+288
+00:22:37,481 --> 00:22:39,482
+No one is.
+
+289
+00:22:42,153 --> 00:22:43,945
+Mom.
+
+290
+00:22:44,572 --> 00:22:45,780
+Did you sleep last night?
+
+291
+00:22:45,948 --> 00:22:47,741
+You think I'm making this up?
+
+292
+00:22:47,908 --> 00:22:52,287
+No. I don't think you're making this up.
+It's just...
+
+293
+00:22:53,289 --> 00:22:54,372
+You're a mess.
+
+294
+00:22:54,582 --> 00:22:57,000
+Don't be fooled, John.
+
+295
+00:22:57,251 --> 00:23:00,128
+Don't be fooled by anyone's face.
+
+296
+00:23:01,130 --> 00:23:03,465
+You don't know
+what's behind anyone's face.
+
+297
+00:23:04,800 --> 00:23:06,885
+You're talking about
+the guy at the factory.
+
+298
+00:23:10,973 --> 00:23:12,807
+The one who shot you.
+
+299
+00:23:12,975 --> 00:23:14,601
+The one you shot.
+
+300
+00:23:14,810 --> 00:23:16,644
+We don't talk about that.
+
+301
+00:23:16,812 --> 00:23:20,148
+- We can talk about anything.
+- No, we can't.
+
+302
+00:23:21,984 --> 00:23:23,610
+Is he the one in your nightmares?
+
+303
+00:23:27,531 --> 00:23:31,326
+It's always the same.
+He comes out of nowhere. He grabs me.
+
+304
+00:23:33,996 --> 00:23:35,538
+Takes me hostage in a van.
+
+305
+00:23:40,669 --> 00:23:42,670
+What does he want?
+
+306
+00:23:44,131 --> 00:23:48,009
+To know who I am. Who I'm
+working with. He has me tied up.
+
+307
+00:23:48,177 --> 00:23:49,719
+Drugged.
+
+308
+00:23:50,304 --> 00:23:51,471
+He isn't real.
+
+309
+00:23:52,348 --> 00:23:54,349
+He can't hurt you anymore.
+
+310
+00:23:54,517 --> 00:23:58,686
+He's in my head, and I can't get him out.
+
+311
+00:23:59,855 --> 00:24:01,314
+Look at me.
+
+312
+00:24:03,818 --> 00:24:08,363
+You did what you had to do.
+You defended yourself.
+
+313
+00:24:11,200 --> 00:24:14,702
+I'm not supposed to defend myself.
+
+314
+00:24:15,037 --> 00:24:17,705
+I'm supposed to defend you.
+
+315
+00:24:17,957 --> 00:24:19,582
+HOBSON:
+Nap time.
+
+316
+00:24:21,335 --> 00:24:24,045
+Don't worry. We'll get her
+to close her eyes. Come on.
+
+317
+00:24:44,066 --> 00:24:45,150
+[GASPS, GROANS]
+
+318
+00:24:47,403 --> 00:24:49,112
+My wife.
+
+319
+00:24:50,239 --> 00:24:53,074
+What was she wearing? At my funeral.
+
+320
+00:24:53,242 --> 00:24:55,285
+Black.
+
+321
+00:24:55,536 --> 00:24:59,581
+Hair down or back?
+
+322
+00:24:59,748 --> 00:25:01,624
+Down. And earrings. Pearls.
+
+323
+00:25:02,877 --> 00:25:04,878
+I bought those for her birthday.
+
+324
+00:25:05,087 --> 00:25:06,546
+Salary must be good.
+
+325
+00:25:08,424 --> 00:25:09,883
+It's the best part of the job.
+
+326
+00:25:10,593 --> 00:25:11,634
+And the worst?
+
+327
+00:25:14,054 --> 00:25:15,597
+You saw the tapes.
+
+328
+00:25:15,806 --> 00:25:16,931
+- Yeah.
+- So you know.
+
+329
+00:25:17,099 --> 00:25:18,766
+Yes.
+
+330
+00:25:22,897 --> 00:25:24,606
+The first one was the hardest.
+
+331
+00:25:25,274 --> 00:25:27,025
+Frank?
+
+332
+00:25:27,902 --> 00:25:30,236
+Your neighbor. His son played lacrosse.
+
+333
+00:25:30,905 --> 00:25:35,950
+He borrowed my lawn mower
+every Friday.
+
+334
+00:25:36,785 --> 00:25:37,869
+[SIGHS]
+
+335
+00:25:38,037 --> 00:25:40,121
+He never cleaned the bag.
+
+336
+00:25:40,331 --> 00:25:42,624
+Why would they want him dead?
+
+337
+00:25:43,125 --> 00:25:48,630
+He kept the books.
+Handled the overseas business.
+
+338
+00:25:49,006 --> 00:25:50,173
+He was a drunk.
+
+339
+00:25:50,341 --> 00:25:52,550
+Overseas? So your bosses are foreign.
+
+340
+00:25:53,802 --> 00:25:56,846
+They fixed me up after you shot me.
+
+341
+00:25:57,473 --> 00:25:59,766
+Put me in a private clinic.
+
+342
+00:26:00,142 --> 00:26:04,145
+And I thought it was
+because they were being kind.
+
+343
+00:26:04,313 --> 00:26:06,481
+Then I realized.
+
+344
+00:26:06,649 --> 00:26:09,150
+They're just patching me up
+so I can do my job.
+
+345
+00:26:09,360 --> 00:26:10,944
+What's your job?
+
+346
+00:26:12,363 --> 00:26:14,364
+Like I said...
+
+347
+00:26:14,990 --> 00:26:16,658
+...the first one was the hardest.
+
+348
+00:26:18,702 --> 00:26:20,119
+You were my first.
+
+349
+00:26:22,790 --> 00:26:24,624
+Seem surprised.
+
+350
+00:26:24,833 --> 00:26:29,295
+Well, I just figured,
+a bad-ass gal like yourself...
+
+351
+00:26:29,463 --> 00:26:31,130
+Never.
+
+352
+00:26:32,675 --> 00:26:36,511
+Well, I'm glad I didn't break your streak.
+
+353
+00:26:41,600 --> 00:26:43,851
+I can help you disappear.
+You and your wife.
+
+354
+00:26:45,437 --> 00:26:49,190
+Hmm. They'll hunt us down.
+They'll slaughter us.
+
+355
+00:26:49,400 --> 00:26:52,819
+There are ways to keep them off
+your trail. Things I've learned.
+
+356
+00:26:54,363 --> 00:26:56,197
+- Like what?
+- You ditch the van.
+
+357
+00:26:56,365 --> 00:26:59,534
+Get a new car.
+Check into an expensive hotel.
+
+358
+00:26:59,702 --> 00:27:03,371
+The most expensive you can find.
+They'll always expect the opposite.
+
+359
+00:27:03,539 --> 00:27:05,248
+You have my phone.
+
+360
+00:27:05,749 --> 00:27:08,251
+When I get back to my people,
+I'll call you.
+
+361
+00:27:09,044 --> 00:27:12,005
+But we have to move fast
+so they don't know what's happening.
+
+362
+00:27:18,429 --> 00:27:20,346
+Her smell.
+
+363
+00:27:22,558 --> 00:27:26,561
+It's what I miss the most.
+Like clean laundry.
+
+364
+00:28:01,597 --> 00:28:03,014
+Aah!
+
+365
+00:28:04,058 --> 00:28:06,684
+Oh! You didn't see that one coming? Hmm?
+
+366
+00:28:06,852 --> 00:28:08,853
+[ALARM BLARING]
+
+367
+00:28:09,772 --> 00:28:11,773
+[ALARM BLARING, FIRE CRACKLING]
+
+368
+00:28:14,777 --> 00:28:16,110
+Dana.
+
+369
+00:28:17,780 --> 00:28:19,280
+HOBSON: Get out of the room.
+- Dana.
+
+370
+00:28:19,448 --> 00:28:20,948
+Get out of the room.
+
+371
+00:28:21,116 --> 00:28:23,826
+- She's in there. She's in there.
+- Get her out of the way.
+
+372
+00:28:23,994 --> 00:28:27,830
+Is she in there? She's in there.
+MAN: Come on.
+
+373
+00:28:33,337 --> 00:28:34,962
+Hello?
+
+374
+00:28:35,130 --> 00:28:38,091
+Remember I told you something strange
+was going on?
+
+375
+00:28:43,972 --> 00:28:45,640
+Uh, the... The nurse.
+
+376
+00:28:45,891 --> 00:28:46,974
+My roommate's dead.
+
+377
+00:28:47,142 --> 00:28:49,477
+She died last night in a fire.
+
+378
+00:28:49,645 --> 00:28:52,063
+They're trying to claim
+it's some accident.
+
+379
+00:28:52,231 --> 00:28:53,898
+Maybe you should come home.
+
+380
+00:28:54,108 --> 00:28:56,109
+No. Not now.
+
+381
+00:28:59,488 --> 00:29:01,572
+[WOMAN COUGHS, CLEARS THROAT]
+
+382
+00:29:01,740 --> 00:29:04,951
+First of all, I'd like to give you an update
+on Dana's condition.
+
+383
+00:29:05,119 --> 00:29:08,079
+There's a rumor going around
+that she didn't pull through.
+
+384
+00:29:08,831 --> 00:29:14,001
+That's not the case. Dana is in extremely
+critical condition, but she is still alive.
+
+385
+00:29:14,253 --> 00:29:17,755
+This has been a traumatic experience
+for all of us.
+
+386
+00:29:18,424 --> 00:29:21,843
+Patients, if you choose to leave the clinic,
+you may return any time...
+
+387
+00:29:22,010 --> 00:29:25,763
+...to complete your treatment.
+However, it would be of great value to us...
+
+388
+00:29:25,931 --> 00:29:30,685
+...and to you, if we were to evaluate
+your sleep patterns during this duress.
+
+389
+00:29:30,936 --> 00:29:34,772
+Whatever you choose,
+we fully support your decision.
+
+390
+00:29:35,357 --> 00:29:37,358
+[CROWD MURMURING]
+
+391
+00:29:40,028 --> 00:29:41,696
+HOBSON:
+Ms. Baum.
+
+392
+00:29:42,448 --> 00:29:44,532
+I hear you've decided to stay.
+
+393
+00:29:45,284 --> 00:29:46,367
+I have.
+
+394
+00:29:46,535 --> 00:29:50,955
+An incident like this increases cortisol.
+You may find it more difficult to sleep.
+
+395
+00:29:51,165 --> 00:29:52,206
+Here.
+
+396
+00:29:53,709 --> 00:29:55,042
+These should help.
+
+397
+00:29:56,462 --> 00:29:57,628
+Diazepam.
+
+398
+00:29:57,838 --> 00:30:00,715
+Like I said,
+standard treatment for insomnia.
+
+399
+00:30:01,842 --> 00:30:03,509
+You should take them now.
+
+400
+00:30:14,938 --> 00:30:16,314
+Good.
+
+401
+00:30:36,460 --> 00:30:38,085
+I've been meaning to say thank you.
+
+402
+00:30:40,005 --> 00:30:42,006
+For the dreamcatcher.
+
+403
+00:30:42,758 --> 00:30:44,425
+You make them for all the patients?
+
+404
+00:30:44,968 --> 00:30:46,385
+Just the ones who need them.
+
+405
+00:30:46,887 --> 00:30:49,222
+The ones who have nightmares.
+
+406
+00:30:51,475 --> 00:30:53,059
+Did you know her well?
+
+407
+00:30:53,769 --> 00:30:55,102
+She ain't dead.
+
+408
+00:30:55,354 --> 00:30:57,730
+Right. Sorry.
+
+409
+00:30:59,691 --> 00:31:02,276
+She kept saying she dreamt
+she died in a fire.
+
+410
+00:31:04,613 --> 00:31:06,739
+Maybe I should have made
+her a bigger one.
+
+411
+00:31:06,949 --> 00:31:09,075
+Nightmare didn't burn her.
+A cigarette did.
+
+412
+00:31:11,245 --> 00:31:13,621
+She should've taken charge.
+
+413
+00:31:14,039 --> 00:31:15,122
+Taken charge?
+
+414
+00:31:15,290 --> 00:31:19,126
+Of what was going on inside her head.
+Controlled it.
+
+415
+00:31:19,294 --> 00:31:21,462
+- You believe it, then?
+- Of course I do.
+
+416
+00:31:30,264 --> 00:31:33,307
+Coyote.
+Does it have mystical significance?
+
+417
+00:31:33,809 --> 00:31:36,060
+Does it protect you? Guide you?
+
+418
+00:31:36,270 --> 00:31:38,896
+This? No.
+
+419
+00:31:39,106 --> 00:31:42,400
+This was for my girl. She thinks it's sexy.
+
+420
+00:31:53,662 --> 00:31:55,997
+- Tell me a story.
+- Go to hell.
+
+421
+00:31:56,331 --> 00:31:57,748
+Ha.
+
+422
+00:31:58,792 --> 00:32:01,669
+What most people know
+about torture is bullcrap.
+
+423
+00:32:01,837 --> 00:32:06,299
+It's not the pain that gets people to talk.
+It's the talking that causes people pain.
+
+424
+00:32:07,843 --> 00:32:09,635
+So tell me a story.
+
+425
+00:32:09,803 --> 00:32:11,929
+You told me a story once,
+in the warehouse.
+
+426
+00:32:12,097 --> 00:32:14,348
+Story about your son.
+
+427
+00:32:15,517 --> 00:32:18,644
+That's when you let me go. Ha.
+
+428
+00:32:19,187 --> 00:32:20,688
+Looking back on it, it's funny.
+
+429
+00:32:21,273 --> 00:32:23,357
+You don't strike me
+as the sentimental type.
+
+430
+00:32:23,567 --> 00:32:25,276
+Your story, not mine.
+
+431
+00:32:26,570 --> 00:32:28,696
+Yeah, but you believed it.
+
+432
+00:32:31,366 --> 00:32:33,284
+You believed it...
+
+433
+00:32:34,077 --> 00:32:36,370
+...because you have a child.
+
+434
+00:32:37,289 --> 00:32:38,539
+I've seen your scar.
+
+435
+00:32:43,712 --> 00:32:48,382
+My story is your story. That's why you
+told it back to me when I asked you.
+
+436
+00:32:48,592 --> 00:32:51,385
+This is what is important.
+
+437
+00:32:52,554 --> 00:32:54,889
+This is who you're protecting.
+
+438
+00:32:57,184 --> 00:32:59,185
+You have a son.
+
+439
+00:33:00,896 --> 00:33:02,021
+He's your accomplice.
+
+440
+00:33:08,153 --> 00:33:09,528
+See?
+
+441
+00:33:10,697 --> 00:33:12,615
+That wasn't so hard.
+
+442
+00:33:46,274 --> 00:33:49,735
+So your son is your accomplice.
+
+443
+00:33:50,070 --> 00:33:53,489
+You're not Bonnie. You're Ma Barker.
+
+444
+00:33:53,782 --> 00:33:56,701
+- He's just a boy.
+- A boy you'd die to protect.
+
+445
+00:33:56,910 --> 00:33:59,453
+Any mother would.
+
+446
+00:33:59,996 --> 00:34:01,372
+You'd be surprised.
+
+447
+00:34:02,958 --> 00:34:05,167
+The enemy's like a weed.
+
+448
+00:34:05,335 --> 00:34:09,505
+You leave any part of it underground, it'll
+pop back up when you least expect it.
+
+449
+00:34:10,382 --> 00:34:12,133
+You gotta kill the root.
+
+450
+00:34:12,300 --> 00:34:13,509
+[CHUCKLES]
+
+451
+00:34:13,677 --> 00:34:15,469
+Or in this case...
+
+452
+00:34:16,179 --> 00:34:17,930
+...the seed.
+
+453
+00:34:18,682 --> 00:34:21,809
+You won't get anywhere near him.
+He's not alone.
+
+454
+00:34:21,977 --> 00:34:25,187
+I won't have to. You're his mother.
+
+455
+00:34:29,276 --> 00:34:30,609
+He'll come to you.
+
+456
+00:34:30,777 --> 00:34:34,238
+He won't come anywhere near here.
+He knows better.
+
+457
+00:34:34,448 --> 00:34:35,906
+He will.
+
+458
+00:34:39,161 --> 00:34:40,369
+He will when you ask him.
+
+459
+00:34:48,962 --> 00:34:50,379
+[GASPS]
+
+460
+00:34:57,596 --> 00:34:59,430
+We don't need to talk anymore.
+
+461
+00:35:03,727 --> 00:35:05,853
+I won't call him.
+
+462
+00:35:06,813 --> 00:35:07,938
+I'll die first.
+
+463
+00:35:08,815 --> 00:35:11,400
+Oh, you'd like that. To die.
+
+464
+00:35:12,569 --> 00:35:14,195
+But it's never that easy, is it?
+
+465
+00:35:16,531 --> 00:35:20,284
+Hey. Hey, wake up. You okay?
+You called me.
+
+466
+00:35:20,994 --> 00:35:22,745
+Yes. The nurse. She gave me a shot.
+
+467
+00:35:26,124 --> 00:35:27,541
+Some kind of sedative.
+
+468
+00:35:27,751 --> 00:35:28,876
+Let's get out of here.
+
+469
+00:35:30,587 --> 00:35:32,463
+No. She's going to keep hurting people.
+
+470
+00:35:34,216 --> 00:35:36,258
+We have to do something.
+
+471
+00:35:39,721 --> 00:35:41,722
+[KEYPAD CHIRPING]
+
+472
+00:35:42,057 --> 00:35:43,349
+[LOCK CLICKS]
+
+473
+00:35:52,192 --> 00:35:54,652
+Think you can hack the combination?
+
+474
+00:35:54,820 --> 00:35:56,779
+In my sleep.
+
+475
+00:36:02,452 --> 00:36:03,661
+[KEYPAD CHIRPING]
+
+476
+00:36:03,829 --> 00:36:05,496
+[LOCK CLICKS]
+
+477
+00:36:17,425 --> 00:36:19,134
+It's some kind of scanning program.
+
+478
+00:36:22,013 --> 00:36:23,722
+It's neural activity. Brain scans.
+
+479
+00:36:27,143 --> 00:36:28,185
+[TYPING]
+
+480
+00:36:31,481 --> 00:36:34,149
+- There's files. Thousands of them.
+- Am I in there?
+
+481
+00:36:35,735 --> 00:36:38,070
+I don't know. It's by patient number.
+
+482
+00:36:50,584 --> 00:36:53,586
+All right. There's a ton of data on you.
+It's a whole profile.
+
+483
+00:36:53,795 --> 00:36:54,920
+Delete it. All of it.
+
+484
+00:36:56,756 --> 00:36:59,633
+It's a Skynet experiment, John.
+They're stealing everything.
+
+485
+00:37:00,927 --> 00:37:03,345
+- No, Mom...
+- Sleep is the perfect cover.
+
+486
+00:37:03,513 --> 00:37:05,556
+Your brain's active
+but you don't remember.
+
+487
+00:37:05,724 --> 00:37:09,560
+- They run a sleep clinic.
+- They're not people. Get rid of it.
+
+488
+00:37:16,192 --> 00:37:19,069
+Nurse Hobson?
+There's a problem in room 22. No data.
+
+489
+00:37:19,237 --> 00:37:21,614
+Ms. Baum's electrodes
+must have slipped off again.
+
+490
+00:37:21,781 --> 00:37:24,241
+Thank you for explaining.
+
+491
+00:37:27,329 --> 00:37:28,621
+Is that everything?
+
+492
+00:37:28,830 --> 00:37:31,123
+- Almost.
+- I don't want a trace of me left...
+
+493
+00:37:31,333 --> 00:37:33,500
+- I know.
+- All of it. All of it. Get rid of it.
+
+494
+00:37:33,710 --> 00:37:35,461
+I don't want any of me in there.
+
+495
+00:37:36,338 --> 00:37:39,882
+All right, it's gone. It's all gone, okay?
+You're all gone.
+
+496
+00:37:41,343 --> 00:37:44,011
+Whatever she gave me,
+it's starting to hit.
+
+497
+00:37:44,804 --> 00:37:46,805
+[FOOTSTEPS APPROACHING]
+
+498
+00:37:48,350 --> 00:37:49,642
+[KEYPAD CHIRPING]
+
+499
+00:37:51,686 --> 00:37:52,686
+[LOCK CLICKS]
+
+500
+00:38:01,279 --> 00:38:03,739
+This is a restricted area.
+How did you get in here?
+
+501
+00:38:05,075 --> 00:38:07,201
+I don't know.
+I must've been sleepwalking.
+
+502
+00:38:08,244 --> 00:38:09,495
+Through a locked door?
+
+503
+00:38:10,789 --> 00:38:11,830
+Sorry.
+
+504
+00:38:17,003 --> 00:38:18,629
+I'll go back to my room.
+
+505
+00:38:20,298 --> 00:38:23,425
+Did you know
+that when a human falls in love...
+
+506
+00:38:23,593 --> 00:38:27,638
+...the same areas of the brain
+light up as when a human is intoxicated?
+
+507
+00:38:29,099 --> 00:38:31,475
+What does that have to do
+with my nightmares?
+
+508
+00:38:31,643 --> 00:38:33,310
+We don't know yet.
+
+509
+00:38:33,478 --> 00:38:36,438
+We don't fully understand
+why humans need to dream.
+
+510
+00:38:38,692 --> 00:38:40,025
+Humans like you?
+
+511
+00:38:43,279 --> 00:38:44,530
+You drugged me.
+
+512
+00:38:44,739 --> 00:38:48,325
+What you're experiencing
+is sleep paralysis.
+
+513
+00:38:48,493 --> 00:38:50,285
+You want to move but you can't.
+
+514
+00:38:56,292 --> 00:38:57,751
+[GASPS]
+
+515
+00:38:58,378 --> 00:39:02,631
+Believe it or not, your body
+is actually protecting you right now.
+
+516
+00:39:04,175 --> 00:39:07,594
+You were talking to someone
+when I entered the room. Your boy.
+
+517
+00:39:07,762 --> 00:39:09,096
+The one who came to visit.
+
+518
+00:39:09,889 --> 00:39:10,931
+Call to him.
+
+519
+00:39:11,725 --> 00:39:13,684
+[GASPS]
+
+520
+00:39:13,935 --> 00:39:15,269
+I'd die first.
+
+521
+00:39:17,230 --> 00:39:20,983
+HOBSON:
+I'm sure you'd like that. To die.
+
+522
+00:39:25,572 --> 00:39:26,780
+But it's never that easy.
+
+523
+00:39:37,250 --> 00:39:39,084
+What is this thing?
+
+524
+00:39:40,420 --> 00:39:41,920
+Mom.
+
+525
+00:39:44,049 --> 00:39:45,090
+What are you?
+
+526
+00:39:52,891 --> 00:39:54,516
+SARAH:
+John.
+
+527
+00:39:56,603 --> 00:39:57,644
+John.
+
+528
+00:39:58,521 --> 00:40:00,439
+[GUN CLICKING]
+
+529
+00:40:14,537 --> 00:40:15,621
+[SARAH WHIMPERS]
+
+530
+00:40:15,789 --> 00:40:17,664
+[MUFFLED SOBBING]
+
+531
+00:40:22,670 --> 00:40:24,213
+WINSTON:
+It's her son.
+
+532
+00:40:24,422 --> 00:40:26,757
+He's the one who helped her
+blow up the facility.
+
+533
+00:40:26,925 --> 00:40:28,967
+He's the one we want.
+
+534
+00:40:33,598 --> 00:40:35,641
+We'll give him a few more hours
+to show up.
+
+535
+00:40:36,392 --> 00:40:38,769
+I don't know. Maybe three.
+
+536
+00:40:46,778 --> 00:40:51,281
+She gave me a few problems.
+Nothing I couldn't handle.
+
+537
+00:40:54,786 --> 00:40:58,122
+Yeah. I guess we don't
+need her anymore.
+
+538
+00:41:03,086 --> 00:41:07,548
+No. He can trace her cell phone without
+her alive. Makes no difference to me.
+
+539
+00:41:09,801 --> 00:41:14,054
+It's not a problem.
+I'll take care of it right now.
+
+540
+00:41:15,265 --> 00:41:16,306
+[EXHALES]
+
+541
+00:41:16,474 --> 00:41:19,143
+Hell, it's what she wants.
+
+542
+00:41:28,236 --> 00:41:29,862
+- Aah!
+- Uhn!
+
+543
+00:41:30,155 --> 00:41:31,905
+[GRUNTING]
+
+544
+00:42:02,729 --> 00:42:03,770
+[GROANING]
+
+545
+00:42:15,283 --> 00:42:16,325
+You're real.
+
+546
+00:42:19,412 --> 00:42:21,914
+You're real. You're real.
+
+547
+00:42:24,834 --> 00:42:26,752
+[GUNSHOT]
+
+548
+00:42:33,259 --> 00:42:37,971
+SARAH: A spirit sits on a man's chest.
+She is strong, beautiful.
+
+549
+00:42:38,139 --> 00:42:41,016
+She is here to steal his children.
+
+550
+00:42:41,184 --> 00:42:43,685
+She is here to steal his future.
+
+551
+00:42:43,853 --> 00:42:45,020
+He is paralyzed.
+
+552
+00:42:45,188 --> 00:42:48,315
+The terror in him will burst his heart
+if he cannot control it.
+
+553
+00:42:50,902 --> 00:42:52,819
+She is a Night-Mare, a demon-woman...
+
+554
+00:42:52,987 --> 00:42:56,615
+...the oldest and most enduring story
+told by man.
+
+555
+00:42:57,784 --> 00:43:00,494
+The witching hour is controlled
+by witches.
+
+556
+00:43:08,836 --> 00:43:11,296
+She is a bad dream.
+
+557
+00:43:17,095 --> 00:43:19,513
+She is a bad bitch.
+

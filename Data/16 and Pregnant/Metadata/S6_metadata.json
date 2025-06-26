@@ -1,0 +1,42 @@
+{
+    "2": {
+        "title": "Rachelle",
+        "released": "2020-10-13",
+        "rating": "N/A",
+        "imdb_id": "tt13198488",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Maddie",
+        "released": "2020-10-20",
+        "rating": "N/A",
+        "imdb_id": "tt13198536",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Kyla",
+        "released": "2021-03-30",
+        "rating": "N/A",
+        "imdb_id": "tt14421438",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Abygail",
+        "released": "2021-04-06",
+        "rating": "N/A",
+        "imdb_id": "tt14421448",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Taylor",
+        "released": "2021-04-13",
+        "rating": "N/A",
+        "imdb_id": "tt14421454",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

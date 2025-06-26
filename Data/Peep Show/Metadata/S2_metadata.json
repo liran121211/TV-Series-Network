@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Dance Class",
+        "released": "2004-11-12",
+        "rating": "8.5",
+        "imdb_id": "tt0672481",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Jeremy Makes It",
+        "released": "2004-11-19",
+        "rating": "N/A",
+        "imdb_id": "tt0672482",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Local Zero",
+        "released": "2004-11-26",
+        "rating": "7.7",
+        "imdb_id": "tt0672483",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "University Challenge",
+        "released": "2004-12-03",
+        "rating": "8.5",
+        "imdb_id": "tt0672484",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Man Show",
+        "released": "2004-12-10",
+        "rating": "7.8",
+        "imdb_id": "tt0672485",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Wedding",
+        "released": "2004-12-17",
+        "rating": "N/A",
+        "imdb_id": "tt0672486",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

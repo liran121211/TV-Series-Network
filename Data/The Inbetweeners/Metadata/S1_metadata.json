@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "First Day",
+        "released": "2010-01-25",
+        "rating": "7.7",
+        "imdb_id": "tt1228324",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Inbetweeners\\Subtitles\\S1\\The.Inbetweeners.US.S01E01.HDTV.x264-COMPULSiON.HI.zip"
+    },
+    "2": {
+        "title": "Bunk Off",
+        "released": "2008-05-01",
+        "rating": "8.5",
+        "imdb_id": "tt1228323",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Inbetweeners\\Subtitles\\S1\\The.Inbetweeners.US.S01E02.HDTV.x264-2HD.HI.zip"
+    },
+    "3": {
+        "title": "Thorpe Park",
+        "released": "2008-05-08",
+        "rating": "8.1",
+        "imdb_id": "tt1236074",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Inbetweeners\\Subtitles\\S1\\The.Inbetweeners.US.S01E03.HDTV.x264-2HD.zip"
+    },
+    "4": {
+        "title": "Girlfriend",
+        "released": "2008-05-15",
+        "rating": "7.9",
+        "imdb_id": "tt1236073",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Caravan Club",
+        "released": "2008-05-22",
+        "rating": "8.3",
+        "imdb_id": "tt1236071",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Inbetweeners\\Subtitles\\S1\\SUBDL.com::the.inbetweeners.us.first.season633747.zip"
+    },
+    "6": {
+        "title": "Xmas Party",
+        "released": "2010-02-17",
+        "rating": "8.0",
+        "imdb_id": "tt1234984",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}
