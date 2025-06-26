@@ -268,58 +268,89 @@ class CinemagoerClient:
             self.logger.error("IMDb request failed: %s", exc)
             raise
 
-    def get_episode_metadata(self, metadata_file_path: str):
+    def get_episode_metadata(self, metadata_file_path: str, specific_imdb_id: str = None):
         """
         Fetches episode metadata from IMDb for all entries in a JSON metadata file.
 
         If episode metadata file already exists, it loads it instead of fetching.
         Saves each episode's metadata to a separate file and returns the last metadata entry.
         """
-        with open(metadata_file_path, "r", encoding="utf-8") as f:
-            series_data = json.load(f)
+        if specific_imdb_id is not None:
+            episode_metadata = {
+                'cast': dict(),
+                'geners': list(),
+                'runtimes': 0,
+                'number of episodes': 0,
+                'plot': 'N/A',
+                'genres': 'N/A',
+                'imdbID': 'tt0000000',
+                'rating': 0,
+                'votes': 0,
 
-        for idx, (key, metadata) in enumerate(series_data.items(), start=1):
-            imdb_id = metadata.get("imdb_id", "").replace("tt", "")
-            title = metadata.get("title", f"Episode {idx}")
+            }
+            self.logger.info("Fetching metadata for: %s", specific_imdb_id)
+            episode_imdb_data = self.ia.get_movie(specific_imdb_id.replace("tt", ""))
 
-            # Construct output path
-            output_path = metadata_file_path.replace("_metadata", f"_E{idx}_metadata")
+            for person in episode_imdb_data.data["cast"]:
+                episode_metadata["cast"][person.personID] = person['name']
 
-            # If metadata file already exists, load it
-            if os.path.exists(output_path):
-                self.logger.info("Using cached metadata for: %s", title)
-            else:
-                episode_metadata = {
-                    'cast': dict(),
-                    'geners': list(),
-                    'runtimes': 0,
-                    'number of episodes': 0,
-                    'plot': 'N/A',
-                    'genres': 'N/A',
-                    'imdbID': 'tt0000000',
-                    'rating': 0,
-                    'votes': 0,
+            episode_metadata['geners'] = episode_imdb_data['genres']
+            episode_metadata['runtimes'] = episode_imdb_data.get('runtimes', 0)  # Default to 0 if not available
+            episode_metadata['number_of_episodes'] = episode_imdb_data['number of episodes']
+            episode_metadata['plot'] = episode_imdb_data.get('plot', 'N/A')  # Default to 'N/A' if not available
+            episode_metadata['geners'] = episode_imdb_data['genres']
+            episode_metadata['imdbID'] = episode_imdb_data['imdbID']
+            episode_metadata['rating'] = episode_imdb_data['rating']
+            episode_metadata['votes'] = episode_imdb_data['votes']
 
-                }
-                self.logger.info("Fetching metadata for: %s", title)
-                episode_imdb_data = self.ia.get_movie(imdb_id)
-                with open(output_path, "w", encoding="utf-8") as out_file:
-                    for person in episode_imdb_data.data["cast"]:
-                        episode_metadata["cast"][person.personID] = person['name']
+            return episode_metadata
 
-                    episode_metadata['geners'] = episode_imdb_data['genres']
-                    episode_metadata['runtimes'] = episode_imdb_data.get('runtimes', 0) # Default to 0 if not available
-                    episode_metadata['number_of_episodes'] = episode_imdb_data['number of episodes']
-                    episode_metadata['plot'] = episode_imdb_data.get('plot', 'N/A')  # Default to 'N/A' if not available
-                    episode_metadata['geners'] = episode_imdb_data['genres']
-                    episode_metadata['imdbID'] = episode_imdb_data['imdbID']
-                    episode_metadata['rating'] = episode_imdb_data['rating']
-                    episode_metadata['votes'] = episode_imdb_data['votes']
+        else:
+            with open(metadata_file_path, "r", encoding="utf-8") as f:
+                series_data = json.load(f)
 
-                    # save the data
-                    self.logger.info(f"Extracted Metadata of {output_path}")
-                    json.dump(episode_metadata, out_file)
-        time.sleep(5)
+            for idx, (key, metadata) in enumerate(series_data.items(), start=1):
+                imdb_id = metadata.get("imdb_id", "").replace("tt", "")
+                title = metadata.get("title", f"Episode {idx}")
+
+                # Construct output path
+                output_path = metadata_file_path.replace("_metadata", f"_E{idx}_metadata")
+
+                # If metadata file already exists, load it
+                if os.path.exists(output_path):
+                    self.logger.info("Using cached metadata for: %s", title)
+                else:
+                    episode_metadata = {
+                        'cast': dict(),
+                        'geners': list(),
+                        'runtimes': 0,
+                        'number of episodes': 0,
+                        'plot': 'N/A',
+                        'genres': 'N/A',
+                        'imdbID': 'tt0000000',
+                        'rating': 0,
+                        'votes': 0,
+
+                    }
+                    self.logger.info("Fetching metadata for: %s", title)
+                    episode_imdb_data = self.ia.get_movie(imdb_id)
+                    with open(output_path, "w", encoding="utf-8") as out_file:
+                        for person in episode_imdb_data.data["cast"]:
+                            episode_metadata["cast"][person.personID] = person['name']
+
+                        episode_metadata['geners'] = episode_imdb_data['genres']
+                        episode_metadata['runtimes'] = episode_imdb_data.get('runtimes', 0) # Default to 0 if not available
+                        episode_metadata['number_of_episodes'] = episode_imdb_data['number of episodes']
+                        episode_metadata['plot'] = episode_imdb_data.get('plot', 'N/A')  # Default to 'N/A' if not available
+                        episode_metadata['geners'] = episode_imdb_data['genres']
+                        episode_metadata['imdbID'] = episode_imdb_data['imdbID']
+                        episode_metadata['rating'] = episode_imdb_data['rating']
+                        episode_metadata['votes'] = episode_imdb_data['votes']
+
+                        # save the data
+                        self.logger.info(f"Extracted Metadata of {output_path}")
+                        json.dump(episode_metadata, out_file)
+            time.sleep(5)
 
     def search(self, query: str, limit: int = 10) -> List[Title]:
         """Search IMDb and return the first *limit* results as Title objects."""
@@ -331,7 +362,7 @@ class CinemagoerClient:
             self.logger.error("Search failed: %s", exc)
             raise
 
-    def get_series_episodes(self, series: Title | str, series_id: str, season: int | None = None, is_data_saved: bool = False) -> List | SERIES_NOT_FOUND_ERROR:
+    def get_series_episodes(self, series: Title | str, series_id: str, season: int | None = None, is_data_saved: bool = False, episode_id: int = None) -> List | SERIES_NOT_FOUND_ERROR:
         if isinstance(series, Title):
             metadata_path = f"Data/{series.title}/Metadata/S{str(season)}_metadata.json"
             series.title = sanitize_tv_show_name(series.title)
@@ -342,7 +373,11 @@ class CinemagoerClient:
         if os.path.exists(metadata_path):
             self.logger.info(f"Load existing {metadata_path}")
             with open(metadata_path, "r", encoding="utf-8") as f:
-                return json.load(f)
+                series_json_data = json.load(f)
+                if episode_id is not None:
+                    return dict(series_json_data[str(episode_id)])
+                else:
+                    return series_json_data
         else:
             self.logger.info(f"Fetching {series} - Season {str(season)} episodes from IMDB")
 
@@ -388,6 +423,9 @@ class CinemagoerClient:
             return SERIES_NOT_FOUND_ERROR
 
         episodes_imdb_data = []
+        if episode_id is not None:
+            episodes_by_number = [episodes_by_number[episode_id]]
+
         for episode_data in tqdm(episodes_by_number.values(), desc="Processing episodes"):
             # Fetch episode details using the IMDb API
             try:
@@ -551,16 +589,19 @@ class CinemagoerClient:
         return None
 
 
-def process_episode_metadata_file(imdb_analyzer_instance: CinemagoerClient, file_path: str):
+def process_episode_metadata_file(imdb_analyzer_instance: CinemagoerClient, file_path: str, specific_imdb_id: str = None):
     # Dummy: load json and return info, or whatever you want
-    try:
-        with open(file_path, encoding='utf-8') as f:
-            data = json.load(f)
-            imdb_analyzer_instance.get_episode_metadata(metadata_file_path=file_path)
+    if specific_imdb_id is not None:
+        return imdb_analyzer_instance.get_episode_metadata(metadata_file_path=file_path, specific_imdb_id=specific_imdb_id)
+    else:
+        try:
+            with open(file_path, encoding='utf-8') as f:
+                data = json.load(f)
+                imdb_analyzer_instance.get_episode_metadata(metadata_file_path=file_path, specific_imdb_id=specific_imdb_id)
 
-        return file_path, data
-    except Exception as e:
-        return file_path, str(e)
+            return file_path, data
+        except Exception as e:
+            return file_path, str(e)
 
 
 def process_tv_show_metadata(imdb_analyzer_instance: CinemagoerClient, tv_show_data: dict):
@@ -657,14 +698,61 @@ def extract_all_imdb_features(base_path: str, output_csv_path: str, extract_imdb
     return df
 
 
+def extract_features_for_specific_episode(tv_show_imdb_id: str, season_id: int, episode_id: int) -> pd.DataFrame:
+    """
+    Given an IMDb ID, extract all IMDb features across all seasons and episodes available.
+
+    Args:
+        tv_show_imdb_id (str): IMDb ID of the TV show (e.g., 'tt0944947' for Game of Thrones)
+        season_id (int): season number of specific tv show
+        episode_id (int): episode number of specific tv show series
+
+    Returns:
+        pd.DataFrame: A DataFrame with all extracted features.
+    """
+    imdb_client = CinemagoerClient()
+
+    # Fetch show title (and validate IMDb ID)
+    show_title = imdb_client.get_title(tv_show_imdb_id)
+    if show_title is None:
+        raise SERIES_NOT_FOUND_ERROR
+
+    print(f"Found show: {show_title.title}")
+    all_episodes_data = []
+    series_episodes_metadata = imdb_client.get_series_episodes(series=show_title,
+                                                                series_id=tv_show_imdb_id,
+                                                                season=season_id,
+                                                                is_data_saved=True,
+                                                                episode_id=episode_id)
+
+    specific_episode_metadata = process_episode_metadata_file(imdb_analyzer_instance=imdb_client,
+                                                                file_path='SKIP',
+                                                                specific_imdb_id=series_episodes_metadata[str(episode_id)]['imdb_id'])
+
+    imdb_features = imdb_client.extract_imdb_features(json.loads(json.dumps(specific_episode_metadata, ensure_ascii=False, indent=4)))
+
+    imdb_features_dict = imdb_features.to_dict()
+    imdb_features_dict.update({
+        "tv_show_name": show_title.title,
+        "season": season_id,
+        "episode_number": episode_id,
+        "imdbID": imdb_features.get("imdbID", tv_show_imdb_id),
+        "rating": imdb_features.get("rating", 0),
+        "votes":  imdb_features.get("votes", 0),
+    })
+    all_episodes_data.append(imdb_features_dict)
+
+    return pd.DataFrame(all_episodes_data)
+
+
 if __name__ == "__main__":
 
-    imdb_analyzer = CinemagoerClient()
-
-    # verify that all JSON files are not empty (e.g. {}, [])
-    imdb_analyzer.find_and_delete_empty_json_files(data_dir_path="Data")
-    imdb_analyzer.delete_empty_folders_recursively(data_dir_path="Data")
-    imdb_analyzer.repair_faulty_jsons(data_dir_path="Data")
+    # imdb_analyzer = CinemagoerClient()
+    #
+    # # verify that all JSON files are not empty (e.g. {}, [])
+    # imdb_analyzer.find_and_delete_empty_json_files(data_dir_path="Data")
+    # imdb_analyzer.delete_empty_folders_recursively(data_dir_path="Data")
+    # imdb_analyzer.repair_faulty_jsons(data_dir_path="Data")
 
     # # Read the json data #TODO: done for now
     # with open(os.path.join('Utils/approve_relevant_tv_shows.json'), "r", encoding="utf-8") as f:
@@ -691,8 +779,9 @@ if __name__ == "__main__":
     # with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_CPU_THREADS) as executor:
     #     results = list(executor.map(process_episode_metadata_file, matched_files))
 
-    extract_all_imdb_features(base_path=r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data',
-                              output_csv_path='Data/imdb_features_data.csv',
-                              extract_imdb_features_fn=imdb_analyzer.extract_imdb_features,
-                              )
+    # extract_all_imdb_features(base_path=r'C:\Users\mor21\PycharmProjects\BigData_TV_Series_Project\Data',
+    #                           output_csv_path='Data/imdb_features_data.csv',
+    #                           extract_imdb_features_fn=imdb_analyzer.extract_imdb_features,
+    #                           )
 
+    extract_features_for_specific_episode(tv_show_imdb_id='tt0118276', season_id=1, episode_id=1)
