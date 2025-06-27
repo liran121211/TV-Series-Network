@@ -1,0 +1,202 @@
+{
+    "1": {
+        "title": "Who Shot Mr. Burns? Part Two",
+        "released": "1995-09-17",
+        "rating": "9.0",
+        "imdb_id": "tt0701295",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E01.WEB-DL.DSNPS17E1.zip"
+    },
+    "2": {
+        "title": "Radioactive Man",
+        "released": "1995-09-24",
+        "rating": "8.3",
+        "imdb_id": "tt0701201",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E02.WEB-DL.DSNPS17E2.zip"
+    },
+    "3": {
+        "title": "Home Sweet Home-Dum-Diddly Doodily",
+        "released": "1995-10-01",
+        "rating": "8.4",
+        "imdb_id": "tt0701108",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E03.WEB-DL.DSNPS17E3.zip"
+    },
+    "4": {
+        "title": "Bart Sells His Soul",
+        "released": "1995-10-08",
+        "rating": "8.8",
+        "imdb_id": "tt0763025",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E04.WEB-DL.DSNPS17E4.zip"
+    },
+    "5": {
+        "title": "Lisa the Vegetarian",
+        "released": "1995-10-15",
+        "rating": "8.5",
+        "imdb_id": "tt0701158",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E05.WEB-DL.DSNPS17E5.zip"
+    },
+    "6": {
+        "title": "Treehouse of Horror VI",
+        "released": "1995-10-29",
+        "rating": "8.6",
+        "imdb_id": "tt0177842",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E06.WEB-DL.DSNPS17E6.zip"
+    },
+    "7": {
+        "title": "King Size Homer",
+        "released": "1995-11-05",
+        "rating": "9.0",
+        "imdb_id": "tt0701144",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E07.WEB-DL.DSNPS17E7.zip"
+    },
+    "8": {
+        "title": "Mother Simpson",
+        "released": "1995-11-19",
+        "rating": "8.7",
+        "imdb_id": "tt0701182",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E08.WEB-DL.DSNPS17E8.zip"
+    },
+    "9": {
+        "title": "Sideshow Bob's Last Gleaming",
+        "released": "1995-11-26",
+        "rating": "8.0",
+        "imdb_id": "tt0701208",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S17\\The.Simpsons.S17E09.WEB-DL.DSNPS17E9.zip"
+    },
+    "10": {
+        "title": "The Simpsons 138th Episode Spectacular!",
+        "released": "1995-12-03",
+        "rating": "7.3",
+        "imdb_id": "tt0701261",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Marge Be Not Proud",
+        "released": "1995-12-17",
+        "rating": "8.5",
+        "imdb_id": "tt0701168",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Team Homer",
+        "released": "1996-01-07",
+        "rating": "8.3",
+        "imdb_id": "tt0779675",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Two Bad Neighbors",
+        "released": "1996-01-14",
+        "rating": "8.5",
+        "imdb_id": "tt0779680",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Scenes from the Class Struggle in Springfield",
+        "released": "1996-02-04",
+        "rating": "7.7",
+        "imdb_id": "tt0779674",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Bart the Fink",
+        "released": "1996-02-11",
+        "rating": "7.6",
+        "imdb_id": "tt0701058",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Lisa the Iconoclast",
+        "released": "1996-02-18",
+        "rating": "8.1",
+        "imdb_id": "tt0701155",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Homer the Smithers",
+        "released": "1996-02-25",
+        "rating": "8.8",
+        "imdb_id": "tt0779667",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Day the Violence Died",
+        "released": "1996-03-17",
+        "rating": "8.0",
+        "imdb_id": "tt0701234",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "A Fish Called Selma",
+        "released": "1996-03-24",
+        "rating": "8.2",
+        "imdb_id": "tt0701043",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Bart on the Road",
+        "released": "1996-03-31",
+        "rating": "8.6",
+        "imdb_id": "tt0701057",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "22 Short Films About Springfield",
+        "released": "1996-04-14",
+        "rating": "9.0",
+        "imdb_id": "tt0701186",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Raging Abe Simpson and His Grumbling Grandson in 'The Curse of the Flying Hellfish'",
+        "released": "1996-04-28",
+        "rating": "8.5",
+        "imdb_id": "tt0778451",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Much Apu About Nothing",
+        "released": "1996-05-05",
+        "rating": "8.1",
+        "imdb_id": "tt0774432",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Homerpalooza",
+        "released": "1996-05-19",
+        "rating": "7.9",
+        "imdb_id": "tt0701127",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Summer of 4'2&quot;",
+        "released": "1996-05-19",
+        "rating": "8.5",
+        "imdb_id": "tt0701219",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

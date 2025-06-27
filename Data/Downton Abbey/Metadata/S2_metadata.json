@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Episode #2.1",
+        "released": "2012-01-08",
+        "rating": "8.5",
+        "imdb_id": "tt1821819",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S2\\Downton.Abbey.S02E01.HDTV.XviD-FoVS2E1.zip"
+    },
+    "2": {
+        "title": "Episode #2.2",
+        "released": "2012-01-08",
+        "rating": "8.1",
+        "imdb_id": "tt1846043",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #2.3",
+        "released": "2012-01-15",
+        "rating": "8.1",
+        "imdb_id": "tt1852308",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #2.4",
+        "released": "2012-01-22",
+        "rating": "8.3",
+        "imdb_id": "tt1852309",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #2.5",
+        "released": "2012-01-29",
+        "rating": "8.5",
+        "imdb_id": "tt1852310",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #2.6",
+        "released": "2012-02-05",
+        "rating": "8.0",
+        "imdb_id": "tt1852311",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S2\\Downton.Abbey.S02E06.HDTV.XviD-FoV.aviS2E6.zip"
+    },
+    "7": {
+        "title": "Episode #2.7",
+        "released": "2012-02-12",
+        "rating": "8.2",
+        "imdb_id": "tt1852312",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S2\\Downton.Abbey.S02E07.HDTV.RiVERS2E7.zip"
+    },
+    "8": {
+        "title": "Episode #2.8",
+        "released": "2012-02-12",
+        "rating": "8.7",
+        "imdb_id": "tt1852313",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Christmas at Downton Abbey",
+        "released": "2012-02-19",
+        "rating": "9.0",
+        "imdb_id": "tt2013429",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

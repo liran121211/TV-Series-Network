@@ -1,0 +1,122 @@
+{
+    "1": {
+        "title": "Flight of the Phoenix",
+        "released": "2013-09-30",
+        "rating": "7.3",
+        "imdb_id": "tt2128813",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arrested Development\\Subtitles\\S4\\Arrested_Development_Season_4_2013_MovieFull-HD_WEB_720P_2192_E01-E15_COMPLETEDS4E1.zip"
+    },
+    "2": {
+        "title": "Borderline Personalities",
+        "released": "2013-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt2128815",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arrested Development\\Subtitles\\S4\\Arrested.Development.S04E02.REPACK.720p.WEBRip.AAC2.0.x264-NFRiPS4E2.zip"
+    },
+    "3": {
+        "title": "Indian Takers",
+        "released": "2013-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt2128816",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arrested Development\\Subtitles\\S4\\Arrested.Development.S04E03.720p.WEBRip.AAC2.0.x264-NFRiPS4E3.zip"
+    },
+    "4": {
+        "title": "The B. Team",
+        "released": "2013-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt2128817",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "A New Start",
+        "released": "2013-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt2128818",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Double Crossers",
+        "released": "2013-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt2128819",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Colony Collapse",
+        "released": "2013-05-26",
+        "rating": "8.2",
+        "imdb_id": "tt2128820",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Red Hairing",
+        "released": "2013-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt2128821",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Smashed",
+        "released": "2013-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt2128822",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Queen B.",
+        "released": "2013-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt2128814",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "A New Attitude",
+        "released": "2013-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt2495824",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Señoritis",
+        "released": "2013-05-26",
+        "rating": "8.1",
+        "imdb_id": "tt2604336",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "It Gets Better",
+        "released": "2013-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt2604334",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Off the Hook",
+        "released": "2013-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt2604338",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Blockheads",
+        "released": "2013-05-26",
+        "rating": "8.0",
+        "imdb_id": "tt2826310",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Work Sex",
+        "released": "2008-09-10",
+        "rating": "N/A",
+        "imdb_id": "tt1145939",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Birdcage",
+        "released": "2008-09-17",
+        "rating": "N/A",
+        "imdb_id": "tt1248587",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Do Not Disturb\\Subtitles\\S1\\SUBDL::do-not-disturb-first-season-163546.zip"
+    },
+    "4": {
+        "title": "Satisfaction",
+        "released": "2008-10-01",
+        "rating": "N/A",
+        "imdb_id": "tt1248589",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Pilot",
+        "released": "2008-10-08",
+        "rating": "N/A",
+        "imdb_id": "tt1248590",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Break Room",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1248591",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

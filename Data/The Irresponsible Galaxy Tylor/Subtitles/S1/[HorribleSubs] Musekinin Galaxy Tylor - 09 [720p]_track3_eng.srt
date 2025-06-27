@@ -1,0 +1,76 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Flashback_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Episode Title,Open Sans Semibold,36,&H00000000,&H000000FF,&H00F5FBFC,&H00C0D1D1,1,0,0,0,100,100,0,0,1,3,3,8,13,13,27,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.72,0:00:05.10,Italics,,0000,0000,0000,,Hitoshi Yashioma attacks Yamamoto \Nwhile he waits at the top of the hole.
+Dialogue: 0,0:00:05.10,0:00:09.78,Italics,,0000,0000,0000,,At the last second, the \NDolly destroys his ship.
+Dialogue: 0,0:00:12.90,0:00:16.95,Main,,0000,0000,0000,,I'll get you yet, Tylor!
+Dialogue: 0,0:00:20.08,0:00:22.71,Episode Title,,0000,0000,0000,,{\fad(190,1)}From now on, Days Will Be Like This
+Dialogue: 0,0:00:23.23,0:00:26.45,Main,,0000,0000,0000,,We made it instantly into space, Tylor.
+Dialogue: 0,0:00:28.54,0:00:31.32,Main,,0000,0000,0000,,It's rare for you to be depressed.
+Dialogue: 0,0:00:32.06,0:00:34.71,Main,,0000,0000,0000,,We left Yamamoto-kun behind.
+Dialogue: 0,0:00:34.71,0:00:38.59,Main,,0000,0000,0000,,When I was seven, my parents \Nbrought him to be with me,
+Dialogue: 0,0:00:38.59,0:00:42.22,Main,,0000,0000,0000,,and said they were going into space.
+Dialogue: 0,0:00:42.22,0:00:45.06,Main,,0000,0000,0000,,That was the beginning of my life with him.
+Dialogue: 0,0:00:45.68,0:00:48.59,Main,,0000,0000,0000,,He was perfect at doing chores,
+Dialogue: 0,0:00:48.59,0:00:50.27,Main,,0000,0000,0000,,and when I was slacking off, he said,
+Dialogue: 0,0:00:50.82,0:00:54.41,Main,,0000,0000,0000,,"I heard there's a job you can \Nget picking up valuable trash
+Dialogue: 0,0:00:54.41,0:00:56.83,Main,,0000,0000,0000,,on the outskirts of the Sidereal \NMegastructure and selling it.
+Dialogue: 0,0:00:56.83,0:00:59.24,Main,,0000,0000,0000,,Want to do it with me?"
+Dialogue: 0,0:00:59.65,0:01:00.60,Main,,0000,0000,0000,,I see.
+Dialogue: 0,0:01:01.09,0:01:04.66,Main,,0000,0000,0000,,That's why you saved me.
+Dialogue: 0,0:01:05.21,0:01:07.46,Main,,0000,0000,0000,,I need to be grateful to him.
+Dialogue: 0,0:01:07.46,0:01:08.24,Main,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:01:09.57,0:01:13.62,Main,,0000,0000,0000,,Thanks to that, we had a steady income.
+Dialogue: 0,0:01:13.62,0:01:16.51,Main,,0000,0000,0000,,But I was sick of doing it every day.
+Dialogue: 0,0:01:16.96,0:01:21.40,Flashback,,0000,0000,0000,,I heard that humans get stressed \Nwhen they work all the time.
+Dialogue: 0,0:01:21.84,0:01:25.10,Flashback,,0000,0000,0000,,Why not take up playing the banjo as a hobby?
+Dialogue: 0,0:01:27.21,0:01:29.24,Flashback,,0000,0000,0000,,What is this? It's so cool!
+Dialogue: 0,0:01:29.24,0:01:30.98,Flashback,,0000,0000,0000,,How do I play?
+Dialogue: 0,0:01:31.63,0:01:34.44,Flashback,,0000,0000,0000,,Let's learn by watching this video!
+Dialogue: 0,0:01:34.89,0:01:37.73,Flashback,,0000,0000,0000,,Okay! Thanks, Yamamoto-kun.
+Dialogue: 0,0:01:41.19,0:01:44.84,Main,,0000,0000,0000,,Yamamoto-kun taught me a lot.
+Dialogue: 0,0:01:44.84,0:01:47.41,Main,,0000,0000,0000,,He's a dear friend.
+Dialogue: 0,0:01:47.96,0:01:50.88,Main,,0000,0000,0000,,I want to play him a requiem.
+Dialogue: 0,0:01:51.49,0:01:54.31,Main,,0000,0000,0000,,Yes. Go ahead.
+Dialogue: 0,0:02:05.43,0:02:06.14,Main,,0000,0000,0000,,Shaddup!
+Dialogue: 0,0:02:05.43,0:02:06.14,Main,,0000,0000,0000,,Shaddup!
+Dialogue: 0,0:02:09.82,0:02:11.00,Main,Crosstalk,0000,0000,0000,,You're alive?!
+Dialogue: 0,0:02:10.41,0:02:11.95,Main,Crosstalk,0000,0000,0000,,What happened to you?!
+Dialogue: 0,0:02:11.94,0:02:13.65,Main,Crosstalk,0000,0000,0000,,I'm so glad!
+Dialogue: 0,0:02:13.97,0:02:15.89,Main,A,0000,0000,0000,,I was so worried.
+Dialogue: 0,0:02:15.89,0:02:17.33,Main,A,0000,0000,0000,,I'm glad you're all right, Yamamoto.
+Dialogue: 0,0:02:17.33,0:02:18.41,Main,A,0000,0000,0000,,Worried?
+Dialogue: 0,0:02:18.41,0:02:19.52,Main,A,0000,0000,0000,,All right?
+Dialogue: 0,0:02:19.52,0:02:22.31,Main,A,0000,0000,0000,,Are you serious?
+Dialogue: 0,0:02:22.82,0:02:25.79,Main,A,0000,0000,0000,,Do you know how I felt \Nas I clung to the Dolly,
+Dialogue: 0,0:02:25.79,0:02:30.15,Main,A,0000,0000,0000,,and then flew through space until I froze,
+Dialogue: 0,0:02:30.15,0:02:33.79,Main,A,0000,0000,0000,,and then instead of saving \Nme you played a requiem?!
+Dialogue: 0,0:02:34.78,0:02:37.08,Main,A,0000,0000,0000,,{\an8}My stomach hurts. My stomach hurts.
+Dialogue: 0,0:02:35.91,0:02:37.34,Main,A,0000,0000,0000,,I'm sorry, Yamamoto-kun.
+Dialogue: 0,0:02:37.08,0:02:38.50,Main,A,0000,0000,0000,,{\an8}My stomach hurts.
+Dialogue: 0,0:02:37.77,0:02:39.16,Main,A,0000,0000,0000,,But look.
+Dialogue: 0,0:02:39.16,0:02:42.55,Main,,0000,0000,0000,,We left the Sidereal Megastructure and \Nare heading for the center of the galaxy.
+Dialogue: 0,0:02:42.55,0:02:45.37,Main,A,0000,0000,0000,,I request a peaceful voyage.
+Dialogue: 0,0:02:46.72,0:02:47.85,Main,A,0000,0000,0000,,What happened?
+Dialogue: 0,0:02:48.76,0:02:51.93,Main,A,0000,0000,0000,,Azalyn-sama, we're caught in the \NSidereal Megastructure's gravity well.
+Dialogue: 0,0:02:51.93,0:02:53.86,Main,A,0000,0000,0000,,We're going to crash!
+Dialogue: 0,0:02:54.13,0:02:56.07,Main,A,0000,0000,0000,,What?!
+Dialogue: 0,0:03:22.04,0:03:24.21,Italics,A,0000,0000,0000,,It's been seven years since I met Tylor.
+Dialogue: 0,0:03:24.21,0:03:27.64,Italics,A,0000,0000,0000,,I can't believe he left the \NSidereal Megastructure.

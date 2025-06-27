@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Beach Battle - Jaguar vs. Chrysler vs. Vauxhall",
+        "released": "2004-10-24",
+        "rating": "N/A",
+        "imdb_id": "tt0729698",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S15\\Top.Gear.S15E01.HDTV.XviD-BiAS15E1.zip"
+    },
+    "2": {
+        "title": "Mountainboarder vs. Rally Car",
+        "released": "2004-10-31",
+        "rating": "N/A",
+        "imdb_id": "tt0729699",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S15\\Top.Gear.S15E02.720p.HDTV.x264-BiAS15E2.zip"
+    },
+    "3": {
+        "title": "Clarkson Climbs a Scottish Mountain",
+        "released": "2004-11-07",
+        "rating": "N/A",
+        "imdb_id": "tt0729700",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S15\\Top.Gear.S15E03.720p.HDTV.x264-BiAS15E3.zip"
+    },
+    "4": {
+        "title": "24 Hours in a Smart Car",
+        "released": "2004-11-14",
+        "rating": "N/A",
+        "imdb_id": "tt0729701",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Hammond Invents People Carrier Racing",
+        "released": "2004-11-21",
+        "rating": "N/A",
+        "imdb_id": "tt0729702",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S15\\Top_Gear.S15E05.HDTV.XviD-FoVS15E5.zip"
+    },
+    "6": {
+        "title": "Can You Buy a Decent Porsche for £1,500?",
+        "released": "2004-12-05",
+        "rating": "N/A",
+        "imdb_id": "tt0729703",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Evo vs. Lamborghini",
+        "released": "2004-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt0729704",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Ferrari 612 Scaglietti vs. Jet Plane",
+        "released": "2004-12-19",
+        "rating": "N/A",
+        "imdb_id": "tt0729705",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Clarkson Gets a Facelift in an Ariel Atom",
+        "released": "2004-12-26",
+        "rating": "N/A",
+        "imdb_id": "tt0729706",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

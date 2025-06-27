@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Munsters",
+        "released": "2023-03-26",
+        "rating": "8.6",
+        "imdb_id": "tt15771446",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Rehearsal",
+        "released": "2023-04-02",
+        "rating": "8.9",
+        "imdb_id": "tt21151972",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Connor's Wedding",
+        "released": "2023-04-09",
+        "rating": "9.9",
+        "imdb_id": "tt21151974",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Honeymoon States",
+        "released": "2023-04-16",
+        "rating": "9.0",
+        "imdb_id": "tt21152028",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Kill List",
+        "released": "2023-04-23",
+        "rating": "9.1",
+        "imdb_id": "tt21152030",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Living+",
+        "released": "2023-04-30",
+        "rating": "8.7",
+        "imdb_id": "tt21152032",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Tailgate Party",
+        "released": "2023-05-07",
+        "rating": "9.1",
+        "imdb_id": "tt21152034",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "America Decides",
+        "released": "2023-05-14",
+        "rating": "9.4",
+        "imdb_id": "tt21152036",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Church and State",
+        "released": "2023-05-21",
+        "rating": "9.4",
+        "imdb_id": "tt21152038",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "With Open Eyes",
+        "released": "2023-05-28",
+        "rating": "9.5",
+        "imdb_id": "tt21152040",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

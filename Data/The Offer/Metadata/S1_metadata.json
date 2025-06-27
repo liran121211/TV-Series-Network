@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "A Seat at the Table",
+        "released": "2022-04-28",
+        "rating": "8.2",
+        "imdb_id": "tt13567644",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Warning Shots",
+        "released": "2022-04-28",
+        "rating": "8.2",
+        "imdb_id": "tt13567654",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Fade In",
+        "released": "2022-04-28",
+        "rating": "8.4",
+        "imdb_id": "tt13567672",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Offer\\Subtitles\\S1\\The.Offer.S01E03~E01.WEBRip.x264-ION10S1E1.zip"
+    },
+    "4": {
+        "title": "The Right Shade of Yellow",
+        "released": "2022-05-05",
+        "rating": "8.5",
+        "imdb_id": "tt13567684",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Kiss the Ring",
+        "released": "2022-05-12",
+        "rating": "8.6",
+        "imdb_id": "tt13567702",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Offer\\Subtitles\\S1\\The.Offer.S01E05.WEBRip.x264-ION10S1E5.zip"
+    },
+    "6": {
+        "title": "A Stand Up Guy",
+        "released": "2022-05-19",
+        "rating": "8.5",
+        "imdb_id": "tt13567748",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Mr. Producer",
+        "released": "2022-05-26",
+        "rating": "8.7",
+        "imdb_id": "tt13567782",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Crossing That Line",
+        "released": "2022-06-02",
+        "rating": "8.3",
+        "imdb_id": "tt13567806",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Offer\\Subtitles\\S1\\The.Offer.S01xE08.WEBRip.x264-ION10_KOGI_CAKESS1E8.zip"
+    },
+    "9": {
+        "title": "It's Who We Are",
+        "released": "2022-06-09",
+        "rating": "N/A",
+        "imdb_id": "tt13568022",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Offer\\Subtitles\\S1\\The.Offer.S01xE09.WEBRip.REPACK.x264-ION10_KOGI_CAKESS1E9.zip"
+    },
+    "10": {
+        "title": "Brains and Balls",
+        "released": "2022-06-16",
+        "rating": "8.7",
+        "imdb_id": "tt13568116",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

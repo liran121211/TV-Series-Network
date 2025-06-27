@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Those Kinds of Things",
+        "released": "2011-10-02",
+        "rating": "N/A",
+        "imdb_id": "tt1790076",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S6\\Dexter.S06E01.DVDScr.x264-NOGRPS6E1.zip"
+    },
+    "2": {
+        "title": "Once Upon a Time...",
+        "released": "2011-10-09",
+        "rating": "7.9",
+        "imdb_id": "tt1890880",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S6\\Dexter.S06E02.Once.Upon.a.Time.HDTV.XviD-FQM-HIS6E2.zip"
+    },
+    "3": {
+        "title": "Smokey and the Bandit",
+        "released": "2011-10-16",
+        "rating": "N/A",
+        "imdb_id": "tt1890881",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S6\\Dexter.S06E03.Smokey.and.the.Bandit.HDTV.XviD-ASAP-HIS6E3.zip"
+    },
+    "4": {
+        "title": "A Horse of a Different Color",
+        "released": "2011-10-23",
+        "rating": "8.3",
+        "imdb_id": "tt1890882",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S6\\Dexter.S06E04.A.Horse.of.a.Different.Color_.HDTV.XviD-LOL-HIS6E4.zip"
+    },
+    "5": {
+        "title": "The Angel of Death",
+        "released": "2011-10-30",
+        "rating": "7.9",
+        "imdb_id": "tt1890883",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S6\\Dexter.S06E05.HDTV.XviD-SYSS6E5.zip"
+    },
+    "6": {
+        "title": "Just Let Go",
+        "released": "2011-11-06",
+        "rating": "8.4",
+        "imdb_id": "tt1890884",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S6\\Dexter.S06E06.PROPER.720p.HDTV.X264-DIMENSIONS6E6.zip"
+    },
+    "7": {
+        "title": "Nebraska",
+        "released": "2011-11-13",
+        "rating": "7.7",
+        "imdb_id": "tt1890885",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S6\\Dexter.S06E07.HDTV.XviD-LOLS6E7.zip"
+    },
+    "8": {
+        "title": "Sin of Omission",
+        "released": "2011-11-20",
+        "rating": "7.7",
+        "imdb_id": "tt1890886",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S6\\Dexter.S06E08.HDTV.XviD-ASAPS6E8.zip"
+    },
+    "9": {
+        "title": "Get Gellar",
+        "released": "2011-11-27",
+        "rating": "8.4",
+        "imdb_id": "tt1890887",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S6\\Dexter.S06E09.HDTV.XviD-LOLS6E9.zip"
+    },
+    "10": {
+        "title": "Ricochet Rabbit",
+        "released": "2011-12-04",
+        "rating": "N/A",
+        "imdb_id": "tt1890877",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Talk to the Hand",
+        "released": "2011-12-11",
+        "rating": "8.2",
+        "imdb_id": "tt1890878",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "This Is the Way the World Ends",
+        "released": "2011-12-18",
+        "rating": "9.1",
+        "imdb_id": "tt1890879",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

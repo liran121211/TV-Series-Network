@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "The Empty House",
+        "released": "1986-07-09",
+        "rating": "8.1",
+        "imdb_id": "tt0685622",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Priory School",
+        "released": "1986-07-16",
+        "rating": "8.0",
+        "imdb_id": "tt0685626",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Second Stain",
+        "released": "1986-07-23",
+        "rating": "8.1",
+        "imdb_id": "tt0210968",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Musgrave Ritual",
+        "released": "1986-07-30",
+        "rating": "8.4",
+        "imdb_id": "tt0685625",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Abbey Grange",
+        "released": "1986-08-06",
+        "rating": "8.0",
+        "imdb_id": "tt0685619",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Man with the Twisted Lip",
+        "released": "1986-08-13",
+        "rating": "8.0",
+        "imdb_id": "tt0685624",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Six Napoleons",
+        "released": "1986-08-20",
+        "rating": "8.0",
+        "imdb_id": "tt0685629",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Sign of Four",
+        "released": "1987-12-29",
+        "rating": "8.1",
+        "imdb_id": "tt27646163",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

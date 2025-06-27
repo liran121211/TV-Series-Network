@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Paint the Town Dash",
+        "released": "2009-08-16",
+        "rating": "5.4",
+        "imdb_id": "tt1496545",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Sex, Drugs and Consequences",
+        "released": "2009-08-23",
+        "rating": "4.8",
+        "imdb_id": "tt1497965",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Hangover Helpers",
+        "released": "2009-08-30",
+        "rating": "4.4",
+        "imdb_id": "tt1497962",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Seems Like Old Times",
+        "released": "2009-09-13",
+        "rating": "N/A",
+        "imdb_id": "tt1502542",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Models Don't Skateboard",
+        "released": "2009-09-20",
+        "rating": "3.6",
+        "imdb_id": "tt1503424",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Land of the Lost",
+        "released": "2009-09-27",
+        "rating": "3.9",
+        "imdb_id": "tt1503425",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

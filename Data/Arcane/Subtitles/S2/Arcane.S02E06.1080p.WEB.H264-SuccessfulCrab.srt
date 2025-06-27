@@ -1,0 +1,1251 @@
+﻿1
+00:00:44,500 --> 00:00:46,125
+<i>I see it now.</i>
+
+2
+00:00:53,916 --> 00:00:55,415
+<i>I can't let you leave.</i>
+
+3
+00:00:57,416 --> 00:00:59,915
+<i>I'm sorry you feel that way.</i>
+
+4
+00:00:59,916 --> 00:01:01,375
+<i>I'm sorry too.</i>
+
+5
+00:01:19,625 --> 00:01:21,125
+Poor Salo.
+
+6
+00:01:21,708 --> 00:01:23,499
+That isn't Jayce.
+
+7
+00:01:23,500 --> 00:01:26,333
+But there is another will
+at work within him.
+
+8
+00:01:27,166 --> 00:01:31,040
+I thought I heard something
+just before the portal closed.
+
+9
+00:01:31,041 --> 00:01:32,582
+Ancient, like a...
+
+10
+00:01:32,583 --> 00:01:33,916
+Like a voice.
+
+11
+00:01:35,166 --> 00:01:38,208
+This is a sophisticated conjuration.
+
+12
+00:01:38,916 --> 00:01:40,332
+A singularity,
+
+13
+00:01:40,333 --> 00:01:44,790
+simultaneously self-replicating
+and self-annihilating.
+
+14
+00:01:44,791 --> 00:01:47,708
+We've never seen complexity like this.
+
+15
+00:01:49,250 --> 00:01:50,458
+Flawless...
+
+16
+00:01:52,375 --> 00:01:53,583
+exquisite...
+
+17
+00:01:56,416 --> 00:01:57,541
+chaos.
+
+18
+00:02:17,375 --> 00:02:20,374
+{\an8}<i>♪ I wake up to the sounds
+Of the silence that allows ♪</i>
+
+19
+00:02:20,375 --> 00:02:23,374
+{\an8}<i>♪ For my mind to run around
+With my ear up to the ground ♪</i>
+
+20
+00:02:23,375 --> 00:02:26,790
+<i>♪ I'm searching to behold
+The stories that are told ♪</i>
+
+21
+00:02:26,791 --> 00:02:29,999
+<i>♪ When my back is to the world
+That was smiling when I turned ♪</i>
+
+22
+00:02:30,000 --> 00:02:35,790
+<i>♪ Tell you you're the greatest ♪</i>
+
+23
+00:02:35,791 --> 00:02:41,666
+<i>♪ But once you turn, they hate us ♪</i>
+
+24
+00:02:42,375 --> 00:02:45,415
+<i>♪ Oh, the misery ♪</i>
+
+25
+00:02:45,416 --> 00:02:48,582
+{\an8}<i>♪ Everybody wants to be my enemy ♪</i>
+
+26
+00:02:48,583 --> 00:02:51,832
+{\an8}<i>♪ Oh, spare the sympathy ♪</i>
+
+27
+00:02:51,833 --> 00:02:54,790
+{\an8}<i>♪ Everybody wants to be my enemy ♪</i>
+
+28
+00:02:54,791 --> 00:02:59,541
+{\an8}<i>♪ Pray it away, I swear
+I'll never be a saint, no way ♪</i>
+
+29
+00:03:00,083 --> 00:03:01,082
+{\an8}<i>♪ My enemy ♪</i>
+
+30
+00:03:01,083 --> 00:03:04,665
+{\an8}<i>♪ Pray it away, I swear
+I'll never be a saint ♪</i>
+
+31
+00:03:04,666 --> 00:03:06,250
+<i>♪ Look out for yourself ♪</i>
+
+32
+00:03:17,291 --> 00:03:21,665
+<i>Noxus prizes strength
+above all else,</i>
+
+33
+00:03:21,666 --> 00:03:24,958
+<i>defining it by three core principles.</i>
+
+34
+00:03:26,125 --> 00:03:27,000
+<i>Vision.</i>
+
+35
+00:03:27,625 --> 00:03:29,250
+<i>The top of the triangle.</i>
+
+36
+00:03:30,000 --> 00:03:33,415
+<i>Charting a course,
+and having the wisdom to navigate it.</i>
+
+37
+00:03:34,333 --> 00:03:37,332
+<i>This form is your base, child.</i>
+
+38
+00:03:37,333 --> 00:03:40,250
+<i>Your eyes see what others don't.</i>
+
+39
+00:03:41,625 --> 00:03:42,458
+<i>Might.</i>
+
+40
+00:03:43,125 --> 00:03:46,625
+<i>Bending your environment to your will.</i>
+
+41
+00:03:47,625 --> 00:03:50,082
+<i>Your speed is improving.</i>
+
+42
+00:03:50,083 --> 00:03:53,250
+<i>But eventually you need force.</i>
+
+43
+00:03:56,708 --> 00:03:59,833
+<i>Too much force
+exposes you to risk.</i>
+
+44
+00:04:01,375 --> 00:04:02,333
+<i>Indeed.</i>
+
+45
+00:04:06,833 --> 00:04:09,416
+<i>The last is guile.</i>
+
+46
+00:04:10,458 --> 00:04:11,665
+<i>Phantoms.</i>
+
+47
+00:04:11,666 --> 00:04:13,125
+<i>Tricksters.</i>
+
+48
+00:04:13,916 --> 00:04:14,915
+<i>Mages.</i>
+
+49
+00:04:14,916 --> 00:04:16,333
+<i>Absent honor.</i>
+
+50
+00:04:17,041 --> 00:04:18,832
+<i>Absent accountability.</i>
+
+51
+00:04:24,833 --> 00:04:26,208
+<i>Remember this, Caitlyn.</i>
+
+52
+00:04:27,791 --> 00:04:29,291
+<i>Tunnels in your eyes.</i>
+
+53
+00:04:29,958 --> 00:04:32,040
+<i>Lava in your veins.</i>
+
+54
+00:04:32,041 --> 00:04:34,166
+<i>Shadows in your heart.</i>
+
+55
+00:04:37,208 --> 00:04:39,416
+This is the truth of combat.
+
+56
+00:04:41,416 --> 00:04:43,791
+I've discovered a fourth principle.
+
+57
+00:04:44,333 --> 00:04:47,208
+One that heightens all others.
+
+58
+00:04:48,541 --> 00:04:50,582
+Sacrifice.
+
+59
+00:04:50,583 --> 00:04:52,583
+The temper born of suffering.
+
+60
+00:04:53,250 --> 00:04:56,208
+We understand it as others cannot.
+
+61
+00:04:56,916 --> 00:04:58,916
+We are kin.
+
+62
+00:05:03,875 --> 00:05:05,666
+Pardon the interruption.
+
+63
+00:05:07,041 --> 00:05:09,125
+I've tracked him to Zaun.
+
+64
+00:05:10,666 --> 00:05:12,791
+Let's hunt a beast.
+
+65
+00:05:34,583 --> 00:05:35,416
+Vi.
+
+66
+00:05:36,083 --> 00:05:37,583
+I hoped you might return.
+
+67
+00:05:38,625 --> 00:05:40,375
+You filthy traitor.
+
+68
+00:05:41,833 --> 00:05:42,666
+Yes.
+
+69
+00:05:43,208 --> 00:05:45,124
+That was me at my worst.
+
+70
+00:05:45,125 --> 00:05:46,333
+Simply awful.
+
+71
+00:05:47,083 --> 00:05:50,374
+But the Herald has freed me
+of my past self.
+
+72
+00:05:50,375 --> 00:05:53,416
+He's given me a chance to make amends.
+
+73
+00:05:55,083 --> 00:05:57,707
+- Excuse me. Some water?
+- All are welcome.
+
+74
+00:05:57,708 --> 00:06:01,374
+But I must ask you
+to surrender your weapons.
+
+75
+00:06:01,375 --> 00:06:03,124
+This is a place of peace.
+
+76
+00:06:03,125 --> 00:06:04,416
+Ugh.
+
+77
+00:06:09,375 --> 00:06:10,208
+Hm.
+
+78
+00:06:44,250 --> 00:06:45,541
+Welcome, you two.
+
+79
+00:06:46,791 --> 00:06:47,875
+Hello, friend.
+
+80
+00:06:49,750 --> 00:06:51,125
+Would you like some fruit?
+
+81
+00:06:53,291 --> 00:06:54,750
+The Herald's vision.
+
+82
+00:07:23,583 --> 00:07:26,041
+Come, he's expecting you.
+
+83
+00:08:00,208 --> 00:08:02,000
+We hear you can heal people.
+
+84
+00:08:58,333 --> 00:08:59,166
+Viktor.
+
+85
+00:09:00,000 --> 00:09:03,958
+You once told me, all systems have limits.
+
+86
+00:09:07,041 --> 00:09:09,583
+He is worth the risk.
+
+87
+00:09:18,458 --> 00:09:22,416
+Vander's psyche is
+deeply entangled with that of the beast.
+
+88
+00:09:23,000 --> 00:09:24,500
+How did you know his name?
+
+89
+00:09:25,041 --> 00:09:26,665
+He told me.
+
+90
+00:09:26,666 --> 00:09:28,957
+Ask for a miracle healer,
+
+91
+00:09:28,958 --> 00:09:31,125
+get a metal fortune cookie.
+
+92
+00:09:32,208 --> 00:09:34,041
+I saw your father.
+
+93
+00:09:34,833 --> 00:09:39,249
+His dream of your family
+and vision of Zaun as it could have been,
+
+94
+00:09:39,250 --> 00:09:40,166
+it was...
+
+95
+00:09:41,250 --> 00:09:42,083
+beautiful.
+
+96
+00:09:43,000 --> 00:09:43,875
+Cookie.
+
+97
+00:09:45,208 --> 00:09:46,208
+Can you help him?
+
+98
+00:09:46,916 --> 00:09:49,207
+I will do all in my power.
+
+99
+00:09:49,208 --> 00:09:50,957
+Hmm. Hmm?
+
+100
+00:09:50,958 --> 00:09:54,207
+However, I have one condition.
+
+101
+00:09:54,208 --> 00:09:56,375
+Looks like you got a couple.
+
+102
+00:09:56,875 --> 00:09:59,999
+You have much
+to offer this commune, Powder.
+
+103
+00:10:04,916 --> 00:10:09,125
+Your talents can be used to build,
+instead of destroy.
+
+104
+00:10:09,791 --> 00:10:13,208
+I'll stick with what I know, thanks.
+
+105
+00:10:14,583 --> 00:10:17,832
+My condition is that
+he must be restrained at night.
+
+106
+00:10:17,833 --> 00:10:21,666
+I've seen the harm of which he is capable.
+
+107
+00:10:24,708 --> 00:10:25,791
+What do you think?
+
+108
+00:10:27,791 --> 00:10:31,791
+You actually want my opinion?
+
+109
+00:10:38,041 --> 00:10:39,916
+I hate fortune cookies.
+
+110
+00:10:43,500 --> 00:10:45,916
+We're gonna get you out of there, Vander.
+
+111
+00:11:03,583 --> 00:11:06,583
+<i>♪ Can you find me? ♪</i>
+
+112
+00:11:07,708 --> 00:11:11,000
+<i>♪ I'm not hiding ♪</i>
+
+113
+00:11:12,041 --> 00:11:15,625
+<i>♪ All my memories ♪</i>
+
+114
+00:11:16,458 --> 00:11:19,791
+<i>♪ Aren't mine now ♪</i>
+
+115
+00:11:20,875 --> 00:11:23,041
+<i>♪ Not me ♪</i>
+
+116
+00:11:23,833 --> 00:11:26,666
+<i>♪ Show yourself ♪</i>
+
+117
+00:11:29,333 --> 00:11:31,708
+<i>♪ Not me ♪</i>
+
+118
+00:11:32,750 --> 00:11:34,332
+<i>♪ Show yourself ♪</i>
+
+119
+00:11:39,375 --> 00:11:43,415
+<i>♪ We're all creatures ♪</i>
+
+120
+00:11:43,416 --> 00:11:46,916
+<i>♪ Who am I to you? ♪</i>
+
+121
+00:11:47,708 --> 00:11:51,208
+<i>♪ Find the mirror ♪</i>
+
+122
+00:11:51,958 --> 00:11:55,958
+<i>♪ See what I see ♪</i>
+
+123
+00:12:28,333 --> 00:12:30,000
+<i>♪ Remember me ♪</i>
+
+124
+00:12:30,250 --> 00:12:33,540
+<i>♪ Remember me
+I'm on my own ♪</i>
+
+125
+00:12:33,541 --> 00:12:37,415
+<i>♪ Remember me
+I'm too far gone ♪</i>
+
+126
+00:12:37,416 --> 00:12:38,999
+<i>♪ I couldn't see ♪</i>
+
+127
+00:12:39,000 --> 00:12:40,707
+<i>♪ Remember me ♪</i>
+
+128
+00:12:40,708 --> 00:12:42,165
+<i>♪ Remember me... ♪</i>
+
+129
+00:12:42,166 --> 00:12:44,791
+- My girls.
+- Pow-Pow, come here.
+
+130
+00:12:46,250 --> 00:12:49,624
+<i>♪ All my life, I couldn't breathe ♪</i>
+
+131
+00:12:49,625 --> 00:12:56,915
+<i>♪ Remember me ♪</i>
+
+132
+00:12:56,916 --> 00:13:02,415
+<i>♪ Ooh ♪</i>
+
+133
+00:13:02,416 --> 00:13:05,790
+<i>♪ Ooh, ooh ♪</i>
+
+134
+00:13:05,791 --> 00:13:09,249
+<i>♪ Ooh ♪</i>
+
+135
+00:13:09,250 --> 00:13:11,624
+<i>♪ Oh ♪</i>
+
+136
+00:13:30,958 --> 00:13:32,458
+Do you remember them?
+
+137
+00:13:35,625 --> 00:13:37,791
+I remember Mom's smell the most.
+
+138
+00:13:39,291 --> 00:13:40,665
+- Axle grease.
+- Axle grease.
+
+139
+00:13:42,916 --> 00:13:44,250
+This place.
+
+140
+00:13:46,333 --> 00:13:48,166
+Do you think it could actually work?
+
+141
+00:13:48,708 --> 00:13:52,875
+Underground utopia,
+run by a skinny tin Machine Herald.
+
+142
+00:13:53,416 --> 00:13:55,833
+Maybe when Piltover slides into the sump.
+
+143
+00:13:59,166 --> 00:14:00,750
+What if we stayed?
+
+144
+00:14:01,583 --> 00:14:02,541
+Helped them out?
+
+145
+00:14:04,750 --> 00:14:05,583
+"We"?
+
+146
+00:14:23,625 --> 00:14:24,708
+Forward!
+
+147
+00:14:34,333 --> 00:14:35,166
+Halt.
+
+148
+00:14:37,333 --> 00:14:38,375
+No weapons.
+
+149
+00:14:39,125 --> 00:14:40,916
+I'm afraid the Herald insists.
+
+150
+00:14:57,250 --> 00:14:58,541
+If I may.
+
+151
+00:14:59,333 --> 00:15:03,040
+I believe this Herald may be
+a former pupil of mine.
+
+152
+00:15:03,041 --> 00:15:04,957
+A man of science.
+
+153
+00:15:04,958 --> 00:15:06,375
+Let me speak with him.
+
+154
+00:15:07,916 --> 00:15:09,000
+Hmm.
+
+155
+00:15:17,708 --> 00:15:19,749
+Ready our forces for tonight.
+
+156
+00:15:19,750 --> 00:15:22,375
+I should like to meet this Herald.
+
+157
+00:15:51,625 --> 00:15:53,666
+You've felt it, haven't you?
+
+158
+00:15:54,375 --> 00:15:55,541
+Your decline?
+
+159
+00:15:59,000 --> 00:16:01,249
+Your power is finite,
+
+160
+00:16:01,250 --> 00:16:03,291
+diminished by every use.
+
+161
+00:16:03,833 --> 00:16:06,041
+I've been expecting you, doctor.
+
+162
+00:16:07,291 --> 00:16:08,624
+Viktor.
+
+163
+00:16:08,625 --> 00:16:10,083
+Incredible.
+
+164
+00:16:10,666 --> 00:16:14,165
+What I wouldn't give
+to glimpse the world through your eyes.
+
+165
+00:16:14,166 --> 00:16:15,958
+To know what you know.
+
+166
+00:16:17,833 --> 00:16:21,624
+His quest led him astray
+of any trodden path.
+
+167
+00:16:21,625 --> 00:16:24,499
+His own shadow dissolved to darkness.
+
+168
+00:16:24,500 --> 00:16:27,500
+Now the only course was forward.
+
+169
+00:16:28,375 --> 00:16:31,916
+The only warmth, a dream of her waltz.
+
+170
+00:16:34,750 --> 00:16:36,749
+Knowledge is a paradox.
+
+171
+00:16:36,750 --> 00:16:38,415
+The more one understands,
+
+172
+00:16:38,416 --> 00:16:42,416
+the more one realizes
+the vastness of his ignorance.
+
+173
+00:16:45,625 --> 00:16:48,208
+Marvelous specimen, isn't he?
+
+174
+00:16:49,291 --> 00:16:53,166
+The regenerative qualities
+of his blood will stabilize you.
+
+175
+00:16:53,875 --> 00:16:56,915
+Apex Shimmer combined with you,
+
+176
+00:16:56,916 --> 00:16:59,541
+the apex form of Hextech.
+
+177
+00:17:00,500 --> 00:17:03,000
+What you are suggesting would destroy him.
+
+178
+00:17:03,833 --> 00:17:04,875
+And for what?
+
+179
+00:17:05,500 --> 00:17:06,458
+Conquest?
+
+180
+00:17:07,041 --> 00:17:09,166
+The greed of warmongers?
+
+181
+00:17:10,958 --> 00:17:12,915
+To complete your work.
+
+182
+00:17:12,916 --> 00:17:15,458
+To save us from ourselves.
+
+183
+00:17:17,041 --> 00:17:19,375
+You must survive, Viktor.
+
+184
+00:17:21,250 --> 00:17:24,249
+Do you believe in fate, doctor?
+
+185
+00:17:24,250 --> 00:17:27,332
+Our paths carved before us.
+
+186
+00:17:27,333 --> 00:17:30,916
+Guided by an invisible hand?
+
+187
+00:17:31,458 --> 00:17:34,707
+Not fate, evolution.
+
+188
+00:17:34,708 --> 00:17:38,833
+Nature's greatest force, forever in flux.
+
+189
+00:17:39,416 --> 00:17:40,250
+No.
+
+190
+00:17:40,916 --> 00:17:43,624
+Evolution has a destination.
+
+191
+00:17:43,625 --> 00:17:45,916
+Not to combat nature,
+
+192
+00:17:46,500 --> 00:17:48,500
+but to supersede it.
+
+193
+00:17:49,083 --> 00:17:52,416
+The final, glorious evolution.
+
+194
+00:17:55,250 --> 00:17:57,250
+But he isn't a specimen.
+
+195
+00:17:58,000 --> 00:17:59,208
+He's a man.
+
+196
+00:17:59,916 --> 00:18:01,833
+And he needs my help.
+
+197
+00:18:03,500 --> 00:18:07,875
+I will not sacrifice his humanity
+for your cause.
+
+198
+00:18:09,125 --> 00:18:10,458
+You may leave.
+
+199
+00:18:11,875 --> 00:18:12,708
+Very well.
+
+200
+00:18:13,416 --> 00:18:16,082
+But I assume you understand already,
+
+201
+00:18:16,083 --> 00:18:20,166
+if you perish,
+this community is soon to follow.
+
+202
+00:19:21,166 --> 00:19:22,541
+On the job, I see.
+
+203
+00:19:25,125 --> 00:19:26,500
+You can't be here.
+
+204
+00:19:27,083 --> 00:19:28,540
+Oh. Here, like where I landed
+
+205
+00:19:28,541 --> 00:19:31,790
+when this rich, unhinged mongoose
+just tackled me?
+
+206
+00:19:31,791 --> 00:19:33,333
+Mongoose?
+
+207
+00:19:35,083 --> 00:19:36,083
+Your hair.
+
+208
+00:19:36,833 --> 00:19:40,124
+You look like an angry oil slick.
+
+209
+00:19:40,125 --> 00:19:43,083
+Don't sugarcoat it, cupcake.
+
+210
+00:19:46,791 --> 00:19:50,125
+The routes in and out
+of this canyon are being monitored.
+
+211
+00:19:52,375 --> 00:19:55,333
+No one can come in or out
+without being questioned.
+
+212
+00:19:55,875 --> 00:19:57,000
+Who's out there?
+
+213
+00:20:01,333 --> 00:20:04,165
+We tracked some sort
+of new chemweapon down here.
+
+214
+00:20:04,166 --> 00:20:06,333
+A bloodthirsty murderous beast.
+
+215
+00:20:07,583 --> 00:20:09,375
+What are you doing here?
+
+216
+00:20:10,750 --> 00:20:13,666
+Trying to save... my dad.
+
+217
+00:20:19,583 --> 00:20:22,874
+Viktor believes he can save
+the man inside the beast.
+
+218
+00:20:22,875 --> 00:20:27,540
+If he succeeds, I'm afraid the creature's
+usefulness will be lost to us.
+
+219
+00:20:27,541 --> 00:20:29,875
+Then we'll have to force his hand.
+
+220
+00:20:30,458 --> 00:20:35,915
+I believe I can craft a serum
+that will prohibit Viktor's success.
+
+221
+00:20:37,041 --> 00:20:38,875
+Make sure it's secured.
+
+222
+00:20:40,666 --> 00:20:41,958
+Yes?
+
+223
+00:20:48,333 --> 00:20:49,541
+It's Vi.
+
+224
+00:21:13,458 --> 00:21:15,666
+So much for happy reunions.
+
+225
+00:21:16,708 --> 00:21:18,166
+Well done, Caitlyn.
+
+226
+00:21:46,875 --> 00:21:47,750
+It's time.
+
+227
+00:22:03,916 --> 00:22:05,999
+We have scouts up now, sir.
+
+228
+00:22:06,000 --> 00:22:07,333
+Six, collectively.
+
+229
+00:22:24,666 --> 00:22:27,000
+Slippery as an eel.
+
+230
+00:22:36,333 --> 00:22:37,916
+I knew you could get it.
+
+231
+00:22:43,541 --> 00:22:45,916
+Had some time to think lately.
+
+232
+00:22:47,416 --> 00:22:53,041
+Ever since you dropped into my life,
+it's like I put on glasses.
+
+233
+00:22:53,791 --> 00:22:58,333
+Except I can't tell
+whether everything's blurry or clear.
+
+234
+00:23:02,875 --> 00:23:04,624
+Wanna hear a dumb joke?
+
+235
+00:23:04,625 --> 00:23:08,457
+A sentimental ex-con, a giant furball,
+
+236
+00:23:08,458 --> 00:23:13,416
+and two of Piltover's most wanted
+walk into a weird cult.
+
+237
+00:23:15,541 --> 00:23:18,416
+And here comes the punch line.
+
+238
+00:23:21,625 --> 00:23:22,666
+Vi.
+
+239
+00:23:23,333 --> 00:23:25,999
+You've been quite a curiosity.
+
+240
+00:23:26,000 --> 00:23:28,665
+One who captured Caitlyn's heart.
+
+241
+00:23:28,666 --> 00:23:30,666
+I owe you thanks.
+
+242
+00:23:31,250 --> 00:23:34,833
+Your absence provided a vacuum
+I was able to fill.
+
+243
+00:23:36,541 --> 00:23:41,165
+In other circumstances, I might have
+offered you a position in my organization.
+
+244
+00:23:41,166 --> 00:23:42,916
+Your resilience is undeniable.
+
+245
+00:23:46,416 --> 00:23:48,250
+Of course, that won't be possible.
+
+246
+00:23:48,791 --> 00:23:51,708
+You cause too many complications.
+
+247
+00:23:52,291 --> 00:23:55,166
+Caitlyn must not be distracted.
+
+248
+00:23:56,166 --> 00:23:58,791
+Don't worry, she's not distracted.
+
+249
+00:24:00,250 --> 00:24:02,458
+You know, my father taught me about trust.
+
+250
+00:24:03,250 --> 00:24:07,166
+He told me if I wanted it,
+there were three things I needed to do:
+
+251
+00:24:07,916 --> 00:24:11,165
+Be honest, even if it means
+telling a self-righteous windbag
+
+252
+00:24:11,166 --> 00:24:13,041
+that her breath smells like a cesspool.
+
+253
+00:24:13,833 --> 00:24:14,958
+Be patient.
+
+254
+00:24:15,500 --> 00:24:19,250
+Mm, still haven't cracked that one,
+but being tied up sure helps.
+
+255
+00:24:19,916 --> 00:24:21,250
+And the third?
+
+256
+00:24:22,083 --> 00:24:25,540
+Just shut the fuck up.
+
+257
+00:24:40,958 --> 00:24:42,832
+The fissures are blocked by guard towers.
+
+258
+00:24:42,833 --> 00:24:45,415
+Patrols circle the commune
+at even intervals.
+
+259
+00:24:45,416 --> 00:24:49,707
+Her personal guard are posted
+here, here and here.
+
+260
+00:24:49,708 --> 00:24:51,874
+They aren't expecting trouble at home.
+
+261
+00:24:51,875 --> 00:24:54,165
+With flawless timing and luck and...
+
+262
+00:24:54,166 --> 00:24:56,291
+A big distraction.
+
+263
+00:25:05,708 --> 00:25:07,457
+<i>Whatever you do,</i>
+
+264
+00:25:07,458 --> 00:25:10,041
+<i>don't underestimate Ambessa.</i>
+
+265
+00:25:20,458 --> 00:25:21,874
+<i>Vander's in trouble.</i>
+
+266
+00:25:21,875 --> 00:25:23,125
+<i>I have a plan.</i>
+
+267
+00:25:23,666 --> 00:25:25,249
+<i>You're not gonna like it.</i>
+
+268
+00:25:40,750 --> 00:25:42,416
+Hope I was worth your time.
+
+269
+00:25:55,666 --> 00:25:57,124
+<i>I won't...</i>
+
+270
+00:25:57,125 --> 00:25:58,332
+<i>I won't fail.</i>
+
+271
+00:27:39,208 --> 00:27:40,291
+Vi sent me.
+
+272
+00:27:41,333 --> 00:27:43,291
+I'm going to get you out of here.
+
+273
+00:27:51,458 --> 00:27:53,541
+Ambessa believed in you.
+
+274
+00:27:55,833 --> 00:27:58,791
+Your death will be a deep cut.
+
+275
+00:28:56,333 --> 00:29:00,833
+Don't touch my daughter.
+
+276
+00:29:24,250 --> 00:29:25,250
+You.
+
+277
+00:30:04,916 --> 00:30:05,750
+<i>I won't fail.</i>
+
+278
+00:30:07,166 --> 00:30:08,541
+<i>I swear it.</i>
+
+279
+00:32:09,000 --> 00:32:10,041
+Vander.
+
+280
+00:33:02,875 --> 00:33:04,500
+<i>I understand now.</i>
+
+281
+00:33:05,458 --> 00:33:07,749
+<i>The message hidden within the pattern.</i>
+
+282
+00:33:09,083 --> 00:33:12,166
+<i>The reason for our failures
+in the commune.</i>
+
+283
+00:33:12,916 --> 00:33:14,208
+<i>The doctor was right.</i>
+
+284
+00:33:15,541 --> 00:33:16,875
+<i>It's inescapable.</i>
+
+285
+00:33:18,416 --> 00:33:19,541
+<i>Humanity.</i>
+
+286
+00:33:21,333 --> 00:33:23,375
+<i>Our very essence.</i>
+
+287
+00:33:24,708 --> 00:33:26,041
+<i>Our emotions...</i>
+
+288
+00:33:27,625 --> 00:33:28,625
+<i>Rage.</i>
+
+289
+00:33:29,791 --> 00:33:31,208
+<i>Compassion.</i>
+
+290
+00:33:32,250 --> 00:33:33,083
+<i>Hate.</i>
+
+291
+00:33:34,958 --> 00:33:37,625
+<i>Two sides of the same coin.</i>
+
+292
+00:33:38,166 --> 00:33:40,916
+<i>Inextricably bound.</i>
+
+293
+00:33:51,875 --> 00:33:53,208
+Vander, wait.
+
+294
+00:35:03,625 --> 00:35:04,457
+Pew!
+
+295
+00:35:04,458 --> 00:35:05,875
+Boo!
+
+296
+00:35:32,500 --> 00:35:34,500
+No!
+
+297
+00:35:42,041 --> 00:35:42,875
+Pew!
+
+298
+00:35:44,458 --> 00:35:45,500
+Isha!
+
+299
+00:36:04,375 --> 00:36:08,166
+<i>That which inspires us
+to our greatest good...</i>
+
+300
+00:36:11,458 --> 00:36:15,083
+<i>is also the cause of our greatest evil.</i>
+

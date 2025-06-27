@@ -1,0 +1,130 @@
+{
+    "1": {
+        "title": "Episode #1.1",
+        "released": "2019-12-14",
+        "rating": "N/A",
+        "imdb_id": "tt11032298",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #1.2",
+        "released": "2019-11-24",
+        "rating": "N/A",
+        "imdb_id": "tt11194566",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #1.3",
+        "released": "2019-12-21",
+        "rating": "N/A",
+        "imdb_id": "tt11194578",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #1.4",
+        "released": "2019-12-22",
+        "rating": "N/A",
+        "imdb_id": "tt11194570",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #1.5",
+        "released": "2019-12-28",
+        "rating": "N/A",
+        "imdb_id": "tt11194568",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #1.6",
+        "released": "2019-12-29",
+        "rating": "N/A",
+        "imdb_id": "tt11194574",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #1.7",
+        "released": "2019-12-14",
+        "rating": "N/A",
+        "imdb_id": "tt11194572",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #1.8",
+        "released": "2020-01-12",
+        "rating": "8.7",
+        "imdb_id": "tt11194576",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode #1.9",
+        "released": "2019-12-21",
+        "rating": "N/A",
+        "imdb_id": "tt11194580",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Episode #1.10",
+        "released": "2020-01-19",
+        "rating": "N/A",
+        "imdb_id": "tt11194582",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Episode #1.11",
+        "released": "2020-02-01",
+        "rating": "N/A",
+        "imdb_id": "tt11194584",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Episode #1.12",
+        "released": "2020-02-02",
+        "rating": "8.9",
+        "imdb_id": "tt11194586",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Episode #1.13",
+        "released": "2020-02-08",
+        "rating": "N/A",
+        "imdb_id": "tt11194590",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Episode #1.14",
+        "released": "2020-01-05",
+        "rating": "8.8",
+        "imdb_id": "tt11194588",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Episode #1.15",
+        "released": "2020-01-11",
+        "rating": "N/A",
+        "imdb_id": "tt11194592",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Episode #1.16",
+        "released": "2020-02-16",
+        "rating": "8.6",
+        "imdb_id": "tt11194594",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

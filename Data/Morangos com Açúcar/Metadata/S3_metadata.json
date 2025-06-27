@@ -1,0 +1,746 @@
+{
+    "2": {
+        "title": "Episode #3.2",
+        "released": "2005-12-28",
+        "rating": "N/A",
+        "imdb_id": "tt0879629",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #3.3",
+        "released": "2006-09-04",
+        "rating": "N/A",
+        "imdb_id": "tt0862268",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #3.4",
+        "released": "2006-06-17",
+        "rating": "N/A",
+        "imdb_id": "tt0886012",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #3.5",
+        "released": "2006-04-04",
+        "rating": "N/A",
+        "imdb_id": "tt0894457",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #3.7",
+        "released": "2006-06-14",
+        "rating": "N/A",
+        "imdb_id": "tt0860707",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #3.8",
+        "released": "2006-08-20",
+        "rating": "N/A",
+        "imdb_id": "tt0894458",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode #3.9",
+        "released": "2006-08-21",
+        "rating": "N/A",
+        "imdb_id": "tt0894459",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Episode #3.10",
+        "released": "2005-09-25",
+        "rating": "N/A",
+        "imdb_id": "tt0898601",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Episode #3.11",
+        "released": "2005-09-30",
+        "rating": "N/A",
+        "imdb_id": "tt0898602",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Episode #3.12",
+        "released": "2005-10-01",
+        "rating": "N/A",
+        "imdb_id": "tt0898603",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Episode #3.13",
+        "released": "2005-10-05",
+        "rating": "N/A",
+        "imdb_id": "tt0898604",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Episode #3.15",
+        "released": "2005-10-15",
+        "rating": "N/A",
+        "imdb_id": "tt0898606",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Episode #3.18",
+        "released": "2005-10-31",
+        "rating": "N/A",
+        "imdb_id": "tt0898609",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Episode #3.19",
+        "released": "2005-11-01",
+        "rating": "N/A",
+        "imdb_id": "tt0898610",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Episode #3.21",
+        "released": "2005-11-10",
+        "rating": "N/A",
+        "imdb_id": "tt0898612",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Episode #3.22",
+        "released": "2005-11-15",
+        "rating": "N/A",
+        "imdb_id": "tt0898613",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Episode #3.25",
+        "released": "2005-11-30",
+        "rating": "N/A",
+        "imdb_id": "tt0898616",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Episode #3.26",
+        "released": "2005-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt0898617",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Episode #3.27",
+        "released": "2005-12-05",
+        "rating": "N/A",
+        "imdb_id": "tt0898618",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Episode #3.31",
+        "released": "2005-12-25",
+        "rating": "N/A",
+        "imdb_id": "tt0898622",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Episode #3.32",
+        "released": "2005-12-30",
+        "rating": "N/A",
+        "imdb_id": "tt0898623",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Episode #3.33",
+        "released": "2005-12-31",
+        "rating": "N/A",
+        "imdb_id": "tt0898624",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Episode #3.35",
+        "released": "2006-01-05",
+        "rating": "N/A",
+        "imdb_id": "tt0898626",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Episode #3.37",
+        "released": "2006-01-15",
+        "rating": "N/A",
+        "imdb_id": "tt0898628",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Episode #3.38",
+        "released": "2006-01-20",
+        "rating": "N/A",
+        "imdb_id": "tt0898629",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Episode #3.39",
+        "released": "2006-01-25",
+        "rating": "N/A",
+        "imdb_id": "tt0898630",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Episode #3.40",
+        "released": "2006-01-31",
+        "rating": "N/A",
+        "imdb_id": "tt0898631",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Episode #3.42",
+        "released": "2006-02-05",
+        "rating": "N/A",
+        "imdb_id": "tt0898633",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Episode #3.43",
+        "released": "2006-02-10",
+        "rating": "N/A",
+        "imdb_id": "tt0898634",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Episode #3.44",
+        "released": "2006-02-15",
+        "rating": "N/A",
+        "imdb_id": "tt0898635",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "Episode #3.45",
+        "released": "2006-02-20",
+        "rating": "N/A",
+        "imdb_id": "tt0898636",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Episode #3.46",
+        "released": "2006-03-01",
+        "rating": "N/A",
+        "imdb_id": "tt0898637",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Episode #3.47",
+        "released": "2006-03-05",
+        "rating": "N/A",
+        "imdb_id": "tt0898638",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "Episode #3.48",
+        "released": "2006-03-10",
+        "rating": "N/A",
+        "imdb_id": "tt0898639",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "Episode #3.49",
+        "released": "2006-03-15",
+        "rating": "N/A",
+        "imdb_id": "tt0898640",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Episode #3.50",
+        "released": "2006-03-20",
+        "rating": "N/A",
+        "imdb_id": "tt0898641",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "Episode #3.51",
+        "released": "2006-03-25",
+        "rating": "N/A",
+        "imdb_id": "tt0898642",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Episode #3.52",
+        "released": "2006-03-30",
+        "rating": "N/A",
+        "imdb_id": "tt0898643",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "53": {
+        "title": "Episode #3.53",
+        "released": "2006-04-01",
+        "rating": "N/A",
+        "imdb_id": "tt0898644",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "54": {
+        "title": "Episode #3.54",
+        "released": "2006-04-05",
+        "rating": "N/A",
+        "imdb_id": "tt0898645",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "Episode #3.55",
+        "released": "2006-04-10",
+        "rating": "N/A",
+        "imdb_id": "tt0898646",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "56": {
+        "title": "Episode #3.56",
+        "released": "2006-04-15",
+        "rating": "N/A",
+        "imdb_id": "tt0898647",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "59": {
+        "title": "Episode #3.59",
+        "released": "2006-04-30",
+        "rating": "N/A",
+        "imdb_id": "tt0898650",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "61": {
+        "title": "Episode #3.61",
+        "released": "2006-05-05",
+        "rating": "N/A",
+        "imdb_id": "tt0898652",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "62": {
+        "title": "Episode #3.62",
+        "released": "2006-05-10",
+        "rating": "N/A",
+        "imdb_id": "tt0898653",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "64": {
+        "title": "Episode #3.64",
+        "released": "2006-05-20",
+        "rating": "N/A",
+        "imdb_id": "tt0898655",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "68": {
+        "title": "Episode #3.68",
+        "released": "2006-06-05",
+        "rating": "N/A",
+        "imdb_id": "tt0898659",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "69": {
+        "title": "Episode #3.69",
+        "released": "2006-06-10",
+        "rating": "N/A",
+        "imdb_id": "tt0898660",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "72": {
+        "title": "Episode #3.72",
+        "released": "2006-07-20",
+        "rating": "N/A",
+        "imdb_id": "tt0898663",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "73": {
+        "title": "Episode #3.73",
+        "released": "2006-07-25",
+        "rating": "N/A",
+        "imdb_id": "tt0898664",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "74": {
+        "title": "Episode #3.74",
+        "released": "2006-07-30",
+        "rating": "N/A",
+        "imdb_id": "tt0898665",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "75": {
+        "title": "Episode #3.75",
+        "released": "2006-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt0898666",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "76": {
+        "title": "Episode #3.76",
+        "released": "2006-08-05",
+        "rating": "N/A",
+        "imdb_id": "tt0898667",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "77": {
+        "title": "Episode #3.77",
+        "released": "2006-08-10",
+        "rating": "N/A",
+        "imdb_id": "tt0898668",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "78": {
+        "title": "Episode #3.78",
+        "released": "2006-08-15",
+        "rating": "N/A",
+        "imdb_id": "tt0898669",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "79": {
+        "title": "Episode #3.79",
+        "released": "2006-08-25",
+        "rating": "N/A",
+        "imdb_id": "tt0898670",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "80": {
+        "title": "Episode #3.80",
+        "released": "2006-08-30",
+        "rating": "N/A",
+        "imdb_id": "tt0898671",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "81": {
+        "title": "Episode #3.81",
+        "released": "2006-08-31",
+        "rating": "N/A",
+        "imdb_id": "tt0898672",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "82": {
+        "title": "Episode #3.82",
+        "released": "2006-09-01",
+        "rating": "N/A",
+        "imdb_id": "tt0898673",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "83": {
+        "title": "Episode #3.83",
+        "released": "2006-09-05",
+        "rating": "N/A",
+        "imdb_id": "tt0898674",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "84": {
+        "title": "Episode #3.84",
+        "released": "2006-09-10",
+        "rating": "N/A",
+        "imdb_id": "tt0898675",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "85": {
+        "title": "Episode #3.85",
+        "released": "2006-09-15",
+        "rating": "N/A",
+        "imdb_id": "tt0898676",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "86": {
+        "title": "Episode #3.86",
+        "released": "2006-09-16",
+        "rating": "N/A",
+        "imdb_id": "tt0898677",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "87": {
+        "title": "Episode #3.87",
+        "released": "2006-09-17",
+        "rating": "N/A",
+        "imdb_id": "tt0898678",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "88": {
+        "title": "Episode #3.88",
+        "released": "2006-11-12",
+        "rating": "N/A",
+        "imdb_id": "tt0898679",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "117": {
+        "title": "Episode #3.117",
+        "released": "2005-12-03",
+        "rating": "N/A",
+        "imdb_id": "tt1016983",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "151": {
+        "title": "Episode #3.151",
+        "released": "2006-03-11",
+        "rating": "N/A",
+        "imdb_id": "tt1017017",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "182": {
+        "title": "Episode #3.182",
+        "released": "2006-05-27",
+        "rating": "N/A",
+        "imdb_id": "tt1017048",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "183": {
+        "title": "Episode #3.183",
+        "released": "2006-05-28",
+        "rating": "N/A",
+        "imdb_id": "tt1017049",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "184": {
+        "title": "Episode #3.184",
+        "released": "2006-05-29",
+        "rating": "N/A",
+        "imdb_id": "tt1017050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "188": {
+        "title": "Episode #3.188",
+        "released": "2006-06-07",
+        "rating": "N/A",
+        "imdb_id": "tt1017054",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "189": {
+        "title": "Episode #3.189",
+        "released": "2006-06-11",
+        "rating": "N/A",
+        "imdb_id": "tt1017055",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "199": {
+        "title": "Episode #3.199",
+        "released": "2006-06-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108403",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "229": {
+        "title": "Episode #3.229",
+        "released": "2006-07-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108433",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "237": {
+        "title": "Episode #3.237",
+        "released": "2006-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108441",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "238": {
+        "title": "Episode #3.238",
+        "released": "2006-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108442",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "239": {
+        "title": "Episode #3.239",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1108443",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "240": {
+        "title": "Episode #3.240",
+        "released": "2006-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108444",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "241": {
+        "title": "Episode #3.241",
+        "released": "2006-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108445",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "242": {
+        "title": "Episode #3.242",
+        "released": "2006-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108446",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "243": {
+        "title": "Episode #3.243",
+        "released": "2006-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108447",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "245": {
+        "title": "Episode #3.245",
+        "released": "2006-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108449",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "246": {
+        "title": "Episode #3.246",
+        "released": "2006-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108450",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "247": {
+        "title": "Episode #3.247",
+        "released": "2006-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108451",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "248": {
+        "title": "Episode #3.248",
+        "released": "2006-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108452",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "249": {
+        "title": "Episode #3.249",
+        "released": "2006-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108453",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "250": {
+        "title": "Episode #3.250",
+        "released": "2006-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108454",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "251": {
+        "title": "Episode #3.251",
+        "released": "2006-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108455",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "252": {
+        "title": "Episode #3.252",
+        "released": "2006-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108456",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "253": {
+        "title": "Episode #3.253",
+        "released": "2006-09-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108457",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "254": {
+        "title": "Episode #3.254",
+        "released": "2006-09-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108458",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "256": {
+        "title": "Episode #3.256",
+        "released": "2006-09-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108460",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "258": {
+        "title": "Episode #3.258",
+        "released": "2006-09-01",
+        "rating": "N/A",
+        "imdb_id": "tt1108462",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

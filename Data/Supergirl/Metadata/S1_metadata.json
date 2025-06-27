@@ -1,0 +1,162 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2015-10-26",
+        "rating": "7.1",
+        "imdb_id": "tt4525842",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Stronger Together",
+        "released": "2015-11-02",
+        "rating": "7.1",
+        "imdb_id": "tt4550416",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Fight or Flight",
+        "released": "2015-11-09",
+        "rating": "7.2",
+        "imdb_id": "tt4603116",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "How Does She Do It?",
+        "released": "2015-11-23",
+        "rating": "7.3",
+        "imdb_id": "tt4944380",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Livewire",
+        "released": "2015-11-16",
+        "rating": "7.3",
+        "imdb_id": "tt4955280",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Red Faced",
+        "released": "2015-11-30",
+        "rating": "7.6",
+        "imdb_id": "tt4955282",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Human for a Day",
+        "released": "2015-12-07",
+        "rating": "7.9",
+        "imdb_id": "tt4955284",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Hostile Takeover",
+        "released": "2015-12-14",
+        "rating": "7.9",
+        "imdb_id": "tt4955278",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Blood Bonds",
+        "released": "2016-01-04",
+        "rating": "7.7",
+        "imdb_id": "tt4955286",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Childish Things",
+        "released": "2016-01-18",
+        "rating": "7.6",
+        "imdb_id": "tt4955274",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Strange Visitor from Another Planet",
+        "released": "2016-01-25",
+        "rating": "N/A",
+        "imdb_id": "tt4955288",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Bizarro",
+        "released": "2016-02-01",
+        "rating": "7.5",
+        "imdb_id": "tt4955276",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "For the Girl Who Has Everything",
+        "released": "2016-02-08",
+        "rating": "7.8",
+        "imdb_id": "tt4559950",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Truth, Justice and the American Way",
+        "released": "2016-02-22",
+        "rating": "7.3",
+        "imdb_id": "tt5238500",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Solitude",
+        "released": "2016-02-29",
+        "rating": "7.6",
+        "imdb_id": "tt5238502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Falling",
+        "released": "2016-03-14",
+        "rating": "8.6",
+        "imdb_id": "tt5238510",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Manhunter",
+        "released": "2016-03-21",
+        "rating": "8.0",
+        "imdb_id": "tt5238950",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Worlds Finest",
+        "released": "2016-03-28",
+        "rating": "8.6",
+        "imdb_id": "tt5238952",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Myriad",
+        "released": "2016-04-11",
+        "rating": "7.6",
+        "imdb_id": "tt5238960",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Better Angels",
+        "released": "2016-04-18",
+        "rating": "7.7",
+        "imdb_id": "tt5238972",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

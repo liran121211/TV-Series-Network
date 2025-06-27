@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Kingpin Strategy",
+        "released": "2017-09-01",
+        "rating": "7.9",
+        "imdb_id": "tt6038952",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S3\\Narcos.S03E01.720p.WEB.x264-STRiFE_(By_S.P.G)S3E1.zip"
+    },
+    "2": {
+        "title": "The Cali KGB",
+        "released": "2017-09-01",
+        "rating": "7.9",
+        "imdb_id": "tt6038958",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S3\\Narcos.S03E02.720p.WEB.x264-STRiFE-SDH-COLOREDS3E2.zip"
+    },
+    "3": {
+        "title": "Follow the Money",
+        "released": "2017-09-01",
+        "rating": "8.0",
+        "imdb_id": "tt6038962",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S3\\Narcos.S03E03.720p.WEB.x264-STRiFE-SDH-COLOREDS3E3.zip"
+    },
+    "4": {
+        "title": "Checkmate",
+        "released": "2017-09-01",
+        "rating": "8.9",
+        "imdb_id": "tt6038964",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S3\\Narcos.S03E04.720p.WEB.x264-STRiFE-SDH-COLOREDS3E4.zip"
+    },
+    "5": {
+        "title": "MRO",
+        "released": "2017-09-01",
+        "rating": "N/A",
+        "imdb_id": "tt6038966",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S3\\Narcos.S03E05.720p.WEB.x264-STRiFE-SDH-COLOREDS3E5.zip"
+    },
+    "6": {
+        "title": "Best Laid Plans",
+        "released": "2017-09-01",
+        "rating": "8.8",
+        "imdb_id": "tt6038968",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S3\\Narcos.S03E06.720p.WEB.x264-STRiFE-SDH-COLOREDS3E6.zip"
+    },
+    "7": {
+        "title": "Sin Salida",
+        "released": "2017-09-01",
+        "rating": "8.9",
+        "imdb_id": "tt6038970",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S3\\Narcos.S03E07.720p.WEB.x264-STRiFE-SDH-COLOREDS3E7.zip"
+    },
+    "8": {
+        "title": "Convivir",
+        "released": "2017-09-01",
+        "rating": "8.7",
+        "imdb_id": "tt6038972",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S3\\Narcos.S03E08.720p.WEB.x264-STRiFE.Force_Party_OnlyS3E8.zip"
+    },
+    "9": {
+        "title": "Todos Los Hombres del Presidente",
+        "released": "2017-09-01",
+        "rating": "9.3",
+        "imdb_id": "tt6038974",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Narcos\\Subtitles\\S3\\Narcos.S03E09.720p.WEB.x264-STRiFE-SDH-COLOREDS3E9.zip"
+    },
+    "10": {
+        "title": "Going Back to Cali",
+        "released": "2017-09-01",
+        "rating": "9.1",
+        "imdb_id": "tt6038976",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

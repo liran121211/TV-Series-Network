@@ -1,0 +1,146 @@
+{
+    "1": {
+        "title": "What Happened to Kate Kane?",
+        "released": "2021-01-17",
+        "rating": "5.2",
+        "imdb_id": "tt11568562",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S2\\Batwoman.S02E01.720p.HDTV.x264-SYNCOPYS2E1.zip"
+    },
+    "2": {
+        "title": "Prior Criminal History",
+        "released": "2021-01-24",
+        "rating": "5.7",
+        "imdb_id": "tt13583590",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S2\\Batwoman.S02E02.WEBRip.x264-ION10S2E2.zip"
+    },
+    "3": {
+        "title": "Bat Girl Magic!",
+        "released": "2021-01-31",
+        "rating": "6.1",
+        "imdb_id": "tt13583594",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S2\\Batwoman.S02E03.720p.HDTV.x264-SYNCOPYS2E3.zip"
+    },
+    "4": {
+        "title": "Fair Skin, Blue Eyes",
+        "released": "2021-02-14",
+        "rating": "5.9",
+        "imdb_id": "tt13583598",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S2\\Batwoman.S02E04.WEBRip.x264-ION10S2E4.zip"
+    },
+    "5": {
+        "title": "Gore on Canvas",
+        "released": "2021-02-21",
+        "rating": "5.9",
+        "imdb_id": "tt13583602",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S2\\Batwoman.S02E05.720p.HDTV.x264-SYNCOPYS2E5.zip"
+    },
+    "6": {
+        "title": "Do Not Resuscitate",
+        "released": "2021-02-28",
+        "rating": "5.8",
+        "imdb_id": "tt14040156",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S2\\Batwoman.S02E06.WEBRip.x264-ION10S2E6.zip"
+    },
+    "7": {
+        "title": "It's Best You Stop Digging",
+        "released": "2021-03-14",
+        "rating": "5.8",
+        "imdb_id": "tt13701154",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S2\\Batwoman.S02E07.Its.Best.You.Stop.Digging.720p.AMZN.WEB-DL.DDP5.1.x264-NTbS2E7.zip"
+    },
+    "8": {
+        "title": "Survived Much Worse",
+        "released": "2021-03-21",
+        "rating": "6.4",
+        "imdb_id": "tt14178778",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S2\\Batwoman.S02E08.WEBRip.x264-ION10S2E8.zip"
+    },
+    "9": {
+        "title": "Rule #1",
+        "released": "2021-03-28",
+        "rating": "6.2",
+        "imdb_id": "tt14227530",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S2\\Batwoman.S02E09.720p.x265.Web.HEVC.RMTeam.SRTS2E9.zip"
+    },
+    "10": {
+        "title": "Time Off for Good Behavior",
+        "released": "2021-04-11",
+        "rating": "5.9",
+        "imdb_id": "tt14338916",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Arrive Alive",
+        "released": "2021-04-18",
+        "rating": "6.3",
+        "imdb_id": "tt14363860",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Initiate Self-Destruct",
+        "released": "2021-05-02",
+        "rating": "6.5",
+        "imdb_id": "tt14425514",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "I'll Give You a Clue",
+        "released": "2021-05-09",
+        "rating": "6.8",
+        "imdb_id": "tt14456492",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "And Justice for All",
+        "released": "2021-05-16",
+        "rating": "6.2",
+        "imdb_id": "tt14569336",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Armed and Dangerous",
+        "released": "2021-06-06",
+        "rating": "6.7",
+        "imdb_id": "tt14613022",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Rebirth",
+        "released": "2021-06-13",
+        "rating": "7.0",
+        "imdb_id": "tt14625690",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S2\\Batwoman.S02E16.720p.HDTV.x264-SYNCOPYS2E16.zip"
+    },
+    "17": {
+        "title": "Kane, Kate",
+        "released": "2021-06-20",
+        "rating": "6.8",
+        "imdb_id": "tt14639264",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Power",
+        "released": "2021-06-27",
+        "rating": "6.8",
+        "imdb_id": "tt14720218",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S2\\SUBDL::batwoman-second-season-2822616.zip"
+    }
+}

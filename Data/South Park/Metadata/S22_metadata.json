@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Dead Kids",
+        "released": "2018-09-26",
+        "rating": "8.0",
+        "imdb_id": "tt4849022",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "A Boy and a Priest",
+        "released": "2018-10-03",
+        "rating": "7.6",
+        "imdb_id": "tt8653062",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Problem with a Poo",
+        "released": "2018-10-10",
+        "rating": "6.4",
+        "imdb_id": "tt8653064",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Tegridy Farms",
+        "released": "2018-10-17",
+        "rating": "7.8",
+        "imdb_id": "tt8653066",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Scoots",
+        "released": "2018-10-31",
+        "rating": "8.0",
+        "imdb_id": "tt8653068",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Time to Get Cereal",
+        "released": "2018-11-07",
+        "rating": "7.7",
+        "imdb_id": "tt8653070",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Nobody Got Cereal?",
+        "released": "2018-11-14",
+        "rating": "7.7",
+        "imdb_id": "tt8653074",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Buddha Box",
+        "released": "2018-11-28",
+        "rating": "7.3",
+        "imdb_id": "tt8653072",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Unfulfilled",
+        "released": "2018-12-05",
+        "rating": "7.6",
+        "imdb_id": "tt8653076",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Bike Parade",
+        "released": "2018-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt6647824",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

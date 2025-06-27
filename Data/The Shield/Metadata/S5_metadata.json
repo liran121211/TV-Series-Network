@@ -1,0 +1,90 @@
+{
+    "1": {
+        "title": "Extraction",
+        "released": "2006-01-10",
+        "rating": "8.2",
+        "imdb_id": "tt0699506",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S5\\The.Shield.S05E01.WS.DVDRip.XviD-SAiNTSS5E1.zip"
+    },
+    "2": {
+        "title": "Enemy of Good",
+        "released": "2006-01-17",
+        "rating": "8.0",
+        "imdb_id": "tt0699505",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S5\\The.Shield.S05E02.WS.DVDRip.XviD-SAiNTSS5E2.zip"
+    },
+    "3": {
+        "title": "Jailbait",
+        "released": "2006-01-24",
+        "rating": "N/A",
+        "imdb_id": "tt0699514",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Tapa Boca",
+        "released": "2006-01-31",
+        "rating": "N/A",
+        "imdb_id": "tt0699534",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S5\\The.Shield.S05E04-07.WS.DVDRip.XviD-SAiNTSS5E4.zip"
+    },
+    "5": {
+        "title": "Trophy",
+        "released": "2006-02-07",
+        "rating": "N/A",
+        "imdb_id": "tt0699540",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Rap Payback",
+        "released": "2006-02-14",
+        "rating": "N/A",
+        "imdb_id": "tt0699526",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Man Inside",
+        "released": "2006-02-21",
+        "rating": "N/A",
+        "imdb_id": "tt0699517",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Kavanaugh",
+        "released": "2006-02-28",
+        "rating": "N/A",
+        "imdb_id": "tt0699516",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S5\\The.Shield.S05E08-11.WS.DVDRip.XviD-SAiNTSS5E8.zip"
+    },
+    "9": {
+        "title": "Smoked",
+        "released": "2006-03-07",
+        "rating": "N/A",
+        "imdb_id": "tt0762492",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Of Mice and Lem",
+        "released": "2006-03-14",
+        "rating": "N/A",
+        "imdb_id": "tt0757684",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Postpartum",
+        "released": "2006-03-21",
+        "rating": "N/A",
+        "imdb_id": "tt0761273",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

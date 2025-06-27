@@ -1,0 +1,1474 @@
+﻿1
+00:00:16,916 --> 00:00:20,416
+<i>Well, it's all going to shit.</i>
+
+2
+00:00:22,208 --> 00:00:25,541
+<i>Chembarons warring
+for control of the Lanes.</i>
+
+3
+00:00:26,291 --> 00:00:30,083
+<i>Wannabe street thugs
+squabbling over scraps.</i>
+
+4
+00:00:31,000 --> 00:00:34,291
+<i>Just like when Vander shoved off.</i>
+
+5
+00:00:36,583 --> 00:00:38,291
+<i>Except this time...</i>
+
+6
+00:00:39,125 --> 00:00:42,375
+<i>you aren't here
+to put it all back together, because...</i>
+
+7
+00:00:46,666 --> 00:00:49,166
+<i>Because someone put
+all those holes in you.</i>
+
+8
+00:00:58,416 --> 00:01:00,291
+<i>Vi used to say I could fix anything.</i>
+
+9
+00:01:02,791 --> 00:01:04,833
+<i>Before I broke everything.</i>
+
+10
+00:01:06,958 --> 00:01:08,666
+<i>She used to say a lot.</i>
+
+11
+00:01:10,083 --> 00:01:11,416
+<i>Her and you.</i>
+
+12
+00:01:11,958 --> 00:01:15,000
+<i>Always bossing me around.</i>
+
+13
+00:01:17,208 --> 00:01:19,000
+<i>Now it's so quiet.</i>
+
+14
+00:01:21,708 --> 00:01:23,791
+<i>What am I supposed to do with that?</i>
+
+15
+00:01:58,500 --> 00:02:00,208
+<i>Have you had enough?</i>
+
+16
+00:02:25,583 --> 00:02:28,249
+<i>♪ I wake up to the sounds
+Of the silence that allows ♪</i>
+
+17
+00:02:28,250 --> 00:02:31,499
+<i>♪ For my mind to run around
+With my ear up to the ground ♪</i>
+
+18
+00:02:31,500 --> 00:02:34,957
+<i>♪ I'm searching to behold
+The stories that are told ♪</i>
+
+19
+00:02:34,958 --> 00:02:38,040
+{\an8}<i>♪ When my back is to the world
+That was smiling when I turned ♪</i>
+
+20
+00:02:38,041 --> 00:02:43,540
+{\an8}<i>♪ Tell you you're the greatest ♪</i>
+
+21
+00:02:43,541 --> 00:02:50,499
+{\an8}<i>♪ But once you turn, they hate us ♪</i>
+
+22
+00:02:50,500 --> 00:02:53,499
+<i>♪ Oh, the misery ♪</i>
+
+23
+00:02:53,500 --> 00:02:56,665
+<i>♪ Everybody wants to be my enemy ♪</i>
+
+24
+00:02:56,666 --> 00:02:59,624
+{\an8}<i>♪ Oh, spare the sympathy ♪</i>
+
+25
+00:02:59,625 --> 00:03:03,082
+{\an8}<i>♪ Everybody wants to be my enemy ♪</i>
+
+26
+00:03:03,083 --> 00:03:07,625
+<i>♪ Pray it away, I swear
+I'll never be a saint, no way ♪</i>
+
+27
+00:03:08,166 --> 00:03:09,207
+<i>♪ My enemy ♪</i>
+
+28
+00:03:09,208 --> 00:03:12,832
+<i>♪ Pray it away, I swear
+I'll never be a saint ♪</i>
+
+29
+00:03:12,833 --> 00:03:14,375
+<i>♪ Look out for yourself ♪</i>
+
+30
+00:03:40,833 --> 00:03:44,207
+<i>♪ Lonely rose on your grave ♪</i>
+
+31
+00:03:44,208 --> 00:03:46,750
+<i>♪ You poor sucker ♪</i>
+
+32
+00:03:47,458 --> 00:03:53,291
+<i>♪ One by one
+All these bloodhounds keep comin' ♪</i>
+
+33
+00:03:53,916 --> 00:03:57,040
+<i>♪ Sleep in the casket you made ♪</i>
+
+34
+00:03:57,041 --> 00:03:59,750
+<i>♪ You're gone, sucker ♪</i>
+
+35
+00:04:00,458 --> 00:04:07,041
+<i>♪ Too bad if you thought I let you go ♪</i>
+
+36
+00:04:07,625 --> 00:04:08,791
+<i>♪ No ♪</i>
+
+37
+00:04:11,041 --> 00:04:13,582
+<i>♪ Get the fuck out of my head ♪</i>
+
+38
+00:04:13,583 --> 00:04:15,750
+<i>♪ So long, sucker ♪</i>
+
+39
+00:04:16,791 --> 00:04:22,125
+<i>♪ I don't wanna see you
+I hate this life, whoa ♪</i>
+
+40
+00:04:24,000 --> 00:04:26,375
+<i>♪ Get your fingers out of my head ♪</i>
+
+41
+00:04:26,958 --> 00:04:29,582
+<i>♪ You're gone, sucker ♪</i>
+
+42
+00:04:29,583 --> 00:04:34,124
+<i>♪ Good luck killing me
+'Cause I'm already ♪</i>
+
+43
+00:04:34,125 --> 00:04:37,750
+<i>♪ Already dead inside ♪</i>
+
+44
+00:04:58,875 --> 00:05:00,749
+<i>♪ Dirty little animals ♪</i>
+
+45
+00:05:00,750 --> 00:05:04,750
+<i>♪ You cannibals
+Eat your supper ♪</i>
+
+46
+00:05:05,250 --> 00:05:11,415
+<i>♪ One by one
+All these vultures keep comin' ♪</i>
+
+47
+00:05:12,416 --> 00:05:15,540
+<i>♪ Pretty little animal
+Come down here ♪</i>
+
+48
+00:05:15,541 --> 00:05:18,125
+<i>♪ You're gone, sucker ♪</i>
+
+49
+00:05:20,750 --> 00:05:24,749
+<i>♪ Na, na, na, na ♪</i>
+
+50
+00:05:24,750 --> 00:05:28,041
+<i>♪ Na-na-na, na-na-na ♪</i>
+
+51
+00:05:33,833 --> 00:05:37,624
+<i>♪ Na, na, na, na ♪</i>
+
+52
+00:05:37,625 --> 00:05:42,291
+<i>♪ Na-na-na, na-na-na ♪</i>
+
+53
+00:05:44,750 --> 00:05:48,749
+<i>♪ Whoa, get back out of my head ♪</i>
+
+54
+00:05:48,750 --> 00:05:51,166
+<i>♪ So long, sucker ♪</i>
+
+55
+00:05:51,791 --> 00:05:56,290
+<i>♪ I don't wanna see you
+I hate this life, whoa... ♪</i>
+
+56
+00:05:56,291 --> 00:05:57,250
+You feel it?
+
+57
+00:05:57,791 --> 00:05:58,832
+That...
+
+58
+00:06:02,875 --> 00:06:05,375
+...buzzing behind your eyes?
+
+59
+00:06:06,291 --> 00:06:08,290
+Because you know, in a moment,
+
+60
+00:06:08,291 --> 00:06:11,000
+it could all... poow!
+
+61
+00:06:11,625 --> 00:06:12,541
+Hmm.
+
+62
+00:06:13,583 --> 00:06:15,416
+Best feeling in the world, kid.
+
+63
+00:06:22,541 --> 00:06:24,582
+Yep, that's me.
+
+64
+00:06:24,583 --> 00:06:26,957
+You ever need to curse a sibling
+
+65
+00:06:26,958 --> 00:06:29,125
+or a family or a society...
+
+66
+00:06:29,833 --> 00:06:30,958
+{\an8}my card.
+
+67
+00:06:33,250 --> 00:06:37,582
+<i>♪ Good luck killin' me
+'Cause I'm already ♪</i>
+
+68
+00:06:37,583 --> 00:06:41,458
+<i>♪ Already dead inside ♪</i>
+
+69
+00:06:46,875 --> 00:06:48,999
+Well, you know, far be it from me,
+
+70
+00:06:49,000 --> 00:06:51,957
+but, uh, you hired me to run the numbers.
+
+71
+00:06:51,958 --> 00:06:55,540
+And ever since we've gone up
+against the other chembarons,
+
+72
+00:06:55,541 --> 00:06:57,707
+the numbers are in the, uh...
+
+73
+00:06:57,708 --> 00:06:58,790
+Shitter?
+
+74
+00:06:58,791 --> 00:07:00,374
+Not exactly the term I...
+
+75
+00:07:00,375 --> 00:07:04,540
+Ever wonder why fat brains like you
+always wind up working for grunts like me?
+
+76
+00:07:04,541 --> 00:07:05,916
+No, uh, never.
+
+77
+00:07:06,416 --> 00:07:08,415
+You only use half your head.
+
+78
+00:07:08,416 --> 00:07:09,790
+Plotting moves.
+
+79
+00:07:09,791 --> 00:07:11,540
+Calculating odds.
+
+80
+00:07:11,541 --> 00:07:13,874
+Know how Silco took hold of the Lanes?
+
+81
+00:07:13,875 --> 00:07:16,207
+With his bare teeth.
+
+82
+00:07:16,208 --> 00:07:19,457
+It just, you know, seems, uh, hasty.
+
+83
+00:07:19,458 --> 00:07:22,999
+Last count, Margot had
+at least ten hitters guarding the stash.
+
+84
+00:07:23,000 --> 00:07:26,415
+Margot and Chross can buck
+all they want, but in the end,
+
+85
+00:07:26,416 --> 00:07:28,332
+I'll be the one smiling.
+
+86
+00:07:28,333 --> 00:07:30,082
+Until I'm in Silco's chair,
+
+87
+00:07:30,083 --> 00:07:35,041
+your only job is
+to make the numbers work, hmm?
+
+88
+00:07:48,458 --> 00:07:49,624
+The Grey.
+
+89
+00:07:49,625 --> 00:07:50,915
+All the way up here?
+
+90
+00:07:50,916 --> 00:07:53,582
+What do you know? Cleared the place out.
+
+91
+00:07:53,583 --> 00:07:55,915
+Might have made our jobs a lot easier.
+
+92
+00:07:55,916 --> 00:07:57,457
+No, no, no. We can't.
+
+93
+00:07:57,458 --> 00:08:00,499
+It's factory smog trapped underground.
+
+94
+00:08:00,500 --> 00:08:01,915
+No more, no less.
+
+95
+00:08:01,916 --> 00:08:02,833
+Boss.
+
+96
+00:08:09,166 --> 00:08:10,790
+You-- You go on ahead.
+
+97
+00:08:10,791 --> 00:08:12,041
+Report back.
+
+98
+00:08:13,416 --> 00:08:14,250
+Me?
+
+99
+00:08:58,458 --> 00:09:01,790
+I know you're all fantasizing
+about sawing each other's heads off.
+
+100
+00:09:01,791 --> 00:09:03,708
+So I'm gonna get right to it.
+
+101
+00:09:04,250 --> 00:09:06,040
+These turf wars have to stop.
+
+102
+00:09:06,041 --> 00:09:09,790
+These two have been the aggressors.
+I've only defended my interests.
+
+103
+00:09:09,791 --> 00:09:12,374
+Playing coy doesn't suit you, love.
+
+104
+00:09:12,375 --> 00:09:14,915
+You started this dance
+when you raided the Rapturewalk.
+
+105
+00:09:14,916 --> 00:09:17,499
+What could I want
+with your boulevard of filth?
+
+106
+00:09:17,500 --> 00:09:19,665
+Topside is the real enemy.
+
+107
+00:09:19,666 --> 00:09:22,999
+Us killing each other
+is playing right into their hands.
+
+108
+00:09:23,000 --> 00:09:26,290
+Our best shot is
+to put aside these petty squabbles
+
+109
+00:09:26,291 --> 00:09:28,082
+and join forces.
+
+110
+00:09:28,083 --> 00:09:31,665
+Ally with these two?
+I rather favor my chances with Topside.
+
+111
+00:09:31,666 --> 00:09:34,832
+Even together,
+they outnumber us four to one.
+
+112
+00:09:34,833 --> 00:09:37,582
+That's before all the recent casualties.
+
+113
+00:09:37,583 --> 00:09:39,040
+Might matter up there,
+
+114
+00:09:39,041 --> 00:09:42,125
+but they don't know the first thing
+about fighting in the fissures.
+
+115
+00:09:42,875 --> 00:09:44,124
+Hmm.
+
+116
+00:09:44,125 --> 00:09:45,208
+Is he dead?
+
+117
+00:09:45,750 --> 00:09:47,041
+Why is he so quiet?
+
+118
+00:09:49,375 --> 00:09:50,291
+She's right.
+
+119
+00:09:51,333 --> 00:09:54,332
+We don't get Topside off our backs,
+we don't last.
+
+120
+00:09:54,333 --> 00:09:56,665
+But I got a different solution.
+
+121
+00:09:56,666 --> 00:09:58,457
+We give them Jinx.
+
+122
+00:09:58,458 --> 00:10:00,083
+It's all they really want.
+
+123
+00:10:02,125 --> 00:10:04,707
+We don't hand over our people.
+
+124
+00:10:04,708 --> 00:10:08,499
+"We"? You don't do much
+of anything anymore, do you, magpie?
+
+125
+00:10:08,500 --> 00:10:11,458
+Bird without a wing's
+just a funny-looking rat.
+
+126
+00:10:14,875 --> 00:10:16,249
+Struck a nerve, did I?
+
+127
+00:10:16,250 --> 00:10:18,499
+Okay, I'll make you a deal.
+
+128
+00:10:18,500 --> 00:10:22,082
+You help me put a bow on Baby Blue
+for our friends upstairs,
+
+129
+00:10:22,083 --> 00:10:26,083
+I'll cut you a brand-new puncher,
+top of the line, all the fixings.
+
+130
+00:10:26,625 --> 00:10:27,874
+Think on it.
+
+131
+00:10:27,875 --> 00:10:29,290
+But I promise,
+
+132
+00:10:29,291 --> 00:10:31,708
+it's the last offer you're gonna get.
+
+133
+00:11:16,833 --> 00:11:20,583
+I can't believe you're dead
+and I'm still mopping up your messes.
+
+134
+00:11:22,958 --> 00:11:24,625
+Jeez, lady, you crazy?
+
+135
+00:11:26,583 --> 00:11:28,458
+Talking to dead people.
+
+136
+00:11:30,708 --> 00:11:32,583
+You here to finish me off?
+
+137
+00:11:33,250 --> 00:11:35,416
+Haven't I done you enough favors?
+
+138
+00:11:45,166 --> 00:11:46,666
+Same time every day.
+
+139
+00:11:48,958 --> 00:11:51,583
+Big baby couldn't do it himself.
+
+140
+00:12:01,291 --> 00:12:03,540
+- Couldn't do much himself.
+- Mm.
+
+141
+00:12:03,541 --> 00:12:07,665
+About now, he'd have me all over the Lanes
+running his collections.
+
+142
+00:12:07,666 --> 00:12:09,040
+Building his weapons.
+
+143
+00:12:09,041 --> 00:12:10,332
+Making his deals.
+
+144
+00:12:10,333 --> 00:12:12,208
+Exploding his enemies.
+
+145
+00:12:17,750 --> 00:12:19,124
+He dips out,
+
+146
+00:12:19,125 --> 00:12:21,416
+the whole world flips over.
+
+147
+00:12:30,833 --> 00:12:32,749
+All his plans.
+
+148
+00:12:32,750 --> 00:12:34,041
+Everything we built.
+
+149
+00:12:35,708 --> 00:12:37,916
+The hell we supposed to do now?
+
+150
+00:12:44,791 --> 00:12:46,250
+Watch it all burn.
+
+151
+00:12:59,875 --> 00:13:01,125
+What'd I tell you?
+
+152
+00:13:11,791 --> 00:13:12,958
+<i>Viktor.</i>
+
+153
+00:13:14,541 --> 00:13:15,624
+<i>Viktor.</i>
+
+154
+00:13:19,416 --> 00:13:20,749
+<i>Viktor!</i>
+
+155
+00:13:20,750 --> 00:13:22,124
+<i>Viktor...</i>
+
+156
+00:13:22,125 --> 00:13:23,332
+<i>Viktor!</i>
+
+157
+00:13:23,333 --> 00:13:25,082
+<i>Viktor...</i>
+
+158
+00:13:25,083 --> 00:13:26,500
+<i>Viktor.</i>
+
+159
+00:14:14,666 --> 00:14:15,666
+Jayce?
+
+160
+00:14:20,666 --> 00:14:21,500
+Viktor?
+
+161
+00:14:22,541 --> 00:14:23,583
+My God.
+
+162
+00:14:24,916 --> 00:14:25,750
+What...
+
+163
+00:14:26,625 --> 00:14:27,541
+am I?
+
+164
+00:14:28,541 --> 00:14:29,666
+You're...
+
+165
+00:14:30,208 --> 00:14:31,166
+You're alive.
+
+166
+00:14:33,833 --> 00:14:35,332
+You're-- You're alive.
+
+167
+00:14:44,750 --> 00:14:46,708
+Oh! Oh, uh...
+
+168
+00:14:47,333 --> 00:14:48,833
+You must be cold.
+
+169
+00:14:51,000 --> 00:14:51,958
+Cold.
+
+170
+00:14:52,625 --> 00:14:54,000
+No, I don't think so.
+
+171
+00:14:54,666 --> 00:14:57,749
+I sense a charge.
+
+172
+00:14:57,750 --> 00:14:59,000
+A potential.
+
+173
+00:14:59,583 --> 00:15:01,333
+A recursive impulse.
+
+174
+00:15:02,208 --> 00:15:03,666
+Unpleasant, but...
+
+175
+00:15:04,416 --> 00:15:06,083
+"cold" isn't its name.
+
+176
+00:15:12,083 --> 00:15:13,499
+The Hexcore.
+
+177
+00:15:13,500 --> 00:15:15,082
+Viktor, it saved you.
+
+178
+00:15:15,083 --> 00:15:17,915
+Somehow it-- It adapted to your injuries,
+
+179
+00:15:17,916 --> 00:15:19,374
+changing and evolving.
+
+180
+00:15:19,375 --> 00:15:22,666
+It was as if it was connected to you.
+
+181
+00:15:23,750 --> 00:15:26,415
+I did my best using the notes
+from your leg. Recorded everything.
+
+182
+00:15:26,416 --> 00:15:29,875
+- There are still so many questions, but--
+- I was supposed to die.
+
+183
+00:15:31,541 --> 00:15:33,874
+You promised to destroy the Hexcore.
+
+184
+00:15:33,875 --> 00:15:34,957
+No.
+
+185
+00:15:34,958 --> 00:15:36,499
+Don't you see?
+
+186
+00:15:36,500 --> 00:15:38,041
+Heimerdinger was wrong.
+
+187
+00:15:38,625 --> 00:15:40,624
+We were wrong. It's not as bad as we--
+
+188
+00:15:40,625 --> 00:15:43,165
+It killed Sky, Jayce.
+
+189
+00:15:43,166 --> 00:15:44,083
+What?
+
+190
+00:15:45,000 --> 00:15:45,833
+No.
+
+191
+00:15:46,583 --> 00:15:48,416
+She had such dreams.
+
+192
+00:15:57,541 --> 00:15:59,083
+As did we once.
+
+193
+00:16:03,166 --> 00:16:05,374
+I'm going to resign from the Council.
+
+194
+00:16:05,375 --> 00:16:06,874
+I understand now.
+
+195
+00:16:06,875 --> 00:16:10,166
+My place was always here
+in the lab with you.
+
+196
+00:16:10,708 --> 00:16:13,083
+We'll make this right. Together.
+
+197
+00:16:15,416 --> 00:16:17,791
+I must say goodbye
+to this place now.
+
+198
+00:16:18,416 --> 00:16:19,250
+To you.
+
+199
+00:16:19,791 --> 00:16:20,625
+Goodbye?
+
+200
+00:16:21,250 --> 00:16:22,832
+Viktor, you're my partner.
+
+201
+00:16:22,833 --> 00:16:25,666
+Our paths diverged long ago.
+
+202
+00:16:26,208 --> 00:16:30,291
+It was affection that held us together.
+
+203
+00:16:32,166 --> 00:16:33,874
+You think it's so easy?
+
+204
+00:16:33,875 --> 00:16:37,500
+To turn your back while your city
+looks to you for salvation?
+
+205
+00:16:38,291 --> 00:16:41,625
+To cling to principles while
+your best friend bleeds out in your arms?
+
+206
+00:16:42,500 --> 00:16:44,083
+I never asked for this.
+
+207
+00:16:47,541 --> 00:16:48,750
+Where are you going?
+
+208
+00:16:51,500 --> 00:16:53,041
+Goodbye, Jayce.
+
+209
+00:17:11,458 --> 00:17:13,000
+There's so many of them.
+
+210
+00:17:13,750 --> 00:17:17,291
+It's all the fighting.
+We're gonna have capacity issues soon.
+
+211
+00:17:18,000 --> 00:17:19,832
+Then there's the security risk.
+
+212
+00:17:19,833 --> 00:17:22,208
+We're not turning people away.
+
+213
+00:17:23,500 --> 00:17:26,916
+All these years,
+we finally get rid of Silco,
+
+214
+00:17:27,708 --> 00:17:29,790
+just so a new one can take his place.
+
+215
+00:17:32,666 --> 00:17:33,666
+Now watch this.
+
+216
+00:17:53,541 --> 00:17:56,041
+Oh, this is quite troubling.
+
+217
+00:17:56,625 --> 00:17:58,791
+That tree means so much.
+
+218
+00:17:59,416 --> 00:18:03,458
+It's our food. Fresh air.
+We built our whole identity around it.
+
+219
+00:18:04,458 --> 00:18:07,165
+Every time it seems
+like we might catch a break...
+
+220
+00:18:07,166 --> 00:18:10,290
+Ah, now, it's not lost yet, lad.
+
+221
+00:18:10,291 --> 00:18:14,625
+If there is a means of preservation,
+by golly, we'll find it.
+
+222
+00:18:15,208 --> 00:18:18,666
+I have seen something
+of this nature before.
+
+223
+00:18:38,000 --> 00:18:38,833
+Oh.
+
+224
+00:18:45,458 --> 00:18:46,750
+Ch-ch-ch.
+
+225
+00:18:47,458 --> 00:18:48,540
+Hmm.
+
+226
+00:18:48,541 --> 00:18:51,165
+Don't you essentially own this place?
+
+227
+00:18:51,166 --> 00:18:52,291
+Shh.
+
+228
+00:18:53,625 --> 00:18:55,208
+Come on.
+
+229
+00:19:01,708 --> 00:19:05,125
+The brambleback
+has left the jungle.
+
+230
+00:19:05,833 --> 00:19:10,375
+Uh, you do realize code phrases don't work
+when you make them up on the spot?
+
+231
+00:19:36,000 --> 00:19:37,250
+Shh.
+
+232
+00:19:42,000 --> 00:19:42,832
+Professor?
+
+233
+00:19:42,833 --> 00:19:44,790
+Yes, of course.
+
+234
+00:19:44,791 --> 00:19:47,666
+- What the devil's gotten into you?
+- I thought...
+
+235
+00:19:48,375 --> 00:19:50,458
+Why are you breaking into my lab?
+
+236
+00:19:51,041 --> 00:19:52,125
+And who's he?
+
+237
+00:19:54,416 --> 00:19:57,124
+This is my new pupil, Ekko.
+
+238
+00:19:57,125 --> 00:20:00,291
+Ekko, my former pupil Jayce.
+
+239
+00:20:01,625 --> 00:20:03,958
+- Hmm.
+- Hmm.
+
+240
+00:20:05,291 --> 00:20:07,374
+I apologize for the intrusion.
+
+241
+00:20:07,375 --> 00:20:09,916
+We were attempting to sneak in.
+
+242
+00:20:11,041 --> 00:20:13,790
+Oh, pishposh. Like you've never done it.
+
+243
+00:20:13,791 --> 00:20:16,541
+Were you sleeping here?
+
+244
+00:20:19,166 --> 00:20:21,166
+You drink tea, Ekko?
+
+245
+00:20:27,875 --> 00:20:28,833
+Ah.
+
+246
+00:20:32,416 --> 00:20:33,250
+You're right.
+
+247
+00:20:34,083 --> 00:20:35,540
+It matches the corruption we saw
+
+248
+00:20:35,541 --> 00:20:40,040
+on the plants we tested with the Hexcore,
+but where did you say you found this?
+
+249
+00:20:40,041 --> 00:20:41,540
+Deep in the underground.
+
+250
+00:20:41,541 --> 00:20:43,790
+Ekko's home is a marvelous place.
+
+251
+00:20:43,791 --> 00:20:44,915
+Truly a wonder.
+
+252
+00:20:44,916 --> 00:20:47,165
+- You should see what--
+- Hey.
+
+253
+00:20:47,166 --> 00:20:49,040
+Uh, right, uh, when I said "home,"
+
+254
+00:20:49,041 --> 00:20:52,415
+I was, of course,
+referring to his cognitive center.
+
+255
+00:20:52,416 --> 00:20:57,874
+- Not a physical location hidden in the...
+- Heimer, what are you doing?
+
+256
+00:20:57,875 --> 00:20:59,708
+Did any of the plants survive?
+
+257
+00:21:00,250 --> 00:21:02,666
+They weren't what we were trying to save.
+
+258
+00:21:03,208 --> 00:21:04,708
+But this pattern.
+
+259
+00:21:05,416 --> 00:21:07,791
+How could it be there and here?
+
+260
+00:21:11,625 --> 00:21:12,500
+Oh, no.
+
+261
+00:21:16,458 --> 00:21:17,458
+Where's Viktor?
+
+262
+00:21:38,000 --> 00:21:39,166
+It's okay.
+
+263
+00:21:57,333 --> 00:21:58,458
+<i>Viktor.</i>
+
+264
+00:22:03,416 --> 00:22:04,416
+<i>Viktor.</i>
+
+265
+00:22:25,458 --> 00:22:26,333
+Hmm.
+
+266
+00:22:36,375 --> 00:22:37,291
+Hmm.
+
+267
+00:22:39,291 --> 00:22:40,125
+Hmm.
+
+268
+00:22:43,541 --> 00:22:44,416
+Hmm.
+
+269
+00:26:08,041 --> 00:26:09,291
+It's all clear.
+
+270
+00:26:11,625 --> 00:26:12,916
+Sorry, commander.
+
+271
+00:27:30,833 --> 00:27:32,500
+Baby Blue.
+
+272
+00:27:33,791 --> 00:27:35,374
+Right through their fingers.
+
+273
+00:27:35,375 --> 00:27:37,332
+You must be part eel.
+
+274
+00:27:37,333 --> 00:27:40,165
+Just means I can up my finder's fee.
+
+275
+00:27:40,166 --> 00:27:42,500
+There's always a deal to be struck.
+
+276
+00:27:43,875 --> 00:27:46,790
+Ah, ah, ah. They want you alive.
+
+277
+00:27:46,791 --> 00:27:49,665
+But don't think
+I won't skewer out those peepers.
+
+278
+00:27:49,666 --> 00:27:52,291
+Drawback of you long-range types.
+
+279
+00:27:52,916 --> 00:27:55,833
+Me? I'm the kind of guy
+who likes to get in close.
+
+280
+00:27:57,208 --> 00:27:59,540
+Never thought I'd catch you blubbering.
+
+281
+00:27:59,541 --> 00:28:02,290
+Wonder if Silco even saw that.
+
+282
+00:28:02,291 --> 00:28:03,208
+Twice.
+
+283
+00:28:03,916 --> 00:28:05,375
+When he met me
+
+284
+00:28:05,916 --> 00:28:07,333
+and when I killed him.
+
+285
+00:28:07,875 --> 00:28:09,040
+You?
+
+286
+00:28:09,041 --> 00:28:11,249
+It's always me.
+
+287
+00:28:11,250 --> 00:28:13,457
+Whether I'm pulling the pin or not,
+
+288
+00:28:13,458 --> 00:28:16,125
+everyone who gets close to me dies.
+
+289
+00:28:16,708 --> 00:28:18,333
+Wanna know the real kicker?
+
+290
+00:28:20,541 --> 00:28:25,291
+You're the kind of guy
+who likes to get in close.
+
+291
+00:28:38,625 --> 00:28:40,457
+<i>♪ Whoo, yeah ♪</i>
+
+292
+00:28:40,458 --> 00:28:41,790
+<i>♪ Badness, yeah ♪</i>
+
+293
+00:28:41,791 --> 00:28:42,708
+<i>♪ Ah! ♪</i>
+
+294
+00:28:43,208 --> 00:28:44,207
+<i>♪ Let's go! ♪</i>
+
+295
+00:28:44,208 --> 00:28:46,415
+<i>♪ This is copin'
+And you're showing up ♪</i>
+
+296
+00:28:46,416 --> 00:28:49,540
+<i>♪ Bad beef from the East to Europe
+And just fold it up ♪</i>
+
+297
+00:28:49,541 --> 00:28:52,333
+<i>♪ Try to show me up
+'Cause they're loving the way I bus... ♪</i>
+
+298
+00:28:55,333 --> 00:28:58,040
+<i>♪ If we walkin', ain't no stoppin'
+'Cause police don't give a fuck ♪</i>
+
+299
+00:28:58,041 --> 00:29:01,165
+<i>♪ Who you with, what your color
+Your papa, your mother, son ♪</i>
+
+300
+00:29:01,166 --> 00:29:03,207
+<i>♪ Who you diss for 1 million... ♪</i>
+
+301
+00:29:04,208 --> 00:29:07,458
+<i>♪ This the gun, tell these bitches
+We never run ♪</i>
+
+302
+00:29:10,208 --> 00:29:13,291
+<i>♪ This the gun, tell these bitches
+We never run ♪</i>
+
+303
+00:29:16,125 --> 00:29:19,250
+<i>♪ This the gun, tell these bitches
+We never run ♪</i>
+
+304
+00:29:31,916 --> 00:29:33,290
+<i>♪ We're low, we're low ♪</i>
+
+305
+00:29:33,291 --> 00:29:34,708
+<i>♪ Yeah, we come to kill her ♪</i>
+
+306
+00:29:37,250 --> 00:29:39,290
+<i>♪ We're low, we're low, we're low ♪</i>
+
+307
+00:29:39,291 --> 00:29:40,916
+<i>♪ Yeah, we come to kill her... ♪</i>
+
+308
+00:29:46,000 --> 00:29:47,333
+Poow.
+
+309
+00:29:48,666 --> 00:29:49,500
+Hmm?
+
+310
+00:29:52,708 --> 00:29:54,291
+<i>♪ I'm never gonna let you in ♪</i>
+
+311
+00:29:55,916 --> 00:29:58,207
+<i>♪ Gonna break it down, burn the ground
+I'm a fire starter ♪</i>
+
+312
+00:29:58,208 --> 00:30:00,749
+<i>♪ You're the bullet and I'm the gun
+Bad bitches never run ♪</i>
+
+313
+00:30:00,750 --> 00:30:02,165
+<i>♪ Never run, run, run ♪</i>
+
+314
+00:30:02,166 --> 00:30:03,957
+<i>♪ Run, run, run ♪</i>
+
+315
+00:30:03,958 --> 00:30:07,165
+<i>♪ This the gun, tell these bitches
+We never run ♪</i>
+
+316
+00:30:07,166 --> 00:30:08,750
+<i>♪ Run, run, run ♪</i>
+
+317
+00:30:11,666 --> 00:30:14,707
+<i>♪ Shoot faster ♪</i>
+
+318
+00:30:14,708 --> 00:30:17,041
+<i>♪ Just a little bit of-- ♪</i>
+
+319
+00:30:21,416 --> 00:30:22,541
+Huh?
+
+320
+00:30:24,041 --> 00:30:26,833
+<i>♪ Do you ever wanna catch me? ♪</i>
+
+321
+00:30:29,666 --> 00:30:31,791
+<i>♪ So can you say a little louder ♪</i>
+
+322
+00:30:32,458 --> 00:30:34,790
+<i>♪ I'm really getting bored ♪</i>
+
+323
+00:30:34,791 --> 00:30:36,708
+<i>♪ Do you ever wanna catch me? ♪</i>
+
+324
+00:30:42,625 --> 00:30:45,791
+<i>♪ I'm really getting bored ♪</i>
+
+325
+00:30:47,541 --> 00:30:50,999
+Okay, wait, wait, wait.
+There's a deal to be struck here.
+
+326
+00:30:51,000 --> 00:30:54,290
+You forget, Smeech?
+You already made your last offer.
+
+327
+00:30:54,291 --> 00:30:57,499
+<i>♪ This the gun, tell these bitches
+We never run ♪</i>
+
+328
+00:31:15,250 --> 00:31:16,083
+Tell me,
+
+329
+00:31:16,625 --> 00:31:18,666
+who's a funny-looking rat now?
+
+330
+00:31:42,833 --> 00:31:44,415
+Fancy meeting you here.
+
+331
+00:31:44,416 --> 00:31:47,250
+Moron never could keep
+his damn mouth shut.
+
+332
+00:31:52,833 --> 00:31:55,040
+You could've just let me eat it.
+
+333
+00:31:55,041 --> 00:31:57,375
+Haven't I done you enough favors?
+
+334
+00:31:58,625 --> 00:32:00,458
+I didn't ask you for this.
+
+335
+00:32:01,041 --> 00:32:02,750
+It was something I could fix.
+
+336
+00:32:03,500 --> 00:32:05,666
+You got that look in your eye again.
+
+337
+00:32:06,208 --> 00:32:07,791
+What are you planning?
+
+338
+00:32:08,875 --> 00:32:11,416
+To finish what's left of my family.
+
+339
+00:32:17,041 --> 00:32:18,166
+Oh, God.
+
+340
+00:32:35,708 --> 00:32:36,833
+<i>Viktor.</i>
+
+341
+00:32:38,916 --> 00:32:39,750
+<i>Viktor.</i>
+
+342
+00:32:47,833 --> 00:32:50,707
+Careful not to scrape up the gear.
+
+343
+00:32:50,708 --> 00:32:53,125
+Won't sell as well.
+
+344
+00:33:04,416 --> 00:33:06,249
+Nothing personal, friend.
+
+345
+00:33:06,250 --> 00:33:10,000
+We just got needs we can't ignore.
+
+346
+00:33:15,541 --> 00:33:17,541
+So much senseless pain.
+
+347
+00:33:33,583 --> 00:33:34,750
+What are you doing?
+
+348
+00:34:53,083 --> 00:34:55,375
+You need not suffer anymore.
+
+349
+00:34:58,083 --> 00:34:58,916
+But...
+

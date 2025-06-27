@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Happy New Year",
+        "released": "2020-01-19",
+        "rating": "9.1",
+        "imdb_id": "tt7754536",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S10\\Curb.Your.Enthusiasm.S10E01.WEB.h264-TBSS10E1.zip"
+    },
+    "2": {
+        "title": "Side Sitting",
+        "released": "2020-01-26",
+        "rating": "8.0",
+        "imdb_id": "tt9663058",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Artificial Fruit",
+        "released": "2020-02-02",
+        "rating": "8.2",
+        "imdb_id": "tt9392394",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "You're Not Going to Get Me to Say Anything Bad About Mickey",
+        "released": "2020-02-09",
+        "rating": "8.6",
+        "imdb_id": "tt9663062",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Insufficient Praise",
+        "released": "2020-02-16",
+        "rating": "8.2",
+        "imdb_id": "tt9663066",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Surprise Party",
+        "released": "2020-02-23",
+        "rating": "8.1",
+        "imdb_id": "tt9663064",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Ugly Section",
+        "released": "2020-03-01",
+        "rating": "8.5",
+        "imdb_id": "tt9663068",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Elizabeth, Margaret and Larry",
+        "released": "2020-03-08",
+        "rating": "9.1",
+        "imdb_id": "tt9248766",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Beep Panic",
+        "released": "2020-03-15",
+        "rating": "8.1",
+        "imdb_id": "tt9663070",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Spite Store",
+        "released": "2020-03-22",
+        "rating": "8.6",
+        "imdb_id": "tt9663072",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

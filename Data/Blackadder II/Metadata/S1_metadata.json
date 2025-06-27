@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Bells",
+        "released": "1986-01-09",
+        "rating": "8.4",
+        "imdb_id": "tt0526716",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Head",
+        "released": "1986-01-16",
+        "rating": "8.3",
+        "imdb_id": "tt0526718",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Potato",
+        "released": "1986-01-23",
+        "rating": "8.2",
+        "imdb_id": "tt0526720",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Money",
+        "released": "1986-02-05",
+        "rating": "8.0",
+        "imdb_id": "tt0526719",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Beer",
+        "released": "1986-02-13",
+        "rating": "8.5",
+        "imdb_id": "tt0526715",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Chains",
+        "released": "1986-02-20",
+        "rating": "8.2",
+        "imdb_id": "tt0526717",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

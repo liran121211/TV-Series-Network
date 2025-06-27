@@ -1,0 +1,802 @@
+{
+    "1": {
+        "title": "Departure × and × Friends",
+        "released": "2016-04-17",
+        "rating": "7.5",
+        "imdb_id": "tt2103560",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Test × of × Tests",
+        "released": "2016-04-24",
+        "rating": "N/A",
+        "imdb_id": "tt2103563",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Rivals × for × Survival",
+        "released": "2016-05-01",
+        "rating": "N/A",
+        "imdb_id": "tt2103562",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Hope × and × Ambition",
+        "released": "2016-05-08",
+        "rating": "N/A",
+        "imdb_id": "tt2103561",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Hisoka × is × Sneaky",
+        "released": "2016-05-15",
+        "rating": "N/A",
+        "imdb_id": "tt2108770",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "A × Surprising × Challenge",
+        "released": "2016-05-22",
+        "rating": "7.2",
+        "imdb_id": "tt2108769",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Showdown × on × the Airship",
+        "released": "2016-06-05",
+        "rating": "N/A",
+        "imdb_id": "tt2112540",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Solution × Is × Majority Rules?",
+        "released": "2016-06-12",
+        "rating": "N/A",
+        "imdb_id": "tt2118257",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Beware × of × Prisoners",
+        "released": "2016-06-19",
+        "rating": "8.1",
+        "imdb_id": "tt2127859",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Trick × to the × Trick",
+        "released": "2016-06-26",
+        "rating": "7.7",
+        "imdb_id": "tt2130736",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Trouble × with the × Gamble",
+        "released": "2016-07-10",
+        "rating": "8.4",
+        "imdb_id": "tt2135334",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Last x Test of x Resolve!",
+        "released": "2016-07-17",
+        "rating": "N/A",
+        "imdb_id": "tt2144725",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Letter × From × Gon",
+        "released": "2016-07-24",
+        "rating": "4.1",
+        "imdb_id": "tt2203788",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Hit × the × Target",
+        "released": "2016-07-31",
+        "rating": "N/A",
+        "imdb_id": "tt2203792",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Explosion × of × Deception",
+        "released": "2016-08-07",
+        "rating": "N/A",
+        "imdb_id": "tt2203798",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Defeat × and × Disgrace",
+        "released": "2016-08-14",
+        "rating": "8.7",
+        "imdb_id": "tt2352006",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Trap × in × the Hole",
+        "released": "2016-08-21",
+        "rating": "N/A",
+        "imdb_id": "tt2352008",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Big × Time × Interview",
+        "released": "2016-08-28",
+        "rating": "N/A",
+        "imdb_id": "tt2352012",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Can't Win × But × Can't Lose",
+        "released": "2016-09-11",
+        "rating": "N/A",
+        "imdb_id": "tt2352014",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Baffling Turn × of × Events",
+        "released": "2016-09-18",
+        "rating": "8.9",
+        "imdb_id": "tt2352016",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Some × Brother × Trouble",
+        "released": "2016-09-25",
+        "rating": "N/A",
+        "imdb_id": "tt2352020",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "A × Dangerous × Watchdog",
+        "released": "2016-10-02",
+        "rating": "N/A",
+        "imdb_id": "tt2439680",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "The × Guard's × Duty",
+        "released": "2016-10-09",
+        "rating": "N/A",
+        "imdb_id": "tt2439682",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "The × Zoldyck × Family",
+        "released": "2016-10-16",
+        "rating": "8.1",
+        "imdb_id": "tt2439684",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Can't See × If × You're Blind",
+        "released": "2016-10-23",
+        "rating": "N/A",
+        "imdb_id": "tt2506420",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Then × and × After",
+        "released": "2016-11-06",
+        "rating": "4.1",
+        "imdb_id": "tt2506422",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Arrival × at × the Arena",
+        "released": "2016-11-13",
+        "rating": "N/A",
+        "imdb_id": "tt2506424",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Nen × and × Nen",
+        "released": "2016-11-20",
+        "rating": "N/A",
+        "imdb_id": "tt2506428",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Awakening × and × Potential",
+        "released": "2016-11-27",
+        "rating": "N/A",
+        "imdb_id": "tt2506430",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Fierce × and × Ferocious",
+        "released": "2016-12-04",
+        "rating": "N/A",
+        "imdb_id": "tt2506432",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Destiny × and × Tenacity",
+        "released": "2016-12-11",
+        "rating": "N/A",
+        "imdb_id": "tt2677550",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "A × Surprising × Win",
+        "released": "2016-12-18",
+        "rating": "8.7",
+        "imdb_id": "tt2677554",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "An × Empty × Threat",
+        "released": "2017-01-08",
+        "rating": "N/A",
+        "imdb_id": "tt2677558",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "Power × to × Avenge",
+        "released": "2017-01-15",
+        "rating": "N/A",
+        "imdb_id": "tt2677562",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "The × True × Pass",
+        "released": "2017-01-22",
+        "rating": "9.2",
+        "imdb_id": "tt2677566",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "A Big Debt × and × a Small Kick",
+        "released": "2017-01-29",
+        "rating": "N/A",
+        "imdb_id": "tt2677570",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Ging × and × Gon",
+        "released": "2017-02-05",
+        "rating": "7.9",
+        "imdb_id": "tt2856262",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Reply × from × Dad",
+        "released": "2017-02-12",
+        "rating": "N/A",
+        "imdb_id": "tt2856270",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Wish × and × Promise",
+        "released": "2017-02-19",
+        "rating": "N/A",
+        "imdb_id": "tt3068244",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Nen × Users × Unite?",
+        "released": "2017-02-26",
+        "rating": "N/A",
+        "imdb_id": "tt3068264",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Gathering × of × Heroes",
+        "released": "2017-03-05",
+        "rating": "N/A",
+        "imdb_id": "tt3068248",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Defend × and × Attack",
+        "released": "2017-03-12",
+        "rating": "N/A",
+        "imdb_id": "tt3068236",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "A × Shocking × Tragedy",
+        "released": "2017-03-19",
+        "rating": "8.5",
+        "imdb_id": "tt3068282",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Buildup × to a × Fierce Battle",
+        "released": "2017-03-26",
+        "rating": "9.0",
+        "imdb_id": "tt3344590",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "Restraint × and × Vow",
+        "released": "2017-04-02",
+        "rating": "N/A",
+        "imdb_id": "tt3344592",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Chasing × and × Waiting",
+        "released": "2017-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt3344598",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Condition × and × Condition",
+        "released": "2017-04-16",
+        "rating": "9.6",
+        "imdb_id": "tt2414266",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "Very × Sharp × Eye",
+        "released": "2017-04-23",
+        "rating": "N/A",
+        "imdb_id": "tt2414252",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "Pursuit × and × Analysis",
+        "released": "2017-04-30",
+        "rating": "N/A",
+        "imdb_id": "tt2414256",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Ally × and × Sword",
+        "released": "2017-05-07",
+        "rating": "8.4",
+        "imdb_id": "tt2859310",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "A × Brutal × Battlefield",
+        "released": "2017-05-14",
+        "rating": "9.3",
+        "imdb_id": "tt3055130",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Assault × and × Impact",
+        "released": "2017-05-21",
+        "rating": "9.3",
+        "imdb_id": "tt3055128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "53": {
+        "title": "Fake × and × Psyche",
+        "released": "2017-06-04",
+        "rating": "8.3",
+        "imdb_id": "tt3055136",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "54": {
+        "title": "Fortunes × Aren't × Right?",
+        "released": "2017-06-11",
+        "rating": "N/A",
+        "imdb_id": "tt3055138",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "Alies × and × Lies",
+        "released": "2017-06-18",
+        "rating": "N/A",
+        "imdb_id": "tt3055144",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "56": {
+        "title": "Beloved × and × Beleaguered",
+        "released": "2017-06-25",
+        "rating": "N/A",
+        "imdb_id": "tt3055146",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "57": {
+        "title": "Initiative × and × Law",
+        "released": "2017-07-09",
+        "rating": "N/A",
+        "imdb_id": "tt3055150",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "58": {
+        "title": "Signal × to × Retreat",
+        "released": "2017-07-16",
+        "rating": "9.1",
+        "imdb_id": "tt3055152",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "59": {
+        "title": "Bid × and × Haste",
+        "released": "2017-07-23",
+        "rating": "N/A",
+        "imdb_id": "tt3055154",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "60": {
+        "title": "End × and × Beginning",
+        "released": "2017-07-30",
+        "rating": "N/A",
+        "imdb_id": "tt3055158",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "61": {
+        "title": "Invitation × and × Friend",
+        "released": "2017-08-06",
+        "rating": "N/A",
+        "imdb_id": "tt3055160",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "62": {
+        "title": "Reality? × and × Raw",
+        "released": "2017-08-13",
+        "rating": "N/A",
+        "imdb_id": "tt3055162",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "63": {
+        "title": "A × Hard × Master?",
+        "released": "2017-08-20",
+        "rating": "N/A",
+        "imdb_id": "tt3055164",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "64": {
+        "title": "Strengthen × and × Threaten",
+        "released": "2017-08-27",
+        "rating": "N/A",
+        "imdb_id": "tt3055166",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "65": {
+        "title": "Evil Fist × and × Rock-Paper-Scissors",
+        "released": "2017-09-10",
+        "rating": "N/A",
+        "imdb_id": "tt3055170",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "66": {
+        "title": "Strategy × and × Scheme",
+        "released": "2017-09-17",
+        "rating": "N/A",
+        "imdb_id": "tt3055178",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "67": {
+        "title": "15 × 15",
+        "released": "2017-09-24",
+        "rating": "N/A",
+        "imdb_id": "tt3055180",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "68": {
+        "title": "Pirates × and × Guesses",
+        "released": "2017-10-01",
+        "rating": "N/A",
+        "imdb_id": "tt3055174",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "69": {
+        "title": "A × Heated × Showdown",
+        "released": "2017-10-08",
+        "rating": "N/A",
+        "imdb_id": "tt3055184",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "70": {
+        "title": "Guts × and × Courage",
+        "released": "2017-10-15",
+        "rating": "9.1",
+        "imdb_id": "tt3055176",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "71": {
+        "title": "Bargain × and × Deal",
+        "released": "2017-10-22",
+        "rating": "N/A",
+        "imdb_id": "tt3055182",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "72": {
+        "title": "Chase × and × Chance",
+        "released": "2017-11-05",
+        "rating": "N/A",
+        "imdb_id": "tt3055186",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "73": {
+        "title": "Insanity × and × Sanity",
+        "released": "2017-11-12",
+        "rating": "N/A",
+        "imdb_id": "tt3055190",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "74": {
+        "title": "Victor × and × Loser",
+        "released": "2017-11-19",
+        "rating": "8.9",
+        "imdb_id": "tt3055194",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "75": {
+        "title": "Ging's Friends × and × True Friends",
+        "released": "2017-12-03",
+        "rating": "N/A",
+        "imdb_id": "tt3055192",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "76": {
+        "title": "Reunion × and × Understanding",
+        "released": "2017-12-10",
+        "rating": "N/A",
+        "imdb_id": "tt2919438",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "77": {
+        "title": "Unease × and × Sighting",
+        "released": "2017-12-17",
+        "rating": "N/A",
+        "imdb_id": "tt3055198",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "78": {
+        "title": "Very × Rapid × Reproduction",
+        "released": "2018-01-07",
+        "rating": "N/A",
+        "imdb_id": "tt3055200",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "79": {
+        "title": "No × Good × NGL",
+        "released": "2018-01-14",
+        "rating": "N/A",
+        "imdb_id": "tt3055204",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "80": {
+        "title": "Evil × and × Terrible",
+        "released": "2018-01-21",
+        "rating": "8.3",
+        "imdb_id": "tt3055202",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "81": {
+        "title": "The × Fight × Begins",
+        "released": "2018-01-28",
+        "rating": "N/A",
+        "imdb_id": "tt3055208",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "82": {
+        "title": "Kite × and × Slots",
+        "released": "2018-02-04",
+        "rating": "8.3",
+        "imdb_id": "tt3055210",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "83": {
+        "title": "Inspiration × to × Evolve",
+        "released": "2018-02-11",
+        "rating": "N/A",
+        "imdb_id": "tt3055212",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "84": {
+        "title": "A × Fated × Awakening",
+        "released": "2018-02-18",
+        "rating": "N/A",
+        "imdb_id": "tt3055214",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "85": {
+        "title": "Light X and X Darkness",
+        "released": "2018-02-25",
+        "rating": "9.3",
+        "imdb_id": "tt3055216",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "86": {
+        "title": "Promise X and X Reunion",
+        "released": "2018-03-04",
+        "rating": "N/A",
+        "imdb_id": "tt3055218",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "87": {
+        "title": "Duel × and × Escape",
+        "released": "2018-03-11",
+        "rating": "N/A",
+        "imdb_id": "tt3055220",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "88": {
+        "title": "Rock-Paper-Scissors × and × Weakness",
+        "released": "2018-03-18",
+        "rating": "N/A",
+        "imdb_id": "tt3059298",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "89": {
+        "title": "Compassion X and X Strength",
+        "released": "2018-03-25",
+        "rating": "N/A",
+        "imdb_id": "tt3099296",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "90": {
+        "title": "Interest X and X Curse",
+        "released": "2018-04-08",
+        "rating": "7.6",
+        "imdb_id": "tt3099302",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "91": {
+        "title": "The Strong X and X the Weak",
+        "released": "2018-04-15",
+        "rating": "N/A",
+        "imdb_id": "tt3119282",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "92": {
+        "title": "One Wish X and X Two Promises",
+        "released": "2018-04-22",
+        "rating": "N/A",
+        "imdb_id": "tt3119286",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "93": {
+        "title": "Date X with X Palm",
+        "released": "2018-04-29",
+        "rating": "N/A",
+        "imdb_id": "tt3119290",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "94": {
+        "title": "Friend X and X Journey",
+        "released": "2018-05-06",
+        "rating": "8.3",
+        "imdb_id": "tt3297428",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "95": {
+        "title": "Grudge × and × Dread",
+        "released": "2018-05-13",
+        "rating": "N/A",
+        "imdb_id": "tt3344610",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "96": {
+        "title": "A × Lawless × Home",
+        "released": "2018-05-20",
+        "rating": "N/A",
+        "imdb_id": "tt3344614",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "97": {
+        "title": "Carnage × and × Devastation",
+        "released": "2018-06-03",
+        "rating": "N/A",
+        "imdb_id": "tt3344618",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "98": {
+        "title": "Infiltration × and × Selection",
+        "released": "2018-06-10",
+        "rating": "N/A",
+        "imdb_id": "tt3344628",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "99": {
+        "title": "Combination × and × Evolution",
+        "released": "2018-06-17",
+        "rating": "N/A",
+        "imdb_id": "tt3344646",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "100": {
+        "title": "Tracking × and × Pursuit",
+        "released": "2018-06-24",
+        "rating": "N/A",
+        "imdb_id": "tt3503268",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

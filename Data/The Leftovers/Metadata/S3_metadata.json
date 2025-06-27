@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Book of Kevin",
+        "released": "2017-04-16",
+        "rating": "8.8",
+        "imdb_id": "tt5262534",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Don't Be Ridiculous",
+        "released": "2017-04-23",
+        "rating": "N/A",
+        "imdb_id": "tt5337978",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Crazy Whitefella Thinking",
+        "released": "2017-04-30",
+        "rating": "8.5",
+        "imdb_id": "tt5337984",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "G'Day Melbourne",
+        "released": "2017-05-07",
+        "rating": "N/A",
+        "imdb_id": "tt5338010",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "It's a Matt, Matt, Matt, Matt World",
+        "released": "2017-05-14",
+        "rating": "8.7",
+        "imdb_id": "tt5338022",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Certified",
+        "released": "2017-05-21",
+        "rating": "9.0",
+        "imdb_id": "tt5338034",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Most Powerful Man in the World (and His Identical Twin Brother)",
+        "released": "2017-05-28",
+        "rating": "9.3",
+        "imdb_id": "tt5338040",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Book of Nora",
+        "released": "2017-06-04",
+        "rating": "9.5",
+        "imdb_id": "tt5338044",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode #3.9",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt5338050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Episode #3.10",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt5338052",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

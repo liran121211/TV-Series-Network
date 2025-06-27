@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Episode #27.1",
+        "released": "2019-07-14",
+        "rating": "5.7",
+        "imdb_id": "tt9169196",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S19\\Top.Gear.S19E01.480p.HDTV.x264-SMS19E1.zip"
+    },
+    "2": {
+        "title": "Episode #27.2",
+        "released": "2019-07-21",
+        "rating": "5.4",
+        "imdb_id": "tt10503840",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S19\\Top.Gear.S19E02.480p.HDTV.x264-SMS19E2.zip"
+    },
+    "3": {
+        "title": "Episode #27.3",
+        "released": "2019-07-28",
+        "rating": "4.5",
+        "imdb_id": "tt10503846",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #27.4",
+        "released": "2019-08-04",
+        "rating": "4.8",
+        "imdb_id": "tt10503856",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S19\\Top_Gear_S19E04_480p_HDTV_x264_SMS19E4.zip"
+    },
+    "5": {
+        "title": "Episode #27.5",
+        "released": "2019-08-11",
+        "rating": "5.9",
+        "imdb_id": "tt10503860",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

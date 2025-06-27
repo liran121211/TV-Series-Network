@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Chapter Ninety-Six: Welcome to Rivervale",
+        "released": "2021-11-16",
+        "rating": "5.0",
+        "imdb_id": "tt13977218",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S6\\Riverdale.US.S06E01.1080p.WEB.H264-DEXTEROUSS6E1.zip"
+    },
+    "2": {
+        "title": "Chapter Ninety-Seven: Ghost Stories",
+        "released": "2021-11-23",
+        "rating": "4.9",
+        "imdb_id": "tt13977630",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S6\\Riverdale.US.S06xE02.Chapter_Ninety-Seven_Ghost_Stories.WEBRip.x264-PECULATES6E2.zip"
+    },
+    "3": {
+        "title": "Chapter Ninety-Eight: Mr. Cypher",
+        "released": "2021-11-30",
+        "rating": "5.1",
+        "imdb_id": "tt15747050",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S6\\Riverdale.US.S06xE03.Chapter_Ninety-Seven_Mr._Cypher.WEBRip.x264-PECULATES6E3.zip"
+    },
+    "4": {
+        "title": "Chapter Ninety-Nine: The Witching Hour(s)",
+        "released": "2021-12-07",
+        "rating": "5.6",
+        "imdb_id": "tt15572586",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S6\\Riverdale.US.S06xE04.Chapter_Ninety-Nine_The_Witching_Hour_Parts.WEBRip.x264-ION10S6E4.zip"
+    },
+    "5": {
+        "title": "Chapter One Hundred: The Jughead Paradox",
+        "released": "2021-12-14",
+        "rating": "7.4",
+        "imdb_id": "tt15747054",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S6\\Riverdale.US.S06xE05.Chapter_One_Hundred_The_Jughead_Paradox.WEBRip.x264-PECULATES6E5.zip"
+    },
+    "6": {
+        "title": "Chapter One Hundred and One: Unbelievable",
+        "released": "2022-03-20",
+        "rating": "6.0",
+        "imdb_id": "tt16428536",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S6\\Riverdale.US.SE06xE22.WEBRip.x264-ION10_GOSSIPS6E6.zip"
+    },
+    "7": {
+        "title": "Chapter One Hundred and Two: Death at a Funeral",
+        "released": "2022-03-27",
+        "rating": "6.1",
+        "imdb_id": "tt18558682",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S6\\Riverdale.US.SE06xE07.Chapter_One_Hundred_and_Two__Death_at_a_Funeral.WEBRip.x264-ION10S6E7.zip"
+    },
+    "8": {
+        "title": "Chapter One Hundred and Three: The Town",
+        "released": "2022-04-03",
+        "rating": "N/A",
+        "imdb_id": "tt18884448",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S6\\Riverdale.US.SE06xE08.Chapter_One_Hundred_and_Three__The_Town.WEBRip.x264-ION10S6E8.zip"
+    },
+    "9": {
+        "title": "Chapter One Hundred and Four: The Serpent Queen's Gambit",
+        "released": "2022-04-10",
+        "rating": "6.3",
+        "imdb_id": "tt19048504",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S6\\Riverdale.US.SE06xE09.Chapter_One_Hundred_and_Four__The_Serpent_Queen's_Gambit.WEBRip.x264-PECULATES6E9.zip"
+    },
+    "10": {
+        "title": "Chapter One Hundred and Five: Folk Heroes",
+        "released": "2022-04-17",
+        "rating": "6.0",
+        "imdb_id": "tt19296606",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Chapter One Hundred and Six: Angels in America",
+        "released": "2022-04-24",
+        "rating": "6.4",
+        "imdb_id": "tt19409314",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Chapter One Hundred and Seven: In the Fog",
+        "released": "2022-05-01",
+        "rating": "6.0",
+        "imdb_id": "tt19715948",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Chapter One Hundred and Eight: Ex-Libris",
+        "released": "2022-05-08",
+        "rating": "N/A",
+        "imdb_id": "tt19797364",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Chapter One Hundred and Nine: Venomous",
+        "released": "2022-05-15",
+        "rating": "6.4",
+        "imdb_id": "tt19856552",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Chapter One Hundred and Ten: Things That Go Bump in the Night",
+        "released": "2022-05-22",
+        "rating": "6.1",
+        "imdb_id": "tt20114124",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Chapter One Hundred and Eleven: Blue Collar",
+        "released": "2022-05-29",
+        "rating": "5.9",
+        "imdb_id": "tt20222282",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Chapter One Hundred and Twelve: American Psychos",
+        "released": "2022-06-12",
+        "rating": "5.8",
+        "imdb_id": "tt20224978",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Chapter One Hundred and Thirteen: Biblical",
+        "released": "2022-06-26",
+        "rating": "N/A",
+        "imdb_id": "tt20603464",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Chapter One Hundred and Fourteen: The Witches of Riverdale",
+        "released": "2022-07-10",
+        "rating": "6.6",
+        "imdb_id": "tt21104736",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Chapter One Hundred and Fifteen: Return to Rivervale",
+        "released": "2022-07-17",
+        "rating": "6.6",
+        "imdb_id": "tt21151362",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Chapter One Hundred and Sixteen: The Stand",
+        "released": "2022-07-24",
+        "rating": "6.7",
+        "imdb_id": "tt21151364",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Chapter One Hundred and Seventeen: Night of the Comet",
+        "released": "2022-07-31",
+        "rating": "6.0",
+        "imdb_id": "tt21151366",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

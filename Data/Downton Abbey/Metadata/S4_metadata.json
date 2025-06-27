@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Episode #4.1",
+        "released": "2014-01-05",
+        "rating": "8.1",
+        "imdb_id": "tt2530858",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #4.2",
+        "released": "2014-01-05",
+        "rating": "7.9",
+        "imdb_id": "tt2746594",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #4.3",
+        "released": "2014-01-12",
+        "rating": "8.0",
+        "imdb_id": "tt2746600",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #4.4",
+        "released": "2014-01-19",
+        "rating": "7.8",
+        "imdb_id": "tt2746602",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S4\\Downton.Abbey.S04E04.720p.HDTV.x264-TLAS4E4.zip"
+    },
+    "5": {
+        "title": "Episode #4.5",
+        "released": "2014-01-26",
+        "rating": "8.1",
+        "imdb_id": "tt2752744",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S4\\Downton.Abbey.S04E05.Episode.5.720p.WEB-DL.AAC2.0.H.264-CtrlHDS4E5.zip"
+    },
+    "6": {
+        "title": "Episode #4.6",
+        "released": "2014-02-02",
+        "rating": "8.1",
+        "imdb_id": "tt2752784",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S4\\Downton.Abbey.S04E06.HDTV.XviD-AFGS4E6.zip"
+    },
+    "7": {
+        "title": "Episode #4.7",
+        "released": "2014-02-09",
+        "rating": "8.1",
+        "imdb_id": "tt2752752",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S4\\Downton.Abbey.S04E07.Episode.7.1080p.WEB-DL.AAC2.0.H.264-CtrlHDS4E7.zip"
+    },
+    "8": {
+        "title": "Episode #4.8",
+        "released": "2014-02-16",
+        "rating": "N/A",
+        "imdb_id": "tt2752760",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Downton Abbey\\Subtitles\\S4\\Downton.Abbey.S04E08.Episode.8.1080p.WEB-DL.AAC2.0.H.264-CtrlHDS4E8.zip"
+    },
+    "9": {
+        "title": "The London Season",
+        "released": "2014-02-23",
+        "rating": "8.4",
+        "imdb_id": "tt2819840",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

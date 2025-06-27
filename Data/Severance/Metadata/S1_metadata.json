@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Good News About Hell",
+        "released": "2022-02-18",
+        "rating": "8.1",
+        "imdb_id": "tt11650328",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Severance\\Subtitles\\S1\\Severance.Season.01.E01-08.All.Episodes.720p.WEB.x265-MiNXS1E1.zip"
+    },
+    "2": {
+        "title": "Half Loop",
+        "released": "2022-02-18",
+        "rating": "8.0",
+        "imdb_id": "tt13393872",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "In Perpetuity",
+        "released": "2022-02-25",
+        "rating": "7.7",
+        "imdb_id": "tt13399816",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Severance\\Subtitles\\S1\\Severance.S01E03.WEBRip.x264-ION10S1E3.zip"
+    },
+    "4": {
+        "title": "The You You Are",
+        "released": "2022-03-04",
+        "rating": "8.2",
+        "imdb_id": "tt13411248",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Grim Barbarity of Optics and Design",
+        "released": "2022-03-11",
+        "rating": "7.7",
+        "imdb_id": "tt13424090",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Hide and Seek",
+        "released": "2022-03-18",
+        "rating": "7.9",
+        "imdb_id": "tt13424092",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Defiant Jazz",
+        "released": "2022-03-25",
+        "rating": "8.8",
+        "imdb_id": "tt13424094",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "What's for Dinner?",
+        "released": "2022-04-01",
+        "rating": "8.9",
+        "imdb_id": "tt13424096",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The We We Are",
+        "released": "2022-04-08",
+        "rating": "9.7",
+        "imdb_id": "tt13424098",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Episode #1.10",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13424100",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

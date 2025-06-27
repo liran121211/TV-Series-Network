@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "Jurassic Mall",
+        "released": "2008-09-20",
+        "rating": "7.7",
+        "imdb_id": "tt1173378",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Mealworms, Indeed",
+        "released": "2008-09-27",
+        "rating": "N/A",
+        "imdb_id": "tt1175163",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Catfight",
+        "released": "2008-10-04",
+        "rating": "N/A",
+        "imdb_id": "tt1175164",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Underwater Menace",
+        "released": "2008-10-11",
+        "rating": "N/A",
+        "imdb_id": "tt1181753",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Silurian Sands",
+        "released": "2008-10-18",
+        "rating": "N/A",
+        "imdb_id": "tt1185979",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Traitor Revealed",
+        "released": "2008-10-25",
+        "rating": "N/A",
+        "imdb_id": "tt1189015",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Concrete Menagerie",
+        "released": "2008-11-01",
+        "rating": "7.9",
+        "imdb_id": "tt1189016",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

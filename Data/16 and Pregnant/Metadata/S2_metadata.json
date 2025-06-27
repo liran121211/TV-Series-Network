@@ -1,0 +1,90 @@
+{
+    "1": {
+        "title": "Jenelle",
+        "released": "2010-02-16",
+        "rating": "N/A",
+        "imdb_id": "tt1600215",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S02E01.Jenelle.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "10": {
+        "title": "Kailyn",
+        "released": "2010-04-20",
+        "rating": "N/A",
+        "imdb_id": "tt1653735",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S02E10.Brooke.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "11": {
+        "title": "Brooke",
+        "released": "2010-10-26",
+        "rating": "N/A",
+        "imdb_id": "tt1746631",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S02E11.Felicia.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "13": {
+        "title": "Emily",
+        "released": "2010-11-09",
+        "rating": "N/A",
+        "imdb_id": "tt1757947",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Markai 2010",
+        "released": "2010-11-16",
+        "rating": "N/A",
+        "imdb_id": "tt1764770",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Aubrey",
+        "released": "2010-11-23",
+        "rating": "N/A",
+        "imdb_id": "tt1781957",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Christina",
+        "released": "2010-11-30",
+        "rating": "N/A",
+        "imdb_id": "tt1786772",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Kayla",
+        "released": "2010-12-07",
+        "rating": "N/A",
+        "imdb_id": "tt1791697",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Megan",
+        "released": "2010-12-15",
+        "rating": "N/A",
+        "imdb_id": "tt1797553",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Ashley",
+        "released": "2010-12-22",
+        "rating": "N/A",
+        "imdb_id": "tt1801131",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "'Life After Labor' Finale Special",
+        "released": "2010-12-28",
+        "rating": "N/A",
+        "imdb_id": "tt2317445",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

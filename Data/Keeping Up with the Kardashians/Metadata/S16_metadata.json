@@ -1,0 +1,90 @@
+{
+    "1": {
+        "title": "Chicago Loyalty",
+        "released": "2019-03-31",
+        "rating": "N/A",
+        "imdb_id": "tt9212544",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Keeping Up with the Kardashians\\Subtitles\\S16\\Keeping.Up.with.the.Kardashians.S16E01.WEBRip.x264-ION10S16E1.zip"
+    },
+    "2": {
+        "title": "Kourtney's Choice",
+        "released": "2019-04-07",
+        "rating": "N/A",
+        "imdb_id": "tt10183612",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Keeping Up with the Kardashians\\Subtitles\\S16\\Keeping.Up.with.the.Kardashians.S16E02.WEBRip.x264-ION10S16E2.zip"
+    },
+    "3": {
+        "title": "Eat Pray Fight",
+        "released": "2019-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt10218702",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Soul(mate) Searching",
+        "released": "2019-04-28",
+        "rating": "N/A",
+        "imdb_id": "tt10451030",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Legally Brunette",
+        "released": "2019-05-05",
+        "rating": "N/A",
+        "imdb_id": "tt10451078",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Fire Escape",
+        "released": "2019-05-12",
+        "rating": "N/A",
+        "imdb_id": "tt10451096",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Unhappy Camper",
+        "released": "2019-06-02",
+        "rating": "N/A",
+        "imdb_id": "tt10451122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Christmas Chaos",
+        "released": "2019-06-09",
+        "rating": "N/A",
+        "imdb_id": "tt10675224",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Heavy Meddle",
+        "released": "2019-06-16",
+        "rating": "N/A",
+        "imdb_id": "tt10675300",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Treachery",
+        "released": "2019-06-24",
+        "rating": "N/A",
+        "imdb_id": "tt10675314",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Aftershocks",
+        "released": "2019-07-01",
+        "rating": "N/A",
+        "imdb_id": "tt10675318",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

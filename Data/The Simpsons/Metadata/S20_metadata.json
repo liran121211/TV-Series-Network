@@ -1,0 +1,170 @@
+{
+    "1": {
+        "title": "Sex, Pies and Idiot Scrapes",
+        "released": "2008-09-28",
+        "rating": "7.2",
+        "imdb_id": "tt1289258",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S20\\The.Simpsons.S20E01.WEB-DL.DSNPS20E1.zip"
+    },
+    "2": {
+        "title": "Lost Verizon",
+        "released": "2008-10-05",
+        "rating": "6.8",
+        "imdb_id": "tt1291175",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S20\\The.Simpsons.S20E02.WEB-DL.DSNPS20E2.zip"
+    },
+    "3": {
+        "title": "Double, Double, Boy in Trouble",
+        "released": "2008-10-19",
+        "rating": "6.8",
+        "imdb_id": "tt1291174",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S20\\The.Simpsons.S20E03.WEB-DL.DSNPS20E3.zip"
+    },
+    "4": {
+        "title": "Treehouse of Horror XIX",
+        "released": "2008-11-02",
+        "rating": "7.1",
+        "imdb_id": "tt1291168",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S20\\The.Simpsons.S20E04.WEB-DL.DSNPS20E4.zip"
+    },
+    "5": {
+        "title": "Dangerous Curves",
+        "released": "2008-11-09",
+        "rating": "6.5",
+        "imdb_id": "tt1291169",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S20\\The.Simpsons.S20E05.WEB-DL.DSNPS20E5.zip"
+    },
+    "6": {
+        "title": "Homer and Lisa Exchange Cross Words",
+        "released": "2008-11-16",
+        "rating": "7.1",
+        "imdb_id": "tt1291170",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S20\\The.Simpsons.S20E06.WEB-DL.DSNPS20E6.zip"
+    },
+    "7": {
+        "title": "MyPods and Boomsticks",
+        "released": "2008-11-30",
+        "rating": "7.1",
+        "imdb_id": "tt1291171",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S20\\The.Simpsons.S20E07.WEB-DL.DSNPS20E7.zip"
+    },
+    "8": {
+        "title": "The Burns and the Bees",
+        "released": "2008-12-07",
+        "rating": "6.5",
+        "imdb_id": "tt1291172",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S20\\The.Simpsons.S20E08.WEB-DL.DSNPS20E8.zip"
+    },
+    "9": {
+        "title": "Lisa the Drama Queen",
+        "released": "2009-01-25",
+        "rating": "N/A",
+        "imdb_id": "tt1291173",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S20\\The.Simpsons.S20E09.WEB-DL.DSNPS20E9.zip"
+    },
+    "10": {
+        "title": "Take My Life, Please",
+        "released": "2009-02-15",
+        "rating": "6.9",
+        "imdb_id": "tt1291155",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "How the Test Was Won",
+        "released": "2009-03-01",
+        "rating": "7.0",
+        "imdb_id": "tt1291156",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "No Loan Again, Naturally",
+        "released": "2009-03-08",
+        "rating": "N/A",
+        "imdb_id": "tt1291157",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Gone Maggie Gone",
+        "released": "2009-03-15",
+        "rating": "7.2",
+        "imdb_id": "tt1291158",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "In the Name of the Grandfather",
+        "released": "2009-03-22",
+        "rating": "6.4",
+        "imdb_id": "tt1291159",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Wedding for Disaster",
+        "released": "2009-03-29",
+        "rating": "6.5",
+        "imdb_id": "tt1291160",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Eeny Teeny Maya Moe",
+        "released": "2009-04-05",
+        "rating": "7.2",
+        "imdb_id": "tt1291161",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Good, the Sad and the Drugly",
+        "released": "2009-04-19",
+        "rating": "7.2",
+        "imdb_id": "tt1291162",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Father Knows Worst",
+        "released": "2009-04-26",
+        "rating": "6.9",
+        "imdb_id": "tt1291163",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Waverly Hills, 9021-D'Oh",
+        "released": "2009-05-03",
+        "rating": "7.1",
+        "imdb_id": "tt1291164",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Four Great Women and a Manicure",
+        "released": "2009-05-10",
+        "rating": "6.5",
+        "imdb_id": "tt1291165",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Coming to Homerica",
+        "released": "2009-05-17",
+        "rating": "7.2",
+        "imdb_id": "tt1291166",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

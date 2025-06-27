@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "The Sixth Extinction",
+        "released": "1999-11-07",
+        "rating": "7.7",
+        "imdb_id": "tt0751235",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S7\\The_X-Files_S07E01_The_Sixth_Extinction_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S7E1.zip"
+    },
+    "2": {
+        "title": "The Sixth Extinction II: Amor Fati",
+        "released": "1999-11-14",
+        "rating": "7.7",
+        "imdb_id": "tt0751236",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S7\\The_X-Files_S07E02_The_Sixth_Extinction_II_Amor_Fati_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S7E2.zip"
+    },
+    "3": {
+        "title": "Hungry",
+        "released": "1999-11-21",
+        "rating": "7.8",
+        "imdb_id": "tt0751140",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S7\\The_X-Files_S07E03_Hungry_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S7E3.zip"
+    },
+    "4": {
+        "title": "Millennium",
+        "released": "1999-11-28",
+        "rating": "7.8",
+        "imdb_id": "tt0751160",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S7\\The_X-Files_S07E04_Millennium_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S7E4.zip"
+    },
+    "5": {
+        "title": "Rush",
+        "released": "1999-12-05",
+        "rating": "7.3",
+        "imdb_id": "tt0751194",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S7\\The_X-Files_S07E05_Rush_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S7E5.zip"
+    },
+    "6": {
+        "title": "The Goldberg Variation",
+        "released": "1999-12-12",
+        "rating": "8.2",
+        "imdb_id": "tt0751227",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S7\\The_X-Files_S07E06_The_Goldberg_Variation_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S7E6.zip"
+    },
+    "7": {
+        "title": "Orison",
+        "released": "2000-01-09",
+        "rating": "7.5",
+        "imdb_id": "tt0751171",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S7\\The_X-Files_S07E07_Orison_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S7E7.zip"
+    },
+    "8": {
+        "title": "The Amazing Maleeni",
+        "released": "2000-01-16",
+        "rating": "8.1",
+        "imdb_id": "tt0751219",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S7\\The_X-Files_S07E08_The_Amazing_Maleeni_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S7E8.zip"
+    },
+    "9": {
+        "title": "Signs & Wonders",
+        "released": "2000-01-23",
+        "rating": "6.6",
+        "imdb_id": "tt0751203",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S7\\The_X-Files_S07E09_Signs_&_Wonders_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S7E9.zip"
+    },
+    "10": {
+        "title": "Sein und Zeit",
+        "released": "2000-02-06",
+        "rating": "7.9",
+        "imdb_id": "tt0751200",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Closure",
+        "released": "2000-02-13",
+        "rating": "8.0",
+        "imdb_id": "tt0751091",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "X-Cops",
+        "released": "2000-02-20",
+        "rating": "8.4",
+        "imdb_id": "tt0751264",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "First Person Shooter",
+        "released": "2000-02-27",
+        "rating": "N/A",
+        "imdb_id": "tt0751126",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Theef",
+        "released": "2000-03-12",
+        "rating": "7.3",
+        "imdb_id": "tt0751241",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "En Ami",
+        "released": "2000-03-19",
+        "rating": "8.0",
+        "imdb_id": "tt0751113",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Chimera",
+        "released": "2000-04-02",
+        "rating": "7.4",
+        "imdb_id": "tt0751088",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "All Things",
+        "released": "2000-04-09",
+        "rating": "7.0",
+        "imdb_id": "tt0751071",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Brand X",
+        "released": "2000-04-16",
+        "rating": "7.5",
+        "imdb_id": "tt0751087",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Hollywood A.D.",
+        "released": "2000-04-30",
+        "rating": "7.3",
+        "imdb_id": "tt0751136",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S9\\The.X-Files.S09E19.The.Truth.DVDRiP.XviD-AC3.FoVS9E19.zip"
+    },
+    "20": {
+        "title": "Fight Club",
+        "released": "2000-05-07",
+        "rating": "5.9",
+        "imdb_id": "tt0751123",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Je Souhaite",
+        "released": "2000-05-14",
+        "rating": "8.4",
+        "imdb_id": "tt0751145",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Requiem",
+        "released": "2000-05-21",
+        "rating": "8.5",
+        "imdb_id": "tt0751190",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

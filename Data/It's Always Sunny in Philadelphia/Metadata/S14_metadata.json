@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Gang Gets Romantic",
+        "released": "2019-09-25",
+        "rating": "7.9",
+        "imdb_id": "tt5599484",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Thunder Gun 4: Maximum Cool",
+        "released": "2019-10-02",
+        "rating": "7.8",
+        "imdb_id": "tt6362502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Dee Day",
+        "released": "2019-10-09",
+        "rating": "8.3",
+        "imdb_id": "tt6362506",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Gang Chokes",
+        "released": "2019-10-16",
+        "rating": "8.0",
+        "imdb_id": "tt6362504",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Gang Texts",
+        "released": "2019-10-23",
+        "rating": "8.0",
+        "imdb_id": "tt6362508",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Janitor Always Mops Twice",
+        "released": "2019-10-30",
+        "rating": "8.5",
+        "imdb_id": "tt6362512",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Gang Solves Global Warming",
+        "released": "2019-11-06",
+        "rating": "8.0",
+        "imdb_id": "tt6362510",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Paddy's Has a Jumper",
+        "released": "2019-11-13",
+        "rating": "8.3",
+        "imdb_id": "tt6362514",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "A Woman's Right to Chop",
+        "released": "2019-11-20",
+        "rating": "7.8",
+        "imdb_id": "tt6362518",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Waiting for Big Mo",
+        "released": "2019-11-20",
+        "rating": "7.7",
+        "imdb_id": "tt6362520",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

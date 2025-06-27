@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Mugging",
+        "released": "2005-11-11",
+        "rating": "7.9",
+        "imdb_id": "tt0672487",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Sectioning",
+        "released": "2005-11-18",
+        "rating": "7.8",
+        "imdb_id": "tt0672488",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Shrooming",
+        "released": "2005-11-25",
+        "rating": "8.6",
+        "imdb_id": "tt0672489",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Sistering",
+        "released": "2005-12-02",
+        "rating": "8.0",
+        "imdb_id": "tt0672490",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Jurying",
+        "released": "2005-12-09",
+        "rating": "8.1",
+        "imdb_id": "tt0672491",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Quantocking",
+        "released": "2005-12-16",
+        "rating": "8.5",
+        "imdb_id": "tt0672492",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

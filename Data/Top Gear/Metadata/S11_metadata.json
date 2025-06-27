@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Police Car Challenge",
+        "released": "2008-06-22",
+        "rating": "N/A",
+        "imdb_id": "tt1248080",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S2\\Top.Gear.S32E01.WEBS2E1.zip"
+    },
+    "2": {
+        "title": "Audi RS6 vs French Skiers Race",
+        "released": "2008-06-29",
+        "rating": "N/A",
+        "imdb_id": "tt1253297",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S2\\Top.Gear.S32E02.WEBS2E2.zip"
+    },
+    "3": {
+        "title": "Cheap Car Challenge: Alfa Romeos for £1,000",
+        "released": "2008-07-06",
+        "rating": "N/A",
+        "imdb_id": "tt1258608",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S2\\Top.Gear.S32E03.WEBS2E3.zip"
+    },
+    "4": {
+        "title": "Nissan GT-R vs Japanese Bullet Train Epic Race",
+        "released": "2008-07-13",
+        "rating": "N/A",
+        "imdb_id": "tt1261728",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S2\\Top.Gear.S32E04.WEBS2E4.zip"
+    },
+    "5": {
+        "title": "Classic Luxury Limousines - Daihatsu Terios Fox Hunting Challenge",
+        "released": "2008-07-20",
+        "rating": "N/A",
+        "imdb_id": "tt1264801",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S2\\Top.Gear.S32E05.WEBS2E5.zip"
+    },
+    "6": {
+        "title": "The British (Top Gear) vs. The Germans (D Motor) Showdown",
+        "released": "2008-07-27",
+        "rating": "N/A",
+        "imdb_id": "tt1267804",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

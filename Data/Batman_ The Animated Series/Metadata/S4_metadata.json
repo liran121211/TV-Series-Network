@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "The Terrible Trio",
+        "released": "1995-09-11",
+        "rating": "6.8",
+        "imdb_id": "tt0519639",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Showdown",
+        "released": "1995-09-12",
+        "rating": "7.5",
+        "imdb_id": "tt0519622",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Catwalk",
+        "released": "1995-09-13",
+        "rating": "7.7",
+        "imdb_id": "tt0519577",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "A Bullet for Bullock",
+        "released": "1995-09-14",
+        "rating": "8.1",
+        "imdb_id": "tt0519565",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Lion and the Unicorn",
+        "released": "1995-09-15",
+        "rating": "7.2",
+        "imdb_id": "tt0519635",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

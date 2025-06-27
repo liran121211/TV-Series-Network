@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "The Devil's Foot",
+        "released": "1988-04-06",
+        "rating": "8.1",
+        "imdb_id": "tt0685621",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Silver Blaze",
+        "released": "1988-04-13",
+        "rating": "7.8",
+        "imdb_id": "tt0685618",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Wisteria Lodge",
+        "released": "1988-04-20",
+        "rating": "7.3",
+        "imdb_id": "tt0685630",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Bruce Partington Plans",
+        "released": "1988-04-27",
+        "rating": "8.0",
+        "imdb_id": "tt0685620",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Hound of the Baskervilles",
+        "released": "1988-08-31",
+        "rating": "8.1",
+        "imdb_id": "tt27646178",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Episode #33.1",
+        "released": "2022-10-30",
+        "rating": "N/A",
+        "imdb_id": "tt23135906",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S3\\Top.Gear.S33E01.WEBS3E1.zip"
+    },
+    "2": {
+        "title": "Episode #33.2",
+        "released": "2022-11-06",
+        "rating": "6.4",
+        "imdb_id": "tt23215208",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S3\\Top.Gear.S33E02.WEBS3E2.zip"
+    },
+    "3": {
+        "title": "Episode #33.3",
+        "released": "2022-11-13",
+        "rating": "5.6",
+        "imdb_id": "tt23640190",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S3\\Top.Gear.S33E03.WEBS3E3.zip"
+    },
+    "4": {
+        "title": "Episode #33.4",
+        "released": "2022-11-20",
+        "rating": "5.9",
+        "imdb_id": "tt23729168",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S3\\Top.Gear.S33E04.WEBS3E4.zip"
+    },
+    "5": {
+        "title": "Episode #33.5",
+        "released": "2022-12-19",
+        "rating": "5.8",
+        "imdb_id": "tt24785606",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S3\\Top.Gear.S33E05.WEBS3E5.zip"
+    }
+}

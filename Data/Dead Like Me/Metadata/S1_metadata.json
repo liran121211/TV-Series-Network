@@ -1,0 +1,114 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2003-06-27",
+        "rating": "8.3",
+        "imdb_id": "tt0556085",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Dead Girl Walking",
+        "released": "2003-07-04",
+        "rating": "7.5",
+        "imdb_id": "tt0556075",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Curious George",
+        "released": "2003-07-11",
+        "rating": "N/A",
+        "imdb_id": "tt0556074",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Reapercussions",
+        "released": "2003-07-18",
+        "rating": "N/A",
+        "imdb_id": "tt0556087",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Reaping Havoc",
+        "released": "2003-07-25",
+        "rating": "N/A",
+        "imdb_id": "tt0556088",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "My Room",
+        "released": "2003-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt0556083",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Reaper Madness",
+        "released": "2003-08-08",
+        "rating": "N/A",
+        "imdb_id": "tt0556086",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "A Cook",
+        "released": "2003-08-15",
+        "rating": "N/A",
+        "imdb_id": "tt0556069",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Sunday Mornings",
+        "released": "2003-08-22",
+        "rating": "N/A",
+        "imdb_id": "tt0556092",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Business Unfinished",
+        "released": "2003-08-29",
+        "rating": "7.7",
+        "imdb_id": "tt0556073",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Bicycle Thief",
+        "released": "2003-09-05",
+        "rating": "7.9",
+        "imdb_id": "tt0556093",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Nighthawks",
+        "released": "2003-09-12",
+        "rating": "6.7",
+        "imdb_id": "tt0556084",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Vacation",
+        "released": "2003-09-19",
+        "rating": "N/A",
+        "imdb_id": "tt0556097",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Rest in Peace",
+        "released": "2003-10-26",
+        "rating": "N/A",
+        "imdb_id": "tt0556089",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

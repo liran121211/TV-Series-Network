@@ -1,0 +1,37 @@
+{
+  "cast": {
+    "0445389": "Peter Kelamis",
+    "0376588": "Saffron Henderson",
+    "0458342": "Terry Klassen",
+    "0238546": "Brian Drummond",
+    "0511429": "Lalainia Lindbjerg",
+    "0628448": "Pauline Newstone",
+    "0628236": "Richard Newman",
+    "0113427": "Don Brown",
+    "0573926": "Scott McNeil",
+    "0443286": "David Kaye",
+    "0675354": "Ward Perry",
+    "0290075": "Andrew Francis",
+    "0809762": "Robert O. Smith",
+    "0229928": "Paul Dobson",
+    "0364629": "Doc Harris"
+  },
+  "geners": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "runtimes": 0,
+  
+  "plot": [
+    "061 : Guru unleashes Gohan's potential. After sensing the Ginyu Force, Vegeta forges an alliance with Gohan and Krillin. Meanwhile, Goku finishes his training and prepares for his arrival on Namek."
+  ],
+  "genres": "N/A",
+  "imdbID": "1168299",
+  "rating": 8.1,
+  "votes": 1527,
+  "number_of_episodes": 277
+}

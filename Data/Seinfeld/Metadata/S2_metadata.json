@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "The Ex-Girlfriend",
+        "released": "1991-01-23",
+        "rating": "7.5",
+        "imdb_id": "tt0697692",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S2\\Seinfeld.S02E01.The.Ex-Girlfriend.DVDRip.x264-DiGGS2E1.zip"
+    },
+    "2": {
+        "title": "The Pony Remark",
+        "released": "1991-01-30",
+        "rating": "N/A",
+        "imdb_id": "tt0697757",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S2\\Seinfeld.S02E02.The.Pony.Remark.DVDRip.x264-DiGGS2E2.zip"
+    },
+    "3": {
+        "title": "The Jacket",
+        "released": "1991-02-06",
+        "rating": "8.2",
+        "imdb_id": "tt0697713",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S2\\Seinfeld.S02E03.The.Busboy.DVDRip.x264-DiGGS2E3.zip"
+    },
+    "4": {
+        "title": "The Phone Message",
+        "released": "1991-02-13",
+        "rating": "8.3",
+        "imdb_id": "tt0697751",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S2\\Seinfeld.S02E04.The.Baby.Shower.DVDRip.x264-DiGGS2E4.zip"
+    },
+    "5": {
+        "title": "The Apartment",
+        "released": "1991-04-04",
+        "rating": "7.7",
+        "imdb_id": "tt0697650",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S2\\Seinfeld.S02E05.The.Jacket.DVDRip.x264-DiGGS2E5.zip"
+    },
+    "6": {
+        "title": "The Statue",
+        "released": "1991-04-11",
+        "rating": "7.9",
+        "imdb_id": "tt0697787",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S2\\Seinfeld.S02E06.The.Chinese.Restaurant.DVDRip.x264-DiGGS2E6.zip"
+    },
+    "7": {
+        "title": "The Revenge",
+        "released": "1991-04-18",
+        "rating": "8.2",
+        "imdb_id": "tt0697766",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S2\\Seinfeld.S02E07.The.Phone.Message.DVDRip.x264-DiGGS2E7.zip"
+    },
+    "8": {
+        "title": "The Heart Attack",
+        "released": "1991-04-25",
+        "rating": "7.8",
+        "imdb_id": "tt0697709",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S2\\Seinfeld.S02E08.The.Appartment.DVDRip.x264-DiGGS2E8.zip"
+    },
+    "9": {
+        "title": "The Deal",
+        "released": "1991-05-02",
+        "rating": "8.2",
+        "imdb_id": "tt0697682",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S2\\Seinfeld.S02E09.The.Stranded.DVDRip.x264-DiGGS2E9.zip"
+    },
+    "10": {
+        "title": "The Baby Shower",
+        "released": "1991-05-16",
+        "rating": "7.4",
+        "imdb_id": "tt0697652",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Chinese Restaurant",
+        "released": "1991-05-23",
+        "rating": "8.6",
+        "imdb_id": "tt0697675",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Busboy",
+        "released": "1991-06-26",
+        "rating": "N/A",
+        "imdb_id": "tt0697664",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

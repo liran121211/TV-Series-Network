@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Joan Is Awful",
+        "released": "2023-06-15",
+        "rating": "7.4",
+        "imdb_id": "tt20247352",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Loch Henry",
+        "released": "2023-06-15",
+        "rating": "7.3",
+        "imdb_id": "tt27731608",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Black Mirror\\Subtitles\\S6\\Black.Mirror.S06E02.720p.WEB.h264-EDITHS6E2.zip"
+    },
+    "3": {
+        "title": "Beyond the Sea",
+        "released": "2023-06-15",
+        "rating": "7.4",
+        "imdb_id": "tt27731623",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Mazey Day",
+        "released": "2023-06-15",
+        "rating": "5.3",
+        "imdb_id": "tt27731663",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Demon 79",
+        "released": "2023-06-15",
+        "rating": "6.7",
+        "imdb_id": "tt27731671",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

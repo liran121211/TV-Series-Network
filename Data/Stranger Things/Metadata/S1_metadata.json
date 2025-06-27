@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Chapter One: The Vanishing of Will Byers",
+        "released": "2016-07-15",
+        "rating": "N/A",
+        "imdb_id": "tt4593118",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Stranger Things\\Subtitles\\S1\\Stranger-Things-S01E01-WebRip-x264-FSS1E1.zip"
+    },
+    "2": {
+        "title": "Chapter Two: The Weirdo on Maple Street",
+        "released": "2016-07-15",
+        "rating": "8.4",
+        "imdb_id": "tt4593122",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Stranger Things\\Subtitles\\S1\\Stranger.Things.S01E02.WEBRip.x264-TURBOS1E2.zip"
+    },
+    "3": {
+        "title": "Chapter Three: Holly, Jolly",
+        "released": "2016-07-15",
+        "rating": "8.8",
+        "imdb_id": "tt4593126",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Stranger Things\\Subtitles\\S1\\Stranger.Things.S01E03.WEBRip.x264-TURBOS1E3.zip"
+    },
+    "4": {
+        "title": "Chapter Four: The Body",
+        "released": "2016-07-15",
+        "rating": "8.9",
+        "imdb_id": "tt4593124",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Stranger Things\\Subtitles\\S1\\Stranger.Things.S01E04.WEBRip.XviD.MP3-RARBGS1E4.zip"
+    },
+    "5": {
+        "title": "Chapter Five: The Flea and the Acrobat",
+        "released": "2016-07-15",
+        "rating": "8.6",
+        "imdb_id": "tt4593128",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Stranger Things\\Subtitles\\S1\\Stranger.Things.S01E05.WEBRip.XviD.MP3-RARBGS1E5.zip"
+    },
+    "6": {
+        "title": "Chapter Six: The Monster",
+        "released": "2016-07-15",
+        "rating": "8.8",
+        "imdb_id": "tt4593132",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Stranger Things\\Subtitles\\S1\\Stranger.Things.S01E06.WEBRip.XviD.MP3-RARBGS1E6.zip"
+    },
+    "7": {
+        "title": "Chapter Seven: The Bathtub",
+        "released": "2016-07-15",
+        "rating": "9.0",
+        "imdb_id": "tt4593134",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Stranger Things\\Subtitles\\S1\\Stranger.Things.S01E07.WEBRip.XviD.MP3-RARBGS1E7.zip"
+    },
+    "8": {
+        "title": "Chapter Eight: The Upside Down",
+        "released": "2016-07-15",
+        "rating": "9.3",
+        "imdb_id": "tt4593138",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

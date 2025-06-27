@@ -1,0 +1,257 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: YTV  [http://www.crunchyroll.com/user/YTV]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Main Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Next time,Arial,22,&H00FFFADB,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,2,1,7,0030,0499,0054,1
+Style: Episode Title Start,Arial,22,&H00FFFADB,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,2,1,1,0335,0134,0051,1
+Style: Flashback Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Episode Title,Arial,22,&H00FFFFFF,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,0,0,3,0379,0038,0073,1
+Style: Eyecatch,Arial,16,&H00FFFFFF,&H000000FF,&H00909090,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0377,0032,0044,1
+Style: Next Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H006C6A6A,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,3,0050,0020,0055,1
+Style: sign_0_1_Genes_of_the_Ori,Arial,22,&H00FFFFFF,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,0,0,3,0307,0038,0073,1
+Style: sign_15465_93_Illustration_by_,Arial,16,&H00FFFFFF,&H000000FF,&H00909090,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0038,0371,0038,1
+Style: sign_33900_216_Proof_of_Humanit,Arial,20,&H00FFFFFF,&H000000FF,&H006C6A6A,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,3,0411,0035,0055,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.98,sign_0_1_Genes_of_the_Ori,Ep Title,0000,0000,0000,,Genes of the Original Sin
+Dialogue: 0,0:00:08.90,0:00:10.79,Main,Ygg,0000,0000,0000,,It's happening!
+Dialogue: 0,0:00:11.94,0:00:13.40,Main,A,0000,0000,0000,,Come to me, Ogre!
+Dialogue: 0,0:00:13.40,0:00:15.66,Main,A,0000,0000,0000,,I'm right here!
+Dialogue: 0,0:00:15.66,0:00:17.44,Main,Ygg,0000,0000,0000,,Minami! Alma!
+Dialogue: 0,0:00:17.44,0:00:20.58,Main,Min,0000,0000,0000,,Please, Akira, put an end \Nto this hopeless scenario.
+Dialogue: 0,0:00:22.39,0:00:29.08,Main,Ygg,0000,0000,0000,,EX-ARM Number 00 Alpha's \Nfull networking capabilities unlocked!
+Dialogue: 0,0:00:31.72,0:00:32.68,Italics,B,0000,0000,0000,,Shit!
+Dialogue: 0,0:00:32.68,0:00:34.84,Italics,B,0000,0000,0000,,Shit! Shit! Shit! Shit! Shit!
+Dialogue: 0,0:00:43.83,0:00:46.49,Italics,Shi,0000,0000,0000,,It's Ignis Type-03 EX...
+Dialogue: 0,0:00:47.01,0:00:48.82,Italics,Shi,0000,0000,0000,,Ogre's latest version!
+Dialogue: 0,0:00:50.36,0:00:52.73,Italics,B,0000,0000,0000,,You may look a little different,
+Dialogue: 0,0:00:52.73,0:00:56.25,Italics,B,0000,0000,0000,,but your face annoys me just the same, Alpha.
+Dialogue: 0,0:00:57.11,0:00:58.77,Main,A,0000,0000,0000,,"The same"?
+Dialogue: 0,0:00:58.77,0:01:01.18,Main,A,0000,0000,0000,,You sure got that right, Beta.
+Dialogue: 0,0:01:01.83,0:01:05.25,Main,A,0000,0000,0000,,I fought you as Ogre that day, too.
+Dialogue: 0,0:01:05.25,0:01:09.94,Main,A,0000,0000,0000,,I tried to take you out \Nbefore you ruined everything!
+Dialogue: 0,0:01:19.84,0:01:22.87,Italics,B,0000,0000,0000,,But you lost, remember?
+Dialogue: 0,0:01:28.47,0:01:31.98,Main,A,0000,0000,0000,,Yeah, but I finally get my rematch!
+Dialogue: 0,0:03:05.52,0:03:06.45,Italics,A,0000,0000,0000,,I'm convinced.
+Dialogue: 0,0:03:06.86,0:03:08.97,Italics,A,0000,0000,0000,,I'm stronger than I was back then.
+Dialogue: 0,0:03:09.91,0:03:13.92,Main,A,0000,0000,0000,,I'm gonna shove a new ending \Ndown your throat, Beta!
+Dialogue: 0,0:03:21.12,0:03:23.50,Italics,B,0000,0000,0000,,Don't get ahead of yourself!
+Dialogue: 0,0:03:23.50,0:03:25.64,Italics,B,0000,0000,0000,,I'll slap you down myself!
+Dialogue: 0,0:03:32.48,0:03:34.71,Italics,B,0000,0000,0000,,Alpha!
+Dialogue: 0,0:03:39.69,0:03:42.73,Main,Min,0000,0000,0000,,How is he generating\Nso much power at that size?
+Dialogue: 0,0:03:45.06,0:03:48.37,Main,A,0000,0000,0000,,I'm gonna destroy you now!
+Dialogue: 0,0:03:48.37,0:03:49.72,Italics,B,0000,0000,0000,,Big words, little man.
+Dialogue: 0,0:03:49.72,0:03:52.62,Italics,B,0000,0000,0000,,You can't do whatever it takes, like I can!
+Dialogue: 0,0:03:55.13,0:03:56.42,Main,Min,0000,0000,0000,,Kimura!
+Dialogue: 0,0:03:58.80,0:04:00.55,Main,A,0000,0000,0000,,Take care of the squad for me!
+Dialogue: 0,0:04:00.55,0:04:02.22,Main,Kim,0000,0000,0000,,You got it, bro!
+Dialogue: 0,0:04:03.32,0:04:04.49,Main,So,0000,0000,0000,,Not so fast.
+Dialogue: 0,0:04:09.43,0:04:11.47,Main,Ygg,0000,0000,0000,,They're in perfect sync.
+Dialogue: 0,0:04:11.47,0:04:13.66,Main,A,0000,0000,0000,,Alma and I will handle things here.
+Dialogue: 0,0:04:13.66,0:04:16.61,Main,A,0000,0000,0000,,Minami, Ygg, I leave Jinkoku-sha to you!
+Dialogue: 0,0:04:16.61,0:04:18.97,Main,Min,0000,0000,0000,,Okay, but Soma's...
+Dialogue: 0,0:04:23.94,0:04:26.04,Main,Ygg,0000,0000,0000,,I knocked her out gently.
+Dialogue: 0,0:04:26.04,0:04:29.37,Main,Ygg,0000,0000,0000,,What's about to happen \Nwill be too painful for her to take.
+Dialogue: 0,0:04:34.12,0:04:35.08,Main,Kim,0000,0000,0000,,Let's bounce!
+Dialogue: 0,0:04:40.36,0:04:42.59,Main,A,0000,0000,0000,,You're dealing with me.
+Dialogue: 0,0:04:42.59,0:04:44.55,Main,So,0000,0000,0000,,Stupid machine!
+Dialogue: 0,0:04:52.34,0:04:56.12,Italics,B,0000,0000,0000,,I'm not done yet! \NI have plenty of raw material!
+Dialogue: 0,0:04:56.77,0:04:58.76,Italics,B,0000,0000,0000,,I'm just getting started!
+Dialogue: 0,0:05:00.75,0:05:02.44,Main,Ngu,0000,0000,0000,,What a sight.
+Dialogue: 0,0:05:05.36,0:05:10.80,Flashback,Iri,0000,0000,0000,,I've ascertained the EX-ARMs \Nto be a gift from space.
+Dialogue: 0,0:05:10.80,0:05:17.45,Flashback,Iri,0000,0000,0000,,Weapons that invoke almost supernatural\Nabilities when connected to a life form.
+Dialogue: 0,0:05:26.90,0:05:30.35,Main,A,0000,0000,0000,,I'm sorry to make you keep me company, Alma.
+Dialogue: 0,0:05:30.35,0:05:34.20,Main,Al,0000,0000,0000,,Don't be. I'm doing this because I want to.
+Dialogue: 0,0:05:36.14,0:05:37.74,Main,A,0000,0000,0000,,Let's win, then.
+Dialogue: 0,0:05:40.08,0:05:42.74,Main,A,0000,0000,0000,,Let's win, and go back home!
+Dialogue: 0,0:05:44.78,0:05:45.64,Main,Al,0000,0000,0000,,Yeah.
+Dialogue: 0,0:05:48.60,0:05:53.24,Main,A,0000,0000,0000,,Number 21's ability \Nis to freeze air in place.
+Dialogue: 0,0:05:53.24,0:05:56.12,Main,A,0000,0000,0000,,It can use that power \Nfor both attack and defense.
+Dialogue: 0,0:05:57.44,0:05:59.18,Main,A,0000,0000,0000,,You handle Soma, Alma.
+Dialogue: 0,0:05:59.18,0:06:01.30,Main,Al,0000,0000,0000,,Got it. I'm taking one of your weapons.
+Dialogue: 0,0:06:02.63,0:06:05.63,Italics,B,0000,0000,0000,,You little punks...
+Dialogue: 0,0:06:06.48,0:06:09.13,Italics,B,0000,0000,0000,,I'll teach you not to take me lightly!
+Dialogue: 0,0:06:10.37,0:06:12.92,Main,A,0000,0000,0000,,This ends here!
+Dialogue: 0,0:06:19.83,0:06:22.94,Main,Kim,0000,0000,0000,,Okay, this should keep the geezer alive \Nfor the time being.
+Dialogue: 0,0:06:23.97,0:06:27.14,Main,Kon,0000,0000,0000,,But nobody can heal {\i1}her{\i0} wounds.
+Dialogue: 0,0:06:28.07,0:06:31.39,Main,Ygg,0000,0000,0000,,We must escape this area as soon as possible.
+Dialogue: 0,0:06:31.39,0:06:32.41,Main,All,0000,0000,0000,,Yeah.
+Dialogue: 0,0:06:33.33,0:06:36.34,Main,So,0000,0000,0000,,I'm coming for you, Hayama Gaho.
+Dialogue: 0,0:06:48.74,0:06:51.22,Main,Al,0000,0000,0000,,Let's finish this, Soma.
+Dialogue: 0,0:07:56.92,0:07:59.55,Main,So,0000,0000,0000,,Die, stupid puppet!
+Dialogue: 0,0:07:59.55,0:08:03.04,Main,Al,0000,0000,0000,,I'll stop your list of crimes \Nfrom growing any further.
+Dialogue: 0,0:08:42.68,0:08:44.90,Italics,Al,0000,0000,0000,,He can use his power \Nin only two places at once.
+Dialogue: 0,0:08:45.62,0:08:47.76,Italics,Al,0000,0000,0000,,That's one.
+Dialogue: 0,0:08:47.76,0:08:51.34,Italics,Al,0000,0000,0000,,And he'll use the other \Nto make a landing pad.
+Dialogue: 0,0:08:52.71,0:08:54.65,Main,Al,0000,0000,0000,,Just as predicted.
+Dialogue: 0,0:08:55.36,0:09:00.12,Main,So,0000,0000,0000,,How... You shouldn't be capable of this.
+Dialogue: 0,0:09:00.12,0:09:03.99,Main,Al,0000,0000,0000,,I'm not who I used to be.
+Dialogue: 0,0:09:06.90,0:09:09.42,Main,Al,0000,0000,0000,,You can't block this bullet.
+Dialogue: 0,0:09:13.86,0:09:16.47,Main,Al,0000,0000,0000,,I'm not just a sacrificial pawn anymore.
+Dialogue: 0,0:09:17.16,0:09:19.90,Main,Al,0000,0000,0000,,I wasn't ordered to do this. \NI was {\i1}asked{\i0} to.
+Dialogue: 0,0:09:20.66,0:09:24.79,Main,Al,0000,0000,0000,,From now on, I'll fight for myself \Nand the people I care about...
+Dialogue: 0,0:09:25.70,0:09:27.92,Main,Al,0000,0000,0000,,of my own free will!
+Dialogue: 0,0:09:27.92,0:09:29.75,Main,Kim,0000,0000,0000,,What's she mean?
+Dialogue: 0,0:09:30.69,0:09:33.80,Main,Ygg,0000,0000,0000,,I realized something \Nwhen I got rid of her brainwashing.
+Dialogue: 0,0:09:34.64,0:09:38.89,Main,Ygg,0000,0000,0000,,The rule set that governs an android's actions, \Nlike absolute obedience to humans,
+Dialogue: 0,0:09:38.89,0:09:43.36,Main,Ygg,0000,0000,0000,,and the restrictions placed on her self-defense \Nand computational abilities,
+Dialogue: 0,0:09:43.36,0:09:44.85,Main,Ygg,0000,0000,0000,,had all been overwritten.
+Dialogue: 0,0:09:44.85,0:09:46.60,Main,Kon,0000,0000,0000,,You mean Alma's...
+Dialogue: 0,0:09:46.60,0:09:50.90,Main,Ygg,0000,0000,0000,,All her mental and physical limiters \Nhave been removed.
+Dialogue: 0,0:09:51.35,0:09:54.99,Main,Ygg,0000,0000,0000,,She can kill a person without being\Nordered to... of her own free will.
+Dialogue: 0,0:09:55.91,0:10:00.94,Main,Ygg,0000,0000,0000,,She has become the freest piece\Nof technology in human history!
+Dialogue: 0,0:10:04.47,0:10:09.61,Main,So,0000,0000,0000,,Go ahead and shoot. I'll never give\Nin to a mere machine like you,
+Dialogue: 0,0:10:09.61,0:10:11.79,Main,So,0000,0000,0000,,not even if it kills me.
+Dialogue: 0,0:10:21.33,0:10:25.29,Italics,Al,0000,0000,0000,,That was artificial muscle \Nexploding under too much stress.
+Dialogue: 0,0:10:25.29,0:10:29.39,Italics,Al,0000,0000,0000,,He put his very life at risk there, \Nbecause his whole exoframe could've exploded.
+Dialogue: 0,0:10:30.32,0:10:33.14,Italics,Al,0000,0000,0000,,He's just as broken as the others.
+Dialogue: 0,0:10:44.99,0:10:47.00,sign_15465_93_Illustration_by_,Eyecatch,0000,0000,0000,,Illustration by Komi Shinya
+Dialogue: 0,0:11:00.93,0:11:03.44,Main,Al,0000,0000,0000,,It's over, Soma.
+Dialogue: 0,0:11:03.44,0:11:04.94,Main,So,0000,0000,0000,,Kill me.
+Dialogue: 0,0:11:05.96,0:11:07.47,Main,So,0000,0000,0000,,I said, "Kill me"!
+Dialogue: 0,0:11:08.15,0:11:13.24,Main,Al,0000,0000,0000,,Your body is so damaged \Nthat it can't even keep you alive.
+Dialogue: 0,0:11:13.24,0:11:16.43,Main,Al,0000,0000,0000,,You knew you wouldn't last three minutes \Nout of the suit.
+Dialogue: 0,0:11:16.43,0:11:17.98,Main,Al,0000,0000,0000,,So why did you do this?
+Dialogue: 0,0:11:19.00,0:11:22.35,Main,So,0000,0000,0000,,My thirst for revenge \Nis the only humanity I have left!
+Dialogue: 0,0:11:22.35,0:11:25.95,Main,So,0000,0000,0000,,If I lost it, I'd just be a machine!
+Dialogue: 0,0:11:25.95,0:11:29.00,Main,So,0000,0000,0000,,Just shoot me now! Do it!
+Dialogue: 0,0:11:29.00,0:11:31.14,Main,Al,0000,0000,0000,,Do I even need to?
+Dialogue: 0,0:11:31.83,0:11:33.42,Main,So,0000,0000,0000,,Don't you pity me.
+Dialogue: 0,0:11:33.92,0:11:35.72,Main,Al,0000,0000,0000,,I can't.
+Dialogue: 0,0:11:35.72,0:11:40.25,Main,Al,0000,0000,0000,,I don't understand how you feel.
+Dialogue: 0,0:11:40.92,0:11:42.17,Main,So,0000,0000,0000,,That's fine.
+Dialogue: 0,0:11:42.61,0:11:45.43,Main,So,0000,0000,0000,,I'd rather die than have a\Nmachine sympathize with me.
+Dialogue: 0,0:11:46.48,0:11:52.10,Main,Al,0000,0000,0000,,I used to think I couldn't understand\Npeople because I was a machine.
+Dialogue: 0,0:11:52.61,0:11:54.58,Main,Al,0000,0000,0000,,But I was wrong, wasn't I?
+Dialogue: 0,0:11:55.09,0:11:59.61,Main,Al,0000,0000,0000,,Even if I were human, \NI still wouldn't understand.
+Dialogue: 0,0:11:59.61,0:12:01.80,Main,Al,0000,0000,0000,,Because I'm not you.
+Dialogue: 0,0:12:02.58,0:12:06.62,Main,Al,0000,0000,0000,,Having an almost human-like freedom \Nmade me finally see it.
+Dialogue: 0,0:12:07.59,0:12:10.63,Main,Al,0000,0000,0000,,How lonesome it can be to be untethered.
+Dialogue: 0,0:12:11.59,0:12:13.92,Main,Al,0000,0000,0000,,That is why one loves one's fellow man.
+Dialogue: 0,0:12:13.92,0:12:17.32,Main,Al,0000,0000,0000,,That is why one seeks companionship.
+Dialogue: 0,0:12:17.89,0:12:23.51,Main,Al,0000,0000,0000,,And that solitude is what breeds resentment.
+Dialogue: 0,0:12:24.32,0:12:28.76,Main,Al,0000,0000,0000,,If that resentment is what keeps you going,
+Dialogue: 0,0:12:29.27,0:12:31.43,Main,Al,0000,0000,0000,,there's nothing I can say.
+Dialogue: 0,0:12:32.61,0:12:33.62,Main,So,0000,0000,0000,,Shoot me.
+Dialogue: 0,0:12:34.21,0:12:36.27,Main,So,0000,0000,0000,,Enough talk.
+Dialogue: 0,0:12:37.81,0:12:45.11,Main,So,0000,0000,0000,,The flame of revenge has been burning me up \Nfrom within since the day I lost it all.
+Dialogue: 0,0:12:46.00,0:12:48.33,Main,So,0000,0000,0000,,I cursed them all.
+Dialogue: 0,0:12:49.01,0:12:51.96,Main,So,0000,0000,0000,,The terrorists, this world,
+Dialogue: 0,0:12:51.96,0:12:55.24,Main,So,0000,0000,0000,,and even my parents and sister!
+Dialogue: 0,0:12:59.36,0:13:00.62,Main,So,0000,0000,0000,,Stop it!
+Dialogue: 0,0:13:00.62,0:13:02.04,Main,Al,0000,0000,0000,,I won't.
+Dialogue: 0,0:13:02.04,0:13:05.61,Main,Al,0000,0000,0000,,Even if you are to pass away \Nconsumed by hatred,
+Dialogue: 0,0:13:05.61,0:13:09.47,Main,Al,0000,0000,0000,,I'm sure Minami would've embraced you \Nas you are.
+Dialogue: 0,0:13:10.47,0:13:12.00,Main,So,0000,0000,0000,,Cut it out!
+Dialogue: 0,0:13:12.00,0:13:17.02,Main,So,0000,0000,0000,,I never asked for this!
+Dialogue: 0,0:13:21.91,0:13:29.14,Main,So,0000,0000,0000,,I thought I'd forgotten the warmth \Nof human touch a long time ago!
+Dialogue: 0,0:13:29.59,0:13:31.66,Flashback,So,0000,0000,0000,,Happy birthday, Sis.
+Dialogue: 0,0:13:34.16,0:13:35.66,Flashback,So,0000,0000,0000,,It's a set.
+Dialogue: 0,0:13:37.88,0:13:39.44,Flashback,Min,0000,0000,0000,,Thanks, Soma!
+Dialogue: 0,0:13:39.44,0:13:41.64,Flashback,Min,0000,0000,0000,,I'll keep this with me forever!
+Dialogue: 0,0:13:52.42,0:13:53.74,Main,Mid,0000,0000,0000,,She shed a tear.
+Dialogue: 0,0:13:56.13,0:14:00.81,Main,Kon,0000,0000,0000,,This is all too much for Minami. \NNo, for anyone.
+Dialogue: 0,0:14:03.36,0:14:06.99,Main,Kon,0000,0000,0000,,We'll leave the village \Nand enter the tunnel to the mainland soon.
+Dialogue: 0,0:14:06.99,0:14:09.02,Italics,Kon,0000,0000,0000,,We'll play no further role in this.
+Dialogue: 0,0:14:10.73,0:14:14.51,Main,A,0000,0000,0000,,I fight to protect the people dear to me!
+Dialogue: 0,0:14:14.51,0:14:16.62,Main,A,0000,0000,0000,,That's how it is, and how it's always been!
+Dialogue: 0,0:14:16.92,0:14:24.17,Main,Auc,0000,0000,0000,,That's right. That emotion is proof \Nthat you are alive, Natsume Akira.
+Dialogue: 0,0:14:24.74,0:14:27.13,Main,A,0000,0000,0000,,This is the end!
+Dialogue: 0,0:14:28.31,0:14:30.23,Italics,B,0000,0000,0000,,Hey, watch where you're shooting!
+Dialogue: 0,0:14:43.19,0:14:46.65,Main,Ngu,0000,0000,0000,,We must retreat. Send a car.
+Dialogue: 0,0:14:53.67,0:14:56.10,Main,Al,0000,0000,0000,,The rest is up to Akira.
+Dialogue: 0,0:15:07.83,0:15:12.83,Main,A,0000,0000,0000,,After everything you've done, \NI won't let there be any doubts about the outcome.
+Dialogue: 0,0:15:12.83,0:15:15.85,Main,A,0000,0000,0000,,It's you or me! \NOnly the victor shall survive!
+Dialogue: 0,0:15:25.67,0:15:28.44,Main,A,0000,0000,0000,,Leave this to me and escape.
+Dialogue: 0,0:15:29.33,0:15:30.78,Main,A,0000,0000,0000,,Get going!
+Dialogue: 0,0:15:31.06,0:15:33.05,Main,Auc,0000,0000,0000,,No, I must end him.
+Dialogue: 0,0:15:47.92,0:15:48.84,Main,A,0000,0000,0000,,Hey!
+Dialogue: 0,0:15:53.22,0:15:54.49,Main,A,0000,0000,0000,,Bro?
+Dialogue: 0,0:15:55.18,0:15:58.42,Main,Ari,0000,0000,0000,,"Bro"? Wait, Natsume Shuichi?!
+Dialogue: 0,0:15:59.14,0:16:05.26,Main,Chi,0000,0000,0000,,Natsume Akira's elder brother, \Nwho worked on AI and android research at Iriya...
+Dialogue: 0,0:16:05.26,0:16:07.15,Main,Chi,0000,0000,0000,,He's Auctioneer?!
+Dialogue: 0,0:16:07.15,0:16:11.40,Main,Chi,0000,0000,0000,,I thought he went missing \Nafter the Tokyo Attack!
+Dialogue: 0,0:16:15.38,0:16:21.40,Main,A,0000,0000,0000,,You look like my brother, \Nbut you're not him, right?
+Dialogue: 0,0:16:23.14,0:16:25.03,Main,Auc,0000,0000,0000,,Yes, that's right.
+Dialogue: 0,0:16:25.51,0:16:30.26,Main,Auc,0000,0000,0000,,I'm a clone that Natsume Shuichi built, \Nknowing he would die.
+Dialogue: 0,0:16:31.13,0:16:32.73,Main,Ari,0000,0000,0000,,A clone?
+Dialogue: 0,0:16:37.57,0:16:44.19,Main,Auc,0000,0000,0000,,He made me to atone for the sin \Nof being involved in the creation of Beta.
+Dialogue: 0,0:16:44.67,0:16:47.19,Main,Chi,0000,0000,0000,,He... created Beta?!
+Dialogue: 0,0:16:49.96,0:16:51.67,Main,Kao,0000,0000,0000,,Of all the foolish...
+Dialogue: 0,0:16:52.57,0:16:55.43,Main,Auc,0000,0000,0000,,It all started sixteen years ago.
+Dialogue: 0,0:17:01.65,0:17:05.67,Main,Auc,0000,0000,0000,,{\fad(1,605)}An unforeseen accident took Akira's life.
+Dialogue: 0,0:17:07.16,0:17:10.04,Flashback,Iri,0000,0000,0000,,Come with me, Natsume.
+Dialogue: 0,0:17:11.28,0:17:13.98,Flashback,Shu,0000,0000,0000,,Professor Iriya?
+Dialogue: 0,0:17:14.63,0:17:17.75,Flashback,Iri,0000,0000,0000,,This is an EX-ARM. Ever heard of it?
+Dialogue: 0,0:17:18.42,0:17:24.04,Flashback,Iri,0000,0000,0000,,I've ascertained them \Nto be a gift from space.
+Dialogue: 0,0:17:24.04,0:17:31.34,Flashback,Iri,0000,0000,0000,,Weapons that invoke almost supernatural\Nabilities when connected to a life form.
+Dialogue: 0,0:17:33.32,0:17:39.35,Flashback,Iri,0000,0000,0000,,They're fitted with technology far beyond\Nthe capabilities of modern science.
+Dialogue: 0,0:17:43.24,0:17:44.68,Flashback,Shu,0000,0000,0000,,What is that?
+Dialogue: 0,0:17:44.68,0:17:48.37,Flashback,Iri,0000,0000,0000,,It's your brother's brain inside this thing.
+Dialogue: 0,0:17:48.90,0:17:53.85,Flashback,Iri,0000,0000,0000,,This particular EX-ARM is activated \Nby placing a human brain in it.
+Dialogue: 0,0:17:53.85,0:17:55.48,Flashback,Shu,0000,0000,0000,,No...
+Dialogue: 0,0:17:56.04,0:18:01.18,Flashback,Iri,0000,0000,0000,,Your brother can live on \Nconnected to this EX-ARM.
+Dialogue: 0,0:18:01.76,0:18:02.97,Flashback,Shu,0000,0000,0000,,Not like this!
+Dialogue: 0,0:18:05.09,0:18:07.48,Flashback,Iri,0000,0000,0000,,If we can unravel the mysteries \Nof the EX-ARMs,
+Dialogue: 0,0:18:07.48,0:18:11.93,Flashback,Iri,0000,0000,0000,,your brother will have contributed greatly \Nto the advancement of science.
+Dialogue: 0,0:18:14.26,0:18:17.06,Flashback,Iri,0000,0000,0000,,How do you choose to use his life?
+Dialogue: 0,0:18:17.48,0:18:21.99,Flashback,Iri,0000,0000,0000,,As a scientist, what can you do for him?
+Dialogue: 0,0:18:23.56,0:18:26.89,Flashback,Shu,0000,0000,0000,,What {\i1}can{\i0} I do for Akira?
+Dialogue: 0,0:18:26.89,0:18:30.84,Flashback,Iri,0000,0000,0000,,His brain's still functioning. \NAll he needs is a body.
+Dialogue: 0,0:18:30.84,0:18:33.04,Flashback,Shu,0000,0000,0000,,I can build an android body for Akira!
+Dialogue: 0,0:18:44.74,0:18:50.44,Flashback,Iri,0000,0000,0000,,I wonder how the immense power \Nof EX-ARMs will change mankind.
+Dialogue: 0,0:18:52.44,0:18:56.22,Flashback,Iri,0000,0000,0000,,Just as mankind finds ways \Nto use tools to its benefit,
+Dialogue: 0,0:18:56.22,0:19:01.28,Flashback,Iri,0000,0000,0000,,it also finds ways to use them \Nto its detriment.
+Dialogue: 0,0:19:02.86,0:19:04.82,Flashback,Iri,0000,0000,0000,,Let us begin.
+Dialogue: 0,0:19:21.63,0:19:22.71,Flashback,Shu,0000,0000,0000,,Akira!
+Dialogue: 0,0:19:31.51,0:19:36.62,Flashback_Italics,Iri,0000,0000,0000,,Fitted with the brain of Natsume Akira, \Na human highly synchronized with tech,
+Dialogue: 0,0:19:36.62,0:19:39.80,Flashback_Italics,Iri,0000,0000,0000,,we have EX-ARM Number 00 Alpha.
+Dialogue: 0,0:19:39.80,0:19:42.76,Flashback_Italics,Iri,0000,0000,0000,,The other Number 00, Beta,
+Dialogue: 0,0:19:42.76,0:19:47.00,Flashback_Italics,Iri,0000,0000,0000,,will be injected with this other matter \Nbrought in with the EX-ARMs.
+Dialogue: 0,0:19:50.60,0:19:56.15,Flashback_Italics,Iri,0000,0000,0000,,The birth of Beta will make the essence \Nof humanity clear for all to see.
+Dialogue: 0,0:19:59.97,0:20:02.09,Flashback,Iri,0000,0000,0000,,I see! So that is your answer!
+Dialogue: 0,0:20:29.41,0:20:33.28,Flashback,Shu,0000,0000,0000,,"The essence of humanity"? \NIt is our wills.
+Dialogue: 0,0:20:33.28,0:20:37.21,Flashback,Shu,0000,0000,0000,,We don't let power consume us. \NWe control it.
+Dialogue: 0,0:20:41.39,0:20:43.96,Flashback,A,0000,0000,0000,,Bro!
+Dialogue: 0,0:20:45.36,0:20:49.12,Flashback,Shu,0000,0000,0000,,Even after I'm gone, my will shall live on!
+Dialogue: 0,0:20:49.12,0:20:52.01,Flashback,Shu,0000,0000,0000,,It'll live on within you, Akira!
+Dialogue: 0,0:20:55.48,0:20:56.78,Main,A,0000,0000,0000,,Bro...
+Dialogue: 0,0:20:59.21,0:21:02.40,Main,Auc,0000,0000,0000,,I swore to myself, as a human being,
+Dialogue: 0,0:21:02.40,0:21:07.16,Main,Auc,0000,0000,0000,,that I would do everything in my power \Nto be the gatekeeper of EX-ARMs.
+Dialogue: 0,0:21:16.67,0:21:19.13,Main,A,0000,0000,0000,,I'm not letting you kill him again!
+Dialogue: 0,0:21:19.63,0:21:24.42,Italics,B,0000,0000,0000,,Looks like you've finally \Nremembered everything, Alpha!
+Dialogue: 0,0:21:25.23,0:21:29.80,Main,A,0000,0000,0000,,The more memories I recover, \Nthe more I'm convinced...
+Dialogue: 0,0:21:29.80,0:21:35.77,Main,A,0000,0000,0000,,Beta, you can't be allowed \Nto exist in this world!
+Dialogue: 0,0:21:39.27,0:21:41.26,Main,Auc,0000,0000,0000,,I have a plan.
+Dialogue: 0,0:21:43.14,0:21:46.12,Main,Auc,0000,0000,0000,,I trust your mind is made up, Akira.
+Dialogue: 0,0:21:47.28,0:21:52.09,Main,A,0000,0000,0000,,Yeah. I'm gonna put my best foot \Nforward this time!
+Dialogue: 0,0:23:25.67,0:23:28.97,Main,Min,0000,0000,0000,,What does that crybaby idiot \Nthink he's doing?
+Dialogue: 0,0:23:28.97,0:23:32.25,Main,Min,0000,0000,0000,,How is he going to fight that monster?
+Dialogue: 0,0:23:32.25,0:23:35.89,Main Top,A,0000,0000,0000,,Next time, on {\i1}EX-ARM:{\i0} \N"Battle 011 - Proof of Humanity."
+Dialogue: 0,0:23:33.89,0:23:39.98,sign_33900_216_Proof_of_Humanit,Next Title,0000,0000,0000,,Proof of Humanity
+Dialogue: 0,0:23:35.89,0:23:38.92,Main Top,Min,0000,0000,0000,,You better come back to us, Akira!

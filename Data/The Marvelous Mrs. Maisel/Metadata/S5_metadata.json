@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Go Forward",
+        "released": "2023-04-14",
+        "rating": "8.0",
+        "imdb_id": "tt18267152",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Marvelous Mrs. Maisel\\Subtitles\\S5\\The.Marvelous.Mrs.Maisel.SE05E01.WEBRip.x264-ION10_CKS_AMZNS5E1.zip"
+    },
+    "2": {
+        "title": "It's a Man, Man, Man, Man World",
+        "released": "2023-04-14",
+        "rating": "8.0",
+        "imdb_id": "tt26897474",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Marvelous Mrs. Maisel\\Subtitles\\S5\\The.Marvelous.Mrs.Maisel.SE05E02.WEBRip.x264-ION10_CKS_AMZNS5E2.zip"
+    },
+    "3": {
+        "title": "Typos and Torsos",
+        "released": "2023-04-14",
+        "rating": "8.0",
+        "imdb_id": "tt26897475",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Marvelous Mrs. Maisel\\Subtitles\\S5\\The.Marvelous.Mrs.Maisel.SE05E03.WEBRip.x264-ION10_CKS_AMZNS5E3.zip"
+    },
+    "4": {
+        "title": "Susan",
+        "released": "2023-04-21",
+        "rating": "7.6",
+        "imdb_id": "tt26897476",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Pirate Queen",
+        "released": "2023-04-28",
+        "rating": "8.1",
+        "imdb_id": "tt26897477",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Marvelous Mrs. Maisel\\Subtitles\\S5\\The.Marvelous.Mrs.Maisel.SE05E03.WEBRip.x264-ION10_CKS_AMZNS5E5.zip"
+    },
+    "6": {
+        "title": "The Testi-Roastial",
+        "released": "2023-05-05",
+        "rating": "9.2",
+        "imdb_id": "tt26897478",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "A House Full of Extremely Lame Horses",
+        "released": "2023-05-12",
+        "rating": "8.2",
+        "imdb_id": "tt26897481",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Princess and the Plea",
+        "released": "2023-05-19",
+        "rating": "8.5",
+        "imdb_id": "tt26897482",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Four Minutes",
+        "released": "2023-05-26",
+        "rating": "9.5",
+        "imdb_id": "tt26897484",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Episode 1",
+        "released": "1996-01-14",
+        "rating": "N/A",
+        "imdb_id": "tt1263532",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode 2",
+        "released": "1996-01-14",
+        "rating": "N/A",
+        "imdb_id": "tt1263533",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode 3",
+        "released": "1996-01-15",
+        "rating": "N/A",
+        "imdb_id": "tt1263534",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #1.4",
+        "released": "1995-10-15",
+        "rating": "N/A",
+        "imdb_id": "tt1263535",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode 5",
+        "released": "1996-01-16",
+        "rating": "N/A",
+        "imdb_id": "tt1263536",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode 6",
+        "released": "1996-01-16",
+        "rating": "N/A",
+        "imdb_id": "tt1263537",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

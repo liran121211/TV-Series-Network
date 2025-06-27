@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "The Adventures of Supergirl",
+        "released": "2016-10-24",
+        "rating": "8.2",
+        "imdb_id": "tt5716756",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Last Children of Krypton",
+        "released": "2016-10-17",
+        "rating": "8.0",
+        "imdb_id": "tt5813998",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Welcome to Earth",
+        "released": "2016-10-24",
+        "rating": "7.7",
+        "imdb_id": "tt5826040",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Survivors",
+        "released": "2016-10-31",
+        "rating": "7.6",
+        "imdb_id": "tt5957602",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Crossfire",
+        "released": "2016-11-07",
+        "rating": "7.5",
+        "imdb_id": "tt5957610",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Changing",
+        "released": "2016-11-14",
+        "rating": "7.7",
+        "imdb_id": "tt5957622",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Darkest Place",
+        "released": "2016-11-21",
+        "rating": "N/A",
+        "imdb_id": "tt5957628",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Medusa",
+        "released": "2016-11-28",
+        "rating": "N/A",
+        "imdb_id": "tt5957644",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Supergirl Lives",
+        "released": "2017-01-23",
+        "rating": "7.6",
+        "imdb_id": "tt5957654",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "We Can Be Heroes",
+        "released": "2017-01-30",
+        "rating": "7.2",
+        "imdb_id": "tt5957844",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Martian Chronicles",
+        "released": "2017-02-06",
+        "rating": "7.4",
+        "imdb_id": "tt5957846",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Luthors",
+        "released": "2017-02-13",
+        "rating": "7.8",
+        "imdb_id": "tt5957848",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Mr. & Mrs. Mxyzptlk",
+        "released": "2017-02-20",
+        "rating": "7.4",
+        "imdb_id": "tt5957854",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Homecoming",
+        "released": "2017-02-27",
+        "rating": "N/A",
+        "imdb_id": "tt5957856",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Exodus",
+        "released": "2017-03-06",
+        "rating": "7.9",
+        "imdb_id": "tt5957862",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Star-Crossed",
+        "released": "2017-03-20",
+        "rating": "7.2",
+        "imdb_id": "tt5957864",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Distant Sun",
+        "released": "2017-03-27",
+        "rating": "7.4",
+        "imdb_id": "tt5957866",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Ace Reporter",
+        "released": "2017-04-24",
+        "rating": "7.4",
+        "imdb_id": "tt5957876",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Alex",
+        "released": "2017-05-01",
+        "rating": "7.6",
+        "imdb_id": "tt5957882",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "City of Lost Children",
+        "released": "2017-05-08",
+        "rating": "N/A",
+        "imdb_id": "tt5957888",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Resist",
+        "released": "2017-05-15",
+        "rating": "7.8",
+        "imdb_id": "tt5957908",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Nevertheless, She Persisted",
+        "released": "2017-05-22",
+        "rating": "7.9",
+        "imdb_id": "tt5827214",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "5": {
+        "title": "Leap of Faith",
+        "released": "2022-10-21",
+        "rating": "N/A",
+        "imdb_id": "tt22651792",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "When Love is Gone",
+        "released": "2022-10-21",
+        "rating": "N/A",
+        "imdb_id": "tt22651846",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Mirror Mirror on the Wall",
+        "released": "2022-10-21",
+        "rating": "N/A",
+        "imdb_id": "tt22651848",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Four More Shots Please\\Subtitles\\S3\\SUBDL::four-more-shots-please-third-season-english-3210651.zip"
+    }
+}

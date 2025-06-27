@@ -1,0 +1,34 @@
+{
+    "1": {
+        "title": "Tu Beer Hai",
+        "released": "2015-06-03",
+        "rating": "9.1",
+        "imdb_id": "tt4766188",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\TVF Pitchers\\Subtitles\\S1\\TVF_Pitchers_S01E01_(Tu_Beer_Hai)_WEBRipS1E1.zip"
+    },
+    "2": {
+        "title": "And Then There Were Four",
+        "released": "2015-06-17",
+        "rating": "N/A",
+        "imdb_id": "tt4773132",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\TVF Pitchers\\Subtitles\\S1\\TVF_Pitchers_S01E02_(Then_There_Were_Four)_WEBRip_V2S1E2.zip"
+    },
+    "4": {
+        "title": "Bulb Jalega Boss",
+        "released": "2015-07-15",
+        "rating": "9.1",
+        "imdb_id": "tt4773136",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Where Magic Happens",
+        "released": "2015-08-30",
+        "rating": "9.4",
+        "imdb_id": "tt4982780",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

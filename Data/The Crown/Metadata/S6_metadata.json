@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Persona Non Grata",
+        "released": "2023-11-16",
+        "rating": "7.8",
+        "imdb_id": "tt12690514",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S6\\The.Crown.S06E01-E04.WEB.H264-RBBS6E1.zip"
+    },
+    "2": {
+        "title": "Two Photographs",
+        "released": "2023-11-16",
+        "rating": "7.8",
+        "imdb_id": "tt12696308",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Dis-Moi Oui",
+        "released": "2023-11-16",
+        "rating": "8.1",
+        "imdb_id": "tt12696310",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Aftermath",
+        "released": "2023-11-16",
+        "rating": "8.2",
+        "imdb_id": "tt12696314",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Willsmania",
+        "released": "2023-12-14",
+        "rating": "7.6",
+        "imdb_id": "tt12696318",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Crown\\Subtitles\\S6\\The.Crown.S06E05-E10.WEB.H264-RBBS6E5.zip"
+    },
+    "6": {
+        "title": "Ruritania",
+        "released": "2023-12-14",
+        "rating": "7.4",
+        "imdb_id": "tt12696320",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Alma Mater",
+        "released": "2023-12-14",
+        "rating": "7.4",
+        "imdb_id": "tt12696322",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Ritz",
+        "released": "2023-12-14",
+        "rating": "8.6",
+        "imdb_id": "tt12696340",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Hope Street",
+        "released": "2023-12-14",
+        "rating": "N/A",
+        "imdb_id": "tt12696344",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Sleep, Dearie Sleep",
+        "released": "2023-12-14",
+        "rating": "9.0",
+        "imdb_id": "tt12696342",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

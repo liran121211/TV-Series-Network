@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Tractoring",
+        "released": "2021-06-10",
+        "rating": "8.4",
+        "imdb_id": "tt10558964",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Clarkson's Farm\\Subtitles\\S1\\Clarksons.Farm.S01E01-08.Full_SeasonS1E1.zip"
+    },
+    "2": {
+        "title": "Sheeping",
+        "released": "2021-06-11",
+        "rating": "N/A",
+        "imdb_id": "tt11733006",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Shopping",
+        "released": "2021-06-11",
+        "rating": "N/A",
+        "imdb_id": "tt11733010",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Wilding",
+        "released": "2021-06-11",
+        "rating": "N/A",
+        "imdb_id": "tt11733014",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Pan (dem) icking",
+        "released": "2021-06-11",
+        "rating": "8.8",
+        "imdb_id": "tt11733016",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Melting",
+        "released": "2021-06-11",
+        "rating": "N/A",
+        "imdb_id": "tt11733028",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Fluffing",
+        "released": "2021-06-11",
+        "rating": "8.7",
+        "imdb_id": "tt11733040",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Harvesting",
+        "released": "2021-06-11",
+        "rating": "9.2",
+        "imdb_id": "tt11733050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

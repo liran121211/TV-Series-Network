@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "A Normal Amount of Rage",
+        "released": "2022-08-18",
+        "rating": "6.6",
+        "imdb_id": "tt11261206",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\She-Hulk_ Attorney at Law\\Subtitles\\S1\\She-Hulk.Attorney.at.Law.S01E01.WEBRip.x264-ION10S1E1.zip"
+    },
+    "2": {
+        "title": "Superhuman Law",
+        "released": "2022-08-25",
+        "rating": "6.2",
+        "imdb_id": "tt11950134",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\She-Hulk_ Attorney at Law\\Subtitles\\S1\\She-Hulk.Attorney.at.Law.S01E02.WEBRip.x264-ION10S1E2.zip"
+    },
+    "3": {
+        "title": "The People vs. Emil Blonsky",
+        "released": "2022-09-01",
+        "rating": "5.7",
+        "imdb_id": "tt11950138",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\She-Hulk_ Attorney at Law\\Subtitles\\S1\\She-Hulk.Attorney.at.Law.S01E03.WEBRip.x264-ION10S1E3.zip"
+    },
+    "4": {
+        "title": "Is This Not Real Magic?",
+        "released": "2022-09-08",
+        "rating": "N/A",
+        "imdb_id": "tt11950140",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Mean, Green, and Straight Poured into These Jeans",
+        "released": "2022-09-15",
+        "rating": "5.4",
+        "imdb_id": "tt11950144",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Just Jen",
+        "released": "2022-09-22",
+        "rating": "N/A",
+        "imdb_id": "tt11950142",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\She-Hulk_ Attorney at Law\\Subtitles\\S1\\She-Hulk.Attorney.at.Law.S01E06.720p.DSNP.WEB-DL.DDP5.1.H.264-NTbS1E6.zip"
+    },
+    "7": {
+        "title": "The Retreat",
+        "released": "2022-09-29",
+        "rating": "5.6",
+        "imdb_id": "tt13841074",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\She-Hulk_ Attorney at Law\\Subtitles\\S1\\She-Hulk.Attorney.at.Law.S01E07.720p.WEB.h264-KOGiS1E7.zip"
+    },
+    "8": {
+        "title": "Ribbit and Rip It",
+        "released": "2022-10-06",
+        "rating": "7.6",
+        "imdb_id": "tt13841076",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\She-Hulk_ Attorney at Law\\Subtitles\\S1\\She-Hulk.Attorney.at.Law.S01E08.Ribbit.and.Rip.it.720p.DSNP.WEB-DL.DDP5.1.H.264-NTbS1E8.zip"
+    },
+    "9": {
+        "title": "Whose Show Is This?",
+        "released": "2022-10-13",
+        "rating": "5.6",
+        "imdb_id": "tt13841098",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\She-Hulk_ Attorney at Law\\Subtitles\\S1\\SUBDL::she-hulk-attorney-at-law-first-season-english-2934394.zip"
+    }
+}

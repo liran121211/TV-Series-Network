@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Smells Like Mean Spirit",
+        "released": "2023-03-15",
+        "rating": "7.7",
+        "imdb_id": "tt13362962",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S3\\Ted.Lasso.S03E01.1080p.WEB.H264-GGWPS3E1.zip"
+    },
+    "2": {
+        "title": "(I Don't Want to Go to) Chelsea",
+        "released": "2023-03-22",
+        "rating": "8.2",
+        "imdb_id": "tt19655878",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S3\\Ted.Lasso.S03E02.WEBRip.x264-ION10_ATVPS3E2.zip"
+    },
+    "3": {
+        "title": "4-5-1",
+        "released": "2023-03-29",
+        "rating": "7.8",
+        "imdb_id": "tt19655880",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S3\\Ted.Lasso.SE03E03.WEBRip.x264-ION10_ATVPS3E3.zip"
+    },
+    "4": {
+        "title": "Big Week",
+        "released": "2023-04-05",
+        "rating": "8.1",
+        "imdb_id": "tt19655944",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S3\\Ted.Lasso.SE03E04.WEBRip.x264-ION10_ATVPS3E4.zip"
+    },
+    "5": {
+        "title": "Signs",
+        "released": "2023-04-12",
+        "rating": "7.2",
+        "imdb_id": "tt19655882",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S3\\Ted.Lasso.SE03E05.WEBRip.x264-ION10_ATVPS3E5.zip"
+    },
+    "6": {
+        "title": "Sunflowers",
+        "released": "2023-04-19",
+        "rating": "8.9",
+        "imdb_id": "tt19655884",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S3\\Ted.Lasso.SE03E06.WEBRip.x264-ION10_ATVPS3E6.zip"
+    },
+    "7": {
+        "title": "The Strings That Bind Us",
+        "released": "2023-04-26",
+        "rating": "8.3",
+        "imdb_id": "tt19712480",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S3\\Ted.Lasso.SE03E07.WEBRip.x264-ION10_ATVPS3E7.zip"
+    },
+    "8": {
+        "title": "We'll Never Have Paris",
+        "released": "2023-05-03",
+        "rating": "6.6",
+        "imdb_id": "tt19712482",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "La Locker Room Aux Folles",
+        "released": "2023-05-10",
+        "rating": "8.4",
+        "imdb_id": "tt19712484",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S3\\Ted.Lasso.SE03xE09.WEBRip.x264-ION10_ATVP_CAKESS3E9.zip"
+    },
+    "10": {
+        "title": "International Break",
+        "released": "2023-05-17",
+        "rating": "8.5",
+        "imdb_id": "tt19712486",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Mom City",
+        "released": "2023-05-24",
+        "rating": "9.3",
+        "imdb_id": "tt23743566",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "So Long, Farewell",
+        "released": "2023-05-31",
+        "rating": "9.4",
+        "imdb_id": "tt23743570",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

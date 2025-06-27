@@ -1,0 +1,2747 @@
+﻿1
+00:00:02,010 --> 00:00:03,610
+Previously on
+"Better Call Saul"...
+
+2
+00:00:03,710 --> 00:00:05,110
+<font color="#138ce9">KIM:</font> I think there's a way
+to get Sandpiper settled
+
+3
+00:00:05,210 --> 00:00:06,410
+and leave him standing.
+
+4
+00:00:06,510 --> 00:00:08,280
+Maybe the trick is,
+we're not working on Howard.
+
+5
+00:00:08,380 --> 00:00:09,520
+Not at first.
+
+6
+00:00:09,620 --> 00:00:11,090
+<font color="#138ce9">JIMMY:</font> You've got
+two dozen lawyers up there,
+
+7
+00:00:11,190 --> 00:00:13,250
+and it's my fault
+you can't keep track of Lalo?
+
+8
+00:00:13,350 --> 00:00:15,660
+<font color="#ff00ff">[SIGHS]</font>
+I meant De Guzman.
+
+9
+00:00:15,760 --> 00:00:18,260
+<font color="#138ce9">MIKE:</font> Varga's alone
+in foreign territory.
+
+10
+00:00:18,360 --> 00:00:19,990
+He's gonna get caught.
+
+11
+00:00:20,100 --> 00:00:22,460
+<font color="#ff00ff">[SPEAKING SPANISH]</font>
+
+12
+00:00:22,560 --> 00:00:25,300
+You're not doing that.
+
+13
+00:00:25,400 --> 00:00:26,600
+He wants to talk to you.
+
+14
+00:00:26,700 --> 00:00:27,770
+<font color="#ff00ff">[GUNSHOTS]</font>
+
+15
+00:00:34,280 --> 00:00:37,550
+<font color="#ff00ff">[INSECTS CHIRPING]</font>
+
+16
+00:00:42,450 --> 00:00:45,920
+<font color="#ff00ff">[BIRDS CHIRPING]</font>
+
+17
+00:00:51,960 --> 00:00:55,200
+<font color="#ff00ff">[HISSING]</font>
+
+18
+00:00:55,300 --> 00:00:58,530
+<font color="#ff00ff">[BIRDS CHIRPING]</font>
+
+19
+00:00:58,630 --> 00:01:02,100
+<font color="#ff00ff">[INSECTS CHIRPING]</font>
+
+20
+00:01:04,310 --> 00:01:07,640
+<font color="#ff00ff">[INSECTS BUZZING]</font>
+
+21
+00:01:07,740 --> 00:01:10,910
+<font color="#ff00ff">[BIRDS CHIRPING]</font>
+
+22
+00:01:11,010 --> 00:01:14,520
+<font color="#ff00ff">[INSECTS CHIRPING]</font>
+
+23
+00:01:24,990 --> 00:01:27,930
+<font color="#ff00ff">[HISSING]</font>
+
+24
+00:01:28,030 --> 00:01:31,370
+<font color="#ff00ff">[THUNDER RUMBLING]</font>
+
+25
+00:01:31,470 --> 00:01:34,940
+<font color="#ff00ff">[INSECTS BUZZING]</font>
+
+26
+00:01:45,380 --> 00:01:48,620
+<font color="#ff00ff">[THUNDER RUMBLING]</font>
+
+27
+00:01:48,720 --> 00:01:52,020
+<font color="#ff00ff">[INSECTS CHIRPING]</font>
+
+28
+00:01:52,120 --> 00:01:54,360
+<font color="#ff00ff">[BIRDS CHIRPING]</font>
+
+29
+00:01:54,460 --> 00:01:57,890
+<font color="#ff00ff">[RAIN PATTERING]</font>
+
+30
+00:02:12,640 --> 00:02:16,140
+<font color="#ff00ff">[RAIN CLINKING LIGHTLY]</font>
+
+31
+00:02:27,690 --> 00:02:32,690
+<font color="#ffff00">♪</font>
+
+32
+00:02:33,000 --> 00:02:42,000
+<font color="#ff00ff">- Original SUB by CapnChron </font><font color="#138ce9">- www.opensubtitles.org -</font>
+<font color="#ffff00">Colored HI and improvements by </font><font color="#f0100f">GoldBerg_44</font>
+
+33
+00:02:47,580 --> 00:02:50,140
+<font color="#ff00ff">[RUMBLING]</font>
+
+34
+00:02:50,550 --> 00:02:53,150
+<font color="#ff00ff">[CLATTERING]</font>
+
+35
+00:02:53,250 --> 00:02:57,550
+<font color="#ff00ff">[ENGINE REVVING]</font>
+
+36
+00:03:04,730 --> 00:03:06,630
+<font color="#ff00ff">[ENGINE STOPS]</font>
+
+37
+00:03:06,730 --> 00:03:08,460
+<font color="#ff00ff">[AIR HISSING]</font>
+
+38
+00:03:17,910 --> 00:03:19,010
+<font color="#ff00ff">[GUN COCKS]</font>
+
+39
+00:03:19,110 --> 00:03:21,380
+<font color="#ff00ff">[WIND BLOWING]</font>
+
+40
+00:03:27,210 --> 00:03:30,820
+<font color="#ff00ff">[BIRDS CHIRPING]</font>
+
+41
+00:03:37,890 --> 00:03:40,600
+<font color="#ff00ff">[VEHICLE APPROACHING]</font>
+
+42
+00:03:58,410 --> 00:04:00,920
+<font color="#ff00ff">[COUGHING]</font>
+
+43
+00:04:01,020 --> 00:04:04,290
+<font color="#ff00ff">[VEHICLE APPROACHING]</font>
+
+44
+00:04:09,490 --> 00:04:11,960
+<font color="#ff00ff">[CLANGS]</font>
+
+45
+00:04:12,060 --> 00:04:15,630
+<font color="#ff00ff">[BREATHING SHARPLY, COUGHING]</font>
+
+46
+00:04:22,770 --> 00:04:24,870
+<font color="#ff00ff">[FOOTSTEPS CLANKING]</font>
+
+47
+00:04:24,970 --> 00:04:27,210
+<font color="#ff00ff">[VEHICLE APPROACHING]</font>
+
+48
+00:04:27,310 --> 00:04:28,910
+<font color="#ff00ff">[TIRES SCREECH]</font>
+
+49
+00:04:29,010 --> 00:04:32,350
+<font color="#ff00ff">[SUSPENSEFUL MUSIC PLAYS]</font>
+
+50
+00:04:32,450 --> 00:04:42,360
+<font color="#ffff00">♪</font>
+
+51
+00:04:42,460 --> 00:04:52,370
+<font color="#ffff00">♪</font>
+
+52
+00:04:52,470 --> 00:05:02,380
+<font color="#ffff00">♪</font>
+
+53
+00:05:02,480 --> 00:05:12,390
+<font color="#ffff00">♪</font>
+
+54
+00:05:12,490 --> 00:05:22,400
+<font color="#ffff00">♪</font>
+
+55
+00:05:22,500 --> 00:05:24,630
+<font color="#ffff00">♪</font>
+
+56
+00:05:24,730 --> 00:05:28,070
+<font color="#ff00ff">[FOOTSTEPS CLANKING]</font>
+
+57
+00:05:28,170 --> 00:05:34,480
+<font color="#ffff00">♪</font>
+
+58
+00:05:34,580 --> 00:05:38,080
+<font color="#ff00ff">[OIL SLOSHING]</font>
+
+59
+00:05:38,180 --> 00:05:48,090
+<font color="#ffff00">♪</font>
+
+60
+00:05:48,190 --> 00:05:53,160
+<font color="#ffff00">♪</font>
+
+61
+00:05:53,260 --> 00:05:57,970
+<font color="#ff00ff">[DEEP INHALE]</font>
+
+62
+00:05:58,070 --> 00:06:00,940
+<font color="#ff00ff">[OIL SETTLING, BUBBLES POPPING]</font>
+
+63
+00:06:01,040 --> 00:06:04,940
+<font color="#ffff00">♪</font>
+
+64
+00:06:05,040 --> 00:06:08,210
+<font color="#ff00ff">[FOOTSTEPS CLANKING]</font>
+
+65
+00:06:35,940 --> 00:06:38,210
+<font color="#138ce9">MAN:</font> iJefe!
+
+66
+00:06:38,310 --> 00:06:41,210
+<font color="#ff00ff">[BIRDS CHIRPING]</font>
+
+67
+00:06:41,310 --> 00:06:43,380
+Un campesino.
+
+68
+00:06:43,480 --> 00:06:45,950
+Tal vez lo vio.
+
+69
+00:06:50,750 --> 00:06:54,290
+<font color="#ff00ff">[FOOTSTEPS CLANKING]</font>
+
+70
+00:07:08,140 --> 00:07:11,610
+<font color="#ff00ff">[GASPING SOFTLY]</font>
+
+71
+00:07:14,340 --> 00:07:17,810
+<font color="#ff00ff">[FOOTSTEPS CLANKING SOFTLY]</font>
+
+72
+00:07:40,700 --> 00:07:43,570
+<font color="#ff00ff">[ENGINE RUMBLING]</font>
+
+73
+00:07:43,670 --> 00:07:45,910
+<font color="#ff00ff">[ENGINE REVS]</font>
+
+74
+00:07:46,010 --> 00:07:48,010
+<font color="#ff00ff">[VEHICLE DEPARTS]</font>
+
+75
+00:07:51,880 --> 00:07:55,250
+<font color="#ff00ff">[SUSPENSEFUL MUSIC PLAYS]</font>
+
+76
+00:07:55,350 --> 00:07:57,650
+<font color="#ffff00">♪</font>
+
+77
+00:07:57,750 --> 00:08:00,120
+<font color="#ff00ff">[BREATHES SHARPLY]</font>
+
+78
+00:08:00,220 --> 00:08:10,130
+<font color="#ffff00">♪</font>
+
+79
+00:08:10,230 --> 00:08:13,970
+<font color="#ffff00">♪</font>
+
+80
+00:08:14,070 --> 00:08:19,310
+<font color="#ff00ff">[INSECTS CHIRPING]</font>
+
+81
+00:08:19,410 --> 00:08:24,910
+<font color="#ff00ff">[BREATHING HEAVILY]</font>
+
+82
+00:08:25,010 --> 00:08:28,520
+<font color="#ff00ff">[COUGHING]</font>
+
+83
+00:08:35,920 --> 00:08:37,420
+<font color="#ff00ff">[INSECTS CHIRPING]</font>
+
+84
+00:08:37,520 --> 00:08:42,060
+<font color="#ff00ff">[COUGHING, VOMITING]</font>
+
+85
+00:09:23,970 --> 00:09:27,440
+<font color="#ff00ff">[BIRDS CHIRPING]</font>
+
+86
+00:09:47,830 --> 00:09:51,300
+<font color="#ff00ff">[SPEAKING SPANISH]</font>
+
+87
+00:10:08,180 --> 00:10:11,050
+Gracias.
+
+88
+00:10:24,700 --> 00:10:27,940
+<font color="#ff00ff">[CLATTERING LIGHTLY]</font>
+
+89
+00:10:28,040 --> 00:10:31,510
+<font color="#ff00ff">[BIRDS CHIRPING]</font>
+
+90
+00:10:45,550 --> 00:10:48,020
+Señor.
+
+91
+00:10:50,020 --> 00:10:52,690
+<font color="#ff00ff">[SIGHS LIGHTLY]</font>
+
+92
+00:10:54,230 --> 00:10:56,400
+<font color="#ff00ff">[SCOFFS]</font>
+
+93
+00:10:56,500 --> 00:10:58,430
+Gracias.
+
+94
+00:11:10,680 --> 00:11:14,880
+<font color="#ff00ff">[TELEPHONE DIALING]</font>
+
+95
+00:11:20,390 --> 00:11:22,690
+<font color="#ff00ff">[LINE RINGS]</font>
+
+96
+00:11:22,790 --> 00:11:25,330
+<font color="#ff00ff">[TELEPHONE RINGING]</font>
+
+97
+00:11:25,430 --> 00:11:29,730
+<font color="#ff00ff">[MACHINERY WHIRRING IN DISTANCE]</font>
+
+98
+00:11:31,200 --> 00:11:34,170
+A to Z Fine Upholstery.
+
+99
+00:11:34,270 --> 00:11:35,470
+Hello?
+
+100
+00:11:35,570 --> 00:11:36,640
+Dad.
+
+101
+00:11:36,740 --> 00:11:38,970
+<font color="#ff00ff">[SNIFFLES]</font>
+It's me.
+
+102
+00:11:39,070 --> 00:11:40,640
+Nacho?
+
+103
+00:11:40,740 --> 00:11:43,310
+Sí, Papa.
+
+104
+00:11:46,480 --> 00:11:48,550
+<font color="#ff00ff">[SIGHS]</font>
+
+105
+00:11:53,790 --> 00:11:57,160
+Um.
+
+106
+00:12:02,960 --> 00:12:05,030
+<font color="#ff00ff">[CHUCKLES]</font>
+
+107
+00:12:05,130 --> 00:12:07,100
+Nacho...
+
+108
+00:12:24,080 --> 00:12:26,050
+Okay.
+
+109
+00:12:26,150 --> 00:12:29,120
+<font color="#ff00ff">[MAN SPEAKING INDISTINCTLY]</font>
+
+110
+00:12:57,180 --> 00:12:59,120
+Hm?
+
+111
+00:12:59,220 --> 00:13:01,820
+<font color="#ff00ff">[SIGHS]</font>
+
+112
+00:13:11,730 --> 00:13:14,200
+<font color="#ff00ff">[RECEIVER CLICKS IN CRADLE]</font>
+
+113
+00:13:14,300 --> 00:13:17,000
+<font color="#ff00ff">[SNIFFLES]</font>
+
+114
+00:13:28,720 --> 00:13:30,420
+<font color="#ff00ff">[SNIFFLES]</font>
+
+115
+00:13:30,520 --> 00:13:31,820
+<font color="#ff00ff">[CRYING]</font>
+
+116
+00:13:31,920 --> 00:13:33,850
+<font color="#ff00ff">[SNIFFLES, CHUCKLES]</font>
+
+117
+00:13:34,720 --> 00:13:35,960
+<font color="#ff00ff">[SIGHS]</font>
+
+118
+00:13:36,060 --> 00:13:37,460
+<font color="#ff00ff">[RECEIVER CLICKS]</font>
+
+119
+00:13:37,560 --> 00:13:39,060
+<font color="#ff00ff">[SIGHS]</font>
+
+120
+00:13:39,160 --> 00:13:41,760
+<font color="#ff00ff">[SNIFFLING]</font>
+
+121
+00:13:41,860 --> 00:13:45,700
+<font color="#ff00ff">[TELEPHONE DIALS]</font>
+
+122
+00:13:47,100 --> 00:13:50,940
+<font color="#ff00ff">[LINE RINGS]</font>
+
+123
+00:13:51,040 --> 00:13:53,440
+<font color="#138ce9">MIKE:</font> Yeah.
+
+124
+00:13:53,540 --> 00:13:56,580
+<font color="#138ce9">NACHO:</font> It's me.
+
+125
+00:13:56,680 --> 00:13:58,080
+Yeah.
+
+126
+00:13:58,180 --> 00:13:59,780
+You knew.
+
+127
+00:13:59,880 --> 00:14:02,320
+You knew that I was going
+to Mexico to die,
+
+128
+00:14:02,420 --> 00:14:04,850
+that I was never supposed to
+make it out of that motel.
+
+129
+00:14:04,950 --> 00:14:07,490
+And you
+let it happen.
+
+130
+00:14:07,590 --> 00:14:09,320
+Not my call.
+
+131
+00:14:09,420 --> 00:14:11,430
+What happens now?
+
+132
+00:14:11,530 --> 00:14:14,030
+That's up to you.
+
+133
+00:14:14,130 --> 00:14:16,830
+Is that bastard
+with you?
+
+134
+00:14:16,930 --> 00:14:19,130
+Put him on.
+
+135
+00:14:19,230 --> 00:14:21,040
+Hm.
+
+136
+00:14:21,140 --> 00:14:23,800
+He wants
+to talk to you.
+
+137
+00:14:23,900 --> 00:14:27,170
+<font color="#ff00ff">[SUSPENSEFUL MUSIC PLAYS]</font>
+
+138
+00:14:27,270 --> 00:14:32,950
+<font color="#ffff00">♪</font>
+
+139
+00:14:33,050 --> 00:14:35,180
+Yes.
+
+140
+00:14:35,280 --> 00:14:37,350
+You are screwed.
+
+141
+00:14:37,450 --> 00:14:38,990
+<font color="#ffff00">♪</font>
+
+142
+00:14:39,090 --> 00:14:41,390
+You want the cartel
+to blame me for Lalo.
+
+143
+00:14:41,490 --> 00:14:43,960
+But if they catch me,
+make me talk --
+
+144
+00:14:44,060 --> 00:14:47,830
+<font color="#ff00ff">[BREATHES SHARPLY]</font>
+that is not good for you, is it?
+
+145
+00:14:47,930 --> 00:14:49,330
+Even if I disappear,
+
+146
+00:14:49,430 --> 00:14:52,530
+everyone's gonna smell
+your stink all over it.
+
+147
+00:14:52,630 --> 00:14:57,370
+The only way that this works
+for you is with me dead.
+
+148
+00:14:57,470 --> 00:15:03,540
+<font color="#ffff00">♪</font>
+
+149
+00:15:03,640 --> 00:15:05,880
+<font color="#ff00ff">[SIGHS]</font>
+
+150
+00:15:05,980 --> 00:15:08,150
+Alright.
+
+151
+00:15:08,250 --> 00:15:11,090
+Whatever bullshit way
+you want the story to go,
+
+152
+00:15:11,190 --> 00:15:12,520
+I will make it go.
+
+153
+00:15:12,620 --> 00:15:16,990
+But...I need one thing.
+
+154
+00:15:17,090 --> 00:15:18,730
+Yes?
+
+155
+00:15:18,830 --> 00:15:21,230
+My dad.
+
+156
+00:15:21,330 --> 00:15:24,230
+I need to know
+that he'll be safe.
+
+157
+00:15:24,330 --> 00:15:25,670
+<font color="#ffff00">♪</font>
+
+158
+00:15:25,770 --> 00:15:27,730
+If you are true
+to your word,
+
+159
+00:15:27,830 --> 00:15:31,670
+there will be no reason
+for anyone to harm your father.
+
+160
+00:15:31,770 --> 00:15:33,040
+<font color="#ffff00">♪</font>
+
+161
+00:15:33,140 --> 00:15:37,210
+You are not the one
+that I need to hear it from.
+
+162
+00:15:37,310 --> 00:15:39,950
+<font color="#ffff00">♪</font>
+
+163
+00:15:40,050 --> 00:15:42,350
+<font color="#ff00ff">[BEEPS]</font>
+
+164
+00:15:42,450 --> 00:15:44,750
+<font color="#ffff00">♪</font>
+
+165
+00:15:44,850 --> 00:15:46,920
+Your dad's
+gonna be okay.
+
+166
+00:15:47,020 --> 00:15:48,260
+How do you know?
+
+167
+00:15:48,360 --> 00:15:51,090
+Because anyone
+who goes after him
+
+168
+00:15:51,190 --> 00:15:53,430
+is gonna have to
+come through me.
+
+169
+00:15:53,530 --> 00:15:59,600
+<font color="#ffff00">♪</font>
+
+170
+00:15:59,700 --> 00:16:01,540
+<font color="#ff00ff">[METAL CLANKS]</font>
+
+171
+00:16:54,750 --> 00:16:56,960
+Zip?
+
+172
+00:16:57,420 --> 00:16:58,660
+<font color="#ff00ff">[DRESS ZIPPING]</font>
+
+173
+00:16:58,760 --> 00:16:59,930
+All set.
+
+174
+00:17:00,030 --> 00:17:01,160
+What's up?
+
+175
+00:17:01,260 --> 00:17:04,830
+Well, I'm just thinking
+about the timeline.
+
+176
+00:17:04,930 --> 00:17:05,830
+Let me.
+
+177
+00:17:05,930 --> 00:17:07,870
+Everything has to go off
+by the 18th.
+
+178
+00:17:07,970 --> 00:17:10,140
+That's the target date,
+right?
+Uh-huh.
+
+179
+00:17:10,240 --> 00:17:12,510
+And before that,
+just for the driving work,
+
+180
+00:17:12,610 --> 00:17:15,380
+we're saying we want, uh,
+the right year and model --
+
+181
+00:17:15,480 --> 00:17:17,010
+mint condition,
+no less.
+
+182
+00:17:17,110 --> 00:17:18,950
+And then
+get it painted.
+
+183
+00:17:19,050 --> 00:17:20,880
+Plus we want to get
+the custom plates...
+
+184
+00:17:20,980 --> 00:17:22,350
+So not enough time?
+
+185
+00:17:22,450 --> 00:17:24,850
+That's what
+I'm wondering.
+<font color="#ff00ff">[CLICKS TONGUE]</font>
+
+186
+00:17:24,950 --> 00:17:26,190
+<font color="#ff00ff">[SIGHS]</font>
+
+187
+00:17:26,290 --> 00:17:27,790
+Mm.
+
+188
+00:17:27,890 --> 00:17:29,690
+Okay.
+
+189
+00:17:29,790 --> 00:17:31,730
+Here you go.
+
+190
+00:17:31,830 --> 00:17:33,530
+What if...
+
+191
+00:17:33,630 --> 00:17:35,230
+<font color="#ff00ff">[CHUCKLES]</font>
+
+192
+00:17:35,330 --> 00:17:38,670
+What if we used
+the real car?
+
+193
+00:17:38,770 --> 00:17:40,530
+<font color="#ff00ff">[SIGHS]</font>
+I mean, like,
+his real car.
+
+194
+00:17:40,630 --> 00:17:41,870
+His car?
+
+195
+00:17:41,970 --> 00:17:44,340
+That's a bit direct.
+
+196
+00:17:44,440 --> 00:17:49,080
+I think the word you're
+looking for is "audacious."
+
+197
+00:17:49,180 --> 00:17:50,580
+That, too.
+
+198
+00:17:50,680 --> 00:17:52,710
+But it's a real risk,
+'cause, uh,
+
+199
+00:17:52,810 --> 00:17:55,050
+<font color="#ff00ff">[BREATHES SHARPLY]</font> we're exposed
+<font color="#ff00ff">[SIGHS]</font> when we take it,
+
+200
+00:17:55,150 --> 00:17:56,220
+and then, what?
+
+201
+00:17:56,320 --> 00:17:57,880
+Just --
+Just put it back?
+
+202
+00:17:57,980 --> 00:18:00,390
+Pretend some kids
+took it for a joyride?
+
+203
+00:18:00,490 --> 00:18:02,920
+I mean, there's a dozen ways
+we tip our hand.
+
+204
+00:18:16,200 --> 00:18:18,410
+I got it.
+
+205
+00:18:18,510 --> 00:18:20,670
+Valet scam.
+Hm?
+
+206
+00:18:20,770 --> 00:18:22,210
+How does that work?
+
+207
+00:18:22,310 --> 00:18:23,940
+Well, <font color="#ff00ff">[CLEARS THROAT]</font>
+it wouldn't be me.
+
+208
+00:18:24,040 --> 00:18:26,850
+This has got Huell's name
+written all over it.
+
+209
+00:18:26,950 --> 00:18:28,250
+Huell?
+Yeah. <font color="#ff00ff">[SIGHS]</font>
+
+210
+00:18:28,350 --> 00:18:30,350
+He knows Huell
+from your hearing.
+
+211
+00:18:30,450 --> 00:18:31,890
+Yeah,
+but if we do it right,
+
+212
+00:18:31,990 --> 00:18:34,120
+Huell will be invisible.
+
+213
+00:18:34,220 --> 00:18:35,560
+Oh, yeah?
+
+214
+00:18:35,660 --> 00:18:37,260
+Like a ghost.
+
+215
+00:18:37,360 --> 00:18:39,590
+That's pretty slick.
+
+216
+00:18:39,690 --> 00:18:42,560
+I think the word you're
+looking for is "audacious."
+
+217
+00:18:52,240 --> 00:18:54,810
+<font color="#ff00ff">[SIGHS]</font>
+
+218
+00:18:57,380 --> 00:18:59,010
+<font color="#ff00ff">[BREATHES DEEPLY]</font>
+
+219
+00:19:00,050 --> 00:19:03,250
+<font color="#ff00ff">[ELEVATOR BEEPS]</font>
+
+220
+00:19:03,350 --> 00:19:08,360
+<font color="#ff00ff">[INDISTINCT CONVERSATIONS]</font>
+
+221
+00:19:09,760 --> 00:19:11,060
+<font color="#138ce9">WOMAN:</font> Alright.
+Thank you for that.
+
+222
+00:19:11,160 --> 00:19:12,960
+<font color="#138ce9">JIMMY:</font> Try talking...
+
+223
+00:19:13,060 --> 00:19:16,360
+<font color="#ff00ff">[INDISTINCT CONVERSATIONS
+CONTINUE]</font>
+
+224
+00:19:17,230 --> 00:19:18,570
+Oh, hey, Suzanne!
+
+225
+00:19:18,670 --> 00:19:19,770
+Kim.
+
+226
+00:19:19,870 --> 00:19:21,600
+Glad I s-spotted you.
+
+227
+00:19:21,700 --> 00:19:24,370
+I have some new info
+on Caldwell.
+
+228
+00:19:27,410 --> 00:19:28,810
+Am I
+reading this right?
+
+229
+00:19:28,910 --> 00:19:31,810
+This is an out-of-state
+misdemeanor arrest report.
+
+230
+00:19:31,910 --> 00:19:33,950
+On your client.
+Yeah.
+
+231
+00:19:34,050 --> 00:19:35,350
+This is
+six years old, Kim.
+
+232
+00:19:35,450 --> 00:19:36,520
+Yep.
+
+233
+00:19:36,620 --> 00:19:39,120
+There's no way we ever
+would've chased this down.
+
+234
+00:19:39,220 --> 00:19:41,150
+Why are you
+giving this to me?
+
+235
+00:19:41,260 --> 00:19:42,360
+<font color="#ff00ff">[CLICKS TONGUE]</font>
+
+236
+00:19:42,460 --> 00:19:44,520
+We're in discovery,
+and I discovered it.
+
+237
+00:19:44,620 --> 00:19:46,530
+I'm supposed to
+turn it over.
+
+238
+00:19:46,630 --> 00:19:49,830
+Besides, we are going to
+beat you on the merits.
+
+239
+00:19:49,930 --> 00:19:51,630
+You can keep
+that copy.
+
+240
+00:19:51,730 --> 00:19:52,870
+I'll see you.
+
+241
+00:19:52,970 --> 00:19:56,840
+<font color="#ff00ff">[ELEVATOR BELL DINGS,
+DOORS SLIDE OPEN]</font>
+
+242
+00:19:56,940 --> 00:19:58,340
+Kim. Kim.
+
+243
+00:19:58,440 --> 00:20:00,170
+Do you have
+a minute?
+
+244
+00:20:00,270 --> 00:20:02,610
+I'm sure
+you recognize this man.
+
+245
+00:20:02,710 --> 00:20:06,350
+He's a client of Jimmy McGill's,
+one Jorge de Guzman.
+
+246
+00:20:06,450 --> 00:20:09,680
+This -- This is
+Eduardo Salamanca.
+
+247
+00:20:09,780 --> 00:20:11,220
+Same person.
+
+248
+00:20:12,720 --> 00:20:14,490
+Okay.
+
+249
+00:20:14,590 --> 00:20:17,620
+And who is
+Eduardo Salamanca?
+
+250
+00:20:17,720 --> 00:20:19,860
+A major drug trafficker.
+
+251
+00:20:19,960 --> 00:20:22,400
+We got this photo
+from Federales in Chihuahua.
+
+252
+00:20:22,500 --> 00:20:27,630
+Seems Salamanca jumped the
+seven million he posted in bail
+
+253
+00:20:27,730 --> 00:20:30,000
+and fled to Mexico.
+
+254
+00:20:30,100 --> 00:20:31,910
+Wow.
+<font color="#ff00ff">[BREATHES DEEPLY]</font>
+
+255
+00:20:32,010 --> 00:20:33,370
+That's news to me.
+
+256
+00:20:33,470 --> 00:20:35,040
+How did this
+come to light?
+
+257
+00:20:35,140 --> 00:20:37,840
+He died in a massive firefight
+at his compound.
+
+258
+00:20:37,940 --> 00:20:40,450
+Over a half dozen people
+were killed.
+
+259
+00:20:46,990 --> 00:20:48,050
+That's terrible,
+
+260
+00:20:48,150 --> 00:20:50,460
+but where are you going
+with this?
+
+261
+00:20:51,460 --> 00:20:53,330
+Bear with me.
+
+262
+00:20:53,430 --> 00:20:56,230
+Let me explain how this looks
+from where I stand.
+
+263
+00:20:56,330 --> 00:20:57,400
+<font color="#ff00ff">[SIGHS LIGHTLY]</font>
+
+264
+00:20:57,500 --> 00:21:00,570
+A couple years back,
+Jimmy McGill represented
+
+265
+00:21:00,670 --> 00:21:03,040
+Ignacio Varga,
+a local dealer.
+
+266
+00:21:03,140 --> 00:21:06,770
+Now, Varga is a known associate
+of Tuco Salamanca.
+
+267
+00:21:06,870 --> 00:21:09,540
+Jimmy was involved
+in getting Tuco
+
+268
+00:21:09,640 --> 00:21:12,410
+a reduced sentence
+on an assault and battery charge
+
+269
+00:21:12,510 --> 00:21:14,210
+shortly after
+he represented Varga.
+
+270
+00:21:14,310 --> 00:21:18,180
+And now here he is,
+representing Eduardo Salamanca
+
+271
+00:21:18,280 --> 00:21:21,090
+under the assumed name
+"De Guzman."
+
+272
+00:21:21,190 --> 00:21:22,420
+Okay.
+
+273
+00:21:22,520 --> 00:21:24,360
+What are you
+getting at?
+
+274
+00:21:24,460 --> 00:21:27,930
+Are you building some kind of
+case against Jimmy?
+
+275
+00:21:28,030 --> 00:21:29,260
+No.
+
+276
+00:21:29,360 --> 00:21:31,930
+No one is,
+at the moment.
+
+277
+00:21:32,030 --> 00:21:33,370
+"At the moment."
+
+278
+00:21:33,470 --> 00:21:37,370
+Gina Khalil thinks
+Jimmy knew who De Guzman was.
+
+279
+00:21:37,470 --> 00:21:41,410
+That Jimmy helped Salamanca
+even after he knew.
+
+280
+00:21:41,510 --> 00:21:44,110
+I'd like
+to believe he didn't.
+
+281
+00:21:44,210 --> 00:21:45,880
+I don't think Jimmy
+ever intended
+
+282
+00:21:45,980 --> 00:21:48,420
+to become
+a cartel lawyer.
+
+283
+00:21:48,520 --> 00:21:51,280
+It's not a suit
+that fits him.
+
+284
+00:21:51,390 --> 00:21:54,890
+I think maybe
+he got in over his head
+
+285
+00:21:54,990 --> 00:21:56,460
+and couldn't get out.
+
+286
+00:21:56,560 --> 00:22:00,160
+And if that's true --
+if Salamanca duped him,
+
+287
+00:22:00,260 --> 00:22:05,000
+then the lawyer-client privilege
+was obtained in bad faith.
+
+288
+00:22:05,100 --> 00:22:07,970
+You want Jimmy
+to rat on a client?
+
+289
+00:22:08,070 --> 00:22:11,300
+Even if Salamanca's dead,
+his privilege survives.
+
+290
+00:22:11,410 --> 00:22:12,510
+You know that.
+
+291
+00:22:12,610 --> 00:22:14,310
+If the privilege
+was clean.
+
+292
+00:22:14,410 --> 00:22:17,180
+But if he wasn't in
+on the De Guzman deception,
+
+293
+00:22:17,280 --> 00:22:18,650
+Jimmy could talk to me.
+
+294
+00:22:18,750 --> 00:22:20,950
+And tell you what?
+You just said Salamanca's dead.
+
+295
+00:22:21,050 --> 00:22:22,750
+His accomplices aren't.
+
+296
+00:22:22,850 --> 00:22:24,980
+Salamanca was in deep,
+and I want to know
+
+297
+00:22:25,080 --> 00:22:26,920
+what his people are doing
+here in Albuquerque.
+
+298
+00:22:27,020 --> 00:22:29,320
+And Jimmy could help.
+
+299
+00:22:29,420 --> 00:22:32,290
+I'll make sure
+anything he tells me
+
+300
+00:22:32,390 --> 00:22:33,630
+won't blow back.
+
+301
+00:22:33,730 --> 00:22:37,130
+And if it turns out
+that Jimmy's made mistakes --
+
+302
+00:22:37,230 --> 00:22:39,370
+we won't
+hold him accountable.
+
+303
+00:22:39,470 --> 00:22:41,370
+I'm talking to you
+because I think
+
+304
+00:22:41,470 --> 00:22:44,270
+you'll be more willing
+to hear what I have to say.
+
+305
+00:22:44,370 --> 00:22:47,370
+Look,
+we had a monster in custody.
+
+306
+00:22:47,470 --> 00:22:48,680
+<font color="#ff00ff">[SCOFFS]</font>
+
+307
+00:22:48,780 --> 00:22:51,180
+And we just let him
+walk right out of jail.
+
+308
+00:22:51,280 --> 00:22:52,510
+We failed.
+
+309
+00:22:52,610 --> 00:22:55,350
+The whole system
+just failed.
+
+310
+00:22:55,450 --> 00:22:58,990
+This guy
+killed a 22-year-old kid.
+
+311
+00:22:59,090 --> 00:23:01,460
+Dead.
+In cold blood.
+
+312
+00:23:01,560 --> 00:23:02,720
+It's wrong.
+
+313
+00:23:02,820 --> 00:23:04,790
+You know it's wrong.
+
+314
+00:23:04,890 --> 00:23:07,990
+And I think
+Jimmy does, too.
+
+315
+00:23:08,090 --> 00:23:10,200
+Saul.
+
+316
+00:23:10,300 --> 00:23:12,200
+I'm sorry?
+
+317
+00:23:12,300 --> 00:23:14,970
+He practices now
+under the name Saul Goodman.
+
+318
+00:23:15,070 --> 00:23:17,240
+Although
+I distinctly remember
+
+319
+00:23:17,340 --> 00:23:20,270
+you referring to him
+as a "scumbag."
+
+320
+00:23:21,310 --> 00:23:22,680
+<font color="#ff00ff">[CLICKS TONGUE]</font>
+
+321
+00:23:22,780 --> 00:23:27,310
+Uh, I admit I have had
+my problems with...Saul.
+
+322
+00:23:27,410 --> 00:23:28,550
+That's true.
+
+323
+00:23:28,650 --> 00:23:31,550
+But I also believe
+underneath it all --
+
+324
+00:23:31,650 --> 00:23:35,390
+underneath all of his...
+showiness --
+
+325
+00:23:35,490 --> 00:23:37,060
+he's a lawyer.
+
+326
+00:23:37,160 --> 00:23:38,990
+And a human being.
+
+327
+00:23:39,090 --> 00:23:41,760
+And I think he knows
+what's right.
+
+328
+00:23:44,330 --> 00:23:48,400
+<font color="#ff00ff">[SUSPENSEFUL MUSIC PLAYS]</font>
+
+329
+00:23:48,500 --> 00:23:51,840
+<font color="#ff00ff">[MACHINERY WHIRRING]</font>
+
+330
+00:23:51,940 --> 00:24:01,850
+<font color="#ffff00">♪</font>
+
+331
+00:24:01,950 --> 00:24:11,860
+<font color="#ffff00">♪</font>
+
+332
+00:24:11,960 --> 00:24:21,870
+<font color="#ffff00">♪</font>
+
+333
+00:24:21,970 --> 00:24:28,610
+<font color="#ffff00">♪</font>
+
+334
+00:24:28,710 --> 00:24:32,250
+<font color="#ff00ff">[WHIRRING]</font>
+
+335
+00:24:32,350 --> 00:24:41,620
+<font color="#ffff00">♪</font>
+
+336
+00:24:41,720 --> 00:24:44,290
+<font color="#ffff00">♪</font>
+
+337
+00:24:44,390 --> 00:24:46,760
+<font color="#ff00ff">[CLANGS]</font>
+
+338
+00:24:46,860 --> 00:24:56,770
+<font color="#ffff00">♪</font>
+
+339
+00:24:56,870 --> 00:25:06,480
+<font color="#ffff00">♪</font>
+
+340
+00:25:06,580 --> 00:25:08,980
+<font color="#ff00ff">[PACKET TAPS]</font>
+
+341
+00:25:09,080 --> 00:25:16,390
+<font color="#ffff00">♪</font>
+
+342
+00:25:17,920 --> 00:25:20,390
+<font color="#ff00ff">[SIGHS]</font>
+
+343
+00:25:24,600 --> 00:25:27,430
+<font color="#ff00ff">[SIGHS]</font>
+
+344
+00:25:27,530 --> 00:25:29,970
+When?
+
+345
+00:25:31,870 --> 00:25:34,710
+Tomorrow.
+
+346
+00:25:36,140 --> 00:25:38,880
+Tomorrow.
+
+347
+00:25:38,980 --> 00:25:41,350
+<font color="#ff00ff">[SIGHS]</font>
+
+348
+00:25:41,450 --> 00:25:44,880
+<font color="#ff00ff">[FOOTSTEPS APPROACH]</font>
+
+349
+00:25:53,930 --> 00:25:56,200
+Boss says
+he looks too pretty.
+
+350
+00:25:56,300 --> 00:25:58,770
+<font color="#ff00ff">[SIGHS]</font>
+
+351
+00:26:00,000 --> 00:26:01,640
+Want me
+to take care of it?
+
+352
+00:26:01,740 --> 00:26:03,400
+No.
+
+353
+00:26:03,500 --> 00:26:05,670
+I'll do it.
+
+354
+00:26:05,770 --> 00:26:08,610
+Now get the hell
+outta here.
+
+355
+00:26:13,510 --> 00:26:15,380
+<font color="#ff00ff">[SIGHING]</font>
+
+356
+00:26:15,480 --> 00:26:18,520
+<font color="#ff00ff">[FOOTSTEPS DEPART]</font>
+
+357
+00:26:18,620 --> 00:26:23,190
+Gotta make it look real,
+right?
+
+358
+00:26:23,290 --> 00:26:25,860
+Let's get it
+over with.
+
+359
+00:26:25,960 --> 00:26:29,430
+<font color="#ff00ff">[METAL CLANKING]</font>
+
+360
+00:26:33,000 --> 00:26:35,170
+<font color="#ff00ff">[SIGHS]</font>
+
+361
+00:26:35,270 --> 00:26:38,040
+First things first.
+
+362
+00:26:41,440 --> 00:26:44,880
+<font color="#ff00ff">[LIQUID POURING]</font>
+
+363
+00:26:47,850 --> 00:26:50,480
+<font color="#ff00ff">[BOTTLE THUMPS]</font>
+
+364
+00:27:18,280 --> 00:27:22,050
+<font color="#ff00ff">[VEHICLE APPROACHES]</font>
+
+365
+00:27:22,550 --> 00:27:24,950
+<font color="#ff00ff">[GEARSHIFT CLICKS]</font>
+
+366
+00:27:25,050 --> 00:27:26,920
+<font color="#ff00ff">[CLASSICAL MUSIC PLAYS]</font>
+
+367
+00:27:27,020 --> 00:27:29,620
+<font color="#ff00ff">[BREATHES SHARPLY]</font>
+Tony, good to see you.
+
+368
+00:27:29,720 --> 00:27:31,620
+How's night school
+treating you?
+
+369
+00:27:31,730 --> 00:27:33,230
+"A" in Econ,
+Mr. Hamlin.
+
+370
+00:27:33,330 --> 00:27:35,830
+Ah, good for you.
+Keep it up!
+
+371
+00:27:35,930 --> 00:27:37,460
+<font color="#ff00ff">[DOOR CREAKS SHUT]</font>
+
+372
+00:27:37,560 --> 00:27:39,570
+<font color="#ff00ff">[SIGHS]</font>
+
+373
+00:27:39,670 --> 00:27:41,630
+<font color="#ff00ff">[MUSIC CONTINUES]</font>
+
+374
+00:27:41,740 --> 00:27:45,070
+<font color="#ff00ff">[GEARSHIFT CLICKS]</font>
+
+375
+00:27:45,170 --> 00:27:55,080
+<font color="#ffff00">♪</font>
+
+376
+00:27:55,180 --> 00:27:59,850
+<font color="#ffff00">♪</font>
+
+377
+00:27:59,950 --> 00:28:02,360
+<font color="#ff00ff">[ENGINE SHUTS OFF,
+GEARSHIFT CLICKS]</font>
+
+378
+00:28:04,560 --> 00:28:07,130
+<font color="#ff00ff">[VEHICLE DOOR CLOSES]</font>
+
+379
+00:28:13,300 --> 00:28:14,870
+<font color="#ff00ff">[GRUNTS]</font>
+Oh, uh, sorry, sir.
+
+380
+00:28:14,970 --> 00:28:16,140
+'Scuse me.
+My bad.
+
+381
+00:28:16,240 --> 00:28:17,600
+No worries.
+
+382
+00:28:17,700 --> 00:28:20,140
+'Scuse me.
+
+383
+00:28:22,540 --> 00:28:24,180
+<font color="#ff00ff">[KEYS JINGLE]</font>
+
+384
+00:28:24,280 --> 00:28:26,550
+<font color="#ff00ff">[DOOR HISSES OPEN]</font>
+
+385
+00:28:26,650 --> 00:28:29,220
+<font color="#ff00ff">[CLATTERING]</font>
+
+386
+00:28:35,960 --> 00:28:38,160
+Better get
+a move on.
+
+387
+00:28:38,260 --> 00:28:41,190
+Kid looks quick.
+
+388
+00:28:41,290 --> 00:28:45,300
+<font color="#ff00ff">[RUNNING FOOTSTEPS]</font>
+
+389
+00:28:46,130 --> 00:28:50,340
+<font color="#ff00ff">[BEETHOVEN'S PIANO CONCERTO
+NO. 5 IN IT FLAT MAJOR,
+OP. 73:</font> EMPEROR:{\c} 3 -
+RONDO (ALLEGRO)" PLAYS]{\c}
+
+390
+00:28:50,440 --> 00:28:58,080
+<font color="#ffff00">♪</font>
+
+391
+00:28:58,180 --> 00:28:59,580
+Let's go,
+yo.
+
+392
+00:28:59,680 --> 00:29:01,550
+<font color="#ff00ff">[MACHINERY WHIRRING]</font>
+
+393
+00:29:01,650 --> 00:29:11,490
+<font color="#ffff00">♪</font>
+
+394
+00:29:11,590 --> 00:29:13,190
+<font color="#ffff00">♪</font>
+
+395
+00:29:13,290 --> 00:29:15,390
+Prolly 'bout 45 seconds.
+
+396
+00:29:15,490 --> 00:29:16,660
+I'm just sayin'.
+
+397
+00:29:16,760 --> 00:29:19,200
+Heard you
+the first time.
+
+398
+00:29:19,300 --> 00:29:29,210
+<font color="#ffff00">♪</font>
+
+399
+00:29:29,310 --> 00:29:39,220
+<font color="#ffff00">♪</font>
+
+400
+00:29:39,320 --> 00:29:43,590
+<font color="#ffff00">♪</font>
+
+401
+00:29:43,690 --> 00:29:44,860
+<font color="#ff00ff">[BLOWS]</font>
+
+402
+00:29:44,960 --> 00:29:48,430
+<font color="#ff00ff">[MUSIC ENDS]</font>
+
+403
+00:29:48,530 --> 00:29:53,830
+<font color="#ff00ff">[RUNNING FOOTSTEPS]</font>
+
+404
+00:30:02,340 --> 00:30:04,940
+<font color="#ff00ff">[GRUNTS LIGHTLY]</font>
+
+405
+00:30:05,040 --> 00:30:06,380
+Smooth as glass.
+
+406
+00:30:06,480 --> 00:30:08,250
+Guy drove away
+without a clue.
+
+407
+00:30:08,350 --> 00:30:09,550
+<font color="#138ce9">JIMMY:</font> Great!
+
+408
+00:30:09,650 --> 00:30:11,480
+And, uh,
+how does it work?
+
+409
+00:30:11,580 --> 00:30:14,220
+Press "four" for unlock.
+"Five" for lock.
+
+410
+00:30:14,320 --> 00:30:16,120
+Rest'll take care
+of itself.
+
+411
+00:30:16,220 --> 00:30:18,460
+Four for unlock,
+five for lock...
+
+412
+00:30:18,560 --> 00:30:19,830
+<font color="#ff00ff">[BREATHES DEEPLY]</font>
+
+413
+00:30:19,930 --> 00:30:22,160
+Alright.
+
+414
+00:30:23,930 --> 00:30:27,130
+<font color="#138ce9">JIMMY:</font> What you asked for,
+and a little extra.
+
+415
+00:30:27,230 --> 00:30:31,470
+Should cover you
+and the "keymaster."
+
+416
+00:30:31,570 --> 00:30:33,440
+<font color="#ff00ff">[SIGHS]</font>
+
+417
+00:30:33,540 --> 00:30:36,180
+Can I ask you summin'?
+
+418
+00:30:37,080 --> 00:30:39,150
+Sure, go ahead.
+
+419
+00:30:39,250 --> 00:30:41,710
+Personal, kinda.
+
+420
+00:30:42,920 --> 00:30:45,120
+<font color="#ff00ff">[CHUCKLING]</font>
+Okay. What?
+
+421
+00:30:45,220 --> 00:30:46,350
+You a lawyer.
+
+422
+00:30:46,450 --> 00:30:48,960
+You make good money,
+right?
+
+423
+00:30:49,060 --> 00:30:51,860
+Good days and bad,
+but, yeah.
+
+424
+00:30:51,960 --> 00:30:53,130
+Legit money.
+
+425
+00:30:53,230 --> 00:30:54,490
+On the level.
+
+426
+00:30:54,590 --> 00:30:55,760
+Yeah. So?
+
+427
+00:30:55,860 --> 00:30:57,830
+Your wife's a lawyer.
+
+428
+00:30:57,930 --> 00:30:59,500
+A legit lawyer.
+
+429
+00:30:59,600 --> 00:31:01,330
+<font color="#ff00ff">[CHUCKLING]</font> Yeah.
+
+430
+00:31:01,430 --> 00:31:02,500
+<font color="#ff00ff">[SCOFFS]</font>
+
+431
+00:31:02,600 --> 00:31:05,240
+Why you do all this?
+
+432
+00:31:06,110 --> 00:31:08,210
+Oh,
+<font color="#ff00ff">[CHUCKLES]</font> I gotcha.
+
+433
+00:31:08,310 --> 00:31:10,180
+I-I know,
+from the outside,
+
+434
+00:31:10,280 --> 00:31:12,180
+this looks like
+just another scam.
+
+435
+00:31:12,280 --> 00:31:13,610
+But
+<font color="#ff00ff">[BREATHES DEEPLY]</font>
+
+436
+00:31:13,710 --> 00:31:15,680
+you're not seeing
+the bigger picture.
+
+437
+00:31:15,780 --> 00:31:17,980
+A couple months from now,
+there are people whose lives
+
+438
+00:31:18,080 --> 00:31:21,020
+are gonna be way better
+because of this.
+
+439
+00:31:21,120 --> 00:31:23,890
+A-- We're making
+a real difference.
+
+440
+00:31:23,990 --> 00:31:25,190
+Trust me.
+
+441
+00:31:25,290 --> 00:31:27,930
+We're doing
+the Lord's work here.
+
+442
+00:31:30,430 --> 00:31:32,930
+If you say so.
+
+443
+00:31:34,230 --> 00:31:36,770
+Be seeing you.
+
+444
+00:31:37,970 --> 00:31:42,110
+<font color="#ff00ff">[BIRDS CHIRPING,
+VEHICLES RUMBLING IN DISTANCE]</font>
+
+445
+00:31:45,580 --> 00:31:48,110
+<font color="#ff00ff">[LIGHTER TAPS SOFTLY]</font>
+
+446
+00:31:52,350 --> 00:31:54,420
+<font color="#ff00ff">[SIGHS]</font>
+
+447
+00:31:54,520 --> 00:31:57,220
+<font color="#ff00ff">[LOCK DISENGAGES, DOOR OPENS]</font>
+
+448
+00:31:57,320 --> 00:31:58,890
+<font color="#ff00ff">[DOOR CLOSES]</font>
+
+449
+00:31:58,990 --> 00:32:00,530
+<font color="#ff00ff">[KEYS JINGLING]</font>
+
+450
+00:32:00,630 --> 00:32:02,060
+<font color="#ff00ff">[CHUCKLING]</font> Hey.
+
+451
+00:32:02,160 --> 00:32:04,900
+Buckle your safety belts,
+boys and girls,
+
+452
+00:32:05,000 --> 00:32:08,170
+because Huell
+came through.
+
+453
+00:32:08,270 --> 00:32:10,800
+<font color="#ff00ff">[CHUCKLES]</font>
+
+454
+00:32:13,770 --> 00:32:16,380
+Huell says "hi,"
+by the way.
+
+455
+00:32:17,380 --> 00:32:19,910
+<font color="#138ce9">KIM:</font> Hu-- Glad to hear it.
+
+456
+00:32:20,010 --> 00:32:22,820
+<font color="#ff00ff">[BOTTLE CAP HISSES]</font>
+
+457
+00:32:26,350 --> 00:32:28,590
+<font color="#ff00ff">[SIGHS]</font>
+
+458
+00:32:28,690 --> 00:32:30,390
+What's going on?
+
+459
+00:32:32,630 --> 00:32:36,400
+I have news,
+Jimmy.
+
+460
+00:32:36,500 --> 00:32:39,170
+Lalo is dead.
+
+461
+00:32:40,070 --> 00:32:41,700
+<font color="#ff00ff">[SIGHS]</font>
+
+462
+00:32:41,800 --> 00:32:44,000
+Holy shit.
+
+463
+00:32:44,870 --> 00:32:46,210
+The D.A.'s office
+put it together
+
+464
+00:32:46,310 --> 00:32:48,910
+that Lalo was calling himself
+De Guzman.
+
+465
+00:32:49,010 --> 00:32:52,950
+They are pretty upset
+they let him go.
+
+466
+00:32:53,050 --> 00:32:55,280
+I'll bet they are.
+
+467
+00:32:55,380 --> 00:32:58,650
+Ericsen seems to think
+that if Lalo lied to you
+
+468
+00:32:58,750 --> 00:33:00,290
+and you didn't know
+about the pseudonym,
+
+469
+00:33:00,390 --> 00:33:02,390
+that you could
+break confidentiality.
+
+470
+00:33:02,490 --> 00:33:03,760
+She wants you
+to talk.
+
+471
+00:33:03,860 --> 00:33:05,820
+She says it's "right."
+
+472
+00:33:06,590 --> 00:33:10,300
+Well, what do you think
+we should do?
+
+473
+00:33:10,400 --> 00:33:14,870
+You...should do
+whatever you want, Jimmy.
+
+474
+00:33:15,730 --> 00:33:17,970
+They don't have
+anything on you.
+
+475
+00:33:18,070 --> 00:33:21,870
+It's just a fishing expedition
+to see if you bite.
+
+476
+00:33:26,250 --> 00:33:29,050
+You think
+I should do it?
+
+477
+00:33:30,350 --> 00:33:32,850
+It depends.
+
+478
+00:33:32,950 --> 00:33:35,120
+On what?
+
+479
+00:33:35,220 --> 00:33:36,860
+Well.
+
+480
+00:33:36,960 --> 00:33:38,860
+<font color="#ff00ff">[SIGHS]</font>
+
+481
+00:33:38,960 --> 00:33:43,000
+I guess
+it's basically <font color="#ff00ff">[SIGHS]</font> --
+
+482
+00:33:43,100 --> 00:33:44,760
+do you want to be
+a "friend of the cartel"?
+
+483
+00:33:44,860 --> 00:33:48,900
+Or...do you want
+to be a rat?
+
+484
+00:33:51,600 --> 00:33:53,970
+<font color="#ff00ff">[SIGHS]</font>
+
+485
+00:34:06,120 --> 00:34:08,720
+<font color="#ff00ff">[ENGINE SHUTS OFF]</font>
+
+486
+00:34:16,960 --> 00:34:20,270
+<font color="#ff00ff">[FOOTSTEPS APPROACH]</font>
+
+487
+00:34:31,980 --> 00:34:35,450
+<font color="#ff00ff">[BREATHING DEEPLY]</font>
+
+488
+00:34:41,320 --> 00:34:43,720
+Bolsa will want
+to hear the truth from you
+
+489
+00:34:43,820 --> 00:34:45,690
+before the Salamancas
+have you.
+
+490
+00:34:45,790 --> 00:34:50,760
+Their methods
+take too long for his taste.
+
+491
+00:34:50,860 --> 00:34:53,070
+What will you say?
+
+492
+00:34:53,170 --> 00:34:55,730
+I'll say
+it was Alvarez.
+
+493
+00:34:55,830 --> 00:34:58,870
+Working for Los Odios
+out of Peru.
+
+494
+00:34:58,970 --> 00:35:01,410
+That, um...
+
+495
+00:35:01,510 --> 00:35:05,080
+I've been on the payroll
+for almost a year.
+
+496
+00:35:05,180 --> 00:35:07,080
+Alright.
+
+497
+00:35:07,180 --> 00:35:08,250
+<font color="#ff00ff">[SIGHS]</font>
+
+498
+00:35:08,350 --> 00:35:10,180
+Once you say it,
+you get to your feet.
+
+499
+00:35:10,280 --> 00:35:13,520
+You start running
+as fast as you can at Victor.
+
+500
+00:35:13,620 --> 00:35:16,460
+You'll be zip-tied,
+he'll be ready.
+
+501
+00:35:16,560 --> 00:35:20,090
+Get past him
+and keep running.
+
+502
+00:35:20,190 --> 00:35:22,460
+He'll handle it.
+
+503
+00:35:22,560 --> 00:35:26,370
+He puts me down,
+you mean.
+
+504
+00:35:26,470 --> 00:35:29,000
+It'll be over quick.
+
+505
+00:35:45,180 --> 00:35:47,120
+You have
+something more to say?
+
+506
+00:35:47,220 --> 00:35:49,490
+I wanna be there.
+
+507
+00:35:49,590 --> 00:35:51,920
+The Salamancas
+know you.
+
+508
+00:35:52,020 --> 00:35:53,460
+They know
+your face.
+
+509
+00:35:53,560 --> 00:35:56,960
+I'm not gonna be close enough
+for them to eyeball me.
+
+510
+00:35:57,060 --> 00:36:00,430
+I should be there
+for insurance.
+
+511
+00:36:00,530 --> 00:36:03,600
+There are a lot of ways
+this can go south.
+
+512
+00:36:16,380 --> 00:36:19,650
+<font color="#ff00ff">[SUSPENSEFUL MUSIC PLAYS]</font>
+
+513
+00:36:19,750 --> 00:36:29,660
+<font color="#ffff00">♪</font>
+
+514
+00:36:29,760 --> 00:36:39,670
+<font color="#ffff00">♪</font>
+
+515
+00:36:56,860 --> 00:37:00,160
+<font color="#ff00ff">[BIRDS CHIRPING]</font>
+
+516
+00:37:00,630 --> 00:37:05,100
+<font color="#ff00ff">[ENGINE RUMBLING]</font>
+
+517
+00:37:06,570 --> 00:37:10,070
+<font color="#ff00ff">[THUMPING]</font>
+
+518
+00:37:28,490 --> 00:37:31,960
+<font color="#ff00ff">[INSECTS CHIRPING]</font>
+
+519
+00:37:44,840 --> 00:37:47,910
+<font color="#ff00ff">[BRAKES SQUEAL LIGHTLY]</font>
+
+520
+00:37:48,010 --> 00:37:50,480
+<font color="#ff00ff">[ENGINE IDLING]</font>
+
+521
+00:37:58,520 --> 00:38:02,220
+<font color="#ff00ff">[SUSPENSEFUL MUSIC PLAYS]</font>
+
+522
+00:38:02,320 --> 00:38:09,190
+<font color="#ffff00">♪</font>
+
+523
+00:38:09,290 --> 00:38:12,060
+<font color="#ff00ff">[CLICKS, DOORS SLAM]</font>
+
+524
+00:38:12,160 --> 00:38:22,070
+<font color="#ffff00">♪</font>
+
+525
+00:38:22,170 --> 00:38:32,080
+<font color="#ffff00">♪</font>
+
+526
+00:38:32,180 --> 00:38:33,320
+<font color="#ffff00">♪</font>
+
+527
+00:38:33,420 --> 00:38:35,150
+Turn around.
+
+528
+00:38:35,250 --> 00:38:38,090
+<font color="#ff00ff">[SNIFFLES]</font>
+
+529
+00:38:38,190 --> 00:38:44,960
+<font color="#ffff00">♪</font>
+
+530
+00:38:45,060 --> 00:38:47,230
+<font color="#ff00ff">[ZIP TIE CLICKING]</font>
+
+531
+00:38:47,330 --> 00:38:48,800
+<font color="#ff00ff">[SNIFFLES]</font>
+
+532
+00:38:48,900 --> 00:38:58,510
+<font color="#ffff00">♪</font>
+
+533
+00:38:58,610 --> 00:39:01,310
+<font color="#ff00ff">[METAL CLINKS LIGHTLY]</font>
+
+534
+00:39:01,410 --> 00:39:11,320
+<font color="#ffff00">♪</font>
+
+535
+00:39:11,420 --> 00:39:21,330
+<font color="#ffff00">♪</font>
+
+536
+00:39:21,430 --> 00:39:31,340
+<font color="#ffff00">♪</font>
+
+537
+00:39:31,440 --> 00:39:33,510
+<font color="#ffff00">♪</font>
+
+538
+00:39:33,610 --> 00:39:35,210
+<font color="#ff00ff">[BRAKES SQUEAL LIGHTLY]</font>
+
+539
+00:39:35,310 --> 00:39:40,790
+<font color="#ff00ff">[INSECTS CHIRPING]</font>
+
+540
+00:39:40,890 --> 00:39:50,800
+<font color="#ffff00">♪</font>
+
+541
+00:39:50,900 --> 00:40:00,810
+<font color="#ffff00">♪</font>
+
+542
+00:40:00,910 --> 00:40:10,820
+<font color="#ffff00">♪</font>
+
+543
+00:40:10,920 --> 00:40:20,830
+<font color="#ffff00">♪</font>
+
+544
+00:40:20,930 --> 00:40:30,840
+<font color="#ffff00">♪</font>
+
+545
+00:40:30,940 --> 00:40:40,710
+<font color="#ffff00">♪</font>
+
+546
+00:40:40,810 --> 00:40:50,720
+<font color="#ffff00">♪</font>
+
+547
+00:40:50,820 --> 00:40:55,330
+<font color="#ffff00">♪</font>
+
+548
+00:40:56,700 --> 00:40:59,330
+<font color="#ff00ff">[INSECTS CHIRPING]</font>
+
+549
+00:41:01,900 --> 00:41:06,510
+<font color="#ff00ff">[BREATHES DEEPLY]</font>
+
+550
+00:41:18,650 --> 00:41:21,150
+<font color="#138ce9">BOLSA:</font> Today,
+you are going to die.
+
+551
+00:41:23,320 --> 00:41:24,490
+But.
+
+552
+00:41:24,590 --> 00:41:29,230
+There are good deaths,
+and there are bad deaths.
+
+553
+00:41:29,330 --> 00:41:32,400
+Tell me
+what I need to know --
+
+554
+00:41:32,500 --> 00:41:35,370
+I'll see
+that your death is a good one.
+
+555
+00:41:37,740 --> 00:41:40,540
+Who put you
+up to this?
+
+556
+00:41:50,250 --> 00:41:52,990
+One last chance.
+
+557
+00:41:53,090 --> 00:41:54,690
+Who?
+
+558
+00:41:59,790 --> 00:42:02,900
+<font color="#ff00ff">[SIGHS]</font>
+
+559
+00:42:11,970 --> 00:42:15,170
+<font color="#ff00ff">[SCOFFS]</font>
+
+560
+00:42:15,270 --> 00:42:18,280
+It was Alvarez.
+
+561
+00:42:18,380 --> 00:42:21,510
+Los Odios,
+out of Peru.
+
+562
+00:42:21,610 --> 00:42:25,180
+They paid me
+to set up your nephew.
+
+563
+00:42:25,280 --> 00:42:27,190
+And I did.
+
+564
+00:42:27,290 --> 00:42:31,460
+<font color="#ff00ff">[BELL DINGING]</font>
+
+565
+00:42:31,560 --> 00:42:38,700
+<font color="#ffff00">♪</font>
+
+566
+00:42:38,800 --> 00:42:42,200
+<font color="#ff00ff">[BELL DINGING]</font>
+
+567
+00:42:42,300 --> 00:42:47,910
+<font color="#ffff00">♪</font>
+
+568
+00:42:48,010 --> 00:42:49,510
+Alvarez, we know.
+
+569
+00:42:49,610 --> 00:42:50,880
+Los Odios,
+we know.
+
+570
+00:42:50,980 --> 00:42:53,210
+Was anyone else
+involved?
+
+571
+00:42:53,310 --> 00:42:55,080
+<font color="#ffff00">♪</font>
+
+572
+00:42:55,180 --> 00:42:57,850
+<font color="#ff00ff">[SCOFFS]</font>
+
+573
+00:42:57,950 --> 00:42:59,920
+Him?
+
+574
+00:43:00,020 --> 00:43:02,590
+You think...
+the Chicken Man?
+
+575
+00:43:02,690 --> 00:43:04,020
+<font color="#ff00ff">[CHUCKLES]</font>
+
+576
+00:43:04,120 --> 00:43:06,590
+<font color="#ffff00">♪</font>
+
+577
+00:43:06,690 --> 00:43:08,260
+What a joke.
+
+578
+00:43:08,360 --> 00:43:11,930
+Alvarez has been paying me
+for years -- years.
+
+579
+00:43:12,030 --> 00:43:13,200
+But you know what?
+
+580
+00:43:13,300 --> 00:43:14,700
+I would've done it
+for free,
+
+581
+00:43:14,800 --> 00:43:16,170
+because I hate
+every last one
+
+582
+00:43:16,270 --> 00:43:19,070
+of you psycho
+sacks of shit.
+
+583
+00:43:19,170 --> 00:43:20,510
+<font color="#ffff00">♪</font>
+
+584
+00:43:20,610 --> 00:43:22,570
+I opened Lalo's gate.
+
+585
+00:43:22,680 --> 00:43:23,740
+And I would
+do it again.
+
+586
+00:43:23,840 --> 00:43:25,910
+And I'm glad
+what they did to him.
+
+587
+00:43:26,010 --> 00:43:27,710
+He's a soulless pig.
+
+588
+00:43:27,810 --> 00:43:30,050
+And I wish I'd killed him
+with my own hands.
+
+589
+00:43:30,150 --> 00:43:32,950
+And you know what else,
+Hector?
+
+590
+00:43:33,050 --> 00:43:35,620
+I put you
+in that chair.
+
+591
+00:43:35,720 --> 00:43:38,260
+Oh, yeah.
+Your heart meds?
+
+592
+00:43:38,360 --> 00:43:41,130
+I switched them
+for sugar pills.
+
+593
+00:43:41,230 --> 00:43:42,700
+You were
+dead and buried,
+
+594
+00:43:42,800 --> 00:43:45,400
+and I had to watch this asshole
+bring you back.
+
+595
+00:43:45,500 --> 00:43:48,300
+So when you are sitting
+in your shitty nursing home
+
+596
+00:43:48,400 --> 00:43:50,270
+and you're suckin' down
+on your jello
+
+597
+00:43:50,370 --> 00:43:52,940
+night after night
+for the rest of your life,
+
+598
+00:43:53,040 --> 00:43:57,380
+you think of me,
+you twisted fuck!
+
+599
+00:43:57,480 --> 00:43:59,640
+Es suyo.
+
+600
+00:43:59,750 --> 00:44:03,580
+<font color="#ff00ff">[GRUNTS]</font>
+
+601
+00:44:03,680 --> 00:44:05,450
+<font color="#ff00ff">[GUNS COCK]</font>
+
+602
+00:44:05,550 --> 00:44:12,620
+<font color="#ffff00">♪</font>
+
+603
+00:44:12,730 --> 00:44:14,730
+Do it.
+
+604
+00:44:14,830 --> 00:44:23,840
+<font color="#ffff00">♪</font>
+
+605
+00:44:23,940 --> 00:44:25,640
+<font color="#ff00ff">[GUNSHOT]</font>
+
+606
+00:44:25,740 --> 00:44:32,010
+<font color="#ffff00">♪</font>
+
+607
+00:44:32,110 --> 00:44:35,310
+<font color="#ff00ff">[INSECTS CHIRPING]</font>
+
+608
+00:44:35,410 --> 00:44:41,720
+<font color="#ffff00">♪</font>
+
+609
+00:44:49,430 --> 00:44:53,730
+<font color="#ff00ff">[BELL DINGING]</font>
+
+610
+00:45:01,410 --> 00:45:05,740
+<font color="#ff00ff">[METAL CREAKS LIGHTLY]</font>
+
+611
+00:45:30,140 --> 00:45:34,440
+<font color="#ff00ff">[GUNSHOTS]</font>
+
+612
+00:45:35,410 --> 00:45:38,910
+<font color="#ff00ff">[GUNSHOTS]</font>
+
+613
+00:45:52,690 --> 00:45:56,190
+<font color="#ff00ff">[GUNSHOTS IN DISTANCE]</font>
+
+614
+00:46:03,670 --> 00:46:05,870
+On the next episode of
+"Better Call Saul"...
+
+615
+00:46:05,970 --> 00:46:09,370
+You ever feel like
+you're being followed?
+
+616
+00:46:09,470 --> 00:46:12,080
+<font color="#138ce9">SAUL:</font> Who's here to see
+Saul Goodman?
+
+617
+00:46:12,180 --> 00:46:14,080
+You're the guy, right?
+
+618
+00:46:14,180 --> 00:46:16,380
+I'm just getting
+warmed up.
+
+619
+00:46:18,680 --> 00:46:21,250
+What the hell is going on?
+
+620
+00:46:21,350 --> 00:46:23,220
+It's just...wrong.
+
+621
+00:46:23,320 --> 00:46:25,420
+I need guys
+in close.
+
+622
+00:46:25,520 --> 00:46:29,260
+Are. You.
+Following me?
+
+623
+00:46:34,200 --> 00:46:36,810
+<font color="#ffff00">♪</font>
+
+624
+00:46:36,810 --> 00:46:44,010
+<font color="#ff00ff">- Original SUB by CapnChron </font><font color="#138ce9">- www.opensubtitles.org -</font>
+<font color="#ffff00">Colored HI and improvements by </font><font color="#f0100f">GoldBerg_44</font>
+
+625
+00:46:44,040 --> 00:46:53,950
+<font color="#ffff00">♪</font>
+
+626
+00:46:54,050 --> 00:47:03,960
+<font color="#ffff00">♪</font>
+
+627
+00:47:04,060 --> 00:47:11,200
+<font color="#ffff00">♪</font>
+
+628
+00:47:11,200 --> 00:47:26,200
+<font color="#ff00ff">- Original SUB by CapnChron </font><font color="#138ce9">- www.opensubtitles.org -</font>
+<font color="#ffff00">Colored HI and improvements by </font><font color="#f0100f">GoldBerg_44</font>
+

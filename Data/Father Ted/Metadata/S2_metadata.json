@@ -1,0 +1,90 @@
+{
+    "1": {
+        "title": "Hell",
+        "released": "1996-03-08",
+        "rating": "8.7",
+        "imdb_id": "tt0578512",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Think Fast, Father Ted",
+        "released": "1996-03-15",
+        "rating": "8.2",
+        "imdb_id": "tt0578524",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Tentacles of Doom",
+        "released": "1996-03-22",
+        "rating": "8.5",
+        "imdb_id": "tt0578519",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Old Grey Whistle Theft",
+        "released": "1996-03-29",
+        "rating": "8.0",
+        "imdb_id": "tt0578521",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "A Song for Europe",
+        "released": "1996-04-05",
+        "rating": "8.6",
+        "imdb_id": "tt0578517",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Plague",
+        "released": "1996-04-12",
+        "rating": "8.2",
+        "imdb_id": "tt0578523",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Rock a Hula Ted",
+        "released": "1996-04-19",
+        "rating": "7.7",
+        "imdb_id": "tt0578516",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Cigarettes and Alcohol and Rollerblading",
+        "released": "1996-04-26",
+        "rating": "8.3",
+        "imdb_id": "tt0578504",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "New Jack City",
+        "released": "1996-05-03",
+        "rating": "7.9",
+        "imdb_id": "tt0578514",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Flight into Terror",
+        "released": "1996-05-10",
+        "rating": "8.5",
+        "imdb_id": "tt0578508",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "A Christmassy Ted",
+        "released": "1996-12-24",
+        "rating": "N/A",
+        "imdb_id": "tt0578500",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

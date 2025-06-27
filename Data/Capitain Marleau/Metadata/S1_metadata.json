@@ -1,0 +1,34 @@
+{
+    "2": {
+        "title": "Le domaine des soeurs Meyer",
+        "released": "2019-01-29",
+        "rating": "N/A",
+        "imdb_id": "tt5702782",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Les mystères de la foi",
+        "released": "2016-09-06",
+        "rating": "N/A",
+        "imdb_id": "tt5820158",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "En trompe-l'oeil",
+        "released": "2017-03-21",
+        "rating": "N/A",
+        "imdb_id": "tt6679248",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "La nuit de la lune rousse",
+        "released": "2017-03-28",
+        "rating": "6.7",
+        "imdb_id": "tt6712652",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

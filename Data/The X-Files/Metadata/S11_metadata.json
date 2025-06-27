@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "My Struggle III",
+        "released": "2018-01-03",
+        "rating": "6.4",
+        "imdb_id": "tt6803156",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S11\\The_X-Files_S11E01_My_Struggle_III_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S11E1.zip"
+    },
+    "2": {
+        "title": "This",
+        "released": "2018-01-10",
+        "rating": "7.2",
+        "imdb_id": "tt6803224",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S11\\The_X-Files_S11E02_This_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S11E2.zip"
+    },
+    "3": {
+        "title": "Plus One",
+        "released": "2018-01-17",
+        "rating": "7.7",
+        "imdb_id": "tt6803102",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S11\\The_X-Files_S11E03_Plus_One_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S11E3.zip"
+    },
+    "4": {
+        "title": "The Lost Art of Forehead Sweat",
+        "released": "2018-01-24",
+        "rating": "8.1",
+        "imdb_id": "tt6803158",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S11\\The_X-Files_S11E04_The_Lost_Art_of_Forehead_Sweat_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S11E4.zip"
+    },
+    "5": {
+        "title": "Ghouli",
+        "released": "2018-01-31",
+        "rating": "7.9",
+        "imdb_id": "tt6803126",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S11\\The_X-Files_S11E05_Ghouli_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S11E5.zip"
+    },
+    "6": {
+        "title": "Kitten",
+        "released": "2018-02-07",
+        "rating": "7.3",
+        "imdb_id": "tt6803232",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S11\\The_X-Files_S11E06_Kitten_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S11E6.zip"
+    },
+    "7": {
+        "title": "Rm9sbG93ZXJz",
+        "released": "2018-02-28",
+        "rating": "8.0",
+        "imdb_id": "tt6803124",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S11\\The_X-Files_S11E07_Rm9sbG93ZXJz_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S11E7.zip"
+    },
+    "8": {
+        "title": "Familiar",
+        "released": "2018-03-07",
+        "rating": "8.0",
+        "imdb_id": "tt6803236",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S11\\The_X-Files_S11E08_Familiar_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S11E8.zip"
+    },
+    "9": {
+        "title": "Nothing Lasts Forever",
+        "released": "2018-03-14",
+        "rating": "6.6",
+        "imdb_id": "tt6803176",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S11\\The_X-Files_S11E09_Nothing_Lasts_Forever_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S11E9.zip"
+    },
+    "10": {
+        "title": "My Struggle IV",
+        "released": "2018-03-21",
+        "rating": "7.2",
+        "imdb_id": "tt6803128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

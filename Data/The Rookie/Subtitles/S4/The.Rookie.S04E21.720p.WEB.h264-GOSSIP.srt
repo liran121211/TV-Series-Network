@@ -1,0 +1,4355 @@
+1
+00:00:05,091 --> 00:00:07,267
+Previously on "The Rookie"...
+
+2
+00:00:07,310 --> 00:00:09,244
+How serious are you about
+becoming a training officer?
+
+3
+00:00:09,269 --> 00:00:12,490
+Sir, I don't wantto be a T.O.
+I'm goingto be a T.O.
+
+4
+00:00:12,532 --> 00:00:15,710
+This is Sabrina Fowler,
+the very talented new actress
+
+5
+00:00:15,753 --> 00:00:17,103
+on "Hot Suspect."
+
+6
+00:00:17,146 --> 00:00:19,062
+It's a pleasure.
+
+7
+00:00:19,105 --> 00:00:20,846
+You know, my character,
+
+8
+00:00:20,888 --> 00:00:22,934
+is having an affair
+with a police sergeant.
+
+9
+00:00:22,978 --> 00:00:24,806
+And his wife likes to watch.
+
+10
+00:00:24,850 --> 00:00:26,417
+Lieutenant Landon Briggs.
+
+11
+00:00:26,460 --> 00:00:28,375
+- I'm the Union -
+- President. - Yes, I know.
+
+12
+00:00:28,419 --> 00:00:29,960
+Nolan. You know what
+the best part about
+
+13
+00:00:29,984 --> 00:00:31,074
+being union president is?
+
+14
+00:00:31,117 --> 00:00:32,118
+Power.
+
+15
+00:00:32,161 --> 00:00:33,945
+The power to help the people
+I like
+
+16
+00:00:33,988 --> 00:00:35,686
+and hurt the people I don't.
+
+17
+00:00:58,143 --> 00:01:02,017
+Hey. What, uh...
+What seems to be the problem?
+
+18
+00:01:02,060 --> 00:01:04,584
+Nothing.
+Everyone's overreacting.
+
+19
+00:01:04,629 --> 00:01:06,543
+Overreacting to what?
+
+20
+00:01:13,507 --> 00:01:14,942
+Not it.
+
+21
+00:01:35,354 --> 00:01:37,617
+I'm sorry.
+Um, I'm sorry.
+
+22
+00:01:37,662 --> 00:01:40,098
+I-I meant to get up early and...
+and make you breakfast.
+
+23
+00:01:40,143 --> 00:01:41,840
+And I had this
+whole Mother's Day thing
+
+24
+00:01:41,883 --> 00:01:43,102
+planned with Jack...
+
+25
+00:01:43,146 --> 00:01:45,060
+Jack's been up for three hours.
+
+26
+00:01:45,103 --> 00:01:46,584
+I have been up for three hours.
+
+27
+00:01:47,846 --> 00:01:48,673
+Is that cereal in your hair?
+
+28
+00:01:48,716 --> 00:01:50,109
+And applesauce.
+
+29
+00:01:50,152 --> 00:01:52,198
+And, somehow,
+banana under my boob.
+
+30
+00:01:52,241 --> 00:01:53,460
+Mm.
+
+31
+00:01:53,503 --> 00:01:56,376
+Okay, so...
+how can I fix this?
+
+32
+00:01:56,420 --> 00:01:58,465
+I need a shower.
+Mm-hmm.
+
+33
+00:01:58,509 --> 00:01:59,640
+And a nap.
+
+34
+00:01:59,683 --> 00:02:01,206
+Uh...
+
+35
+00:02:01,251 --> 00:02:02,879
+But we have Mother's Day brunch
+with your mom later.
+
+36
+00:02:02,903 --> 00:02:04,209
+Right.
+
+37
+00:02:04,254 --> 00:02:05,516
+Mm.
+New plan.
+
+38
+00:02:05,558 --> 00:02:08,213
+Mm-hmm?
+Shower, blow-out,
+
+39
+00:02:08,258 --> 00:02:11,564
+mani-pedi, and some mimosas
+with Patrice.
+
+40
+00:02:11,609 --> 00:02:14,176
+Okay, so you're gonna take Jack
+to the nail salon.
+
+41
+00:02:15,438 --> 00:02:18,137
+No.
+You'retaking Jack.
+
+42
+00:02:18,181 --> 00:02:19,853
+Right. I just... I have
+that thing with a client
+
+43
+00:02:19,877 --> 00:02:21,313
+for the restaurant, remember?
+
+44
+00:02:21,358 --> 00:02:24,622
+Which I'm gonna take Jack to.
+
+45
+00:02:26,579 --> 00:02:27,668
+I love you.
+
+46
+00:02:27,711 --> 00:02:28,408
+Happy Mother's Day.
+
+47
+00:02:28,451 --> 00:02:30,193
+Mm-hmm.
+
+48
+00:02:33,195 --> 00:02:36,241
+Nolan. Hold up.
+
+49
+00:02:36,286 --> 00:02:38,810
+I got some bad news.
+
+50
+00:02:38,853 --> 00:02:40,985
+I'm hearing rumors that
+the Union President
+
+51
+00:02:41,028 --> 00:02:43,248
+is gonna make a move
+against you.
+
+52
+00:02:43,293 --> 00:02:44,747
+Not a surprise,
+given how I showed him up
+
+53
+00:02:44,771 --> 00:02:46,033
+at the City Council.
+
+54
+00:02:46,078 --> 00:02:47,186
+Any idea what he's planning?
+
+55
+00:02:47,210 --> 00:02:49,037
+Not yet, but I expect the worst.
+
+56
+00:02:49,081 --> 00:02:51,604
+There's no hard rule on
+the union delegate count.
+
+57
+00:02:51,649 --> 00:02:53,259
+He can shrink the number by one.
+
+58
+00:02:53,302 --> 00:02:55,281
+And because I was the last one
+in, I'd be the first one out.
+
+59
+00:02:55,305 --> 00:02:56,393
+What do I do?
+
+60
+00:02:56,436 --> 00:02:58,264
+You focus on your
+T.O. exam next week.
+
+61
+00:02:58,307 --> 00:03:00,700
+Don't let politics
+derail your career.
+
+62
+00:03:00,745 --> 00:03:02,504
+Oh, no, I've been studying
+my ass off. I think I'm ready.
+
+63
+00:03:02,528 --> 00:03:03,486
+Don't think it.
+
+64
+00:03:03,530 --> 00:03:04,792
+Be it.
+
+65
+00:03:04,836 --> 00:03:06,794
+Clearly, you don't have
+time to waste.
+
+66
+00:03:06,837 --> 00:03:07,707
+Are you calling me old?
+
+67
+00:03:07,752 --> 00:03:08,752
+It was implied.
+
+68
+00:03:10,276 --> 00:03:12,931
+Hey, you know, why don't
+I ride with you today?
+
+69
+00:03:12,973 --> 00:03:15,082
+I can teach you some things that
+are not in the study guide.
+
+70
+00:03:15,106 --> 00:03:16,911
+One-on-one time with
+a supervisor will strengthen
+
+71
+00:03:16,935 --> 00:03:18,066
+your case for a promotion.
+
+72
+00:03:18,110 --> 00:03:19,719
+Sir, you don't have
+to do that for me.
+
+73
+00:03:19,764 --> 00:03:21,243
+Nolan, do you
+want to be a T.O.?
+
+74
+00:03:21,287 --> 00:03:23,462
+Absolutely.
+Then don't do that small-town
+
+75
+00:03:23,507 --> 00:03:25,204
+"I hate to be a bother" thing.
+
+76
+00:03:25,247 --> 00:03:27,162
+You're being offered
+an opportunity.
+
+77
+00:03:27,205 --> 00:03:28,163
+Take it.
+
+78
+00:03:28,206 --> 00:03:30,295
+Yes, sir.
+And thank you, sir.
+
+79
+00:03:30,340 --> 00:03:31,514
+You're welcome.
+
+80
+00:03:32,254 --> 00:03:34,257
+And Luna's okay with
+you working Mother's Day?
+
+81
+00:03:34,300 --> 00:03:36,997
+Yeah. It's the first year
+Dominique's not at home.
+
+82
+00:03:37,042 --> 00:03:40,698
+Luna said she's fine
+keeping it super low-key.
+
+83
+00:03:40,740 --> 00:03:42,307
+Oh.
+
+84
+00:03:42,352 --> 00:03:43,526
+What?
+
+85
+00:03:45,572 --> 00:03:47,008
+Do you think
+she's just saying that?
+
+86
+00:03:47,051 --> 00:03:48,358
+No.
+
+87
+00:03:52,057 --> 00:03:54,885
+Mm...
+yeah, that's a hard pass.
+
+88
+00:03:54,929 --> 00:03:56,365
+Look, I'm boycotting
+Mother's Day,
+
+89
+00:03:56,408 --> 00:03:58,368
+but even if I wasn't,
+I really don't think this is
+
+90
+00:03:58,411 --> 00:03:59,933
+the right time to meet
+your parents.
+
+91
+00:03:59,978 --> 00:04:01,893
+I figured you'd say that.
+
+92
+00:04:01,936 --> 00:04:03,676
+But they've been
+hounding me about
+
+93
+00:04:03,721 --> 00:04:06,026
+meeting you for weeks.
+
+94
+00:04:06,070 --> 00:04:07,681
+Are you really freezing
+your mom out?
+
+95
+00:04:07,724 --> 00:04:10,944
+I mean, I bought her flowers.
+I'm not an anarchist.
+
+96
+00:04:10,989 --> 00:04:12,860
+I'm thinking we just
+lock in the Hyatt.
+
+97
+00:04:12,903 --> 00:04:14,316
+They have a lazy river.
+What else do you need?
+
+98
+00:04:14,340 --> 00:04:16,428
+Great. You handle that,
+I'll book the flights.
+
+99
+00:04:16,473 --> 00:04:17,778
+On it.
+
+100
+00:04:17,822 --> 00:04:18,886
+Are you guys planning
+a vacation?
+
+101
+00:04:18,910 --> 00:04:21,259
+Yeah. Hawaii.
+Oh, I love Hawaii.
+
+102
+00:04:21,303 --> 00:04:23,610
+Actually, I've never been,
+but I love the idea.
+
+103
+00:04:23,653 --> 00:04:25,917
+You'd think I'd be sick of
+beaches at this point,
+
+104
+00:04:25,959 --> 00:04:28,353
+but it's gonna be awesome.
+
+105
+00:04:28,398 --> 00:04:29,877
+I've got to get to work.
+
+106
+00:04:29,920 --> 00:04:31,661
+Oh, me, too.
+I'll walk out with you.
+
+107
+00:04:31,704 --> 00:04:32,942
+Call me if you change your mind.
+
+108
+00:04:32,966 --> 00:04:35,055
+I'm not going to.
+Stop.
+
+109
+00:04:35,100 --> 00:04:36,622
+Change your mind about what?
+
+110
+00:04:36,667 --> 00:04:38,625
+He wants me to meet his parents.
+
+111
+00:04:38,668 --> 00:04:40,670
+So, uh, whose idea was Hawaii?
+
+112
+00:04:40,713 --> 00:04:43,151
+Mine, I guess.
+Why?
+
+113
+00:04:43,194 --> 00:04:44,848
+I-I thought you had today off.
+
+114
+00:04:44,891 --> 00:04:47,721
+I did, but Donovan
+has custody this weekend,
+
+115
+00:04:47,764 --> 00:04:49,394
+and he is punishing me
+by taking Lila to see
+
+116
+00:04:49,418 --> 00:04:51,420
+his mom in Santa Barbara.
+
+117
+00:04:51,463 --> 00:04:54,553
+So I am spending this
+Mother's Day without my baby.
+
+118
+00:04:54,598 --> 00:04:56,643
+Wow.
+That is cruel, even for him.
+
+119
+00:04:56,687 --> 00:04:58,644
+Yeah, I know.
+And James is taking his boys
+
+120
+00:04:58,689 --> 00:05:00,646
+to see his ex-wife,
+because unlike Donovan,
+
+121
+00:05:00,690 --> 00:05:03,214
+he is an actual
+decent human being.
+
+122
+00:05:03,257 --> 00:05:06,523
+But at least I get paid
+time and a half to be here
+
+123
+00:05:06,565 --> 00:05:08,829
+and plot my revenge.
+
+124
+00:05:08,872 --> 00:05:10,613
+I can't wait to see
+what you come up with.
+
+125
+00:05:10,656 --> 00:05:12,286
+Somebody should sell tickets.
+
+126
+00:05:12,310 --> 00:05:13,310
+Mm!
+
+127
+00:05:17,011 --> 00:05:18,490
+Is it crazy I want to be
+a T.O.
+
+128
+00:05:18,535 --> 00:05:19,685
+with so little time on the job?
+
+129
+00:05:19,709 --> 00:05:21,319
+No.
+
+130
+00:05:21,363 --> 00:05:23,495
+Your report writing
+is excellent.
+
+131
+00:05:23,540 --> 00:05:25,411
+You know policy, procedure,
+
+132
+00:05:25,454 --> 00:05:27,064
+and the law well enough
+to teach others.
+
+133
+00:05:27,108 --> 00:05:29,894
+But your background
+could be a drawback.
+
+134
+00:05:29,937 --> 00:05:32,548
+Every other T.O. knows
+what it's like to be a scared,
+
+135
+00:05:32,591 --> 00:05:35,725
+20-something rookie
+because they were one.
+
+136
+00:05:35,769 --> 00:05:37,529
+And that shared experience
+gives them the leg up
+
+137
+00:05:37,553 --> 00:05:38,598
+in teaching that kid.
+
+138
+00:05:38,641 --> 00:05:39,817
+Exactly.
+
+139
+00:05:39,860 --> 00:05:41,687
+But your experiences being a dad
+
+140
+00:05:41,731 --> 00:05:43,168
+could help bridge the gap.
+
+141
+00:05:43,211 --> 00:05:44,850
+Only my kid was never
+armed and dangerous.
+
+142
+00:05:48,391 --> 00:05:50,262
+So, you really think
+Luna's hoping
+
+143
+00:05:50,305 --> 00:05:52,437
+that I do something big
+for Mother's Day this year?
+
+144
+00:05:52,481 --> 00:05:55,136
+I think it's always a safe bet
+to go the extra mile.
+
+145
+00:05:58,225 --> 00:05:59,576
+You're right.
+
+146
+00:05:59,619 --> 00:06:01,336
+We should stop somewhere
+so I can get a better gift.
+
+147
+00:06:01,360 --> 00:06:02,665
+Yes, sir.
+Yeah.
+
+148
+00:06:02,709 --> 00:06:04,189
+7-Adam-15.
+
+149
+00:06:04,232 --> 00:06:06,843
+415 in progress
+at Gower Studios.
+
+150
+00:06:06,887 --> 00:06:08,105
+Right after we take this call.
+
+151
+00:06:08,149 --> 00:06:09,934
+Yes, sir.
+7-Adam-15.
+
+152
+00:06:09,976 --> 00:06:11,500
+Show us responding.
+
+153
+00:06:11,543 --> 00:06:13,043
+I don't know how many times
+I need to say it.
+
+154
+00:06:13,067 --> 00:06:14,504
+Please clean it up, okay?
+
+155
+00:06:14,547 --> 00:06:15,829
+I'm actually triggered by this,
+you guys.
+
+156
+00:06:15,853 --> 00:06:16,959
+I don't think you understand.
+
+157
+00:06:16,983 --> 00:06:18,072
+They're here. See?
+
+158
+00:06:18,115 --> 00:06:19,682
+Oh, Sergeant.
+
+159
+00:06:19,725 --> 00:06:20,858
+Thank God you're here.
+
+160
+00:06:20,901 --> 00:06:21,858
+Ms. Fowler.
+
+161
+00:06:21,901 --> 00:06:23,382
+Sabrina Fowler.
+
+162
+00:06:23,425 --> 00:06:24,949
+She's an actress on
+"Hot Suspect."
+
+163
+00:06:24,992 --> 00:06:26,384
+I'm pretty sure he knows that.
+
+164
+00:06:26,428 --> 00:06:27,778
+It's nice to meet you.
+
+165
+00:06:27,821 --> 00:06:29,257
+Congratulations on the baby.
+
+166
+00:06:29,300 --> 00:06:30,495
+Unless it's just for the show.
+
+167
+00:06:30,519 --> 00:06:31,956
+Oh, it's both.
+
+168
+00:06:31,999 --> 00:06:33,478
+They made my character pregnant,
+
+169
+00:06:33,523 --> 00:06:35,480
+so I got pregnant in real life.
+
+170
+00:06:35,524 --> 00:06:37,134
+Because she's a method actor.
+
+171
+00:06:37,177 --> 00:06:39,877
+How else am I gonna
+understand the experience?
+
+172
+00:06:40,704 --> 00:06:42,836
+Wow.
+
+173
+00:06:42,879 --> 00:06:44,663
+So, what happened here, exactly?
+
+174
+00:06:44,707 --> 00:06:46,012
+We got a call about an assault?
+
+175
+00:06:46,057 --> 00:06:49,321
+That's right. The girl from
+crafty assaulted me...
+
+176
+00:06:49,363 --> 00:06:51,235
+with a crouton.
+
+177
+00:06:51,278 --> 00:06:52,279
+She threw it at you?
+
+178
+00:06:52,324 --> 00:06:54,281
+No.
+She put it in my salad.
+
+179
+00:06:55,066 --> 00:06:56,786
+Do you know how many carbs
+are in a crouton?
+
+180
+00:06:58,372 --> 00:07:01,375
+Right. Um, well,
+what was the name of your,
+
+181
+00:07:01,420 --> 00:07:03,726
+uh... attacker?
+
+182
+00:07:03,769 --> 00:07:05,990
+Mm, salad girl?
+I don't...
+
+183
+00:07:06,033 --> 00:07:07,947
+No. Wait. I heard somebody
+call her Monica
+
+184
+00:07:07,992 --> 00:07:09,906
+while she was
+destroying everything.
+
+185
+00:07:09,949 --> 00:07:11,144
+So she made this mess.
+That's right.
+
+186
+00:07:11,168 --> 00:07:12,343
+She completely freaked out
+
+187
+00:07:12,387 --> 00:07:13,713
+when I told her I was
+gonna have her fired.
+
+188
+00:07:13,737 --> 00:07:15,826
+For putting a crouton
+on your salad?
+
+189
+00:07:15,869 --> 00:07:17,305
+Are you taking her side?
+
+190
+00:07:17,348 --> 00:07:19,481
+Of course not.
+
+191
+00:07:19,524 --> 00:07:20,831
+Excuse me.
+I have to take this.
+
+192
+00:07:20,874 --> 00:07:21,875
+The D.A.'s office.
+
+193
+00:07:21,918 --> 00:07:23,615
+Tell them I'm okay.
+I am okay.
+
+194
+00:07:23,660 --> 00:07:25,699
+I will still make it to court
+for the Sanchez trial.
+
+195
+00:07:26,966 --> 00:07:29,665
+I'm prosecuting
+a serial killer later.
+
+196
+00:07:29,709 --> 00:07:31,276
+Oh. On the show.
+Right.
+
+197
+00:07:31,319 --> 00:07:32,598
+But that was actually
+the real...
+
+198
+00:07:34,800 --> 00:07:36,542
+You know what?
+Never mind.
+
+199
+00:07:36,586 --> 00:07:38,172
+Is there anything else you can
+tell me about the incident?
+
+200
+00:07:38,196 --> 00:07:40,459
+Like six people recorded it
+on their phones.
+
+201
+00:07:40,502 --> 00:07:42,242
+We're trending on Cliptalk.
+
+202
+00:07:42,286 --> 00:07:43,331
+Right.
+
+203
+00:07:43,375 --> 00:07:45,072
+They're calling her a folk hero.
+
+204
+00:07:45,115 --> 00:07:47,552
+Can you believe it?
+As if I'mthe bad guy.
+
+205
+00:07:47,596 --> 00:07:49,120
+We're needed elsewhere.
+
+206
+00:07:49,163 --> 00:07:51,122
+Ms. Fowler, I'm gonna have
+a unit reach out
+
+207
+00:07:51,165 --> 00:07:53,689
+to studio security to get
+your attacker's information.
+
+208
+00:07:54,821 --> 00:07:56,430
+I want the book thrown at her.
+
+209
+00:07:56,475 --> 00:07:57,432
+Of course.
+
+210
+00:07:57,475 --> 00:07:58,824
+And happy Mother's Day.
+
+211
+00:07:58,869 --> 00:08:01,348
+Oh, thank you.
+
+212
+00:08:02,220 --> 00:08:03,569
+Nice fake phone call.
+
+213
+00:08:03,612 --> 00:08:04,875
+It wasn't fake.
+
+214
+00:08:04,918 --> 00:08:07,399
+The D.A.'s office has
+a witness to secure,
+
+215
+00:08:07,442 --> 00:08:10,184
+and they asked for an advanced
+team to assess the site.
+
+216
+00:08:10,228 --> 00:08:12,548
+So I guess Luna's present will
+have to wait a while longer?
+
+217
+00:08:14,231 --> 00:08:16,060
+Yeah, but don't let me forget.
+
+218
+00:08:23,980 --> 00:08:26,418
+Are you proposing to Ashley?
+
+219
+00:08:26,461 --> 00:08:28,463
+What?
+
+220
+00:08:28,507 --> 00:08:29,725
+Of course not.
+
+221
+00:08:29,769 --> 00:08:31,137
+We... We've only been
+dating a few months.
+
+222
+00:08:31,161 --> 00:08:33,380
+Okay.
+
+223
+00:08:33,424 --> 00:08:34,904
+But if you take
+a girl to Hawaii,
+
+224
+00:08:34,947 --> 00:08:36,820
+there's gonna be expectations.
+
+225
+00:08:36,863 --> 00:08:39,232
+You might not be aware of some
+of the signals that you're sending.
+
+226
+00:08:39,256 --> 00:08:40,519
+What kind of signals?
+
+227
+00:08:40,562 --> 00:08:42,278
+The kind that makes her get
+a manicure because
+
+228
+00:08:42,302 --> 00:08:44,063
+she's assuming she'll be
+sending pictures of her hand
+
+229
+00:08:44,087 --> 00:08:45,350
+to all her friends.
+
+230
+00:08:46,655 --> 00:08:48,440
+7-Adam-100.
+
+231
+00:08:48,482 --> 00:08:49,962
+What's your status?
+
+232
+00:08:50,006 --> 00:08:51,878
+Uh, 7-Adam-100.
+
+233
+00:08:51,922 --> 00:08:54,097
+Show us Code 6 on our 415.
+
+234
+00:08:54,140 --> 00:08:55,838
+- They lost her keys.
+- Where are my keys?
+
+235
+00:08:55,881 --> 00:08:57,841
+Sir, please.
+You lost my Bentley.
+
+236
+00:08:57,884 --> 00:09:00,582
+No, sir, I just... I just don't
+know where the keys are.
+
+237
+00:09:00,625 --> 00:09:01,951
+Okay, everyone, just calm down.
+Back up a little bit, please.
+
+238
+00:09:01,975 --> 00:09:03,106
+Thank you.
+
+239
+00:09:03,149 --> 00:09:04,890
+What's going on? Jonah went crazy.
+
+240
+00:09:04,934 --> 00:09:06,676
+He punched that guy in the face,
+
+241
+00:09:06,719 --> 00:09:09,504
+and he emptied the key cabinet
+and then stole a car.
+
+242
+00:09:09,548 --> 00:09:11,700
+Patrol, we need an R.A. at our
+location for an assault victim.
+
+243
+00:09:11,724 --> 00:09:13,465
+Jonah is a valet?
+
+244
+00:09:13,508 --> 00:09:15,466
+Yeah, yeah.
+He just started last week.
+
+245
+00:09:15,509 --> 00:09:17,600
+At first, he was amused
+by all the rich guests.
+
+246
+00:09:17,643 --> 00:09:19,186
+You know how petty
+and demanding they are.
+
+247
+00:09:19,210 --> 00:09:20,820
+No offense.
+
+248
+00:09:20,864 --> 00:09:23,015
+But when that dude told him to
+move his ass, he snapped.
+
+249
+00:09:23,039 --> 00:09:24,868
+Knocked the guy out,
+jumped into his Porsche,
+
+250
+00:09:24,911 --> 00:09:26,826
+and took off with
+all the car keys.
+
+251
+00:09:26,870 --> 00:09:29,263
+And what color is the Porsche?
+
+252
+00:09:29,307 --> 00:09:31,197
+So all you did was reach
+inside of an open car window
+
+253
+00:09:31,221 --> 00:09:33,224
+and take a bag of chips
+from the passenger seat.
+
+254
+00:09:33,267 --> 00:09:34,659
+Yes.
+
+255
+00:09:34,703 --> 00:09:36,662
+I was super hungry,
+and it was right there.
+
+256
+00:09:38,010 --> 00:09:39,970
+Are you allowed to bring
+a baby in here?
+
+257
+00:09:41,014 --> 00:09:42,581
+Oh, he's my intern.
+
+258
+00:09:42,625 --> 00:09:44,864
+So, why is the District Attorney
+adding these extra charges?
+
+259
+00:09:44,888 --> 00:09:46,629
+Burglary and vehicle tampering.
+
+260
+00:09:46,672 --> 00:09:48,606
+You're looking at the one
+who didn'tgo to law school.
+
+261
+00:09:48,630 --> 00:09:50,110
+I have no idea.
+
+262
+00:09:51,546 --> 00:09:53,897
+The ADA in charge of your case
+is Philip Harmon.
+
+263
+00:09:53,940 --> 00:09:56,855
+He's notorious for
+up-charging defendants.
+
+264
+00:09:56,899 --> 00:09:58,379
+Is there anything
+you can do about it?
+
+265
+00:09:58,423 --> 00:10:00,903
+Uh... not much.
+
+266
+00:10:00,947 --> 00:10:02,576
+He does it to force you
+to take a plea deal
+
+267
+00:10:02,600 --> 00:10:03,664
+while he looks tough on crime.
+
+268
+00:10:03,688 --> 00:10:05,255
+That doesn't seem fair.
+
+269
+00:10:06,561 --> 00:10:08,041
+It's not.
+
+270
+00:10:08,085 --> 00:10:09,782
+I'll get right into this.
+Hang tight.
+
+271
+00:10:09,826 --> 00:10:11,610
+Come on, buddy.
+Thanks.
+
+272
+00:10:12,306 --> 00:10:15,352
+If you want, I could watch
+the baby while you work.
+
+273
+00:10:15,395 --> 00:10:18,485
+Not sure how my wife would feel
+about that, but thank you.
+
+274
+00:10:18,529 --> 00:10:20,226
+Come on, buddy.
+
+275
+00:10:26,320 --> 00:10:30,323
+No breakfast in bed, but Wesley
+did get me this bracelet.
+
+276
+00:10:31,456 --> 00:10:32,979
+That's lovely.
+
+277
+00:10:33,023 --> 00:10:34,980
+It's no diamond tennis bracelet,
+
+278
+00:10:35,024 --> 00:10:37,027
+but I don't need him
+to show me his love
+
+279
+00:10:37,070 --> 00:10:38,375
+with extravagant gifts.
+
+280
+00:10:38,418 --> 00:10:41,161
+Well, no one needs it,
+but wouldn't it be nice?
+
+281
+00:10:43,860 --> 00:10:45,600
+Wesley's running even later.
+
+282
+00:10:45,644 --> 00:10:46,775
+Oh.
+We should order.
+
+283
+00:10:46,818 --> 00:10:48,428
+It's probably for the best.
+
+284
+00:10:48,472 --> 00:10:50,431
+Rich-people stuff isn't
+as fun when he's around.
+
+285
+00:10:50,475 --> 00:10:53,696
+No, he does tend
+to dampen the mood.
+
+286
+00:10:53,739 --> 00:10:56,263
+How about you and I spend
+the afternoon shopping?
+
+287
+00:10:56,307 --> 00:10:58,221
+I'll hire a driver,
+
+288
+00:10:58,264 --> 00:11:00,179
+and we'll do your
+first Mother's Day right.
+
+289
+00:11:00,224 --> 00:11:02,095
+I love you.
+
+290
+00:11:02,139 --> 00:11:03,879
+Yes.
+Cheers to that.
+
+291
+00:11:03,923 --> 00:11:05,054
+Cheers.
+
+292
+00:11:07,057 --> 00:11:09,232
+Good morning,
+and happy Mother's Day.
+
+293
+00:11:09,275 --> 00:11:11,801
+Now, I hate to interrupt
+your little manufactured
+
+294
+00:11:11,844 --> 00:11:14,716
+family gathering,
+but this is a robbery.
+
+295
+00:11:14,759 --> 00:11:17,110
+Let's go. Everyone stay calm
+and you won't get hurt.
+
+296
+00:11:17,153 --> 00:11:19,111
+Just put all your belongings
+in the bag.
+
+297
+00:11:19,155 --> 00:11:20,331
+What are you gonna do?
+
+298
+00:11:20,374 --> 00:11:21,724
+Stay calm.
+Do as they say.
+
+299
+00:11:21,767 --> 00:11:22,875
+We don't want to make
+the situation worse.
+
+300
+00:11:22,899 --> 00:11:25,030
+Come on, cough it up, ladies.
+
+301
+00:11:25,075 --> 00:11:27,120
+Yeah.
+That's beautiful.
+
+302
+00:11:27,163 --> 00:11:28,469
+Thank you.
+
+303
+00:11:28,513 --> 00:11:30,775
+Give me the pearls.
+
+304
+00:11:30,820 --> 00:11:33,038
+Please.
+
+305
+00:11:33,082 --> 00:11:34,301
+My late husband gave me...
+
+306
+00:11:34,345 --> 00:11:35,649
+I don't care.
+
+307
+00:11:35,693 --> 00:11:37,652
+Put it in the bag before
+I rip it off your neck.
+
+308
+00:11:37,696 --> 00:11:40,307
+Patrice, we'll
+get it back, okay?
+
+309
+00:11:41,787 --> 00:11:43,634
+You know, you really shouldn't
+lie to your elders.
+
+310
+00:11:43,658 --> 00:11:46,096
+I'm not lying
+when I tell her that.
+
+311
+00:11:46,139 --> 00:11:49,751
+Or when I tell you
+you're under arrest.
+
+312
+00:11:51,841 --> 00:11:53,407
+You know, I love the confidence.
+
+313
+00:11:53,451 --> 00:11:56,496
+But, uh... we're the only ones
+with guns here.
+
+314
+00:11:56,540 --> 00:11:58,412
+Oh, I don't mean now.
+
+315
+00:11:58,456 --> 00:12:01,216
+But soon enough, we'll be putting
+a different kind of bracelet on you.
+
+316
+00:12:06,028 --> 00:12:07,769
+Thank you! Monica: Whoo!
+
+317
+00:12:07,812 --> 00:12:09,815
+I'll take that.
+
+318
+00:12:11,120 --> 00:12:12,321
+Thanks, everybody!
+We love you!
+
+319
+00:12:16,822 --> 00:12:17,996
+Hey. You okay?
+
+320
+00:12:18,041 --> 00:12:19,825
+Yeah.
+Did Wesley find you?
+
+321
+00:12:19,869 --> 00:12:21,000
+He's been frantic.
+
+322
+00:12:21,043 --> 00:12:22,306
+I know.
+
+323
+00:12:22,349 --> 00:12:24,229
+Patrice and I had to
+scrape him off the ceiling.
+
+324
+00:12:24,264 --> 00:12:26,875
+I sent him and Jack away
+so I could go to work.
+
+325
+00:12:26,918 --> 00:12:27,940
+Did you get an I.D.
+on the stick-up team?
+
+326
+00:12:27,963 --> 00:12:30,530
+Yep. Jonah Cahill,
+Monica Ditmar.
+
+327
+00:12:30,575 --> 00:12:32,316
+That's our valet.
+
+328
+00:12:32,359 --> 00:12:34,578
+He beat up a guest this morning
+and stole a Porsche.
+
+329
+00:12:34,621 --> 00:12:36,450
+Oh, and that's the woman
+that Nolan and Grey
+
+330
+00:12:36,494 --> 00:12:37,755
+put out a BOLO for.
+
+331
+00:12:37,799 --> 00:12:39,584
+She pitched a fit
+at one of the stars
+
+332
+00:12:39,626 --> 00:12:41,106
+on "Hot Suspect" and then quit.
+
+333
+00:12:41,150 --> 00:12:43,456
+Which suggests the robbery was
+a spur-of-the-moment thing.
+
+334
+00:12:43,500 --> 00:12:45,937
+Yeah. They might have
+snapped after a bad morning
+
+335
+00:12:45,981 --> 00:12:47,765
+at work and decided
+that crime paid better.
+
+336
+00:12:47,809 --> 00:12:49,462
+I'm assuming they
+have criminal records?
+
+337
+00:12:49,506 --> 00:12:53,119
+Yeah. Minor offenses stretching
+back into their teens.
+
+338
+00:12:53,163 --> 00:12:55,294
+They're both living at
+a halfway house in Koreatown.
+
+339
+00:12:55,338 --> 00:12:57,907
+I got uniforms parked outside
+in case they come back.
+
+340
+00:12:57,950 --> 00:12:59,604
+They stole your
+Mother's Day's present?
+
+341
+00:12:59,647 --> 00:13:01,126
+I'm going to get it back.
+
+342
+00:13:01,171 --> 00:13:03,173
+Damn right you are.
+And I am gonna help you.
+
+343
+00:13:03,216 --> 00:13:05,336
+Nobody messes with Mother's Day
+and gets away with it.
+
+344
+00:13:06,653 --> 00:13:08,481
+Donovan took Lila out of town.
+
+345
+00:13:08,525 --> 00:13:09,918
+What?
+Mm-hmm.
+
+346
+00:13:09,961 --> 00:13:12,659
+I knew he was an ass, but
+I didn't think he was evil.
+
+347
+00:13:12,703 --> 00:13:15,967
+My abuela taught me the perfect
+curse to put on him.
+
+348
+00:13:16,011 --> 00:13:18,623
+Ooh!
+Does it involve boils?
+
+349
+00:13:18,666 --> 00:13:21,365
+No, but parts of him
+will definitely fall off.
+
+350
+00:13:21,408 --> 00:13:22,932
+Ooh! Okay, we should leave before
+
+351
+00:13:22,975 --> 00:13:24,933
+we become accessories.Mm-hmm.
+
+352
+00:13:24,976 --> 00:13:27,197
+Those robbers
+don't stand a chance.
+
+353
+00:13:33,245 --> 00:13:35,509
+Here we are.
+
+354
+00:13:35,552 --> 00:13:38,076
+The Royal Arms apartments.
+
+355
+00:13:38,120 --> 00:13:39,706
+D.A.'s office is gonna
+secure their witness here
+
+356
+00:13:39,730 --> 00:13:41,775
+for a week while they get
+a more permanent situation
+
+357
+00:13:41,820 --> 00:13:43,081
+put in place.
+
+358
+00:13:43,125 --> 00:13:44,996
+That must be tough
+going into WITSEC.
+
+359
+00:13:45,040 --> 00:13:46,582
+I mean, I changed my whole
+life to come out here,
+
+360
+00:13:46,606 --> 00:13:48,913
+but I didn't have to
+cut ties with my family.
+
+361
+00:13:48,957 --> 00:13:49,914
+This poor guy's gonna
+have to give up
+
+362
+00:13:49,959 --> 00:13:51,350
+everything he's ever known.
+
+363
+00:13:51,394 --> 00:13:54,005
+This "poor guy" is
+a runner for a street gang.
+
+364
+00:13:54,049 --> 00:13:56,442
+He stood by and watched
+people get murdered.
+
+365
+00:13:56,486 --> 00:13:58,619
+He's lucky his testimony
+is valuable enough
+
+366
+00:13:58,663 --> 00:14:00,186
+to get him immunity.
+
+367
+00:14:00,230 --> 00:14:01,684
+So, what do we have to do
+to get the site prepped
+
+368
+00:14:01,708 --> 00:14:03,188
+for witness protection?
+
+369
+00:14:03,232 --> 00:14:06,235
+First, the C.I. needs to be
+given clear boundaries,
+
+370
+00:14:06,278 --> 00:14:09,673
+the landmarks that he cannot
+cross, to keep him isolated.
+
+371
+00:14:09,716 --> 00:14:12,284
+Okay, how about Sixth Street
+to the north,
+
+372
+00:14:12,328 --> 00:14:13,851
+that grocery store to the south?
+
+373
+00:14:13,895 --> 00:14:15,177
+That way, there's lots
+of cameras and witnesses
+
+374
+00:14:15,201 --> 00:14:16,462
+in case anything happens.
+
+375
+00:14:16,506 --> 00:14:18,161
+That's perfect.
+
+376
+00:14:18,203 --> 00:14:19,857
+Let's go check out
+this apartment.
+
+377
+00:14:23,121 --> 00:14:24,818
+Looks like nobody's been
+here in a while.
+
+378
+00:14:24,863 --> 00:14:26,865
+Still have to clear it anyway.
+
+379
+00:14:28,953 --> 00:14:32,043
+Okay. Search for cameras
+and listening devices.
+
+380
+00:14:32,087 --> 00:14:33,653
+Hold the button down,
+
+381
+00:14:33,697 --> 00:14:37,179
+wave it over anything
+that may hide a bug.
+
+382
+00:14:37,222 --> 00:14:38,442
+Gotcha.
+
+383
+00:14:40,269 --> 00:14:42,097
+What was your FTO like?
+
+384
+00:14:43,620 --> 00:14:45,250
+He was one of those guys
+who thought he could
+
+385
+00:14:45,274 --> 00:14:47,320
+motivate me with threats.
+
+386
+00:14:47,364 --> 00:14:49,713
+One night, he drove me
+behind the grocery store,
+
+387
+00:14:49,756 --> 00:14:52,543
+took off his belt and vest,
+and wanted to fight.
+
+388
+00:14:52,586 --> 00:14:53,673
+What did you do?
+
+389
+00:14:53,717 --> 00:14:55,371
+I put him in the hospital.
+
+390
+00:14:55,414 --> 00:14:57,243
+He tread a lot more carefully
+after that.
+
+391
+00:14:57,287 --> 00:14:58,418
+I bet he did.
+
+392
+00:14:58,461 --> 00:15:00,289
+Check the bedroom.
+
+393
+00:15:02,639 --> 00:15:04,947
+There's four types of
+training officers...
+
+394
+00:15:04,990 --> 00:15:08,471
+Kings, Coaches,
+Teachers, and Slugs.
+
+395
+00:15:08,514 --> 00:15:10,604
+Well, I already know
+the Slug one.
+
+396
+00:15:10,648 --> 00:15:13,606
+That one's just doing it
+for the pay bump.
+
+397
+00:15:13,650 --> 00:15:16,480
+Kings are the
+"my way or the highway" type.
+
+398
+00:15:16,523 --> 00:15:18,350
+Coaches offer motivation,
+
+399
+00:15:18,394 --> 00:15:20,352
+and Teachers always want to
+explain everything.
+
+400
+00:15:20,397 --> 00:15:22,355
+Which of the categories
+do I fit under?
+
+401
+00:15:22,399 --> 00:15:24,226
+None.
+
+402
+00:15:24,269 --> 00:15:26,403
+That's why you got the potential
+to make a great T.O.
+
+403
+00:15:26,446 --> 00:15:28,971
+Take the best qualities of
+all the leaders and trainers
+
+404
+00:15:29,014 --> 00:15:31,321
+who shaped who you are as a cop,
+
+405
+00:15:31,364 --> 00:15:32,844
+and you'll make
+your own category.
+
+406
+00:15:37,849 --> 00:15:40,547
+Del Monte.
+
+407
+00:15:40,591 --> 00:15:41,984
+Site's secure.
+
+408
+00:15:42,027 --> 00:15:43,681
+So, you need us to hang around?
+
+409
+00:15:43,724 --> 00:15:45,552
+'Cause I got a Mother's Day
+present to buy.
+
+410
+00:15:45,596 --> 00:15:47,182
+Oh, it's a little late
+for that, isn't it?
+
+411
+00:15:47,206 --> 00:15:48,860
+Yeah.
+
+412
+00:15:48,903 --> 00:15:50,316
+Yeah, actually, I would
+appreciate you hanging out.
+
+413
+00:15:50,340 --> 00:15:52,341
+Uh, my guy is super twitchy.
+
+414
+00:15:52,384 --> 00:15:54,058
+Having you there play the heavy
+will definitely help
+
+415
+00:15:54,082 --> 00:15:55,363
+him play by the rules, you know?
+
+416
+00:15:55,388 --> 00:15:56,780
+No problem.
+
+417
+00:16:05,964 --> 00:16:07,573
+Hey, Sean.
+
+418
+00:16:07,618 --> 00:16:08,445
+Got a minute?
+
+419
+00:16:08,488 --> 00:16:10,229
+Uh, yeah, one.
+
+420
+00:16:11,317 --> 00:16:13,188
+Cute kid.
+
+421
+00:16:13,231 --> 00:16:15,799
+Oh, hey, you're working
+on Lopez's first Mother's Day.
+
+422
+00:16:15,842 --> 00:16:17,583
+Brave man.
+
+423
+00:16:17,628 --> 00:16:19,499
+Yeah, in my defense,
+she's working, too.
+
+424
+00:16:19,543 --> 00:16:22,024
+She and my mom were robbed
+at brunch.
+
+425
+00:16:22,067 --> 00:16:23,566
+Yeah, I heard about that.
+Everybody okay?
+
+426
+00:16:23,590 --> 00:16:25,331
+Yeah. Thank God.
+
+427
+00:16:25,375 --> 00:16:26,961
+I should have been there,
+but I was dealing with
+
+428
+00:16:26,985 --> 00:16:30,119
+yet another case of
+prosecutorial overreach.
+
+429
+00:16:31,642 --> 00:16:33,533
+Well, if that's your way of
+buttering me up for a favor,
+
+430
+00:16:33,557 --> 00:16:34,707
+you might want to rethink it.
+
+431
+00:16:34,731 --> 00:16:36,144
+Gemma Ramp stole
+a bag of potato chips,
+
+432
+00:16:36,168 --> 00:16:37,667
+you guys are charging her
+with a felony?
+
+433
+00:16:37,691 --> 00:16:39,278
+Oh, yeah, no, that's not mine.
+That's Harmon's.
+
+434
+00:16:39,302 --> 00:16:41,129
+I know.
+Hoping you'd talk to him.
+
+435
+00:16:41,173 --> 00:16:45,177
+Yeah, I mean, I can,
+but it's not gonna matter.
+
+436
+00:16:45,221 --> 00:16:46,918
+That's just his way
+of doing business.
+
+437
+00:16:46,961 --> 00:16:48,354
+Come on, Wes.
+None of this is new.
+
+438
+00:16:48,398 --> 00:16:50,399
+I know.
+
+439
+00:16:50,442 --> 00:16:52,750
+It just seems like things
+are only getting worse.
+
+440
+00:16:54,664 --> 00:16:57,101
+Look, you're not wrong.
+
+441
+00:16:57,145 --> 00:17:00,932
+But to be honest,
+I'm surrounded by lawyers
+
+442
+00:17:00,975 --> 00:17:02,846
+who think that being
+tough on crime
+
+443
+00:17:02,889 --> 00:17:04,500
+is gonna get them the top job.
+
+444
+00:17:04,544 --> 00:17:06,807
+Hell, I've been vetting candidates for
+Kelly's open spot,
+
+445
+00:17:06,851 --> 00:17:08,262
+and each one is
+more gung ho than the last.
+
+446
+00:17:08,287 --> 00:17:09,896
+I get it.
+
+447
+00:17:09,941 --> 00:17:13,336
+My client is steps away
+from the street.
+
+448
+00:17:13,378 --> 00:17:17,252
+She needs a break,
+not the book thrown at her.
+
+449
+00:17:17,296 --> 00:17:19,255
+I get it. I do.
+
+450
+00:17:19,298 --> 00:17:21,299
+I just... There's nothing
+I can do about it.
+
+451
+00:17:21,344 --> 00:17:22,474
+My hands are tied.
+I'm sorry.
+
+452
+00:17:22,519 --> 00:17:24,086
+I gotta run.
+
+453
+00:17:30,440 --> 00:17:32,049
+I already know
+what you're gonna say.
+
+454
+00:17:32,094 --> 00:17:33,896
+My mother's just trying to do
+what's best for me.
+
+455
+00:17:33,921 --> 00:17:36,141
+Oh, no.
+
+456
+00:17:36,184 --> 00:17:38,577
+Your mom sounds like
+a real piece of work.
+
+457
+00:17:39,971 --> 00:17:42,278
+It's not your job
+to make amends.
+
+458
+00:17:42,320 --> 00:17:44,366
+It's hers.
+
+459
+00:17:44,410 --> 00:17:46,368
+Thank you so much.
+
+460
+00:17:46,412 --> 00:17:47,847
+I...
+Yeah.
+
+461
+00:17:47,892 --> 00:17:50,547
+Okay, when did hotels
+get so expensive?
+
+462
+00:17:50,589 --> 00:17:52,548
+Hi.
+Hi, Tim.
+
+463
+00:17:52,592 --> 00:17:54,811
+Oh, that's pretty good. Seriously?
+
+464
+00:17:54,855 --> 00:17:56,988
+Yeah. I mean,
+it's a nice hotel.
+
+465
+00:17:57,030 --> 00:17:58,510
+If you want to do
+better than that,
+
+466
+00:17:58,555 --> 00:18:01,210
+you're gonna have to take
+Ashley to Honolulu Motel 6.
+
+467
+00:18:01,252 --> 00:18:02,993
+Oh, you're going to Hawaii.
+
+468
+00:18:03,037 --> 00:18:05,431
+Congratulations
+on your engagement.
+
+469
+00:18:05,474 --> 00:18:06,911
+Ah! Told you.
+
+470
+00:18:06,953 --> 00:18:08,391
+I'm not getting engaged.
+
+471
+00:18:08,433 --> 00:18:09,913
+Does your girlfriend know that?
+
+472
+00:18:09,957 --> 00:18:11,872
+Yes.
+It's not an issue.
+
+473
+00:18:11,915 --> 00:18:13,656
+Is he really this clueless?
+
+474
+00:18:13,700 --> 00:18:17,487
+Yes, trust me.
+It is a daily struggle.
+
+475
+00:18:17,529 --> 00:18:19,270
+Let's go.
+
+476
+00:18:19,315 --> 00:18:20,271
+You've reached the cellphone of
+
+477
+00:18:20,316 --> 00:18:21,490
+Detective Angela Lopez.
+
+478
+00:18:21,534 --> 00:18:22,578
+Leave a message.
+
+479
+00:18:22,622 --> 00:18:24,145
+Any luck?
+
+480
+00:18:24,189 --> 00:18:26,191
+No.
+
+481
+00:18:26,234 --> 00:18:30,194
+I called half the phones
+they stole, including mine.
+
+482
+00:18:30,239 --> 00:18:31,413
+Straight to voicemail.
+
+483
+00:18:31,457 --> 00:18:33,285
+I've got plainclothes
+officers stationed
+
+484
+00:18:33,328 --> 00:18:35,001
+at all of the pawnshops
+this side of the 405.
+
+485
+00:18:35,026 --> 00:18:36,983
+If they show up,
+we will be waiting.
+
+486
+00:18:37,028 --> 00:18:39,116
+Tell them I want to be the one
+who puts on the cuffs.
+
+487
+00:18:39,161 --> 00:18:41,163
+I made a promise.
+
+488
+00:18:41,205 --> 00:18:42,990
+I love it so much.
+
+489
+00:18:43,034 --> 00:18:45,210
+New phone, who dis?
+
+490
+00:18:46,603 --> 00:18:49,474
+Detective Lopez.
+We met this morning.
+
+491
+00:18:49,519 --> 00:18:51,173
+It's the cop
+from the restaurant.
+
+492
+00:18:51,215 --> 00:18:52,826
+What's up, Detective?
+
+493
+00:18:52,869 --> 00:18:54,349
+You, uh, calling to arrest us?
+
+494
+00:18:54,393 --> 00:18:56,432
+'Cause I don't think you can
+do that over the phone.
+
+495
+00:18:57,527 --> 00:18:59,330
+No, I'm calling to tell you
+to turn yourselves in.
+
+496
+00:18:59,355 --> 00:19:00,964
+You committed armed robbery.
+
+497
+00:19:01,008 --> 00:19:02,531
+Half the LAPD
+is looking for you.
+
+498
+00:19:02,575 --> 00:19:04,229
+Yeah, that's not gonna happen.
+
+499
+00:19:04,272 --> 00:19:06,076
+See, we've got this whole
+crime spree planned out.
+
+500
+00:19:06,099 --> 00:19:07,382
+Isn't that right, baby? That's right.
+
+501
+00:19:07,405 --> 00:19:09,756
+Listen, I know you two
+have gone through a lot.
+
+502
+00:19:09,799 --> 00:19:12,324
+Please. If you think reading
+a file gives you any idea
+
+503
+00:19:12,367 --> 00:19:14,239
+who we are,
+you are a terrible cop.
+
+504
+00:19:14,282 --> 00:19:16,240
+Trust me, I've read enough
+files to understand
+
+505
+00:19:16,285 --> 00:19:18,374
+that you and Jonah never
+caught a single break.
+
+506
+00:19:18,416 --> 00:19:20,593
+Yet, when you got out of prison,
+
+507
+00:19:20,636 --> 00:19:23,291
+you tried to go straight,
+even got yourselves real jobs.
+
+508
+00:19:23,335 --> 00:19:26,076
+Yeah. And you know what?
+We were still treated like scum.
+
+509
+00:19:26,119 --> 00:19:28,297
+Not even worth
+an ounce of respect.
+
+510
+00:19:28,339 --> 00:19:30,646
+Angela, they are live-streaming
+your conversation.
+
+511
+00:19:30,690 --> 00:19:32,823
+You can save
+the false empathy, Detective.
+
+512
+00:19:32,865 --> 00:19:36,130
+Today is for every worker
+who's ever been mistreated...
+
+513
+00:19:36,173 --> 00:19:37,194
+Mm.
+...for anyone who's ever
+
+514
+00:19:37,219 --> 00:19:38,436
+wanted to walk off the job.
+
+515
+00:19:38,480 --> 00:19:40,134
+Yeah, for anybody that
+believed the lie
+
+516
+00:19:40,177 --> 00:19:42,006
+that if you just tried
+to work harder,
+
+517
+00:19:42,048 --> 00:19:43,268
+you could achieve your dreams.
+
+518
+00:19:43,311 --> 00:19:45,269
+We are done begging for scraps.
+
+519
+00:19:45,314 --> 00:19:48,055
+Today, we are taking
+what's ours.
+
+520
+00:19:48,098 --> 00:19:49,622
+Let's take it all, baby.
+
+521
+00:19:49,665 --> 00:19:51,189
+We are taking it.
+
+522
+00:19:51,232 --> 00:19:52,320
+Let's take it all.
+
+523
+00:19:53,757 --> 00:19:55,061
+I love you.
+I love you.
+
+524
+00:20:01,286 --> 00:20:04,115
+Man, I don't like this place.
+It's claustrophobic.
+
+525
+00:20:04,157 --> 00:20:05,421
+Mr. Tran...
+
+526
+00:20:05,463 --> 00:20:08,597
+Is it just me,
+or is it dusty up in here?
+
+527
+00:20:08,641 --> 00:20:09,903
+I feel like I can't breathe.
+
+528
+00:20:09,946 --> 00:20:11,122
+Daniel, sit down.
+
+529
+00:20:12,602 --> 00:20:14,231
+If you want to stay alive,
+you need to listen to what
+
+530
+00:20:14,256 --> 00:20:15,692
+Mr. Del Monte
+has to say.
+
+531
+00:20:15,734 --> 00:20:17,259
+Thank you.
+
+532
+00:20:17,301 --> 00:20:19,304
+As an informant
+in our protection program,
+
+533
+00:20:19,347 --> 00:20:21,698
+there are a number of rules
+that you will follow.
+
+534
+00:20:21,740 --> 00:20:23,961
+You will not disclose
+this location to anybody.
+
+535
+00:20:24,003 --> 00:20:26,484
+Do you understand?
+Good.
+
+536
+00:20:26,528 --> 00:20:28,138
+This is your new phone.
+
+537
+00:20:28,182 --> 00:20:30,836
+Do not share this number
+with anybody.
+
+538
+00:20:30,881 --> 00:20:32,925
+Officer Nolan and Sergeant Grey
+
+539
+00:20:32,970 --> 00:20:35,277
+have established
+a strict perimeter in the area.
+
+540
+00:20:35,319 --> 00:20:37,409
+This is a boundary
+that you will not cross
+
+541
+00:20:37,452 --> 00:20:38,932
+under any circumstances.
+
+542
+00:20:38,976 --> 00:20:40,412
+Is that clear?
+
+543
+00:20:40,455 --> 00:20:42,458
+But I can visit my mom, right?
+
+544
+00:20:42,500 --> 00:20:45,503
+No. Daniel...
+
+545
+00:20:45,548 --> 00:20:48,463
+you are not to contact
+any friends or family, period.
+
+546
+00:20:48,507 --> 00:20:50,203
+But it's Mother's Day.
+
+547
+00:20:50,248 --> 00:20:51,607
+We're going
+horseback riding later.
+
+548
+00:20:51,641 --> 00:20:53,598
+Son, you're clearly
+not understanding
+
+549
+00:20:53,643 --> 00:20:56,123
+the severity of the situation.
+
+550
+00:20:56,166 --> 00:20:59,387
+You will not contact anyone,
+family included.
+
+551
+00:20:59,431 --> 00:21:01,780
+But I have to.
+I can't let her down again.
+
+552
+00:21:01,825 --> 00:21:04,958
+Look, this is for
+her safety, too.
+
+553
+00:21:05,001 --> 00:21:07,961
+Okay, if you really want
+to see your mom,
+
+554
+00:21:08,005 --> 00:21:10,049
+I'm sure we can arrange to
+have you both meet
+
+555
+00:21:10,094 --> 00:21:11,313
+in a secure location.
+
+556
+00:21:11,355 --> 00:21:12,269
+You can say your goodbyes.
+
+557
+00:21:12,314 --> 00:21:14,271
+Goodbyes? No.
+
+558
+00:21:14,316 --> 00:21:16,317
+Daniel, this is
+your reality now.
+
+559
+00:21:16,361 --> 00:21:17,710
+I know it's not pretty,
+
+560
+00:21:17,753 --> 00:21:19,972
+but it's the only way we can
+keep you alive.
+
+561
+00:21:25,021 --> 00:21:26,327
+Alright, thanks, guys.
+
+562
+00:21:26,371 --> 00:21:27,608
+We'll take it from here.
+Appreciate it.
+
+563
+00:21:27,633 --> 00:21:29,895
+Present time?
+Yeah.
+
+564
+00:21:29,940 --> 00:21:32,072
+Only I have absolutely
+no idea what to get her.
+
+565
+00:21:32,115 --> 00:21:33,726
+Well, lucky enough,
+we got four hours
+
+566
+00:21:33,769 --> 00:21:35,118
+to figure something out.
+
+567
+00:21:35,162 --> 00:21:36,836
+I got an update
+on Monica and Jonah.
+
+568
+00:21:36,859 --> 00:21:38,688
+They just robbed a bridal store.
+
+569
+00:21:38,730 --> 00:21:40,037
+That's an odd choice.
+
+570
+00:21:40,079 --> 00:21:42,473
+They assaulted the owner
+and held her at gunpoint
+
+571
+00:21:42,518 --> 00:21:44,127
+while Monica tried on dresses.
+
+572
+00:21:44,171 --> 00:21:46,739
+Oh, well, I guess you won't
+be the only one getting married.
+
+573
+00:21:46,782 --> 00:21:47,784
+What?
+
+574
+00:21:47,826 --> 00:21:49,654
+Nothing. Ignore her.
+
+575
+00:21:49,699 --> 00:21:51,917
+We need to catch these two
+before they kill somebody.
+
+576
+00:21:51,961 --> 00:21:54,243
+Well, given the fact that they
+made off with a dress and tux,
+
+577
+00:21:54,268 --> 00:21:55,965
+odds are they're
+about to get hitched.
+
+578
+00:21:56,009 --> 00:21:57,116
+Alright.
+We'll alert the local venues
+
+579
+00:21:57,141 --> 00:21:58,837
+and check out
+the obvious locations.
+
+580
+00:22:01,101 --> 00:22:02,426
+Okay, I'm starting to
+panic a little.
+
+581
+00:22:02,451 --> 00:22:04,452
+Luna and I have been
+married 25 years.
+
+582
+00:22:04,496 --> 00:22:06,895
+At this point, I've given her
+every kind of present there is.
+
+583
+00:22:08,631 --> 00:22:10,327
+So how do I make
+this one special?
+
+584
+00:22:10,372 --> 00:22:12,895
+Well, maybe don't
+make it about the present.
+
+585
+00:22:12,939 --> 00:22:14,070
+Make it about the evening.
+
+586
+00:22:14,114 --> 00:22:16,377
+What's her favorite restaurant?
+
+587
+00:22:16,421 --> 00:22:18,162
+Do you think I can
+get a reservation
+
+588
+00:22:18,204 --> 00:22:19,468
+anywhere at this point?
+
+589
+00:22:19,510 --> 00:22:20,671
+Ooh.
+No, not a chance in hell.
+
+590
+00:22:21,991 --> 00:22:23,993
+Sean, what's up?
+
+591
+00:22:25,211 --> 00:22:27,563
+No, we're on it.
+
+592
+00:22:27,605 --> 00:22:28,999
+Daniel Tran took off.
+
+593
+00:22:29,041 --> 00:22:30,826
+That was fast.
+Yeah.
+
+594
+00:22:30,869 --> 00:22:32,718
+Lucky for us, we know
+exactly where he's heading.
+
+595
+00:22:32,741 --> 00:22:35,353
+Oh! According to this
+travel website,
+
+596
+00:22:35,396 --> 00:22:38,311
+Siberia is the least romantic
+place to vacation.
+
+597
+00:22:40,489 --> 00:22:43,099
+I am not rerouting our trip
+to the arctic tundra
+
+598
+00:22:43,143 --> 00:22:45,798
+because you think Hawaii
+sends the wrong message.
+
+599
+00:22:45,842 --> 00:22:48,105
+No, it is not just me, okay?
+
+600
+00:22:48,147 --> 00:22:51,586
+TouristPlanet says that
+Hawaii is number one
+
+601
+00:22:51,630 --> 00:22:53,893
+for proposals in 2021.
+
+602
+00:22:53,936 --> 00:22:56,374
+Ashley can't possibly
+think I'm proposing.
+
+603
+00:22:56,417 --> 00:22:57,461
+Why not?
+
+604
+00:22:57,506 --> 00:23:00,160
+I mean, you're of
+a... certain age.
+
+605
+00:23:00,203 --> 00:23:01,683
+She's in her prime.
+
+606
+00:23:01,727 --> 00:23:05,035
+I mean, on paper, it's...
+it's like a no-brainer.
+
+607
+00:23:05,077 --> 00:23:06,557
+Okay, be honest.
+
+608
+00:23:08,125 --> 00:23:10,213
+Can you see yourself
+married to her?
+
+609
+00:23:15,567 --> 00:23:17,263
+Yeah.
+
+610
+00:23:17,307 --> 00:23:18,308
+I can.
+
+611
+00:23:24,750 --> 00:23:26,056
+7-Adam-100.
+
+612
+00:23:26,098 --> 00:23:27,536
+I have a 415 unknown in progress
+
+613
+00:23:27,578 --> 00:23:29,058
+at Church of the Chimes.
+
+614
+00:23:29,102 --> 00:23:30,210
+That's gotta be Jonah
+and Monica.
+
+615
+00:23:30,233 --> 00:23:31,757
+Show us responding.
+
+616
+00:23:31,800 --> 00:23:34,455
+Send backup, metro,
+and alert Detective Lopez.
+
+617
+00:23:35,718 --> 00:23:39,025
+Hey, hey!
+Hey, everyone. Be cool.
+
+618
+00:23:39,068 --> 00:23:40,567
+You can get back to your wedding
+in a few minutes.
+
+619
+00:23:40,592 --> 00:23:42,898
+We wrote our own vows,
+so if anybody ruins them,
+
+620
+00:23:42,942 --> 00:23:44,552
+they catch a bullet, understand?
+
+621
+00:23:44,596 --> 00:23:47,598
+H-Hey, hey, hey. And you...
+And if you screw up this video,
+
+622
+00:23:47,643 --> 00:23:50,123
+it'll mean a world
+of pain, alright?
+
+623
+00:23:56,215 --> 00:24:00,176
+Baby, you are
+the love of my life.
+
+624
+00:24:00,220 --> 00:24:02,395
+Before I met you,
+I hated the world.
+
+625
+00:24:02,440 --> 00:24:05,137
+But now...
+
+626
+00:24:05,182 --> 00:24:08,794
+Now we can hate the world
+together forever.
+
+627
+00:24:08,837 --> 00:24:12,798
+Jonah... you're
+my ride or die,
+
+628
+00:24:12,842 --> 00:24:15,278
+the only person who
+has ever really seen me.
+
+629
+00:24:16,846 --> 00:24:18,455
+No matter what happens next,
+
+630
+00:24:18,500 --> 00:24:20,762
+you've made me
+the happiest girl...
+
+631
+00:24:27,900 --> 00:24:29,902
+Jonah!
+Jonah, we gotta go.
+
+632
+00:24:29,945 --> 00:24:31,183
+Hey, are we officially married?
+
+633
+00:24:31,208 --> 00:24:32,208
+Yes!
+
+634
+00:24:33,644 --> 00:24:35,125
+Ah!
+
+635
+00:24:35,167 --> 00:24:37,170
+7-Adam-100.
+Shots fired at our location.
+
+636
+00:24:37,213 --> 00:24:39,041
+Pursuing armed suspects on foot.
+
+637
+00:24:39,085 --> 00:24:40,782
+We need backup at all exits.
+
+638
+00:24:40,826 --> 00:24:41,740
+Go, go.
+Go to the back.
+
+639
+00:24:41,784 --> 00:24:42,914
+Go. Exit.
+
+640
+00:24:42,959 --> 00:24:44,394
+Move, move.
+
+641
+00:25:15,904 --> 00:25:17,602
+No, no.
+
+642
+00:25:17,645 --> 00:25:18,559
+No, no, no, no, no.
+
+643
+00:25:18,603 --> 00:25:20,212
+You gotta leave me.
+
+644
+00:25:20,257 --> 00:25:21,519
+No.
+
+645
+00:25:21,563 --> 00:25:22,800
+If you leave right now,
+you could save yourself.
+
+646
+00:25:22,825 --> 00:25:24,434
+No.
+You could just...
+
+647
+00:25:24,478 --> 00:25:25,696
+just break me out of jail.
+
+648
+00:25:25,740 --> 00:25:28,178
+It'll be epic.
+
+649
+00:25:28,221 --> 00:25:30,615
+I love you.
+
+650
+00:25:30,659 --> 00:25:32,442
+I love you, too.
+
+651
+00:25:32,486 --> 00:25:34,357
+Drop the gun.
+
+652
+00:25:42,584 --> 00:25:44,454
+Show me your hands.
+
+653
+00:25:46,544 --> 00:25:48,546
+Run!
+
+654
+00:25:54,247 --> 00:25:56,728
+Suspect Monica Ditmar's
+on the loose.
+
+655
+00:25:56,771 --> 00:25:58,121
+She is armed and dangerous,
+
+656
+00:25:58,163 --> 00:25:59,402
+wearing a wedding dress
+and combat boots.
+
+657
+00:25:59,425 --> 00:26:00,731
+You go north.
+
+658
+00:26:17,618 --> 00:26:19,229
+What's the damage?
+
+659
+00:26:19,271 --> 00:26:20,858
+GSW through-and-through
+to the upper back.
+
+660
+00:26:20,883 --> 00:26:22,362
+They're prepping
+the E.R. now.
+
+661
+00:26:22,405 --> 00:26:23,885
+You should have
+turned yourselves in.
+
+662
+00:26:23,929 --> 00:26:26,323
+I am unrepentant.
+
+663
+00:26:26,365 --> 00:26:28,891
+I'll be sure to let
+the judge know that.
+
+664
+00:26:28,933 --> 00:26:30,632
+The question is,
+are you going to help me
+
+665
+00:26:30,674 --> 00:26:32,285
+save Monica's life?
+
+666
+00:26:32,328 --> 00:26:34,505
+Let me guess.
+
+667
+00:26:34,548 --> 00:26:35,984
+You want me to
+tell her to give up?
+
+668
+00:26:36,028 --> 00:26:37,682
+You're damn right I do.
+
+669
+00:26:37,726 --> 00:26:39,137
+You think what you're
+doing is noble?
+
+670
+00:26:39,162 --> 00:26:40,816
+You think this has
+a happy ending?
+
+671
+00:26:40,858 --> 00:26:43,339
+Grow up.
+You shot at cops.
+
+672
+00:26:43,383 --> 00:26:46,691
+A thousand police officers
+are hunting for your wife
+
+673
+00:26:46,734 --> 00:26:49,172
+as we speak,
+and when they catch her
+
+674
+00:26:49,214 --> 00:26:51,042
+and she tries to shoot her way
+to freedom,
+
+675
+00:26:51,086 --> 00:26:53,088
+she's not gonna survive.
+
+676
+00:26:53,132 --> 00:26:56,527
+So you're gonna record a message
+telling her to surrender.
+
+677
+00:26:56,569 --> 00:27:00,051
+Or wake up from surgery to
+the news that you're a widower.
+
+678
+00:27:05,666 --> 00:27:07,145
+Forget it.
+
+679
+00:27:07,190 --> 00:27:09,409
+Our entire lives,
+we've been ordered around.
+
+680
+00:27:09,452 --> 00:27:11,813
+I'm not just gonna be another
+person telling her what to do.
+
+681
+00:27:12,368 --> 00:27:13,892
+The O.R.'s ready.
+
+682
+00:27:13,935 --> 00:27:15,459
+Go ahead.
+I'm done with him.
+
+683
+00:27:16,894 --> 00:27:18,027
+Let's move.
+
+684
+00:27:22,683 --> 00:27:26,644
+I can't tell you how much
+your advice means to me.
+
+685
+00:27:26,688 --> 00:27:27,950
+Thank you.
+
+686
+00:27:27,992 --> 00:27:29,820
+Of course, Quigley.
+
+687
+00:27:29,865 --> 00:27:32,171
+And, remember, whenever
+you're feeling low,
+
+688
+00:27:32,214 --> 00:27:35,479
+just tell yourself
+those three words.
+
+689
+00:27:35,521 --> 00:27:36,827
+I'm worth it.
+
+690
+00:27:38,047 --> 00:27:40,135
+Can I call you "mom"?
+
+691
+00:27:40,179 --> 00:27:42,703
+I think it's better
+if you didn't.
+
+692
+00:27:42,747 --> 00:27:44,443
+Okay. Thanks again.
+
+693
+00:27:47,664 --> 00:27:49,101
+I'm worth it.
+
+694
+00:27:49,144 --> 00:27:50,624
+Okay.
+
+695
+00:27:50,667 --> 00:27:51,407
+Ready to go?
+
+696
+00:27:51,451 --> 00:27:53,105
+Yes. Thank you.
+
+697
+00:27:53,148 --> 00:27:55,759
+You've had quite
+a day, haven't you?
+
+698
+00:27:55,804 --> 00:27:58,284
+Are you gonna be a lawyer
+like your daddy, huh?
+
+699
+00:27:58,327 --> 00:28:00,982
+Jackson, are you gonna help
+the less fortunate?
+
+700
+00:28:01,026 --> 00:28:03,549
+Mm. Not sure how much
+I'm helping these days.
+
+701
+00:28:03,594 --> 00:28:05,203
+Why? What happened?
+
+702
+00:28:05,248 --> 00:28:07,031
+I'm just tired of
+the uphill battle.
+
+703
+00:28:07,076 --> 00:28:08,730
+Prosecutors have all the power.
+
+704
+00:28:08,772 --> 00:28:10,339
+Well, if you can't beat them...
+
+705
+00:28:10,383 --> 00:28:11,471
+Join them?
+
+706
+00:28:11,515 --> 00:28:12,777
+No. Unh-unh.
+
+707
+00:28:12,820 --> 00:28:14,170
+Why not?
+
+708
+00:28:14,212 --> 00:28:16,388
+Are you telling me
+that you wouldn't make
+
+709
+00:28:16,432 --> 00:28:19,174
+a bigger impact
+if you had that power?
+
+710
+00:28:36,365 --> 00:28:38,802
+If Daniel told us about
+his Mother's Day plans,
+
+711
+00:28:38,846 --> 00:28:40,761
+how many others did he tell?
+
+712
+00:28:40,805 --> 00:28:42,957
+It only takes one
+to give him up to his gang.
+
+713
+00:28:44,590 --> 00:28:46,201
+Shh, shh, shh, shh.
+
+714
+00:28:46,244 --> 00:28:47,656
+You're lucky I'm not putting
+you in cuffs right now.
+
+715
+00:28:47,681 --> 00:28:49,770
+I know. I'm sorry.
+
+716
+00:28:49,814 --> 00:28:51,250
+Go say goodbye to your mother.
+
+717
+00:28:51,294 --> 00:28:52,948
+We need to get you back
+to the apartment.
+
+718
+00:28:52,990 --> 00:28:54,882
+Come on. Can't I just spend
+the rest of the day with my mom?
+
+719
+00:28:54,905 --> 00:28:56,342
+No!
+
+720
+00:28:56,385 --> 00:28:58,823
+You're an informant
+in a gang murder trial.
+
+721
+00:28:58,866 --> 00:29:00,651
+There are people trying
+to kill you.
+
+722
+00:29:00,693 --> 00:29:03,219
+By being here, you're putting
+you and your mother in danger.
+
+723
+00:29:07,005 --> 00:29:09,268
+You're right.
+I'll go with you.
+
+724
+00:29:09,311 --> 00:29:12,141
+But, please, you can't
+tell her why you're here.
+
+725
+00:29:12,183 --> 00:29:13,532
+Excuse me?
+
+726
+00:29:13,576 --> 00:29:15,404
+My mom doesn't know...
+about the gang,
+
+727
+00:29:15,448 --> 00:29:17,189
+about witness protection,
+any of it.
+
+728
+00:29:17,232 --> 00:29:19,017
+Okay, she's going to find out.
+
+729
+00:29:19,060 --> 00:29:20,472
+I know, but I just don't
+want to ruin her day.
+
+730
+00:29:20,497 --> 00:29:21,366
+Please.
+
+731
+00:29:21,411 --> 00:29:22,846
+Fine, fine.
+
+732
+00:29:22,891 --> 00:29:25,284
+Hi.
+What's going on?
+
+733
+00:29:26,111 --> 00:29:29,767
+Don't worry, Mom.
+This is just about, uh... my car.
+
+734
+00:29:29,810 --> 00:29:31,508
+It got stolen.
+
+735
+00:29:31,550 --> 00:29:33,815
+Oh, no, Daniel.
+That's terrible.
+
+736
+00:29:33,857 --> 00:29:35,859
+You just bought it. I know.
+
+737
+00:29:35,903 --> 00:29:38,123
+But I didn't want to
+worry you today.
+
+738
+00:29:38,166 --> 00:29:40,385
+You know who did it?
+
+739
+00:29:40,430 --> 00:29:42,300
+Uh... yes, ma'am.
+
+740
+00:29:42,345 --> 00:29:44,477
+That's why we need your son
+to come with us...
+
+741
+00:29:44,520 --> 00:29:46,566
+so he can view the lineup.
+
+742
+00:29:47,785 --> 00:29:49,439
+I didn't know you
+really did that.
+
+743
+00:29:49,481 --> 00:29:51,833
+Oh, yeah, all the time.
+Vital part of police work.
+
+744
+00:30:03,974 --> 00:30:05,454
+Okay, charade's over.
+
+745
+00:30:05,498 --> 00:30:06,657
+What's going on?
+Who are they?
+
+746
+00:30:07,586 --> 00:30:08,849
+They're here to kill your son.
+
+747
+00:30:08,893 --> 00:30:10,199
+What? We need to find cover.
+
+748
+00:30:10,241 --> 00:30:12,114
+Take mom, watch your backstop.
+
+749
+00:30:12,156 --> 00:30:13,462
+Daniel. Make sure the horses
+
+750
+00:30:13,506 --> 00:30:14,786
+don't get hit in the cross fire.
+
+751
+00:31:24,142 --> 00:31:25,664
+Thank you for the assist.
+
+752
+00:31:25,709 --> 00:31:27,318
+You're welcome.
+
+753
+00:31:27,363 --> 00:31:28,493
+On your knees.
+
+754
+00:31:28,538 --> 00:31:29,712
+Where's Daniel?
+
+755
+00:31:29,756 --> 00:31:32,280
+He took off.
+
+756
+00:31:32,324 --> 00:31:35,500
+Sarge, I think we got one more
+guy to worry about.
+
+757
+00:31:35,545 --> 00:31:37,502
+I'll stay with the suspect.
+You go find Daniel.
+
+758
+00:31:37,547 --> 00:31:39,069
+Yes, sir. I'm going with you.
+
+759
+00:31:39,114 --> 00:31:41,420
+Uh, Mrs. Tran, thank you.
+I-I-I've got this.
+
+760
+00:31:41,463 --> 00:31:42,987
+He got it. He got it.
+
+761
+00:31:56,392 --> 00:31:59,089
+I know you came in here, Daniel.
+
+762
+00:32:03,137 --> 00:32:05,704
+The longer you make me
+hunt for you...
+
+763
+00:32:08,838 --> 00:32:11,015
+...the more times
+I'm gonna shoot you.
+
+764
+00:32:15,150 --> 00:32:17,979
+It's a shame. I thought you were
+a stand-up guy.
+
+765
+00:32:19,632 --> 00:32:24,375
+But you flipped the second
+you felt the handcuffs go on.
+
+766
+00:32:33,124 --> 00:32:35,734
+Give me your hands.
+Give me your hands.
+
+767
+00:32:35,778 --> 00:32:37,127
+Come on.
+
+768
+00:32:37,172 --> 00:32:38,173
+Get up.
+
+769
+00:32:38,215 --> 00:32:40,131
+Daniel, it's safe to come out.
+
+770
+00:32:44,482 --> 00:32:46,136
+Come on.
+
+771
+00:33:15,513 --> 00:33:16,950
+Hey, hon.
+
+772
+00:33:16,993 --> 00:33:19,344
+Yeah, I'm on duty
+at the hospital.
+
+773
+00:33:33,923 --> 00:33:36,144
+Come on, baby.
+We gotta go.
+
+774
+00:33:37,362 --> 00:33:38,667
+Don't move.
+
+775
+00:33:38,711 --> 00:33:40,278
+W-Where's Jonah?
+
+776
+00:33:40,322 --> 00:33:41,429
+He's in the ICU.
+They think he'll pull through.
+
+777
+00:33:41,452 --> 00:33:42,759
+Now get your hands up.
+
+778
+00:33:44,630 --> 00:33:46,284
+I promised I'd put
+some bracelets on you,
+
+779
+00:33:46,327 --> 00:33:47,546
+and I keep my promises.
+
+780
+00:33:49,592 --> 00:33:52,421
+But, first, this is mine.
+
+781
+00:33:55,510 --> 00:33:57,077
+Turn around.
+
+782
+00:34:00,298 --> 00:34:01,691
+Come on.
+
+783
+00:34:04,998 --> 00:34:07,131
+That was a crazy day.Mm.
+
+784
+00:34:07,174 --> 00:34:08,456
+I can't believe Daniel's mom
+is going into
+
+785
+00:34:08,480 --> 00:34:10,047
+witness protection with him.
+
+786
+00:34:10,090 --> 00:34:13,485
+She loves him, and he clearly
+still needs her.
+
+787
+00:34:13,528 --> 00:34:15,574
+Thank you for
+the one-on-one time today.
+
+788
+00:34:15,617 --> 00:34:16,967
+I really did learn a lot.
+
+789
+00:34:17,010 --> 00:34:18,010
+You're welcome.
+
+790
+00:34:18,054 --> 00:34:19,838
+And for what it's worth,
+
+791
+00:34:19,882 --> 00:34:22,103
+I think you're a really good
+candidate for FTO.
+
+792
+00:34:22,146 --> 00:34:24,626
+And I'll tell them that
+after you pass your exam.
+
+793
+00:34:24,670 --> 00:34:26,106
+Thank you.
+Yeah.
+
+794
+00:34:26,150 --> 00:34:27,630
+Ooh!
+
+795
+00:34:27,672 --> 00:34:29,128
+You still didn't get
+anything for Luna.
+
+796
+00:34:29,152 --> 00:34:31,547
+Actually, I did.
+You just didn't notice.
+
+797
+00:34:31,590 --> 00:34:33,157
+Which means it's a good thing
+
+798
+00:34:33,201 --> 00:34:35,115
+you're not trying
+to be a detective.
+
+799
+00:34:36,639 --> 00:34:37,900
+Well, what'd you get her?
+
+800
+00:34:43,559 --> 00:34:45,342
+It is time to go home.
+
+801
+00:34:45,387 --> 00:34:46,692
+I have Indian food on the way.
+
+802
+00:34:46,735 --> 00:34:47,998
+Where's Jack?
+
+803
+00:34:48,041 --> 00:34:49,521
+Uh, my mom took him
+to Fred Segal.
+
+804
+00:34:49,565 --> 00:34:50,782
+She's gonna meet us at home.
+
+805
+00:34:50,827 --> 00:34:53,221
+That kid has a better
+wardrobe than I do.
+
+806
+00:35:01,619 --> 00:35:04,014
+I'm thinking of changing jobs.
+
+807
+00:35:04,056 --> 00:35:05,146
+To what?
+
+808
+00:35:06,798 --> 00:35:09,280
+There's an open spot
+in the D.A.'s office.
+
+809
+00:35:10,280 --> 00:35:12,065
+I am literally without words.
+
+810
+00:35:12,108 --> 00:35:14,719
+You call them the enemy
+like four times a week.
+
+811
+00:35:14,764 --> 00:35:17,027
+I know.
+Because they are.
+
+812
+00:35:17,070 --> 00:35:20,030
+And I love advocating for people
+that are caught in the system,
+
+813
+00:35:20,072 --> 00:35:23,119
+but I lose more battles
+than I win.
+
+814
+00:35:23,164 --> 00:35:25,208
+Do you think the D.A. can
+look past your suspension?
+
+815
+00:35:25,253 --> 00:35:27,429
+Considering I helped
+put away a major drug lord
+
+816
+00:35:27,472 --> 00:35:29,387
+in the process, I think so.
+
+817
+00:35:31,259 --> 00:35:34,175
+If there is even
+a 10% chance that I can
+
+818
+00:35:34,217 --> 00:35:38,788
+change the system from within,
+I have to do it.
+
+819
+00:35:38,831 --> 00:35:40,398
+Don't I?
+
+820
+00:35:40,442 --> 00:35:41,920
+I can't answer that for you.
+
+821
+00:35:43,313 --> 00:35:45,838
+But we can talk about it
+over Indian food.
+
+822
+00:35:45,882 --> 00:35:47,405
+Deal.
+
+823
+00:35:47,449 --> 00:35:49,277
+Thank you.
+
+824
+00:35:51,844 --> 00:35:54,063
+I love you. I love you, too.
+
+825
+00:35:54,106 --> 00:35:56,021
+Hey, I'm about to head out.
+You good?
+
+826
+00:35:56,065 --> 00:35:57,849
+Uh, yeah.
+I'm just finishing up.
+
+827
+00:35:57,893 --> 00:35:58,677
+I'm... I'm right behind you.
+
+828
+00:35:58,721 --> 00:36:00,331
+Okay.
+See you tomorrow.
+
+829
+00:36:15,780 --> 00:36:16,869
+Mommy!
+
+830
+00:36:18,306 --> 00:36:21,396
+Hi, baby girl.
+What are you doing here?
+
+831
+00:36:21,438 --> 00:36:23,092
+Nana brought me.
+
+832
+00:36:23,135 --> 00:36:25,094
+Maris, w-w-what's going on?
+Is Donovan okay?
+
+833
+00:36:25,137 --> 00:36:26,574
+Oh, he's fine.
+
+834
+00:36:26,617 --> 00:36:28,639
+Except for this really weird
+rash that just showed up.
+
+835
+00:36:28,664 --> 00:36:32,188
+That and the fact that I clearly
+didn't raise him right.
+
+836
+00:36:32,233 --> 00:36:34,931
+Keeping a mother from
+her child on Mother's Day?
+
+837
+00:36:34,974 --> 00:36:37,498
+I mean, what is wrong with him?
+
+838
+00:36:37,541 --> 00:36:39,195
+Thank you.
+
+839
+00:36:39,239 --> 00:36:41,458
+You don't know how much
+that means to me.
+
+840
+00:36:41,503 --> 00:36:43,286
+Yeah, I do.
+
+841
+00:36:43,331 --> 00:36:46,768
+Listen, I-I know
+I haven't done a good job
+
+842
+00:36:46,811 --> 00:36:48,726
+of keeping in touch.
+
+843
+00:36:48,771 --> 00:36:50,512
+No, t-that is not a problem.
+
+844
+00:36:50,554 --> 00:36:53,297
+I know this whole thing
+is complicated.
+
+845
+00:36:53,340 --> 00:36:58,476
+Yeah, maybe so,
+but it doesn't matter
+
+846
+00:36:58,519 --> 00:37:01,086
+what happened between
+you and Donovan.
+
+847
+00:37:01,130 --> 00:37:08,137
+You will always be
+the daughter I never had.
+
+848
+00:37:19,889 --> 00:37:21,804
+Hi.
+Hi!
+
+849
+00:37:22,586 --> 00:37:23,719
+Good day?
+
+850
+00:37:23,762 --> 00:37:25,329
+Yeah, it was okay.
+
+851
+00:37:25,373 --> 00:37:27,592
+Lucy was particularly
+annoying, but...
+
+852
+00:37:27,635 --> 00:37:29,333
+I don't believe
+that for a second.
+
+853
+00:37:30,507 --> 00:37:34,077
+Hey, I know we said Hyatt,
+but I just found
+
+854
+00:37:34,119 --> 00:37:37,472
+this super-cute Sharebnb
+in Ko Olina.
+
+855
+00:37:37,514 --> 00:37:38,864
+Cozier, right?
+
+856
+00:37:38,907 --> 00:37:40,387
+Just the two of us?
+
+857
+00:37:40,431 --> 00:37:41,650
+That's romantic.
+
+858
+00:37:44,130 --> 00:37:46,916
+Is... Is that, uh...
+Is that a new nail color?
+
+859
+00:37:47,829 --> 00:37:49,744
+Yeah.
+I just had them done.
+
+860
+00:37:49,788 --> 00:37:51,789
+Oh.
+
+861
+00:37:51,833 --> 00:37:54,139
+They're... They're pretty.
+
+862
+00:37:54,184 --> 00:37:55,664
+Yeah?
+
+863
+00:37:55,706 --> 00:37:58,362
+Uh, I'm sorry.
+
+864
+00:37:58,405 --> 00:38:00,233
+Ashley, look.
+I-I need to...
+
+865
+00:38:00,277 --> 00:38:03,106
+I need to clear the air
+about something here.
+
+866
+00:38:03,148 --> 00:38:05,237
+The reason Lucy was
+so annoying today
+
+867
+00:38:05,282 --> 00:38:07,545
+is that she is convinced
+that you think
+
+868
+00:38:07,588 --> 00:38:10,068
+I'm taking you
+to Hawaii to propose.
+
+869
+00:38:10,112 --> 00:38:12,463
+But, I mean, you don't...
+you don't think that, right?
+
+870
+00:38:12,507 --> 00:38:14,246
+'C-Cause I'm not.
+
+871
+00:38:14,291 --> 00:38:17,032
+I mean, I-I think we are
+magic together, but I...
+
+872
+00:38:17,076 --> 00:38:18,947
+Shh!
+
+873
+00:38:20,384 --> 00:38:21,951
+It's okay.
+
+874
+00:38:25,563 --> 00:38:29,349
+I am not expecting a proposal.
+
+875
+00:38:29,393 --> 00:38:30,438
+Okay.
+
+876
+00:38:30,481 --> 00:38:33,266
+I would say "no" if you asked.
+
+877
+00:38:33,309 --> 00:38:38,097
+Uh, don't get me wrong.
+I think we're magic, too.
+
+878
+00:38:38,141 --> 00:38:42,014
+But I just have
+no interest in ever
+
+879
+00:38:42,057 --> 00:38:43,885
+being married or having kids.
+
+880
+00:38:43,929 --> 00:38:46,844
+I'm just not wired that way.
+
+881
+00:38:48,369 --> 00:38:50,108
+Oh.
+
+882
+00:38:50,152 --> 00:38:51,284
+Okay.
+
+883
+00:38:51,327 --> 00:38:53,677
+Uh, great.
+
+884
+00:38:53,722 --> 00:38:55,766
+It's a vacation.
+
+885
+00:38:55,811 --> 00:38:56,961
+Look, we're gonna have
+a great time.
+
+886
+00:38:56,985 --> 00:38:58,204
+Yes, we will.
+
+887
+00:39:02,773 --> 00:39:03,775
+Will you do me a favor?
+
+888
+00:39:13,262 --> 00:39:15,612
+Hey.
+Oh, hi.
+
+889
+00:39:15,657 --> 00:39:17,876
+So, it's a good thing you
+didn't come to meet my mom,
+
+890
+00:39:17,920 --> 00:39:19,443
+because she drove me
+absolutely crazy.
+
+891
+00:39:20,487 --> 00:39:21,836
+What's wrong?
+
+892
+00:39:21,880 --> 00:39:23,664
+Nothing. I...
+
+893
+00:39:29,844 --> 00:39:31,106
+Could you just wait here?
+
+894
+00:39:31,150 --> 00:39:32,804
+I need to go find Lopez
+and figure out
+
+895
+00:39:32,847 --> 00:39:33,998
+how to put a curse on someone.
+
+896
+00:39:34,023 --> 00:39:35,590
+Yeah, right.
+
+897
+00:39:36,503 --> 00:39:37,809
+Oh, you're serious.
+
+898
+00:39:38,896 --> 00:39:40,202
+Where are you taking me?
+
+899
+00:39:40,246 --> 00:39:41,596
+Still a surprise.
+
+900
+00:39:41,639 --> 00:39:43,206
+Alright.
+My lady.
+
+901
+00:39:43,248 --> 00:39:44,400
+I didn't cheat.
+I'm not peeking.
+
+902
+00:39:44,425 --> 00:39:45,836
+Yeah, okay. Alright. I'm here. I'm ready.
+
+903
+00:39:45,860 --> 00:39:46,775
+I believe you.
+
+904
+00:39:46,818 --> 00:39:48,472
+Oh, honey.
+
+905
+00:39:50,822 --> 00:39:53,389
+I know it's been hard
+not having Dominique here.
+
+906
+00:39:53,434 --> 00:39:55,478
+First Mother's Day without her.
+
+907
+00:39:55,523 --> 00:39:59,483
+So I wanted to do something
+special for you.
+
+908
+00:39:59,527 --> 00:40:01,155
+Oh, really?
+'Cause I thought those flowers
+
+909
+00:40:01,179 --> 00:40:04,139
+you sent earlier
+was just gonna be it.
+
+910
+00:40:04,182 --> 00:40:06,184
+That was all
+an elaborate ruse, my dear.
+
+911
+00:40:06,228 --> 00:40:07,534
+Okay.
+
+912
+00:40:07,577 --> 00:40:10,146
+Are you ready?
+
+913
+00:40:10,188 --> 00:40:11,494
+Ready. You ready?
+
+914
+00:40:11,539 --> 00:40:12,670
+I'm ready, I'm ready, yes.
+
+915
+00:40:12,713 --> 00:40:13,715
+You ready?
+Yes.
+
+916
+00:40:13,757 --> 00:40:14,778
+Alright, here we go.
+
+917
+00:40:14,802 --> 00:40:16,413
+And voilà.
+
+918
+00:40:18,067 --> 00:40:19,807
+You bought me a horse.
+
+919
+00:40:19,851 --> 00:40:21,635
+No.
+Riding lessons.
+
+920
+00:40:23,376 --> 00:40:24,552
+Oh!
+
+921
+00:40:24,594 --> 00:40:28,077
+Plus, a romantic
+Mother's Day night ride
+
+922
+00:40:28,119 --> 00:40:29,686
+around the property with me.
+
+923
+00:40:29,731 --> 00:40:31,601
+Sound good?
+Yes.
+
+924
+00:40:31,646 --> 00:40:33,474
+I love it.
+Oh, thank you.
+
+925
+00:40:33,516 --> 00:40:35,039
+Alright, go.
+
+926
+00:40:35,083 --> 00:40:37,434
+Go play. Go.
+
+927
+00:40:37,478 --> 00:40:39,262
+Hi.
+
+928
+00:40:39,304 --> 00:40:40,704
+I'm gonna get you to
+buy her for me.
+
+929
+00:41:01,936 --> 00:41:03,764
+Hey!
+What a surprise.
+
+930
+00:41:03,807 --> 00:41:06,027
+Come in.
+Let me get you a drink.
+
+931
+00:41:06,985 --> 00:41:09,684
+So... how was
+horseback riding?
+
+932
+00:41:09,726 --> 00:41:11,599
+Beautiful.
+
+933
+00:41:11,641 --> 00:41:14,949
+Wade said that you
+helped him find it.
+
+934
+00:41:14,992 --> 00:41:16,733
+Something like that.
+
+935
+00:41:16,777 --> 00:41:17,929
+But you guys didn't
+come all this way
+
+936
+00:41:17,952 --> 00:41:19,954
+just to thank me for that.
+
+937
+00:41:21,304 --> 00:41:23,523
+No.
+
+938
+00:41:23,567 --> 00:41:26,309
+I just received a formal request
+
+939
+00:41:26,351 --> 00:41:28,440
+to temporarily assign you
+to another station.
+
+940
+00:41:28,485 --> 00:41:30,181
+My first day in the hole.
+
+941
+00:41:30,226 --> 00:41:31,400
+Cool.
+
+942
+00:41:33,358 --> 00:41:34,795
+Not cool?
+
+943
+00:41:34,838 --> 00:41:37,625
+No. This request
+is for the whole week.
+
+944
+00:41:37,668 --> 00:41:39,277
+That means I'll miss
+my T.O. exam.
+
+945
+00:41:39,322 --> 00:41:40,757
+Exactly.
+
+946
+00:41:40,802 --> 00:41:43,500
+And before you start
+plotting how to sneak back
+
+947
+00:41:43,543 --> 00:41:45,936
+and take it on your lunch hour,
+the station you're going to
+
+948
+00:41:45,981 --> 00:41:47,722
+is four hours away,
+on the border.
+
+949
+00:41:47,764 --> 00:41:50,072
+This is my punishment
+
+950
+00:41:50,114 --> 00:41:51,552
+for pissing off
+the Union President.
+
+951
+00:41:51,594 --> 00:41:53,204
+He knows I want
+to be a T.O.
+
+952
+00:41:53,248 --> 00:41:54,989
+Yeah.
+
+953
+00:41:55,032 --> 00:41:57,775
+Isn't there anything you can do?
+
+954
+00:41:57,818 --> 00:42:00,429
+I would if I could,
+but my hands are tied.
+
+955
+00:42:00,472 --> 00:42:04,128
+If you try to
+reject the assignment,
+
+956
+00:42:04,172 --> 00:42:07,655
+they will consider it
+disobeying a direct order.
+
+957
+00:42:07,697 --> 00:42:10,440
+So even if you pass the test,
+they wouldn't make you a T.O.
+
+958
+00:42:10,483 --> 00:42:12,398
+if you're facing
+disciplinary action.
+
+959
+00:42:14,487 --> 00:42:17,054
+Well, then you are just gonna
+have to take the next test.
+
+960
+00:42:17,099 --> 00:42:18,490
+When is it?
+
+961
+00:42:18,534 --> 00:42:20,623
+In two years.

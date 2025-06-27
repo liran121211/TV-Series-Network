@@ -1,0 +1,114 @@
+{
+    "1": {
+        "title": "Motown Funk",
+        "released": "2019-01-18",
+        "rating": "8.3",
+        "imdb_id": "tt6068892",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S3\\The_Grand_Tour_S03E01_WEBRip_x264-ION10S3E1.zip"
+    },
+    "2": {
+        "title": "The Colombia Special Part 1",
+        "released": "2019-01-25",
+        "rating": "8.5",
+        "imdb_id": "tt6068896",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S3\\The.Grand.Tour.S03E02.WEBRip.x264-ION10S3E2.zip"
+    },
+    "3": {
+        "title": "The Colombia Special Part 2",
+        "released": "2019-01-26",
+        "rating": "8.8",
+        "imdb_id": "tt6068898",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S3\\The_Grand_Tour_S03E03_WEBRip_x264-ION10S3E3.zip"
+    },
+    "4": {
+        "title": "Pick Up, Put Downs",
+        "released": "2019-02-01",
+        "rating": "7.3",
+        "imdb_id": "tt6068900",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S3\\The.Grand.Tour.S03E04.WEBRip.x264-ION10S3E4.zip"
+    },
+    "5": {
+        "title": "An Itchy Urus",
+        "released": "2019-02-08",
+        "rating": "8.6",
+        "imdb_id": "tt6068904",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S3\\The.Grand.Tour.S03E05.WEBRip.x264-ION10S3E5.zip"
+    },
+    "6": {
+        "title": "Chinese Food for Thought",
+        "released": "2019-02-15",
+        "rating": "8.2",
+        "imdb_id": "tt6068902",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S3\\The.Grand.Tour.S03E06.Chinese.Food.for.Thought.1080p.WEBRip.6CH.x265.HEVC.PSA.MajidPinkS3E6.zip"
+    },
+    "7": {
+        "title": "Well Aged Scotch",
+        "released": "2019-02-22",
+        "rating": "8.3",
+        "imdb_id": "tt6068906",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S3\\The.Grand.Tour.S03E07.WEBRip.x264-ION10S3E7.zip"
+    },
+    "8": {
+        "title": "International Buffoons Vacation",
+        "released": "2019-03-01",
+        "rating": "8.7",
+        "imdb_id": "tt6068908",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S3\\The.Grand.Tour.S03E08.WEBRip.x264-ION10S3E8.zip"
+    },
+    "9": {
+        "title": "Aston, Astronauts and Angelina's Children",
+        "released": "2019-03-08",
+        "rating": "8.0",
+        "imdb_id": "tt6068912",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S3\\The.Grand.Tour.S03E09.WEBRip.x264-ION10S3E9.zip"
+    },
+    "10": {
+        "title": "The Youth Vote",
+        "released": "2019-03-15",
+        "rating": "8.0",
+        "imdb_id": "tt6068918",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Sea to Unsalty Sea",
+        "released": "2019-03-22",
+        "rating": "8.9",
+        "imdb_id": "tt6068920",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Legends and Luggage",
+        "released": "2019-03-29",
+        "rating": "8.3",
+        "imdb_id": "tt6068916",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Mongolia Special-Survival of the Fattest",
+        "released": "2019-04-05",
+        "rating": "9.7",
+        "imdb_id": "tt10008916",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Funeral for a Ford",
+        "released": "2019-04-12",
+        "rating": "9.3",
+        "imdb_id": "tt10008922",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

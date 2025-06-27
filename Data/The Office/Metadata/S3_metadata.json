@@ -1,0 +1,186 @@
+{
+    "1": {
+        "title": "Gay Witch Hunt",
+        "released": "2006-09-21",
+        "rating": "8.9",
+        "imdb_id": "tt0859444",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Convention",
+        "released": "2006-09-28",
+        "rating": "8.0",
+        "imdb_id": "tt0859445",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Coup",
+        "released": "2006-10-05",
+        "rating": "8.4",
+        "imdb_id": "tt0868440",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S3\\The.Office.US.S03E03.HDTV.XviD-LOL.VOS3E3.zip"
+    },
+    "4": {
+        "title": "Grief Counseling",
+        "released": "2006-10-12",
+        "rating": "7.8",
+        "imdb_id": "tt0877241",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S3\\The.Office.S03E04.REPACK.HDTV.XviD.VOS3E4.zip"
+    },
+    "5": {
+        "title": "Initiation",
+        "released": "2006-10-19",
+        "rating": "7.9",
+        "imdb_id": "tt0873237",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Diwali",
+        "released": "2006-11-02",
+        "rating": "7.7",
+        "imdb_id": "tt0888293",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Branch Closing",
+        "released": "2006-11-09",
+        "rating": "8.5",
+        "imdb_id": "tt0888292",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Merger",
+        "released": "2006-11-16",
+        "rating": "8.6",
+        "imdb_id": "tt0894520",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Convict",
+        "released": "2006-11-30",
+        "rating": "8.2",
+        "imdb_id": "tt0900677",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "A Benihana Christmas",
+        "released": "2006-12-14",
+        "rating": "8.6",
+        "imdb_id": "tt0908674",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Back from Vacation",
+        "released": "2007-01-04",
+        "rating": "8.5",
+        "imdb_id": "tt0918835",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Traveling Salesmen",
+        "released": "2007-01-11",
+        "rating": "8.5",
+        "imdb_id": "tt0934246",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Return",
+        "released": "2007-01-18",
+        "rating": "8.7",
+        "imdb_id": "tt0937879",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Ben Franklin",
+        "released": "2007-02-01",
+        "rating": "7.8",
+        "imdb_id": "tt0954759",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Phyllis' Wedding",
+        "released": "2007-02-08",
+        "rating": "8.0",
+        "imdb_id": "tt0962460",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Business School",
+        "released": "2007-02-15",
+        "rating": "8.8",
+        "imdb_id": "tt0964922",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Cocktails",
+        "released": "2007-02-22",
+        "rating": "8.3",
+        "imdb_id": "tt0967814",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Negotiation",
+        "released": "2007-04-05",
+        "rating": "8.9",
+        "imdb_id": "tt0983623",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Safety Training",
+        "released": "2007-04-12",
+        "rating": "8.6",
+        "imdb_id": "tt0966362",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Product Recall",
+        "released": "2007-04-26",
+        "rating": "8.5",
+        "imdb_id": "tt1008441",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Women's Appreciation",
+        "released": "2007-05-03",
+        "rating": "8.6",
+        "imdb_id": "tt1020711",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Beach Games",
+        "released": "2007-05-10",
+        "rating": "9.0",
+        "imdb_id": "tt1028389",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "The Job",
+        "released": "2007-05-17",
+        "rating": "9.2",
+        "imdb_id": "tt1030253",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

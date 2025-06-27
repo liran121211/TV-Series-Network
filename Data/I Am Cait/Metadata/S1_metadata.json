@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Meeting Cait",
+        "released": "2015-07-26",
+        "rating": "N/A",
+        "imdb_id": "tt4888386",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\I Am Cait\\Subtitles\\S1\\I.Am.Cait.S01E01.HDTV-MegaTVS1E1.zip"
+    },
+    "2": {
+        "title": "The Road Trip: Part 1",
+        "released": "2015-08-02",
+        "rating": "N/A",
+        "imdb_id": "tt4892774",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\I Am Cait\\Subtitles\\S1\\I.Am.Cait.S01E02.The.Road.Trip.Part.One.HDTV-MegaTVS1E2.zip"
+    },
+    "3": {
+        "title": "The Road Trip: Part 2",
+        "released": "2015-08-09",
+        "rating": "N/A",
+        "imdb_id": "tt4896256",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\I Am Cait\\Subtitles\\S1\\I.Am.Cait.S01E03.The.Road.Trip.Part.Two.HDTV-MegaTVS1E3.zip"
+    },
+    "7": {
+        "title": "What's in a Name?",
+        "released": "2015-09-06",
+        "rating": "N/A",
+        "imdb_id": "tt4910800",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The New Beginning",
+        "released": "2015-09-16",
+        "rating": "N/A",
+        "imdb_id": "tt4910804",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

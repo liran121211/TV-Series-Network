@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "American Alien",
+        "released": "2018-10-14",
+        "rating": "7.1",
+        "imdb_id": "tt8227102",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Fallout",
+        "released": "2018-10-21",
+        "rating": "7.2",
+        "imdb_id": "tt8752588",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Man of Steel",
+        "released": "2018-10-28",
+        "rating": "7.5",
+        "imdb_id": "tt8685330",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Ahimsa",
+        "released": "2018-11-04",
+        "rating": "6.9",
+        "imdb_id": "tt8752590",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Parasite Lost",
+        "released": "2018-11-11",
+        "rating": "6.7",
+        "imdb_id": "tt8924672",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Call to Action",
+        "released": "2018-11-18",
+        "rating": "7.0",
+        "imdb_id": "tt8939116",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Rather the Fallen Angel",
+        "released": "2018-11-25",
+        "rating": "7.2",
+        "imdb_id": "tt8939126",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Bunker Hill",
+        "released": "2018-12-02",
+        "rating": "7.5",
+        "imdb_id": "tt9146322",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Elseworlds, Part 3",
+        "released": "2018-12-11",
+        "rating": "8.4",
+        "imdb_id": "tt8883894",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Suspicious Minds",
+        "released": "2019-01-20",
+        "rating": "7.4",
+        "imdb_id": "tt9379048",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Blood Memory",
+        "released": "2019-01-27",
+        "rating": "7.0",
+        "imdb_id": "tt9220128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Menagerie",
+        "released": "2019-02-17",
+        "rating": "7.1",
+        "imdb_id": "tt9440618",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "What's So Funny About Truth, Justice, and the American Way?",
+        "released": "2019-03-03",
+        "rating": "7.4",
+        "imdb_id": "tt9452372",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Stand and Deliver",
+        "released": "2019-03-10",
+        "rating": "7.3",
+        "imdb_id": "tt9625514",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "O Brother, Where Art Thou?",
+        "released": "2019-03-17",
+        "rating": "8.1",
+        "imdb_id": "tt9294008",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The House of L",
+        "released": "2019-03-24",
+        "rating": "8.3",
+        "imdb_id": "tt9737028",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "All About Eve",
+        "released": "2019-03-31",
+        "rating": "7.6",
+        "imdb_id": "tt9909484",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Crime and Punishment",
+        "released": "2019-04-21",
+        "rating": "7.5",
+        "imdb_id": "tt10004142",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "American Dreamer",
+        "released": "2019-04-28",
+        "rating": "7.3",
+        "imdb_id": "tt10009604",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Will the Real Miss Tessmacher Please Stand Up?",
+        "released": "2019-05-05",
+        "rating": "N/A",
+        "imdb_id": "tt9898118",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Red Dawn",
+        "released": "2019-05-12",
+        "rating": "8.1",
+        "imdb_id": "tt9826640",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Quest for Peace",
+        "released": "2019-05-19",
+        "rating": "8.2",
+        "imdb_id": "tt10056220",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

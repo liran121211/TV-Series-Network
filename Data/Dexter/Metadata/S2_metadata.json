@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "It's Alive!",
+        "released": "2007-09-30",
+        "rating": "8.6",
+        "imdb_id": "tt1013977",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S2\\Dexter.S02E01.PREAIR.It's_Alive.DVDRip.XviD-SiTVS2E1.zip"
+    },
+    "2": {
+        "title": "Waiting to Exhale",
+        "released": "2007-10-07",
+        "rating": "8.4",
+        "imdb_id": "tt1013981",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S2\\Dexter.S02E02.PREAIR.Waiting_to_Exhale.DVDRip.XviD-SiTVS2E2.zip"
+    },
+    "3": {
+        "title": "An Inconvenient Lie",
+        "released": "2007-10-14",
+        "rating": "8.5",
+        "imdb_id": "tt1013982",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S2\\Dexter.S02E03.HDTV.XviD-XORS2E3.zip"
+    },
+    "4": {
+        "title": "See-Through",
+        "released": "2007-10-21",
+        "rating": "8.3",
+        "imdb_id": "tt1013983",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S2\\Dexter.S02E04.HDTV.XviD-NoTVS2E4.zip"
+    },
+    "5": {
+        "title": "The Dark Defender",
+        "released": "2007-10-28",
+        "rating": "8.6",
+        "imdb_id": "tt1013984",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S2\\Dexter.S02E05.HDTV.XviD-XORS2E5.zip"
+    },
+    "6": {
+        "title": "Dex, Lies, and Videotape",
+        "released": "2007-11-04",
+        "rating": "8.5",
+        "imdb_id": "tt1013985",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S2\\Dexter.S02E06.Dex.Lies.And.Videotape.DVDRip.XviD-ORPHEUSS2E6.zip"
+    },
+    "7": {
+        "title": "That Night, a Forest Grew",
+        "released": "2007-11-11",
+        "rating": "8.7",
+        "imdb_id": "tt1013986",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S2\\Dexter.S02E07.HDTV.XviD-NoTVS2E7.zip"
+    },
+    "8": {
+        "title": "Morning Comes",
+        "released": "2007-11-18",
+        "rating": "9.0",
+        "imdb_id": "tt1013987",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S2\\Dexter.S02E08.HDTV.XviD-XORS2E8.zip"
+    },
+    "9": {
+        "title": "Resistance Is Futile",
+        "released": "2007-11-25",
+        "rating": "9.4",
+        "imdb_id": "tt1013988",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S2\\Dexter.S02E09.HDTV.XviD-NoTVS2E9.zip"
+    },
+    "10": {
+        "title": "There's Something About Harry",
+        "released": "2007-12-02",
+        "rating": "8.9",
+        "imdb_id": "tt1013978",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Left Turn Ahead",
+        "released": "2007-12-09",
+        "rating": "9.0",
+        "imdb_id": "tt1013979",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The British Invasion",
+        "released": "2007-12-16",
+        "rating": "9.2",
+        "imdb_id": "tt1013980",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

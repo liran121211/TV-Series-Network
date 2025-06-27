@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Chapter One: The River's Edge",
+        "released": "2017-01-26",
+        "rating": "7.5",
+        "imdb_id": "tt5728914",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S1\\Riverdale.S01E01.PROPER.720p.HDTV.x264-FLEETS1E1.zip"
+    },
+    "2": {
+        "title": "Chapter Two: A Touch of Evil",
+        "released": "2017-02-02",
+        "rating": "7.7",
+        "imdb_id": "tt5728918",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S1\\Riverdale.US.S01E02.PROPER.HDTV.x264-KILLERSS1E2.zip"
+    },
+    "3": {
+        "title": "Chapter Three: Body Double",
+        "released": "2017-02-09",
+        "rating": "7.7",
+        "imdb_id": "tt5728922",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S1\\Riverdale.US.S01E03.PROPER.HDTV.x264-KILLERSS1E3.zip"
+    },
+    "4": {
+        "title": "Chapter Four: The Last Picture Show",
+        "released": "2017-02-16",
+        "rating": "7.9",
+        "imdb_id": "tt5728924",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S1\\Riverdale.S01E04.HDTV.x264-SVA.HI.C.Chapter_Four__The_Last_Picture_ShowS1E4.zip"
+    },
+    "5": {
+        "title": "Chapter Five: Heart of Darkness",
+        "released": "2017-02-23",
+        "rating": "N/A",
+        "imdb_id": "tt5728926",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S1\\Riverdale.US.S01E05.HDTV.x264-SVAS1E5.zip"
+    },
+    "6": {
+        "title": "Chapter Six: Faster, Pussycats! Kill! Kill!",
+        "released": "2017-03-02",
+        "rating": "7.8",
+        "imdb_id": "tt5728928",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S1\\Riverdale.S01E06.HDTV.x264-SVA.HI.C.Chapter_Six__Faster,_Pussycats!_Kill!_Kill!S1E6.zip"
+    },
+    "7": {
+        "title": "Chapter Seven: In a Lonely Place",
+        "released": "2017-03-09",
+        "rating": "N/A",
+        "imdb_id": "tt5728930",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S1\\Riverdale.US.S01E07.HDTV.x264-SVAS1E7.zip"
+    },
+    "8": {
+        "title": "Chapter Eight: The Outsiders",
+        "released": "2017-03-30",
+        "rating": "7.5",
+        "imdb_id": "tt5728932",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S1\\Riverdale.US.S01E08.HDTV.x264-SVAS1E8.zip"
+    },
+    "9": {
+        "title": "Chapter Nine: La Grande Illusion",
+        "released": "2017-04-06",
+        "rating": "N/A",
+        "imdb_id": "tt5728934",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S1\\Riverdale.US.S01E09.HDTV.x264-SVAS1E9.zip"
+    },
+    "10": {
+        "title": "Chapter Ten: The Lost Weekend",
+        "released": "2017-04-13",
+        "rating": "N/A",
+        "imdb_id": "tt5728936",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Chapter Eleven: To Riverdale and Back Again",
+        "released": "2017-04-27",
+        "rating": "N/A",
+        "imdb_id": "tt5728940",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Chapter Twelve: Anatomy of a Murder",
+        "released": "2017-05-04",
+        "rating": "8.7",
+        "imdb_id": "tt5728942",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Chapter Thirteen: The Sweet Hereafter",
+        "released": "2017-05-11",
+        "rating": "8.5",
+        "imdb_id": "tt5728946",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

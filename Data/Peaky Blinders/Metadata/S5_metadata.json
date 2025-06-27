@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Black Tuesday",
+        "released": "2019-10-04",
+        "rating": "8.2",
+        "imdb_id": "tt5756000",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S5\\Peaky.Blinders.S05E01.WEBRip.x264-ION10S5E1.zip"
+    },
+    "2": {
+        "title": "Black Cats",
+        "released": "2019-10-04",
+        "rating": "8.7",
+        "imdb_id": "tt6227902",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S5\\Peaky.Blinders.S05E02.MULTi.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-ARK01S5E2.zip"
+    },
+    "3": {
+        "title": "Strategy",
+        "released": "2019-10-04",
+        "rating": "8.3",
+        "imdb_id": "tt6229668",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S5\\Peaky.Blinders.S05E03.Strategy.1080p.AMZN.WEBRip.DDP5.1.x264-AJP69S5E3.zip"
+    },
+    "4": {
+        "title": "The Loop",
+        "released": "2019-10-04",
+        "rating": "8.8",
+        "imdb_id": "tt6229670",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S5\\Peaky.Blinders.S05E04.WEBRip.x264-ION10S5E4.zip"
+    },
+    "5": {
+        "title": "The Shock",
+        "released": "2019-10-04",
+        "rating": "8.5",
+        "imdb_id": "tt6229672",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S5\\Peaky.Blinders.S05E05.WEBRip.x264-ION10S5E5.zip"
+    },
+    "6": {
+        "title": "Mr. Jones",
+        "released": "2019-10-04",
+        "rating": "N/A",
+        "imdb_id": "tt6056652",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

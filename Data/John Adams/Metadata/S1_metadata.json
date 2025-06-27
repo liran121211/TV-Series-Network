@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Join or Die",
+        "released": "2008-03-16",
+        "rating": "8.3",
+        "imdb_id": "tt1257493",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Independence",
+        "released": "2008-03-16",
+        "rating": "8.7",
+        "imdb_id": "tt1257755",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Don't Tread on Me",
+        "released": "2008-03-23",
+        "rating": "7.7",
+        "imdb_id": "tt1257492",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Reunion",
+        "released": "2008-03-30",
+        "rating": "8.1",
+        "imdb_id": "tt1260630",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Unite or Die",
+        "released": "2008-04-06",
+        "rating": "8.0",
+        "imdb_id": "tt1260631",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Peacefield",
+        "released": "2008-04-20",
+        "rating": "8.5",
+        "imdb_id": "tt1260983",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

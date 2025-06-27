@@ -1,0 +1,26 @@
+{
+    "1": {
+        "title": "Striking Vipers",
+        "released": "2019-06-05",
+        "rating": "6.8",
+        "imdb_id": "tt8503298",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Smithereens",
+        "released": "2019-06-05",
+        "rating": "7.5",
+        "imdb_id": "tt8758202",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Rachel, Jack and Ashley Too",
+        "released": "2019-06-05",
+        "rating": "6.1",
+        "imdb_id": "tt9053874",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

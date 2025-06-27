@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Avsnitt 1",
+        "released": "2011-09-21",
+        "rating": "N/A",
+        "imdb_id": "tt1829101",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S1\\The_Bridge_(2011)_-_S01E01_-_Episode_1_(1080p_BluRay_x265_Silence)S1E1.zip"
+    },
+    "2": {
+        "title": "Avsnitt 2",
+        "released": "2011-09-28",
+        "rating": "N/A",
+        "imdb_id": "tt1829103",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S1\\The_Bridge_(2011)_-_S01E02_-_Episode_2_(1080p_BluRay_x265_Silence)S1E2.zip"
+    },
+    "3": {
+        "title": "Avsnitt 3",
+        "released": "2011-10-05",
+        "rating": "N/A",
+        "imdb_id": "tt1829104",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S1\\The_Bridge_(2011)_-_S01E03_-_Episode_3_(1080p_BluRay_x265_Silence)S1E3.zip"
+    },
+    "4": {
+        "title": "Avsnitt 4",
+        "released": "2011-10-12",
+        "rating": "N/A",
+        "imdb_id": "tt1829105",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S1\\The_Bridge_(2011)_-_S01E04_-_Episode_4_(1080p_BluRay_x265_Silence)S1E4.zip"
+    },
+    "5": {
+        "title": "Avsnitt 5",
+        "released": "2011-10-19",
+        "rating": "N/A",
+        "imdb_id": "tt1790933",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S1\\The_Bridge_(2011)_-_S01E05_-_Episode_5_(1080p_BluRay_x265_Silence)S1E5.zip"
+    },
+    "6": {
+        "title": "Avsnitt 6",
+        "released": "2011-10-26",
+        "rating": "N/A",
+        "imdb_id": "tt1829106",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S1\\The_Bridge_(2011)_-_S01E06_-_Episode_6_(1080p_BluRay_x265_Silence)S1E6.zip"
+    },
+    "7": {
+        "title": "Avsnitt 7",
+        "released": "2011-11-02",
+        "rating": "N/A",
+        "imdb_id": "tt1829107",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S1\\TheBridge(2011)-S01E07-Episode7(1080pBluRayx265Silence)S1E7.zip"
+    },
+    "8": {
+        "title": "Avsnitt 8",
+        "released": "2011-11-09",
+        "rating": "N/A",
+        "imdb_id": "tt1829108",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S1\\TheBridge(2011)-S01E08-Episode8(1080pBluRayx265Silence)S1E8.zip"
+    },
+    "9": {
+        "title": "Avsnitt 9",
+        "released": "2011-11-17",
+        "rating": "8.6",
+        "imdb_id": "tt1829109",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S1\\The_Bridge_(2011)_-_S01E09_-_Episode_9_(1080p_BluRay_x265_Silence)S1E9.zip"
+    },
+    "10": {
+        "title": "Avsnitt 10",
+        "released": "2011-11-23",
+        "rating": "N/A",
+        "imdb_id": "tt1829102",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

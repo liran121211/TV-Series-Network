@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Ocean World",
+        "released": "2002-01-27",
+        "rating": "8.3",
+        "imdb_id": "tt0846812",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Blue Planet\\Subtitles\\S1\\The.Blue.Planet.S01E01.720p.BluRay.x264-YELLOWBiRDS1E1.zip"
+    },
+    "2": {
+        "title": "The Deep",
+        "released": "2001-09-19",
+        "rating": "8.7",
+        "imdb_id": "tt0846339",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Blue Planet\\Subtitles\\S1\\The.Blue.Planet.S01E02.720p.BluRay.x264-YELLOWBiRDS1E2.zip"
+    },
+    "3": {
+        "title": "Open Ocean",
+        "released": "2001-09-26",
+        "rating": "8.0",
+        "imdb_id": "tt0846813",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Blue Planet\\Subtitles\\S1\\The.Blue.Planet.S01E03.PROPER.720p.BluRay.x264-YELLOWBiRDS1E3.zip"
+    },
+    "4": {
+        "title": "Frozen Seas",
+        "released": "2001-10-04",
+        "rating": "8.2",
+        "imdb_id": "tt0846811",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Blue Planet\\Subtitles\\S1\\The.Blue.Planet.S01E04.RERiP.720p.BluRay.x264-YELLOWBiRDS1E4.zip"
+    },
+    "5": {
+        "title": "Seasonal Seas",
+        "released": "2001-10-10",
+        "rating": "8.0",
+        "imdb_id": "tt0846814",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Blue Planet\\Subtitles\\S1\\The.Blue.Planet.S01E05.720p.BluRay.x264-YELLOWBiRDS1E5.zip"
+    },
+    "6": {
+        "title": "Coral Seas",
+        "released": "2001-10-17",
+        "rating": "8.1",
+        "imdb_id": "tt0846810",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Blue Planet\\Subtitles\\S1\\The.Blue.Planet.S01E06.720p.BluRay.x264-YELLOWBiRDS1E6.zip"
+    },
+    "7": {
+        "title": "Tidal Seas",
+        "released": "2001-10-24",
+        "rating": "8.1",
+        "imdb_id": "tt0846815",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Blue Planet\\Subtitles\\S1\\The.Blue.Planet.S01E07.720p.BluRay.x264-YELLOWBiRDS1E7.zip"
+    },
+    "8": {
+        "title": "Coasts",
+        "released": "2001-10-31",
+        "rating": "8.1",
+        "imdb_id": "tt0846338",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Blue Planet\\Subtitles\\S1\\The.Blue.Planet.S01E08.720p.BluRay.x264-YELLOWBiRDS1E8.zip"
+    },
+    "9": {
+        "title": "Deep Trouble",
+        "released": "2001-10-31",
+        "rating": "9.1",
+        "imdb_id": "tt1378850",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Making Waves",
+        "released": "2001-09-12",
+        "rating": "N/A",
+        "imdb_id": "tt5351536",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

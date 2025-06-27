@@ -1,0 +1,122 @@
+{
+    "1": {
+        "title": "Episode #1.1",
+        "released": "2025-01-09",
+        "rating": "N/A",
+        "imdb_id": "tt32561670",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Pitt\\Subtitles\\S1\\The.Pitt.S01E01-02.WEB.H264-SuccessfulCrab+AMZN+MAXS1E1.zip"
+    },
+    "2": {
+        "title": "8:00 A.M.",
+        "released": "2025-01-09",
+        "rating": "8.9",
+        "imdb_id": "tt32561844",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #1.3",
+        "released": "2025-01-16",
+        "rating": "N/A",
+        "imdb_id": "tt32561845",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Pitt\\Subtitles\\S1\\The.Pitt.S01E03.WEB.H264-SuccessfulCrab+AMZN+MAXS1E3.zip"
+    },
+    "4": {
+        "title": "Episode #1.4",
+        "released": "2025-01-23",
+        "rating": "N/A",
+        "imdb_id": "tt32561846",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Pitt\\Subtitles\\S1\\The.Pitt.S01E04.WEB.h264-ETHEL+AMZN+MAXS1E4.zip"
+    },
+    "5": {
+        "title": "Episode #1.5",
+        "released": "2025-01-30",
+        "rating": "N/A",
+        "imdb_id": "tt32561847",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Pitt\\Subtitles\\S1\\The.Pitt.S01E05.WEB.H264-SuccessfulCrab+AMZN+MAXS1E5.zip"
+    },
+    "6": {
+        "title": "Episode #1.6",
+        "released": "2025-02-06",
+        "rating": "N/A",
+        "imdb_id": "tt32561854",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Pitt\\Subtitles\\S1\\The.Pitt.S01E06.WEB.H264-SuccessfulCrab+AMZN+MAXS1E6.zip"
+    },
+    "7": {
+        "title": "Episode #1.7",
+        "released": "2025-02-13",
+        "rating": "N/A",
+        "imdb_id": "tt32561852",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Pitt\\Subtitles\\S1\\The.Pitt.S01E07.WEB.H264-SuccessfulCrab+AMZN+MAXS1E7.zip"
+    },
+    "8": {
+        "title": "Episode #1.8",
+        "released": "2025-02-20",
+        "rating": "N/A",
+        "imdb_id": "tt32561853",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Pitt\\Subtitles\\S1\\The.Pitt.S01E08.WEB.H264-SuccessfulCrab+AMZN+MAXS1E8.zip"
+    },
+    "9": {
+        "title": "Episode #1.9",
+        "released": "2025-02-27",
+        "rating": "N/A",
+        "imdb_id": "tt32561856",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Pitt\\Subtitles\\S1\\The.Pitt.S01E09.WEB.h264-ETHEL+AMZN+MAXS1E9.zip"
+    },
+    "10": {
+        "title": "4:00 P.M.",
+        "released": "2025-03-06",
+        "rating": "9.0",
+        "imdb_id": "tt32561857",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Episode #1.11",
+        "released": "2025-03-13",
+        "rating": "N/A",
+        "imdb_id": "tt32561861",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "6:00 P.M.",
+        "released": "2025-03-20",
+        "rating": "9.8",
+        "imdb_id": "tt32561862",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Episode #1.13",
+        "released": "2025-03-27",
+        "rating": "N/A",
+        "imdb_id": "tt32561866",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "8:00 P.M.",
+        "released": "2025-04-03",
+        "rating": "8.9",
+        "imdb_id": "tt32561864",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Episode #1.15",
+        "released": "2025-04-10",
+        "rating": "N/A",
+        "imdb_id": "tt32561867",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

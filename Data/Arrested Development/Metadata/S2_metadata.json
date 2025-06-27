@@ -1,0 +1,146 @@
+{
+    "1": {
+        "title": "The One Where Michael Leaves",
+        "released": "2004-11-07",
+        "rating": "8.7",
+        "imdb_id": "tt0515253",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arrested Development\\Subtitles\\S2\\Arrested_Development_Season_2_2004_MovieFull-HD_BLURAY_720P_2190_E01-E18_COMPLETEDS2E1.zip"
+    },
+    "2": {
+        "title": "The One Where They Build a House",
+        "released": "2004-11-14",
+        "rating": "N/A",
+        "imdb_id": "tt0515254",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Amigos",
+        "released": "2004-11-21",
+        "rating": "8.8",
+        "imdb_id": "tt0515209",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Good Grief!",
+        "released": "2004-12-05",
+        "rating": "9.0",
+        "imdb_id": "tt0515219",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Sad Sack",
+        "released": "2004-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt0515243",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Afternoon Delight",
+        "released": "2004-12-19",
+        "rating": "N/A",
+        "imdb_id": "tt0515207",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Switch Hitter",
+        "released": "2005-01-16",
+        "rating": "8.1",
+        "imdb_id": "tt0515248",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Queen for a Day",
+        "released": "2005-01-23",
+        "rating": "N/A",
+        "imdb_id": "tt0515239",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Burning Love",
+        "released": "2005-01-30",
+        "rating": "N/A",
+        "imdb_id": "tt0515213",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Ready, Aim, Marry Me",
+        "released": "2005-02-13",
+        "rating": "N/A",
+        "imdb_id": "tt0515240",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Out on a Limb",
+        "released": "2005-03-06",
+        "rating": "8.3",
+        "imdb_id": "tt0515234",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Hand to God",
+        "released": "2005-03-06",
+        "rating": "8.7",
+        "imdb_id": "tt0515220",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Motherboy XXX",
+        "released": "2005-03-13",
+        "rating": "8.6",
+        "imdb_id": "tt0515229",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Immaculate Election",
+        "released": "2005-03-20",
+        "rating": "8.5",
+        "imdb_id": "tt0515251",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Sword of Destiny",
+        "released": "2005-03-27",
+        "rating": "N/A",
+        "imdb_id": "tt0515255",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Meat the Veals",
+        "released": "2005-04-03",
+        "rating": "9.0",
+        "imdb_id": "tt0515227",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Spring Breakout",
+        "released": "2005-04-10",
+        "rating": "N/A",
+        "imdb_id": "tt0515245",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Righteous Brothers",
+        "released": "2005-04-17",
+        "rating": "N/A",
+        "imdb_id": "tt0515241",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

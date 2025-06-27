@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Warring Factions",
+        "released": "2004-11-12",
+        "rating": "7.5",
+        "imdb_id": "tt0672475",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Interview",
+        "released": "2003-09-26",
+        "rating": "7.8",
+        "imdb_id": "tt0672476",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "On the Pull",
+        "released": "2003-10-03",
+        "rating": "8.1",
+        "imdb_id": "tt0672477",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Mark Makes a Friend",
+        "released": "2003-10-10",
+        "rating": "8.0",
+        "imdb_id": "tt0672478",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Dream Job",
+        "released": "2003-10-17",
+        "rating": "7.9",
+        "imdb_id": "tt0672479",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Funeral",
+        "released": "2003-10-24",
+        "rating": "8.0",
+        "imdb_id": "tt0672480",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

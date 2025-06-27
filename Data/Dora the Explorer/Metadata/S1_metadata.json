@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "The Big Red Chicken",
+        "released": "2000-08-14",
+        "rating": "N/A",
+        "imdb_id": "tt0765885",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Beaches",
+        "released": "2000-08-17",
+        "rating": "N/A",
+        "imdb_id": "tt1037374",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "We All Scream for Ice Cream",
+        "released": "2000-08-18",
+        "rating": "N/A",
+        "imdb_id": "tt1037394",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Treasure Island",
+        "released": "2000-08-22",
+        "rating": "N/A",
+        "imdb_id": "tt1037392",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Wizzle Wishes",
+        "released": "2000-08-28",
+        "rating": "N/A",
+        "imdb_id": "tt0910652",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Backpack",
+        "released": "2000-09-25",
+        "rating": "N/A",
+        "imdb_id": "tt0910637",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "El Coqui",
+        "released": "2001-05-02",
+        "rating": "N/A",
+        "imdb_id": "tt0910642",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

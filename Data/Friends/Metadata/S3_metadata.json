@@ -1,0 +1,202 @@
+{
+    "1": {
+        "title": "The One with the Princess Leia Fantasy",
+        "released": "1996-09-19",
+        "rating": "8.3",
+        "imdb_id": "tt0583634",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S3\\Friends_Season_3_1996_MovieFull-HD_BLURAY_1080P_3975_DOLBY_E01-E25_COMPLETEDS3E1.zip"
+    },
+    "2": {
+        "title": "The One Where No One's Ready",
+        "released": "1996-09-26",
+        "rating": "8.9",
+        "imdb_id": "tt0583464",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S3\\Friends.S03E02.720p.BluRay.x264-PSYCHDS3E2.zip"
+    },
+    "3": {
+        "title": "The One with the Jam",
+        "released": "1996-10-03",
+        "rating": "7.8",
+        "imdb_id": "tt0583619",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S3\\Friends.S03E03.720p.BluRay.x264-PSYCHDS3E3.zip"
+    },
+    "4": {
+        "title": "The One with the Metaphorical Tunnel",
+        "released": "1996-10-10",
+        "rating": "7.8",
+        "imdb_id": "tt0583629",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S3\\Friends.S03E04.720p.BluRay.x264-PSYCHDS3E4.zip"
+    },
+    "5": {
+        "title": "The One with Frank Jr.",
+        "released": "1996-10-17",
+        "rating": "8.0",
+        "imdb_id": "tt0583520",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S3\\Friends.S03E05.720p.BluRay.x264-PSYCHDS3E5.zip"
+    },
+    "6": {
+        "title": "The One with the Flashback",
+        "released": "1996-10-31",
+        "rating": "9.0",
+        "imdb_id": "tt0583606",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S3\\Friends.S03E06.720p.BluRay.x264-PSYCHDS3E6.zip"
+    },
+    "7": {
+        "title": "The One with the Race Car Bed",
+        "released": "1996-11-07",
+        "rating": "8.1",
+        "imdb_id": "tt0583637",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S3\\Friends.S03E07.720p.BluRay.x264-PSYCHDS3E7.zip"
+    },
+    "8": {
+        "title": "The One with the Giant Poking Device",
+        "released": "1996-11-14",
+        "rating": "8.2",
+        "imdb_id": "tt0583609",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S3\\Friends.S03E08.720p.BluRay.x264-PSYCHDS3E8.zip"
+    },
+    "9": {
+        "title": "The One with the Football",
+        "released": "1996-11-21",
+        "rating": "8.9",
+        "imdb_id": "tt0583607",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friends\\Subtitles\\S3\\Friends.S03E09.720p.BluRay.x264-PSYCHDS3E9.zip"
+    },
+    "10": {
+        "title": "The One Where Rachel Quits",
+        "released": "1996-12-12",
+        "rating": "8.0",
+        "imdb_id": "tt0583474",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The One Where Chandler Can't Remember Which Sister",
+        "released": "1997-01-09",
+        "rating": "8.4",
+        "imdb_id": "tt0583443",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The One with All the Jealousy",
+        "released": "1997-01-16",
+        "rating": "8.1",
+        "imdb_id": "tt0583506",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The One Where Monica and Richard Are Just Friends",
+        "released": "1997-01-30",
+        "rating": "8.1",
+        "imdb_id": "tt0583461",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The One with Phoebe's Ex-Partner",
+        "released": "1997-02-06",
+        "rating": "7.7",
+        "imdb_id": "tt0583538",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The One Where Ross and Rachel Take a Break",
+        "released": "1997-02-13",
+        "rating": "8.4",
+        "imdb_id": "tt0583487",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The One with the Morning After",
+        "released": "1997-02-20",
+        "rating": "9.0",
+        "imdb_id": "tt0583501",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The One Without the Ski Trip",
+        "released": "1997-03-06",
+        "rating": "N/A",
+        "imdb_id": "tt0583495",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The One with the Hypnosis Tape",
+        "released": "1997-03-13",
+        "rating": "8.2",
+        "imdb_id": "tt0583615",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The One with the Tiny T-Shirt",
+        "released": "1997-03-27",
+        "rating": "8.0",
+        "imdb_id": "tt0583654",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The One with the Dollhouse",
+        "released": "1997-04-10",
+        "rating": "7.9",
+        "imdb_id": "tt0583596",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The One with a Chick and a Duck",
+        "released": "1997-04-17",
+        "rating": "8.6",
+        "imdb_id": "tt0583590",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The One with the Screamer",
+        "released": "1997-04-24",
+        "rating": "8.1",
+        "imdb_id": "tt0583643",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "The One with Ross's Thing",
+        "released": "1997-05-01",
+        "rating": "N/A",
+        "imdb_id": "tt0583565",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "The One with the Ultimate Fighting Champion",
+        "released": "1997-05-08",
+        "rating": "8.0",
+        "imdb_id": "tt0583657",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "The One at the Beach",
+        "released": "1997-05-15",
+        "rating": "8.7",
+        "imdb_id": "tt0583496",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Rumble on the Wonder Wheel",
+        "released": "2022-02-18",
+        "rating": "7.8",
+        "imdb_id": "tt11434042",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Marvelous Mrs. Maisel\\Subtitles\\S4\\The.Marvelous.Mrs.Maisel.S04E01.WEBRip.x264-ION10S4E1.zip"
+    },
+    "2": {
+        "title": "Billy Jones and the Orgy Lamps",
+        "released": "2022-02-18",
+        "rating": "7.7",
+        "imdb_id": "tt14613096",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Marvelous Mrs. Maisel\\Subtitles\\S4\\The.Marvelous.Mrs.Maisel.S04E02.WEBRip.x264-ION10S4E2.zip"
+    },
+    "3": {
+        "title": "Everything Is Bellmore",
+        "released": "2022-02-25",
+        "rating": "8.3",
+        "imdb_id": "tt14887058",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Marvelous Mrs. Maisel\\Subtitles\\S4\\The.Marvelous.Mrs.Maisel.S04E03.WEBRip.x264-ION10S4E3.zip"
+    },
+    "4": {
+        "title": "Interesting People on Christopher Street",
+        "released": "2022-02-25",
+        "rating": "7.7",
+        "imdb_id": "tt14544838",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Marvelous Mrs. Maisel\\Subtitles\\S4\\The.Marvelous.Mrs.Maisel.S04E04.WEBRip.x264-ION10S4E4.zip"
+    },
+    "5": {
+        "title": "How to Chew Quietly and Influence People",
+        "released": "2022-03-04",
+        "rating": "8.3",
+        "imdb_id": "tt15034776",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Marvelous Mrs. Maisel\\Subtitles\\S4\\The.Marvelous.Mrs.Maisel.S04E05-E06.WEBRip.x264-ION10S4E5.zip"
+    },
+    "6": {
+        "title": "Maisel vs. Lennon: The Cut Contest",
+        "released": "2022-03-04",
+        "rating": "8.1",
+        "imdb_id": "tt14912342",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Ethan... Esther... Chaim",
+        "released": "2022-03-11",
+        "rating": "8.4",
+        "imdb_id": "tt15371904",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Marvelous Mrs. Maisel\\Subtitles\\S4\\The.Marvelous.Mrs.Maisel.S04xE07.WEBRip.x264-ION10_GLHFS4E7.zip"
+    },
+    "8": {
+        "title": "How Do You Get to Carnegie Hall?",
+        "released": "2022-03-11",
+        "rating": "9.1",
+        "imdb_id": "tt16479130",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

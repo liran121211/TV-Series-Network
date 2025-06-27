@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "Episode #4.1",
+        "released": "2012-09-08",
+        "rating": "7.4",
+        "imdb_id": "tt2128315",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Thick of It\\Subtitles\\S4\\TheThickOfIt_S04E01_ShandilyaS4E1.zip"
+    },
+    "2": {
+        "title": "Episode #4.2",
+        "released": "2012-09-15",
+        "rating": "N/A",
+        "imdb_id": "tt2128316",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Thick of It\\Subtitles\\S4\\TheThickOfIt_S04E02_ShandilyaS4E2.zip"
+    },
+    "3": {
+        "title": "Episode #4.3",
+        "released": "2012-09-22",
+        "rating": "N/A",
+        "imdb_id": "tt2128317",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Thick of It\\Subtitles\\S4\\TheThickOfIt_S04E03_ShandilyaS4E3.zip"
+    },
+    "4": {
+        "title": "Episode #4.4",
+        "released": "2012-09-29",
+        "rating": "N/A",
+        "imdb_id": "tt2128318",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Thick of It\\Subtitles\\S4\\TheThickOfIt_S04E04_ShandilyaS4E4.zip"
+    },
+    "5": {
+        "title": "Episode #4.5",
+        "released": "2012-10-13",
+        "rating": "N/A",
+        "imdb_id": "tt2128319",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Thick of It\\Subtitles\\S4\\TheThickOfIt_S04E05_ShandilyaS4E5.zip"
+    },
+    "6": {
+        "title": "Episode #4.6",
+        "released": "2012-10-20",
+        "rating": "8.7",
+        "imdb_id": "tt2128320",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Thick of It\\Subtitles\\S4\\TheThickOfIt_S04E06_ShandilyaS4E6.zip"
+    },
+    "7": {
+        "title": "Episode #4.7",
+        "released": "2012-10-27",
+        "rating": "8.3",
+        "imdb_id": "tt2469726",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Everyone",
+        "released": "2009-01-23",
+        "rating": "N/A",
+        "imdb_id": "tt1360617",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Cook",
+        "released": "2009-01-29",
+        "rating": "7.1",
+        "imdb_id": "tt1363309",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Thomas",
+        "released": "2009-02-05",
+        "rating": "7.8",
+        "imdb_id": "tt1363311",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Pandora",
+        "released": "2009-02-12",
+        "rating": "N/A",
+        "imdb_id": "tt1363310",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Freddie",
+        "released": "2009-02-19",
+        "rating": "7.9",
+        "imdb_id": "tt1368370",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Naomi",
+        "released": "2009-02-26",
+        "rating": "N/A",
+        "imdb_id": "tt1368372",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "JJ",
+        "released": "2009-03-05",
+        "rating": "8.6",
+        "imdb_id": "tt1368368",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Effy",
+        "released": "2009-03-12",
+        "rating": "N/A",
+        "imdb_id": "tt1368802",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Katie and Emily",
+        "released": "2009-03-19",
+        "rating": "8.3",
+        "imdb_id": "tt1368371",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Finale",
+        "released": "2009-03-26",
+        "rating": "N/A",
+        "imdb_id": "tt1368369",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Pea in a Haystack",
+        "released": "2016-10-04",
+        "rating": "8.1",
+        "imdb_id": "tt5070230",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Dong and the Gong",
+        "released": "2016-10-11",
+        "rating": "8.1",
+        "imdb_id": "tt6114352",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Little Polythene Grief Cave",
+        "released": "2016-10-18",
+        "rating": "8.1",
+        "imdb_id": "tt6114356",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "A Very Nuanced Character",
+        "released": "2016-10-25",
+        "rating": "8.0",
+        "imdb_id": "tt6114358",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The F.I.P.",
+        "released": "2016-11-01",
+        "rating": "N/A",
+        "imdb_id": "tt6114382",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

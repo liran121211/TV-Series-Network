@@ -1,0 +1,93 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Flashback_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Episode Title,Open Sans Semibold,36,&H00000000,&H000000FF,&H00F5FBFC,&H00C0D1D1,1,0,0,0,100,100,0,0,1,3,3,8,13,13,27,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.27,0:00:03.71,Italics,,0000,0000,0000,,The instant they tried to \Nhead for the galactic core,
+Dialogue: 0,0:00:03.71,0:00:09.86,Italics,,0000,0000,0000,,the Dolly was caught in the Sidereal \NMegastructure's gravity field and crashed.
+Dialogue: 0,0:00:12.82,0:00:15.61,Episode Title,,0000,0000,0000,,Today's Definitely a Different Day
+Dialogue: 0,0:00:15.61,0:00:17.66,Main,,0000,0000,0000,,Sorry, Azalyn-sama.
+Dialogue: 0,0:00:17.66,0:00:21.20,Main,,0000,0000,0000,,I've shamed myself as a pirate, \Ncrashing in a place like this.
+Dialogue: 0,0:00:21.20,0:00:23.46,Main,,0000,0000,0000,,Don't say that, Dolly.
+Dialogue: 0,0:00:23.46,0:00:25.12,Main,,0000,0000,0000,,It was a splendid landing.
+Dialogue: 0,0:00:25.12,0:00:26.31,Main,,0000,0000,0000,,That's right.
+Dialogue: 0,0:00:26.31,0:00:28.30,Main,,0000,0000,0000,,It's going to take time to do repairs,
+Dialogue: 0,0:00:28.30,0:00:30.99,Main,,0000,0000,0000,,so let's check out this \Nglass castle in front of us.
+Dialogue: 0,0:00:30.99,0:00:36.17,Main,,0000,0000,0000,,I can't guarantee its safety, so I don't \Nrecommend going towards the glass structure.
+Dialogue: 0,0:00:36.17,0:00:38.83,Main,,0000,0000,0000,,You're always such a worrywart.
+Dialogue: 0,0:00:38.83,0:00:41.87,Main,,0000,0000,0000,,I like its beauty!
+Dialogue: 0,0:00:41.87,0:00:45.14,Main,,0000,0000,0000,,I need to see if it's appropriate \Nto become a Raalgon castle.
+Dialogue: 0,0:00:45.49,0:00:48.15,Main,,0000,0000,0000,,Everyone, let's head for the glass castle!
+Dialogue: 0,0:00:48.58,0:00:49.93,Main,,0000,0000,0000,,Okay!
+Dialogue: 0,0:00:50.61,0:00:52.15,Main,,0000,0000,0000,,I don't have a stomach, but it hurts...
+Dialogue: 0,0:00:57.07,0:01:00.33,Main,,0000,0000,0000,,The castle goes deep underground!
+Dialogue: 0,0:01:01.09,0:01:02.38,Main,,0000,0000,0000,,Something's shining.
+Dialogue: 0,0:01:02.38,0:01:03.67,Main,,0000,0000,0000,,What is that?
+Dialogue: 0,0:01:03.67,0:01:05.54,Main,,0000,0000,0000,,It has to be the sun.
+Dialogue: 0,0:01:05.86,0:01:06.92,Main,,0000,0000,0000,,The sun?
+Dialogue: 0,0:01:06.92,0:01:08.31,Main,,0000,0000,0000,,I said this before,
+Dialogue: 0,0:01:08.31,0:01:09.57,Main,,0000,0000,0000,,it shines on the land,
+Dialogue: 0,0:01:09.57,0:01:11.61,Main,,0000,0000,0000,,and lights up the sky,
+Dialogue: 0,0:01:11.61,0:01:14.71,Main,,0000,0000,0000,,and brings life to Raalgon!
+Dialogue: 0,0:01:14.71,0:01:17.73,Main,,0000,0000,0000,,You've never seen the sun?
+Dialogue: 0,0:01:17.73,0:01:19.78,Main,,0000,0000,0000,,It's always night here.
+Dialogue: 0,0:01:19.78,0:01:26.05,Main,,0000,0000,0000,,That's true. Why doesn't the sun shine on \Nthe land of the Sidereal Megastructure?
+Dialogue: 0,0:01:26.05,0:01:29.48,Main,,0000,0000,0000,,And we can see it, faintly, from here.
+Dialogue: 0,0:01:29.48,0:01:30.69,Main,,0000,0000,0000,,Why?
+Dialogue: 0,0:01:31.54,0:01:33.15,Main,,0000,0000,0000,,There you are, Tylor!
+Dialogue: 0,0:01:34.07,0:01:38.04,Main,,0000,0000,0000,,That ship! It's the one the Dolly skewered!
+Dialogue: 0,0:01:38.04,0:01:41.90,Main,,0000,0000,0000,,I was almost killed by the man I believe \Nto be the captain of that ship!
+Dialogue: 0,0:01:41.90,0:01:43.09,Main,,0000,0000,0000,,Why?
+Dialogue: 0,0:01:44.34,0:01:48.89,Main,,0000,0000,0000,,I shall answer that question, \NBanjo Ueki Tylor.
+Dialogue: 0,0:01:48.89,0:01:52.16,Main,,0000,0000,0000,,Who are you, who's after Yamamoto's life?
+Dialogue: 0,0:01:52.16,0:01:54.26,Main,,0000,0000,0000,,I am Hitoshi Yashioma.
+Dialogue: 0,0:01:54.70,0:01:58.79,Main,,0000,0000,0000,,The man who'll become the new Tylor and \Nre-establish the Pan-Galactic Empire.
+Dialogue: 0,0:01:58.79,0:02:00.49,Main,,0000,0000,0000,,The new Tylor?
+Dialogue: 0,0:02:01.53,0:02:03.85,Main,,0000,0000,0000,,And Goza 168th...
+Dialogue: 0,0:02:03.85,0:02:06.53,Main,,0000,0000,0000,,I am your future husband,
+Dialogue: 0,0:02:06.53,0:02:07.98,Main,,0000,0000,0000,,Azalyn.
+Dialogue: 0,0:02:07.98,0:02:09.74,Main,,0000,0000,0000,,Are you mad?
+Dialogue: 0,0:02:09.74,0:02:13.22,Main,,0000,0000,0000,,How can you say that to \Nsomeone you've just met?!
+Dialogue: 0,0:02:14.02,0:02:16.29,Main,,0000,0000,0000,,That's my handkerchief!
+Dialogue: 0,0:02:16.29,0:02:18.66,Main,,0000,0000,0000,,Why do you have it?!
+Dialogue: 0,0:02:18.66,0:02:21.17,Main,,0000,0000,0000,,I bought this Raalgon Escape pod.
+Dialogue: 0,0:02:21.17,0:02:23.20,Main,,0000,0000,0000,,And it was inside!
+Dialogue: 0,0:02:23.20,0:02:25.68,Main,,0000,0000,0000,,Tylor, did you sell my ship?
+Dialogue: 0,0:02:25.68,0:02:27.93,Main,,0000,0000,0000,,That's my job.
+Dialogue: 0,0:02:27.93,0:02:32.85,Main,,0000,0000,0000,,The money from that pod has paid for \Nour journey these last three months.
+Dialogue: 0,0:02:32.85,0:02:34.41,Main,,0000,0000,0000,,That's mine!
+Dialogue: 0,0:02:34.41,0:02:36.30,Main,,0000,0000,0000,,You can't just sell it.
+Dialogue: 0,0:02:36.30,0:02:40.54,Main,,0000,0000,0000,,And now I've got this creepy \Nguy sniffing my handkerchief!
+Dialogue: 0,0:02:40.54,0:02:43.47,Main,,0000,0000,0000,,What can you do to fix that?!
+Dialogue: 0,0:02:43.47,0:02:48.10,Main,,0000,0000,0000,,I knew it! Tylor and Yamamoto \Nstand in the way of my goals!
+Dialogue: 0,0:02:48.70,0:02:51.79,Main,,0000,0000,0000,,Kill Tylor and Yamamoto, you guys.
+Dialogue: 0,0:02:53.02,0:02:55.51,Main,,0000,0000,0000,,Run away, guys!
+Dialogue: 0,0:02:55.51,0:02:58.90,Main,,0000,0000,0000,,I can buy some time!
+Dialogue: 0,0:02:58.90,0:03:01.15,Main,,0000,0000,0000,,That's Cyborg-JK's ribbon?
+Dialogue: 0,0:03:01.15,0:03:02.70,Main,,0000,0000,0000,,What's it doing here?
+Dialogue: 0,0:03:02.70,0:03:04.53,Main,,0000,0000,0000,,Just go!
+Dialogue: 0,0:03:05.73,0:03:08.41,Main,,0000,0000,0000,,Let's run away from the glass castle!
+Dialogue: 0,0:03:08.41,0:03:09.37,Main,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:03:09.91,0:03:11.40,Main,,0000,0000,0000,,It's nice and slippery,
+Dialogue: 0,0:03:11.40,0:03:13.24,Main,,0000,0000,0000,,so it's fun to slide down!
+Dialogue: 0,0:03:13.24,0:03:16.05,Main,,0000,0000,0000,,Now we head right to Dolly!
+Dialogue: 0,0:03:16.05,0:03:18.42,Main,,0000,0000,0000,,Don't let my future wife escape!
+Dialogue: 0,0:03:18.42,0:03:22.47,Main,,0000,0000,0000,,Kill everybody who isn't Azalyn!
+Dialogue: 0,0:03:22.47,0:03:25.59,Main,,0000,0000,0000,,This pervert named Hitoshi \NYashioma wants to marry me,
+Dialogue: 0,0:03:25.59,0:03:27.36,Main,,0000,0000,0000,,and now there are robot soldiers chasing me.
+Dialogue: 0,0:03:27.36,0:03:30.14,Main,,0000,0000,0000,,Tylor, do something!

@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Habeas Tortoise",
+        "released": "2022-09-25",
+        "rating": "6.6",
+        "imdb_id": "tt14167110",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S34\\The.Simpsons.S34xE01.1080p.WEB.H264-CAKESS34E1.zip"
+    },
+    "2": {
+        "title": "One Angry Lisa",
+        "released": "2022-10-02",
+        "rating": "6.3",
+        "imdb_id": "tt14474236",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S34\\The.Simpsons.S34E02.WEB.x264-TORRENTGALAXYS34E2.zip"
+    },
+    "3": {
+        "title": "Lisa the Boy Scout",
+        "released": "2022-10-09",
+        "rating": "6.6",
+        "imdb_id": "tt14476078",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S34\\The.Simpsons.S34xE03.1080p.WEB.H264-CAKESS34E3.zip"
+    },
+    "4": {
+        "title": "The King of Nice",
+        "released": "2022-10-16",
+        "rating": "6.4",
+        "imdb_id": "tt14476092",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S34\\The.Simpsons.S34xE04.1080p.WEB.H264-CAKESS34E4.zip"
+    },
+    "5": {
+        "title": "Not It",
+        "released": "2022-10-23",
+        "rating": "7.6",
+        "imdb_id": "tt22464956",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S34\\The.Simpsons.S34xE05.1080p.WEB.h264-KOGiS34E5.zip"
+    },
+    "6": {
+        "title": "Treehouse of Horror XXXIII",
+        "released": "2022-10-30",
+        "rating": "8.3",
+        "imdb_id": "tt22465048",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S34\\The.Simpsons.S34xE06.WEB.x264-CAKESS34E6.zip"
+    },
+    "7": {
+        "title": "From Beer to Paternity",
+        "released": "2022-11-13",
+        "rating": "6.4",
+        "imdb_id": "tt22689218",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S34\\The.Simpsons.S34xE07.720p.WEB.H264-CAKESS34E7.zip"
+    },
+    "8": {
+        "title": "Step Brother from the Same Planet",
+        "released": "2022-11-20",
+        "rating": "6.5",
+        "imdb_id": "tt23055010",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S34\\The.Simpsons.S34xE08.720p.WEB.H264-CAKESS34E8.zip"
+    },
+    "9": {
+        "title": "When Nelson Met Lisa",
+        "released": "2022-11-27",
+        "rating": "5.9",
+        "imdb_id": "tt23649524",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S34\\The.Simpsons.S34xE09.1080p.WEB.H264-CAKESS34E9.zip"
+    },
+    "10": {
+        "title": "Game Done Changed",
+        "released": "2022-12-04",
+        "rating": "6.6",
+        "imdb_id": "tt23693090",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Top Goon",
+        "released": "2022-12-11",
+        "rating": "6.7",
+        "imdb_id": "tt23708636",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "My Life as a Vlog",
+        "released": "2023-01-01",
+        "rating": "5.9",
+        "imdb_id": "tt24176456",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Many Saints of Springfield",
+        "released": "2023-02-19",
+        "rating": "6.5",
+        "imdb_id": "tt25815036",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Carl Carlson Rides Again",
+        "released": "2023-02-26",
+        "rating": "N/A",
+        "imdb_id": "tt26591142",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Bartless",
+        "released": "2023-03-05",
+        "rating": "6.7",
+        "imdb_id": "tt26672060",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Hostile Kirk Place",
+        "released": "2023-03-12",
+        "rating": "6.0",
+        "imdb_id": "tt26749192",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Pin Gal",
+        "released": "2023-03-19",
+        "rating": "6.4",
+        "imdb_id": "tt26749199",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Fan-ily Feud",
+        "released": "2023-04-23",
+        "rating": "5.4",
+        "imdb_id": "tt26749205",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Write Off This Episode",
+        "released": "2023-04-30",
+        "rating": "N/A",
+        "imdb_id": "tt26749210",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Very Hungry Caterpillars",
+        "released": "2023-05-07",
+        "rating": "N/A",
+        "imdb_id": "tt26749217",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Clown v. Board of Education",
+        "released": "2023-05-14",
+        "rating": "N/A",
+        "imdb_id": "tt26749223",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Homer's Adventures Through the Windshield Glass",
+        "released": "2023-05-21",
+        "rating": "5.9",
+        "imdb_id": "tt26749227",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "How to Make Small Talk",
+        "released": "2020-10-23",
+        "rating": "8.2",
+        "imdb_id": "tt13021522",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\How to with John Wilson\\Subtitles\\S1\\How.To.with.John.Wilson.S01E01.How.To.Make.Small.Talk.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTbS1E1.zip"
+    },
+    "2": {
+        "title": "How to Put Up Scaffolding",
+        "released": "2020-10-30",
+        "rating": "8.2",
+        "imdb_id": "tt13021528",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\How to with John Wilson\\Subtitles\\S1\\How.To.with.John.Wilson.S01E02.How.To.Put.Up.Scaffolding.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTbS1E2.zip"
+    },
+    "3": {
+        "title": "How to Improve Your Memory",
+        "released": "2020-11-06",
+        "rating": "8.2",
+        "imdb_id": "tt13021530",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "How to Cover Your Furniture",
+        "released": "2020-11-13",
+        "rating": "8.7",
+        "imdb_id": "tt13021532",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "How to Split the Check",
+        "released": "2020-11-20",
+        "rating": "8.2",
+        "imdb_id": "tt13021536",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "How to Cook the Perfect Risotto",
+        "released": "2020-11-27",
+        "rating": "9.1",
+        "imdb_id": "tt13021538",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

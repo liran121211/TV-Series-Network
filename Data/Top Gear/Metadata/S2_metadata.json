@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Nissan Sunny vs. Jet Engine",
+        "released": "2003-05-11",
+        "rating": "7.6",
+        "imdb_id": "tt0729669",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S12\\Top.Gear.S12E01.WS.PDTV.XviD-RiVERS12E1.zip"
+    },
+    "2": {
+        "title": "Election Rally Car Showdown",
+        "released": "2003-05-18",
+        "rating": "N/A",
+        "imdb_id": "tt0729670",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S12\\Top.Gear.S12E02.WS.PDTV.XviD-AFFiNiTYS12E2.zip"
+    },
+    "3": {
+        "title": "Which Country Has the Fastest Supercar?",
+        "released": "2003-05-25",
+        "rating": "N/A",
+        "imdb_id": "tt0729671",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S12\\Top.Gear.S12E03.WS.PDTV.XviD-RiVERS12E3.zip"
+    },
+    "4": {
+        "title": "Lots of Jaguars and Boris Johnson",
+        "released": "2003-06-01",
+        "rating": "N/A",
+        "imdb_id": "tt0729672",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S12\\Top.Gear.S12E04.WS.PDTV.XviD-RiVERS12E4.zip"
+    },
+    "5": {
+        "title": "Clarkson and the Porsche 911",
+        "released": "2003-06-08",
+        "rating": "N/A",
+        "imdb_id": "tt0729673",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S12\\Top.Gear.S12E05.PROPER.WS.PDTV.XviD-RiVERS12E5.zip"
+    },
+    "6": {
+        "title": "Mitsubishi Evo VIII vs. Subaru Impreza STI",
+        "released": "2003-06-15",
+        "rating": "N/A",
+        "imdb_id": "tt0729674",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S22\\Top.Gear.S22E06.HDTV.x264-ORGANiCS22E6.zip"
+    },
+    "7": {
+        "title": "Crash Testing a Renault Megane",
+        "released": "2003-06-22",
+        "rating": "N/A",
+        "imdb_id": "tt0729675",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S22\\Top.Gear.S22E07.HDTV.x264-TLAS22E7.zip"
+    },
+    "8": {
+        "title": "Topless Showdown",
+        "released": "2003-07-06",
+        "rating": "N/A",
+        "imdb_id": "tt0729676",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Clarkson Backseat Drives a Vauxhall",
+        "released": "2003-07-13",
+        "rating": "N/A",
+        "imdb_id": "tt0729677",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S22\\Top.Gear.S22E09.HDTV.x264-TVLS22E9.zip"
+    },
+    "10": {
+        "title": "Land Rover Reliability Challenge",
+        "released": "2003-07-20",
+        "rating": "N/A",
+        "imdb_id": "tt0729678",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "1": {
+        "title": "Five Little Pigs",
+        "released": "2003-12-14",
+        "rating": "8.4",
+        "imdb_id": "tt0392952",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S9\\Agatha_Christie's_Poirot_(David_Suchet)_S09E01_1080p_H.264_(moviesbyrizzo)S9E1.zip"
+    },
+    "2": {
+        "title": "Sad Cypress",
+        "released": "2003-12-26",
+        "rating": "8.0",
+        "imdb_id": "tt0402444",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Death on the Nile",
+        "released": "2004-04-12",
+        "rating": "8.0",
+        "imdb_id": "tt0406516",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Hollow",
+        "released": "2004-09-26",
+        "rating": "7.7",
+        "imdb_id": "tt0393602",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S9\\Poirot_S09E04_-_The_Hollow_(2004)S9E4.zip"
+    }
+}

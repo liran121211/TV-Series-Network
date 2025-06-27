@@ -1,0 +1,2902 @@
+1
+00:00:01,084 --> 00:00:02,419
+MAN: Here's how it is.
+
+2
+00:00:02,502 --> 00:00:06,715
+Earth got used up, so we terraformed
+a whole new galaxy of Earths--
+
+3
+00:00:06,715 --> 00:00:08,717
+some rich and plush
+with the new technologies,
+
+4
+00:00:08,717 --> 00:00:10,677
+some not so much.
+
+5
+00:00:10,677 --> 00:00:12,595
+Central planets,
+them as formed the Alliance,
+
+6
+00:00:12,595 --> 00:00:15,432
+waged war to bring
+everyone under their rule.
+
+7
+00:00:15,432 --> 00:00:18,560
+A few idiots tried to fight it,
+among them myself.
+
+8
+00:00:18,560 --> 00:00:20,812
+I'm Malcolm Reynolds,
+captain of Serenity.
+
+9
+00:00:20,812 --> 00:00:24,691
+Got a good crew--
+fighters, pilot, mechanic.
+
+10
+00:00:24,774 --> 00:00:27,652
+We even picked up a preacher
+and a bona fide companion.
+
+11
+00:00:27,861 --> 00:00:30,864
+There's a doctor, too, took his genius
+sister out of some Alliance camp,
+
+12
+00:00:30,947 --> 00:00:32,532
+so they're keeping
+a low profile.
+
+13
+00:00:32,741 --> 00:00:34,284
+You got a job,
+we can do it--
+
+14
+00:00:35,243 --> 00:00:37,037
+don't much care what it is.
+
+15
+00:00:47,505 --> 00:00:50,300
+Didn't hardly have to convert
+the ship, even.
+
+16
+00:00:50,383 --> 00:00:52,594
+Six in the corner.
+
+17
+00:00:52,677 --> 00:00:56,264
+Stronger locks, thicker doors. Keep
+everybody where they're supposed to be.
+
+18
+00:00:56,473 --> 00:00:58,266
+Don't even need
+more rations.
+
+19
+00:00:58,767 --> 00:01:00,060
+MAN: Hey!
+(men groaning)
+
+20
+00:01:00,560 --> 00:01:02,729
+Wait.
+Come on!
+
+21
+00:01:05,815 --> 00:01:07,484
+(moans)
+
+22
+00:01:10,904 --> 00:01:12,363
+(groaning)
+
+23
+00:01:12,530 --> 00:01:16,242
+You made money, huh?
+Hand over fist, my friend.
+
+24
+00:01:16,534 --> 00:01:20,497
+Water planets need labor. Terra-forming
+crews got a prodigious death rate.
+
+25
+00:01:20,997 --> 00:01:23,124
+Labor?
+You mean, uh, slaves.
+
+26
+00:01:25,168 --> 00:01:27,670
+Well, they wasn't volunteers,
+for damn sure.
+
+27
+00:01:28,671 --> 00:01:31,174
+That why you didn't have to lay in
+more rations?
+
+28
+00:01:32,550 --> 00:01:34,385
+I didn't hear no complaints.
+
+29
+00:01:34,844 --> 00:01:36,596
+JAYNE: How much money? Lots?
+
+30
+00:01:39,265 --> 00:01:42,644
+There's, uh, a chance you might wanna
+head back to the ship.
+
+31
+00:01:42,727 --> 00:01:45,355
+I'm all right.
+This is entertaining, actually.
+
+32
+00:01:45,647 --> 00:01:48,775
+Yeah? What's entertaining?
+I like watching the game.
+
+33
+00:01:49,150 --> 00:01:51,861
+Plus the other situations.
+The key seems to be...
+
+34
+00:01:51,861 --> 00:01:54,155
+giving Jayne a heavy stick
+and standing back.
+
+35
+00:01:54,239 --> 00:01:55,657
+Ha!
+
+36
+00:01:56,533 --> 00:01:59,202
+Still, might ought to clear out
+before too much longer.
+
+37
+00:01:59,202 --> 00:02:01,204
+Seems there's a thief about.
+Thief?
+
+38
+00:02:01,204 --> 00:02:03,498
+Yeah.
+Took this right off him.
+
+39
+00:02:03,790 --> 00:02:06,209
+Now, they earned that with the sweat of
+their slave-trading brows.
+
+40
+00:02:06,376 --> 00:02:09,295
+Mal.
+Oh, terrible shame.
+
+41
+00:02:09,379 --> 00:02:12,132
+'Course, they won't discover it till they
+go order their next round of drinks.
+
+42
+00:02:12,298 --> 00:02:14,384
+Wei.
+Good drinker, that one.
+
+43
+00:02:42,954 --> 00:02:44,998
+Lovely place.
+I'll tell my friends.
+
+44
+00:02:50,587 --> 00:02:53,173
+♪ Take my love, take my land ♪
+
+45
+00:02:53,256 --> 00:02:56,885
+♪ Take me where
+I cannot stand ♪
+
+46
+00:02:56,968 --> 00:02:59,679
+♪ I don't care,
+I'm still free ♪
+
+47
+00:02:59,679 --> 00:03:03,766
+♪ You can't take the sky
+from me ♪
+
+48
+00:03:03,766 --> 00:03:06,644
+♪ Take me out to the black ♪
+
+49
+00:03:06,644 --> 00:03:10,273
+♪ Tell them
+I ain't comin' back ♪
+
+50
+00:03:10,273 --> 00:03:13,109
+♪ Burn the land
+and boil the sea ♪
+
+51
+00:03:13,109 --> 00:03:16,446
+♪ You can't take the sky
+from me ♪
+
+52
+00:03:25,622 --> 00:03:28,458
+♪ There's no place I can be ♪
+
+53
+00:03:28,458 --> 00:03:31,836
+♪ Since I've found serenity ♪
+
+54
+00:03:31,836 --> 00:03:35,465
+♪ But you can't
+take the sky from me ♪♪
+
+55
+00:03:48,686 --> 00:03:50,730
+Seem to you we cleared out
+of Santho in a hurry?
+
+56
+00:03:50,730 --> 00:03:52,815
+Seems to me we do that a lot.
+
+57
+00:03:52,815 --> 00:03:55,735
+Heard tell, though, we're gonna
+stay a while on Persephone.
+
+58
+00:03:55,818 --> 00:03:57,820
+Shiny.
+Yeah?
+
+59
+00:03:58,112 --> 00:04:00,406
+Thought you get land crazy
+that long in port.
+
+60
+00:04:00,490 --> 00:04:04,953
+Probably, but I've been sane a long while
+now, and change is good.
+
+61
+00:04:05,703 --> 00:04:08,706
+Well, ain't that a joyful sight.
+
+62
+00:04:08,790 --> 00:04:11,459
+You gotta love a sunset.
+Startin' to get familiar too.
+
+63
+00:04:11,542 --> 00:04:14,045
+Like a second home.
+Persephone ain't home.
+
+64
+00:04:14,045 --> 00:04:17,465
+Too many people we need to avoid.
+Resupply,
+
+65
+00:04:17,465 --> 00:04:19,717
+look for work, move along.
+
+66
+00:04:20,176 --> 00:04:21,594
+We sniff the air.
+We don't kiss the dirt.
+
+67
+00:04:21,678 --> 00:04:23,763
+Wasn't planning on the dirt kissing, sir.
+
+68
+00:04:23,846 --> 00:04:26,849
+I wouldn't stand for it anyway, Captain,
+jealous man like me.
+
+69
+00:04:26,933 --> 00:04:28,768
+(beeping)
+Closing in.
+
+70
+00:04:29,227 --> 00:04:31,271
+ZOE: Planet's coming up
+a might fast.
+
+71
+00:04:31,354 --> 00:04:34,857
+That's just 'cause
+I'm goin' down too quick.
+
+72
+00:04:34,941 --> 00:04:36,859
+Likely crash and kill us all.
+
+73
+00:04:36,943 --> 00:04:40,697
+Well, if that happens, let me know.
+Okay.
+
+74
+00:04:40,780 --> 00:04:43,908
+Whoa! No, we're good.
+(rumbling)
+
+75
+00:04:43,992 --> 00:04:46,202
+We're good. It's okay.
+
+76
+00:04:56,629 --> 00:04:59,966
+I understand your time
+on our planet is limited,
+
+77
+00:05:00,049 --> 00:05:03,052
+and if you selected
+my proposal to hear,
+
+78
+00:05:03,136 --> 00:05:08,891
+then the honor you do me
+flatters my--my honor.
+
+79
+00:05:09,267 --> 00:05:10,768
+And I hope--
+
+80
+00:05:11,978 --> 00:05:14,314
+Now there's the smile
+made of sunlight.
+
+81
+00:05:14,397 --> 00:05:16,899
+Atherton.
+How wonderful to see you.
+
+82
+00:05:17,066 --> 00:05:20,445
+Did you get my message?
+I was extra appealing.
+
+83
+00:05:20,528 --> 00:05:22,947
+What a flattering invitation.
+I had no idea I was arriving in time...
+
+84
+00:05:23,031 --> 00:05:24,907
+for the social event of the season.
+
+85
+00:05:24,991 --> 00:05:29,162
+So, you'll accompany me?
+I ask, heart in my throat.
+
+86
+00:05:29,245 --> 00:05:32,040
+There's a certain offer
+I'm still waiting to hear about
+
+87
+00:05:32,123 --> 00:05:35,585
+(knocking)
+Yes, I imagine there is.
+
+88
+00:05:36,044 --> 00:05:38,171
+I'm delighted to say
+I'll be there.
+
+89
+00:05:38,254 --> 00:05:42,050
+Now, I'm sorry, Atherton. I have to run.
+No, please. I understand.
+
+90
+00:05:42,133 --> 00:05:44,635
+I'll see you soon, baobei.
+
+91
+00:05:47,096 --> 00:05:49,515
+Good afternoon, Captain.
+Morning.
+
+92
+00:05:49,599 --> 00:05:51,434
+We're downing in case Wash don't
+kill us all.
+
+93
+00:05:51,517 --> 00:05:53,978
+Local time's gonna be in the a.m.,
+10:00 or so.
+
+94
+00:05:54,145 --> 00:05:55,521
+Yes, I saw that.
+
+95
+00:05:56,522 --> 00:05:59,859
+Making plans?
+Atherton Wing.
+
+96
+00:06:00,693 --> 00:06:01,944
+Now, he's a regular, ain't he?
+
+97
+00:06:04,072 --> 00:06:07,283
+I've seen him before.
+Oh, I never did.
+
+98
+00:06:07,325 --> 00:06:09,744
+Not what I pictured.
+Young.
+
+99
+00:06:09,952 --> 00:06:12,205
+Must be rich too
+to afford your rates.
+
+100
+00:06:12,455 --> 00:06:15,124
+I suppose. He has engaged me
+for several days.
+
+101
+00:06:15,291 --> 00:06:18,878
+Days?
+One must have stamina.
+
+102
+00:06:18,961 --> 00:06:21,089
+Mmm. He does.
+
+103
+00:06:23,257 --> 00:06:26,094
+Well, fine.
+
+104
+00:06:27,261 --> 00:06:28,846
+Is he lettin' you out at all?
+
+105
+00:06:29,180 --> 00:06:31,474
+Actually, we're attending
+a ball tomorrow night.
+
+106
+00:06:31,808 --> 00:06:33,726
+Tell me, do all the men there
+pay for their dates,
+
+107
+00:06:33,726 --> 00:06:35,728
+or just young rich ones
+with stamina?
+
+108
+00:06:36,437 --> 00:06:38,231
+Most of the women there
+will not be Companions,
+
+109
+00:06:38,231 --> 00:06:39,941
+if that's what you're asking.
+
+110
+00:06:40,316 --> 00:06:42,235
+Perhaps the other men
+couldn't attract one.
+
+111
+00:06:42,360 --> 00:06:44,445
+Hmm.
+It sounds like...
+
+112
+00:06:44,529 --> 00:06:47,573
+the finest party I could imagine
+gettin' paid to go to.
+
+113
+00:06:48,449 --> 00:06:51,285
+I don't suppose you'd find it
+up to the standards of your outings.
+
+114
+00:06:51,744 --> 00:06:56,040
+More conversation and somewhat less petty
+theft and getting hit with pool cues.
+
+115
+00:06:56,666 --> 00:06:58,584
+Oh.
+(chuckles)
+
+116
+00:06:58,668 --> 00:07:00,920
+I understand if you need
+to go prepare...
+
+117
+00:07:00,920 --> 00:07:03,464
+for that "It's 10:00 in the morning"
+issue.
+
+118
+00:07:03,965 --> 00:07:06,134
+Yeah.
+Better go do that.
+
+119
+00:07:06,217 --> 00:07:08,886
+'Cause I think this is more
+of, uh, an evening look.
+
+120
+00:07:31,742 --> 00:07:34,871
+Ooh. Look at the pretties!
+
+121
+00:07:34,954 --> 00:07:37,123
+What am I looking at,
+the girls or the clothes?
+
+122
+00:07:37,415 --> 00:07:39,167
+JAYNE: The girls.
+The clothes, please.
+
+123
+00:07:41,669 --> 00:07:44,422
+Say, look at the fluffy one.
+
+124
+00:07:45,173 --> 00:07:46,466
+ZOE: Too much foofaraw.
+
+125
+00:07:46,841 --> 00:07:49,218
+If I'm gonna wear a dress,
+I want something with some slink.
+
+126
+00:07:49,302 --> 00:07:51,554
+You want a slinky dress?
+I can buy you a slinky dress.
+
+127
+00:07:51,637 --> 00:07:53,973
+Captain, can I have money
+for a slinky dress?
+
+128
+00:07:54,265 --> 00:07:56,434
+I'll chip in.
+I can hurt you.
+
+129
+00:07:56,517 --> 00:08:00,480
+The only place I seen something so nice is
+some of the things Inara has.
+
+130
+00:08:01,355 --> 00:08:02,857
+Well, we'd best be movin'.
+
+131
+00:08:02,857 --> 00:08:05,485
+I guess she needs all that stuff,
+the life she leads.
+
+132
+00:08:05,568 --> 00:08:10,490
+Well, sure. Sometimes the customers buy
+her things. You know, some real rich men.
+
+133
+00:08:10,573 --> 00:08:12,658
+Come on. These ain't feathers
+I'm totin' here, you know.
+
+134
+00:08:12,742 --> 00:08:16,496
+I like the ruffles. Inara gets to wear
+whatever she wants.
+
+135
+00:08:16,579 --> 00:08:18,623
+What are you gonna do
+in that rig?
+
+136
+00:08:18,706 --> 00:08:22,001
+Flounce around the engine room?
+Be like a sheep walkin' on its hind legs.
+
+137
+00:08:22,251 --> 00:08:23,836
+JAYNE: (laughs)
+
+138
+00:08:32,637 --> 00:08:34,472
+See you on the ship, Captain.
+
+139
+00:08:37,433 --> 00:08:38,851
+Ohh.
+
+140
+00:08:43,439 --> 00:08:45,107
+What, is she mad or something?
+
+141
+00:08:53,908 --> 00:08:55,868
+(weapon cocking,
+whirring)
+
+142
+00:09:02,708 --> 00:09:05,419
+Badger.
+Captain Reynolds.
+
+143
+00:09:06,045 --> 00:09:09,549
+Heard you was in town. Thought we might
+have a bit of a sit-down.
+
+144
+00:09:09,882 --> 00:09:11,509
+Prefer a bit of a "piss off."
+
+145
+00:09:12,677 --> 00:09:15,513
+I'm very sorry. Did I give you the
+impression I was askin'?
+
+146
+00:09:24,438 --> 00:09:27,191
+Seems to me the last time there was a
+chance for a little palaver,
+
+147
+00:09:27,275 --> 00:09:29,694
+we were all manner of unwelcome.
+
+148
+00:09:32,113 --> 00:09:33,364
+This ain't bad.
+
+149
+00:09:34,198 --> 00:09:36,576
+There's a trick to it.
+Wood alcohol.
+
+150
+00:09:37,034 --> 00:09:39,120
+Now we're favored guests,
+
+151
+00:09:39,495 --> 00:09:42,665
+treated to the finest in beverages
+that make you blind.
+
+152
+00:09:43,624 --> 00:09:45,084
+So what is it you need?
+
+153
+00:09:45,251 --> 00:09:49,088
+Here. Excuse me.
+There's a local...
+
+154
+00:09:49,463 --> 00:09:51,382
+by the name of
+Warrick Harrow.
+
+155
+00:09:51,716 --> 00:09:55,845
+Got some property he wants to sell
+off-planet. Fetch a high price.
+
+156
+00:09:56,095 --> 00:09:58,097
+The local powers won't
+let him sell off-world.
+
+157
+00:09:58,097 --> 00:10:01,309
+It's a conundrum. What my man Harrow
+needs himself is a smuggler.
+
+158
+00:10:01,434 --> 00:10:04,228
+Willin' to cut you in on it.
+Why me?
+
+159
+00:10:04,395 --> 00:10:07,064
+You have access to ships.
+You could do it yourself.
+
+160
+00:10:07,148 --> 00:10:10,276
+Won't deal with me direct.
+He's takin' an irrational dislike.
+
+161
+00:10:10,568 --> 00:10:12,361
+What happened?
+He see your face?
+
+162
+00:10:13,946 --> 00:10:15,573
+He's a quality gent.
+
+163
+00:10:15,656 --> 00:10:18,075
+Nose in the air like he never--
+(speaking Chinese)
+
+164
+00:10:18,117 --> 00:10:20,536
+Don't find me respectable.
+But you--
+
+165
+00:10:20,661 --> 00:10:22,455
+You, I figure, got a chance.
+
+166
+00:10:22,538 --> 00:10:25,207
+You backed out of a deal last time,
+left us hangin'.
+
+167
+00:10:25,791 --> 00:10:29,045
+Hurt our feelings.
+You recall why that took place?
+
+168
+00:10:29,462 --> 00:10:32,006
+Had a problem
+with your attitude is why.
+
+169
+00:10:32,131 --> 00:10:34,675
+Felt you was--
+What's the word?
+
+170
+00:10:35,885 --> 00:10:38,262
+Pretentious?
+Exactly.
+
+171
+00:10:38,471 --> 00:10:40,306
+You think you're better than other people.
+
+172
+00:10:40,765 --> 00:10:42,308
+Just the ones I'm better than.
+
+173
+00:10:42,767 --> 00:10:44,518
+And now I'm thinkin' that very quality...
+
+174
+00:10:44,602 --> 00:10:46,312
+is the one you're
+placing value on today.
+
+175
+00:10:46,479 --> 00:10:49,357
+I place value on the fact
+that stick up your pigu...
+
+176
+00:10:49,440 --> 00:10:51,776
+is about as large
+as the one that Harrow's got.
+
+177
+00:10:51,942 --> 00:10:54,987
+How would you even set up a meet?
+The man won't deal with you.
+
+178
+00:10:55,446 --> 00:10:58,199
+Know a place he'll be.
+Safe place.
+
+179
+00:10:58,199 --> 00:11:02,244
+Usin' some new tech gun scans.
+High class too. Won't let me in there.
+
+180
+00:11:02,953 --> 00:11:04,330
+You might slip in.
+
+181
+00:11:05,289 --> 00:11:08,417
+'Course, you couldn't buy an invite
+with a diamond the size of a testicle.
+
+182
+00:11:08,959 --> 00:11:10,628
+I got my hands
+on a couple.
+
+183
+00:11:17,510 --> 00:11:20,346
+Of invites.
+You want this meetin' or not?
+
+184
+00:11:22,932 --> 00:11:24,975
+(chattering)
+♪♪ (classical)
+
+185
+00:11:29,313 --> 00:11:32,483
+Colonel Cyrus Mumsen
+and escort.
+
+186
+00:11:36,362 --> 00:11:38,197
+William and Lady Courtland.
+
+187
+00:11:50,459 --> 00:11:53,921
+Atherton Wing
+and Inara Serra.
+
+188
+00:12:09,270 --> 00:12:11,897
+Roberta,
+it's been too long.
+
+189
+00:12:16,694 --> 00:12:19,447
+(speaking Chinese)
+
+190
+00:12:21,449 --> 00:12:23,868
+Half the men in this room wish
+you were on their arm tonight.
+
+191
+00:12:24,285 --> 00:12:26,662
+Only half?
+I must be losing...
+
+192
+00:12:26,704 --> 00:12:28,748
+my undefinable allure.
+
+193
+00:12:29,081 --> 00:12:30,791
+Oh, it's not that undefinable.
+
+194
+00:12:31,542 --> 00:12:33,502
+All of them wish
+they were in your bed.
+
+195
+00:12:36,213 --> 00:12:38,466
+I'm looking for the boy with the shimmer
+wine.
+
+196
+00:12:38,716 --> 00:12:40,301
+Oh, she blushes.
+
+197
+00:12:41,051 --> 00:12:43,053
+Not many in your line
+of work do that.
+
+198
+00:12:45,181 --> 00:12:49,101
+You are a very singular woman,
+and I find--
+
+199
+00:12:51,103 --> 00:12:53,647
+I find I admire you
+more and more.
+
+200
+00:13:03,365 --> 00:13:07,369
+Kaylee. Kaylee.
+
+201
+00:13:08,621 --> 00:13:10,915
+I'm not speaking to you,
+Captain.
+
+202
+00:13:11,248 --> 00:13:13,751
+Got no need to speak.
+Come on. Got a job for you.
+
+203
+00:13:17,421 --> 00:13:18,255
+(mouthing words)
+
+204
+00:13:18,339 --> 00:13:19,882
+♪♪ (chamber)
+
+205
+00:13:26,555 --> 00:13:28,974
+I'm trying to offer
+you something, you know.
+
+206
+00:13:29,391 --> 00:13:30,559
+A life...
+
+207
+00:13:31,769 --> 00:13:33,270
+if you want it.
+
+208
+00:13:34,313 --> 00:13:35,940
+Atherton.
+
+209
+00:13:38,234 --> 00:13:42,071
+You can live here on Persephone
+as my personal Companion.
+
+210
+00:13:45,199 --> 00:13:46,659
+You're a generous man.
+
+211
+00:13:48,160 --> 00:13:49,870
+That is not a yes.
+
+212
+00:13:50,913 --> 00:13:53,040
+It's not a no either.
+
+213
+00:13:54,458 --> 00:13:56,460
+You look gorgeous, dear.
+
+214
+00:14:01,131 --> 00:14:04,927
+You belong here, Inara, not on a flying
+piece of go-se.
+
+215
+00:14:05,219 --> 00:14:07,930
+You see that, don't you?
+Atherton, language.
+
+216
+00:14:08,264 --> 00:14:09,974
+What? Piece of go-se?
+
+217
+00:14:10,307 --> 00:14:12,601
+But it is a piece of go-se.
+
+218
+00:14:12,768 --> 00:14:16,981
+MAN: Miss Kaywinnit Lee Frye
+and escort.
+
+219
+00:14:17,731 --> 00:14:18,983
+Kaylee?
+
+220
+00:14:32,037 --> 00:14:33,372
+Oh, go-se.
+
+221
+00:15:11,785 --> 00:15:14,163
+MAL: Does, um--
+Does this seem kind of tight?
+
+222
+00:15:15,122 --> 00:15:16,498
+It shows off your backside.
+
+223
+00:15:16,665 --> 00:15:18,542
+Did you see the chandelier?
+It's hovering.
+
+224
+00:15:18,751 --> 00:15:21,503
+What's the point of that, I wonder?
+Oh, mangos!
+
+225
+00:15:21,587 --> 00:15:24,173
+MAL: I mean, I see how they did it.
+I just ain't gettin' the why.
+
+226
+00:15:24,882 --> 00:15:27,760
+These girls have
+the most beautiful dresses.
+
+227
+00:15:28,052 --> 00:15:30,179
+And so do I. How about that?
+Yeah, well, just be careful.
+
+228
+00:15:30,262 --> 00:15:32,514
+We cheated Badger out of good money
+to buy that frippery,
+
+229
+00:15:32,598 --> 00:15:34,433
+and you're supposed to
+make me look respectable.
+
+230
+00:15:34,892 --> 00:15:36,852
+Yes, sir, Captain Tight-pants.
+
+231
+00:15:37,144 --> 00:15:39,146
+Okay. I'm lookin' for our guy Harrow.
+
+232
+00:15:39,605 --> 00:15:42,149
+And Inara. We should look for her, right?
+Just to say hello at her.
+
+233
+00:15:42,775 --> 00:15:45,819
+Well, if we see her.
+I think she's wearing gold.
+
+234
+00:15:46,737 --> 00:15:50,532
+Okay, help me find our man. He's supposed
+to be older, kind of stocky.
+
+235
+00:15:50,616 --> 00:15:53,994
+Wears a red sash crossways.
+Why does he do that?
+
+236
+00:15:54,161 --> 00:15:56,497
+Maybe he won the Miss Persephone pageant.
+Just help me look.
+
+237
+00:15:56,747 --> 00:15:57,915
+Is that him?
+
+238
+00:16:00,668 --> 00:16:01,877
+That's the buffet table.
+
+239
+00:16:02,503 --> 00:16:05,965
+Well, how can we be sure
+unless we question it?
+
+240
+00:16:07,549 --> 00:16:09,134
+Fine.
+Don't make yourself sick.
+
+241
+00:16:09,385 --> 00:16:10,970
+Xie-xie, Captain.
+
+242
+00:16:26,360 --> 00:16:27,987
+Ante up, gentlemen.
+
+243
+00:16:28,570 --> 00:16:30,072
+Dishes.
+
+244
+00:16:31,198 --> 00:16:34,201
+Dishes. Could do
+with less of them.
+
+245
+00:16:35,452 --> 00:16:36,537
+Garbage.
+
+246
+00:16:37,997 --> 00:16:42,042
+Small card.
+Plum.
+
+247
+00:16:42,543 --> 00:16:43,627
+Plums are tall.
+
+248
+00:16:45,129 --> 00:16:47,006
+I'll take two.
+
+249
+00:16:47,798 --> 00:16:49,091
+Two.
+
+250
+00:16:49,550 --> 00:16:53,429
+No tall card claim.
+Speakin' of garbage, I'll take three.
+
+251
+00:16:53,637 --> 00:16:57,641
+Three. Dealer forced
+to claim the tall.
+
+252
+00:17:02,771 --> 00:17:06,442
+What do you suppose the captain and Kaylee
+are doing now?
+
+253
+00:17:06,942 --> 00:17:08,277
+Septic vac.
+
+254
+00:17:08,527 --> 00:17:11,864
+Eatin' steaks off of plates made of solid
+money, like as anything.
+
+255
+00:17:12,239 --> 00:17:14,450
+I fold.
+SIMON: Me too.
+
+256
+00:17:14,783 --> 00:17:17,911
+Tall cards 'round my neck like a weight.
+Take it, Shepherd.
+
+257
+00:17:18,287 --> 00:17:20,831
+Ah, that's a nice pile of things
+I don't have to do.
+
+258
+00:17:22,332 --> 00:17:24,001
+It's the ones
+that'll take you.
+
+259
+00:17:24,752 --> 00:17:27,671
+They're the ones reaching and doing it.
+
+260
+00:17:28,630 --> 00:17:31,383
+They're the ones keeping you--
+
+261
+00:17:31,467 --> 00:17:32,593
+River?
+Is she hurt?
+
+262
+00:17:35,095 --> 00:17:38,682
+You'd better see to her.
+That's a bad habit for a fugitive.
+
+263
+00:17:39,600 --> 00:17:42,603
+Calm down.
+Do that in public, get herself hauled off.
+
+264
+00:17:42,811 --> 00:17:44,688
+They're everywhere.
+Calm down.
+
+265
+00:17:44,730 --> 00:17:47,775
+Hands go everywhere and--(babbling)
+It's okay. Shh.
+
+266
+00:17:48,108 --> 00:17:52,863
+She didn't harm much.
+We'll have a few mystery meals.
+
+267
+00:17:52,863 --> 00:17:55,282
+Sometimes... afraid.
+It's okay.
+
+268
+00:17:55,365 --> 00:17:58,911
+It's okay.
+Shh, shh, shh, shh.
+
+269
+00:17:59,661 --> 00:18:00,954
+And they come.
+
+270
+00:18:01,538 --> 00:18:04,708
+So are we gonna play cards
+or screw around?
+
+271
+00:18:05,751 --> 00:18:07,419
+(moaning)
+
+272
+00:18:16,178 --> 00:18:17,221
+Ahh.
+
+273
+00:18:17,763 --> 00:18:20,682
+I thought you wanted to spend
+more time off-ship this visit.
+
+274
+00:18:21,308 --> 00:18:22,601
+Ohh.
+
+275
+00:18:24,520 --> 00:18:27,397
+Out there it seems like
+it's all fancy parties.
+
+276
+00:18:27,481 --> 00:18:30,025
+Mmm.
+I like our party better.
+
+277
+00:18:30,484 --> 00:18:32,736
+The dress code's easier,
+and I know all the steps.
+
+278
+00:18:32,736 --> 00:18:36,198
+(chuckling)
+I'd say you do at that.
+
+279
+00:18:38,659 --> 00:18:39,952
+Oh.
+
+280
+00:18:40,953 --> 00:18:43,080
+Mmm.
+Don't fall asleep now.
+
+281
+00:18:43,580 --> 00:18:46,041
+Sleepiness is weakness of character.
+Ask anyone.
+
+282
+00:18:46,333 --> 00:18:49,753
+It is not.
+You are acting captain.
+
+283
+00:18:49,837 --> 00:18:51,505
+Know what happens
+if you fall asleep now?
+
+284
+00:18:51,922 --> 00:18:55,092
+Jayne slits my throat
+and takes over.
+
+285
+00:18:57,010 --> 00:18:59,638
+That's right.
+And we can't stop it.
+
+286
+00:19:01,515 --> 00:19:03,517
+Well, I wash my hands of it.
+
+287
+00:19:04,184 --> 00:19:06,145
+It's a hopeless case.
+
+288
+00:19:06,770 --> 00:19:10,566
+I'll read a nice poem at the funeral,
+something with imagery.
+
+289
+00:19:10,649 --> 00:19:15,070
+You could lock the door and keep the
+power-hungry maniac at bay.
+
+290
+00:19:15,779 --> 00:19:18,490
+I don't know. I'm starting to like
+this poetry idea now.
+
+291
+00:19:18,574 --> 00:19:19,825
+Oh.
+
+292
+00:19:20,450 --> 00:19:23,745
+Here lies
+my beloved Zoe,
+
+293
+00:19:23,829 --> 00:19:26,999
+my autumn flower.
+(slapping flesh)
+
+294
+00:19:27,457 --> 00:19:31,670
+Somewhat less attractive now that she's
+all corpsified and gross.
+
+295
+00:19:31,753 --> 00:19:33,881
+(laughing)
+Oh, no!
+
+296
+00:19:34,673 --> 00:19:36,133
+♪♪ (chamber)
+
+297
+00:19:43,974 --> 00:19:45,767
+Aren't they something?
+
+298
+00:19:45,851 --> 00:19:50,647
+They're like butterflies or little pieces
+of wrapping paper blowing around.
+
+299
+00:20:01,158 --> 00:20:02,534
+Hello.
+
+300
+00:20:02,784 --> 00:20:05,787
+Don't, um--
+Have we been introduced?
+
+301
+00:20:06,163 --> 00:20:08,415
+Oh. I'm Kaylee.
+
+302
+00:20:08,665 --> 00:20:11,960
+Banning.
+And this is Dester, Cabott and Zoe.
+
+303
+00:20:12,044 --> 00:20:14,630
+Don't you just love this party?
+
+304
+00:20:14,713 --> 00:20:18,592
+Everything's so fancy, and there's some
+kind of hot cheese over there.
+
+305
+00:20:19,051 --> 00:20:20,636
+It's not as good
+as last year.
+
+306
+00:20:20,719 --> 00:20:22,971
+Oh, really?
+What'd they have last year?
+
+307
+00:20:22,971 --> 00:20:24,932
+Standards.
+
+308
+00:20:27,517 --> 00:20:29,144
+Who made your dress, Kaylee?
+
+309
+00:20:29,228 --> 00:20:34,399
+Oh, do you like it? When I saw the
+ruffles, I just couldn't resist.
+
+310
+00:20:35,651 --> 00:20:37,569
+You ought to see
+to your girl.
+
+311
+00:20:39,446 --> 00:20:42,199
+Shu muh?
+Your girl.
+
+312
+00:20:42,324 --> 00:20:46,703
+She's not very good. She made you a dress
+looks like you bought it in a store.
+
+313
+00:20:48,372 --> 00:20:51,208
+Oh. I didn't know.
+
+314
+00:20:51,583 --> 00:20:54,294
+Why, Banning Miller. What a vision you are
+in your fine dress.
+
+315
+00:20:54,628 --> 00:20:58,757
+Must've taken a dozen slaves a dozen days
+to get you into that getup.
+
+316
+00:20:59,049 --> 00:21:01,802
+'Course, your daddy tells me it
+takes the space of a schoolboy's wink...
+
+317
+00:21:01,885 --> 00:21:04,012
+to get you out of it again.
+
+318
+00:21:11,561 --> 00:21:13,146
+Forgive my rudeness.
+
+319
+00:21:13,772 --> 00:21:16,483
+I cannot abide
+useless people.
+
+320
+00:21:32,249 --> 00:21:34,543
+Oh, no.
+Thank you very much.
+
+321
+00:21:34,626 --> 00:21:38,338
+Beg pardon, but would you be
+Mr. Warrick Harrow?
+
+322
+00:21:38,422 --> 00:21:41,466
+Sir Warrick Harrow.
+The sash.
+
+323
+00:21:41,466 --> 00:21:42,801
+The sash?
+
+324
+00:21:43,343 --> 00:21:44,845
+It indicates lord-hood.
+
+325
+00:21:45,262 --> 00:21:48,223
+And it's--
+it's doing a great job.
+
+326
+00:21:51,852 --> 00:21:54,438
+Sir, my name's Malcom Reynolds.
+
+327
+00:21:54,521 --> 00:21:56,440
+I captain a ship named Serenity.
+
+328
+00:21:56,523 --> 00:21:58,400
+I mention this because
+I've been led to understand...
+
+329
+00:21:58,483 --> 00:22:01,153
+you want to move some property off-world.
+INARA: Stop it.
+
+330
+00:22:01,236 --> 00:22:03,739
+(chuckling)
+
+331
+00:22:04,239 --> 00:22:06,783
+Some property you want
+to move off-world discreetly.
+
+332
+00:22:08,076 --> 00:22:11,496
+You're mistaken, sir.
+I'm an honest man.
+
+333
+00:22:11,705 --> 00:22:13,373
+It seems to me
+there's nothing dishonest...
+
+334
+00:22:13,457 --> 00:22:15,667
+about getting your goods
+to people what need 'em.
+
+335
+00:22:16,293 --> 00:22:17,711
+Whom do you represent?
+
+336
+00:22:18,211 --> 00:22:19,963
+Represent isn't exactly the--
+
+337
+00:22:20,047 --> 00:22:24,676
+Don't waste my time.
+Fellow called Badger.
+
+338
+00:22:25,302 --> 00:22:28,722
+I know him, and I think
+he's a psychotic lowlife.
+
+339
+00:22:28,722 --> 00:22:32,142
+And I think calling him that is an
+insult to the psychotic lowlife community.
+
+340
+00:22:32,225 --> 00:22:34,269
+But the deal is solid.
+
+341
+00:22:34,436 --> 00:22:38,523
+Sorry to interrupt. Sir Warrick, I know
+you from the club, I believe.
+
+342
+00:22:39,107 --> 00:22:43,487
+Captain, this is Atherton Wing.
+Atherton, Captain Mal Reynolds.
+
+343
+00:22:43,695 --> 00:22:47,324
+Pleased to meet ya. Inara, I didn't
+realize you were going to this party.
+
+344
+00:22:47,616 --> 00:22:50,327
+It's the only party.
+And I can see why.
+
+345
+00:22:50,410 --> 00:22:54,915
+How about that floating chandelier?
+Almost outshines our girl here.
+
+346
+00:22:58,502 --> 00:23:01,129
+Ath--
+Can I call you Ath?
+
+347
+00:23:02,255 --> 00:23:05,842
+Inara has spoken of you to me.
+She made a point of your generosity.
+
+348
+00:23:05,926 --> 00:23:09,388
+Given that, I'm sure you won't mind if
+ask Inara the favor of a dance?
+
+349
+00:23:13,683 --> 00:23:14,643
+Of course.
+
+350
+00:23:24,111 --> 00:23:28,281
+You're a brave man.
+I know what's mine.
+
+351
+00:23:30,117 --> 00:23:31,910
+This dance I think
+I actually know.
+
+352
+00:23:40,377 --> 00:23:42,754
+Why are you here?
+Business. Same as you.
+
+353
+00:23:42,963 --> 00:23:45,924
+I was talking to a contact about a
+smuggling job, and you came over to me.
+
+354
+00:23:45,924 --> 00:23:48,593
+You were staring at me.
+I saw you is all.
+
+355
+00:23:48,593 --> 00:23:50,470
+You stand out.
+
+356
+00:23:54,474 --> 00:23:57,394
+In this company, Captain, I believe you're
+the one who stands out.
+
+357
+00:23:57,394 --> 00:23:59,688
+Well, maybe I just want
+to see a professional at work.
+
+358
+00:23:59,938 --> 00:24:01,815
+Is this the hardest part,
+or does that come later?
+
+359
+00:24:01,982 --> 00:24:04,234
+You have no call trying to make me
+ashamed of my job.
+
+360
+00:24:04,317 --> 00:24:07,154
+What I do is legal.
+And how's that smuggling coming?
+
+361
+00:24:08,655 --> 00:24:09,781
+My work's illegal,
+
+362
+00:24:09,865 --> 00:24:11,116
+but at least it's honest.
+What?
+
+363
+00:24:11,241 --> 00:24:13,452
+Well, this--
+the lie of it.
+
+364
+00:24:13,452 --> 00:24:16,788
+That man parading you around on his arm
+as if he actually won you,
+
+365
+00:24:16,872 --> 00:24:19,458
+as if he loves you, and everyone here
+going along with it.
+
+366
+00:24:20,584 --> 00:24:22,085
+These people like me,
+and I like them.
+
+367
+00:24:22,169 --> 00:24:24,838
+I like Atherton too, by the way.
+Well, sure.
+
+368
+00:24:24,921 --> 00:24:28,508
+What's not to like?
+I'm liable to sleep with him myself.
+
+369
+00:24:28,592 --> 00:24:31,094
+And he likes me
+whether you see it or not.
+
+370
+00:24:31,261 --> 00:24:34,514
+Of course.
+He's made me an offer.
+
+371
+00:24:35,390 --> 00:24:38,101
+You may think he doesn't honor me,
+but he wants me to live here.
+
+372
+00:24:38,268 --> 00:24:41,104
+I'd be his personal Companion.
+I could belong here.
+
+373
+00:24:41,104 --> 00:24:43,398
+Call me pretentious, but there is some
+appeal in that.
+
+374
+00:24:45,025 --> 00:24:47,736
+You're right.
+Got no call to stop you.
+
+375
+00:24:49,696 --> 00:24:53,033
+You've got the right
+to a decent life.
+
+376
+00:24:53,658 --> 00:24:55,076
+I see Kaylee's here.
+
+377
+00:24:55,452 --> 00:24:57,412
+Cried Cinderella tears--
+You should have seen her...
+
+378
+00:24:57,496 --> 00:24:59,873
+when I told her she could have
+that layer cake she's wearing.
+
+379
+00:24:59,956 --> 00:25:01,124
+I think she looks adorable.
+
+380
+00:25:01,124 --> 00:25:04,336
+Yeah, but I never said it.
+
+381
+00:25:05,629 --> 00:25:08,256
+I'm not saying the 80-04 is hard to
+repair. It just ain't worth it.
+
+382
+00:25:08,381 --> 00:25:10,550
+It's a fine machine.
+You just keep it tuned.
+
+383
+00:25:10,550 --> 00:25:12,719
+(speaking Chinese)
+The extenders ain't braced.
+
+384
+00:25:12,719 --> 00:25:14,888
+I've been telling him
+to buy an 80-10 for years.
+
+385
+00:25:14,888 --> 00:25:17,557
+Those 'tenders snap off, don't matter
+how good the engine's cyclin'.
+
+386
+00:25:17,682 --> 00:25:19,142
+Miss Kaylee, if I could request
+the honor--
+
+387
+00:25:19,226 --> 00:25:21,311
+Wait a minute. Let her talk.
+She's talkin'.
+
+388
+00:25:21,394 --> 00:25:23,230
+By the way,
+the 80-10's the same machine.
+
+389
+00:25:23,313 --> 00:25:25,982
+They just changed the plating,
+hoped no one noticed.
+
+390
+00:25:26,066 --> 00:25:27,609
+(all laughing)
+
+391
+00:25:43,625 --> 00:25:48,004
+Possible you're right. This ain't my
+kind of party. Whoa, now.
+
+392
+00:25:48,505 --> 00:25:50,215
+Watch yourself.
+No need for hands on.
+
+393
+00:25:50,298 --> 00:25:53,552
+Excuse me. She's not here with you,
+Captain. She's mine.
+
+394
+00:25:53,760 --> 00:25:56,179
+Yours?
+She don't belong to nobody.
+
+395
+00:25:57,806 --> 00:26:00,308
+Money changed hands,
+which makes her mine tonight.
+
+396
+00:26:00,392 --> 00:26:02,602
+And no matter how you dress her up,
+she's still--
+
+397
+00:26:07,732 --> 00:26:09,985
+Turns out this is my kind of party.
+Oh, Mal.
+
+398
+00:26:10,068 --> 00:26:12,487
+What? The man was out of line.
+
+399
+00:26:12,487 --> 00:26:15,615
+I accept.
+That's great. What?
+
+400
+00:26:16,032 --> 00:26:19,411
+There has been a challenge.
+I hope you're prepared, Captain.
+
+401
+00:26:19,744 --> 00:26:22,080
+What, you all talkin' about a fight?
+Well, that's fine.
+
+402
+00:26:22,080 --> 00:26:24,583
+Let's get out of here.
+It's not a fistfight, Mal.
+
+403
+00:26:25,083 --> 00:26:27,419
+The duel will be met tomorrow morning
+at Kaytree Pond.
+
+404
+00:26:27,419 --> 00:26:29,462
+Well, why wait?
+Where's that guard?
+
+405
+00:26:29,462 --> 00:26:31,631
+He collected
+a whole mess of pistols.
+
+406
+00:26:31,715 --> 00:26:34,759
+If you require it, any gentleman here can
+give you use of a sword.
+
+407
+00:26:35,552 --> 00:26:37,554
+Use of a sw--what?
+
+408
+00:26:43,226 --> 00:26:45,812
+What's going on?
+I'm not rightly sure. What's going on?
+
+409
+00:26:46,521 --> 00:26:48,732
+Well, first off, you'll be put up in
+lodgings for the night,
+
+410
+00:26:48,815 --> 00:26:49,774
+so you don't disappear.
+
+411
+00:26:50,609 --> 00:26:52,736
+I wouldn't blame you,
+incidentally.
+
+412
+00:26:52,736 --> 00:26:56,740
+Wing may be a spoiled dandy,
+but he's an expert swordsman.
+
+413
+00:26:56,948 --> 00:26:58,992
+He's killed a dozen men
+with the long blade.
+
+414
+00:26:58,992 --> 00:27:01,161
+You're the only one
+gave him a reason.
+
+415
+00:27:01,161 --> 00:27:03,663
+Oh, this is a joke.
+INARA: You'll need a second.
+
+416
+00:27:03,955 --> 00:27:07,208
+What's that? I'll take on the job.
+He fights if you refuse.
+
+417
+00:27:08,001 --> 00:27:10,462
+Inara, come with me, please.
+
+418
+00:27:11,296 --> 00:27:13,673
+Now, you taking on this job,
+
+419
+00:27:13,882 --> 00:27:15,800
+being my second--
+does this mean we're in business?
+
+420
+00:27:16,593 --> 00:27:18,720
+It means you're in mortal danger.
+
+421
+00:27:19,512 --> 00:27:23,892
+But you mussed up Atherton's face,
+and that has endeared you to me somewhat.
+
+422
+00:27:24,267 --> 00:27:27,020
+You might even give him a fight...
+before he guts you.
+
+423
+00:27:27,479 --> 00:27:28,730
+ATHERTON: Inara!
+
+424
+00:27:37,280 --> 00:27:41,368
+Up until the punching,
+it was a real nice party.
+
+425
+00:27:44,037 --> 00:27:45,538
+(breathing heavily)
+
+426
+00:27:51,836 --> 00:27:54,714
+(pounding)
+
+427
+00:28:17,987 --> 00:28:20,740
+The captain's gone
+and got himself in trouble.
+
+428
+00:28:21,324 --> 00:28:24,494
+A duel?
+With swords?
+
+429
+00:28:24,869 --> 00:28:28,373
+The captain's a good fighter.
+He must know how to handle a sword.
+
+430
+00:28:28,623 --> 00:28:30,542
+I think he knows
+which end to hold.
+
+431
+00:28:31,334 --> 00:28:34,045
+All right, so we just need to figure out
+how to get him out of there.
+
+432
+00:28:34,212 --> 00:28:36,464
+We have until the morning, correct?
+
+433
+00:28:36,464 --> 00:28:38,883
+Do you know what lodging he's in?
+Oh!
+
+434
+00:28:39,217 --> 00:28:41,386
+This is embarrassing.
+Some of you seem...
+
+435
+00:28:41,469 --> 00:28:43,888
+to be misapprehending
+my purpose in being here.
+
+436
+00:28:44,013 --> 00:28:47,142
+You're here to make sure we don't do
+what these men are keen on doing.
+
+437
+00:28:47,809 --> 00:28:49,436
+Penny for the smart lady.
+
+438
+00:28:50,562 --> 00:28:51,730
+Persephone's my home.
+
+439
+00:28:51,813 --> 00:28:53,982
+I gotta do business
+with the people here.
+
+440
+00:28:54,149 --> 00:28:57,318
+I don't want it known I brought someone in
+caused this kind of ruckus.
+
+441
+00:28:58,445 --> 00:29:00,405
+We'll just settle in
+till this blows over...
+
+442
+00:29:00,947 --> 00:29:03,199
+one way or the other.
+(weapon cocking, whirring)
+
+443
+00:29:06,828 --> 00:29:10,498
+Jayne, I wouldn't.
+Why not?
+
+444
+00:29:14,753 --> 00:29:17,422
+(weapons cocking)
+Hi.
+
+445
+00:29:37,984 --> 00:29:39,903
+Mal?
+MAL: Whoa!
+
+446
+00:29:40,945 --> 00:29:42,113
+What are you doin' here?
+
+447
+00:29:45,158 --> 00:29:47,744
+Atherton's a heavy sleeper
+night before a big day.
+
+448
+00:29:47,952 --> 00:29:50,413
+You know, he's got that killing in the
+morning, then a haircut later.
+
+449
+00:29:50,705 --> 00:29:53,958
+Such a comfort having friends
+visit at a time like this.
+
+450
+00:29:54,501 --> 00:29:56,836
+(grunts)
+I knew the accommodations would be nice.
+
+451
+00:29:57,462 --> 00:29:58,880
+Atherton doesn't skimp.
+
+452
+00:29:58,963 --> 00:30:02,801
+I don't suppose I like being kept by him
+as much as others do.
+
+453
+00:30:03,426 --> 00:30:06,054
+So... how come
+you're still attached to him?
+
+454
+00:30:06,971 --> 00:30:08,723
+Because it's my decision,
+not yours.
+
+455
+00:30:08,765 --> 00:30:11,351
+Thought he made it pretty clear
+he's got no regard for you.
+
+456
+00:30:11,976 --> 00:30:14,479
+You did manage to push him
+into saying something, yes.
+
+457
+00:30:14,771 --> 00:30:16,564
+Made a nice justification
+for the punch.
+
+458
+00:30:16,940 --> 00:30:20,568
+He insulted you. I hit him.
+Seemed like the thing to do.
+
+459
+00:30:21,945 --> 00:30:23,363
+Why'd this get so complicated?
+
+460
+00:30:24,155 --> 00:30:25,698
+Well, it's about to get simpler.
+
+461
+00:30:26,241 --> 00:30:29,828
+There's a back door. The desk clerk
+is on alert. He'll let us out.
+
+462
+00:30:30,245 --> 00:30:33,790
+Whoa, I'm not runnin' off. And I don't
+know what you got in your head,
+
+463
+00:30:33,873 --> 00:30:35,416
+but I didn't do this to prove
+some kind of point to you.
+
+464
+00:30:35,500 --> 00:30:39,462
+I actually thought I was defending your
+honor. And I never back down from a fight.
+
+465
+00:30:39,879 --> 00:30:42,048
+Yes, you do.
+You do all the time.
+
+466
+00:30:42,131 --> 00:30:45,510
+Well, yeah. But I'm not backing down
+from this one.
+
+467
+00:30:46,302 --> 00:30:48,096
+He's an expert
+swordsman, Mal.
+
+468
+00:30:48,429 --> 00:30:52,100
+You had trouble with the pillar.
+How will your death help my honor?
+
+469
+00:30:52,183 --> 00:30:54,060
+Well, see, I plan
+on having it be his death.
+
+470
+00:30:55,228 --> 00:30:56,604
+That's why I need lessons.
+
+471
+00:30:57,063 --> 00:31:01,025
+I figure you know how, bein' such an
+educated woman and all.
+
+472
+00:31:08,867 --> 00:31:10,910
+He said
+not to do anything.
+
+473
+00:31:12,412 --> 00:31:14,372
+He'll join us after
+he wins the duel.
+
+474
+00:31:14,372 --> 00:31:16,082
+JAYNE:
+And what if he don't win?
+
+475
+00:31:16,082 --> 00:31:18,501
+Doesn't hurt to have
+a contingency plan, Kaylee.
+
+476
+00:31:20,712 --> 00:31:23,548
+I'm thinking
+since we're unarmed,
+
+477
+00:31:23,548 --> 00:31:25,592
+we should take them
+by surprise.
+
+478
+00:31:26,342 --> 00:31:29,095
+All at once.
+ZOE: Not necessarily.
+
+479
+00:31:29,721 --> 00:31:34,267
+We can lure one or two of 'em away.
+Say, infirmary.
+
+480
+00:31:36,811 --> 00:31:40,523
+Take 'em out, be on Badger
+before he knows what happens.
+
+481
+00:31:40,523 --> 00:31:43,151
+JAYNE: Only if his attention
+is elsewhere.
+
+482
+00:31:43,902 --> 00:31:46,237
+What we need's a diversion.
+
+483
+00:31:48,114 --> 00:31:49,616
+I say Zoe gets naked.
+
+484
+00:31:49,616 --> 00:31:52,201
+Nope.
+I could get naked.
+
+485
+00:31:52,201 --> 00:31:53,161
+No!
+ZOE: No!
+
+486
+00:32:25,652 --> 00:32:28,071
+River, you can't be here.
+(indistinct)
+
+487
+00:32:28,196 --> 00:32:29,739
+Come on!
+
+488
+00:32:30,865 --> 00:32:33,242
+River! River, please.
+BADGER: Who's that, then?
+
+489
+00:32:38,665 --> 00:32:41,459
+Here, look at me.
+What's your story, love?
+
+490
+00:32:41,793 --> 00:32:44,379
+She's just, uh--
+just a passenger.
+
+491
+00:32:44,379 --> 00:32:47,590
+Yeah? Why ain't she talkin'?
+She got a secret?
+
+492
+00:32:48,257 --> 00:32:51,928
+No, I'm-- (Cockney accent)
+Sure. I got a secret.
+
+493
+00:32:52,929 --> 00:32:55,181
+More than one.
+
+494
+00:32:55,974 --> 00:32:58,434
+Don't seem likely I tell 'em
+to you now, do it?
+
+495
+00:32:59,227 --> 00:33:02,313
+Anyone off Titan colony knows better than
+to talk to strangers.
+
+496
+00:33:10,697 --> 00:33:13,616
+You're talkin' loud enough for the both
+of us, though, ain't ya?
+
+497
+00:33:14,534 --> 00:33:18,079
+I've known a dozen like you.
+Skipped off-home early.
+
+498
+00:33:18,079 --> 00:33:20,915
+Minor graft jobs
+here and there.
+
+499
+00:33:20,915 --> 00:33:23,501
+Spent some time in the lockdown,
+but less than you claim.
+
+500
+00:33:25,044 --> 00:33:29,674
+Now you're, what, a petty thief
+with delusions of standing?
+
+501
+00:33:31,551 --> 00:33:33,511
+Sad little king
+of a sad little hill.
+
+502
+00:33:36,347 --> 00:33:38,516
+Nice to see someone
+from the old homestead.
+
+503
+00:33:38,975 --> 00:33:40,560
+Not really.
+
+504
+00:33:41,853 --> 00:33:43,980
+Call me if anyone
+interesting shows up.
+
+505
+00:33:48,359 --> 00:33:49,902
+I like her.
+
+506
+00:33:53,448 --> 00:33:58,369
+That there--exactly the kind of diversion
+we could've used.
+
+507
+00:33:59,912 --> 00:34:01,372
+Attack.
+
+508
+00:34:03,041 --> 00:34:05,543
+(groans)
+How did I avoid that?
+
+509
+00:34:06,836 --> 00:34:08,046
+By being fast
+like a freak?
+
+510
+00:34:08,046 --> 00:34:11,382
+No. Because you always
+attack the same way,
+
+511
+00:34:11,758 --> 00:34:13,760
+swinging from the shoulder
+like you're chopping wood.
+
+512
+00:34:14,343 --> 00:34:17,847
+You have to thrust with the point
+sometimes or-or swing from the elbow.
+
+513
+00:34:17,930 --> 00:34:21,350
+Swinging from the shoulder feels stronger.
+It's also slower, Mal.
+
+514
+00:34:21,893 --> 00:34:24,020
+You don't need strength
+as much as speed.
+
+515
+00:34:24,187 --> 00:34:26,105
+We're fragile creatures.
+
+516
+00:34:26,105 --> 00:34:29,317
+It takes less than a pound
+of pressure to cut skin.
+
+517
+00:34:29,567 --> 00:34:32,945
+You know that?
+They teach you that in whore academy?
+
+518
+00:34:35,364 --> 00:34:37,992
+You have a strange sense
+of nobility, Captain.
+
+519
+00:34:38,534 --> 00:34:40,244
+You'll lay a man out for implying I'm a
+whore,
+
+520
+00:34:40,328 --> 00:34:42,955
+but you keep calling me one to my face.
+
+521
+00:34:43,122 --> 00:34:46,250
+I might not show respect to your job,
+but he didn't respect you.
+
+522
+00:34:46,334 --> 00:34:47,668
+That's the difference.
+
+523
+00:34:48,336 --> 00:34:50,088
+Inara, he doesn't
+even see you.
+
+524
+00:34:50,379 --> 00:34:53,257
+Well, I guess death will solve the issue
+to everyone's satisfaction.
+
+525
+00:34:53,549 --> 00:34:57,261
+This (Chinese) duel is the result of the
+rules of your society, not mine.
+
+526
+00:34:57,345 --> 00:35:00,932
+You are always breaking the rules, no
+matter what society you're in.
+
+527
+00:35:01,808 --> 00:35:03,434
+You don't get along
+with ordinary criminals either,
+
+528
+00:35:03,518 --> 00:35:05,561
+which is why you are
+constantly getting in trouble.
+
+529
+00:35:05,895 --> 00:35:08,022
+You think following the rules
+will buy you a nice life,
+
+530
+00:35:08,106 --> 00:35:09,482
+even if the rules
+make you a slave.
+
+531
+00:35:11,734 --> 00:35:13,444
+Don't take his offer.
+
+532
+00:35:15,029 --> 00:35:16,114
+What?
+
+533
+00:35:16,906 --> 00:35:18,032
+Don't do it.
+
+534
+00:35:19,283 --> 00:35:21,410
+Just in the case that it happens, that
+means he's the fellow who killed me,
+
+535
+00:35:21,494 --> 00:35:23,746
+and I don't like fellows who kill me,
+not in general.
+
+536
+00:35:27,500 --> 00:35:31,212
+I said before that I didn't have call
+to stop you, and that's true.
+
+537
+00:35:33,673 --> 00:35:34,924
+Anyways, don't.
+
+538
+00:35:41,764 --> 00:35:43,349
+I need to get back.
+
+539
+00:35:46,894 --> 00:35:48,187
+He'll be up early.
+
+540
+00:35:50,189 --> 00:35:52,942
+Right. He's got that big day.
+
+541
+00:36:49,332 --> 00:36:52,418
+Best be careful, Ath.
+Hear these things are sharp.
+
+542
+00:36:54,003 --> 00:36:57,423
+He thinks he's doing well, doesn't he?
+He's being toyed with.
+
+543
+00:37:20,529 --> 00:37:22,240
+What's he doing?
+Don't fall for that!
+
+544
+00:37:28,287 --> 00:37:31,749
+Well, this isn't going to take long,
+is it?
+
+545
+00:37:55,564 --> 00:37:58,985
+We're coming up on the end, miss.
+You might not want to watch.
+
+546
+00:38:08,119 --> 00:38:09,745
+Atherton, wait!
+
+547
+00:38:09,996 --> 00:38:13,666
+I'll stay here, exclusive to you.
+Just let him live.
+
+548
+00:38:28,556 --> 00:38:29,640
+MAN:
+He's down.
+
+549
+00:38:32,268 --> 00:38:33,811
+You have to finish it, lad.
+
+550
+00:38:38,149 --> 00:38:40,026
+You have to finish it.
+
+551
+00:38:41,235 --> 00:38:46,157
+For a man to lay beaten and yet breathing,
+it makes him a coward.
+
+552
+00:38:46,657 --> 00:38:49,535
+It's humiliation.
+Sure.
+
+553
+00:38:50,036 --> 00:38:51,579
+It would be humiliating,
+
+554
+00:38:52,330 --> 00:38:55,541
+having to lie there while the better man
+refuses to spill your blood.
+
+555
+00:38:57,293 --> 00:38:59,754
+Mercy is the mark of a great man.
+
+556
+00:39:01,130 --> 00:39:03,966
+(groans)
+Guess I'm just a good man.
+
+557
+00:39:05,092 --> 00:39:07,470
+(groans)
+Well, I'm all right.
+
+558
+00:39:07,553 --> 00:39:08,888
+(drops sword)
+(groaning)
+
+559
+00:39:15,936 --> 00:39:18,814
+Inara? Inara!
+
+560
+00:39:19,148 --> 00:39:21,067
+You've lost her, lad.
+Be gracious.
+
+561
+00:39:22,276 --> 00:39:23,986
+You set this up, whore,
+
+562
+00:39:24,862 --> 00:39:27,073
+after I bought
+and paid for you.
+
+563
+00:39:27,948 --> 00:39:31,077
+I should've uglied you up,
+so no one else would want you.
+
+564
+00:39:32,161 --> 00:39:35,873
+See how I'm not punching him?
+I think I've grown.
+
+565
+00:39:36,290 --> 00:39:38,042
+Well, get ready to starve.
+
+566
+00:39:39,293 --> 00:39:41,670
+I'll see to it
+you never work again.
+
+567
+00:39:42,755 --> 00:39:44,715
+Actually,
+that's not how it works.
+
+568
+00:39:45,383 --> 00:39:47,968
+You see, you've earned yourself a black
+mark in the client registry.
+
+569
+00:39:48,219 --> 00:39:51,639
+No Companion is going to contract with you
+ever again.
+
+570
+00:39:52,056 --> 00:39:57,311
+You'll have to rely on your winning
+personality to get women. God help you.
+
+571
+00:40:01,273 --> 00:40:04,318
+(groans)
+Ow, ow.
+
+572
+00:40:04,819 --> 00:40:06,237
+You didn't have
+to wound that man.
+
+573
+00:40:06,570 --> 00:40:08,614
+Yeah, I know.
+It was just funny.
+
+574
+00:40:10,032 --> 00:40:12,910
+You willing to fight that hard
+to protect my property,
+
+575
+00:40:12,993 --> 00:40:14,954
+I'll have it in your hold
+before midnight.
+
+576
+00:40:23,921 --> 00:40:25,631
+Mighty fine shindig.
+
+577
+00:40:34,557 --> 00:40:37,393
+Doc's filling the shepherd in
+on the plan.
+
+578
+00:40:37,852 --> 00:40:39,311
+We're ready to move
+on your signal.
+
+579
+00:40:40,020 --> 00:40:41,814
+Doc is the diversion.
+
+580
+00:40:43,441 --> 00:40:46,402
+Did you ever see
+such a lazy crew?
+
+581
+00:40:47,570 --> 00:40:50,114
+Captain!
+You're hurt.
+
+582
+00:40:54,660 --> 00:40:58,747
+You get us a deal?
+I got a deal. Now get off my ship.
+
+583
+00:40:59,498 --> 00:41:01,250
+So, very much for
+a lovely night then.
+
+584
+00:41:02,960 --> 00:41:04,128
+(whistles)
+
+585
+00:41:09,258 --> 00:41:11,177
+Ow!
+Are you badly hurt?
+
+586
+00:41:11,719 --> 00:41:12,970
+(groans)
+
+587
+00:41:14,180 --> 00:41:16,557
+We was just about to
+spring into action, Captain.
+
+588
+00:41:16,640 --> 00:41:18,350
+Complicated escape
+and rescue op.
+
+589
+00:41:18,684 --> 00:41:21,562
+I was gonna watch.
+It was very exciting.
+
+590
+00:41:25,733 --> 00:41:27,943
+♪♪ (humming)
+
+591
+00:41:53,344 --> 00:41:55,137
+♪♪ (classical)
+
+592
+00:42:16,742 --> 00:42:19,995
+Thank you for the wine.
+It's... very fresh.
+
+593
+00:42:20,454 --> 00:42:24,208
+To Kaylee and her inter-engine
+fermentation system.
+
+594
+00:42:25,584 --> 00:42:27,378
+Are you in pain?
+Absolutely.
+
+595
+00:42:27,836 --> 00:42:30,172
+I got stabbed, you know, right here.
+I saw.
+
+596
+00:42:31,549 --> 00:42:33,384
+Don't care much
+for fancy parties.
+
+597
+00:42:34,051 --> 00:42:37,221
+Too rough.
+It wasn't entirely a disaster.
+
+598
+00:42:37,721 --> 00:42:41,725
+I got stabbed, right here.
+You also lined up exciting new crime.
+
+599
+00:42:43,394 --> 00:42:45,604
+It's good to have cargo.
+
+600
+00:42:46,230 --> 00:42:48,440
+Makes us a target for every other
+scavenger out there, of course,
+
+601
+00:42:48,524 --> 00:42:51,902
+but sometimes that's fun too.
+(chuckles)
+
+602
+00:42:56,490 --> 00:42:58,951
+I am grateful, you know,
+for the ill-conceived...
+
+603
+00:42:58,951 --> 00:43:02,788
+and high-handed attempt to defend my
+honor, although I didn't want you to.
+
+604
+00:43:05,291 --> 00:43:06,875
+Gracious as that is,
+
+605
+00:43:07,293 --> 00:43:11,505
+as I look back... I probably should've
+stayed out of your world.
+
+606
+00:43:11,589 --> 00:43:14,300
+My world?
+If it is that.
+
+607
+00:43:15,843 --> 00:43:17,344
+I wasn't gonna stay,
+you know.
+
+608
+00:43:19,263 --> 00:43:22,266
+Yeah? Why's that?
+
+609
+00:43:24,393 --> 00:43:26,895
+Oh, someone needs to keep
+Kaylee out of trouble.
+
+610
+00:43:27,980 --> 00:43:29,440
+And all my things
+are here.
+
+611
+00:43:32,901 --> 00:43:36,405
+Besides, why would I want
+to leave serenity?
+
+612
+00:43:38,741 --> 00:43:40,451
+Can't think of a reason.
+
+613
+00:43:41,493 --> 00:43:43,495
+(lowing)
+
+614
+00:44:27,665 --> 00:44:29,291
+Grr! Arrgh!
+

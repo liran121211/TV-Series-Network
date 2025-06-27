@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Spear and Fang",
+        "released": "2019-10-07",
+        "rating": "8.9",
+        "imdb_id": "tt10336110",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "River of Snakes",
+        "released": "2019-10-08",
+        "rating": "8.1",
+        "imdb_id": "tt10980998",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "A Cold Death",
+        "released": "2019-10-09",
+        "rating": "8.6",
+        "imdb_id": "tt10981002",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Terror Under the Blood Moon",
+        "released": "2019-10-10",
+        "rating": "8.8",
+        "imdb_id": "tt10981004",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Rage of the Ape-Men",
+        "released": "2019-10-11",
+        "rating": "9.2",
+        "imdb_id": "tt10981006",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Scent of Prey",
+        "released": "2020-10-04",
+        "rating": "8.7",
+        "imdb_id": "tt11295190",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Plague of Madness",
+        "released": "2020-10-11",
+        "rating": "8.7",
+        "imdb_id": "tt11295188",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Coven of the Damned",
+        "released": "2020-10-18",
+        "rating": "9.0",
+        "imdb_id": "tt11295198",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Night Feeder",
+        "released": "2020-10-25",
+        "rating": "8.0",
+        "imdb_id": "tt11295200",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Slave of the Scorpion",
+        "released": "2020-11-01",
+        "rating": "9.1",
+        "imdb_id": "tt11295206",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

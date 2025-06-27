@@ -1,0 +1,58 @@
+{
+    "2": {
+        "title": "Beast",
+        "released": "2023-10-04",
+        "rating": "1.1",
+        "imdb_id": "tt21092230",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #1.3",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt21092234",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Dope",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt21092242",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Rager",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt21092244",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #1.6",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt21092248",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #1.7",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt21092250",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #1.8",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt21092266",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Robyn Hood\\Subtitles\\S1\\SUBDL::robyn-hood-first-season-english-3217934.zip"
+    }
+}

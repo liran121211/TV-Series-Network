@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "The New Guy",
+        "released": "2011-07-11",
+        "rating": "8.0",
+        "imdb_id": "tt1733085",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Trials",
+        "released": "2011-07-18",
+        "rating": "N/A",
+        "imdb_id": "tt1878799",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Love Sick",
+        "released": "2011-07-25",
+        "rating": "N/A",
+        "imdb_id": "tt1877525",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Queen for a Day",
+        "released": "2011-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt1991859",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "3... 2... 1",
+        "released": "2011-08-08",
+        "rating": "7.9",
+        "imdb_id": "tt1918571",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Don't Hate the Player",
+        "released": "2011-08-15",
+        "rating": "N/A",
+        "imdb_id": "tt1991857",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Past Imperfect",
+        "released": "2011-08-22",
+        "rating": "N/A",
+        "imdb_id": "tt1991858",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The 40th Floor",
+        "released": "2011-08-29",
+        "rating": "8.1",
+        "imdb_id": "tt1912325",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Shadows",
+        "released": "2011-09-12",
+        "rating": "N/A",
+        "imdb_id": "tt2004133",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Insatiable",
+        "released": "2011-09-19",
+        "rating": "N/A",
+        "imdb_id": "tt1977646",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Emily Lake",
+        "released": "2011-10-03",
+        "rating": "N/A",
+        "imdb_id": "tt2064683",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Stand",
+        "released": "2011-10-03",
+        "rating": "8.6",
+        "imdb_id": "tt2084726",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Greatest Gift",
+        "released": "2011-12-06",
+        "rating": "8.2",
+        "imdb_id": "tt2120683",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

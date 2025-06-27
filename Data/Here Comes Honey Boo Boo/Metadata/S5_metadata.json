@@ -1,0 +1,34 @@
+{
+    "1": {
+        "title": "McInboring",
+        "released": "2017-04-22",
+        "rating": "N/A",
+        "imdb_id": "tt6862310",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Fluffy Jelly Bean",
+        "released": "2017-04-22",
+        "rating": "N/A",
+        "imdb_id": "tt6862322",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "#MamasTheCoolest",
+        "released": "2017-04-22",
+        "rating": "N/A",
+        "imdb_id": "tt6862334",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "My Colors Are the Rainbow",
+        "released": "2017-04-22",
+        "rating": "N/A",
+        "imdb_id": "tt6862346",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

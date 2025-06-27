@@ -1,0 +1,170 @@
+{
+    "1": {
+        "title": "Monty Burns' Fleeing Circus",
+        "released": "2016-09-25",
+        "rating": "6.1",
+        "imdb_id": "tt5718172",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S28\\The.Simpsons.S28E01.HDTV.x264-FUMS28E1.zip"
+    },
+    "2": {
+        "title": "Friends and Family",
+        "released": "2016-10-02",
+        "rating": "6.6",
+        "imdb_id": "tt5847440",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S28\\The.Simpsons.S28E02.WEB-DL.DSNPS28E2.zip"
+    },
+    "3": {
+        "title": "The Town",
+        "released": "2016-10-09",
+        "rating": "7.0",
+        "imdb_id": "tt5222754",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S28\\The.Simpsons.S28E03.WEB-DL.x264-RARBGS28E3.zip"
+    },
+    "4": {
+        "title": "Treehouse of Horror XXVII",
+        "released": "2016-10-16",
+        "rating": "6.8",
+        "imdb_id": "tt5847462",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S28\\The.Simpsons.S28E04.HDTV.x264-KILLERSS28E4.zip"
+    },
+    "5": {
+        "title": "Trust But Clarify",
+        "released": "2016-10-23",
+        "rating": "6.3",
+        "imdb_id": "tt5847444",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S28\\The.Simpsons.S28E05.HDTV.x264-KILLERSS28E5.zip"
+    },
+    "6": {
+        "title": "There Will Be Buds",
+        "released": "2016-11-06",
+        "rating": "6.6",
+        "imdb_id": "tt5847448",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S28\\The.Simpsons.S28E06.WEB-DL.DSNPS28E6.zip"
+    },
+    "7": {
+        "title": "Havana Wild Weekend",
+        "released": "2016-11-13",
+        "rating": "6.2",
+        "imdb_id": "tt5222762",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S28\\The.Simpsons.S28E07.WEB-DL.DSNPS28E7.zip"
+    },
+    "8": {
+        "title": "Dad Behavior",
+        "released": "2016-11-20",
+        "rating": "6.5",
+        "imdb_id": "tt4765710",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S28\\The.Simpsons.S28E08.HDTV.x264-KILLERSS28E8.zip"
+    },
+    "9": {
+        "title": "The Last Traction Hero",
+        "released": "2016-12-04",
+        "rating": "6.4",
+        "imdb_id": "tt5847466",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S28\\The.Simpsons.S28E09.HDTV.x264-FLEET.HI.C.The_Last_Traction_HeroS28E9.zip"
+    },
+    "10": {
+        "title": "The Nightmare After Krustmas",
+        "released": "2016-12-11",
+        "rating": "5.9",
+        "imdb_id": "tt5570642",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Pork and Burns",
+        "released": "2017-01-08",
+        "rating": "6.7",
+        "imdb_id": "tt5847488",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Great Phatsby",
+        "released": "2017-01-15",
+        "rating": "6.1",
+        "imdb_id": "tt5847482",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Fatzcarraldo",
+        "released": "2017-02-12",
+        "rating": "6.4",
+        "imdb_id": "tt5847490",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Cad and the Hat",
+        "released": "2017-02-19",
+        "rating": "6.5",
+        "imdb_id": "tt5847492",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Kamp Krustier",
+        "released": "2017-03-05",
+        "rating": "6.5",
+        "imdb_id": "tt5847434",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "22 for 30",
+        "released": "2017-03-12",
+        "rating": "6.5",
+        "imdb_id": "tt4765712",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "A Father's Watch",
+        "released": "2017-03-19",
+        "rating": "6.8",
+        "imdb_id": "tt6012538",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Caper Chase",
+        "released": "2017-04-02",
+        "rating": "6.1",
+        "imdb_id": "tt6012540",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Looking for Mr. Goodbart",
+        "released": "2017-04-30",
+        "rating": "6.8",
+        "imdb_id": "tt5951416",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Moho House",
+        "released": "2017-05-07",
+        "rating": "6.1",
+        "imdb_id": "tt5951430",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Dogtown",
+        "released": "2017-05-21",
+        "rating": "6.4",
+        "imdb_id": "tt6733170",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

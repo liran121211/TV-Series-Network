@@ -1,0 +1,274 @@
+{
+    "1": {
+        "title": "Auditions: Boston",
+        "released": "2010-01-12",
+        "rating": "N/A",
+        "imdb_id": "tt1555453",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Auditions: Atlanta",
+        "released": "2010-01-13",
+        "rating": "N/A",
+        "imdb_id": "tt1555454",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S9\\American.Idol.S09E02.HDTV.XviD-2HDS9E2.zip"
+    },
+    "3": {
+        "title": "Auditions: Chicago",
+        "released": "2010-01-19",
+        "rating": "N/A",
+        "imdb_id": "tt1555455",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S9\\American.Idol.S09E03.HDTV.XviD-2HDS9E3.zip"
+    },
+    "4": {
+        "title": "Auditions: Orlando",
+        "released": "2010-01-20",
+        "rating": "N/A",
+        "imdb_id": "tt1555456",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S9\\American.Idol.S09E04.HDTV.XviD-187HDS9E4.zip"
+    },
+    "5": {
+        "title": "Auditions: Los Angeles",
+        "released": "2010-01-26",
+        "rating": "N/A",
+        "imdb_id": "tt1574429",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Auditions: Dallas",
+        "released": "2010-01-27",
+        "rating": "N/A",
+        "imdb_id": "tt1574427",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S9\\American.Idol.S09E06.Dallas.Auditions.HDTV.XviD-FQMS9E6.zip"
+    },
+    "7": {
+        "title": "Auditions: Denver",
+        "released": "2010-02-02",
+        "rating": "N/A",
+        "imdb_id": "tt1574428",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S9\\American.Idol.S09E07.HDTV.XviD-2HDS9E7.zip"
+    },
+    "8": {
+        "title": "The Road to Hollywood",
+        "released": "2010-02-03",
+        "rating": "N/A",
+        "imdb_id": "tt1574434",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S9\\American.Idol.S09E08.HDTV.XviD.187HDS9E8.zip"
+    },
+    "9": {
+        "title": "Hollywood Round: Part 1",
+        "released": "2010-02-09",
+        "rating": "N/A",
+        "imdb_id": "tt1574430",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S9\\American.Idol.S09E09.HDTV.XviD-2HDS9E9.zip"
+    },
+    "11": {
+        "title": "Hollywood Round: Part 3",
+        "released": "2010-02-16",
+        "rating": "N/A",
+        "imdb_id": "tt1574432",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Hollywood Round: Part 4",
+        "released": "2010-02-17",
+        "rating": "N/A",
+        "imdb_id": "tt1574433",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Top 12 Male Semifinalists Perform",
+        "released": "2010-02-24",
+        "rating": "4.1",
+        "imdb_id": "tt1577161",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Results Show: Two Male and Two Female Contestants Eliminated",
+        "released": "2010-03-04",
+        "rating": "N/A",
+        "imdb_id": "tt1599397",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Results Show: Two Male and Two Female Contestants Eliminated - Finalists Revealed",
+        "released": "2010-03-11",
+        "rating": "N/A",
+        "imdb_id": "tt1601488",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Top 12 Performance: Rolling Stones",
+        "released": "2010-03-16",
+        "rating": "N/A",
+        "imdb_id": "tt1601489",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Top 12 Results",
+        "released": "2010-03-17",
+        "rating": "N/A",
+        "imdb_id": "tt1601490",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Top 11 Performance",
+        "released": "2010-03-23",
+        "rating": "N/A",
+        "imdb_id": "tt1618493",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Top 10 Performance",
+        "released": "2010-03-30",
+        "rating": "5.6",
+        "imdb_id": "tt1619920",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Top 10 Results",
+        "released": "2010-03-31",
+        "rating": "N/A",
+        "imdb_id": "tt1619921",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Top Nine Performance",
+        "released": "2010-04-06",
+        "rating": "N/A",
+        "imdb_id": "tt1619925",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Top Nine Performance, Part 2",
+        "released": "2010-04-13",
+        "rating": "N/A",
+        "imdb_id": "tt1619922",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Top Nine Results: Two Contestants Eliminated",
+        "released": "2010-04-14",
+        "rating": "N/A",
+        "imdb_id": "tt1619924",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Top Seven Performance",
+        "released": "2010-04-20",
+        "rating": "N/A",
+        "imdb_id": "tt1634154",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Idol Gives Back/Top Seven Results",
+        "released": "2010-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt1634153",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "Top Six Performance",
+        "released": "2010-04-27",
+        "rating": "N/A",
+        "imdb_id": "tt1634155",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Top Six Results",
+        "released": "2010-04-28",
+        "rating": "N/A",
+        "imdb_id": "tt1634156",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Top Five Performance",
+        "released": "2010-05-04",
+        "rating": "N/A",
+        "imdb_id": "tt1646996",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Top Five Results",
+        "released": "2010-05-05",
+        "rating": "N/A",
+        "imdb_id": "tt1646997",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Top Four Performance",
+        "released": "2010-05-11",
+        "rating": "N/A",
+        "imdb_id": "tt1646998",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Top Four Results",
+        "released": "2010-05-12",
+        "rating": "N/A",
+        "imdb_id": "tt1646999",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Top Three Performance",
+        "released": "2010-05-18",
+        "rating": "N/A",
+        "imdb_id": "tt1654869",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Top Three Results",
+        "released": "2010-05-19",
+        "rating": "N/A",
+        "imdb_id": "tt1654870",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Top Two Performance",
+        "released": "2010-05-25",
+        "rating": "N/A",
+        "imdb_id": "tt1654871",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Finale: Winner Revealed",
+        "released": "2010-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt1654868",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

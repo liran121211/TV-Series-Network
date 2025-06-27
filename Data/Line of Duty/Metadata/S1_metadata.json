@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "A Disastrous Affair",
+        "released": "2012-08-21",
+        "rating": "7.7",
+        "imdb_id": "tt2384267",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Assault",
+        "released": "2012-08-28",
+        "rating": "8.1",
+        "imdb_id": "tt2388095",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "In the Trap",
+        "released": "2012-09-04",
+        "rating": "8.0",
+        "imdb_id": "tt2393075",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Terror",
+        "released": "2012-09-11",
+        "rating": "8.1",
+        "imdb_id": "tt2392125",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Probation",
+        "released": "2012-09-18",
+        "rating": "8.3",
+        "imdb_id": "tt2356337",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

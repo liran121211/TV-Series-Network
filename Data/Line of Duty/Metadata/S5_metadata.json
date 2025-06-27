@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Operation Pear Tree",
+        "released": "2019-03-31",
+        "rating": "8.5",
+        "imdb_id": "tt7251220",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Head of Medusa",
+        "released": "2019-04-07",
+        "rating": "8.5",
+        "imdb_id": "tt7814138",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Code Zero",
+        "released": "2019-04-14",
+        "rating": "8.4",
+        "imdb_id": "tt7814140",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Betrayal",
+        "released": "2019-04-21",
+        "rating": "8.9",
+        "imdb_id": "tt7814136",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "On Your Own",
+        "released": "2019-04-28",
+        "rating": "8.5",
+        "imdb_id": "tt7981396",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Intrigue",
+        "released": "2019-05-05",
+        "rating": "8.4",
+        "imdb_id": "tt7981400",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

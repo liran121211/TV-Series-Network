@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "1999-09-22",
+        "rating": "8.5",
+        "imdb_id": "tt0745667",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Post Hoc, Ergo Propter Hoc",
+        "released": "1999-09-29",
+        "rating": "8.0",
+        "imdb_id": "tt0745669",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "A Proportional Response",
+        "released": "1999-10-06",
+        "rating": "8.6",
+        "imdb_id": "tt0745591",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Five Votes Down",
+        "released": "1999-10-13",
+        "rating": "8.1",
+        "imdb_id": "tt0745620",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Crackpots and These Women",
+        "released": "1999-10-20",
+        "rating": "8.5",
+        "imdb_id": "tt0745690",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Mr. Willis of Ohio",
+        "released": "1999-11-03",
+        "rating": "8.6",
+        "imdb_id": "tt0745659",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The State Dinner",
+        "released": "1999-11-10",
+        "rating": "8.2",
+        "imdb_id": "tt0745706",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Enemies",
+        "released": "1999-11-17",
+        "rating": "7.9",
+        "imdb_id": "tt0745615",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Short List",
+        "released": "1999-11-24",
+        "rating": "8.6",
+        "imdb_id": "tt0745704",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "In Excelsis Deo",
+        "released": "1999-12-15",
+        "rating": "9.1",
+        "imdb_id": "tt0745635",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Lord John Marbury",
+        "released": "2000-01-05",
+        "rating": "8.1",
+        "imdb_id": "tt0745652",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "He Shall, from Time to Time...",
+        "released": "2000-01-12",
+        "rating": "8.6",
+        "imdb_id": "tt0745631",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Take Out the Trash Day",
+        "released": "2000-01-26",
+        "rating": "N/A",
+        "imdb_id": "tt0745682",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Take This Sabbath Day",
+        "released": "2000-02-09",
+        "rating": "8.8",
+        "imdb_id": "tt0745683",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Celestial Navigation",
+        "released": "2000-02-16",
+        "rating": "8.9",
+        "imdb_id": "tt0745602",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "20 Hours in L.A.",
+        "released": "2000-02-23",
+        "rating": "N/A",
+        "imdb_id": "tt0745585",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The White House Pro-Am",
+        "released": "2000-03-22",
+        "rating": "N/A",
+        "imdb_id": "tt0745716",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Six Meetings Before Lunch",
+        "released": "2000-04-05",
+        "rating": "N/A",
+        "imdb_id": "tt0745677",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Let Bartlet Be Bartlet",
+        "released": "2000-04-26",
+        "rating": "8.9",
+        "imdb_id": "tt0745648",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Mandatory Minimums",
+        "released": "2000-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt0745655",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Lies, Damn Lies and Statistics",
+        "released": "2000-05-10",
+        "rating": "N/A",
+        "imdb_id": "tt0745649",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "What Kind of Day Has It Been",
+        "released": "2000-05-17",
+        "rating": "N/A",
+        "imdb_id": "tt0745728",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

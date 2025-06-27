@@ -1,0 +1,106 @@
+{
+    "0": {
+        "title": "Last Christmas",
+        "released": "2014-12-25",
+        "rating": "N/A",
+        "imdb_id": "tt4050552",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "1": {
+        "title": "The Magician's Apprentice",
+        "released": "2015-09-19",
+        "rating": "8.3",
+        "imdb_id": "tt4289846",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Witch's Familiar",
+        "released": "2015-09-26",
+        "rating": "8.4",
+        "imdb_id": "tt4464958",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Under the Lake",
+        "released": "2015-10-03",
+        "rating": "8.1",
+        "imdb_id": "tt4483506",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Before the Flood",
+        "released": "2015-10-10",
+        "rating": "8.0",
+        "imdb_id": "tt4483520",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Girl Who Died",
+        "released": "2015-10-17",
+        "rating": "7.4",
+        "imdb_id": "tt4507160",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Woman Who Lived",
+        "released": "2015-10-24",
+        "rating": "7.3",
+        "imdb_id": "tt4545140",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Zygon Invasion",
+        "released": "2015-10-31",
+        "rating": "7.7",
+        "imdb_id": "tt4652840",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Zygon Inversion",
+        "released": "2015-11-07",
+        "rating": "8.4",
+        "imdb_id": "tt4652846",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Sleep No More",
+        "released": "2015-11-14",
+        "rating": "5.8",
+        "imdb_id": "tt4787004",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Face the Raven",
+        "released": "2015-11-21",
+        "rating": "8.5",
+        "imdb_id": "tt4701538",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Heaven Sent",
+        "released": "2015-11-28",
+        "rating": "9.6",
+        "imdb_id": "tt4701542",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Hell Bent",
+        "released": "2015-12-05",
+        "rating": "8.6",
+        "imdb_id": "tt4701544",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

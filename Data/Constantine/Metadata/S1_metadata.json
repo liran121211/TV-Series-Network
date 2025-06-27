@@ -1,0 +1,114 @@
+{
+    "1": {
+        "title": "Non Est Asylum",
+        "released": "2014-10-24",
+        "rating": "7.7",
+        "imdb_id": "tt3807952",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Darkness Beneath",
+        "released": "2014-10-31",
+        "rating": "7.4",
+        "imdb_id": "tt3912242",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Devil's Vinyl",
+        "released": "2014-11-07",
+        "rating": "7.6",
+        "imdb_id": "tt4016678",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "A Feast of Friends",
+        "released": "2014-11-14",
+        "rating": "N/A",
+        "imdb_id": "tt4004102",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Danse Vaudou",
+        "released": "2014-11-21",
+        "rating": "7.9",
+        "imdb_id": "tt3988254",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Rage of Caliban",
+        "released": "2014-11-28",
+        "rating": "8.0",
+        "imdb_id": "tt3999272",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Blessed Are the Damned",
+        "released": "2014-12-05",
+        "rating": "8.3",
+        "imdb_id": "tt4015994",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Saint of Last Resorts",
+        "released": "2014-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt4067964",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Saint of Last Resorts: Part 2",
+        "released": "2015-01-16",
+        "rating": "8.4",
+        "imdb_id": "tt4117366",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Quid Pro Quo",
+        "released": "2015-01-23",
+        "rating": "7.9",
+        "imdb_id": "tt4166524",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "A Whole World Out There",
+        "released": "2015-01-30",
+        "rating": "N/A",
+        "imdb_id": "tt4181442",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Angels and Ministers of Grace",
+        "released": "2015-02-06",
+        "rating": "8.1",
+        "imdb_id": "tt4183576",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Waiting for the Man",
+        "released": "2015-02-13",
+        "rating": "8.0",
+        "imdb_id": "tt4225264",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Final Girl",
+        "released": "2015-02-13",
+        "rating": "8.2",
+        "imdb_id": "tt14506134",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

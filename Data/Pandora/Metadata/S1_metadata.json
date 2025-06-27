@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Shelter from the Storm",
+        "released": "2019-07-16",
+        "rating": "5.3",
+        "imdb_id": "tt10293982",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Pandora\\Subtitles\\S1\\Pandora.S01E01.XviD-AFGS1E1.zip"
+    },
+    "2": {
+        "title": "Chimes of Freedom",
+        "released": "2019-07-23",
+        "rating": "N/A",
+        "imdb_id": "tt10427784",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Pandora\\Subtitles\\S1\\Pandora.2019.S01E02.XviD-AFGS1E2.zip"
+    },
+    "3": {
+        "title": "Masters of War",
+        "released": "2019-07-30",
+        "rating": "N/A",
+        "imdb_id": "tt10427788",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Pandora\\Subtitles\\S1\\Pandora.2019.S01E03.HDTV.x264-SVA-HIS1E3.zip"
+    },
+    "5": {
+        "title": "Most Likely to Go Your Way (And I'll Go Mine)",
+        "released": "2019-08-13",
+        "rating": "N/A",
+        "imdb_id": "tt10503948",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "What Was It You Wanted",
+        "released": "2019-08-20",
+        "rating": "N/A",
+        "imdb_id": "tt10503980",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Pandora\\Subtitles\\S1\\Pandora.2019.S01E06.HDTV.x264-SVAS1E6.zip"
+    },
+    "7": {
+        "title": "Time Out of Mind",
+        "released": "2019-08-27",
+        "rating": "N/A",
+        "imdb_id": "tt10612986",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Pandora\\Subtitles\\S1\\Pandora.2019.S01E07.HDTV.x264-SVAS1E7.zip"
+    },
+    "9": {
+        "title": "It Ain't Me Babe",
+        "released": "2019-09-10",
+        "rating": "N/A",
+        "imdb_id": "tt10856578",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Pandora\\Subtitles\\S1\\Pandora.2019.S01E09.XviD-AFG-HIS1E9.zip"
+    },
+    "10": {
+        "title": "Hurricane",
+        "released": "2019-09-17",
+        "rating": "N/A",
+        "imdb_id": "tt10901336",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Knocking on Heaven's Door",
+        "released": "2019-10-01",
+        "rating": "6.5",
+        "imdb_id": "tt10948054",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Simple Twist of Fate",
+        "released": "2019-10-01",
+        "rating": "6.3",
+        "imdb_id": "tt10948056",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

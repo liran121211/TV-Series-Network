@@ -1,0 +1,658 @@
+{
+    "1": {
+        "title": "Episode #1.1",
+        "released": "2018-01-01",
+        "rating": "5.2",
+        "imdb_id": "tt7818096",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #1.2",
+        "released": "2018-01-01",
+        "rating": "7.1",
+        "imdb_id": "tt7818946",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #1.4",
+        "released": "2018-01-03",
+        "rating": "N/A",
+        "imdb_id": "tt7822502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #1.5",
+        "released": "2018-01-04",
+        "rating": "7.0",
+        "imdb_id": "tt7826562",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #1.6",
+        "released": "2018-01-08",
+        "rating": "8.1",
+        "imdb_id": "tt7844260",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #1.7",
+        "released": "2018-01-09",
+        "rating": "7.6",
+        "imdb_id": "tt7860126",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #1.8",
+        "released": "2018-01-10",
+        "rating": "8.3",
+        "imdb_id": "tt7860132",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode #1.9",
+        "released": "2018-01-11",
+        "rating": "N/A",
+        "imdb_id": "tt7860134",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Episode #1.10",
+        "released": "2018-01-15",
+        "rating": "8.7",
+        "imdb_id": "tt7882238",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Episode #1.11",
+        "released": "2018-01-16",
+        "rating": "8.8",
+        "imdb_id": "tt7882244",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Episode #1.12",
+        "released": "2018-01-17",
+        "rating": "8.8",
+        "imdb_id": "tt7882300",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Episode #1.13",
+        "released": "2018-01-18",
+        "rating": "9.2",
+        "imdb_id": "tt7882398",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Episode #1.14",
+        "released": "2018-01-22",
+        "rating": "8.2",
+        "imdb_id": "tt7882404",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Episode #1.15",
+        "released": "2018-01-23",
+        "rating": "8.8",
+        "imdb_id": "tt7882418",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Episode #1.16",
+        "released": "2018-01-24",
+        "rating": "N/A",
+        "imdb_id": "tt7882424",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Episode #1.17",
+        "released": "2018-01-25",
+        "rating": "N/A",
+        "imdb_id": "tt7882426",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Episode #1.18",
+        "released": "2018-01-29",
+        "rating": "N/A",
+        "imdb_id": "tt7897262",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Episode #1.19",
+        "released": "2018-01-30",
+        "rating": "N/A",
+        "imdb_id": "tt7897264",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Episode #1.20",
+        "released": "2018-01-31",
+        "rating": "N/A",
+        "imdb_id": "tt7897266",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Episode #1.21",
+        "released": "2018-02-01",
+        "rating": "N/A",
+        "imdb_id": "tt7897268",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Episode #1.22",
+        "released": "2018-02-05",
+        "rating": "N/A",
+        "imdb_id": "tt7897272",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Episode #1.23",
+        "released": "2018-02-06",
+        "rating": "N/A",
+        "imdb_id": "tt7897274",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Episode #1.24",
+        "released": "2018-02-07",
+        "rating": "N/A",
+        "imdb_id": "tt7897278",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Episode #1.25",
+        "released": "2018-02-08",
+        "rating": "N/A",
+        "imdb_id": "tt7897280",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Episode #1.26",
+        "released": "2018-02-12",
+        "rating": "N/A",
+        "imdb_id": "tt7929978",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Episode #1.27",
+        "released": "2018-02-13",
+        "rating": "N/A",
+        "imdb_id": "tt7929982",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Episode #1.28",
+        "released": "2018-02-14",
+        "rating": "N/A",
+        "imdb_id": "tt7929990",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Episode #1.29",
+        "released": "2018-02-15",
+        "rating": "N/A",
+        "imdb_id": "tt7929998",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Episode #1.30",
+        "released": "2018-02-19",
+        "rating": "N/A",
+        "imdb_id": "tt7930004",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Episode #1.31",
+        "released": "2018-02-20",
+        "rating": "N/A",
+        "imdb_id": "tt7930008",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Episode #1.32",
+        "released": "2018-02-21",
+        "rating": "N/A",
+        "imdb_id": "tt7986840",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Episode #1.33",
+        "released": "2018-02-22",
+        "rating": "N/A",
+        "imdb_id": "tt7986864",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "Episode #1.34",
+        "released": "2018-02-26",
+        "rating": "N/A",
+        "imdb_id": "tt7986878",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Episode #1.35",
+        "released": "2018-02-27",
+        "rating": "N/A",
+        "imdb_id": "tt7986896",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Episode #1.36",
+        "released": "2018-02-28",
+        "rating": "N/A",
+        "imdb_id": "tt7986912",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Episode #1.37",
+        "released": "2018-03-01",
+        "rating": "N/A",
+        "imdb_id": "tt8071854",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Episode #1.38",
+        "released": "2018-03-05",
+        "rating": "N/A",
+        "imdb_id": "tt8071856",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Episode #1.39",
+        "released": "2018-03-06",
+        "rating": "N/A",
+        "imdb_id": "tt8071858",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Episode #1.40",
+        "released": "2018-03-07",
+        "rating": "N/A",
+        "imdb_id": "tt8071862",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Episode #1.41",
+        "released": "2018-03-08",
+        "rating": "N/A",
+        "imdb_id": "tt8071868",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Episode #1.42",
+        "released": "2018-03-12",
+        "rating": "N/A",
+        "imdb_id": "tt8071872",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Episode #1.43",
+        "released": "2018-03-14",
+        "rating": "N/A",
+        "imdb_id": "tt8116642",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Episode #1.44",
+        "released": "2018-03-19",
+        "rating": "N/A",
+        "imdb_id": "tt8116644",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "Episode #1.45",
+        "released": "2018-03-20",
+        "rating": "N/A",
+        "imdb_id": "tt8116648",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Episode #1.46",
+        "released": "2018-03-21",
+        "rating": "N/A",
+        "imdb_id": "tt8116650",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Episode #1.47",
+        "released": "2018-03-22",
+        "rating": "N/A",
+        "imdb_id": "tt8116654",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "Episode #1.48",
+        "released": "2018-03-25",
+        "rating": "N/A",
+        "imdb_id": "tt8152442",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "Episode #1.49",
+        "released": "2018-03-26",
+        "rating": "N/A",
+        "imdb_id": "tt8152444",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Episode #1.50",
+        "released": "2018-03-27",
+        "rating": "N/A",
+        "imdb_id": "tt8152446",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "Episode #1.51",
+        "released": "2018-03-28",
+        "rating": "N/A",
+        "imdb_id": "tt8152448",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Episode #1.52",
+        "released": "2018-04-01",
+        "rating": "N/A",
+        "imdb_id": "tt8168724",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "53": {
+        "title": "Episode #1.53",
+        "released": "2018-04-01",
+        "rating": "N/A",
+        "imdb_id": "tt8168732",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "54": {
+        "title": "Episode #1.54",
+        "released": "2018-04-02",
+        "rating": "N/A",
+        "imdb_id": "tt8168740",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "Episode #1.55",
+        "released": "2018-04-02",
+        "rating": "N/A",
+        "imdb_id": "tt8168744",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "57": {
+        "title": "Episode #1.57",
+        "released": "2018-04-04",
+        "rating": "N/A",
+        "imdb_id": "tt8168758",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "58": {
+        "title": "Episode #1.58",
+        "released": "2018-04-05",
+        "rating": "N/A",
+        "imdb_id": "tt8168768",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "59": {
+        "title": "Episode #1.59",
+        "released": "2018-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt8244402",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "60": {
+        "title": "Episode #1.60",
+        "released": "2018-04-10",
+        "rating": "N/A",
+        "imdb_id": "tt8244406",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "61": {
+        "title": "Episode #1.61",
+        "released": "2018-04-11",
+        "rating": "N/A",
+        "imdb_id": "tt8244408",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "62": {
+        "title": "Episode #1.62",
+        "released": "2018-04-12",
+        "rating": "N/A",
+        "imdb_id": "tt8244410",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "63": {
+        "title": "Episode #1.63",
+        "released": "2018-04-16",
+        "rating": "N/A",
+        "imdb_id": "tt8244414",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "64": {
+        "title": "Episode #1.64",
+        "released": "2018-04-17",
+        "rating": "N/A",
+        "imdb_id": "tt8244416",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "65": {
+        "title": "Episode #1.65",
+        "released": "2018-04-18",
+        "rating": "N/A",
+        "imdb_id": "tt8244420",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "66": {
+        "title": "Episode #1.66",
+        "released": "2018-04-19",
+        "rating": "N/A",
+        "imdb_id": "tt8244426",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "67": {
+        "title": "Episode #1.67",
+        "released": "2018-04-01",
+        "rating": "N/A",
+        "imdb_id": "tt8244430",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "68": {
+        "title": "Episode #1.68",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8244436",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "69": {
+        "title": "Episode #1.69",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8244438",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "70": {
+        "title": "Episode #1.70",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8244442",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "71": {
+        "title": "Episode #1.71",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8246380",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "72": {
+        "title": "Episode #1.72",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8246382",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "73": {
+        "title": "Episode #1.73",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8246386",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "74": {
+        "title": "Episode #1.74",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8246388",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "75": {
+        "title": "Episode #1.75",
+        "released": "2018-05-08",
+        "rating": "N/A",
+        "imdb_id": "tt8246390",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "76": {
+        "title": "Episode #1.76",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8246394",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "77": {
+        "title": "Episode #1.77",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8246396",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "78": {
+        "title": "Episode #1.78",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8246398",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "79": {
+        "title": "Episode #1.79",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8246400",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "80": {
+        "title": "Episode #1.80",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8246402",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "81": {
+        "title": "Episode #1.81",
+        "released": "2018-05-17",
+        "rating": "N/A",
+        "imdb_id": "tt8246408",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "82": {
+        "title": "Episode #1.82",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8246410",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "83": {
+        "title": "Episode #1.83",
+        "released": "2018-05-22",
+        "rating": "N/A",
+        "imdb_id": "tt8246412",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "84": {
+        "title": "Episode #1.84",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt8246414",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

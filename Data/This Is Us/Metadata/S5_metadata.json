@@ -1,0 +1,130 @@
+{
+    "1": {
+        "title": "Forty: Part One",
+        "released": "2020-10-27",
+        "rating": "7.5",
+        "imdb_id": "tt10322342",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S5\\This.Is.Us.S05E01.720p.HDTV.x264-SYNCOPY-HIS5E1.zip"
+    },
+    "2": {
+        "title": "Forty: Part Two",
+        "released": "2020-10-27",
+        "rating": "7.5",
+        "imdb_id": "tt13275494",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S5\\This.Is.Us.S05E02.720p.WEB.H264-STRONTiUM_-_mS5E2.zip"
+    },
+    "3": {
+        "title": "Changes",
+        "released": "2020-11-10",
+        "rating": "7.6",
+        "imdb_id": "tt13352884",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S5\\This.Is.Us.S05E03.720p.HDTV.x264-SYNCOPY-HIS5E3.zip"
+    },
+    "4": {
+        "title": "Honestly",
+        "released": "2020-11-17",
+        "rating": "8.2",
+        "imdb_id": "tt13394344",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S5\\This.Is.Us.S05E04.Honestly_.WEBRip.x264-ION10.43.00S5E4.zip"
+    },
+    "5": {
+        "title": "A Long Road Home",
+        "released": "2021-01-05",
+        "rating": "8.0",
+        "imdb_id": "tt13440594",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S5\\This.Is.Us.S05E05.720p.HDTV.x264-SYNCOPYS5E5.zip"
+    },
+    "6": {
+        "title": "Birth Mother",
+        "released": "2021-01-12",
+        "rating": "8.9",
+        "imdb_id": "tt13440628",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S5\\This.Is.Us.S05E06.WEBRip.x264-ION10S5E6.zip"
+    },
+    "7": {
+        "title": "There",
+        "released": "2021-02-09",
+        "rating": "8.4",
+        "imdb_id": "tt13761864",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S5\\This.Is.Us.S05E07.There.1080p.HDTV.x264-aFi_-_mS5E7.zip"
+    },
+    "8": {
+        "title": "In the Room",
+        "released": "2021-02-16",
+        "rating": "9.0",
+        "imdb_id": "tt13841384",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S5\\This.is.Us.S05E08.In.The.Room.720p.AMZN.WEB-DL.DDP5.1.H.264-NTbS5E8.zip"
+    },
+    "9": {
+        "title": "The Ride",
+        "released": "2021-02-23",
+        "rating": "8.1",
+        "imdb_id": "tt14071708",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S5\\This.Is.Us.S05E09.WEBRip.x264-ION10S5E9.zip"
+    },
+    "10": {
+        "title": "I've Got This",
+        "released": "2021-03-16",
+        "rating": "8.0",
+        "imdb_id": "tt14122176",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "One Small Step...",
+        "released": "2021-03-23",
+        "rating": "8.7",
+        "imdb_id": "tt14209614",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S5\\This.Is.Us.S05E11.HDTV.x264-PHOENiXS5E11.zip"
+    },
+    "12": {
+        "title": "Both Things Can Be True",
+        "released": "2021-04-06",
+        "rating": "7.8",
+        "imdb_id": "tt14301820",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Brotherly Love",
+        "released": "2021-04-13",
+        "rating": "8.2",
+        "imdb_id": "tt14357426",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Music and the Mirror",
+        "released": "2021-05-11",
+        "rating": "8.2",
+        "imdb_id": "tt14451164",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Jerry 2.0",
+        "released": "2021-05-18",
+        "rating": "8.0",
+        "imdb_id": "tt14583064",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Adirondacks",
+        "released": "2021-05-25",
+        "rating": "8.7",
+        "imdb_id": "tt14597122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

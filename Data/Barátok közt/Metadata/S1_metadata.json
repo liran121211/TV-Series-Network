@@ -1,0 +1,802 @@
+{
+    "1": {
+        "title": "Episode #1.1",
+        "released": "1998-10-26",
+        "rating": "N/A",
+        "imdb_id": "tt0790831",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #1.2",
+        "released": "1998-10-18",
+        "rating": "N/A",
+        "imdb_id": "tt0790832",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #1.3",
+        "released": "1998-10-27",
+        "rating": "N/A",
+        "imdb_id": "tt11447068",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #1.4",
+        "released": "1998-10-27",
+        "rating": "N/A",
+        "imdb_id": "tt11447072",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #1.5",
+        "released": "1998-10-28",
+        "rating": "N/A",
+        "imdb_id": "tt11454972",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #1.6",
+        "released": "1998-10-28",
+        "rating": "N/A",
+        "imdb_id": "tt11454976",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #1.7",
+        "released": "1998-10-29",
+        "rating": "N/A",
+        "imdb_id": "tt11454992",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #1.8",
+        "released": "1998-10-29",
+        "rating": "N/A",
+        "imdb_id": "tt11454998",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode #1.9",
+        "released": "1998-10-30",
+        "rating": "N/A",
+        "imdb_id": "tt12857064",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Episode #1.10",
+        "released": "1998-10-30",
+        "rating": "N/A",
+        "imdb_id": "tt12857070",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Episode #1.11",
+        "released": "1998-11-02",
+        "rating": "N/A",
+        "imdb_id": "tt12857106",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Episode #1.12",
+        "released": "1998-11-02",
+        "rating": "N/A",
+        "imdb_id": "tt12857110",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Episode #1.13",
+        "released": "1998-11-03",
+        "rating": "N/A",
+        "imdb_id": "tt12857114",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Episode #1.14",
+        "released": "1998-11-03",
+        "rating": "N/A",
+        "imdb_id": "tt12857116",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Episode #1.15",
+        "released": "1998-11-04",
+        "rating": "N/A",
+        "imdb_id": "tt12975444",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Episode #1.17",
+        "released": "1998-11-05",
+        "rating": "N/A",
+        "imdb_id": "tt12975448",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Episode #1.18",
+        "released": "1998-11-05",
+        "rating": "N/A",
+        "imdb_id": "tt12975450",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Episode #1.19",
+        "released": "1998-11-06",
+        "rating": "N/A",
+        "imdb_id": "tt12975452",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Episode #1.20",
+        "released": "1998-11-06",
+        "rating": "N/A",
+        "imdb_id": "tt12975454",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Episode #1.21",
+        "released": "1998-11-09",
+        "rating": "N/A",
+        "imdb_id": "tt12975456",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Episode #1.22",
+        "released": "1998-11-09",
+        "rating": "N/A",
+        "imdb_id": "tt12975458",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Episode #1.23",
+        "released": "1998-11-10",
+        "rating": "N/A",
+        "imdb_id": "tt12975460",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Episode #1.24",
+        "released": "1998-11-10",
+        "rating": "N/A",
+        "imdb_id": "tt12975462",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Episode #1.26",
+        "released": "1998-11-11",
+        "rating": "N/A",
+        "imdb_id": "tt12975482",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Episode #1.27",
+        "released": "1998-11-12",
+        "rating": "N/A",
+        "imdb_id": "tt12975486",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Episode #1.28",
+        "released": "1998-11-12",
+        "rating": "N/A",
+        "imdb_id": "tt12975488",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Episode #1.29",
+        "released": "1998-11-13",
+        "rating": "N/A",
+        "imdb_id": "tt12975490",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Episode #1.30",
+        "released": "1998-11-13",
+        "rating": "N/A",
+        "imdb_id": "tt12975492",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Episode #1.31",
+        "released": "1998-11-16",
+        "rating": "N/A",
+        "imdb_id": "tt12975494",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Episode #1.32",
+        "released": "1998-11-16",
+        "rating": "N/A",
+        "imdb_id": "tt12975500",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Episode #1.33",
+        "released": "1998-11-17",
+        "rating": "N/A",
+        "imdb_id": "tt12975504",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "Episode #1.34",
+        "released": "1998-11-17",
+        "rating": "N/A",
+        "imdb_id": "tt12975506",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Episode #1.35",
+        "released": "1998-11-18",
+        "rating": "N/A",
+        "imdb_id": "tt12975538",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Episode #1.36",
+        "released": "1998-11-18",
+        "rating": "N/A",
+        "imdb_id": "tt12975540",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Episode #1.37",
+        "released": "1998-11-19",
+        "rating": "N/A",
+        "imdb_id": "tt12975542",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Episode #1.38",
+        "released": "1998-11-19",
+        "rating": "N/A",
+        "imdb_id": "tt12975546",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Episode #1.39",
+        "released": "1998-11-20",
+        "rating": "N/A",
+        "imdb_id": "tt12975548",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Episode #1.40",
+        "released": "1998-11-20",
+        "rating": "N/A",
+        "imdb_id": "tt12975550",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Episode #1.41",
+        "released": "1998-11-23",
+        "rating": "N/A",
+        "imdb_id": "tt12976544",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Episode #1.42",
+        "released": "1998-11-23",
+        "rating": "N/A",
+        "imdb_id": "tt12976550",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Episode #1.43",
+        "released": "1998-11-24",
+        "rating": "N/A",
+        "imdb_id": "tt12976560",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Episode #1.44",
+        "released": "1998-11-24",
+        "rating": "N/A",
+        "imdb_id": "tt12976572",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "Episode #1.45",
+        "released": "1998-11-25",
+        "rating": "N/A",
+        "imdb_id": "tt12976580",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Episode #1.46",
+        "released": "1998-11-25",
+        "rating": "N/A",
+        "imdb_id": "tt12976584",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Episode #1.47",
+        "released": "1998-11-26",
+        "rating": "N/A",
+        "imdb_id": "tt12976588",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "Episode #1.48",
+        "released": "1998-11-26",
+        "rating": "N/A",
+        "imdb_id": "tt12976592",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "Episode #1.49",
+        "released": "1998-11-27",
+        "rating": "N/A",
+        "imdb_id": "tt12976602",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "Episode #1.51",
+        "released": "1998-11-30",
+        "rating": "N/A",
+        "imdb_id": "tt12976620",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Episode #1.52",
+        "released": "1998-11-30",
+        "rating": "N/A",
+        "imdb_id": "tt12976622",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "53": {
+        "title": "Episode #1.53",
+        "released": "1998-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt12976628",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "54": {
+        "title": "Episode #1.54",
+        "released": "1998-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt12976632",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "Episode #1.55",
+        "released": "1998-12-02",
+        "rating": "N/A",
+        "imdb_id": "tt12976638",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "56": {
+        "title": "Episode #1.56",
+        "released": "1998-12-02",
+        "rating": "N/A",
+        "imdb_id": "tt12976646",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "57": {
+        "title": "Episode #1.57",
+        "released": "1998-12-03",
+        "rating": "N/A",
+        "imdb_id": "tt12976656",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "58": {
+        "title": "Episode #1.58",
+        "released": "1998-12-03",
+        "rating": "N/A",
+        "imdb_id": "tt12976664",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "59": {
+        "title": "Episode #1.59",
+        "released": "1998-12-04",
+        "rating": "N/A",
+        "imdb_id": "tt12976670",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "60": {
+        "title": "Episode #1.60",
+        "released": "1998-12-04",
+        "rating": "N/A",
+        "imdb_id": "tt12976684",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "61": {
+        "title": "Episode #1.61",
+        "released": "1998-12-07",
+        "rating": "N/A",
+        "imdb_id": "tt12976692",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "62": {
+        "title": "Episode #1.62",
+        "released": "1998-12-07",
+        "rating": "N/A",
+        "imdb_id": "tt12976694",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "63": {
+        "title": "Episode #1.63",
+        "released": "1998-12-08",
+        "rating": "N/A",
+        "imdb_id": "tt12976696",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "64": {
+        "title": "Episode #1.64",
+        "released": "1998-12-08",
+        "rating": "N/A",
+        "imdb_id": "tt12976700",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "65": {
+        "title": "Episode #1.65",
+        "released": "1998-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt12976706",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "66": {
+        "title": "Episode #1.66",
+        "released": "1998-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt12976710",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "67": {
+        "title": "Episode #1.67",
+        "released": "1998-12-10",
+        "rating": "N/A",
+        "imdb_id": "tt12997058",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "68": {
+        "title": "Episode #1.68",
+        "released": "1998-12-10",
+        "rating": "N/A",
+        "imdb_id": "tt12997064",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "69": {
+        "title": "Episode #1.69",
+        "released": "1998-12-11",
+        "rating": "N/A",
+        "imdb_id": "tt12997078",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "70": {
+        "title": "Episode #1.70",
+        "released": "1998-12-11",
+        "rating": "N/A",
+        "imdb_id": "tt12997092",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "71": {
+        "title": "Episode #1.71",
+        "released": "1998-12-14",
+        "rating": "N/A",
+        "imdb_id": "tt12997100",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "72": {
+        "title": "Episode #1.72",
+        "released": "1998-12-14",
+        "rating": "N/A",
+        "imdb_id": "tt12997114",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "73": {
+        "title": "Episode #1.73",
+        "released": "1998-12-15",
+        "rating": "N/A",
+        "imdb_id": "tt12997116",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "74": {
+        "title": "Episode #1.74",
+        "released": "1998-12-15",
+        "rating": "N/A",
+        "imdb_id": "tt12997122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "75": {
+        "title": "Episode #1.75",
+        "released": "1998-12-16",
+        "rating": "N/A",
+        "imdb_id": "tt12997134",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "76": {
+        "title": "Episode #1.76",
+        "released": "1998-12-16",
+        "rating": "N/A",
+        "imdb_id": "tt12997138",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "77": {
+        "title": "Episode #1.77",
+        "released": "1998-12-17",
+        "rating": "N/A",
+        "imdb_id": "tt12997252",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "78": {
+        "title": "Episode #1.78",
+        "released": "1998-12-17",
+        "rating": "N/A",
+        "imdb_id": "tt12997272",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "79": {
+        "title": "Episode #1.79",
+        "released": "1998-12-18",
+        "rating": "N/A",
+        "imdb_id": "tt12997294",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "80": {
+        "title": "Episode #1.80",
+        "released": "1998-12-18",
+        "rating": "N/A",
+        "imdb_id": "tt12997298",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "81": {
+        "title": "Episode #1.81",
+        "released": "1998-12-21",
+        "rating": "N/A",
+        "imdb_id": "tt12997322",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "82": {
+        "title": "Episode #1.82",
+        "released": "1998-12-21",
+        "rating": "N/A",
+        "imdb_id": "tt12997334",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "83": {
+        "title": "Episode #1.83",
+        "released": "1998-12-22",
+        "rating": "N/A",
+        "imdb_id": "tt12997354",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "84": {
+        "title": "Episode #1.84",
+        "released": "1998-12-22",
+        "rating": "N/A",
+        "imdb_id": "tt12997358",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "85": {
+        "title": "Episode #1.85",
+        "released": "1998-12-23",
+        "rating": "N/A",
+        "imdb_id": "tt12997386",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "86": {
+        "title": "Episode #1.86",
+        "released": "1998-12-23",
+        "rating": "N/A",
+        "imdb_id": "tt12997400",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "87": {
+        "title": "Episode #1.87",
+        "released": "1999-01-04",
+        "rating": "N/A",
+        "imdb_id": "tt12997414",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "88": {
+        "title": "Episode #1.88",
+        "released": "1999-01-04",
+        "rating": "N/A",
+        "imdb_id": "tt12997422",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "89": {
+        "title": "Episode #1.89",
+        "released": "1999-01-05",
+        "rating": "N/A",
+        "imdb_id": "tt12997424",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "90": {
+        "title": "Episode #1.90",
+        "released": "1999-01-05",
+        "rating": "N/A",
+        "imdb_id": "tt12997426",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "91": {
+        "title": "Episode #1.91",
+        "released": "1999-01-06",
+        "rating": "N/A",
+        "imdb_id": "tt12997430",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "92": {
+        "title": "Episode #1.92",
+        "released": "1999-01-06",
+        "rating": "N/A",
+        "imdb_id": "tt12997432",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "93": {
+        "title": "Episode #1.93",
+        "released": "1999-01-07",
+        "rating": "N/A",
+        "imdb_id": "tt12997438",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "94": {
+        "title": "Episode #1.94",
+        "released": "1999-01-07",
+        "rating": "N/A",
+        "imdb_id": "tt12997444",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "95": {
+        "title": "Episode #1.95",
+        "released": "1999-01-08",
+        "rating": "N/A",
+        "imdb_id": "tt12997448",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "96": {
+        "title": "Episode #1.96",
+        "released": "1999-01-08",
+        "rating": "N/A",
+        "imdb_id": "tt12997450",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "97": {
+        "title": "Episode #1.97",
+        "released": "1999-01-11",
+        "rating": "N/A",
+        "imdb_id": "tt12997466",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "98": {
+        "title": "Episode #1.98",
+        "released": "1999-01-11",
+        "rating": "N/A",
+        "imdb_id": "tt12997476",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "99": {
+        "title": "Episode #1.99",
+        "released": "1999-01-12",
+        "rating": "N/A",
+        "imdb_id": "tt12997488",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "100": {
+        "title": "Episode #1.100",
+        "released": "1999-01-12",
+        "rating": "N/A",
+        "imdb_id": "tt12997502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "101": {
+        "title": "Episode #1.101",
+        "released": "1999-01-13",
+        "rating": "N/A",
+        "imdb_id": "tt13000052",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "102": {
+        "title": "Episode #1.102",
+        "released": "1999-01-13",
+        "rating": "N/A",
+        "imdb_id": "tt13000054",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "103": {
+        "title": "Episode #1.103",
+        "released": "1999-01-14",
+        "rating": "N/A",
+        "imdb_id": "tt13000056",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

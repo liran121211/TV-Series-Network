@@ -1,0 +1,114 @@
+{
+    "1": {
+        "title": "A",
+        "released": "2024-10-05",
+        "rating": "9.1",
+        "imdb_id": "tt33336321",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Kill the King",
+        "released": "2024-10-12",
+        "rating": "N/A",
+        "imdb_id": "tt33697595",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Dark Arm",
+        "released": "2024-10-19",
+        "rating": "9.3",
+        "imdb_id": "tt33888120",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Betrayer",
+        "released": "2024-10-26",
+        "rating": "N/A",
+        "imdb_id": "tt33990548",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Against the judgement",
+        "released": "2024-11-02",
+        "rating": "9.6",
+        "imdb_id": "tt33990552",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Holy Newborn",
+        "released": "2024-11-09",
+        "rating": "8.5",
+        "imdb_id": "tt33990555",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Gate of the Sun",
+        "released": "2024-11-16",
+        "rating": "9.4",
+        "imdb_id": "tt33990568",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Baby, Hold Your Hand",
+        "released": "2024-11-23",
+        "rating": "9.1",
+        "imdb_id": "tt33990562",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode #3.9",
+        "released": "2024-11-30",
+        "rating": "N/A",
+        "imdb_id": "tt33990561",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Baby, Hold Your Hand 2 (Never Ending My Dream)",
+        "released": "2024-12-07",
+        "rating": "9.5",
+        "imdb_id": "tt34622360",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Shadows Gone",
+        "released": "2024-12-14",
+        "rating": "9.6",
+        "imdb_id": "tt34622361",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Friend",
+        "released": "2024-12-21",
+        "rating": "N/A",
+        "imdb_id": "tt34622364",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Episode #3.13",
+        "released": "2024-12-28",
+        "rating": "N/A",
+        "imdb_id": "tt34622365",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "My Last Words",
+        "released": "2024-12-28",
+        "rating": "9.1",
+        "imdb_id": "tt35147493",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

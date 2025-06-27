@@ -1,0 +1,26 @@
+{
+    "3": {
+        "title": "The Greater Good",
+        "released": "2017-10-09",
+        "rating": "8.0",
+        "imdb_id": "tt7205876",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Seville Defection",
+        "released": "2017-10-30",
+        "rating": "N/A",
+        "imdb_id": "tt7205872",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "It's All Personal",
+        "released": "2017-11-06",
+        "rating": "N/A",
+        "imdb_id": "tt7533222",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

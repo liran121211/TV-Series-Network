@@ -1,0 +1,26 @@
+{
+    "1": {
+        "title": "Quincy",
+        "released": "2008-05-19",
+        "rating": "N/A",
+        "imdb_id": "tt1235328",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Sky",
+        "released": "2008-07-29",
+        "rating": "N/A",
+        "imdb_id": "tt1245256",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Taylor",
+        "released": "2008-08-04",
+        "rating": "N/A",
+        "imdb_id": "tt1350270",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

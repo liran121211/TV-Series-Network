@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "From Prussia with Love",
+        "released": "1986-08-31",
+        "rating": "8.1",
+        "imdb_id": "tt0666548",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Miracle of Peckham",
+        "released": "1986-09-07",
+        "rating": "8.1",
+        "imdb_id": "tt0666579",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Longest Night",
+        "released": "1986-09-14",
+        "rating": "8.5",
+        "imdb_id": "tt0666578",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Tea for Three",
+        "released": "1986-09-21",
+        "rating": "8.8",
+        "imdb_id": "tt0666572",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Video Nasty",
+        "released": "1986-09-28",
+        "rating": "7.7",
+        "imdb_id": "tt0666589",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Who Wants to Be a Millionaire?",
+        "released": "1986-10-05",
+        "rating": "8.0",
+        "imdb_id": "tt0666592",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "A Royal Flush",
+        "released": "1986-12-25",
+        "rating": "7.2",
+        "imdb_id": "tt0666534",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Frog's Legacy",
+        "released": "1987-12-25",
+        "rating": "8.4",
+        "imdb_id": "tt0666575",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Dates",
+        "released": "1988-12-25",
+        "rating": "8.8",
+        "imdb_id": "tt0666544",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

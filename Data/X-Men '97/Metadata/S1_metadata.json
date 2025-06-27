@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "To Me, My X-Men",
+        "released": "2024-03-20",
+        "rating": "8.3",
+        "imdb_id": "tt21350562",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\X-Men '97\\Subtitles\\S1\\X-Men.97.S01E01.To.Me.My.X-Men.1080p.WEB-DL.x265.6CH-Pahe.inS1E1.zip"
+    },
+    "2": {
+        "title": "Mutant Liberation Begins",
+        "released": "2024-03-20",
+        "rating": "9.0",
+        "imdb_id": "tt31322425",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\X-Men '97\\Subtitles\\S1\\X-Men.'97.S01E02.2024.WEBRip-DSN+S1E2.zip"
+    },
+    "3": {
+        "title": "Fire Made Flesh",
+        "released": "2024-03-27",
+        "rating": "8.5",
+        "imdb_id": "tt31322434",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\X-Men '97\\Subtitles\\S1\\X-Men97.S01E03.WEBRip-DSN+S1E3.zip"
+    },
+    "4": {
+        "title": "Motendo/Lifedeath - Part 1",
+        "released": "2024-04-03",
+        "rating": "7.0",
+        "imdb_id": "tt31322435",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\X-Men '97\\Subtitles\\S1\\X-Men97.S01E04.WEBRip-DSN+S1E4.zip"
+    },
+    "5": {
+        "title": "Remember It",
+        "released": "2024-04-10",
+        "rating": "9.7",
+        "imdb_id": "tt31322436",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\X-Men '97\\Subtitles\\S1\\X-Men97.S01E05.WEBRip-DSN+S1E5.zip"
+    },
+    "6": {
+        "title": "Lifedeath - Part 2",
+        "released": "2024-04-17",
+        "rating": "7.8",
+        "imdb_id": "tt31322437",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\X-Men '97\\Subtitles\\S1\\X-Men.97.S01E06-09.DSNP.WEB.h264-EDITH[cc]S1E6.zip"
+    },
+    "7": {
+        "title": "Bright Eyes",
+        "released": "2024-04-24",
+        "rating": "8.6",
+        "imdb_id": "tt31322438",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Tolerance Is Extinction - Part 1",
+        "released": "2024-05-01",
+        "rating": "9.2",
+        "imdb_id": "tt31322442",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Tolerance Is Extinction - Part 2",
+        "released": "2024-05-08",
+        "rating": "9.3",
+        "imdb_id": "tt31322443",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Tolerance Is Extinction - Part 3",
+        "released": "2024-05-15",
+        "rating": "9.3",
+        "imdb_id": "tt31322446",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

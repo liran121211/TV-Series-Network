@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Wayfarer",
+        "released": "2014-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt3466846",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Polo\\Subtitles\\S1\\Polo.2024.S01E01.Pressure.720p.NF.WEB-DL.DDP5.1.Atmos.H.264-playWEB_[eng].srt.zip"
+    },
+    "2": {
+        "title": "The Wolf and the Deer",
+        "released": "2014-12-12",
+        "rating": "7.9",
+        "imdb_id": "tt3798170",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Polo\\Subtitles\\S1\\Polo.2024.S01E02.Focus.720p.NF.WEB-DL.DDP5.1.Atmos.H.264-playWEB_[eng].zip"
+    },
+    "3": {
+        "title": "Feast",
+        "released": "2014-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt3720652",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Polo\\Subtitles\\S1\\Polo.2024.S01E03.Priorities.720p.NF.WEB-DL.DDP5.1.Atmos.H.264-playWEB_[eng].zip"
+    },
+    "4": {
+        "title": "The Fourth Step",
+        "released": "2014-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt3720656",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Polo\\Subtitles\\S1\\Polo.2024.S01E04.Danger.720p.NF.WEB-DL.DDP5.1.Atmos.H.264-playWEB_[eng].zip"
+    },
+    "5": {
+        "title": "Hashshashin",
+        "released": "2014-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt3798176",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Polo\\Subtitles\\S1\\Polo.2024.S01E05.Final.720p.NF.WEB-DL.DDP5.1.Atmos.H.264-playWEB_[eng].zip"
+    },
+    "6": {
+        "title": "White Moon",
+        "released": "2014-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt3798178",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Scholar's Pen",
+        "released": "2014-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt3855306",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Rendering",
+        "released": "2014-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt3720658",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Polo\\Subtitles\\S1\\Polo.2024.S01E01.Pressure.720p.NF.WEB-DL.DDP5.1.Atmos.H.264-playWEB_[eng].zip"
+    },
+    "9": {
+        "title": "Prisoners",
+        "released": "2014-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt3855318",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Polo\\Subtitles\\S1\\Polo.2024.S01E01.Pressure.720p.NF.WEB-DL.DDP5.1.Atmos.H.264-playWEB_[eng].zip"
+    },
+    "10": {
+        "title": "The Heavenly and Primal",
+        "released": "2014-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt3720660",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Polo\\Subtitles\\S1\\Polo.2024.S01E01.Pressure.720p.NF.WEB-DL.DDP5.1.Atmos.H.264-playWEB_[eng].zip"
+    }
+}

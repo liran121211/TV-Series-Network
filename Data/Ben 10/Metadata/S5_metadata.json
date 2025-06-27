@@ -1,0 +1,26 @@
+{
+    "1": {
+        "title": "Ben 10,010",
+        "released": "2021-04-09",
+        "rating": "7.5",
+        "imdb_id": "tt14317168",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Ben Gen 10",
+        "released": "2021-04-10",
+        "rating": "N/A",
+        "imdb_id": "tt14422106",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Alien X-tinction",
+        "released": "2021-04-11",
+        "rating": "7.7",
+        "imdb_id": "tt14422108",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

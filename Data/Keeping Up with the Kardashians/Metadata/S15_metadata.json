@@ -1,0 +1,130 @@
+{
+    "1": {
+        "title": "Photo Shoot Dispute",
+        "released": "2018-08-05",
+        "rating": "N/A",
+        "imdb_id": "tt8772940",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Art of the Prank",
+        "released": "2018-08-12",
+        "rating": "N/A",
+        "imdb_id": "tt8777742",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Drop Dead Gorgeous",
+        "released": "2018-08-19",
+        "rating": "N/A",
+        "imdb_id": "tt8809796",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Nightmare Before Christmas",
+        "released": "2018-08-26",
+        "rating": "N/A",
+        "imdb_id": "tt8840336",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Family Feud",
+        "released": "2018-09-09",
+        "rating": "N/A",
+        "imdb_id": "tt8893178",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Keeping Up with the Kardashians\\Subtitles\\S15\\Keeping.Up.with.the.Kardashians.S15E05.WEBRip.x264-ION10S15E5.zip"
+    },
+    "6": {
+        "title": "We Love Chicago",
+        "released": "2018-09-16",
+        "rating": "N/A",
+        "imdb_id": "tt8912838",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Perfect Stormi",
+        "released": "2018-09-23",
+        "rating": "5.3",
+        "imdb_id": "tt8952502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "An American Model in Paris",
+        "released": "2018-09-30",
+        "rating": "N/A",
+        "imdb_id": "tt9093702",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Kardashians Take Japan",
+        "released": "2018-10-07",
+        "rating": "N/A",
+        "imdb_id": "tt9093706",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Let's Play Ball!",
+        "released": "2018-10-14",
+        "rating": "N/A",
+        "imdb_id": "tt9093708",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Lord & His Lady",
+        "released": "2018-10-28",
+        "rating": "N/A",
+        "imdb_id": "tt9373864",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Keeping Up with the Kardashians\\Subtitles\\S6\\Keeping_Up_with_the_Kardashians_S10E3.zip"
+    },
+    "12": {
+        "title": "The Betrayal",
+        "released": "2018-11-04",
+        "rating": "N/A",
+        "imdb_id": "tt9373872",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "True Story",
+        "released": "2018-11-18",
+        "rating": "N/A",
+        "imdb_id": "tt9373874",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Keeping Up with the Kardashians\\Subtitles\\S6\\Keeping_Up_with_the_Kardashians_S10E3.zip"
+    },
+    "14": {
+        "title": "Vegas, Baby!",
+        "released": "2018-11-25",
+        "rating": "N/A",
+        "imdb_id": "tt9373876",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Stacking the Deck",
+        "released": "2018-12-02",
+        "rating": "N/A",
+        "imdb_id": "tt9373880",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Break Free",
+        "released": "2018-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt9642546",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

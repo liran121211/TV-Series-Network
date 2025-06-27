@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2009-07-07",
+        "rating": "7.5",
+        "imdb_id": "tt1417762",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Resonance",
+        "released": "2009-07-14",
+        "rating": "7.5",
+        "imdb_id": "tt1431675",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Magnetism",
+        "released": "2009-07-21",
+        "rating": "7.5",
+        "imdb_id": "tt1431673",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Claudia",
+        "released": "2009-07-28",
+        "rating": "7.7",
+        "imdb_id": "tt1431669",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Elements",
+        "released": "2009-08-04",
+        "rating": "7.3",
+        "imdb_id": "tt1431671",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Burnout",
+        "released": "2009-08-11",
+        "rating": "7.5",
+        "imdb_id": "tt1431668",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Implosion",
+        "released": "2009-08-18",
+        "rating": "7.7",
+        "imdb_id": "tt1431672",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Duped",
+        "released": "2009-08-25",
+        "rating": "8.0",
+        "imdb_id": "tt1431670",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Regrets",
+        "released": "2009-09-01",
+        "rating": "7.5",
+        "imdb_id": "tt1431674",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Breakdown",
+        "released": "2009-09-08",
+        "rating": "8.0",
+        "imdb_id": "tt1431667",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Nevermore",
+        "released": "2009-09-15",
+        "rating": "N/A",
+        "imdb_id": "tt1431665",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "MacPherson",
+        "released": "2009-09-22",
+        "rating": "8.2",
+        "imdb_id": "tt1431666",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

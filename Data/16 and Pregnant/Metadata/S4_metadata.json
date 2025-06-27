@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "MacKenzie",
+        "released": "2012-03-27",
+        "rating": "N/A",
+        "imdb_id": "tt1975334",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S04E01.Mackenzie.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "2": {
+        "title": "Katie",
+        "released": "2012-03-27",
+        "rating": "N/A",
+        "imdb_id": "tt2306887",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S04E02.Katie.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "4": {
+        "title": "Lindsey",
+        "released": "2012-04-10",
+        "rating": "N/A",
+        "imdb_id": "tt2331215",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S04E04.Lindsey.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "5": {
+        "title": "Alex",
+        "released": "2012-04-17",
+        "rating": "N/A",
+        "imdb_id": "tt2381894",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S04E05.Alex.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "6": {
+        "title": "Jordan",
+        "released": "2012-04-24",
+        "rating": "N/A",
+        "imdb_id": "tt2381896",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S04E06.Jordan.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "8": {
+        "title": "Hope",
+        "released": "2012-05-08",
+        "rating": "N/A",
+        "imdb_id": "tt2381391",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S04E08.Sarah.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "9": {
+        "title": "Sabrina",
+        "released": "2012-05-15",
+        "rating": "N/A",
+        "imdb_id": "tt3594188",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S04E09.Hope.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "10": {
+        "title": "Sarah",
+        "released": "2012-05-15",
+        "rating": "N/A",
+        "imdb_id": "tt2388825",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S04E10.Sabrina.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "11": {
+        "title": "Devon",
+        "released": "2012-05-22",
+        "rating": "N/A",
+        "imdb_id": "tt2396781",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S04E11.Devon.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "12": {
+        "title": "Kristina",
+        "released": "2012-05-29",
+        "rating": "5.3",
+        "imdb_id": "tt2157238",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S04E12.Kristina.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "13": {
+        "title": "Life After Labor 4",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt2202428",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Where Are They Now? 4",
+        "released": "2013-09-09",
+        "rating": "N/A",
+        "imdb_id": "tt3111070",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

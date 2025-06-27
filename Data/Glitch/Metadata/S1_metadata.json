@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "The Risen",
+        "released": "2016-10-15",
+        "rating": "7.7",
+        "imdb_id": "tt4201880",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Am I in Hell?",
+        "released": "2016-10-15",
+        "rating": "N/A",
+        "imdb_id": "tt4201878",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Miracle or Punishment",
+        "released": "2016-10-15",
+        "rating": "N/A",
+        "imdb_id": "tt4201882",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "There Is No Justice",
+        "released": "2016-10-15",
+        "rating": "7.8",
+        "imdb_id": "tt4201886",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Impossible Triangle",
+        "released": "2016-10-15",
+        "rating": "N/A",
+        "imdb_id": "tt4201884",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

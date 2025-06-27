@@ -1,0 +1,18 @@
+{
+    "1": {
+        "title": "Evil Under the Sun",
+        "released": "2003-07-13",
+        "rating": "8.0",
+        "imdb_id": "tt0276115",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S8\\Agatha_Christie's_Poirot_(David_Suchet)_S08E01_1080p_H.264_(moviesbyrizzo)S8E1.zip"
+    },
+    "2": {
+        "title": "Murder in Mesopotamia",
+        "released": "2001-07-08",
+        "rating": "7.4",
+        "imdb_id": "tt0278634",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

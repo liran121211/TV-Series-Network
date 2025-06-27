@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Blackout",
+        "released": "2021-06-13",
+        "rating": "N/A",
+        "imdb_id": "tt14861056",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dystopia\\Subtitles\\S1\\dystopia.s01e01.480p.web.x264.rmteam.zip"
+    },
+    "2": {
+        "title": "Nödfrekvens",
+        "released": "2021-06-13",
+        "rating": "N/A",
+        "imdb_id": "tt14861030",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dystopia\\Subtitles\\S1\\dystopia.s01e02.480p.web.x264.rmteam.zip"
+    },
+    "3": {
+        "title": "Sleepwalker",
+        "released": "2021-06-13",
+        "rating": "N/A",
+        "imdb_id": "tt14860984",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dystopia\\Subtitles\\S1\\dystopia.s01e03.480p.web.x264.rmteam.zip"
+    },
+    "4": {
+        "title": "Achtung Baby",
+        "released": "2021-06-13",
+        "rating": "N/A",
+        "imdb_id": "tt14860944",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dystopia\\Subtitles\\S1\\dystopia.s01e04.480p.web.x264.rmteam.zip"
+    },
+    "6": {
+        "title": "Lev och låt leva",
+        "released": "2021-06-13",
+        "rating": "N/A",
+        "imdb_id": "tt14860856",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dystopia\\Subtitles\\S1\\dystopia.s01e06.480p.web.x264.rmteam.zip"
+    },
+    "8": {
+        "title": "Shutdown",
+        "released": "2021-06-13",
+        "rating": "N/A",
+        "imdb_id": "tt14860670",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "1": {
+        "title": "Episode #18.1",
+        "released": "2021-10-19",
+        "rating": "N/A",
+        "imdb_id": "tt14256902",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #18.6",
+        "released": "2021-11-23",
+        "rating": "N/A",
+        "imdb_id": "tt15168448",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Episode #18.10",
+        "released": "2021-12-21",
+        "rating": "N/A",
+        "imdb_id": "tt15168454",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

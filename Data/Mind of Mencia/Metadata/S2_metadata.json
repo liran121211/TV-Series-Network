@@ -1,0 +1,26 @@
+{
+    "1": {
+        "title": "Episode #2.1",
+        "released": "2006-03-22",
+        "rating": "4.7",
+        "imdb_id": "tt0782408",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #2.3",
+        "released": "2006-04-05",
+        "rating": "N/A",
+        "imdb_id": "tt0783122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Stereotype Olympics",
+        "released": "2006-07-23",
+        "rating": "3.9",
+        "imdb_id": "tt0833779",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

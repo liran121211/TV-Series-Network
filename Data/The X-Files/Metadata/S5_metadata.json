@@ -1,0 +1,162 @@
+{
+    "1": {
+        "title": "Redux",
+        "released": "1997-11-02",
+        "rating": "8.6",
+        "imdb_id": "tt0751187",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S5\\The_X-Files_S05E01_Redux_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S5E1.zip"
+    },
+    "2": {
+        "title": "Redux II",
+        "released": "1997-11-09",
+        "rating": "9.0",
+        "imdb_id": "tt0751188",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S5\\The_X-Files_S05E02_Redux_II_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S5E2.zip"
+    },
+    "3": {
+        "title": "Unusual Suspects",
+        "released": "1997-11-16",
+        "rating": "8.4",
+        "imdb_id": "tt0751256",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S5\\The_X-Files_S05E03_Unusual_Suspects_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S5E3.zip"
+    },
+    "4": {
+        "title": "Detour",
+        "released": "1997-11-23",
+        "rating": "8.1",
+        "imdb_id": "tt0751101",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S5\\The_X-Files_S05E04_Detour_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S5E4.zip"
+    },
+    "5": {
+        "title": "The Post-Modern Prometheus",
+        "released": "1997-11-30",
+        "rating": "8.5",
+        "imdb_id": "tt0751232",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S5\\The_X-Files_S05E05_The_Post-Modern_Prometheus_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S5E5.zip"
+    },
+    "6": {
+        "title": "Christmas Carol",
+        "released": "1997-12-07",
+        "rating": "7.7",
+        "imdb_id": "tt0751090",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S5\\The_X-Files_S05E06_Christmas_Carol_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S5E6.zip"
+    },
+    "7": {
+        "title": "Emily",
+        "released": "1997-12-14",
+        "rating": "7.6",
+        "imdb_id": "tt0751111",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S5\\The_X-Files_S05E07_Emily_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S5E7.zip"
+    },
+    "8": {
+        "title": "Kitsunegari",
+        "released": "1998-01-04",
+        "rating": "7.7",
+        "imdb_id": "tt0751151",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S5\\The_X-Files_S05E08_Kitsunegari_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S5E8.zip"
+    },
+    "9": {
+        "title": "Schizogeny",
+        "released": "1998-01-11",
+        "rating": "7.0",
+        "imdb_id": "tt0751199",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S5\\The_X-Files_S05E09_Schizogeny_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S5E9.zip"
+    },
+    "10": {
+        "title": "Chinga",
+        "released": "1998-02-08",
+        "rating": "7.5",
+        "imdb_id": "tt0751089",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Kill Switch",
+        "released": "1998-02-15",
+        "rating": "7.8",
+        "imdb_id": "tt0751150",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Bad Blood",
+        "released": "1998-02-22",
+        "rating": "9.2",
+        "imdb_id": "tt0751081",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Patient X",
+        "released": "1998-03-01",
+        "rating": "8.2",
+        "imdb_id": "tt0751177",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Red and the Black",
+        "released": "1998-03-08",
+        "rating": "8.3",
+        "imdb_id": "tt0751234",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Travelers",
+        "released": "1998-03-29",
+        "rating": "7.4",
+        "imdb_id": "tt0751247",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Mind's Eye",
+        "released": "1998-04-19",
+        "rating": "7.7",
+        "imdb_id": "tt0751161",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "All Souls",
+        "released": "1998-04-26",
+        "rating": "7.3",
+        "imdb_id": "tt0751070",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Pine Bluff Variant",
+        "released": "1998-05-03",
+        "rating": "8.0",
+        "imdb_id": "tt0751231",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Folie a Deux",
+        "released": "1998-05-10",
+        "rating": "8.5",
+        "imdb_id": "tt0751127",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The End",
+        "released": "1998-05-17",
+        "rating": "8.8",
+        "imdb_id": "tt0751223",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

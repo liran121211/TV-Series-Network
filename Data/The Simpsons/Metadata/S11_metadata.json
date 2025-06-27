@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Beyond Blunderdome",
+        "released": "1999-09-26",
+        "rating": "7.3",
+        "imdb_id": "tt0701069",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S11\\The.Simpsons.S11E01.WEB-DL.DSNPS11E1.zip"
+    },
+    "2": {
+        "title": "Brother's Little Helper",
+        "released": "1999-10-03",
+        "rating": "7.5",
+        "imdb_id": "tt0701075",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S11\\The.Simpsons.S11E02.WEB-DL.DSNPS11E2.zip"
+    },
+    "3": {
+        "title": "Guess Who's Coming to Criticize Dinner?",
+        "released": "1999-10-24",
+        "rating": "7.5",
+        "imdb_id": "tt0701102",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S11\\The.Simpsons.S11E03.WEB-DL.DSNPS11E3.zip"
+    },
+    "4": {
+        "title": "Treehouse of Horror X",
+        "released": "1999-10-31",
+        "rating": "7.8",
+        "imdb_id": "tt0701283",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S11\\The.Simpsons.S11E04.WEB-DL.DSNPS11E4.zip"
+    },
+    "5": {
+        "title": "E-I-E-I-(Annoyed Grunt)",
+        "released": "1999-11-07",
+        "rating": "7.9",
+        "imdb_id": "tt0701092",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S11\\The.Simpsons.S11E05.WEB-DL.DSNPS11E5.zip"
+    },
+    "6": {
+        "title": "Hello Gutter, Hello Fadder",
+        "released": "1999-11-14",
+        "rating": "7.3",
+        "imdb_id": "tt0701105",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S11\\The.Simpsons.S11E06.WEB-DL.DSNPS11E6.zip"
+    },
+    "7": {
+        "title": "Eight Misbehavin'",
+        "released": "1999-11-21",
+        "rating": "7.0",
+        "imdb_id": "tt0701093",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S11\\The.Simpsons.S11E07.WEB-DL.DSNPS11E7.zip"
+    },
+    "8": {
+        "title": "Take My Wife, Sleaze",
+        "released": "1999-11-28",
+        "rating": "7.1",
+        "imdb_id": "tt0701222",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S11\\The.Simpsons.S11E08.WEB-DL.DSNPS11E8.zip"
+    },
+    "9": {
+        "title": "Grift of the Magi",
+        "released": "1999-12-19",
+        "rating": "7.3",
+        "imdb_id": "tt0701101",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S11\\The.Simpsons.S11E09.WEB-DL.DSNPS11E9.zip"
+    },
+    "10": {
+        "title": "Little Big Mom",
+        "released": "2000-01-09",
+        "rating": "N/A",
+        "imdb_id": "tt0701166",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Faith Off",
+        "released": "2000-01-16",
+        "rating": "6.8",
+        "imdb_id": "tt0701095",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Mansion Family",
+        "released": "2000-01-23",
+        "rating": "7.3",
+        "imdb_id": "tt0701250",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Saddlesore Galactica",
+        "released": "2000-02-06",
+        "rating": "6.4",
+        "imdb_id": "tt0701203",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Alone Again, Natura-Diddly",
+        "released": "2000-02-13",
+        "rating": "N/A",
+        "imdb_id": "tt0701052",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Missionary: Impossible",
+        "released": "2000-02-20",
+        "rating": "N/A",
+        "imdb_id": "tt0701177",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Pygmoelian",
+        "released": "2000-02-27",
+        "rating": "N/A",
+        "imdb_id": "tt0767446",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Bart to the Future",
+        "released": "2000-03-23",
+        "rating": "7.2",
+        "imdb_id": "tt0767439",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Days of Wine and D'oh'ses",
+        "released": "2000-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt0767441",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Kill the Alligator and Run",
+        "released": "2000-04-30",
+        "rating": "6.6",
+        "imdb_id": "tt0701143",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Last Tap Dance in Springfield",
+        "released": "2000-05-07",
+        "rating": "7.1",
+        "imdb_id": "tt0767444",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "It's a Mad, Mad, Mad, Mad Marge",
+        "released": "2000-05-14",
+        "rating": "7.1",
+        "imdb_id": "tt0701138",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Behind the Laughter",
+        "released": "2000-05-21",
+        "rating": "7.9",
+        "imdb_id": "tt0701068",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

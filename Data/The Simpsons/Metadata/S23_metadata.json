@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "The Falcon and the D'Ohman",
+        "released": "2011-09-25",
+        "rating": "7.1",
+        "imdb_id": "tt2000327",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S23\\The.Simpsons.S23E01.HDTV.XviD-LOL.HIS23E1.zip"
+    },
+    "2": {
+        "title": "Bart Stops to Smell the Roosevelts",
+        "released": "2011-10-02",
+        "rating": "7.1",
+        "imdb_id": "tt2047547",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S23\\The.Simpsons.S23E02.HDTV.XviD-LOL.HIS23E2.zip"
+    },
+    "3": {
+        "title": "Treehouse of Horror XXII",
+        "released": "2011-10-30",
+        "rating": "6.4",
+        "imdb_id": "tt2083065",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S23\\The.Simpsons.S23E03.HDTV.XviD-LOL.HIS23E3.zip"
+    },
+    "4": {
+        "title": "Replaceable You",
+        "released": "2011-11-06",
+        "rating": "6.4",
+        "imdb_id": "tt2083064",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S23\\The_Simpsons_S23E04_HDTV_XviD-LOLS23E4.zip"
+    },
+    "5": {
+        "title": "The Food Wife",
+        "released": "2011-11-13",
+        "rating": "7.1",
+        "imdb_id": "tt2063514",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S23\\The.Simpsons.S23E05.HDTV.XviD-LOL.HIS23E5.zip"
+    },
+    "6": {
+        "title": "The Book Job",
+        "released": "2011-11-20",
+        "rating": "7.9",
+        "imdb_id": "tt2090363",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S23\\The.Simpsons.S23E06.HDTV.XviD-LOL.HIS23E6.zip"
+    },
+    "7": {
+        "title": "The Man in the Blue Flannel Pants",
+        "released": "2011-11-27",
+        "rating": "6.6",
+        "imdb_id": "tt2098488",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S23\\The.Simpsons.S23E07.HDTV.XviD-LOL.HIS23E7.zip"
+    },
+    "8": {
+        "title": "The Ten-Per-Cent Solution",
+        "released": "2011-12-04",
+        "rating": "6.1",
+        "imdb_id": "tt2107520",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S23\\The.Simpsons.S23E08.HDTV.XviD-LOL.HIS23E8.zip"
+    },
+    "9": {
+        "title": "Holidays of Future Passed",
+        "released": "2011-12-11",
+        "rating": "8.3",
+        "imdb_id": "tt2107521",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S23\\The.Simpsons.S23E09.HDTV.XviD-LOL.HIS23E9.zip"
+    },
+    "10": {
+        "title": "Politically Inept, with Homer Simpson",
+        "released": "2012-01-08",
+        "rating": "6.0",
+        "imdb_id": "tt2107516",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The D'oh-cial Network",
+        "released": "2012-01-15",
+        "rating": "N/A",
+        "imdb_id": "tt2107517",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Moe Goes from Rags to Riches",
+        "released": "2012-01-29",
+        "rating": "5.7",
+        "imdb_id": "tt2107518",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Daughter Also Rises",
+        "released": "2012-02-12",
+        "rating": "6.3",
+        "imdb_id": "tt2107519",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "At Long Last Leave",
+        "released": "2012-02-19",
+        "rating": "6.9",
+        "imdb_id": "tt2061517",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Exit Through the Kwik-E-Mart",
+        "released": "2012-03-04",
+        "rating": "6.8",
+        "imdb_id": "tt2287235",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "How I Wet Your Mother",
+        "released": "2012-03-11",
+        "rating": "7.2",
+        "imdb_id": "tt2214159",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Them, Robot",
+        "released": "2012-03-18",
+        "rating": "6.9",
+        "imdb_id": "tt2282549",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Beware My Cheating Bart",
+        "released": "2012-04-15",
+        "rating": "7.1",
+        "imdb_id": "tt2328399",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "A Totally Fun Thing Bart Will Never Do Again",
+        "released": "2012-04-29",
+        "rating": "7.6",
+        "imdb_id": "tt2107522",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Spy Who Learned Me",
+        "released": "2012-05-06",
+        "rating": "6.7",
+        "imdb_id": "tt2396247",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Ned 'N Edna's Blend Agenda",
+        "released": "2012-05-13",
+        "rating": "6.6",
+        "imdb_id": "tt2400823",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Lisa Goes Gaga",
+        "released": "2012-05-20",
+        "rating": "4.0",
+        "imdb_id": "tt2403733",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S23\\The.Simpsons.S23E22.HDTV.x264-LOL.HIS23E22.zip"
+    }
+}

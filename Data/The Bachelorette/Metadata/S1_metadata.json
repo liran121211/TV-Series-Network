@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Episode #1.1",
+        "released": "2003-01-08",
+        "rating": "N/A",
+        "imdb_id": "tt1003744",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #1.2",
+        "released": "2003-01-15",
+        "rating": "N/A",
+        "imdb_id": "tt1003745",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #1.3",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt0517809",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #1.4",
+        "released": "2003-01-29",
+        "rating": "N/A",
+        "imdb_id": "tt1003746",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #1.5",
+        "released": "2003-02-05",
+        "rating": "N/A",
+        "imdb_id": "tt1003747",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #1.6",
+        "released": "2003-02-12",
+        "rating": "N/A",
+        "imdb_id": "tt1098476",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #1.7",
+        "released": "2003-02-19",
+        "rating": "N/A",
+        "imdb_id": "tt1098477",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Trista & Ryan's Wedding: Part 1",
+        "released": "2003-03-12",
+        "rating": "N/A",
+        "imdb_id": "tt1098494",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Trista & Ryan's Wedding: Part 2",
+        "released": "2003-12-03",
+        "rating": "N/A",
+        "imdb_id": "tt1098495",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Trista & Ryan's Wedding: Part 3",
+        "released": "2003-12-10",
+        "rating": "N/A",
+        "imdb_id": "tt1098496",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Deadwood",
+        "released": "2004-03-21",
+        "rating": "8.2",
+        "imdb_id": "tt0556296",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Deadwood\\Subtitles\\S1\\Deadwood.S01E01.Mini.720p.WEB-DL.DD5.1.H.264-VisionXS1E1.zip"
+    },
+    "2": {
+        "title": "Deep Water",
+        "released": "2004-03-28",
+        "rating": "8.2",
+        "imdb_id": "tt0556297",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Deadwood\\Subtitles\\S1\\Deadwood.S01E02.Mini.720p.WEB-DL.DD5.1.H.264-VisionXS1E2.zip"
+    },
+    "3": {
+        "title": "Reconnoitering the Rim",
+        "released": "2004-04-04",
+        "rating": "N/A",
+        "imdb_id": "tt0556306",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Deadwood\\Subtitles\\S1\\Deadwood.S01E03.Mini.720p.WEB-DL.DD5.1.H.264-VisionXS1E3.zip"
+    },
+    "4": {
+        "title": "Here Was a Man",
+        "released": "2004-04-11",
+        "rating": "8.8",
+        "imdb_id": "tt0556299",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Deadwood\\Subtitles\\S1\\Deadwood.S01E04.Mini.720p.WEB-DL.DD5.1.H.264-VisionXS1E4.zip"
+    },
+    "5": {
+        "title": "The Trial of Jack McCall",
+        "released": "2004-04-18",
+        "rating": "N/A",
+        "imdb_id": "tt0556312",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Deadwood\\Subtitles\\S1\\Deadwood.S01E05.Mini.720p.WEB-DL.DD5.1.H.264-VisionXS1E5.zip"
+    },
+    "6": {
+        "title": "Plague",
+        "released": "2004-04-25",
+        "rating": "8.1",
+        "imdb_id": "tt0556304",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Deadwood\\Subtitles\\S1\\Deadwood.S01E06.Mini.720p.WEB-DL.DD5.1.H.264-VisionXS1E6.zip"
+    },
+    "7": {
+        "title": "Bullock Returns to the Camp",
+        "released": "2004-05-02",
+        "rating": "N/A",
+        "imdb_id": "tt0556292",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Deadwood\\Subtitles\\S1\\Deadwood.S01E07.Mini.720p.WEB-DL.DD5.1.H.264-VisionXS1E7.zip"
+    },
+    "8": {
+        "title": "Suffer the Little Children",
+        "released": "2004-05-09",
+        "rating": "8.2",
+        "imdb_id": "tt0556310",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Deadwood\\Subtitles\\S1\\Deadwood.S01E08.Mini.720p.WEB-DL.DD5.1.H.264-VisionXS1E8.zip"
+    },
+    "9": {
+        "title": "No Other Sons or Daughters",
+        "released": "2004-05-16",
+        "rating": "N/A",
+        "imdb_id": "tt0556303",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Deadwood\\Subtitles\\S1\\Deadwood.S01E09.Mini.720p.WEB-DL.DD5.1.H.264-VisionXS1E9.zip"
+    },
+    "10": {
+        "title": "Mister Wu",
+        "released": "2004-05-23",
+        "rating": "8.6",
+        "imdb_id": "tt0556301",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Jewel's Boot Is Made for Walking",
+        "released": "2004-06-06",
+        "rating": "8.3",
+        "imdb_id": "tt0556300",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Sold Under Sin",
+        "released": "2004-06-13",
+        "rating": "9.1",
+        "imdb_id": "tt0556308",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

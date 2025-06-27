@@ -1,0 +1,90 @@
+{
+    "1": {
+        "title": "Episode #1.1",
+        "released": "2021-12-02",
+        "rating": "N/A",
+        "imdb_id": "tt8115782",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #1.2",
+        "released": "2018-03-17",
+        "rating": "N/A",
+        "imdb_id": "tt8146014",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #1.3",
+        "released": "2018-03-17",
+        "rating": "N/A",
+        "imdb_id": "tt8146022",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #1.4",
+        "released": "2018-04-13",
+        "rating": "N/A",
+        "imdb_id": "tt8242530",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #1.5",
+        "released": "2018-04-13",
+        "rating": "N/A",
+        "imdb_id": "tt8244810",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #1.6",
+        "released": "2018-04-13",
+        "rating": "8.8",
+        "imdb_id": "tt8244812",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #1.7",
+        "released": "2018-05-11",
+        "rating": "N/A",
+        "imdb_id": "tt8390372",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #1.8",
+        "released": "2018-05-11",
+        "rating": "N/A",
+        "imdb_id": "tt8390390",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode #1.9",
+        "released": "2018-05-11",
+        "rating": "N/A",
+        "imdb_id": "tt8390410",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Episode #1.10",
+        "released": "2018-06-08",
+        "rating": "N/A",
+        "imdb_id": "tt8492808",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Episode #1.11",
+        "released": "2018-06-08",
+        "rating": "N/A",
+        "imdb_id": "tt8492812",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

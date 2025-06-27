@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Clown in the Dumps",
+        "released": "2014-09-28",
+        "rating": "5.7",
+        "imdb_id": "tt3707816",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S26\\The.Simpsons.S26E01.HDTV.x264-KILLERS.HIS26E1.zip"
+    },
+    "2": {
+        "title": "The Wreck of the Relationship",
+        "released": "2014-10-05",
+        "rating": "6.7",
+        "imdb_id": "tt3952586",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S26\\The.Simpsons.S26E02.HDTV.x264-LOL.HIS26E2.zip"
+    },
+    "3": {
+        "title": "Super Franchise Me",
+        "released": "2014-10-12",
+        "rating": "6.4",
+        "imdb_id": "tt3552794",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S26\\The.Simpsons.S26E03.HDTV.x264-KILLERS.HIS26E3.zip"
+    },
+    "4": {
+        "title": "Treehouse of Horror XXV",
+        "released": "2014-10-19",
+        "rating": "7.4",
+        "imdb_id": "tt3552792",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S26\\The.Simpsons.S26E04.HDTV.x264-KILLERS.HIS26E4.zip"
+    },
+    "5": {
+        "title": "Opposites A-Frack",
+        "released": "2014-11-02",
+        "rating": "6.3",
+        "imdb_id": "tt3603776",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S26\\The.Simpsons.S26E05.HDTV.x264-LOL.HIS26E5.zip"
+    },
+    "6": {
+        "title": "Simpsorama",
+        "released": "2014-11-09",
+        "rating": "7.9",
+        "imdb_id": "tt3144282",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S26\\The.Simpsons.S26E06.HDTV.x264-KILLERSS26E6.zip"
+    },
+    "7": {
+        "title": "Blazed and Confused",
+        "released": "2014-11-16",
+        "rating": "6.8",
+        "imdb_id": "tt3735244",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S26\\The.Simpsons.S26E07.HDTV.x264-KILLERS.HIS26E7.zip"
+    },
+    "8": {
+        "title": "Covercraft",
+        "released": "2014-11-23",
+        "rating": "6.4",
+        "imdb_id": "tt4132794",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S26\\The.Simpsons.S26E08.HDTV.x264-KILLERS.HIS26E8.zip"
+    },
+    "9": {
+        "title": "I Won't Be Home for Christmas",
+        "released": "2014-12-07",
+        "rating": "6.8",
+        "imdb_id": "tt4130168",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S26\\The.Simpsons.S26E09.HDTV.x264-KILLERS.HIS26E9.zip"
+    },
+    "10": {
+        "title": "The Man Who Came to Be Dinner",
+        "released": "2015-01-04",
+        "rating": "6.6",
+        "imdb_id": "tt2107523",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Bart's New Friend",
+        "released": "2015-01-11",
+        "rating": "7.2",
+        "imdb_id": "tt4165562",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Musk Who Fell to Earth",
+        "released": "2015-01-25",
+        "rating": "5.3",
+        "imdb_id": "tt3990550",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Walking Big & Tall",
+        "released": "2015-02-08",
+        "rating": "6.3",
+        "imdb_id": "tt4357306",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "My Fare Lady",
+        "released": "2015-02-15",
+        "rating": "6.6",
+        "imdb_id": "tt4390086",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Princess Guide",
+        "released": "2015-03-01",
+        "rating": "6.4",
+        "imdb_id": "tt4437944",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Sky Police",
+        "released": "2015-03-08",
+        "rating": "6.8",
+        "imdb_id": "tt3181538",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Waiting for Duffman",
+        "released": "2015-03-15",
+        "rating": "6.6",
+        "imdb_id": "tt4468144",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Peeping Mom",
+        "released": "2015-04-19",
+        "rating": "6.6",
+        "imdb_id": "tt4480332",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Kids Are All Fight",
+        "released": "2015-04-26",
+        "rating": "6.7",
+        "imdb_id": "tt4480342",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Let's Go Fly a Coot",
+        "released": "2015-05-03",
+        "rating": "6.1",
+        "imdb_id": "tt4480370",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Bull-E",
+        "released": "2015-05-10",
+        "rating": "6.5",
+        "imdb_id": "tt4437970",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Mathlete's Feat",
+        "released": "2015-05-17",
+        "rating": "6.7",
+        "imdb_id": "tt4480380",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

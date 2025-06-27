@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Olding",
+        "released": "2019-11-17",
+        "rating": "N/A",
+        "imdb_id": "tt7871786",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Margaretology",
+        "released": "2019-11-17",
+        "rating": "8.4",
+        "imdb_id": "tt8071408",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Aberfan",
+        "released": "2019-11-17",
+        "rating": "9.3",
+        "imdb_id": "tt8071414",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Bubbikins",
+        "released": "2019-11-17",
+        "rating": "8.6",
+        "imdb_id": "tt8071416",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Coup",
+        "released": "2019-11-17",
+        "rating": "8.0",
+        "imdb_id": "tt8071420",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Tywysog Cymru",
+        "released": "2019-11-17",
+        "rating": "9.1",
+        "imdb_id": "tt8071422",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Moondust",
+        "released": "2019-11-17",
+        "rating": "8.1",
+        "imdb_id": "tt8071424",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Dangling Man",
+        "released": "2019-11-17",
+        "rating": "8.1",
+        "imdb_id": "tt8071426",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Imbroglio",
+        "released": "2019-11-17",
+        "rating": "8.0",
+        "imdb_id": "tt8071428",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Cri de Coeur",
+        "released": "2019-11-17",
+        "rating": "8.2",
+        "imdb_id": "tt8071430",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

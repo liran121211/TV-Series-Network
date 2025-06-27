@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Atlanta",
+        "released": "2024-02-04",
+        "rating": "7.6",
+        "imdb_id": "tt19623376",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Lawn Jockey",
+        "released": "2024-02-11",
+        "rating": "7.7",
+        "imdb_id": "tt30442305",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Vertical Drop, Horizontal Tug",
+        "released": "2024-02-18",
+        "rating": "8.4",
+        "imdb_id": "tt30442308",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Disgruntled",
+        "released": "2024-02-25",
+        "rating": "7.9",
+        "imdb_id": "tt30442317",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Fish Stuck",
+        "released": "2024-03-03",
+        "rating": "8.1",
+        "imdb_id": "tt30442326",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Gettysburg Address",
+        "released": "2024-03-10",
+        "rating": "7.7",
+        "imdb_id": "tt30442337",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Dream Scheme",
+        "released": "2024-03-17",
+        "rating": "7.8",
+        "imdb_id": "tt30442354",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Colostomy Bag",
+        "released": "2024-03-24",
+        "rating": "N/A",
+        "imdb_id": "tt30442360",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Ken/Kendra",
+        "released": "2024-03-31",
+        "rating": "8.0",
+        "imdb_id": "tt30442362",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "No Lessons Learned",
+        "released": "2024-04-07",
+        "rating": "9.3",
+        "imdb_id": "tt30442373",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

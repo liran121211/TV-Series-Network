@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Monsters",
+        "released": "2016-03-24",
+        "rating": "8.6",
+        "imdb_id": "tt4881332",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Process",
+        "released": "2016-03-31",
+        "rating": "8.3",
+        "imdb_id": "tt4881336",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Snake Pit",
+        "released": "2016-04-07",
+        "rating": "8.4",
+        "imdb_id": "tt5072082",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Negative Pressure",
+        "released": "2016-04-14",
+        "rating": "8.4",
+        "imdb_id": "tt5072086",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The List",
+        "released": "2016-04-21",
+        "rating": "9.1",
+        "imdb_id": "tt5072094",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Breach",
+        "released": "2016-04-28",
+        "rating": "9.5",
+        "imdb_id": "tt5072092",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

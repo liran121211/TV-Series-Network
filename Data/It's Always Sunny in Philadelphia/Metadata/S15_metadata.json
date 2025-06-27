@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "2020: A Year In Review",
+        "released": "2021-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt12394874",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Gang Makes Lethal Weapon 7",
+        "released": "2021-12-01",
+        "rating": "7.8",
+        "imdb_id": "tt15853260",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Gang Buys a Roller Rink",
+        "released": "2021-12-08",
+        "rating": "7.6",
+        "imdb_id": "tt15939210",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Gang Replaces Dee With a Monkey",
+        "released": "2021-12-08",
+        "rating": "8.1",
+        "imdb_id": "tt15939220",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Gang Goes to Ireland",
+        "released": "2021-12-15",
+        "rating": "8.1",
+        "imdb_id": "tt16112792",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Gang's Still in Ireland",
+        "released": "2021-12-15",
+        "rating": "8.5",
+        "imdb_id": "tt16112788",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Dee Sinks in a Bog",
+        "released": "2021-12-22",
+        "rating": "8.0",
+        "imdb_id": "tt16280640",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Gang Carries a Corpse Up a Mountain",
+        "released": "2021-12-22",
+        "rating": "8.8",
+        "imdb_id": "tt16280644",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

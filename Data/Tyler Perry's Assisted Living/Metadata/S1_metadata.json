@@ -1,0 +1,90 @@
+{
+    "1": {
+        "title": "The Pilot 101",
+        "released": "2020-09-02",
+        "rating": "N/A",
+        "imdb_id": "tt12927938",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Captain Crunch",
+        "released": "2020-09-09",
+        "rating": "N/A",
+        "imdb_id": "tt13110666",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Tyler Perry's Assisted Living\\Subtitles\\S1\\Tyler.Perrys.Assisted.Living.S01E03.Captain.Crunch.720p.Web-DL.x264-RMTeam.zip"
+    },
+    "4": {
+        "title": "Assaulted",
+        "released": "2020-09-09",
+        "rating": "N/A",
+        "imdb_id": "tt13110678",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Tyler Perry's Assisted Living\\Subtitles\\S1\\Tyler.Perrys.Assisted.Living.S01E04.Assaulted.1080p.Web-DL.HEVC.x265-RMTeam.zip"
+    },
+    "5": {
+        "title": "For the Family",
+        "released": "2020-09-16",
+        "rating": "N/A",
+        "imdb_id": "tt13110684",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Tyler Perry's Assisted Living\\Subtitles\\S1\\Tyler.Perrys.Assisted.Living.S01E05.For.the.Family.720p.Web-DL.HEVCx264-RMTeam.zip"
+    },
+    "7": {
+        "title": "The Weeping Willow",
+        "released": "2020-09-23",
+        "rating": "N/A",
+        "imdb_id": "tt13110704",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Swimming With Fishes",
+        "released": "2020-09-23",
+        "rating": "N/A",
+        "imdb_id": "tt13110714",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Monster",
+        "released": "2020-09-30",
+        "rating": "N/A",
+        "imdb_id": "tt13110716",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Hard Decisions",
+        "released": "2020-10-14",
+        "rating": "N/A",
+        "imdb_id": "tt13190750",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Open For Business",
+        "released": "2020-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt13211126",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "A Fight for Honor",
+        "released": "2020-12-30",
+        "rating": "N/A",
+        "imdb_id": "tt13211132",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "The Dirty Denial",
+        "released": "2021-01-13",
+        "rating": "N/A",
+        "imdb_id": "tt13211136",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

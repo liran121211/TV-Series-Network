@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "1883",
+        "released": "2021-12-19",
+        "rating": "N/A",
+        "imdb_id": "tt14103574",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\1883\\Subtitles\\S1\\1883.SE01xE10.WEBRip-x264-ION10_KOGiS1E1.zip"
+    },
+    "2": {
+        "title": "Behind Us, a Cliff",
+        "released": "2021-12-19",
+        "rating": "8.7",
+        "imdb_id": "tt15294862",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\1883\\Subtitles\\S1\\1883.S01E02.WEBRip.x264-ION10S1E2.zip"
+    },
+    "3": {
+        "title": "River",
+        "released": "2021-12-26",
+        "rating": "8.3",
+        "imdb_id": "tt15294860",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\1883\\Subtitles\\S1\\1883.S01E03.WEBRip.x264-ION10S1E3.zip"
+    },
+    "4": {
+        "title": "The Crossing",
+        "released": "2022-01-09",
+        "rating": "8.3",
+        "imdb_id": "tt15294864",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\1883\\Subtitles\\S1\\1883.S01E04.WEB.H264-RBBS1E4.zip"
+    },
+    "5": {
+        "title": "The Fangs of Freedom",
+        "released": "2022-01-16",
+        "rating": "9.0",
+        "imdb_id": "tt15294870",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\1883\\Subtitles\\S1\\1883.SE01xE05.WEBRip.x264-ION10S1E5.zip"
+    },
+    "6": {
+        "title": "Boring the Devil",
+        "released": "2022-01-30",
+        "rating": "8.1",
+        "imdb_id": "tt15294866",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\1883\\Subtitles\\S1\\1883.SE01xE06.REPACK.WEBRip.x264-ION10S1E6.zip"
+    },
+    "7": {
+        "title": "Lightning Yellow Hair",
+        "released": "2022-02-06",
+        "rating": "8.6",
+        "imdb_id": "tt15294868",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\1883\\Subtitles\\S1\\1883.SE01xE07.WEBRip.x264-ION10S1E7.zip"
+    },
+    "8": {
+        "title": "The Weep of Surrender",
+        "released": "2022-02-13",
+        "rating": "7.6",
+        "imdb_id": "tt15294874",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\1883\\Subtitles\\S1\\1883.SE01xE08.WEBRip-x264-ION10S1E8.zip"
+    },
+    "9": {
+        "title": "Racing Clouds",
+        "released": "2022-02-20",
+        "rating": "9.1",
+        "imdb_id": "tt15294872",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\1883\\Subtitles\\S1\\1883.SE01xE09.WEBRip-x264-KOGiS1E9.zip"
+    },
+    "10": {
+        "title": "This Is Not Your Heaven",
+        "released": "2022-02-27",
+        "rating": "9.0",
+        "imdb_id": "tt15294876",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

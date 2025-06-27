@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "Episode #16.1",
+        "released": "2020-10-13",
+        "rating": "N/A",
+        "imdb_id": "tt10756380",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #16.4",
+        "released": "2020-11-05",
+        "rating": "5.8",
+        "imdb_id": "tt13307730",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #16.6",
+        "released": "2020-11-17",
+        "rating": "N/A",
+        "imdb_id": "tt13374350",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Men Tell All",
+        "released": "2020-12-14",
+        "rating": "N/A",
+        "imdb_id": "tt13504190",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Episode #16.11",
+        "released": "2020-12-15",
+        "rating": "N/A",
+        "imdb_id": "tt13504194",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Episode #16.12",
+        "released": "2020-12-21",
+        "rating": "N/A",
+        "imdb_id": "tt13504196",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Episode #16.13",
+        "released": "2020-12-22",
+        "rating": "N/A",
+        "imdb_id": "tt13580868",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

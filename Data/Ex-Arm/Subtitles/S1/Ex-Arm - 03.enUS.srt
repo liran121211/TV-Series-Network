@@ -1,0 +1,356 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: YTV  [http://www.crunchyroll.com/user/YTV]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Main Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Flashback Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Episode Title,Arial,22,&H00FFFFFF,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,0,0,3,0379,0038,0073,1
+Style: Eyecatch,Arial,16,&H00FFFFFF,&H000000FF,&H00909090,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0036,0373,0038,1
+Style: Next Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H006C6A6A,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,3,0050,0020,0055,1
+Style: Eyecatch,Arial,16,&H00FFFFFF,&H000000FF,&H00909090,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0377,0032,0044,1
+Style: sign_8115_78_Yokosuka_SEZ,Arial,20,&H00FFFFFF,&H000000FF,&H00656994,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0018,1
+Style: sign_11288_118_Hanoi_Farm,Arial,20,&H00613C14,&H000000FF,&H00AB9395,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0428,0088,0026,1
+Style: sign_20691_213_Illustration_by_,Arial,16,&H00FFFFFF,&H000000FF,&H00909090,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0036,0373,0040,1
+Style: sign_25725_257_Yokosuka_SEZ,Arial,16,&H00FFFFFF,&H000000FF,&H00656994,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0095,0420,0077,1
+Style: sign_25725_258_UN_Military_Base,Arial,16,&H00FFFFFF,&H000000FF,&H00656994,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0273,0225,0036,1
+Style: sign_33915_314_Inheritor_of_Cou,Arial,20,&H00FFFFFF,&H000000FF,&H006C6A6A,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,3,0385,0039,0055,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.02,0:00:03.48,Episode Title,Ep Title,0000,0000,0000,,Angel of Murder
+Dialogue: 0,0:00:11.23,0:00:14.95,Main,Al,0000,0000,0000,,Genetic code confirmed. Key level 3 unlock.
+Dialogue: 0,0:00:20.23,0:00:22.88,Main,Ar,0000,0000,0000,,Hey, rookie, is dinner ready yet?
+Dialogue: 0,0:00:22.88,0:00:24.01,Main,A,0000,0000,0000,,Almost!
+Dialogue: 0,0:00:24.01,0:00:24.96,Main,A,0000,0000,0000,,Sheesh.
+Dialogue: 0,0:00:24.96,0:00:28.86,Main,A,0000,0000,0000,,Why do I gotta cook \Nfor my own welcoming party?
+Dialogue: 0,0:00:29.63,0:00:32.57,Main,C,0000,0000,0000,,Yay! Victory is mine!
+Dialogue: 0,0:00:30.13,0:00:32.84,Signs,Signs,0000,0000,0000,,WINNER WINNER CHICKEN DINNER
+Dialogue: 0,0:00:32.57,0:00:34.36,Main,Kon,0000,0000,0000,,Damn, you got me!
+Dialogue: 0,0:00:34.36,0:00:36.22,Main,Kim,0000,0000,0000,,I can't believe you beat Kondo at shooting.
+Dialogue: 0,0:00:36.22,0:00:38.32,Main,C,0000,0000,0000,,I'm a gamer at heart, you see.
+Dialogue: 0,0:00:38.32,0:00:40.11,Main,A,0000,0000,0000,,Okay, all done.
+Dialogue: 0,0:00:40.11,0:00:43.34,Main,A,0000,0000,0000,,Oh, right. I've taken over Alma's body \Na bunch of times now.
+Dialogue: 0,0:00:43.34,0:00:46.78,Main,A,0000,0000,0000,,I never really had time \Nto dwell on it before,
+Dialogue: 0,0:00:47.72,0:00:49.26,Main,A,0000,0000,0000,,but you know...
+Dialogue: 0,0:00:49.98,0:00:52.19,Main,All,0000,0000,0000,,Let's eat!
+Dialogue: 0,0:00:53.14,0:00:55.53,Main,Mi,0000,0000,0000,,What the heck? This is amazing!
+Dialogue: 0,0:00:55.53,0:00:56.92,Main,Kim,0000,0000,0000,,Yeah, it's yummy!
+Dialogue: 0,0:00:56.92,0:00:58.82,Main,Kon,0000,0000,0000,,We got a master chef in the house, baby.
+Dialogue: 0,0:00:59.32,0:01:01.00,Main,Ar,0000,0000,0000,,Way to go, kid.
+Dialogue: 0,0:01:01.00,0:01:03.88,Main,A,0000,0000,0000,,I'm glad you like it. And thanks, Alma.
+Dialogue: 0,0:01:03.88,0:01:06.32,Italics,Al,0000,0000,0000,,Don't mention it. Connecting with you,
+Dialogue: 0,0:01:06.32,0:01:09.23,Italics,Al,0000,0000,0000,,your actions, and your thoughts \Nis a valuable experience.
+Dialogue: 0,0:01:09.23,0:01:12.80,Italics,Al,0000,0000,0000,,It must be because you're human, \Nand not an AI like myself.
+Dialogue: 0,0:01:13.32,0:01:15.37,Main,A,0000,0000,0000,,"Human," huh...
+Dialogue: 0,0:01:16.16,0:01:16.97,Main,A,0000,0000,0000,,Yum!
+Dialogue: 0,0:01:16.97,0:01:18.49,Main,Ch,0000,0000,0000,,Is something the matter?
+Dialogue: 0,0:01:20.68,0:01:22.06,Main,A,0000,0000,0000,,This is so good.
+Dialogue: 0,0:01:22.44,0:01:25.31,Main,A,0000,0000,0000,,I never realized how amazing \Nmy senses were until I lost them.
+Dialogue: 0,0:01:26.00,0:01:27.56,Main,Mi,0000,0000,0000,,Akira...
+Dialogue: 0,0:01:29.81,0:01:34.73,Main,A,0000,0000,0000,,Will I ever go back to being human?
+Dialogue: 0,0:01:36.88,0:01:37.99,Main,Ch,0000,0000,0000,,Chief?
+Dialogue: 0,0:01:38.30,0:01:41.32,Italics,Sh,0000,0000,0000,,All hands, listen up. \NWe have orders to sortie.
+Dialogue: 0,0:03:12.80,0:03:17.67,Main,Sh,0000,0000,0000,,An individual taking asylum in Japan \Nis suspected of possessing an EX-ARM.
+Dialogue: 0,0:03:17.67,0:03:19.17,Main,A,0000,0000,0000,,Asylum?
+Dialogue: 0,0:03:19.17,0:03:24.17,Main,Sh,0000,0000,0000,,Correct. The former president \Nof the Mwange Republic, Jason Mraw.
+Dialogue: 0,0:03:25.05,0:03:27.53,Main,Kim,0000,0000,0000,,President Mraw... You mean that guy?
+Dialogue: 0,0:03:27.53,0:03:30.81,Main,Kon,0000,0000,0000,,The dictator who carried out \Nthe Mwange Genocide four years ago?
+Dialogue: 0,0:03:31.18,0:03:33.69,Main,A,0000,0000,0000,,What's that "Mwange Genocide" thing?
+Dialogue: 0,0:03:33.69,0:03:37.05,Main,Mi,0000,0000,0000,,Well, obviously, uh... What was it, again?
+Dialogue: 0,0:03:37.05,0:03:38.84,Main,A,0000,0000,0000,,You don't know, either?!
+Dialogue: 0,0:03:38.84,0:03:40.57,Main,Ar,0000,0000,0000,,This squad sure has gained new life.
+Dialogue: 0,0:03:40.57,0:03:43.31,Main,Sh,0000,0000,0000,,Superintendent, switch to the archive.
+Dialogue: 0,0:03:43.31,0:03:44.91,Main,Sh,0000,0000,0000,,In 2026,
+Dialogue: 0,0:03:45.18,0:03:48.87,Main,Sh,0000,0000,0000,,Mraw, then the president-cum-dictator \Nof the Mwange Republic in Africa,
+Dialogue: 0,0:03:48.87,0:03:52.11,Main,Sh,0000,0000,0000,,was looking to found a new nation \Nfor androids.
+Dialogue: 0,0:03:52.11,0:03:54.30,Main,Sh,0000,0000,0000,,When the people opposed it,
+Dialogue: 0,0:03:54.30,0:03:58.38,Main,Sh,0000,0000,0000,,he used his android troops \Nand his EX-ARM to massacre them.
+Dialogue: 0,0:03:58.67,0:04:02.13,Main,Sh,0000,0000,0000,,Here's some footage we've obtained \Nof the incident.
+Dialogue: 0,0:04:02.13,0:04:03.69,Main,Kim,0000,0000,0000,,What was that?
+Dialogue: 0,0:04:03.69,0:04:05.66,Main,A,0000,0000,0000,,Their heads disappeared?
+Dialogue: 0,0:04:06.21,0:04:10.51,Main,Ar,0000,0000,0000,,Erasing spaces like that is something \Nmodern science can't decipher.
+Dialogue: 0,0:04:10.51,0:04:11.69,Main,Ar,0000,0000,0000,,Which means...
+Dialogue: 0,0:04:11.69,0:04:13.98,Main,Kon,0000,0000,0000,,An EX-ARM was involved.
+Dialogue: 0,0:04:14.87,0:04:16.15,Main,Mi,0000,0000,0000,,That's so cruel.
+Dialogue: 0,0:04:16.60,0:04:19.85,Main,Ch,0000,0000,0000,,The ensuing civil war led \Nto the overthrow of the Mraw regime,
+Dialogue: 0,0:04:19.85,0:04:23.13,Main,Ch,0000,0000,0000,,and he sought asylum in Japan.
+Dialogue: 0,0:04:29.54,0:04:34.92,Main,Nguyen,0000,0000,0000,,This is the Bibot used by the militaries \Nof most major European countries.
+Dialogue: 0,0:04:35.51,0:04:38.78,Main,Nguyen,0000,0000,0000,,Ordinary firearms can't even scratch \Nthis fine piece of work.
+Dialogue: 0,0:04:38.78,0:04:41.26,Main,Elmira,0000,0000,0000,,Excellent as always from Hanoi Farm.
+Dialogue: 0,0:04:41.26,0:04:43.59,Main,Nguyen,0000,0000,0000,,I'm your man when it comes to weapons.
+Dialogue: 0,0:04:43.59,0:04:47.39,Main,Elmira,0000,0000,0000,,I'm sure Master Mraw will be quite pleased \Nwith this purchase.
+Dialogue: 0,0:04:48.82,0:04:54.90,Main,Ch,0000,0000,0000,,And our country accepted him, knowing that \Nthe decision would be slammed worldwide.
+Dialogue: 0,0:04:55.52,0:04:56.69,Main,A,0000,0000,0000,,Who's the girl?
+Dialogue: 0,0:04:56.69,0:04:58.33,Main,Sh,0000,0000,0000,,Her name's Elmira.
+Dialogue: 0,0:04:58.33,0:05:01.24,Main,Sh,0000,0000,0000,,She's an android, and Mraw's personal maid.
+Dialogue: 0,0:05:01.24,0:05:04.71,Main,Sh,0000,0000,0000,,There's talk that \Nshe helped with the genocide.
+Dialogue: 0,0:05:05.60,0:05:09.95,Main,Ar,0000,0000,0000,,We didn't build her, so her specs are unknown. \NGotta watch out for her.
+Dialogue: 0,0:05:09.95,0:05:13.52,Main,Mi,0000,0000,0000,,Y'know, why'd we even let this asshole in?
+Dialogue: 0,0:05:13.52,0:05:15.29,Main,Kon,0000,0000,0000,,Diplomatic reasons.
+Dialogue: 0,0:05:16.29,0:05:18.22,Main,Kon,0000,0000,0000,,By helping Mraw,
+Dialogue: 0,0:05:18.22,0:05:21.77,Main,Kon,0000,0000,0000,,the US could cheaply procure rare metals \Nfrom companies with ties to him.
+Dialogue: 0,0:05:21.77,0:05:25.45,Main,Kon,0000,0000,0000,,They wanted the booze, but not the boos.
+Dialogue: 0,0:05:25.45,0:05:27.85,Main,Kon,0000,0000,0000,,So they forced Japan to take him instead.
+Dialogue: 0,0:05:27.85,0:05:29.26,Main,Mi,0000,0000,0000,,That sucks!
+Dialogue: 0,0:05:29.69,0:05:33.08,Main,Sh,0000,0000,0000,,That said, there was plenty of opposition \Nto it within Japan as well,
+Dialogue: 0,0:05:33.08,0:05:38.44,Main,Sh,0000,0000,0000,,so the government decided to make him \Nlive in the Yokosuka SEZ.
+Dialogue: 0,0:05:38.44,0:05:40.44,sign_8115_78_Yokosuka_SEZ,Sign,0000,0000,0000,,Yokosuka SEZ
+Dialogue: 0,0:05:38.44,0:05:40.44,Main,A,0000,0000,0000,,"S... E... Z"?
+Dialogue: 0,0:05:41.24,0:05:43.96,Main,Kim,0000,0000,0000,,It's like a little foreign nation \Nwithin Japan.
+Dialogue: 0,0:05:43.96,0:05:48.14,Main,Kim,0000,0000,0000,,The UN military's stationed there, \Nand extraterritorial rights are in effect.
+Dialogue: 0,0:05:48.14,0:05:50.78,Main,Kim,0000,0000,0000,,Cops like us can't do shit there.
+Dialogue: 0,0:05:51.64,0:05:57.96,Main,Sh,0000,0000,0000,,But if Mraw has an EX-ARM, \Nit's our job to confiscate it.
+Dialogue: 0,0:05:57.96,0:06:02.44,Main,Sh,0000,0000,0000,,So we're going to investigate \Nhis mansion undercover.
+Dialogue: 0,0:06:02.44,0:06:04.09,Main,A,0000,0000,0000,,Undercover?
+Dialogue: 0,0:06:04.09,0:06:07.13,Main,Sh,0000,0000,0000,,The ones on this mission \Nwill be you and Alma,
+Dialogue: 0,0:06:07.59,0:06:08.72,Main,Sh,0000,0000,0000,,Number 00.
+Dialogue: 0,0:06:08.72,0:06:10.09,Main,A,0000,0000,0000,,Who, me?!
+Dialogue: 0,0:06:10.09,0:06:14.71,Main,Sh,0000,0000,0000,,You'll use your hacking capabilities \Nto back up Alma.
+Dialogue: 0,0:06:15.17,0:06:16.90,Main,Sh,0000,0000,0000,,Just so you know,
+Dialogue: 0,0:06:17.48,0:06:20.23,Main,Sh,0000,0000,0000,,everyone who's gone to investigate that mansion
+Dialogue: 0,0:06:20.23,0:06:22.63,Main,Sh,0000,0000,0000,,has gone MIA.
+Dialogue: 0,0:06:24.07,0:06:28.17,Main,Sh,0000,0000,0000,,His EX-ARM's ability may have\Nsomething to do with it.
+Dialogue: 0,0:06:28.17,0:06:31.07,Main,Sh,0000,0000,0000,,Confiscate it before other countries catch on.
+Dialogue: 0,0:06:31.56,0:06:32.56,Main,Al,0000,0000,0000,,Understood.
+Dialogue: 0,0:06:32.56,0:06:34.96,Main,Mi,0000,0000,0000,,One second! That place sounds dangerous!
+Dialogue: 0,0:06:34.96,0:06:37.10,Main,Mi,0000,0000,0000,,Sending this idiot would be one thing, \Nbut Alma, too?
+Dialogue: 0,0:06:37.10,0:06:38.35,Main,A,0000,0000,0000,,Don't call me an idiot!
+Dialogue: 0,0:06:38.35,0:06:40.31,Main,Al,0000,0000,0000,,Minami, a mission is a mission.
+Dialogue: 0,0:06:42.26,0:06:45.63,Main,Al,0000,0000,0000,,Genetic code confirmed. Key level 3 unlock.
+Dialogue: 0,0:06:49.38,0:06:51.67,Main,El,0000,0000,0000,,Excuse me, Master Mraw.
+Dialogue: 0,0:06:53.30,0:06:56.14,Main,El,0000,0000,0000,,I'll leave your drink here.
+Dialogue: 0,0:06:57.10,0:06:59.50,Main,El,0000,0000,0000,,What were you gazing at?
+Dialogue: 0,0:07:05.40,0:07:07.64,Main,Mi,0000,0000,0000,,So this is the SEZ.
+Dialogue: 0,0:07:07.64,0:07:09.49,Main,Kim,0000,0000,0000,,What, first time here?
+Dialogue: 0,0:07:10.84,0:07:14.87,Main,Kon,0000,0000,0000,,That guy's UN Lieutenant Neville, \Nthe guy in charge around here.
+Dialogue: 0,0:07:15.36,0:07:20.10,Main,Nev,0000,0000,0000,,Yo. I hope you didn't come 'ere \Nto corrupt this fresh young rookie.
+Dialogue: 0,0:07:20.66,0:07:26.26,Main,Nev,0000,0000,0000,,Surely it can't be that \NJapanese cops are here on duty, right?
+Dialogue: 0,0:07:26.84,0:07:28.28,Main,Kon,0000,0000,0000,,Actually, it is.
+Dialogue: 0,0:07:28.28,0:07:30.16,Main,Kon,0000,0000,0000,,Let us through.
+Dialogue: 0,0:07:30.16,0:07:33.42,Main,Nev,0000,0000,0000,,I'll let you off the hook \N'cause you get slave wages,
+Dialogue: 0,0:07:33.42,0:07:36.72,Main,Nev,0000,0000,0000,,but next time you wanna go through, \Nbring me a souvenir.
+Dialogue: 0,0:07:38.55,0:07:40.89,Main,Kim,0000,0000,0000,,He's such a jerk. Every time.
+Dialogue: 0,0:07:40.89,0:07:43.15,Main,Kon,0000,0000,0000,,But now we don't need an appointment.
+Dialogue: 0,0:07:43.15,0:07:45.24,Main,Kon,0000,0000,0000,,Our guy must've heard by now.
+Dialogue: 0,0:07:45.24,0:07:47.72,Main,Mi,0000,0000,0000,,Um, who are going to meet?
+Dialogue: 0,0:07:47.72,0:07:50.78,Main,Kon,0000,0000,0000,,The guy who knows this town \Nlike the back of his hand.
+Dialogue: 0,0:07:50.78,0:07:54.62,sign_11288_118_Hanoi_Farm,Sign,0000,0000,0000,,Hanoi Farm
+Dialogue: 0,0:07:52.26,0:07:54.12,Main,Nguyen,0000,0000,0000,,Well, well.
+Dialogue: 0,0:07:54.62,0:07:57.62,Main,Nguyen,0000,0000,0000,,Welcome to my office.
+Dialogue: 0,0:07:58.60,0:08:01.37,Main,Nguyen,0000,0000,0000,,What could the police want from me?
+Dialogue: 0,0:08:01.37,0:08:05.10,Main,Kon,0000,0000,0000,,You're the go-to guy \Nfor information in this town.
+Dialogue: 0,0:08:05.10,0:08:07.20,Main,Kon,0000,0000,0000,,As they say, it takes one to know one.
+Dialogue: 0,0:08:07.20,0:08:10.63,Main,Nguyen,0000,0000,0000,,I'll have to hear your questions first, \Nbefore I decide whether to answer.
+Dialogue: 0,0:08:12.69,0:08:16.95,Main,Kon,0000,0000,0000,,You know Mraw, the guy who took asylum here \Nfrom the Mwange Republic, don't you?
+Dialogue: 0,0:08:21.27,0:08:24.60,Italics,A,0000,0000,0000,,Y'know, what's with this tight-ass outfit?
+Dialogue: 0,0:08:24.60,0:08:27.04,Italics,Al,0000,0000,0000,,It's a bodysuit specced for stealth missions.
+Dialogue: 0,0:08:27.04,0:08:30.25,Italics,Al,0000,0000,0000,,It won't show up on radar, \Nas long as it doesn't get destroyed.
+Dialogue: 0,0:08:31.65,0:08:36.82,Italics,Al,0000,0000,0000,,If it does, it'll send an SOS to Squad HQ.
+Dialogue: 0,0:08:36.82,0:08:38.83,Italics,A,0000,0000,0000,,Destroyed?
+Dialogue: 0,0:08:38.83,0:08:41.36,Italics,A,0000,0000,0000,,I sure hope it doesn't come to that.
+Dialogue: 0,0:08:41.36,0:08:44.62,Italics,Al,0000,0000,0000,,Let's sneak into the mansion \Nand look for Mraw.
+Dialogue: 0,0:08:44.62,0:08:45.75,Italics,A,0000,0000,0000,,Okay!
+Dialogue: 0,0:08:48.60,0:08:50.14,Italics,A,0000,0000,0000,,But man...
+Dialogue: 0,0:08:50.14,0:08:55.13,Italics,A,0000,0000,0000,,Androids were still a sci-fi concept \Nback in my day.
+Dialogue: 0,0:08:55.13,0:08:58.30,Italics,A,0000,0000,0000,,Come to think of it, \Nmy brother was researching them.
+Dialogue: 0,0:08:58.72,0:09:04.60,Italics,Al,0000,0000,0000,,Android technology hit a major breakthrough \Nin the latter half of the '10s.
+Dialogue: 0,0:09:04.91,0:09:08.22,Italics,Al,0000,0000,0000,,The research team that'd later spawn \NIriya Heavy Industries
+Dialogue: 0,0:09:08.22,0:09:10.82,Italics,Al,0000,0000,0000,,published a revolutionary theory.
+Dialogue: 0,0:09:11.28,0:09:16.41,Italics,Al,0000,0000,0000,,After the Tokyo Attack, we were mass-produced \Nto help rescue and repair efforts,
+Dialogue: 0,0:09:16.41,0:09:18.11,Italics,Al,0000,0000,0000,,and we grew rapidly in number.
+Dialogue: 0,0:09:18.11,0:09:21.26,Italics,Al,0000,0000,0000,,A worldwide market for androids \Nsprang up overnight.
+Dialogue: 0,0:09:22.10,0:09:23.61,Italics,A,0000,0000,0000,,Oh...
+Dialogue: 0,0:09:23.61,0:09:30.09,Italics,Al,0000,0000,0000,,But the biggest factor in getting androids \Nto this point was the military-industrial complex
+Dialogue: 0,0:09:30.09,0:09:36.13,Italics,Al,0000,0000,0000,,with its R&D on using androids as weapons \Nor tools to replace manual labor.
+Dialogue: 0,0:09:36.43,0:09:39.08,Italics,Al,0000,0000,0000,,As we quickly gained a foothold in society,
+Dialogue: 0,0:09:39.08,0:09:44.76,Italics,Al,0000,0000,0000,,we also became a target of criticism \Nand hatred for taking human jobs and status.
+Dialogue: 0,0:09:46.52,0:09:50.68,Main,A,0000,0000,0000,,Oh. That kinda sucks.
+Dialogue: 0,0:09:50.68,0:09:51.92,Main,Al,0000,0000,0000,,What does?
+Dialogue: 0,0:09:51.92,0:09:53.34,Main,A,0000,0000,0000,,You have to ask?
+Dialogue: 0,0:09:53.34,0:09:55.20,Main,Al,0000,0000,0000,,There's no problem at all.
+Dialogue: 0,0:09:55.20,0:09:59.82,Main,Al,0000,0000,0000,,We are tools built to serve humanity.
+Dialogue: 0,0:10:04.31,0:10:11.21,Main,Kim,0000,0000,0000,,A company truck of yours was spotted \Ntransporting something to Mraw's mansion.
+Dialogue: 0,0:10:11.96,0:10:14.04,Main,Kim,0000,0000,0000,,What did you sell him?
+Dialogue: 0,0:10:14.71,0:10:16.42,Main,Nguyen,0000,0000,0000,,Whatever could you mean?
+Dialogue: 0,0:10:16.42,0:10:18.42,Main,Kon,0000,0000,0000,,You're an arms dealer.
+Dialogue: 0,0:10:18.42,0:10:23.74,Main,Kon,0000,0000,0000,,I bet you badly want to get your hands \Non Mraw's EX-ARM, right?
+Dialogue: 0,0:10:23.74,0:10:27.48,Main,Kim,0000,0000,0000,,So what are you plotting? Answer us.
+Dialogue: 0,0:10:27.48,0:10:30.94,Main,Nguyen,0000,0000,0000,,You want the EX-ARM as badly as I do.
+Dialogue: 0,0:10:30.94,0:10:32.84,Main,Nguyen,0000,0000,0000,,Which makes you a business rival.
+Dialogue: 0,0:10:32.84,0:10:34.82,Main,Nguyen,0000,0000,0000,,I have nothing to say to you.
+Dialogue: 0,0:10:35.21,0:10:36.62,Main,Nguyen,0000,0000,0000,,Please leave.
+Dialogue: 0,0:10:38.36,0:10:41.16,Main,Kon,0000,0000,0000,,I'm sure we'll be seeing \Neach other again very soon.
+Dialogue: 0,0:10:44.00,0:10:45.30,Main,Nguyen,0000,0000,0000,,It's me.
+Dialogue: 0,0:10:49.06,0:10:52.02,Italics,A,0000,0000,0000,,Man, this is one huge place.
+Dialogue: 0,0:10:53.96,0:10:56.32,Italics,Al,0000,0000,0000,,There's a room we can't analyze down here.
+Dialogue: 0,0:10:56.32,0:10:57.38,Italics,A,0000,0000,0000,,Gotcha.
+Dialogue: 0,0:10:59.20,0:11:01.20,Italics,A,0000,0000,0000,,Can't see a thing. Get the lights.
+Dialogue: 0,0:11:07.60,0:11:10.97,Main,Kim,0000,0000,0000,,Screw Nguyen and his pompous ass!
+Dialogue: 0,0:11:10.97,0:11:13.18,Main,Kon,0000,0000,0000,,He's definitely involved.
+Dialogue: 0,0:11:13.18,0:11:15.42,Main,Kon,0000,0000,0000,,I'm worried about \Nwhatever weapon he sold Mraw.
+Dialogue: 0,0:11:15.42,0:11:18.51,Main,Mi,0000,0000,0000,,Will Alma and Akira be okay?
+Dialogue: 0,0:11:18.51,0:11:19.78,Main,Kon,0000,0000,0000,,Let's head to the mansion.
+Dialogue: 0,0:11:22.71,0:11:24.48,Main,Mi,0000,0000,0000,,What's with these things?!
+Dialogue: 0,0:11:24.48,0:11:26.16,Main,Kon,0000,0000,0000,,They're the UN's Hounds.
+Dialogue: 0,0:11:26.16,0:11:28.67,Italics,Hound,0000,0000,0000,,This is the UN military.
+Dialogue: 0,0:11:28.67,0:11:31.40,Italics,Hound,0000,0000,0000,,Put your weapons down immediately.
+Dialogue: 0,0:11:31.40,0:11:34.54,Italics,Hound,0000,0000,0000,,If you don't comply, \Nyou will be shot on the spot.
+Dialogue: 0,0:11:35.53,0:11:37.42,Main,Kim,0000,0000,0000,,Neville!
+Dialogue: 0,0:11:37.42,0:11:40.13,Main,Nev,0000,0000,0000,,I hate to tell you, but you're\Nnot getting anywhere near Mraw.
+Dialogue: 0,0:11:40.13,0:11:42.68,Main,Nev,0000,0000,0000,,In this town, I am the law. Got that?
+Dialogue: 0,0:11:43.48,0:11:46.14,Main,Nev,0000,0000,0000,,Turn your ass around, \Nand get out of the SEZ!
+Dialogue: 0,0:11:50.05,0:11:52.33,Italics,A,0000,0000,0000,,What's with this room?
+Dialogue: 0,0:11:56.45,0:12:00.74,Italics,Al,0000,0000,0000,,It's likely that most of them are victims \Nof the Mwange Genocide.
+Dialogue: 0,0:12:03.72,0:12:05.86,Main,Elm,0000,0000,0000,,I didn't realize we had guests.
+Dialogue: 0,0:12:07.99,0:12:10.04,Main,A,0000,0000,0000,,You're Elmira, right?
+Dialogue: 0,0:12:10.04,0:12:11.96,Main,Elm,0000,0000,0000,,Indeed. And you are?
+Dialogue: 0,0:12:12.30,0:12:13.90,Main,A,0000,0000,0000,,Japanese police!
+Dialogue: 0,0:12:13.90,0:12:15.38,Main,A,0000,0000,0000,,Where is Mraw?
+Dialogue: 0,0:12:16.04,0:12:18.47,Main,Elm,0000,0000,0000,,Master Mraw is busy at the moment.
+Dialogue: 0,0:12:19.24,0:12:21.08,Main,A,0000,0000,0000,,What's all this, then?
+Dialogue: 0,0:12:21.08,0:12:23.43,Main,Elm,0000,0000,0000,,Android face samples.
+Dialogue: 0,0:12:24.13,0:12:25.55,Main,A,0000,0000,0000,,Why would you do this?
+Dialogue: 0,0:12:25.55,0:12:30.52,Main,Elm,0000,0000,0000,,To make Mwange a truly\Nbeautiful, peaceful utopia.
+Dialogue: 0,0:12:31.85,0:12:35.11,Main,Elm,0000,0000,0000,,I shall eliminate anyone \Nwho gets in Master Mraw's way.
+Dialogue: 0,0:12:41.46,0:12:43.72,Italics,A,0000,0000,0000,,It disappeared? Was that...
+Dialogue: 0,0:12:43.72,0:12:47.16,Italics,Al,0000,0000,0000,,This makes no sense. \NOnly humans should be able to use EX-ARMs.
+Dialogue: 0,0:12:52.44,0:12:55.05,Italics,Al,0000,0000,0000,,Back off and let me handle this, Akira!
+Dialogue: 0,0:13:05.76,0:13:09.85,Italics,A,0000,0000,0000,,Hold up, Alma! What's the point\Nof fighting between androids?
+Dialogue: 0,0:13:09.85,0:13:12.68,Italics,Al,0000,0000,0000,,It doesn't matter. \NWe function only as programmed.
+Dialogue: 0,0:13:23.99,0:13:26.89,Main,A,0000,0000,0000,,I'm sure Elmira would say the same, huh?
+Dialogue: 0,0:13:26.89,0:13:28.73,Main,A,0000,0000,0000,,But I don't want to fight her.
+Dialogue: 0,0:13:29.38,0:13:33.54,Main,A,0000,0000,0000,,If I can connect to her, I think I\Ncan confirm how she can use an EX-ARM.
+Dialogue: 0,0:13:33.54,0:13:34.74,Italics,Al,0000,0000,0000,,Got it.
+Dialogue: 0,0:13:34.74,0:13:35.33,Italics,Al,0000,0000,0000,,In that case...
+Dialogue: 0,0:13:35.66,0:13:37.75,Main,Elm,0000,0000,0000,,Oh? Trying to connect to me, are we?
+Dialogue: 0,0:14:05.61,0:14:07.08,Main,Ch,0000,0000,0000,,Akira! Alma!
+Dialogue: 0,0:14:07.08,0:14:09.50,Main,Ch,0000,0000,0000,,Minami and the guys are in trouble! \NBack them up!
+Dialogue: 0,0:14:10.10,0:14:12.49,Main,A,0000,0000,0000,,Shit! We were almost there!
+Dialogue: 0,0:14:14.72,0:14:15.46,Main,Elm,0000,0000,0000,,Okay.
+Dialogue: 0,0:14:16.02,0:14:17.21,Main,Elm,0000,0000,0000,,I understand.
+Dialogue: 0,0:14:17.21,0:14:21.61,Main,Elm,0000,0000,0000,,Master Mraw, we must prepare to depart.
+Dialogue: 0,0:14:22.96,0:14:24.96,sign_20691_213_Illustration_by_,Eyecatch,0000,0000,0000,,Illustration by Komi Shinya
+Dialogue: 0,0:14:27.97,0:14:31.46,Main,Kaori,0000,0000,0000,,We received the contribution request \Nfrom Cabinet Secretary Kido.
+Dialogue: 0,0:14:32.07,0:14:33.85,Main,Kaori,0000,0000,0000,,You seem to be going through a rough patch.
+Dialogue: 0,0:14:35.81,0:14:38.92,Main,Kaori,0000,0000,0000,,I mean, you used to loathe EX-ARMs so much,
+Dialogue: 0,0:14:38.92,0:14:42.02,Main,Kaori,0000,0000,0000,,and now you have Number 00 \Nas part of your squad?
+Dialogue: 0,0:14:42.35,0:14:45.45,Main,Sh,0000,0000,0000,,Fight fire with fire, as they say.
+Dialogue: 0,0:14:46.29,0:14:48.53,Main,Kao,0000,0000,0000,,Well, I sure hope you can put up a fight.
+Dialogue: 0,0:14:49.12,0:14:55.10,Main,Sh,0000,0000,0000,,Mraw, the dictator who took asylum here \Nfrom Mwange, is involved in this case.
+Dialogue: 0,0:14:55.10,0:14:57.04,Main,Kao,0000,0000,0000,,That explains the Yokosuka SEZ.
+Dialogue: 0,0:15:03.00,0:15:05.08,Main,Kao,0000,0000,0000,,Are you really going to use this thing?
+Dialogue: 0,0:15:05.08,0:15:08.76,Main,Sh,0000,0000,0000,,Yes. We need it immediately.
+Dialogue: 0,0:15:11.83,0:15:14.14,Main,Mi,0000,0000,0000,,Superintendent! Can you hear me?!
+Dialogue: 0,0:15:14.14,0:15:16.65,Main,Mi,0000,0000,0000,,We're being attacked by the UN military!
+Dialogue: 0,0:15:16.65,0:15:18.64,Italics,Ch,0000,0000,0000,,Don't fire until we get approval.
+Dialogue: 0,0:15:18.64,0:15:21.94,Italics,Ch,0000,0000,0000,,Akira and Alma are headed your way \Nto provide backup.
+Dialogue: 0,0:15:25.15,0:15:29.21,Main,Ch,0000,0000,0000,,Come on! Why can't we get in touch \Nwith the chief now, of all times?!
+Dialogue: 0,0:15:29.69,0:15:30.86,Main,Ar,0000,0000,0000,,Chief?
+Dialogue: 0,0:15:30.86,0:15:32.48,Main,Ch,0000,0000,0000,,Where are you now?
+Dialogue: 0,0:15:32.48,0:15:33.62,Italics,Sh,0000,0000,0000,,Iriya Heavy Industries.
+Dialogue: 0,0:15:34.95,0:15:36.74,Italics,Sh,0000,0000,0000,,I've arranged for additional equipment.
+Dialogue: 0,0:15:38.40,0:15:40.09,Main,Ar,0000,0000,0000,,"Additional equipment"?
+Dialogue: 0,0:15:45.25,0:15:46.84,Italics,Sh,0000,0000,0000,,For six hours starting now,
+Dialogue: 0,0:15:46.84,0:15:49.55,Italics,Sh,0000,0000,0000,,I am approving the use \Nof firearms in the SEZ.
+Dialogue: 0,0:15:49.55,0:15:51.22,Main,Kim,0000,0000,0000,,We can finally shoot back!
+Dialogue: 0,0:15:59.78,0:16:04.48,Main,Nev,0000,0000,0000,,Our hound dogs ain't gonna go down \Nto such weak fire.
+Dialogue: 0,0:16:06.55,0:16:09.36,Main,Kon,0000,0000,0000,,Damn it! We stand no chance like this!
+Dialogue: 0,0:16:15.00,0:16:17.66,Italics,Shi,0000,0000,0000,,Hang in there until the\Nadditional equipment arrives.
+Dialogue: 0,0:16:17.66,0:16:18.70,Italics,Shi,0000,0000,0000,,Over and out.
+Dialogue: 0,0:16:19.92,0:16:21.50,Main,Kon,0000,0000,0000,,Easier said than done!
+Dialogue: 0,0:16:32.15,0:16:33.00,Main,Mi,0000,0000,0000,,Alma!
+Dialogue: 0,0:16:33.00,0:16:33.84,Main,Mi,0000,0000,0000,,Akira?
+Dialogue: 0,0:16:33.84,0:16:34.78,Main,Kim,0000,0000,0000,,Behind you!
+Dialogue: 0,0:16:40.16,0:16:43.45,Main,A,0000,0000,0000,,What's this additional equipment \NChief Shiga's talking about?
+Dialogue: 0,0:16:43.45,0:16:45.27,Main,Kim,0000,0000,0000,,How should I know?
+Dialogue: 0,0:17:11.55,0:17:13.79,Main,Kim,0000,0000,0000,,Whoa! What the hell is that?
+Dialogue: 0,0:17:13.79,0:17:15.05,Main,Kon,0000,0000,0000,,A Bibot!
+Dialogue: 0,0:17:16.77,0:17:20.93,Main,Elm,0000,0000,0000,,It's a little cramped in here, \Nbut I hope you'll endure it, Master Mraw.
+Dialogue: 0,0:17:21.59,0:17:25.10,Main,Elm,0000,0000,0000,,I shall take you to a whole new world very soon.
+Dialogue: 0,0:17:38.78,0:17:40.07,Italics,A,0000,0000,0000,,Is that Elmira?
+Dialogue: 0,0:17:43.12,0:17:44.73,Main,Ch,0000,0000,0000,,An escape?
+Dialogue: 0,0:17:45.84,0:17:49.36,Main,Ar,0000,0000,0000,,If they keep going, they'll hit the UN base,
+Dialogue: 0,0:17:49.36,0:17:52.67,Main,Ar,0000,0000,0000,,which has transport planes \Nthey can steal to leave the country.
+Dialogue: 0,0:17:52.67,0:17:58.11,Main,Ch,0000,0000,0000,,They might be planning to leave Japan \Nand then do business with Hanoi Farm.
+Dialogue: 0,0:17:52.92,0:18:02.68,sign_25725_257_Yokosuka_SEZ,Sign,0000,0000,0000,,Yokosuka SEZ
+Dialogue: 0,0:17:52.92,0:18:02.68,sign_25725_258_UN_Military_Base,Sign,0000,0000,0000,,UN Military Base
+Dialogue: 0,0:17:58.11,0:18:00.82,Main,Ch,0000,0000,0000,,So that's what Nguyen was after!
+Dialogue: 0,0:18:04.98,0:18:09.04,Main,Ng,0000,0000,0000,,That Bibot can kick the UN's\Nlittle pups to the curb.
+Dialogue: 0,0:18:09.04,0:18:12.73,Main,Ng,0000,0000,0000,,Now, I'll leave the dogfight to them.
+Dialogue: 0,0:18:15.12,0:18:17.23,Main,Ng,0000,0000,0000,,To the unscathed go the spoils.
+Dialogue: 0,0:18:17.23,0:18:19.95,Main,Ng,0000,0000,0000,,As long as we have the last laugh, \Nthat's all that matters.
+Dialogue: 0,0:18:21.20,0:18:22.76,Main,Nev,0000,0000,0000,,What the hell?
+Dialogue: 0,0:18:22.76,0:18:27.09,Main,Nev,0000,0000,0000,,Damn it, Nguyen! \NIsn't that the Bibot you sold him?!
+Dialogue: 0,0:18:27.09,0:18:29.04,Italics,Hound,0000,0000,0000,,Warning! Warning!
+Dialogue: 0,0:18:31.40,0:18:32.52,Italics,Nev,0000,0000,0000,,Uh...
+Dialogue: 0,0:18:32.52,0:18:34.72,Italics,Nev,0000,0000,0000,,This is the UN military.
+Dialogue: 0,0:18:34.72,0:18:37.84,Italics,Nev,0000,0000,0000,,Mister Mraw! His name is Mraw, right?
+Dialogue: 0,0:18:37.84,0:18:42.31,Italics,Nev,0000,0000,0000,,You must know you aren't allowed \Nto leave the premises of your residence.
+Dialogue: 0,0:18:43.83,0:18:44.76,Main,Min,0000,0000,0000,,Look!
+Dialogue: 0,0:18:45.12,0:18:46.78,Main,Kim,0000,0000,0000,,The additional equipment!
+Dialogue: 0,0:18:48.53,0:18:52.07,Italics,Nev,0000,0000,0000,,Disarm yourself and surrender at once!
+Dialogue: 0,0:18:52.55,0:18:54.40,Italics,Nev,0000,0000,0000,,If you don't comply...
+Dialogue: 0,0:18:54.96,0:18:56.90,Main,Elm,0000,0000,0000,,...this is what will happen.
+Dialogue: 0,0:19:20.45,0:19:21.98,Main,Mi,0000,0000,0000,,No! The trailer!
+Dialogue: 0,0:19:23.40,0:19:24.44,Main,Kon,0000,0000,0000,,Shit!
+Dialogue: 0,0:19:27.59,0:19:31.64,Main,Elm,0000,0000,0000,,"Eliminate all the nuisances," yes?
+Dialogue: 0,0:19:31.64,0:19:34.23,Main,Elm,0000,0000,0000,,I'm aware, Master Mraw.
+Dialogue: 0,0:19:37.20,0:19:38.70,Main,A,0000,0000,0000,,Stop it, Elmira!
+Dialogue: 0,0:19:39.67,0:19:40.60,Main,Mi,0000,0000,0000,,Akira!
+Dialogue: 0,0:19:49.65,0:19:52.78,Main,A,0000,0000,0000,,Why would you drag random people into this?
+Dialogue: 0,0:19:52.78,0:19:54.08,Italics,Elm,0000,0000,0000,,I believe I told you.
+Dialogue: 0,0:19:54.68,0:19:57.48,Italics,Elm,0000,0000,0000,,It's because those are Master Mraw's orders.
+Dialogue: 0,0:19:57.48,0:19:59.69,Main,A,0000,0000,0000,,You'll follow any order \Nwithout questioning it?!
+Dialogue: 0,0:19:59.69,0:20:03.52,Italics,Elm,0000,0000,0000,,That is what we were created for.
+Dialogue: 0,0:20:03.52,0:20:06.12,Italics,Elm,0000,0000,0000,,Besides, there is more to it.
+Dialogue: 0,0:20:07.75,0:20:10.68,Main,Elm,0000,0000,0000,,Master Mraw made me a promise.
+Dialogue: 0,0:20:10.68,0:20:12.31,Main,Elm,0000,0000,0000,,A promise, to an android like me.
+Dialogue: 0,0:20:13.25,0:20:14.60,Italics,A,0000,0000,0000,,A promise?
+Dialogue: 0,0:20:15.94,0:20:18.78,Main,Elm,0000,0000,0000,,Anyone who gets in our way will pay.
+Dialogue: 0,0:20:22.24,0:20:24.82,Italics,Al,0000,0000,0000,,Focus on hacking, Akira.
+Dialogue: 0,0:20:26.20,0:20:27.19,Italics,A,0000,0000,0000,,Got it!
+Dialogue: 0,0:20:28.66,0:20:31.23,Italics,A,0000,0000,0000,,Is there anything I can log into?
+Dialogue: 0,0:20:31.23,0:20:34.08,Italics,A,0000,0000,0000,,Car, robot, anything will do!
+Dialogue: 0,0:20:35.27,0:20:36.42,Italics,A,0000,0000,0000,,Nope.
+Dialogue: 0,0:20:36.42,0:20:37.93,Italics,A,0000,0000,0000,,This won't work.
+Dialogue: 0,0:20:37.93,0:20:40.74,Italics,A,0000,0000,0000,,Damn it! They're all fighting out there!
+Dialogue: 0,0:20:41.33,0:20:42.81,Italics,A,0000,0000,0000,,Screw this!
+Dialogue: 0,0:20:42.81,0:20:47.08,Italics,A,0000,0000,0000,,Am I going to be powerless to help yet again?
+Dialogue: 0,0:20:45.97,0:20:47.93,Signs,Sign,0000,0000,0000,,Akira
+Dialogue: 0,0:20:47.08,0:20:47.93,Main,Shu,0000,0000,0000,,Akira.
+Dialogue: 0,0:20:49.47,0:20:51.89,Signs,Sign,0000,0000,0000,,Can you take another step forward?
+Dialogue: 0,0:20:49.47,0:20:51.89,Main,Shu,0000,0000,0000,,Can you take another step forward, Akira?
+Dialogue: 0,0:20:56.92,0:20:57.99,Flashback,Sh,0000,0000,0000,,Akira.
+Dialogue: 0,0:20:59.99,0:21:02.03,Flashback,Sh,0000,0000,0000,,You've just gotta put your best foot forward.
+Dialogue: 0,0:21:03.32,0:21:04.55,Main,A,0000,0000,0000,,Bro...
+Dialogue: 0,0:21:15.16,0:21:16.25,Main,Mi,0000,0000,0000,,Alma!
+Dialogue: 0,0:21:16.25,0:21:17.26,Main,A,0000,0000,0000,,Minami!
+Dialogue: 0,0:21:20.21,0:21:21.38,Main,Mi,0000,0000,0000,,Alma!
+Dialogue: 0,0:23:25.76,0:23:29.15,Main,Al,0000,0000,0000,,An android's only purpose is to obey orders.
+Dialogue: 0,0:23:29.15,0:23:30.76,Main,Al,0000,0000,0000,,That is what I have always believed.
+Dialogue: 0,0:23:30.76,0:23:32.47,Main,Al,0000,0000,0000,,Just like her.
+Dialogue: 0,0:23:32.47,0:23:36.00,Main Top,A,0000,0000,0000,,Next time, on {\i1}EX-ARM:{\i0} \N"Battle 004 - Inheritor of Courage."
+Dialogue: 0,0:23:34.53,0:23:39.97,sign_33915_314_Inheritor_of_Cou,A,0000,0000,0000,,Inheritor of Courage
+Dialogue: 0,0:23:36.00,0:23:38.43,Main Top,Al,0000,0000,0000,,Why is this tearing my heart apart \Nwhen I don't have one?

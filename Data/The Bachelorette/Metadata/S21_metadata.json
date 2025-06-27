@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "Episode #21.1",
+        "released": "2024-07-08",
+        "rating": "N/A",
+        "imdb_id": "tt31912499",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #21.2",
+        "released": "2024-07-15",
+        "rating": "N/A",
+        "imdb_id": "tt32799156",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #21.3",
+        "released": "2024-07-22",
+        "rating": "N/A",
+        "imdb_id": "tt32799157",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #21.4",
+        "released": "2024-07-29",
+        "rating": "N/A",
+        "imdb_id": "tt32799158",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #21.5",
+        "released": "2024-08-05",
+        "rating": "N/A",
+        "imdb_id": "tt32799159",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Men Tell All",
+        "released": "2024-08-27",
+        "rating": "N/A",
+        "imdb_id": "tt33087638",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Finale and After the Final Rose",
+        "released": "2024-09-03",
+        "rating": "N/A",
+        "imdb_id": "tt33087639",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

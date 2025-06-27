@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Natural Friends",
+        "released": "2023-09-21",
+        "rating": "8.1",
+        "imdb_id": "tt29259800",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Hell Is Here",
+        "released": "2023-09-28",
+        "rating": "N/A",
+        "imdb_id": "tt29259803",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Languidly",
+        "released": "2023-10-05",
+        "rating": "N/A",
+        "imdb_id": "tt29259806",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Dynamite Chicks",
+        "released": "2023-10-12",
+        "rating": "N/A",
+        "imdb_id": "tt29259808",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Skateboard Division",
+        "released": "2023-10-19",
+        "rating": "N/A",
+        "imdb_id": "tt29259809",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Brother Alex",
+        "released": "2023-10-26",
+        "rating": "N/A",
+        "imdb_id": "tt29259810",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "I'm Off to Find a Robin",
+        "released": "2023-11-02",
+        "rating": "N/A",
+        "imdb_id": "tt29259813",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Never Packed a Boot",
+        "released": "2023-11-09",
+        "rating": "N/A",
+        "imdb_id": "tt29259816",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Fagin at the Disco",
+        "released": "2023-11-16",
+        "rating": "N/A",
+        "imdb_id": "tt29259817",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Always Forks and Marbles",
+        "released": "2023-11-23",
+        "rating": "8.2",
+        "imdb_id": "tt29259818",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

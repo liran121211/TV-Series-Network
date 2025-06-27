@@ -1,0 +1,562 @@
+{
+    "1": {
+        "title": "Episode #6.1",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13427024",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #6.2",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429720",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #6.3",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429724",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #6.4",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #6.5",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429726",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #6.6",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429728",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #6.7",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429730",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #6.8",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429732",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode #6.9",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429736",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Episode #6.10",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429740",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Episode #6.11",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429738",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Episode #6.12",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429744",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Episode #6.13",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429748",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Episode #6.14",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429750",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Episode #6.15",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429746",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Episode #6.16",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429752",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Episode #6.17",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429754",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Episode #6.18",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429756",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Episode #6.19",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429760",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Episode #6.20",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429762",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Episode #6.21",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429764",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Episode #6.22",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429770",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Episode #6.23",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429766",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Episode #6.24",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429768",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Episode #6.25",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429774",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Episode #6.26",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429772",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Episode #6.27",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429776",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Episode #6.28",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429778",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Episode #6.29",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429782",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Episode #6.30",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429780",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Episode #6.31",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429786",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Episode #6.32",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429784",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Episode #6.33",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429788",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "Episode #6.34",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429790",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Episode #6.35",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429792",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Episode #6.36",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429796",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Episode #6.37",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429794",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Episode #6.38",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429798",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Episode #6.39",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429802",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Episode #6.40",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429806",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Episode #6.41",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429800",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Episode #6.42",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429804",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Episode #6.43",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429808",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Episode #6.44",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429812",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "Episode #6.45",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429810",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Episode #6.46",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429814",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Episode #6.47",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429820",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "Episode #6.48",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429822",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "Episode #6.49",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429818",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Episode #6.50",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429824",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "Episode #6.51",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429826",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Episode #6.52",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429830",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "53": {
+        "title": "Episode #6.53",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429828",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "54": {
+        "title": "Episode #6.54",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429832",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "Episode #6.55",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429836",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "56": {
+        "title": "Episode #6.56",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429834",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "57": {
+        "title": "Episode #6.57",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429838",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "58": {
+        "title": "Episode #6.58",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429840",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "59": {
+        "title": "Episode #6.59",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429842",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "60": {
+        "title": "Episode #6.60",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429846",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "61": {
+        "title": "Episode #6.61",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429844",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "62": {
+        "title": "Episode #6.62",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429850",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "63": {
+        "title": "Episode #6.63",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429848",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "64": {
+        "title": "Episode #6.64",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429854",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "65": {
+        "title": "Episode #6.65",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429856",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "66": {
+        "title": "Episode #6.66",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429858",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "67": {
+        "title": "Episode #6.67",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429862",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "68": {
+        "title": "Episode #6.68",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429860",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "69": {
+        "title": "Episode #6.69",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13429864",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "70": {
+        "title": "Episode #6.70",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13427028",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

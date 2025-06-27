@@ -1,0 +1,202 @@
+{
+    "1": {
+        "title": "Bart of Darkness",
+        "released": "1994-09-04",
+        "rating": "8.7",
+        "imdb_id": "tt0763026",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E01.WEB-DL.DSNPS16E1.zip"
+    },
+    "2": {
+        "title": "Lisa's Rival",
+        "released": "1994-09-11",
+        "rating": "8.1",
+        "imdb_id": "tt0701162",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E02.WEB-DL.DSNPS16E2.zip"
+    },
+    "3": {
+        "title": "Another Simpsons Clip Show",
+        "released": "1994-09-25",
+        "rating": "5.8",
+        "imdb_id": "tt0701053",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E03.WEB-DL.DSNPS16E3.zip"
+    },
+    "4": {
+        "title": "Itchy & Scratchy Land",
+        "released": "1994-10-02",
+        "rating": "8.6",
+        "imdb_id": "tt0778449",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E04.WEB-DL.DSNPS16E4.zip"
+    },
+    "5": {
+        "title": "Sideshow Bob Roberts",
+        "released": "1994-10-09",
+        "rating": "8.2",
+        "imdb_id": "tt0701207",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E05.WEB-DL.DSNPS16E5.zip"
+    },
+    "6": {
+        "title": "Treehouse of Horror V",
+        "released": "1994-10-30",
+        "rating": "9.2",
+        "imdb_id": "tt0701281",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E06.WEB-DL.DSNPS16E6.zip"
+    },
+    "7": {
+        "title": "Bart's Girlfriend",
+        "released": "1994-11-06",
+        "rating": "8.1",
+        "imdb_id": "tt0701065",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E07.WEB-DL.DSNPS16E7.zip"
+    },
+    "8": {
+        "title": "Lisa on Ice",
+        "released": "1994-11-13",
+        "rating": "8.6",
+        "imdb_id": "tt0778450",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E08.WEB-DL.DSNPS16E8.zip"
+    },
+    "9": {
+        "title": "Homer Badman",
+        "released": "1994-11-27",
+        "rating": "8.9",
+        "imdb_id": "tt0701109",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S16\\The.Simpsons.S16E09.WEB-DL.DSNPS16E9.zip"
+    },
+    "10": {
+        "title": "Grampa vs. Sexual Inadequacy",
+        "released": "1994-12-04",
+        "rating": "8.0",
+        "imdb_id": "tt0778448",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Fear of Flying",
+        "released": "1994-12-18",
+        "rating": "7.7",
+        "imdb_id": "tt0701097",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Homer the Great",
+        "released": "1995-01-08",
+        "rating": "9.0",
+        "imdb_id": "tt0701115",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "And Maggie Makes Three",
+        "released": "1995-01-22",
+        "rating": "8.9",
+        "imdb_id": "tt0757016",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Bart's Comet",
+        "released": "1995-02-05",
+        "rating": "8.7",
+        "imdb_id": "tt0778447",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S36\\The.Simpsons.1989.S36E14.The.Past.and.the.Furious.DSNP.WEB.h264-EDITHS36E14.zip"
+    },
+    "15": {
+        "title": "Homie the Clown",
+        "released": "1995-02-12",
+        "rating": "8.6",
+        "imdb_id": "tt0701128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Bart vs. Australia",
+        "released": "1995-02-19",
+        "rating": "8.5",
+        "imdb_id": "tt0778446",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Homer vs. Patty and Selma",
+        "released": "1995-02-26",
+        "rating": "7.8",
+        "imdb_id": "tt0701119",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "A Star Is Burns",
+        "released": "1995-03-05",
+        "rating": "8.6",
+        "imdb_id": "tt0701045",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Lisa's Wedding",
+        "released": "1995-03-19",
+        "rating": "8.3",
+        "imdb_id": "tt0701165",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Two Dozen and One Greyhounds",
+        "released": "1995-04-09",
+        "rating": "8.1",
+        "imdb_id": "tt0701289",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The PTA Disbands",
+        "released": "1995-04-16",
+        "rating": "8.0",
+        "imdb_id": "tt0778454",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "'Round Springfield",
+        "released": "1995-04-30",
+        "rating": "8.2",
+        "imdb_id": "tt0701041",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "The Springfield Connection",
+        "released": "1995-05-07",
+        "rating": "8.2",
+        "imdb_id": "tt0778455",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Lemon of Troy",
+        "released": "1995-05-14",
+        "rating": "8.7",
+        "imdb_id": "tt0757018",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Who Shot Mr. Burns? Part One",
+        "released": "1995-05-21",
+        "rating": "N/A",
+        "imdb_id": "tt0701294",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

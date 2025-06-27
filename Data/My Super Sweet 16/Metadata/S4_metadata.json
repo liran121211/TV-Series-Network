@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "Cher",
+        "released": "2007-01-15",
+        "rating": "N/A",
+        "imdb_id": "tt1148502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Allison",
+        "released": "2005-01-15",
+        "rating": "N/A",
+        "imdb_id": "tt7632292",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Erin",
+        "released": "2007-02-05",
+        "rating": "N/A",
+        "imdb_id": "tt1952820",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Priscilla",
+        "released": "2007-03-12",
+        "rating": "N/A",
+        "imdb_id": "tt1059611",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Svetlana",
+        "released": "2007-03-19",
+        "rating": "N/A",
+        "imdb_id": "tt1059614",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Rachel",
+        "released": "2007-04-02",
+        "rating": "N/A",
+        "imdb_id": "tt1059612",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Rants and Raves",
+        "released": "2007-04-16",
+        "rating": "N/A",
+        "imdb_id": "tt1059613",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

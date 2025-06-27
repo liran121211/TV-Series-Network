@@ -1,0 +1,92 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Flashback_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Episode Title,Open Sans Semibold,36,&H00000000,&H000000FF,&H00F5FBFC,&H00C0D1D1,1,0,0,0,100,100,0,0,1,3,3,8,13,13,27,1
+Style: sign_418_6_Grrrr,Open Sans Semibold,36,&H0078784A,&H000000FF,&H002F180D,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,79,691,175,1
+Style: sign_2749_47_onscreen_text_to,Open Sans Semibold,33,&H006AFFFD,&H000000FF,&H00978D49,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,259,259,24,1
+Style: sign_2780_48_onscreen_text_to,Open Sans Semibold,33,&H006AFFFD,&H000000FF,&H00978D49,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,259,259,24,1
+Style: sign_2680_44_Eee__,Open Sans Semibold,36,&H001907B4,&H000000FF,&H0007033A,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,187,569,136,1
+Style: sign_3285_58_Again_,Open Sans Semibold,36,&H001907B4,&H000000FF,&H0007033A,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,153,579,144,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.41,0:00:05.82,Italics,Nar,0000,0000,0000,,Tylor and the others \Nhead up to save Dolly.
+Dialogue: 0,0:00:05.82,0:00:08.16,Italics,Nar,0000,0000,0000,,They're forced to live in a tent,
+Dialogue: 0,0:00:08.16,0:00:09.64,Italics,Nar,0000,0000,0000,,but after a month of climbing,
+Dialogue: 0,0:00:09.64,0:00:12.58,Italics,Nar,0000,0000,0000,,they manage to reach a cliff on the surface.
+Dialogue: 0,0:00:13.03,0:00:17.82,Italics,Nar,0000,0000,0000,,But their journey for fuel for the \Ninterstellar rocket continues endlessly,
+Dialogue: 0,0:00:17.41,0:00:21.04,sign_418_6_Grrrr,Nar,0000,0000,0000,,Grrrr
+Dialogue: 0,0:00:17.82,0:00:19.15,Italics,Nar,0000,0000,0000,,and for two months,
+Dialogue: 0,0:00:19.15,0:00:21.04,Italics,Nar,0000,0000,0000,,they have to live in a tent.
+Dialogue: 0,0:00:24.12,0:00:26.83,Episode Title,Gu,0000,0000,0000,,{\fad(195,1)}I'm Sleepy All Day Again Today
+Dialogue: 0,0:00:27.34,0:00:29.99,Main,L,0000,0000,0000,,I'm sick of living in a tent!
+Dialogue: 0,0:00:29.99,0:00:32.94,Main,L,0000,0000,0000,,Tylor, Yamamoto, do something!
+Dialogue: 0,0:00:32.94,0:00:34.50,Main,Gu,0000,0000,0000,,There's nothing I can tell you,
+Dialogue: 0,0:00:34.50,0:00:38.20,Main,Gu,0000,0000,0000,,but in a week we should \Nreach the residential space,
+Dialogue: 0,0:00:38.20,0:00:40.22,Main,Gu,0000,0000,0000,,so just hang in there...
+Dialogue: 0,0:00:40.22,0:00:43.99,Main,Gi,0000,0000,0000,,You're telling me I have to live \Nin a tent for another week?
+Dialogue: 0,0:00:43.99,0:00:46.45,Main,Gu,0000,0000,0000,,You've done it for two months.
+Dialogue: 0,0:00:46.45,0:00:49.57,Main,Gu,0000,0000,0000,,Another month is nothing, right, Azalyn?
+Dialogue: 0,0:00:49.57,0:00:51.47,Main,Gi,0000,0000,0000,,Maybe, but...
+Dialogue: 0,0:00:51.47,0:00:53.69,Main,Gu,0000,0000,0000,,Two months together in a tent...
+Dialogue: 0,0:00:53.69,0:00:55.55,Main,Gu,0000,0000,0000,,That's not something you get to do every day.
+Dialogue: 0,0:00:55.55,0:00:58.37,Main,Gu,0000,0000,0000,,I'm having fun being with everybody.
+Dialogue: 0,0:00:58.71,0:01:00.58,Main,Gi,0000,0000,0000,,It's fun for me, too...
+Dialogue: 0,0:01:03.16,0:01:04.65,Main,Gi,0000,0000,0000,,What are those voices?
+Dialogue: 0,0:01:04.65,0:01:07.16,Main,Gu,0000,0000,0000,,There shouldn't be any people inside.
+Dialogue: 0,0:01:07.16,0:01:08.89,Main,Gu,0000,0000,0000,,It may be a trap.
+Dialogue: 0,0:01:08.89,0:01:10.17,Main,Gi,0000,0000,0000,,What kind of trap?
+Dialogue: 0,0:01:10.17,0:01:12.94,Main,Gi,0000,0000,0000,,There aren't any armies in this era, right?
+Dialogue: 0,0:01:12.94,0:01:15.89,Main,Gi,0000,0000,0000,,Then why would anybody want to trap me?
+Dialogue: 0,0:01:15.89,0:01:17.17,Main,Gu,0000,0000,0000,,It's dangerous, Azalyn!
+Dialogue: 0,0:01:17.17,0:01:18.54,Main,Gu,0000,0000,0000,,You mustn't go!
+Dialogue: 0,0:01:18.54,0:01:20.57,Main,Gu,0000,0000,0000,,Don't worry, Yamamoto-kun.
+Dialogue: 0,0:01:20.57,0:01:23.60,Main,Gu,0000,0000,0000,,Let's take it easy. Relax!
+Dialogue: 0,0:01:25.42,0:01:28.94,Main,Gi,0000,0000,0000,,Look, it's filled with dazzling light!
+Dialogue: 0,0:01:31.49,0:01:33.15,Main,Gi,0000,0000,0000,,Look at this classy place!
+Dialogue: 0,0:01:34.12,0:01:37.46,Main,Gi,0000,0000,0000,,All this food! It looks so good!
+Dialogue: 0,0:01:37.46,0:01:39.32,Main,Gi,0000,0000,0000,,My name?
+Dialogue: 0,0:01:39.78,0:01:41.53,Main,Gi,0000,0000,0000,,Banjo Ueki Tylor!
+Dialogue: 0,0:01:41.53,0:01:42.99,Main,Gi,0000,0000,0000,,How cute!
+Dialogue: 0,0:01:42.99,0:01:46.03,Main,Gi,0000,0000,0000,,Tylor-sama! Eat up.
+Dialogue: 0,0:01:46.03,0:01:47.50,Main,Gi,0000,0000,0000,,Here you go.
+Dialogue: 0,0:01:51.75,0:01:52.75,sign_2680_44_Eee__,,0000,0000,0000,,Eh!?
+Dialogue: 0,0:01:51.75,0:01:52.80,Main,Gi,0000,0000,0000,,Dummy!
+Dialogue: 0,0:01:54.63,0:01:55.88,sign_2749_47_onscreen_text_to,,0000,0000,0000,,{\fad(1,223)}Yamamoto-372
+Dialogue: 0,0:01:55.94,0:02:16.28,sign_2780_48_onscreen_text_to,,0000,0000,0000,,{\fad(260,1)}Makoto Yamamoto
+Dialogue: 0,0:01:57.85,0:01:58.99,Main,Gu,0000,0000,0000,,Tylor...
+Dialogue: 0,0:01:59.48,0:02:01.51,Main,Gu,0000,0000,0000,,Captain! It's been so long!
+Dialogue: 0,0:02:01.51,0:02:03.93,Main,Gu,0000,0000,0000,,It's me! Makoto Yamamoto!
+Dialogue: 0,0:02:04.34,0:02:05.55,Main,Gu,0000,0000,0000,,Who're you?
+Dialogue: 0,0:02:05.55,0:02:07.81,Main,Gu,0000,0000,0000,,What's gotten into you, Yamamoto-kun?
+Dialogue: 0,0:02:07.81,0:02:10.29,Main,Gu,0000,0000,0000,,What are you talking about, Captain?
+Dialogue: 0,0:02:10.29,0:02:14.28,Main,Gu,0000,0000,0000,,I'm Makoto Yamamoto, your XO in the \NUnited Planets Space Force!
+Dialogue: 0,0:02:14.28,0:02:15.72,Main,Gu,0000,0000,0000,,Where am I?
+Dialogue: 0,0:02:15.72,0:02:16.71,Main,Gu,0000,0000,0000,,When am I?
+Dialogue: 0,0:02:16.71,0:02:18.03,Main,Gi,0000,0000,0000,,Shaddup!
+Dialogue: 0,0:02:17.01,0:02:17.99,sign_3285_58_Again_,Gi,0000,0000,0000,,Again?
+Dialogue: 0,0:02:22.44,0:02:23.81,Main,Gi,0000,0000,0000,,Oh, a cutie!
+Dialogue: 0,0:02:23.81,0:02:27.55,Main,Gi,0000,0000,0000,,That trash-can robot turned \Ninto just my type of guy...
+Dialogue: 0,0:02:27.55,0:02:29.87,Main,Gi,0000,0000,0000,,Maybe I'll take him.
+Dialogue: 0,0:02:29.87,0:02:33.41,Main,Gi,0000,0000,0000,,Then I'll take Tylor-sama!
+Dialogue: 0,0:02:35.17,0:02:35.84,Main,Gi,0000,0000,0000,,Run!
+Dialogue: 0,0:02:35.84,0:02:37.02,Main,Gi,0000,0000,0000,,This place is dangerous!
+Dialogue: 0,0:02:38.11,0:02:40.31,Main,Gu,0000,0000,0000,,What a waste, Azalyn!
+Dialogue: 0,0:02:40.31,0:02:44.20,Main,Gu,0000,0000,0000,,It's not fair that only \NYamamoto-kun gets to stay.
+Dialogue: 0,0:02:48.13,0:02:49.88,Main,Gi,0000,0000,0000,,Yuck!
+Dialogue: 0,0:03:22.85,0:03:24.87,Main,Gi,0000,0000,0000,,Yamamoto's an uke, right?
+Dialogue: 0,0:03:24.87,0:03:27.30,Main,Gi,0000,0000,0000,,Maybe he's the biggest uke in the galaxy!
+Dialogue: 0,0:03:27.30,0:03:29.26,Main,Gi,0000,0000,0000,,How noble! How noble!

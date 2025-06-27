@@ -1,0 +1,314 @@
+{
+    "2": {
+        "title": "Episode #2.2",
+        "released": "2009-09-12",
+        "rating": "N/A",
+        "imdb_id": "tt8380560",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #2.3",
+        "released": "2009-09-19",
+        "rating": "N/A",
+        "imdb_id": "tt11845456",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #2.4",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt11845460",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #2.5",
+        "released": "2009-10-03",
+        "rating": "N/A",
+        "imdb_id": "tt11845466",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #2.6",
+        "released": "2009-10-17",
+        "rating": "N/A",
+        "imdb_id": "tt11845468",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #2.7",
+        "released": "2009-10-24",
+        "rating": "N/A",
+        "imdb_id": "tt11845474",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #2.8",
+        "released": "2009-10-31",
+        "rating": "N/A",
+        "imdb_id": "tt11845476",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode #2.9",
+        "released": "2009-11-07",
+        "rating": "N/A",
+        "imdb_id": "tt11845478",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Episode #2.10",
+        "released": "2009-11-14",
+        "rating": "N/A",
+        "imdb_id": "tt11845486",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Episode #2.11",
+        "released": "2009-11-21",
+        "rating": "N/A",
+        "imdb_id": "tt11845488",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Episode #2.12",
+        "released": "2009-11-28",
+        "rating": "N/A",
+        "imdb_id": "tt11845492",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Episode #2.13",
+        "released": "2009-12-05",
+        "rating": "N/A",
+        "imdb_id": "tt11845502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Episode #2.14",
+        "released": "2009-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt11845494",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Episode #2.15",
+        "released": "2009-12-19",
+        "rating": "N/A",
+        "imdb_id": "tt11845512",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Episode #2.16",
+        "released": "2009-12-26",
+        "rating": "N/A",
+        "imdb_id": "tt11845516",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Episode #2.17",
+        "released": "2010-01-16",
+        "rating": "N/A",
+        "imdb_id": "tt11845518",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Episode #2.18",
+        "released": "2010-01-23",
+        "rating": "N/A",
+        "imdb_id": "tt11845520",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Episode #2.19",
+        "released": "2010-01-30",
+        "rating": "N/A",
+        "imdb_id": "tt11845524",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Episode #2.21",
+        "released": "2010-02-13",
+        "rating": "N/A",
+        "imdb_id": "tt11850000",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Episode #2.22",
+        "released": "2010-02-20",
+        "rating": "N/A",
+        "imdb_id": "tt11850014",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Episode #2.23",
+        "released": "2010-02-27",
+        "rating": "N/A",
+        "imdb_id": "tt11850026",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Episode #2.24",
+        "released": "2010-03-06",
+        "rating": "N/A",
+        "imdb_id": "tt11850036",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Episode #2.25",
+        "released": "2010-03-13",
+        "rating": "N/A",
+        "imdb_id": "tt11850050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Episode #2.26",
+        "released": "2010-03-20",
+        "rating": "N/A",
+        "imdb_id": "tt11850064",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Episode #2.27",
+        "released": "2010-03-27",
+        "rating": "N/A",
+        "imdb_id": "tt11850074",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Episode #2.28",
+        "released": "2010-04-03",
+        "rating": "N/A",
+        "imdb_id": "tt11850084",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Episode #2.29",
+        "released": "2010-04-10",
+        "rating": "N/A",
+        "imdb_id": "tt11850100",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Episode #2.30",
+        "released": "2010-04-17",
+        "rating": "N/A",
+        "imdb_id": "tt11850108",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Episode #2.31",
+        "released": "2010-04-24",
+        "rating": "N/A",
+        "imdb_id": "tt11850122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Episode #2.32",
+        "released": "2010-05-01",
+        "rating": "N/A",
+        "imdb_id": "tt11850140",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Episode #2.33",
+        "released": "2010-05-08",
+        "rating": "N/A",
+        "imdb_id": "tt11850150",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "Episode #2.34",
+        "released": "2010-05-15",
+        "rating": "N/A",
+        "imdb_id": "tt11850166",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Episode #2.35",
+        "released": "2010-05-22",
+        "rating": "N/A",
+        "imdb_id": "tt11850184",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Episode #2.36",
+        "released": "2010-05-29",
+        "rating": "N/A",
+        "imdb_id": "tt11850192",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Episode #2.37",
+        "released": "2010-06-05",
+        "rating": "N/A",
+        "imdb_id": "tt11850202",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Episode #2.38",
+        "released": "2010-06-12",
+        "rating": "N/A",
+        "imdb_id": "tt11850204",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Episode #2.39",
+        "released": "2010-06-19",
+        "rating": "N/A",
+        "imdb_id": "tt11850208",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Episode #2.40",
+        "released": "2010-06-26",
+        "rating": "N/A",
+        "imdb_id": "tt11850212",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Episode #2.44",
+        "released": "2009-09-05",
+        "rating": "N/A",
+        "imdb_id": "tt4259088",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

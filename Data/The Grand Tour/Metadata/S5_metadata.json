@@ -1,0 +1,26 @@
+{
+    "1": {
+        "title": "Untitled Grand Tour Special",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt14515150",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S5\\The.Grand.Tour.S05E01.WEBRip.x264S5E1.zip"
+    },
+    "2": {
+        "title": "The Grand Tour: Eurocrash",
+        "released": "2023-06-16",
+        "rating": "8.2",
+        "imdb_id": "tt21856218",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Grand Tour: Sand Job",
+        "released": "2024-02-16",
+        "rating": "8.2",
+        "imdb_id": "tt27952443",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

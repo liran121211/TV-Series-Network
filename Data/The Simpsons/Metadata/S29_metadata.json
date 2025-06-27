@@ -1,0 +1,170 @@
+{
+    "1": {
+        "title": "The Serfsons",
+        "released": "2017-10-01",
+        "rating": "6.8",
+        "imdb_id": "tt7156270",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S29\\The.Simpsons.S29E01.PROPER.HDTV.x264-SVA[eztv]S29E1.zip"
+    },
+    "2": {
+        "title": "Springfield Splendor",
+        "released": "2017-10-08",
+        "rating": "6.6",
+        "imdb_id": "tt7156264",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S29\\The.Simpsons.S29E02.HDTV.x264-KILLERSS29E2.zip"
+    },
+    "3": {
+        "title": "Whistler's Father",
+        "released": "2017-10-15",
+        "rating": "6.1",
+        "imdb_id": "tt6225292",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S29\\The.Simpsons.S29E03.HDTV.x264-KILLERSS29E3.zip"
+    },
+    "4": {
+        "title": "Treehouse of Horror XXVIII",
+        "released": "2017-10-22",
+        "rating": "7.1",
+        "imdb_id": "tt6890620",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S29\\The.Simpsons.S29E04.HDTV.x264-KILLERSS29E4.zip"
+    },
+    "5": {
+        "title": "Grampy Can Ya Hear Me",
+        "released": "2017-11-05",
+        "rating": "6.4",
+        "imdb_id": "tt7480030",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S29\\The.Simpsons.S29E05.HDTV.XviD-RMXS29E5.zip"
+    },
+    "6": {
+        "title": "The Old Blue Mayor She Ain't What She Used To Be",
+        "released": "2017-11-12",
+        "rating": "6.3",
+        "imdb_id": "tt7548148",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S29\\The.Simpsons.S29E06.HDTV.XviD-RMXS29E6.zip"
+    },
+    "7": {
+        "title": "Singin' in the Lane",
+        "released": "2017-11-19",
+        "rating": "6.4",
+        "imdb_id": "tt7368116",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S29\\The.Simpsons.S29E07.HDTV.XviD-RMXS29E7.zip"
+    },
+    "8": {
+        "title": "Mr. Lisa's Opus",
+        "released": "2017-12-03",
+        "rating": "6.8",
+        "imdb_id": "tt7343996",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S29\\The.Simpsons.S29E08.REPACK.HDTV.XviD-RMXS29E8.zip"
+    },
+    "9": {
+        "title": "Gone Boy",
+        "released": "2017-12-10",
+        "rating": "7.2",
+        "imdb_id": "tt7480064",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S29\\The.Simpsons.S29E09.HDTV.x264-KILLERSS29E9.zip"
+    },
+    "10": {
+        "title": "Haw-Haw Land",
+        "released": "2018-01-07",
+        "rating": "6.5",
+        "imdb_id": "tt7156278",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Frink Gets Testy",
+        "released": "2018-01-14",
+        "rating": "6.3",
+        "imdb_id": "tt6890594",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Homer is Where the Art Isn't",
+        "released": "2018-03-18",
+        "rating": "6.7",
+        "imdb_id": "tt7852294",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "3 Scenes Plus a Tag from a Marriage",
+        "released": "2018-03-25",
+        "rating": "6.6",
+        "imdb_id": "tt7343988",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Fears of a Clown",
+        "released": "2018-04-01",
+        "rating": "6.0",
+        "imdb_id": "tt7156280",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "No Good Read Goes Unpunished",
+        "released": "2018-04-08",
+        "rating": "6.3",
+        "imdb_id": "tt7953984",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "King Leer",
+        "released": "2018-04-15",
+        "rating": "6.3",
+        "imdb_id": "tt8068912",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Lisa Gets the Blues",
+        "released": "2018-04-22",
+        "rating": "6.7",
+        "imdb_id": "tt7343990",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Forgive and Regret",
+        "released": "2018-04-29",
+        "rating": "7.0",
+        "imdb_id": "tt8068902",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Left Behind",
+        "released": "2018-05-06",
+        "rating": "6.7",
+        "imdb_id": "tt8259930",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Throw Grampa from the Dane",
+        "released": "2018-05-13",
+        "rating": "6.7",
+        "imdb_id": "tt8259932",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Flanders' Ladder",
+        "released": "2018-05-20",
+        "rating": "7.6",
+        "imdb_id": "tt8292612",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

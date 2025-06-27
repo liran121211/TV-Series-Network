@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Foisted!",
+        "released": "2017-10-01",
+        "rating": "8.6",
+        "imdb_id": "tt5808896",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S9\\Curb.Your.Enthusiasm.S09E01.HDTV.X264-UAVS9E1.zip"
+    },
+    "2": {
+        "title": "The Pickle Gambit",
+        "released": "2017-10-08",
+        "rating": "8.2",
+        "imdb_id": "tt6739316",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S9\\Curb.Your.Enthusiasm.S09E02.HDTV.X264-UAVS9E2.zip"
+    },
+    "3": {
+        "title": "A Disturbance in the Kitchen",
+        "released": "2017-10-15",
+        "rating": "8.4",
+        "imdb_id": "tt7126472",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S9\\Curb.Your.Enthusiasm.S09E03.HDTV.x264-UAVS9E3.zip"
+    },
+    "4": {
+        "title": "Running with the Bulls",
+        "released": "2017-10-22",
+        "rating": "8.3",
+        "imdb_id": "tt7126476",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S9\\Curb.Your.Enthusiasm.S09E04.HDTV.X264-UAVS9E4.zip"
+    },
+    "5": {
+        "title": "Thank You for Your Service",
+        "released": "2017-10-29",
+        "rating": "N/A",
+        "imdb_id": "tt7126486",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S9\\Curb.Your.Enthusiasm.S09E05.HDTV.XviD-NoGRPS9E5.zip"
+    },
+    "6": {
+        "title": "The Accidental Text on Purpose",
+        "released": "2017-11-05",
+        "rating": "9.0",
+        "imdb_id": "tt6764872",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S9\\Curb.Your.Enthusiasm.S09E06.HDTV.XviD-NoGRPS9E6.zip"
+    },
+    "7": {
+        "title": "Namaste",
+        "released": "2017-11-12",
+        "rating": "N/A",
+        "imdb_id": "tt6618290",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S9\\Curb.Your.Enthusiasm.S09E07.HDTV.x264-UAVS9E7.zip"
+    },
+    "8": {
+        "title": "Never Wait for Seconds!",
+        "released": "2017-11-19",
+        "rating": "8.4",
+        "imdb_id": "tt6706428",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S9\\Curb.Your.Enthusiasm.S09E08.HDTV.XviD-NoGRPS9E8.zip"
+    },
+    "9": {
+        "title": "The Shucker",
+        "released": "2017-11-26",
+        "rating": "8.0",
+        "imdb_id": "tt7126456",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S9\\Curb.Your.Enthusiasm.S09E09.HDTV.x264-UAVS9E9.zip"
+    },
+    "10": {
+        "title": "Fatwa!",
+        "released": "2017-12-03",
+        "rating": "8.5",
+        "imdb_id": "tt7032890",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

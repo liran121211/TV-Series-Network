@@ -1,0 +1,802 @@
+{
+    "1": {
+        "title": "Episode #8.1",
+        "released": "2010-09-20",
+        "rating": "N/A",
+        "imdb_id": "tt1727046",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #8.2",
+        "released": "2010-09-21",
+        "rating": "N/A",
+        "imdb_id": "tt1727052",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #8.3",
+        "released": "2010-09-22",
+        "rating": "N/A",
+        "imdb_id": "tt1727053",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #8.4",
+        "released": "2010-09-23",
+        "rating": "N/A",
+        "imdb_id": "tt1727054",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #8.6",
+        "released": "2010-09-25",
+        "rating": "N/A",
+        "imdb_id": "tt1727056",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #8.7",
+        "released": "2010-09-26",
+        "rating": "N/A",
+        "imdb_id": "tt1727057",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #8.8",
+        "released": "2010-09-27",
+        "rating": "N/A",
+        "imdb_id": "tt1727058",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Episode #8.10",
+        "released": "2010-09-29",
+        "rating": "N/A",
+        "imdb_id": "tt1727047",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Episode #8.11",
+        "released": "2010-09-30",
+        "rating": "N/A",
+        "imdb_id": "tt1727048",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Episode #8.12",
+        "released": "2010-10-01",
+        "rating": "N/A",
+        "imdb_id": "tt1727049",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Episode #8.13",
+        "released": "2010-10-02",
+        "rating": "N/A",
+        "imdb_id": "tt1727050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Episode #8.14",
+        "released": "2010-10-03",
+        "rating": "N/A",
+        "imdb_id": "tt1727051",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Episode #8.15",
+        "released": "2010-10-04",
+        "rating": "N/A",
+        "imdb_id": "tt1729904",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Episode #8.16",
+        "released": "2010-10-05",
+        "rating": "N/A",
+        "imdb_id": "tt1729905",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Episode #8.17",
+        "released": "2010-10-06",
+        "rating": "N/A",
+        "imdb_id": "tt1729906",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Episode #8.18",
+        "released": "2010-10-07",
+        "rating": "N/A",
+        "imdb_id": "tt1729907",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Episode #8.19",
+        "released": "2010-10-08",
+        "rating": "N/A",
+        "imdb_id": "tt1729908",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Episode #8.20",
+        "released": "2010-10-09",
+        "rating": "N/A",
+        "imdb_id": "tt1729909",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Episode #8.21",
+        "released": "2010-10-10",
+        "rating": "N/A",
+        "imdb_id": "tt1729910",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Episode #8.22",
+        "released": "2010-10-11",
+        "rating": "N/A",
+        "imdb_id": "tt1729911",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Episode #8.23",
+        "released": "2010-10-12",
+        "rating": "N/A",
+        "imdb_id": "tt1729912",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Episode #8.24",
+        "released": "2010-10-13",
+        "rating": "N/A",
+        "imdb_id": "tt1729913",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Episode #8.25",
+        "released": "2010-10-14",
+        "rating": "N/A",
+        "imdb_id": "tt1729914",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Episode #8.26",
+        "released": "2010-10-15",
+        "rating": "N/A",
+        "imdb_id": "tt1729915",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Episode #8.27",
+        "released": "2010-10-16",
+        "rating": "N/A",
+        "imdb_id": "tt1729916",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Episode #8.28",
+        "released": "2010-10-17",
+        "rating": "N/A",
+        "imdb_id": "tt1729917",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Episode #8.29",
+        "released": "2010-10-18",
+        "rating": "N/A",
+        "imdb_id": "tt1729918",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Episode #8.30",
+        "released": "2010-10-19",
+        "rating": "N/A",
+        "imdb_id": "tt1729919",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Episode #8.31",
+        "released": "2010-10-20",
+        "rating": "N/A",
+        "imdb_id": "tt1729920",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Episode #8.32",
+        "released": "2010-10-21",
+        "rating": "N/A",
+        "imdb_id": "tt1729921",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Episode #8.33",
+        "released": "2010-10-22",
+        "rating": "N/A",
+        "imdb_id": "tt1729922",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "Episode #8.34",
+        "released": "2010-10-23",
+        "rating": "N/A",
+        "imdb_id": "tt1729923",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Episode #8.35",
+        "released": "2010-10-24",
+        "rating": "N/A",
+        "imdb_id": "tt1729924",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Episode #8.36",
+        "released": "2010-10-25",
+        "rating": "N/A",
+        "imdb_id": "tt1729925",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Episode #8.37",
+        "released": "2010-10-26",
+        "rating": "N/A",
+        "imdb_id": "tt1729926",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Episode #8.38",
+        "released": "2010-10-27",
+        "rating": "N/A",
+        "imdb_id": "tt1729927",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Episode #8.39",
+        "released": "2010-10-28",
+        "rating": "N/A",
+        "imdb_id": "tt1729928",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Episode #8.40",
+        "released": "2010-10-29",
+        "rating": "N/A",
+        "imdb_id": "tt1729929",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Episode #8.41",
+        "released": "2010-10-30",
+        "rating": "N/A",
+        "imdb_id": "tt1729930",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Episode #8.42",
+        "released": "2010-10-31",
+        "rating": "N/A",
+        "imdb_id": "tt1729931",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Episode #8.43",
+        "released": "2010-11-01",
+        "rating": "N/A",
+        "imdb_id": "tt1755607",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "Episode #8.45",
+        "released": "2010-11-03",
+        "rating": "N/A",
+        "imdb_id": "tt1755609",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Episode #8.46",
+        "released": "2010-11-04",
+        "rating": "N/A",
+        "imdb_id": "tt1755610",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Episode #8.47",
+        "released": "2010-11-05",
+        "rating": "N/A",
+        "imdb_id": "tt1755611",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "Episode #8.48",
+        "released": "2010-11-06",
+        "rating": "N/A",
+        "imdb_id": "tt1755612",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Episode #8.50",
+        "released": "2010-11-09",
+        "rating": "N/A",
+        "imdb_id": "tt1755614",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "Episode #8.51",
+        "released": "2010-11-10",
+        "rating": "N/A",
+        "imdb_id": "tt1755615",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Episode #8.52",
+        "released": "2010-11-11",
+        "rating": "N/A",
+        "imdb_id": "tt1755616",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "53": {
+        "title": "Episode #8.53",
+        "released": "2010-11-12",
+        "rating": "N/A",
+        "imdb_id": "tt1755617",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "54": {
+        "title": "Episode #8.54",
+        "released": "2010-11-13",
+        "rating": "N/A",
+        "imdb_id": "tt1755618",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "Episode #8.55",
+        "released": "2010-11-15",
+        "rating": "N/A",
+        "imdb_id": "tt1755619",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "57": {
+        "title": "Episode #8.57",
+        "released": "2010-11-17",
+        "rating": "N/A",
+        "imdb_id": "tt1755621",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "59": {
+        "title": "Episode #8.59",
+        "released": "2010-11-19",
+        "rating": "N/A",
+        "imdb_id": "tt1755623",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "60": {
+        "title": "Episode #8.60",
+        "released": "2010-11-20",
+        "rating": "N/A",
+        "imdb_id": "tt1755624",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "61": {
+        "title": "Episode #8.61",
+        "released": "2010-11-22",
+        "rating": "N/A",
+        "imdb_id": "tt1755625",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "62": {
+        "title": "Episode #8.62",
+        "released": "2010-11-23",
+        "rating": "N/A",
+        "imdb_id": "tt1755626",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "63": {
+        "title": "Episode #8.63",
+        "released": "2010-11-24",
+        "rating": "N/A",
+        "imdb_id": "tt1755627",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "64": {
+        "title": "Episode #8.64",
+        "released": "2010-11-25",
+        "rating": "N/A",
+        "imdb_id": "tt1755628",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "65": {
+        "title": "Episode #8.65",
+        "released": "2010-11-26",
+        "rating": "N/A",
+        "imdb_id": "tt1755629",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "66": {
+        "title": "Episode #8.66",
+        "released": "2010-11-27",
+        "rating": "N/A",
+        "imdb_id": "tt1755630",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "71": {
+        "title": "Episode #8.71",
+        "released": "2010-12-03",
+        "rating": "N/A",
+        "imdb_id": "tt1755635",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "72": {
+        "title": "Episode #8.72",
+        "released": "2010-12-04",
+        "rating": "N/A",
+        "imdb_id": "tt1755636",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "73": {
+        "title": "Episode #8.73",
+        "released": "2010-12-06",
+        "rating": "N/A",
+        "imdb_id": "tt1782855",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "74": {
+        "title": "Episode #8.74",
+        "released": "2010-12-07",
+        "rating": "N/A",
+        "imdb_id": "tt1782856",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "75": {
+        "title": "Episode #8.75",
+        "released": "2010-12-08",
+        "rating": "N/A",
+        "imdb_id": "tt1782857",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "76": {
+        "title": "Episode #8.76",
+        "released": "2010-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt1782858",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "77": {
+        "title": "Episode #8.77",
+        "released": "2010-12-10",
+        "rating": "N/A",
+        "imdb_id": "tt1782859",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "78": {
+        "title": "Episode #8.78",
+        "released": "2010-12-11",
+        "rating": "N/A",
+        "imdb_id": "tt1782860",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "79": {
+        "title": "Episode #8.79",
+        "released": "2010-12-13",
+        "rating": "N/A",
+        "imdb_id": "tt1782861",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "81": {
+        "title": "Episode #8.81",
+        "released": "2010-12-15",
+        "rating": "N/A",
+        "imdb_id": "tt1782863",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "82": {
+        "title": "Episode #8.82",
+        "released": "2010-12-16",
+        "rating": "N/A",
+        "imdb_id": "tt1782864",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "85": {
+        "title": "Episode #8.85",
+        "released": "2010-12-20",
+        "rating": "N/A",
+        "imdb_id": "tt1782867",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "86": {
+        "title": "Episode #8.86",
+        "released": "2010-12-21",
+        "rating": "N/A",
+        "imdb_id": "tt1782868",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "88": {
+        "title": "Episode #8.88",
+        "released": "2010-12-23",
+        "rating": "N/A",
+        "imdb_id": "tt1782870",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "89": {
+        "title": "Episode #8.89",
+        "released": "2010-12-24",
+        "rating": "N/A",
+        "imdb_id": "tt1782871",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "91": {
+        "title": "Episode #8.91",
+        "released": "2010-12-26",
+        "rating": "N/A",
+        "imdb_id": "tt1782873",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "92": {
+        "title": "Episode #8.92",
+        "released": "2010-12-27",
+        "rating": "N/A",
+        "imdb_id": "tt1782874",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "94": {
+        "title": "Episode #8.94",
+        "released": "2010-12-29",
+        "rating": "N/A",
+        "imdb_id": "tt1782876",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "95": {
+        "title": "Episode #8.95",
+        "released": "2010-12-30",
+        "rating": "N/A",
+        "imdb_id": "tt1782877",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "96": {
+        "title": "Episode #8.96",
+        "released": "2010-12-31",
+        "rating": "N/A",
+        "imdb_id": "tt1782878",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "97": {
+        "title": "Episode #8.97",
+        "released": "2011-01-01",
+        "rating": "N/A",
+        "imdb_id": "tt1782879",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "98": {
+        "title": "Episode #8.98",
+        "released": "2011-01-02",
+        "rating": "N/A",
+        "imdb_id": "tt1782880",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "130": {
+        "title": "Episode #8.130",
+        "released": "2011-02-08",
+        "rating": "N/A",
+        "imdb_id": "tt1831223",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "131": {
+        "title": "Episode #8.131",
+        "released": "2011-02-09",
+        "rating": "N/A",
+        "imdb_id": "tt1831224",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "132": {
+        "title": "Episode #8.132",
+        "released": "2011-02-10",
+        "rating": "N/A",
+        "imdb_id": "tt1831225",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "135": {
+        "title": "Episode #8.135",
+        "released": "2011-02-14",
+        "rating": "N/A",
+        "imdb_id": "tt1831228",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "137": {
+        "title": "Episode #8.137",
+        "released": "2011-02-16",
+        "rating": "N/A",
+        "imdb_id": "tt1831230",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "138": {
+        "title": "Episode #8.138",
+        "released": "2011-02-17",
+        "rating": "N/A",
+        "imdb_id": "tt1831231",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "140": {
+        "title": "Episode #8.140",
+        "released": "2011-02-19",
+        "rating": "N/A",
+        "imdb_id": "tt1831233",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "141": {
+        "title": "Episode #8.141",
+        "released": "2011-02-21",
+        "rating": "N/A",
+        "imdb_id": "tt1831234",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "142": {
+        "title": "Episode #8.142",
+        "released": "2011-02-22",
+        "rating": "N/A",
+        "imdb_id": "tt1831235",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "143": {
+        "title": "Episode #8.143",
+        "released": "2011-02-23",
+        "rating": "N/A",
+        "imdb_id": "tt1831236",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "144": {
+        "title": "Episode #8.144",
+        "released": "2011-02-24",
+        "rating": "N/A",
+        "imdb_id": "tt1831237",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "145": {
+        "title": "Episode #8.145",
+        "released": "2011-02-25",
+        "rating": "N/A",
+        "imdb_id": "tt1831238",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "146": {
+        "title": "Episode #8.146",
+        "released": "2011-02-26",
+        "rating": "N/A",
+        "imdb_id": "tt1831239",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "148": {
+        "title": "Episode #8.148",
+        "released": "2011-03-01",
+        "rating": "N/A",
+        "imdb_id": "tt1831241",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "149": {
+        "title": "Episode #8.149",
+        "released": "2011-03-02",
+        "rating": "N/A",
+        "imdb_id": "tt1831242",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "150": {
+        "title": "Episode #8.150",
+        "released": "2011-03-03",
+        "rating": "N/A",
+        "imdb_id": "tt1831243",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "151": {
+        "title": "Episode #8.151",
+        "released": "2011-03-04",
+        "rating": "N/A",
+        "imdb_id": "tt1831244",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "152": {
+        "title": "Episode #8.152",
+        "released": "2011-03-07",
+        "rating": "N/A",
+        "imdb_id": "tt1860846",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

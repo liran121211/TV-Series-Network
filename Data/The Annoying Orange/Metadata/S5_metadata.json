@@ -1,0 +1,34 @@
+{
+    "2": {
+        "title": "Yo-Yo!",
+        "released": "2013-01-25",
+        "rating": "N/A",
+        "imdb_id": "tt8760126",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Snack Attack",
+        "released": "2013-05-24",
+        "rating": "N/A",
+        "imdb_id": "tt8732474",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Earth Day",
+        "released": "2013-04-19",
+        "rating": "N/A",
+        "imdb_id": "tt15004836",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "61": {
+        "title": "Angry Orange",
+        "released": "2013-11-01",
+        "rating": "N/A",
+        "imdb_id": "tt8750682",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

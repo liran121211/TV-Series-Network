@@ -1,0 +1,562 @@
+{
+    "1": {
+        "title": "Hajime no ippo",
+        "released": "2000-10-04",
+        "rating": "N/A",
+        "imdb_id": "tt1484155",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Fighting Spirit\\Subtitles\\S1\\Hajime.No.Ippo.The.Fighting.S01E01-38.JAPANESE.WEB-DL.NFS1E1.zip"
+    },
+    "2": {
+        "title": "Doryoku no seika",
+        "released": "2000-10-10",
+        "rating": "N/A",
+        "imdb_id": "tt1484154",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Ureshi namida",
+        "released": "2000-10-17",
+        "rating": "N/A",
+        "imdb_id": "tt1484157",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Shado bokushingu",
+        "released": "2000-10-24",
+        "rating": "N/A",
+        "imdb_id": "tt1484156",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Three months for the counter",
+        "released": "2000-10-31",
+        "rating": "N/A",
+        "imdb_id": "tt1790187",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Saisen no gongu",
+        "released": "2000-11-07",
+        "rating": "N/A",
+        "imdb_id": "tt1790189",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "1 cm no hakairyoku",
+        "released": "2000-11-14",
+        "rating": "N/A",
+        "imdb_id": "tt1790188",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Promise to Meet Again",
+        "released": "2000-11-21",
+        "rating": "N/A",
+        "imdb_id": "tt4905470",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "C Class License",
+        "released": "2000-11-28",
+        "rating": "N/A",
+        "imdb_id": "tt4905476",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Debut Match!",
+        "released": "2000-12-05",
+        "rating": "N/A",
+        "imdb_id": "tt4905478",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Obsession for Victory",
+        "released": "2000-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt4934814",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Becoming a Bully's Buddy",
+        "released": "2000-12-19",
+        "rating": "N/A",
+        "imdb_id": "tt4934820",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Eastern Japan Rookie Championship Tournament Begins",
+        "released": "2000-12-26",
+        "rating": "N/A",
+        "imdb_id": "tt4934926",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Powerful Arms! Hooks vs. Uppercut!",
+        "released": "2001-01-09",
+        "rating": "N/A",
+        "imdb_id": "tt4934928",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Test of Endurance",
+        "released": "2001-01-16",
+        "rating": "N/A",
+        "imdb_id": "tt4934930",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Anticipating a Fierce Fight",
+        "released": "2001-01-23",
+        "rating": "N/A",
+        "imdb_id": "tt4935352",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Ippo on the Beach",
+        "released": "2001-01-30",
+        "rating": "N/A",
+        "imdb_id": "tt4935356",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Clinch",
+        "released": "2001-02-06",
+        "rating": "N/A",
+        "imdb_id": "tt4935358",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Dream of a KO",
+        "released": "2001-02-13",
+        "rating": "N/A",
+        "imdb_id": "tt4935360",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Shotgun's Menace",
+        "released": "2001-02-20",
+        "rating": "N/A",
+        "imdb_id": "tt3839766",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Way to Capture a Prodigy",
+        "released": "2001-02-27",
+        "rating": "N/A",
+        "imdb_id": "tt4937334",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Forward! Forward!!",
+        "released": "2001-03-06",
+        "rating": "N/A",
+        "imdb_id": "tt4937336",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "The Other Semi-Final",
+        "released": "2001-03-13",
+        "rating": "N/A",
+        "imdb_id": "tt4937338",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "To the Promised Place...",
+        "released": "2001-03-20",
+        "rating": "N/A",
+        "imdb_id": "tt4937340",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Grudges, Sorrows & Dreams",
+        "released": "2001-03-27",
+        "rating": "N/A",
+        "imdb_id": "tt4937342",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "The Battle for Distance",
+        "released": "2001-04-03",
+        "rating": "N/A",
+        "imdb_id": "tt4937346",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Victory or Defeat",
+        "released": "2001-04-17",
+        "rating": "N/A",
+        "imdb_id": "tt4937350",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Rocky of Naniwa",
+        "released": "2001-04-24",
+        "rating": "7.9",
+        "imdb_id": "tt4937352",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "To Enemy Ground",
+        "released": "2001-05-01",
+        "rating": "N/A",
+        "imdb_id": "tt4937354",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Traces of Intense Battles",
+        "released": "2001-05-08",
+        "rating": "5.5",
+        "imdb_id": "tt4937356",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Throw Your Right!",
+        "released": "2001-05-15",
+        "rating": "N/A",
+        "imdb_id": "tt4937358",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Smash Force",
+        "released": "2001-05-22",
+        "rating": "N/A",
+        "imdb_id": "tt4937360",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "The Rookie King",
+        "released": "2001-05-29",
+        "rating": "N/A",
+        "imdb_id": "tt4937362",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "The Counting Journey",
+        "released": "2001-06-05",
+        "rating": "N/A",
+        "imdb_id": "tt4937382",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "The Champ and I",
+        "released": "2001-06-12",
+        "rating": "N/A",
+        "imdb_id": "tt4937380",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "A Thing to Strive For",
+        "released": "2001-06-19",
+        "rating": "N/A",
+        "imdb_id": "tt4937394",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Challenge in a Foreign Land",
+        "released": "2001-07-04",
+        "rating": "N/A",
+        "imdb_id": "tt4937400",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "A Counter to Surpass All Counters",
+        "released": "2001-07-11",
+        "rating": "N/A",
+        "imdb_id": "tt4937402",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Sharing a Dream",
+        "released": "2001-07-25",
+        "rating": "N/A",
+        "imdb_id": "tt4937418",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "The Speed Star",
+        "released": "2001-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt4937416",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Blind Spot in the Ring",
+        "released": "2001-08-08",
+        "rating": "N/A",
+        "imdb_id": "tt4937424",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "The White Fangs of the Wolf",
+        "released": "2001-08-15",
+        "rating": "N/A",
+        "imdb_id": "tt4937422",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Be the Gazelle",
+        "released": "2001-08-22",
+        "rating": "N/A",
+        "imdb_id": "tt4937426",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "The Fighting Spirit Within",
+        "released": "2001-08-29",
+        "rating": "N/A",
+        "imdb_id": "tt4937428",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "The Red Wolf",
+        "released": "2001-09-05",
+        "rating": "N/A",
+        "imdb_id": "tt4937430",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "The Courage to Believe",
+        "released": "2001-09-19",
+        "rating": "N/A",
+        "imdb_id": "tt4937432",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Something to Convey",
+        "released": "2001-09-26",
+        "rating": "N/A",
+        "imdb_id": "tt4937434",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "The Challenger (Recap)",
+        "released": "2001-10-10",
+        "rating": "N/A",
+        "imdb_id": "tt4937442",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "53": {
+        "title": "So That I Can Be Myself",
+        "released": "2001-10-17",
+        "rating": "N/A",
+        "imdb_id": "tt4937438",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "The Japan Featherweight Title Match",
+        "released": "2001-10-31",
+        "rating": "N/A",
+        "imdb_id": "tt4937448",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "56": {
+        "title": "The Power That Stands in the Way",
+        "released": "2001-11-07",
+        "rating": "N/A",
+        "imdb_id": "tt4937450",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "57": {
+        "title": "Conclusion",
+        "released": "2001-11-14",
+        "rating": "N/A",
+        "imdb_id": "tt4937452",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "58": {
+        "title": "Heartbroken",
+        "released": "2001-11-21",
+        "rating": "N/A",
+        "imdb_id": "tt4937456",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "59": {
+        "title": "A Determined Gaze",
+        "released": "2001-11-28",
+        "rating": "N/A",
+        "imdb_id": "tt4937454",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "60": {
+        "title": "Rival",
+        "released": "2001-12-05",
+        "rating": "N/A",
+        "imdb_id": "tt4937458",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "61": {
+        "title": "Comeback Anxiety",
+        "released": "2001-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt4937460",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "62": {
+        "title": "Revival",
+        "released": "2001-12-19",
+        "rating": "N/A",
+        "imdb_id": "tt4937464",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "63": {
+        "title": "Youth of Fire",
+        "released": "2001-12-26",
+        "rating": "N/A",
+        "imdb_id": "tt4937466",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "64": {
+        "title": "Hot Rod Era",
+        "released": "2002-01-09",
+        "rating": "N/A",
+        "imdb_id": "tt4937468",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "65": {
+        "title": "The Summer of the Kamogawa Corps",
+        "released": "2002-01-16",
+        "rating": "N/A",
+        "imdb_id": "tt4937474",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "66": {
+        "title": "Mr. Takamura's Tears",
+        "released": "2002-01-23",
+        "rating": "N/A",
+        "imdb_id": "tt4937472",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "68": {
+        "title": "The Coach's Crisis",
+        "released": "2002-06-10",
+        "rating": "N/A",
+        "imdb_id": "tt0795114",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "69": {
+        "title": "The Trap of the Southpaw",
+        "released": "2002-06-17",
+        "rating": "N/A",
+        "imdb_id": "tt3204042",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "70": {
+        "title": "The Young Punk",
+        "released": "2002-06-24",
+        "rating": "N/A",
+        "imdb_id": "tt3204046",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "71": {
+        "title": "Time for the Showdown",
+        "released": "2002-07-01",
+        "rating": "N/A",
+        "imdb_id": "tt3204052",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "72": {
+        "title": "Lollapalooza",
+        "released": "2002-07-08",
+        "rating": "N/A",
+        "imdb_id": "tt3204056",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "73": {
+        "title": "Surpass That Moment",
+        "released": "2002-07-15",
+        "rating": "9.1",
+        "imdb_id": "tt3204058",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "74": {
+        "title": "Mixup",
+        "released": "2002-07-22",
+        "rating": "N/A",
+        "imdb_id": "tt3204062",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "75": {
+        "title": "A Step Further",
+        "released": "2002-07-29",
+        "rating": "N/A",
+        "imdb_id": "tt3204064",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "76": {
+        "title": "Boxer's Fist",
+        "released": "2002-08-05",
+        "rating": "N/A",
+        "imdb_id": "tt3204070",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

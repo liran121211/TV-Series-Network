@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2006-07-18",
+        "rating": "7.9",
+        "imdb_id": "tt0466369",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Many Happy Returns",
+        "released": "2006-07-25",
+        "rating": "7.5",
+        "imdb_id": "tt0822122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Before I Forget",
+        "released": "2006-08-01",
+        "rating": "7.7",
+        "imdb_id": "tt0822121",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Alienated",
+        "released": "2006-08-08",
+        "rating": "7.4",
+        "imdb_id": "tt0841235",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Invincible",
+        "released": "2006-08-15",
+        "rating": "7.7",
+        "imdb_id": "tt0805757",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Dr. Nobel",
+        "released": "2006-08-22",
+        "rating": "7.8",
+        "imdb_id": "tt0822123",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Blink",
+        "released": "2006-08-29",
+        "rating": "7.4",
+        "imdb_id": "tt0849936",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Right as Raynes",
+        "released": "2006-09-05",
+        "rating": "7.6",
+        "imdb_id": "tt0853529",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Primal",
+        "released": "2006-09-12",
+        "rating": "7.5",
+        "imdb_id": "tt0853527",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Purple Haze",
+        "released": "2006-09-19",
+        "rating": "7.8",
+        "imdb_id": "tt0853528",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "H.O.U.S.E. Rules",
+        "released": "2006-09-26",
+        "rating": "8.1",
+        "imdb_id": "tt0853526",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Once in a Lifetime",
+        "released": "2006-10-03",
+        "rating": "8.4",
+        "imdb_id": "tt0859973",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "1": {
+        "title": "Bart's Birthday",
+        "released": "2024-09-29",
+        "rating": "8.0",
+        "imdb_id": "tt30281663",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S36\\The.Simpsons.1989.S36E14.The.Past.and.the.Furious.DSNP.WEB.h264-EDITHS36E14.zip"
+    },
+    "2": {
+        "title": "The Yellow Lotus",
+        "released": "2024-10-06",
+        "rating": "6.6",
+        "imdb_id": "tt33055228",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Desperately Seeking Lisa",
+        "released": "2024-10-20",
+        "rating": "6.0",
+        "imdb_id": "tt33055232",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Shoddy Heat",
+        "released": "2024-10-27",
+        "rating": "N/A",
+        "imdb_id": "tt33081748",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S36\\The.Simpsons.1989.S36E14.The.Past.and.the.Furious.DSNP.WEB.h264-EDITHS36E14.zip"
+    },
+    "5": {
+        "title": "Treehouse of Horror XXXV",
+        "released": "2024-11-03",
+        "rating": "N/A",
+        "imdb_id": "tt33183686",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S29\\The.Simpsons.S29E05.HDTV.XviD-RMXS29E5.zip"
+    },
+    "6": {
+        "title": "Women in Shorts",
+        "released": "2024-11-10",
+        "rating": "N/A",
+        "imdb_id": "tt34357657",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Treehouse of Horror Presents: Simpsons Wicked This Way Comes",
+        "released": "2024-11-24",
+        "rating": "N/A",
+        "imdb_id": "tt34511251",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S29\\The.Simpsons.S29E07.HDTV.XviD-RMXS29E7.zip"
+    },
+    "8": {
+        "title": "Convenience Airways",
+        "released": "2024-12-08",
+        "rating": "N/A",
+        "imdb_id": "tt34536196",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Homer and Her Sisters",
+        "released": "2024-12-15",
+        "rating": "N/A",
+        "imdb_id": "tt34791023",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "O C'mon All Ye Faithful",
+        "released": "2024-12-17",
+        "rating": "N/A",
+        "imdb_id": "tt34791030",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Man Who Flew Too Much",
+        "released": "2024-12-22",
+        "rating": "N/A",
+        "imdb_id": "tt34969243",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Bottle Episode",
+        "released": "2024-12-29",
+        "rating": "N/A",
+        "imdb_id": "tt35005209",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Past and the Furious",
+        "released": "2025-02-12",
+        "rating": "6.5",
+        "imdb_id": "tt35637260",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Flandshees of Innersimpson",
+        "released": "2025-03-30",
+        "rating": "6.7",
+        "imdb_id": "tt35223912",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S36\\The.Simpsons.1989.S36E14.The.Past.and.the.Furious.DSNP.WEB.h264-EDITHS36E14.zip"
+    },
+    "15": {
+        "title": "The Last Man Expanding",
+        "released": "2025-04-06",
+        "rating": "N/A",
+        "imdb_id": "tt36306423",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "P.S. I Hate You",
+        "released": "2025-04-13",
+        "rating": "7.3",
+        "imdb_id": "tt36347852",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Yellow Planet",
+        "released": "2025-04-22",
+        "rating": "6.4",
+        "imdb_id": "tt36398568",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Abe League of Their Moe",
+        "released": "2025-04-27",
+        "rating": "6.7",
+        "imdb_id": "tt36457321",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Stew Lies",
+        "released": "2025-05-04",
+        "rating": "N/A",
+        "imdb_id": "tt36615649",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Full Heart, Empty Pool",
+        "released": "2025-05-11",
+        "rating": "N/A",
+        "imdb_id": "tt36671452",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

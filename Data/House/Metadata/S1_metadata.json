@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2004-11-16",
+        "rating": "8.4",
+        "imdb_id": "tt0606035",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S1\\House.S01E01-22.DVDRip-FoV.engS1E1.zip"
+    },
+    "2": {
+        "title": "Paternity",
+        "released": "2004-11-23",
+        "rating": "8.1",
+        "imdb_id": "tt0606034",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S1\\House.M.D.S01E02.Paternity_480p_x264-BoBS1E2.zip"
+    },
+    "3": {
+        "title": "Occam's Razor",
+        "released": "2004-11-30",
+        "rating": "8.1",
+        "imdb_id": "tt0606033",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S1\\House.M.D.S01E03.Occams.Razor_480p_x264-BoBS1E3.zip"
+    },
+    "4": {
+        "title": "Maternity",
+        "released": "2004-12-07",
+        "rating": "8.3",
+        "imdb_id": "tt0606030",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S1\\House.M.D.S01E04.Maternity_480p_x264-BoBS1E4.zip"
+    },
+    "5": {
+        "title": "Damned If You Do",
+        "released": "2004-12-14",
+        "rating": "8.0",
+        "imdb_id": "tt0606018",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S1\\House.M.D.S01E05.Damned.If.You.Do_480p_x264-BoBS1E5.zip"
+    },
+    "6": {
+        "title": "The Socratic Method",
+        "released": "2004-12-21",
+        "rating": "N/A",
+        "imdb_id": "tt0606045",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S1\\House.M.D.S01E06.The.Socratic.Method_480p_x264-BoBS1E6.zip"
+    },
+    "7": {
+        "title": "Fidelity",
+        "released": "2004-12-28",
+        "rating": "N/A",
+        "imdb_id": "tt0606022",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S1\\House.M.D.S01E07.Fidelity_480p_x264-BoBS1E7.zip"
+    },
+    "8": {
+        "title": "Poison",
+        "released": "2005-01-25",
+        "rating": "8.0",
+        "imdb_id": "tt0606036",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S1\\House.M.D.S01E08.Poison_480p_x264-BoBS1E8.zip"
+    },
+    "9": {
+        "title": "DNR",
+        "released": "2005-02-01",
+        "rating": "8.7",
+        "imdb_id": "tt0606016",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S1\\House.M.D.S01E09.DNR_480p_x264-BoBS1E9.zip"
+    },
+    "10": {
+        "title": "Histories",
+        "released": "2005-02-08",
+        "rating": "8.4",
+        "imdb_id": "tt0606025",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Detox",
+        "released": "2005-02-15",
+        "rating": "8.6",
+        "imdb_id": "tt0606020",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Sports Medicine",
+        "released": "2005-02-22",
+        "rating": "7.8",
+        "imdb_id": "tt0606041",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Cursed",
+        "released": "2005-03-01",
+        "rating": "N/A",
+        "imdb_id": "tt0606015",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Control",
+        "released": "2005-03-15",
+        "rating": "8.6",
+        "imdb_id": "tt0606014",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Mob Rules",
+        "released": "2005-03-22",
+        "rating": "7.9",
+        "imdb_id": "tt0606031",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Heavy",
+        "released": "2005-03-29",
+        "rating": "8.2",
+        "imdb_id": "tt0606024",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Role Model",
+        "released": "2005-04-12",
+        "rating": "N/A",
+        "imdb_id": "tt0606037",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Babies & Bathwater",
+        "released": "2005-04-19",
+        "rating": "8.8",
+        "imdb_id": "tt0606013",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Kids",
+        "released": "2005-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt0606028",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Love Hurts",
+        "released": "2005-05-10",
+        "rating": "8.1",
+        "imdb_id": "tt0606029",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Three Stories",
+        "released": "2005-05-17",
+        "rating": "9.6",
+        "imdb_id": "tt0606046",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Honeymoon",
+        "released": "2005-05-24",
+        "rating": "8.6",
+        "imdb_id": "tt0606043",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

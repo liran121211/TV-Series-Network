@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Hello",
+        "released": "2019-05-08",
+        "rating": "N/A",
+        "imdb_id": "tt8046984",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "A Novel About Russian Gulags",
+        "released": "2019-05-15",
+        "rating": "N/A",
+        "imdb_id": "tt8047808",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Stuck in a Mammal Groove",
+        "released": "2019-05-22",
+        "rating": "7.6",
+        "imdb_id": "tt8047810",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Barrel Dad",
+        "released": "2019-05-29",
+        "rating": "N/A",
+        "imdb_id": "tt10385360",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Stay Humble",
+        "released": "2019-06-05",
+        "rating": "N/A",
+        "imdb_id": "tt10385362",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Rock 'n' Roll Umlaut",
+        "released": "2019-06-12",
+        "rating": "N/A",
+        "imdb_id": "tt10385364",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "This Is Trevor",
+        "released": "2019-06-19",
+        "rating": "N/A",
+        "imdb_id": "tt8047818",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Aquatic Sewing Machine",
+        "released": "2019-06-26",
+        "rating": "N/A",
+        "imdb_id": "tt8047822",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "I've Been a Bit Ill",
+        "released": "2019-07-03",
+        "rating": "N/A",
+        "imdb_id": "tt8047824",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

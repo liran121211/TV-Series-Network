@@ -1,0 +1,34 @@
+{
+    "2": {
+        "title": "La Cité des âmes en peine",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13216098",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Capitain Marleau\\Subtitles\\S2\\Capitaine.Marleau.S04E02.FRENCH.HDTV.x264S2E2.zip"
+    },
+    "6": {
+        "title": "Claire obscure",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt13811750",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "La Der des Der",
+        "released": "2023-03-17",
+        "rating": "N/A",
+        "imdb_id": "tt19073032",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Follie's",
+        "released": "2023-09-01",
+        "rating": "N/A",
+        "imdb_id": "tt21156888",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

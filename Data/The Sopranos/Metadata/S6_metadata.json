@@ -1,0 +1,170 @@
+{
+    "1": {
+        "title": "Members Only",
+        "released": "2006-03-12",
+        "rating": "9.2",
+        "imdb_id": "tt0705264",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S6\\The.Sopranos.S06E01.DVDRip.XviD-TOPAZS6E1.zip"
+    },
+    "2": {
+        "title": "Join the Club",
+        "released": "2006-03-19",
+        "rating": "8.7",
+        "imdb_id": "tt0705258",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S6\\The.Sopranos.S06E02.DVDRip.XviD-TOPAZS6E2.zip"
+    },
+    "3": {
+        "title": "Mayham",
+        "released": "2006-03-26",
+        "rating": "8.8",
+        "imdb_id": "tt0763238",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S6\\The.Sopranos.S06E03.DVDRip.XviD-TOPAZS6E3.zip"
+    },
+    "4": {
+        "title": "The Fleshy Part of the Thigh",
+        "released": "2006-04-02",
+        "rating": "8.4",
+        "imdb_id": "tt0705277",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S6\\The.Sopranos.S06E04.DVDRip.XviD-TOPAZS6E4.zip"
+    },
+    "5": {
+        "title": "Mr. & Mrs. John Sacrimoni Request",
+        "released": "2006-04-09",
+        "rating": "8.8",
+        "imdb_id": "tt0705267",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S6\\The.Sopranos.S06E05.DVDRip.XviD-TOPAZS6E5.zip"
+    },
+    "6": {
+        "title": "Live Free or Die",
+        "released": "2006-04-16",
+        "rating": "8.5",
+        "imdb_id": "tt0705259",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S6\\The.Sopranos.S06E06.DVDRip.XviD-TOPAZS6E6.zip"
+    },
+    "7": {
+        "title": "Luxury Lounge",
+        "released": "2006-04-23",
+        "rating": "8.2",
+        "imdb_id": "tt0705261",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S6\\The.Sopranos.S06E07.DVDRip.XviD-TOPAZS6E7.zip"
+    },
+    "8": {
+        "title": "Johnny Cakes",
+        "released": "2006-04-30",
+        "rating": "8.3",
+        "imdb_id": "tt0705257",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S6\\The.Sopranos.S06E08.DVDRip.XviD-TOPAZS6E8.zip"
+    },
+    "9": {
+        "title": "The Ride",
+        "released": "2006-05-07",
+        "rating": "8.3",
+        "imdb_id": "tt0705281",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Sopranos\\Subtitles\\S6\\The.Sopranos.S06E09.DVDRip.XviD-TOPAZS6E9.zip"
+    },
+    "10": {
+        "title": "Moe n' Joe",
+        "released": "2006-05-14",
+        "rating": "8.0",
+        "imdb_id": "tt0756404",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Cold Stones",
+        "released": "2006-05-21",
+        "rating": "8.7",
+        "imdb_id": "tt0790351",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Kaisha",
+        "released": "2006-06-04",
+        "rating": "8.2",
+        "imdb_id": "tt0793256",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Soprano Home Movies",
+        "released": "2007-04-08",
+        "rating": "9.1",
+        "imdb_id": "tt0979770",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Stage 5",
+        "released": "2007-04-15",
+        "rating": "8.8",
+        "imdb_id": "tt0979771",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Remember When",
+        "released": "2007-04-22",
+        "rating": "8.5",
+        "imdb_id": "tt0979769",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Chasing It",
+        "released": "2007-04-29",
+        "rating": "7.9",
+        "imdb_id": "tt0995834",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Walk Like a Man",
+        "released": "2007-05-06",
+        "rating": "8.9",
+        "imdb_id": "tt0995835",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Kennedy and Heidi",
+        "released": "2007-05-13",
+        "rating": "9.2",
+        "imdb_id": "tt0995836",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Second Coming",
+        "released": "2007-05-20",
+        "rating": "9.3",
+        "imdb_id": "tt0995837",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Blue Comet",
+        "released": "2007-06-03",
+        "rating": "N/A",
+        "imdb_id": "tt0995838",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Made in America",
+        "released": "2007-06-10",
+        "rating": "9.4",
+        "imdb_id": "tt0995839",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

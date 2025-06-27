@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "One Planet",
+        "released": "2019-04-05",
+        "rating": "9.0",
+        "imdb_id": "tt9253868",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Our Planet\\Subtitles\\S1\\Our.Planet.2019.S01E01.One.Planet.720p.NF.WEBRip.DDP5.1.x264-NTbS1E1.zip"
+    },
+    "2": {
+        "title": "Frozen Worlds",
+        "released": "2019-04-05",
+        "rating": "9.1",
+        "imdb_id": "tt9253870",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Jungles",
+        "released": "2019-04-05",
+        "rating": "9.1",
+        "imdb_id": "tt9253872",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Coastal Seas",
+        "released": "2019-04-05",
+        "rating": "8.8",
+        "imdb_id": "tt9253874",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "From Deserts to Grasslands",
+        "released": "2019-04-05",
+        "rating": "8.8",
+        "imdb_id": "tt9253876",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Our Planet\\Subtitles\\S1\\Our.Planet.2019.S01E05.1080p.WEBRip.x265-RARBG.enS1E5.zip"
+    },
+    "6": {
+        "title": "The High Seas",
+        "released": "2019-04-05",
+        "rating": "9.0",
+        "imdb_id": "tt9253878",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Fresh Water",
+        "released": "2019-04-05",
+        "rating": "8.8",
+        "imdb_id": "tt9253880",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Forests",
+        "released": "2019-04-05",
+        "rating": "9.1",
+        "imdb_id": "tt9253882",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

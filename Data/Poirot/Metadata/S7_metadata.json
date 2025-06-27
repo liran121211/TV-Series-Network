@@ -1,0 +1,18 @@
+{
+    "1": {
+        "title": "The Murder of Roger Ackroyd",
+        "released": "2000-01-02",
+        "rating": "N/A",
+        "imdb_id": "tt0236523",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S7\\S07E01.1080p.BluRay.x264-YELLOWBiRDS7E1.zip"
+    },
+    "2": {
+        "title": "Lord Edgware Dies",
+        "released": "2000-02-19",
+        "rating": "7.9",
+        "imdb_id": "tt0235681",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S7\\S07E02.1080p.BluRay.x264-YELLOWBiRDS7E2.zip"
+    }
+}

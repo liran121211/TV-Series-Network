@@ -1,0 +1,234 @@
+{
+    "1": {
+        "title": "King Nine Will Not Return",
+        "released": "1960-09-30",
+        "rating": "6.6",
+        "imdb_id": "tt0734584",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Man in the Bottle",
+        "released": "1960-10-07",
+        "rating": "7.4",
+        "imdb_id": "tt0734658",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Nervous Man in a Four Dollar Room",
+        "released": "1960-10-14",
+        "rating": "6.6",
+        "imdb_id": "tt0734596",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "A Thing About Machines",
+        "released": "1960-10-28",
+        "rating": "6.4",
+        "imdb_id": "tt0734551",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Howling Man",
+        "released": "1960-11-04",
+        "rating": "8.2",
+        "imdb_id": "tt0734645",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Eye of the Beholder",
+        "released": "1960-11-11",
+        "rating": "9.1",
+        "imdb_id": "tt0734568",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Nick of Time",
+        "released": "1960-11-18",
+        "rating": "8.3",
+        "imdb_id": "tt0734597",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Lateness of the Hour",
+        "released": "1960-12-02",
+        "rating": "7.1",
+        "imdb_id": "tt0734654",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Trouble with Templeton",
+        "released": "1960-12-09",
+        "rating": "7.1",
+        "imdb_id": "tt0734680",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "A Most Unusual Camera",
+        "released": "1960-12-16",
+        "rating": "7.5",
+        "imdb_id": "tt0734543",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Night of the Meek",
+        "released": "1960-12-23",
+        "rating": "N/A",
+        "imdb_id": "tt0734666",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Dust",
+        "released": "1961-01-06",
+        "rating": "6.9",
+        "imdb_id": "tt0734564",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Back There",
+        "released": "1961-01-13",
+        "rating": "7.5",
+        "imdb_id": "tt0734556",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Whole Truth",
+        "released": "1961-01-20",
+        "rating": "6.4",
+        "imdb_id": "tt0734681",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Invaders",
+        "released": "1961-01-27",
+        "rating": "8.1",
+        "imdb_id": "tt0734648",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "A Penny for Your Thoughts",
+        "released": "1961-02-03",
+        "rating": "8.0",
+        "imdb_id": "tt0734546",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Twenty Two",
+        "released": "1961-02-10",
+        "rating": "7.8",
+        "imdb_id": "tt0734685",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Odyssey of Flight 33",
+        "released": "1961-02-24",
+        "rating": "7.8",
+        "imdb_id": "tt0734668",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Mr. Dingle, the Strong",
+        "released": "1961-03-03",
+        "rating": "6.6",
+        "imdb_id": "tt0734593",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Static",
+        "released": "1961-03-10",
+        "rating": "6.7",
+        "imdb_id": "tt0734622",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Prime Mover",
+        "released": "1961-03-24",
+        "rating": "7.0",
+        "imdb_id": "tt0734672",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Long Distance Call",
+        "released": "1961-03-31",
+        "rating": "7.5",
+        "imdb_id": "tt0734587",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "A Hundred Yards Over the Rim",
+        "released": "1961-04-07",
+        "rating": "8.1",
+        "imdb_id": "tt0734541",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "The Rip Van Winkle Caper",
+        "released": "1961-04-21",
+        "rating": "7.6",
+        "imdb_id": "tt0734674",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "The Silence",
+        "released": "1961-04-28",
+        "rating": "8.4",
+        "imdb_id": "tt0734677",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Shadow Play",
+        "released": "1961-05-05",
+        "rating": "8.2",
+        "imdb_id": "tt0734618",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "The Mind and the Matter",
+        "released": "1961-05-12",
+        "rating": "6.4",
+        "imdb_id": "tt0734662",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Will the Real Martian Please Stand Up?",
+        "released": "1961-05-26",
+        "rating": "8.7",
+        "imdb_id": "tt0734693",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "The Obsolete Man",
+        "released": "1961-06-02",
+        "rating": "8.6",
+        "imdb_id": "tt0734667",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

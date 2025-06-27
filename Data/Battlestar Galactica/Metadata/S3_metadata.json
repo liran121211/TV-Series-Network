@@ -1,0 +1,162 @@
+{
+    "1": {
+        "title": "Occupation",
+        "released": "2006-10-06",
+        "rating": "8.2",
+        "imdb_id": "tt0793695",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S3\\Battlestar.Galactica.S03E01-4.DSR.engS3E1.zip"
+    },
+    "2": {
+        "title": "Precipice",
+        "released": "2006-10-06",
+        "rating": "8.2",
+        "imdb_id": "tt0801850",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S3\\Battlestar.Galactica.S03-E01andE02[Compact700MB]S3E2.zip"
+    },
+    "3": {
+        "title": "Exodus: Part 1",
+        "released": "2006-10-13",
+        "rating": "8.1",
+        "imdb_id": "tt0801849",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Exodus: Part 2",
+        "released": "2006-10-20",
+        "rating": "9.1",
+        "imdb_id": "tt0867671",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Collaborators",
+        "released": "2006-10-27",
+        "rating": "8.1",
+        "imdb_id": "tt0811218",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Torn",
+        "released": "2006-11-03",
+        "rating": "7.8",
+        "imdb_id": "tt0811219",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "A Measure of Salvation",
+        "released": "2006-11-10",
+        "rating": "7.6",
+        "imdb_id": "tt0870871",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Hero",
+        "released": "2006-11-17",
+        "rating": "N/A",
+        "imdb_id": "tt0887220",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Unfinished Business",
+        "released": "2006-12-01",
+        "rating": "7.4",
+        "imdb_id": "tt0903208",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S3\\Battlestar.Galactica.S03E09.Unfinished.Business.EXTENDED.DVDRip.XviD-SAiNTSS3E9.zip"
+    },
+    "10": {
+        "title": "The Passage",
+        "released": "2006-12-08",
+        "rating": "7.5",
+        "imdb_id": "tt0887222",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Eye of Jupiter",
+        "released": "2006-12-15",
+        "rating": "N/A",
+        "imdb_id": "tt0887221",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Rapture",
+        "released": "2007-01-21",
+        "rating": "8.2",
+        "imdb_id": "tt0909050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Taking a Break from All Your Worries",
+        "released": "2007-01-28",
+        "rating": "7.7",
+        "imdb_id": "tt0944310",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Woman King",
+        "released": "2007-02-11",
+        "rating": "7.0",
+        "imdb_id": "tt0947108",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "A Day in the Life",
+        "released": "2007-02-18",
+        "rating": "7.0",
+        "imdb_id": "tt0947103",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Dirty Hands",
+        "released": "2007-02-25",
+        "rating": "7.5",
+        "imdb_id": "tt0947106",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Maelstrom",
+        "released": "2007-03-04",
+        "rating": "7.9",
+        "imdb_id": "tt0944309",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Son Also Rises",
+        "released": "2007-03-11",
+        "rating": "7.6",
+        "imdb_id": "tt0947107",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Crossroads: Part 1",
+        "released": "2007-03-18",
+        "rating": "8.3",
+        "imdb_id": "tt0947104",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Crossroads: Part 2",
+        "released": "2007-03-25",
+        "rating": "9.2",
+        "imdb_id": "tt0947105",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

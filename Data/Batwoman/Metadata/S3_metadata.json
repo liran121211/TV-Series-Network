@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Mad as a Hatter",
+        "released": "2021-10-13",
+        "rating": "6.3",
+        "imdb_id": "tt13977162",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S3\\Batwoman.2019.S03E01.1080p.WEB.h264-GOSSIPS3E1.zip"
+    },
+    "2": {
+        "title": "Loose Tooth",
+        "released": "2021-10-20",
+        "rating": "6.5",
+        "imdb_id": "tt13977566",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S3\\Batwoman.S03E02.WEBRip.x264-ION10S3E2.zip"
+    },
+    "3": {
+        "title": "Freeze",
+        "released": "2021-10-27",
+        "rating": "6.5",
+        "imdb_id": "tt15497098",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S3\\Batwoman.S03E03.720p.WEB.hevc.x265.RMTeamS3E3.zip"
+    },
+    "4": {
+        "title": "Antifreeze",
+        "released": "2021-11-03",
+        "rating": "6.3",
+        "imdb_id": "tt15497100",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S3\\ㆍBatwomanㆍㅡWEBRipㆍS03xE04.Antifreeze.x264-ION10S3E4.zip"
+    },
+    "5": {
+        "title": "A Lesson from Professor Pyg",
+        "released": "2021-11-10",
+        "rating": "6.8",
+        "imdb_id": "tt15497104",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S3\\ㆍBatwomanㆍㅡWEBRipㆍS03xE05._A_Lesson_From_Professor_Pyg_.x264-ION10S3E5.zip"
+    },
+    "6": {
+        "title": "How Does Your Garden Grow?",
+        "released": "2021-11-17",
+        "rating": "6.8",
+        "imdb_id": "tt15847780",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S3\\ㆍBatwomanㆍㅡWEBRipㆍS03xE06._How_Does_Your_Garden_Grow__.x264-ION10S3E6.zip"
+    },
+    "7": {
+        "title": "Pick Your Poison",
+        "released": "2021-11-24",
+        "rating": "N/A",
+        "imdb_id": "tt15907342",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S3\\ㆍBatwomanㆍㅡWEBRipㆍS03xE07.REPACK._Pick_Your_Poison_.x264-PECULATES3E7.zip"
+    },
+    "8": {
+        "title": "Trust Destiny",
+        "released": "2022-01-12",
+        "rating": "6.6",
+        "imdb_id": "tt16247022",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S3\\ㆍBatwomanㆍㅡWEBRipㆍS03xE08._Trust_Destiny_.x264-ION10S3E8.zip"
+    },
+    "9": {
+        "title": "Meet Your Maker",
+        "released": "2022-01-19",
+        "rating": "6.6",
+        "imdb_id": "tt16751568",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S3\\ㆍBatwomanㆍㅡWEBRipㆍS03xE09._Meet_Your_Maker_.x264-ION10S3E9.zip"
+    },
+    "10": {
+        "title": "Toxic",
+        "released": "2022-01-26",
+        "rating": "6.9",
+        "imdb_id": "tt16971290",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Broken Toys",
+        "released": "2022-02-02",
+        "rating": "6.9",
+        "imdb_id": "tt17043516",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "We're All Mad Here",
+        "released": "2022-02-23",
+        "rating": "7.0",
+        "imdb_id": "tt17677658",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S3\\SUBDL::batwoman-third-season-2822623.zip"
+    },
+    "13": {
+        "title": "We Having Fun Yet?",
+        "released": "2022-03-02",
+        "rating": "6.9",
+        "imdb_id": "tt18246884",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S3\\ㆍBatwomanㆍㅡWEBRipㆍS03xE13._Are_We_Having_Fun_Yet_.x264-NOSiViDS3E13.zip"
+    }
+}

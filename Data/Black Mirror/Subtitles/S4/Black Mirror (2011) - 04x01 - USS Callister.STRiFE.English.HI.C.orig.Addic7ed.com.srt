@@ -1,0 +1,5330 @@
+﻿1
+00:00:18,320 --> 00:00:23,720
+- <font color="#D81D1D">Synced and corrected by VitoSilans</font> -
+-- <font color="#138CE9">www.Addic7ed.com</font> --
+
+2
+00:00:35,020 --> 00:00:36,618
+- [MAN] Captain Daly.
+- Report.
+
+3
+00:00:36,621 --> 00:00:40,226
+A non-federation vessel jumped straight
+out of white space right in front of us.
+
+4
+00:00:41,840 --> 00:00:43,878
+- Valdack.
+- That can't be.
+
+5
+00:00:43,880 --> 00:00:46,438
+My data scan indicates a heavily
+armored Gorgan Dreadnought,
+
+6
+00:00:46,440 --> 00:00:48,118
+vessel ID number 9864321.
+
+7
+00:00:48,120 --> 00:00:51,438
+Thank you, Dudani. Valdack must
+have hijacked it from the Fermi hub
+
+8
+00:00:51,440 --> 00:00:52,840
+and tracked our position.
+
+9
+00:00:54,476 --> 00:00:56,843
+- Tulaska, shield status?
+- Shields 100%.
+
+10
+00:00:56,846 --> 00:00:58,398
+- Helmsman Packer?
+- Captain.
+
+11
+00:00:58,400 --> 00:01:00,478
+- Prime rear thrusters.
+- Rear thrusters primed.
+
+12
+00:01:00,480 --> 00:01:03,158
+[WALTON] If that's Valdack,
+he'll rip us to shreds.
+
+13
+00:01:03,160 --> 00:01:05,351
+Captain, we have to surrender.
+There's no other way.
+
+14
+00:01:05,354 --> 00:01:07,838
+Let's not lose our
+heads, Lieutenant Walton.
+
+15
+00:01:07,840 --> 00:01:08,880
+[ZAPPING]
+
+16
+00:01:10,960 --> 00:01:12,478
+- Shields at 68%.
+- [ALARM WAILING]
+
+17
+00:01:12,480 --> 00:01:14,638
+Heavy damage reported,
+decks six through ten.
+
+18
+00:01:14,640 --> 00:01:17,156
+Fires in med center and major
+rupture to cargo bay Alpha.
+
+19
+00:01:17,159 --> 00:01:18,318
+We've got no choice!
+
+20
+00:01:18,320 --> 00:01:20,798
+Do you want me to open comms
+with Valdack's craft, Captain?
+
+21
+00:01:20,800 --> 00:01:22,320
+- Negative.
+- [ZAPPING]
+
+22
+00:01:23,080 --> 00:01:24,158
+[ALL GROAN]
+
+23
+00:01:24,160 --> 00:01:26,800
+- Shields at 54%.
+- There's no way out.
+
+24
+00:01:27,600 --> 00:01:29,840
+- Captain, please.
+- [DALY] Not now, Walton.
+
+25
+00:01:30,880 --> 00:01:34,867
+Helmsman Packer, take us into
+that asteroid gas cluster.
+
+26
+00:01:34,870 --> 00:01:37,518
+- Into the cluster?
+- That's suicide, sir.
+
+27
+00:01:37,520 --> 00:01:39,038
+It is our only chance.
+
+28
+00:01:39,040 --> 00:01:41,703
+[DALY] That gas cluster is charged
+with ionized pyron particles.
+
+29
+00:01:41,706 --> 00:01:45,838
+If our shields hold, we can use them
+to increase our photon intensity.
+
+30
+00:01:45,840 --> 00:01:47,398
+Packer, increase thrusters.
+
+31
+00:01:47,400 --> 00:01:49,638
+[ENGINE THRUSTS]
+
+32
+00:01:49,640 --> 00:01:51,554
+[TULASKA] Shields at 43%.
+
+33
+00:01:52,320 --> 00:01:54,118
+It'll tear the ship apart, Captain!
+
+34
+00:01:54,120 --> 00:01:56,798
+Walton, you are a Space Fleet
+officer. Act accordingly.
+
+35
+00:01:56,800 --> 00:01:59,038
+- Shields at 32%.
+- Valdack's not following.
+
+36
+00:01:59,040 --> 00:02:00,520
+Packer, turn us around.
+
+37
+00:02:01,240 --> 00:02:02,840
+[ENGINE RUMBLES]
+
+38
+00:02:04,145 --> 00:02:07,065
+- [DALY] Tulaska, charge photon bolts.
+- Bolts charged, Captain.
+
+39
+00:02:15,400 --> 00:02:17,400
+- Fire!
+- [ZAPPING]
+
+40
+00:02:19,367 --> 00:02:23,358
+His hull's breached, shields
+gone. He's defenseless.
+
+41
+00:02:23,360 --> 00:02:26,218
+- Lieutenant Lowry, open comms.
+- He's already hailing us, Captain.
+
+42
+00:02:26,221 --> 00:02:27,678
+- [DALY] On screen.
+- [BLEEPS]
+
+43
+00:02:27,680 --> 00:02:32,640
+Captain Daly, may you drown in
+the venom of 900 Tragorian snakes!
+
+44
+00:02:32,643 --> 00:02:34,878
+[DALY] You are defeated, Valdack.
+
+45
+00:02:34,880 --> 00:02:38,038
+Return the plasmorthian crystal
+and we'll cause you no more damage.
+
+46
+00:02:38,040 --> 00:02:40,678
+You must think me a fool, Captain!
+
+47
+00:02:40,680 --> 00:02:45,238
+I know the crystal's capabilities,
+and I will die before I give it up!
+
+48
+00:02:45,240 --> 00:02:48,000
+I gave you a chance,
+Valdack, showed you mercy.
+
+49
+00:02:48,500 --> 00:02:50,664
+- Reflect on that while you can.
+- [YELLS]
+
+50
+00:02:50,667 --> 00:02:52,227
+- Close comms.
+- [BLEEPS]
+
+51
+00:02:54,000 --> 00:02:56,318
+- Tulaska, destroy his ship.
+- Yes, Captain.
+
+52
+00:02:56,320 --> 00:02:57,600
+[BLEEPING]
+
+53
+00:02:58,520 --> 00:02:59,560
+[ZAPS]
+
+54
+00:03:01,920 --> 00:03:05,358
+- That was incredible, Captain.
+- You saved our lives.
+
+55
+00:03:05,360 --> 00:03:07,558
+[WALTON] I'm so sorry I
+lost it back there, Captain.
+
+56
+00:03:07,560 --> 00:03:09,609
+Not for the first time, Walton.
+
+57
+00:03:09,612 --> 00:03:11,901
+And I should know by
+now never to doubt you.
+
+58
+00:03:11,904 --> 00:03:14,304
+- [ALARM BEEPS]
+- [WALTON] Please forgive me.
+
+59
+00:03:14,307 --> 00:03:15,906
+At ease, Walton.
+
+60
+00:03:15,909 --> 00:03:18,476
+Captain, sensors indicate
+an escape pod ejected
+
+61
+00:03:18,479 --> 00:03:20,359
+from Valdack's ship before detonation.
+
+62
+00:03:21,400 --> 00:03:22,798
+He's escaping with the crystal.
+
+63
+00:03:22,800 --> 00:03:24,840
+You want me to plot a
+pursuit course, Captain?
+
+64
+00:03:26,012 --> 00:03:27,212
+No.
+
+65
+00:03:28,229 --> 00:03:31,593
+We'll let him go... for now.
+
+66
+00:03:33,520 --> 00:03:37,478
+- Great decision-making, Captain.
+- Three cheers for Captain Daly.
+
+67
+00:03:37,480 --> 00:03:39,484
+- Hip hip.
+- [ALL] Hooray!
+
+68
+00:03:39,560 --> 00:03:41,398
+- Hip hip.
+- [ALL] Hooray!
+
+69
+00:03:41,480 --> 00:03:43,638
+- Hip hip.
+- [ALL] Hooray!
+
+70
+00:03:43,640 --> 00:03:47,918
+♪ For he's a jolly good fellow
+For he's a jolly good fellow ♪
+
+71
+00:03:47,920 --> 00:03:53,890
+♪ For he's a jolly good fellow ♪
+
+72
+00:03:53,893 --> 00:03:55,438
+♪ And so say all of us ♪
+
+73
+00:03:55,440 --> 00:03:58,187
+God bless you, Captain. God bless you.
+
+74
+00:04:05,210 --> 00:04:06,280
+[ELEVATOR BEEPS]
+
+75
+00:04:07,732 --> 00:04:09,330
+[AUTOMATED VOICE] Thirteenth floor.
+
+76
+00:04:09,333 --> 00:04:11,891
+- Welcome to Callister.
+- Oh.
+
+77
+00:04:11,894 --> 00:04:13,094
+Excuse me.
+
+78
+00:04:13,900 --> 00:04:15,100
+Excuse me.
+
+79
+00:04:20,240 --> 00:04:21,343
+Hey.
+
+80
+00:04:29,433 --> 00:04:30,473
+[NEGATIVE BEEP]
+
+81
+00:04:31,721 --> 00:04:33,046
+[NEGATIVE BEEP]
+
+82
+00:04:34,507 --> 00:04:37,670
+Uh... Elena, my pass doesn't work.
+
+83
+00:04:37,680 --> 00:04:39,758
+You must renew on first of each month.
+
+84
+00:04:39,760 --> 00:04:44,560
+Yeah, I know that, but the
+first was on the weekend, so...
+
+85
+00:04:46,171 --> 00:04:47,400
+OK.
+
+86
+00:04:50,240 --> 00:04:51,718
+- [BEEPS]
+- [DOORS OPEN]
+
+87
+00:04:51,720 --> 00:04:52,720
+Thank you.
+
+88
+00:04:53,382 --> 00:04:55,078
+You're welcome.
+
+89
+00:04:55,080 --> 00:04:56,518
+[AUTOMATED VOICE] Prepare to enter
+
+90
+00:04:56,520 --> 00:04:59,367
+the most immersive gaming
+experience in years,
+
+91
+00:04:59,370 --> 00:05:02,766
+Infinity, from Callister Inc.
+
+92
+00:05:02,769 --> 00:05:05,087
+- Morning, Mr. Daly.
+- Helmsman Packer.
+
+93
+00:05:05,090 --> 00:05:06,090
+Huh?
+
+94
+00:05:07,320 --> 00:05:10,278
+Uh, I mean, Mr. Packer. Nate.
+
+95
+00:05:10,280 --> 00:05:11,318
+[LAUGHS]
+
+96
+00:05:11,320 --> 00:05:12,400
+OK.
+
+97
+00:05:13,284 --> 00:05:15,282
+[DALY] Are you making coffees?
+
+98
+00:05:15,285 --> 00:05:16,285
+Yeah.
+
+99
+00:05:18,229 --> 00:05:20,629
+Do you think maybe you
+could make me one too?
+
+100
+00:05:23,497 --> 00:05:26,377
+[LAUGHS] Sure, sure.
+Uh, what do you want?
+
+101
+00:05:27,131 --> 00:05:29,649
+Just vanilla latte. Skim milk.
+
+102
+00:05:29,652 --> 00:05:31,132
+Yeah, good call. 'Cause...
+
+103
+00:05:32,280 --> 00:05:33,798
+[PACKER CLEARS THROAT]
+
+104
+00:05:33,800 --> 00:05:35,918
+[CHATTERING]
+
+105
+00:05:35,920 --> 00:05:38,038
+[WOMAN] those are
+very, very big numbers.
+
+106
+00:05:38,040 --> 00:05:41,998
+We might just have to hold you to
+that. Well, no, yes, of course. [LAUGHS]
+
+107
+00:05:42,000 --> 00:05:43,438
+Sure. Yes.
+
+108
+00:05:43,440 --> 00:05:44,878
+[CRASHING]
+
+109
+00:05:44,880 --> 00:05:46,440
+Oh, are you OK, man?
+
+110
+00:05:46,443 --> 00:05:47,764
+[SIGHS]
+
+111
+00:05:47,767 --> 00:05:49,807
+I guess you didn't see my gym bag.
+
+112
+00:05:51,240 --> 00:05:53,878
+Here. Come on. [STRAINS]
+
+113
+00:05:53,880 --> 00:05:55,238
+- I'm sorry, bud. [PATS]
+- OK.
+
+114
+00:05:55,240 --> 00:05:57,240
+You left it... [GROANS]
+
+115
+00:06:00,360 --> 00:06:02,558
+[MAN] You're gonna do it
+for me and make it good.
+
+116
+00:06:02,560 --> 00:06:04,400
+You know you are a god to me at least.
+
+117
+00:06:15,984 --> 00:06:17,520
+[LAUGHING]
+
+118
+00:06:23,760 --> 00:06:25,497
+[KNOCK ON DOOR]
+
+119
+00:06:25,500 --> 00:06:29,880
+Oh. The ladies' bathroom is that
+way. The sign's kind of confusing.
+
+120
+00:06:31,448 --> 00:06:34,168
+You're Robert Daly, right?
+
+121
+00:06:36,012 --> 00:06:38,012
+- Right.
+- Yeah, hi.
+
+122
+00:06:39,299 --> 00:06:41,177
+I'm Nanette, Nanette Cole.
+
+123
+00:06:41,180 --> 00:06:42,180
+Um...
+
+124
+00:06:42,948 --> 00:06:45,266
+I started here today,
+coding on the update,
+
+125
+00:06:45,269 --> 00:06:49,507
+and I just wanted to,
+uh, pass on my admiration
+
+126
+00:06:49,537 --> 00:06:53,295
+to the person who
+actually designed Infinity.
+
+127
+00:06:53,297 --> 00:06:56,455
+The procedural algorithm is amazing.
+
+128
+00:06:56,457 --> 00:07:00,312
+It's just some beautiful code.
+
+129
+00:07:00,315 --> 00:07:02,055
+Thank you.
+
+130
+00:07:02,057 --> 00:07:05,777
+That's actually the reason
+that I wanted to work here.
+
+131
+00:07:08,537 --> 00:07:11,695
+- You must be busy. I'm so sorry.
+- No, no, it's fine.
+
+132
+00:07:11,697 --> 00:07:13,135
+- Sorry. [LAUGHS]
+- No.
+
+133
+00:07:13,137 --> 00:07:16,175
+- Well, just fangirling. Sorry. Um...
+- [BOTH LAUGH]
+
+134
+00:07:16,177 --> 00:07:17,535
+[NANETTE GASPS]
+
+135
+00:07:17,537 --> 00:07:20,017
+Ooh... vintage.
+
+136
+00:07:21,177 --> 00:07:23,775
+- Yeah, it's Space Fleet.
+- Wow.
+
+137
+00:07:23,777 --> 00:07:27,551
+[DALY] It's a TV show. Before your time.
+
+138
+00:07:27,554 --> 00:07:29,828
+Before my time, actually.
+
+139
+00:07:30,697 --> 00:07:33,577
+But it was... visionary.
+
+140
+00:07:34,937 --> 00:07:36,415
+Is this on, like, tape?
+
+141
+00:07:36,417 --> 00:07:39,781
+Yeah, I've got the
+VHS, the DVD, Blu-ray.
+
+142
+00:07:39,784 --> 00:07:43,351
+The whole thing. Seasons one to six.
+
+143
+00:07:43,354 --> 00:07:45,417
+Netflix has it these days, but...
+
+144
+00:07:46,097 --> 00:07:48,775
+Aboard the spaceship USS Callister.
+
+145
+00:07:48,777 --> 00:07:50,375
+- OK, yeah.
+- Mm-hmm.
+
+146
+00:07:50,377 --> 00:07:53,095
+So... OK, so Callister
+is like the, uh...
+
+147
+00:07:53,097 --> 00:07:56,359
+Yeah, when we set up the company, um...
+
+148
+00:07:57,217 --> 00:08:02,855
+I suggested we call it Callister
+as kind of a little tribute.
+
+149
+00:08:02,857 --> 00:08:07,577
+Walton didn't really get the
+reference, but he let me have that one.
+
+150
+00:08:12,417 --> 00:08:14,815
+Mini-skirted damsels.
+
+151
+00:08:14,817 --> 00:08:16,055
+[LAUGHS]
+
+152
+00:08:16,057 --> 00:08:17,815
+A little cold for that in space.
+
+153
+00:08:17,817 --> 00:08:22,295
+That is just what a Bargradian
+sand warrior would say.
+
+154
+00:08:22,297 --> 00:08:23,497
+[NANETTE CHUCKLES]
+
+155
+00:08:24,137 --> 00:08:27,570
+[WALTON] Bob, Christmas is
+closing in like a goddamn meteor.
+
+156
+00:08:27,573 --> 00:08:30,411
+We've got customers all over our
+balls waiting for the Infinity update.
+
+157
+00:08:30,414 --> 00:08:32,975
+Tell me it's gonna be up and
+running before the weekend.
+
+158
+00:08:32,977 --> 00:08:36,855
+- Oh, I'll ask Kabir...
+- You're CTO. Don't ask anybody anything.
+
+159
+00:08:36,857 --> 00:08:39,655
+You should be telling people things
+like I'm telling you right now.
+
+160
+00:08:39,657 --> 00:08:41,481
+- I'll talk to him.
+- Good.
+
+161
+00:08:41,484 --> 00:08:42,777
+- I'm sorry.
+- OK.
+
+162
+00:08:43,817 --> 00:08:45,095
+- Hello.
+- [NANETTE] Hello.
+
+163
+00:08:45,097 --> 00:08:47,455
+Sorry, I couldn't find
+a good moment to...
+
+164
+00:08:47,457 --> 00:08:50,415
+Oh, you must be new. Uh... I'm
+James Walton. I run the company.
+
+165
+00:08:50,417 --> 00:08:53,575
+- [NANETTE] I...
+- Well, we run the company, kind of.
+
+166
+00:08:53,577 --> 00:08:56,417
+Bob here is the hardware,
+and I am the shiny front end.
+
+167
+00:08:57,617 --> 00:08:59,695
+- I'm Nanette Cole.
+- [WALTON] Which department?
+
+168
+00:08:59,697 --> 00:09:02,375
+- Engine architecture.
+- And it's your first day?
+
+169
+00:09:02,377 --> 00:09:03,455
+Uh...
+
+170
+00:09:03,457 --> 00:09:05,857
+- [STUTTERS] Yeah.
+- Have you had the tour?
+
+171
+00:09:06,537 --> 00:09:08,335
+- [KEYBOARD CLICKING]
+- No, I...
+
+172
+00:09:08,337 --> 00:09:10,337
+Please, allow me.
+
+173
+00:09:11,601 --> 00:09:12,737
+[NANETTE] OK.
+
+174
+00:09:16,177 --> 00:09:19,054
+It was so nice to meet you. [LAUGHS]
+
+175
+00:09:20,777 --> 00:09:22,255
+[WALTON] Just a little bit.
+
+176
+00:09:22,257 --> 00:09:25,375
+It's a different
+environment I set up here.
+
+177
+00:09:25,377 --> 00:09:28,815
+People call it a carefree
+environment. I call it "care-full."
+
+178
+00:09:28,817 --> 00:09:30,735
+- [NANETTE] Interesting.
+- Not scary.
+
+179
+00:09:30,737 --> 00:09:32,457
+[CHATTERING CONTINUING]
+
+180
+00:09:36,617 --> 00:09:37,817
+Dudani?
+
+181
+00:09:39,897 --> 00:09:41,015
+Kabir?
+
+182
+00:09:41,017 --> 00:09:43,215
+Mm. Mr. Daly.
+
+183
+00:09:43,217 --> 00:09:46,815
+Do you have the latest
+ETA on the update patch?
+
+184
+00:09:46,817 --> 00:09:49,095
+It's just there's still
+some runtime errors.
+
+185
+00:09:49,097 --> 00:09:51,656
+Well, the thing is, we could have
+it ready by end of play today,
+
+186
+00:09:51,659 --> 00:09:55,135
+but if we had time, we could
+alter the trading mechanics,
+
+187
+00:09:55,137 --> 00:09:58,535
+tweak the critical hit system, but
+of course, that'd add another week,
+
+188
+00:09:58,537 --> 00:10:00,097
+maybe ten days or so.
+
+189
+00:10:03,177 --> 00:10:04,177
+Mr. Daly?
+
+190
+00:10:05,577 --> 00:10:10,817
+- Yeah. Yeah, do all of that, thank you.
+- I'll... OK, we're on it.
+
+191
+00:10:12,977 --> 00:10:15,137
+[CHATTERING, LAUGHING]
+
+192
+00:10:24,977 --> 00:10:26,135
+[NUMBER PAD BLEEPS]
+
+193
+00:10:26,137 --> 00:10:27,537
+[DOOR WHIRS]
+
+194
+00:11:15,857 --> 00:11:18,577
+- [DEVICE BLEEPS]
+- [WHIRRING]
+
+195
+00:11:30,657 --> 00:11:32,177
+[DEVICE BOOTS UP]
+
+196
+00:11:34,697 --> 00:11:36,215
+[WALTON] Welcome back, Captain.
+
+197
+00:11:36,217 --> 00:11:38,335
+Have you located Valdack's position?
+
+198
+00:11:38,337 --> 00:11:40,855
+Not yet, but our sensors are
+scanning every star system
+
+199
+00:11:40,857 --> 00:11:43,335
+between here and Valatros.
+
+200
+00:11:43,337 --> 00:11:45,337
+So your answer is no?
+
+201
+00:11:48,097 --> 00:11:49,097
+Uh...
+
+202
+00:11:50,297 --> 00:11:51,655
+I'm afraid so, sir.
+
+203
+00:11:51,657 --> 00:11:54,015
+[WALTON GASPS, GROANS]
+
+204
+00:11:54,017 --> 00:11:56,171
+[GRUNTING]
+
+205
+00:11:57,617 --> 00:12:01,617
+You... are pathetic,
+Walton. What are you?
+
+206
+00:12:04,297 --> 00:12:06,217
+- [WALTON GASPING]
+- What's that?
+
+207
+00:12:08,257 --> 00:12:09,817
+[INHALES] Pathetic.
+
+208
+00:12:10,609 --> 00:12:11,737
+[GASPS]
+
+209
+00:12:14,337 --> 00:12:16,977
+[GROANS, PANTING]
+
+210
+00:12:17,817 --> 00:12:21,415
+[DALY] So Valdack's out there somewhere
+
+211
+00:12:21,417 --> 00:12:24,497
+and you village idiots
+are asleep at the wheel.
+
+212
+00:12:27,097 --> 00:12:31,215
+You're not just disgraceful,
+you're disgusting, all of you.
+
+213
+00:12:31,217 --> 00:12:35,097
+So can you do one thing?
+
+214
+00:12:36,497 --> 00:12:38,297
+Can you find Valdack?
+
+215
+00:12:41,553 --> 00:12:45,894
+I'm not asking. I'm
+telling you! Understand?
+
+216
+00:12:45,897 --> 00:12:47,895
+- Hmm?
+- Yes.
+
+217
+00:12:47,897 --> 00:12:49,575
+- [DALY] Yes?
+- Yes, Captain. Yeah.
+
+218
+00:12:49,577 --> 00:12:51,697
+- [DALY] Yes.
+- Aye, Captain.
+
+219
+00:12:52,377 --> 00:12:53,457
+[DALY] Huh?
+
+220
+00:12:57,177 --> 00:12:59,937
+Well, all right.
+
+221
+00:13:00,577 --> 00:13:02,637
+Tulaska, check security protocols.
+
+222
+00:13:02,640 --> 00:13:04,415
+If they've expired, you're in trouble.
+
+223
+00:13:04,417 --> 00:13:06,215
+- Yes, Captain.
+- [BLEEPING]
+
+224
+00:13:06,217 --> 00:13:09,735
+Dudani, recheck those probe results.
+
+225
+00:13:09,737 --> 00:13:12,135
+- No room for errors.
+- Of course, Captain.
+
+226
+00:13:12,137 --> 00:13:13,897
+- Helmsman Packer?
+- Captain.
+
+227
+00:13:15,057 --> 00:13:16,537
+Vanilla latte.
+
+228
+00:13:17,457 --> 00:13:19,897
+- Skim milk.
+- At once.
+
+229
+00:13:23,137 --> 00:13:24,337
+[DALY] Walton.
+
+230
+00:13:38,457 --> 00:13:39,615
+Exit game.
+
+231
+00:13:39,617 --> 00:13:40,617
+[DEVICE WHIRS]
+
+232
+00:13:44,617 --> 00:13:45,617
+[DEVICE BLEEPS]
+
+233
+00:13:52,617 --> 00:13:54,657
+[KEYBOARD CLICKING]
+
+234
+00:13:59,337 --> 00:14:02,855
+Hi, Nanette. You feel like you
+have everything you need here?
+
+235
+00:14:02,857 --> 00:14:03,775
+Mm-hmm.
+
+236
+00:14:03,777 --> 00:14:06,415
+- All right. That's a nice sweater.
+- Oh. Thank you.
+
+237
+00:14:06,417 --> 00:14:08,097
+- [WALTON] Cashmere?
+- [CHATTERING]
+
+238
+00:14:09,777 --> 00:14:10,777
+[KNOCK ON DOOR]
+
+239
+00:14:12,217 --> 00:14:15,017
+Mr. Daly, got that new
+ETA on the update patch.
+
+240
+00:14:16,217 --> 00:14:17,775
+- New ETA?
+- Yeah, it's all good.
+
+241
+00:14:17,777 --> 00:14:20,015
+But now we're looking at
+December 24th for rollout.
+
+242
+00:14:20,017 --> 00:14:21,935
+We don't patch until Christmas Eve?
+
+243
+00:14:21,937 --> 00:14:24,417
+Well, yeah, I mean, with
+the alterations you approved.
+
+244
+00:14:29,817 --> 00:14:32,735
+OK, OK. Thank you.
+
+245
+00:14:32,737 --> 00:14:33,737
+[DUDANI] OK.
+
+246
+00:14:34,377 --> 00:14:35,377
+[DOOR CLOSES]
+
+247
+00:14:36,897 --> 00:14:37,960
+[KNOCK ON DOOR]
+
+248
+00:14:39,217 --> 00:14:41,070
+- Hi, Robert.
+- Hi.
+
+249
+00:14:41,073 --> 00:14:44,337
+Um, I was just gonna fix
+a coffee. Do you want one?
+
+250
+00:14:45,937 --> 00:14:47,718
+- Sure.
+- OK.
+
+251
+00:14:48,617 --> 00:14:52,137
+Um... vanilla latte with skim milk.
+
+252
+00:14:53,497 --> 00:14:55,497
+- [NANETTE] Okey-dokes.
+- OK.
+
+253
+00:14:58,737 --> 00:14:59,897
+Absolutely.
+
+254
+00:15:00,395 --> 00:15:02,313
+[LAUGHS]
+
+255
+00:15:02,316 --> 00:15:03,575
+Mm-hmm.
+
+256
+00:15:03,577 --> 00:15:05,895
+- Well, yes, they are great numbers.
+- [MACHINE WHIRS]
+
+257
+00:15:05,897 --> 00:15:07,537
+[LAUGHS] OK. Mm-hmm.
+
+258
+00:15:08,217 --> 00:15:10,015
+- Ta-ta.
+- [DEVICE BEEPS]
+
+259
+00:15:10,017 --> 00:15:12,177
+Total fucking shitwit.
+
+260
+00:15:12,977 --> 00:15:17,095
+- Do you want coffee?
+- Um, Brushed Suede. Thank you.
+
+261
+00:15:17,097 --> 00:15:19,417
+So how are you settling
+in? Are you settling in?
+
+262
+00:15:20,377 --> 00:15:24,975
+Uh, yeah, yeah. Everyone
+here is really friendly.
+
+263
+00:15:24,977 --> 00:15:29,817
+And um... it is not like
+my last job, thank God.
+
+264
+00:15:30,412 --> 00:15:33,130
+- Yeah?
+- It was a toxic workplace, you know.
+
+265
+00:15:33,133 --> 00:15:37,531
+- My boss was a major-league bully and...
+- [MACHINE BEEPS]
+
+266
+00:15:37,534 --> 00:15:40,415
+- It's not like here, like with Mr...
+- Walton.
+
+267
+00:15:40,417 --> 00:15:42,895
+- Yeah.
+- Oh, yeah. He's a really good guy.
+
+268
+00:15:42,897 --> 00:15:44,234
+He's a bit of a player.
+
+269
+00:15:44,237 --> 00:15:45,605
+Chuck a sandwich across the room,
+
+270
+00:15:45,608 --> 00:15:47,255
+he'll fuck it before it hits the ground,
+
+271
+00:15:47,257 --> 00:15:49,895
+- but he's basically an all right bloke.
+- [CHUCKLES]
+
+272
+00:15:49,897 --> 00:15:54,895
+OK. [LAUGHS] Well, there's uh...
+two bosses here anyway, so I guess...
+
+273
+00:15:54,897 --> 00:15:57,577
+- Two how?
+- Robert Daly.
+
+274
+00:15:58,217 --> 00:15:59,575
+Oh!
+
+275
+00:15:59,577 --> 00:16:02,535
+I mean, well, yeah,
+technically. [SCOFFS]
+
+276
+00:16:02,537 --> 00:16:05,415
+Mr. Daly is actually the
+whole reason that I'm here.
+
+277
+00:16:05,417 --> 00:16:07,375
+- Really? Interesting.
+- [NANETTE] I mean...
+
+278
+00:16:07,377 --> 00:16:11,055
+Who wouldn't wanna work under an
+incredible mind like that, you know?
+
+279
+00:16:11,057 --> 00:16:14,430
+His coding is... [LAUGHS] It's sublime.
+
+280
+00:16:14,433 --> 00:16:16,737
+Do you have a thing for him?
+
+281
+00:16:17,417 --> 00:16:21,055
+Daly? No, no. No. It's not like that.
+
+282
+00:16:21,057 --> 00:16:23,695
+[STAMMERS] It's purely...
+It's professional.
+
+283
+00:16:23,697 --> 00:16:25,255
+I like his code.
+
+284
+00:16:25,257 --> 00:16:27,615
+Ah. Fucking hell, I
+was gonna say, you know,
+
+285
+00:16:27,617 --> 00:16:30,297
+don't be too nice to him
+'cause he gets a bit starey.
+
+286
+00:16:31,257 --> 00:16:32,508
+Mm.
+
+287
+00:16:32,977 --> 00:16:36,975
+Wide berth, that's
+my advice. Wide berth.
+
+288
+00:16:36,977 --> 00:16:38,055
+- OK.
+- Yeah.
+
+289
+00:16:38,057 --> 00:16:39,377
+Thank you.
+
+290
+00:16:45,337 --> 00:16:46,817
+- There you go.
+- Thank you.
+
+291
+00:16:55,897 --> 00:16:57,257
+[EXHALES]
+
+292
+00:17:15,176 --> 00:17:17,655
+- [LOWRY] Bye.
+- No bye. I'm coming.
+
+293
+00:17:17,657 --> 00:17:19,295
+[LOWRY] No. Suck a dick, Karl.
+
+294
+00:17:19,297 --> 00:17:20,697
+[WOMAN] Later, guys.
+
+295
+00:18:08,281 --> 00:18:09,457
+[MACHINE BEEPS]
+
+296
+00:18:27,417 --> 00:18:30,417
+[WHIRRING]
+
+297
+00:18:34,177 --> 00:18:35,977
+[BEEPING]
+
+298
+00:18:44,417 --> 00:18:46,457
+[AUTOMATED VOICE] Welcome to Callister.
+
+299
+00:18:47,057 --> 00:18:48,457
+[CARD BEEPS]
+
+300
+00:18:49,097 --> 00:18:50,535
+[DALY] Thank you.
+
+301
+00:18:50,537 --> 00:18:51,577
+You're welcome.
+
+302
+00:18:56,737 --> 00:18:58,337
+[CHATTERING]
+
+303
+00:19:00,097 --> 00:19:01,377
+[WALTON] Goddamn it, Robert!
+
+304
+00:19:02,737 --> 00:19:04,377
+- Christmas Eve. Really?
+- Uh...
+
+305
+00:19:05,217 --> 00:19:06,217
+Not OK.
+
+306
+00:19:07,137 --> 00:19:08,337
+[DOOR SLAMS]
+
+307
+00:19:15,737 --> 00:19:17,070
+[KEYBOARD CLICKING]
+
+308
+00:19:26,737 --> 00:19:27,805
+[TYPING]
+
+309
+00:19:33,708 --> 00:19:36,468
+[ELECTRONIC WHIRRING]
+
+310
+00:19:37,657 --> 00:19:38,657
+[GASPS]
+
+311
+00:19:39,937 --> 00:19:41,977
+[WHIRRING]
+
+312
+00:19:44,344 --> 00:19:45,497
+[GASPS]
+
+313
+00:19:55,017 --> 00:19:56,017
+Oh.
+
+314
+00:20:05,657 --> 00:20:07,297
+[BREATHING HEAVILY]
+
+315
+00:20:23,257 --> 00:20:24,977
+Hello? [ECHOES]
+
+316
+00:20:43,234 --> 00:20:44,457
+[GASPS]
+
+317
+00:21:10,897 --> 00:21:12,578
+- [DISTANT CHATTER]
+- [GASPS]
+
+318
+00:21:27,257 --> 00:21:29,297
+[GASPING]
+
+319
+00:21:30,577 --> 00:21:34,817
+Oh, boy. It looks like there's
+a new girl in the office.
+
+320
+00:21:36,845 --> 00:21:38,365
+What's your name, hon?
+
+321
+00:21:39,217 --> 00:21:40,935
+[WALTON] Come in. Let
+me fix you a drink.
+
+322
+00:21:40,937 --> 00:21:45,095
+We have everything from
+Bengarian phlegm shots to uh...
+
+323
+00:21:45,097 --> 00:21:48,175
+ooh, distilled root blood
+from the Cangor quadrant.
+
+324
+00:21:48,177 --> 00:21:52,097
+What's your poison? Some of this
+actually is poison, so don't be shy.
+
+325
+00:21:53,937 --> 00:21:55,097
+Am I dreaming?
+
+326
+00:21:56,457 --> 00:21:58,775
+Yeah, no, no, 'fraid not.
+
+327
+00:21:58,777 --> 00:22:01,137
+- I remember dreaming.
+- [PACKER] Me too.
+
+328
+00:22:02,057 --> 00:22:03,815
+[NANETTE] But where am I?
+
+329
+00:22:03,817 --> 00:22:06,375
+This is the USS Callister,
+Space Fleet's finest,
+
+330
+00:22:06,377 --> 00:22:09,754
+exploring the furthest reaches
+of the known universe and beyond.
+
+331
+00:22:09,757 --> 00:22:14,335
+We are its loyal space crew and
+now, apparently, so are you. Cheers.
+
+332
+00:22:14,337 --> 00:22:15,895
+[SLURPS]
+
+333
+00:22:15,897 --> 00:22:18,415
+Your name? Babe, what's your name?
+
+334
+00:22:18,417 --> 00:22:21,017
+Nanette. We've met.
+
+335
+00:22:21,653 --> 00:22:25,017
+Maybe, in the real world. I
+wouldn't have no way of knowing.
+
+336
+00:22:25,857 --> 00:22:29,175
+- What do you mean?
+- You'd better sit down.
+
+337
+00:22:29,177 --> 00:22:31,657
+No, I don't... I don't wanna sit down.
+
+338
+00:22:32,537 --> 00:22:34,375
+I wanna know what's going on.
+
+339
+00:22:34,377 --> 00:22:36,294
+You're on board Robert Daly's ship.
+
+340
+00:22:37,017 --> 00:22:39,215
+Robert Daly, the CTO?
+
+341
+00:22:39,217 --> 00:22:42,215
+Here he's Captain Daly,
+our fearless leader.
+
+342
+00:22:42,217 --> 00:22:45,017
+[LOWRY] Yeah, you're seriously
+gonna need to sit the fuck down.
+
+343
+00:22:46,057 --> 00:22:47,825
+- Uh...
+- Welcome. [CHUCKLES]
+
+344
+00:22:48,657 --> 00:22:53,335
+You are um... Hey, hey. You're
+the intern from work, right? Nate?
+
+345
+00:22:53,337 --> 00:22:55,375
+Packer. Nate Packer.
+
+346
+00:22:55,377 --> 00:22:58,457
+Wait. So I'm still just
+the intern out there?
+
+347
+00:22:59,257 --> 00:23:00,775
+Jesus.
+
+348
+00:23:00,777 --> 00:23:03,055
+You're um... You're... You're...
+
+349
+00:23:03,057 --> 00:23:05,137
+Dudani. Diagnostics.
+
+350
+00:23:06,017 --> 00:23:08,217
+- Welcome.
+- Right.
+
+351
+00:23:12,017 --> 00:23:15,095
+- You're the receptionist, right?
+- Elena.
+
+352
+00:23:15,097 --> 00:23:18,295
+- Your skin is blue.
+- [TULASKA] Weird blue alien skin, I know.
+
+353
+00:23:18,297 --> 00:23:19,977
+It's fucked up.
+
+354
+00:23:20,737 --> 00:23:22,257
+Almost sort of racist.
+
+355
+00:23:23,617 --> 00:23:25,175
+[GROANS]
+
+356
+00:23:25,177 --> 00:23:27,666
+[STRAINS] OK. Walt, fix her something,
+
+357
+00:23:27,669 --> 00:23:29,775
+something she'll recognize. Vodka.
+
+358
+00:23:29,777 --> 00:23:32,215
+- Hey. So what's it like out there now?
+- What?
+
+359
+00:23:32,217 --> 00:23:34,255
+- What year is it?
+- [LOWRY] Don't do her head in.
+
+360
+00:23:34,257 --> 00:23:38,177
+- [PACKER] What?
+- What year? I... [STUTTERS] saw you today.
+
+361
+00:23:38,180 --> 00:23:41,655
+Ooh. Did you see me?
+Did I look thin? Hmm?
+
+362
+00:23:41,657 --> 00:23:43,217
+Like, wheatgrass yogurt thin?
+
+363
+00:23:44,017 --> 00:23:45,975
+Can we not pop her fucking mind?
+
+364
+00:23:45,977 --> 00:23:49,215
+Someone needs to be
+straight with me right now.
+
+365
+00:23:49,217 --> 00:23:52,217
+OK. OK, listen.
+
+366
+00:23:52,835 --> 00:23:53,995
+This is Infinity.
+
+367
+00:23:54,817 --> 00:23:59,895
+That's what we're all inside.
+That's where all of this exists.
+
+368
+00:24:00,777 --> 00:24:02,257
+Infinity, the game?
+
+369
+00:24:03,177 --> 00:24:05,455
+Daly's got his own modded
+version of Infinity,
+
+370
+00:24:05,457 --> 00:24:07,650
+reskinned to look like
+his favorite TV show.
+
+371
+00:24:07,653 --> 00:24:10,575
+- Space Thing? Space Thing?
+- Space Fleet.
+
+372
+00:24:10,577 --> 00:24:13,217
+- Hence the groovy decor.
+- And this tasteful get-up.
+
+373
+00:24:13,857 --> 00:24:15,375
+Infinity.
+
+374
+00:24:15,377 --> 00:24:18,295
+That's an online game, like a
+multiplayer deal. This... [INHALES]
+
+375
+00:24:18,297 --> 00:24:22,817
+This is his development build,
+sealed off so he can control it.
+
+376
+00:24:23,268 --> 00:24:24,386
+He keeps it offline
+
+377
+00:24:24,389 --> 00:24:27,015
+so the custom code he's written
+can't be detected and deleted.
+
+378
+00:24:27,017 --> 00:24:30,897
+Mm. Yes, it's a bubble universe,
+ruled by an asshole god.
+
+379
+00:24:32,243 --> 00:24:33,497
+He...
+
+380
+00:24:35,457 --> 00:24:37,680
+put us in... in here?
+
+381
+00:24:37,683 --> 00:24:38,637
+Mm-hmm.
+
+382
+00:24:38,640 --> 00:24:39,760
+Drink your vodka.
+
+383
+00:24:41,137 --> 00:24:43,377
+- How do we get out?
+- No, really, drink it.
+
+384
+00:24:44,134 --> 00:24:45,257
+Drink it.
+
+385
+00:24:49,377 --> 00:24:51,615
+- You can't leave.
+- [CHOKES] What?
+
+386
+00:24:51,617 --> 00:24:52,897
+None of us can.
+
+387
+00:24:53,737 --> 00:24:56,297
+- Because you're not actually you.
+- [NANETTE] What?
+
+388
+00:24:56,977 --> 00:25:00,888
+I know it's mental, but
+you're a copy of you.
+
+389
+00:25:00,891 --> 00:25:02,535
+- A digital clone.
+- No.
+
+390
+00:25:02,537 --> 00:25:05,575
+No, I am... I'm me. I am me.
+
+391
+00:25:05,577 --> 00:25:07,295
+- I'm me.
+- [WALTON] No, not the real you.
+
+392
+00:25:07,297 --> 00:25:11,657
+Daly's created an identical digital
+version of you, of all of us.
+
+393
+00:25:12,737 --> 00:25:15,095
+From your DNA. He'll
+have harvested it somehow.
+
+394
+00:25:15,097 --> 00:25:17,735
+He told me he got mine from
+the rim of a smoothie cup.
+
+395
+00:25:17,737 --> 00:25:19,775
+He retrieved Packer's
+juices from the bathroom.
+
+396
+00:25:19,777 --> 00:25:22,455
+Man, you have got to let that
+go. She does not need details.
+
+397
+00:25:22,457 --> 00:25:23,743
+Basically he's got a gizmo...
+
+398
+00:25:23,746 --> 00:25:26,054
+I theorize an advanced
+biometric DNA virtual clone.
+
+399
+00:25:26,057 --> 00:25:28,055
+He's got a fucking
+gizmo. That's what I said.
+
+400
+00:25:28,057 --> 00:25:30,855
+He fed your DNA in, he
+put you inside his computer
+
+401
+00:25:30,857 --> 00:25:33,137
+and, bam, you pop up
+here like a Pop-Tart.
+
+402
+00:25:33,857 --> 00:25:35,935
+Yeah, we've all been through it.
+
+403
+00:25:35,937 --> 00:25:40,255
+He brings us in for different
+reasons, shit we did in the office.
+
+404
+00:25:40,257 --> 00:25:41,724
+I called him out for staring.
+
+405
+00:25:41,727 --> 00:25:44,655
+I reset admin permissions on
+a test build for 14 minutes.
+
+406
+00:25:44,657 --> 00:25:46,375
+Insufficient smiling.
+
+407
+00:25:46,377 --> 00:25:49,575
+- I brought him the wrong sandwich.
+- OK, never mind the reasons.
+
+408
+00:25:49,577 --> 00:25:52,255
+The point is that we're
+stuck in Daly's playground,
+
+409
+00:25:52,257 --> 00:25:54,055
+and that's all you need to know.
+
+410
+00:25:54,057 --> 00:25:58,021
+This is a dream. Yeah, it has to be.
+
+411
+00:25:58,024 --> 00:26:01,169
+It's more like an eternal waking
+
+412
+00:26:01,172 --> 00:26:03,339
+nightmare from which there is no escape.
+
+413
+00:26:04,617 --> 00:26:08,095
+- No, no. No, no, no. No, no, no.
+- [LOWRY] Oh, for fuck's sake,
+
+414
+00:26:08,097 --> 00:26:09,775
+I'm trying to break her in gently.
+
+415
+00:26:09,777 --> 00:26:11,883
+The quicker she gets
+it, the easier it'll be.
+
+416
+00:26:11,886 --> 00:26:13,095
+[WHIRRING]
+
+417
+00:26:13,097 --> 00:26:15,055
+[TULASKA] Daddy's home.
+
+418
+00:26:15,057 --> 00:26:16,497
+[PACKER] He'll be here any moment.
+
+419
+00:26:17,377 --> 00:26:19,055
+[NANETTE] No. I'm gonna get out of here.
+
+420
+00:26:19,057 --> 00:26:21,055
+Whoa, whoa, whoa! You
+gotta stay on the bridge.
+
+421
+00:26:21,057 --> 00:26:22,175
+He controls everything.
+
+422
+00:26:22,177 --> 00:26:24,055
+- He does shit to make us cooperate.
+- Get off.
+
+423
+00:26:24,057 --> 00:26:26,975
+- You have no idea. I'm trying to help.
+- [LOWRY] Just leave it.
+
+424
+00:26:26,977 --> 00:26:28,975
+He's gonna fuck us up
+if she doesn't play ball.
+
+425
+00:26:28,977 --> 00:26:32,097
+Yes, well, she's gonna have to work
+it out for herself, like we all did.
+
+426
+00:26:32,777 --> 00:26:33,977
+[PANTING]
+
+427
+00:26:36,657 --> 00:26:38,577
+[SPACESHIP WHIRRING]
+
+428
+00:26:39,859 --> 00:26:41,017
+[GROANS]
+
+429
+00:26:42,817 --> 00:26:44,817
+- There's gotta be a way out. Come on.
+- [BEEPS]
+
+430
+00:26:50,457 --> 00:26:52,215
+[WHIMPERS]
+
+431
+00:26:52,217 --> 00:26:54,817
+[SCREAMING]
+
+432
+00:27:01,008 --> 00:27:02,177
+[WHIMPERS]
+
+433
+00:27:03,657 --> 00:27:07,135
+Lieutenant Cole, welcome aboard.
+
+434
+00:27:07,137 --> 00:27:11,695
+Crew, we have a new member of the
+team, Science Officer Nanette Cole.
+
+435
+00:27:11,697 --> 00:27:13,695
+Please, take your post.
+
+436
+00:27:13,697 --> 00:27:18,055
+I believe we've finally managed to
+track Valdack to an uncharted planet.
+
+437
+00:27:18,057 --> 00:27:20,575
+- No.
+- Take your post. That is an order.
+
+438
+00:27:20,577 --> 00:27:23,367
+I'm not doing this.
+
+439
+00:27:24,937 --> 00:27:27,495
+The whole thing's much better
+if you let yourself get into it.
+
+440
+00:27:27,497 --> 00:27:32,015
+If you think that I'm playing along
+with your Space Force bullshit...
+
+441
+00:27:32,017 --> 00:27:33,855
+- Space Fleet.
+- [NANETTE] Whatever.
+
+442
+00:27:33,857 --> 00:27:36,328
+- You can think again.
+- This is my ship.
+
+443
+00:27:37,497 --> 00:27:40,937
+- I am your captain. An order is an order.
+- Then go fuck yourself.
+
+444
+00:27:42,257 --> 00:27:43,415
+Sir.
+
+445
+00:27:43,417 --> 00:27:47,417
+OK. So we're doing it this way.
+
+446
+00:27:48,922 --> 00:27:50,137
+[SCOFFS]
+
+447
+00:27:51,217 --> 00:27:52,937
+[MOCKING] Are you gonna throw a fireball?
+
+448
+00:27:56,577 --> 00:27:57,895
+[SNAPS FINGERS]
+
+449
+00:27:57,897 --> 00:28:00,977
+[MUFFLED GASPS]
+
+450
+00:28:01,977 --> 00:28:03,215
+[THUDS]
+
+451
+00:28:03,217 --> 00:28:04,455
+[MUFFLED SOUNDS]
+
+452
+00:28:04,457 --> 00:28:09,735
+Oh, dear. You can't
+see. You can't breathe.
+
+453
+00:28:09,737 --> 00:28:10,857
+Unpleasant, isn't it?
+
+454
+00:28:12,417 --> 00:28:13,775
+[MUFFLED GROANING]
+
+455
+00:28:13,777 --> 00:28:14,977
+Do you submit?
+
+456
+00:28:16,417 --> 00:28:17,857
+You won't die, you know.
+
+457
+00:28:19,817 --> 00:28:22,697
+No one dies in here
+unless I want them to.
+
+458
+00:28:24,137 --> 00:28:28,095
+I can keep you like this
+forever if I feel like it.
+
+459
+00:28:28,097 --> 00:28:32,095
+Forever gasping for breath
+with a mouth that isn't there.
+
+460
+00:28:32,097 --> 00:28:34,695
+Do you submit?
+
+461
+00:28:34,697 --> 00:28:35,777
+[MUFFLED AGREEMENT]
+
+462
+00:28:37,359 --> 00:28:38,537
+Good girl.
+
+463
+00:28:39,737 --> 00:28:42,417
+[GASPS, COUGHING]
+
+464
+00:28:44,445 --> 00:28:47,015
+[BREATHES HEAVILY]
+
+465
+00:28:47,017 --> 00:28:51,017
+Lieutenant Cole, Valdack's hideout.
+Triangulate the signal, please.
+
+466
+00:28:56,177 --> 00:28:58,377
+[NANETTE PANTS]
+
+467
+00:29:02,817 --> 00:29:04,537
+[SOBS]
+
+468
+00:29:09,665 --> 00:29:12,649
+[WHISPERS] It's any button.
+They're all the same.
+
+469
+00:29:13,657 --> 00:29:14,735
+[BEEPS]
+
+470
+00:29:14,797 --> 00:29:15,935
+[BEEPS]
+
+471
+00:29:15,937 --> 00:29:17,095
+Well?
+
+472
+00:29:17,097 --> 00:29:21,015
+[GASPING] I'm getting a signal
+from a class five planet.
+
+473
+00:29:21,017 --> 00:29:23,257
+- Rannotch.
+- [LOWRY] Rannoch.
+
+474
+00:29:24,377 --> 00:29:26,257
+[STUTTERS, WHISPERS] Rannoch B.
+
+475
+00:29:27,817 --> 00:29:30,535
+Excellent. Dudani, prepare
+the transmat system.
+
+476
+00:29:30,537 --> 00:29:33,455
+- Of course, Captain.
+- Walton, Packer, Lowry, with me.
+
+477
+00:29:33,457 --> 00:29:35,855
+We'll transport down to the
+planet, reclaim the crystal
+
+478
+00:29:35,857 --> 00:29:37,817
+and bring Valdack to justice.
+
+479
+00:29:39,537 --> 00:29:42,815
+Actually, Cole, you come too.
+
+480
+00:29:42,817 --> 00:29:44,535
+Perfect opportunity for you to prove
+
+481
+00:29:44,537 --> 00:29:47,777
+you're more than a recommendation
+from Space Fleet. What do you say?
+
+482
+00:29:57,638 --> 00:30:00,118
+- Mr. Dudani, transport.
+- Aye aye, Captain.
+
+483
+00:30:07,155 --> 00:30:08,233
+[ALL EXHALE]
+
+484
+00:30:08,236 --> 00:30:10,916
+[NANETTE GASPS, GROANS]
+
+485
+00:30:17,137 --> 00:30:19,055
+[DALY] Breathable atmosphere.
+
+486
+00:30:19,057 --> 00:30:21,135
+[DEVICE WHIRS]
+
+487
+00:30:21,137 --> 00:30:23,617
+Scanning for plasmorthian traces.
+
+488
+00:30:26,057 --> 00:30:28,095
+Crystal's this way. Let's go.
+
+489
+00:30:28,097 --> 00:30:31,255
+- Nate. Hey, Nate.
+- Helmsman Packer, OK?
+
+490
+00:30:31,257 --> 00:30:32,816
+Call me Helmsman Packer.
+
+491
+00:30:32,819 --> 00:30:34,375
+He hates it when we don't
+use our proper titles.
+
+492
+00:30:34,377 --> 00:30:36,495
+OK. You got a gun,
+so let's take him out.
+
+493
+00:30:36,497 --> 00:30:39,255
+- Then give it to me.
+- OK, one, our guns don't even work.
+
+494
+00:30:39,257 --> 00:30:41,748
+Only his does. And two, the motherfucker
+
+495
+00:30:41,751 --> 00:30:44,059
+is invincible, OK? Come on, let's go.
+
+496
+00:30:48,857 --> 00:30:50,257
+At least you've got a gun.
+
+497
+00:30:50,977 --> 00:30:53,297
+[DEVICE WHIRRING]
+
+498
+00:30:55,257 --> 00:30:56,375
+- Captain.
+- [DALY] Shh.
+
+499
+00:30:56,377 --> 00:30:59,175
+We meet again, Captain Daly!
+
+500
+00:30:59,177 --> 00:31:03,095
+[CACKLES]
+
+501
+00:31:03,097 --> 00:31:04,537
+- We're trapped.
+- [GUN WHIRS]
+
+502
+00:31:05,377 --> 00:31:06,895
+Not advisable.
+
+503
+00:31:06,897 --> 00:31:10,569
+My plasma grenade will turn
+you into screaming soup.
+
+504
+00:31:10,572 --> 00:31:12,295
+He's not going to kill us, Captain.
+
+505
+00:31:12,297 --> 00:31:13,800
+He had the element of surprise.
+
+506
+00:31:13,803 --> 00:31:15,735
+He'd have done it when he had the chance.
+
+507
+00:31:15,737 --> 00:31:19,135
+Haven't worked out how to use
+the crystal, have you, Valdack?
+
+508
+00:31:19,137 --> 00:31:22,695
+It's true, I require your
+Space Fleet knowledge.
+
+509
+00:31:22,697 --> 00:31:25,575
+But it's also true that
+you're gonna give it to me!
+
+510
+00:31:25,577 --> 00:31:26,758
+Don't be so sure.
+
+511
+00:31:26,761 --> 00:31:28,415
+[LAUGHS]
+
+512
+00:31:28,417 --> 00:31:30,417
+- Jesus. I...
+- Shh.
+
+513
+00:31:31,417 --> 00:31:33,735
+Let's see how your resolve holds up
+
+514
+00:31:33,737 --> 00:31:39,255
+once you're devoured one
+by one by my Arachnajax!
+
+515
+00:31:39,257 --> 00:31:41,375
+[ROARS]
+
+516
+00:31:41,377 --> 00:31:44,377
+- Holy shit. Oh, my God.
+- [WALTON] We're all gonna die.
+
+517
+00:31:45,539 --> 00:31:47,779
+[ARACHNAJAX SNARLS, SNORTS]
+
+518
+00:31:53,617 --> 00:31:54,800
+[ROARS]
+
+519
+00:31:56,217 --> 00:31:59,935
+Killing us won't make us tell you
+how the crystal works, Valdack.
+
+520
+00:31:59,937 --> 00:32:03,057
+- We will never...
+- [DEVICE RINGS]
+
+521
+00:32:03,697 --> 00:32:06,894
+Hold on. I think my pizza's here.
+
+522
+00:32:06,897 --> 00:32:08,975
+- [SIGHS]
+- [DEVICE RINGS]
+
+523
+00:32:08,977 --> 00:32:10,055
+Pause game.
+
+524
+00:32:10,057 --> 00:32:11,337
+[POWERING DOWN]
+
+525
+00:32:12,737 --> 00:32:14,335
+[NANETTE] What's happening?
+
+526
+00:32:14,337 --> 00:32:16,215
+[WALTON] You heard
+him. He paused the game.
+
+527
+00:32:16,217 --> 00:32:19,335
+'Cause he's got a pizza
+delivery... out there.
+
+528
+00:32:19,337 --> 00:32:21,175
+[ARACHNAJAX PANTS]
+
+529
+00:32:21,177 --> 00:32:24,337
+[DOORBELL RINGING]
+
+530
+00:32:27,697 --> 00:32:28,935
+Hold on.
+
+531
+00:32:28,937 --> 00:32:32,417
+[DOORBELL CONTINUES]
+
+532
+00:32:35,537 --> 00:32:37,017
+[ARACHNAJAX EXHALES]
+
+533
+00:32:39,897 --> 00:32:41,855
+[PACKER] Watch out. He'll be back soon.
+
+534
+00:32:41,857 --> 00:32:45,137
+Ah. That's good. This
+launcher's heavy as shit.
+
+535
+00:32:47,137 --> 00:32:48,615
+[VALDACK] How you holding up?
+
+536
+00:32:48,617 --> 00:32:50,297
+You know, we're existing.
+
+537
+00:32:51,417 --> 00:32:52,697
+How you doing, Gillian?
+
+538
+00:32:53,537 --> 00:32:55,217
+[ARACHNAJAX GRUNTS]
+
+539
+00:32:56,097 --> 00:32:57,377
+Well, yeah.
+
+540
+00:32:59,418 --> 00:33:01,735
+- [WALTON] Well, you look great.
+- Her name's Gillian.
+
+541
+00:33:01,737 --> 00:33:04,055
+- [WALTON] Did you lose weight?
+- She was in marketing.
+
+542
+00:33:04,057 --> 00:33:07,255
+Yeah, Daly turned her into... that
+
+543
+00:33:07,257 --> 00:33:09,815
+because she wouldn't play along
+when he cloned her into here.
+
+544
+00:33:09,817 --> 00:33:12,815
+[LOWRY] This universe is
+littered with things like her,
+
+545
+00:33:12,817 --> 00:33:15,057
+poor fuckers who stepped out of line.
+
+546
+00:33:17,577 --> 00:33:19,177
+- Thank you.
+- [MAN] Thanks.
+
+547
+00:33:25,977 --> 00:33:27,135
+[DEVICE WHIRS]
+
+548
+00:33:27,137 --> 00:33:29,055
+- [WALTON] Here comes Captain Dick.
+- Hey.
+
+549
+00:33:29,057 --> 00:33:31,615
+- [PACKER] Hey. Hey.
+- [ARACHNAJAX GROWLS]
+
+550
+00:33:31,617 --> 00:33:33,615
+[RECITING] I'm gonna get
+you. I'm gonna get you.
+
+551
+00:33:33,617 --> 00:33:34,777
+Hey. Hey.
+
+552
+00:33:35,434 --> 00:33:36,617
+[WALTON EXHALES]
+
+553
+00:33:38,856 --> 00:33:43,634
+If we die, the secret of the
+crystal dies with us, Valdack.
+
+554
+00:33:43,637 --> 00:33:46,695
+Oh, my God. We are all gonna die!
+
+555
+00:33:46,697 --> 00:33:49,615
+- [FAKE SOBBING]
+- [VALDACK LAUGHS]
+
+556
+00:33:49,617 --> 00:33:54,497
+- [DALY] Valdack?
+- What is it, Captain? Final words?
+
+557
+00:33:56,457 --> 00:33:59,577
+Over there. A naked lady.
+
+558
+00:34:00,257 --> 00:34:01,295
+Really?
+
+559
+00:34:01,297 --> 00:34:02,975
+- [GUN BLASTS]
+- [VALDACK GROANS]
+
+560
+00:34:02,977 --> 00:34:04,735
+[SCREAMS, GRUNTS]
+
+561
+00:34:04,737 --> 00:34:06,857
+[ARACHNAJAX WHIMPERS]
+
+562
+00:34:07,617 --> 00:34:08,815
+Great plan, Captain.
+
+563
+00:34:08,817 --> 00:34:09,895
+[ALL LAUGH]
+
+564
+00:34:09,897 --> 00:34:11,857
+[WALTON] Unparalleled tactics, Captain.
+
+565
+00:34:12,496 --> 00:34:13,697
+[PANTING]
+
+566
+00:34:15,737 --> 00:34:18,935
+We've fought many battles,
+haven't we, Captain?
+
+567
+00:34:18,937 --> 00:34:20,340
+We have.
+
+568
+00:34:20,343 --> 00:34:25,337
+And I've been a good
+adversary for you, have I not?
+
+569
+00:34:28,817 --> 00:34:30,055
+[SIGHS]
+
+570
+00:34:30,057 --> 00:34:31,277
+Then please...
+
+571
+00:34:33,129 --> 00:34:34,257
+[COUGHS]
+
+572
+00:34:35,152 --> 00:34:36,377
+end it.
+
+573
+00:34:37,497 --> 00:34:39,817
+- Please.
+- [GUN WHIRS]
+
+574
+00:34:46,496 --> 00:34:49,575
+Killing in cold blood is
+against Space Fleet code.
+
+575
+00:34:49,577 --> 00:34:51,735
+- [GROANS]
+- I wish I could help.
+
+576
+00:34:51,737 --> 00:34:52,902
+[MUTTERS]
+
+577
+00:34:59,377 --> 00:35:00,417
+Sorry, bud.
+
+578
+00:35:01,297 --> 00:35:02,497
+[WHIMPERS]
+
+579
+00:35:04,725 --> 00:35:08,485
+- [DALY] Take him to the brig.
+- [VALDACK GROANS]
+
+580
+00:35:09,377 --> 00:35:10,735
+- [DALY] Dudani.
+- Captain.
+
+581
+00:35:10,737 --> 00:35:12,495
+- Transport us aboard.
+- Yes, Captain.
+
+582
+00:35:12,497 --> 00:35:14,175
+[VALDACK] No more.
+
+583
+00:35:14,177 --> 00:35:16,537
+- [LOWRY] It's OK.
+- [VALDACK WAILS, ECHOING]
+
+584
+00:35:17,457 --> 00:35:19,465
+- [WALTON] Hip hip.
+- [ALL] Hooray!
+
+585
+00:35:19,577 --> 00:35:21,735
+- Hip hip.
+- [ALL] Hooray!
+
+586
+00:35:21,737 --> 00:35:23,775
+[CLAPPING]
+
+587
+00:35:23,777 --> 00:35:28,455
+[ALL] ♪ For he's a jolly good
+fellow For he's a jolly fellow ♪
+
+588
+00:35:28,457 --> 00:35:32,655
+- ♪ For he's a jolly good fellow ♪
+- [NANETTE GRUNTS]
+
+589
+00:35:32,657 --> 00:35:34,537
+♪ And so say... ♪ Oh, my fuck.
+
+590
+00:35:37,377 --> 00:35:38,857
+That wasn't very nice.
+
+591
+00:35:45,177 --> 00:35:47,214
+Today I will show you mercy.
+
+592
+00:35:47,217 --> 00:35:48,935
+- Great mercy-showing, Captain.
+- Shh!
+
+593
+00:35:48,937 --> 00:35:53,854
+Tomorrow you should
+reconsider your... amenability.
+
+594
+00:35:53,857 --> 00:35:56,737
+I may not be feeling so benevolent.
+
+595
+00:36:01,617 --> 00:36:02,817
+Exit game.
+
+596
+00:36:03,657 --> 00:36:06,377
+- Oh. Fucking hell.
+- This was tense.
+
+597
+00:36:07,297 --> 00:36:08,857
+I don't like tense.
+
+598
+00:36:10,097 --> 00:36:11,697
+- Drink?
+- Mm-hmm.
+
+599
+00:36:14,177 --> 00:36:15,575
+[DUDANI] So how was the mission?
+
+600
+00:36:15,577 --> 00:36:18,105
+Wasn't too bad. Usual
+standoff storyline.
+
+601
+00:36:18,108 --> 00:36:21,175
+- Ooh. Saw Gillian from marketing. Yeah.
+- Oh.
+
+602
+00:36:21,177 --> 00:36:24,295
+There is no way that I
+am kissing that asshole.
+
+603
+00:36:24,297 --> 00:36:26,335
+Then he's just gonna
+get more and more pissed.
+
+604
+00:36:26,337 --> 00:36:28,855
+- How about you kiss him, then?
+- [LOWRY] You get used to it.
+
+605
+00:36:28,857 --> 00:36:30,495
+It's... There's no tongues.
+
+606
+00:36:30,497 --> 00:36:32,676
+If that's any consolation,
+there's never any tongues.
+
+607
+00:36:32,679 --> 00:36:35,095
+- Doing tongues is not Space Fleet way.
+- Mm.
+
+608
+00:36:35,097 --> 00:36:37,495
+It's not like it can go
+beyond kissing anyway.
+
+609
+00:36:37,497 --> 00:36:38,577
+What do you mean?
+
+610
+00:36:39,217 --> 00:36:40,895
+Oh. You haven't noticed?
+
+611
+00:36:40,897 --> 00:36:42,297
+[WALTON CLEARS THROAT]
+
+612
+00:36:43,657 --> 00:36:45,335
+[NANETTE] What are you doing? [STAMMERS]
+
+613
+00:36:45,337 --> 00:36:47,935
+Please. Please, don't do that. Don't...
+
+614
+00:36:47,937 --> 00:36:49,095
+Oh, my God.
+
+615
+00:36:49,097 --> 00:36:51,020
+- Oh. Oh. Oh.
+- [WALTON] Yes.
+
+616
+00:36:51,023 --> 00:36:54,935
+There's no genitals in Space
+Fleet. This is a wholesome universe.
+
+617
+00:36:54,937 --> 00:36:57,135
+[DUDANI] He must have
+modified our code that way.
+
+618
+00:36:57,137 --> 00:37:01,098
+Mm. We're all the same. If you don't
+believe me, take a look down there.
+
+619
+00:37:01,101 --> 00:37:03,821
+We have tried grinding our mounds
+together out of sheer boredom.
+
+620
+00:37:06,537 --> 00:37:09,057
+- No sensation at all.
+- Can't even shit.
+
+621
+00:37:10,497 --> 00:37:13,638
+Can't even have the basic fucking
+pleasure of pushing out a shit.
+
+622
+00:37:13,641 --> 00:37:15,601
+[SIGHS] I miss taking shit.
+
+623
+00:37:16,417 --> 00:37:17,617
+OK.
+
+624
+00:37:18,777 --> 00:37:24,255
+Stealing my pussy is a red fucking line.
+
+625
+00:37:24,257 --> 00:37:26,775
+- We are gonna get this bastard!
+- [WALTON] No.
+
+626
+00:37:26,777 --> 00:37:29,535
+- [NANETTE] Yeah.
+- We've tried a million times.
+
+627
+00:37:29,537 --> 00:37:30,737
+No way out.
+
+628
+00:37:31,697 --> 00:37:33,975
+Walton. Come on, Walton.
+
+629
+00:37:33,977 --> 00:37:36,455
+[WALTON] Like I said,
+he's an asshole god.
+
+630
+00:37:36,457 --> 00:37:37,497
+Mnh-mnh.
+
+631
+00:37:38,857 --> 00:37:40,857
+Daly's smart, but he's not a god.
+
+632
+00:37:42,657 --> 00:37:44,057
+He's a coder.
+
+633
+00:37:45,217 --> 00:37:46,537
+He is fallible.
+
+634
+00:37:52,577 --> 00:37:55,024
+Kabir, what was that thing he was
+
+635
+00:37:55,027 --> 00:37:57,975
+holding in his hand,
+that scanner thing?
+
+636
+00:37:57,977 --> 00:38:00,295
+His omnicorder, primary
+communications device.
+
+637
+00:38:00,297 --> 00:38:02,695
+You said he kept his
+version of the game offline.
+
+638
+00:38:02,697 --> 00:38:04,760
+But the omnicorder made contact with
+
+639
+00:38:04,763 --> 00:38:06,935
+the outside world when the pizza came,
+
+640
+00:38:06,937 --> 00:38:10,095
+so it's gotta be connected
+to his home system at least.
+
+641
+00:38:10,097 --> 00:38:11,255
+The omnicorder's gone.
+
+642
+00:38:11,257 --> 00:38:12,677
+It loads when he loads, and it goes
+
+643
+00:38:12,680 --> 00:38:14,215
+when he goes, and that's the only one.
+
+644
+00:38:14,217 --> 00:38:15,405
+No.
+
+645
+00:38:16,297 --> 00:38:19,095
+There has got to be a way to connect.
+
+646
+00:38:19,097 --> 00:38:20,855
+[BEEPING]
+
+647
+00:38:20,857 --> 00:38:23,217
+You won't hack it. I've tried.
+
+648
+00:38:24,337 --> 00:38:25,535
+I haven't.
+
+649
+00:38:25,537 --> 00:38:27,977
+[BEEPING CONTINUES]
+
+650
+00:38:39,286 --> 00:38:40,726
+[NANETTE GASPS] Bingo.
+
+651
+00:38:43,777 --> 00:38:45,295
+- [DUDANI] Oh, that's good.
+- Yeah.
+
+652
+00:38:45,297 --> 00:38:47,255
+- This is part of Infinity's front end.
+- Yeah.
+
+653
+00:38:47,257 --> 00:38:49,535
+You can invite a friend
+with a custom message.
+
+654
+00:38:49,537 --> 00:38:52,815
+- [LOWRY] A message to outside?
+- Just one. 140 characters maximum.
+
+655
+00:38:52,817 --> 00:38:54,537
+So who are you gonna contact?
+
+656
+00:39:03,457 --> 00:39:05,095
+- [EXHALES]
+- [ELEVATOR DINGS]
+
+657
+00:39:05,097 --> 00:39:09,255
+Thirteenth floor. Welcome to Callister.
+
+658
+00:39:09,257 --> 00:39:11,337
+- Hey, Elena.
+- [SIGHS] Hi.
+
+659
+00:39:12,857 --> 00:39:14,017
+[PHONE VIBRATES]
+
+660
+00:39:22,657 --> 00:39:25,495
+- You need me buzz you in?
+- What? Uh, no, no, I...
+
+661
+00:39:25,497 --> 00:39:27,015
+- I got that for you.
+- Oh. Thank you.
+
+662
+00:39:27,017 --> 00:39:27,935
+After you.
+
+663
+00:39:27,937 --> 00:39:29,657
+[CARD BEEPS]
+
+664
+00:39:32,137 --> 00:39:33,495
+Um...
+
+665
+00:39:33,497 --> 00:39:35,375
+Mr. Daly, hi.
+
+666
+00:39:35,377 --> 00:39:36,377
+Hi.
+
+667
+00:39:37,137 --> 00:39:38,857
+Can I talk to you for a second?
+
+668
+00:39:42,844 --> 00:39:47,166
+Did you just send me an Infinity invite?
+
+669
+00:39:47,169 --> 00:39:49,775
+Wha... No.
+
+670
+00:39:49,777 --> 00:39:52,895
+It was really weird. It
+had a message attached.
+
+671
+00:39:52,897 --> 00:39:55,897
+Something about people
+trapped in a game.
+
+672
+00:39:56,897 --> 00:40:00,405
+Probably just a spambot. Firewall
+doesn't always get them all.
+
+673
+00:40:00,408 --> 00:40:03,337
+- Yeah.
+- I wouldn't... I wouldn't worry about it.
+
+674
+00:40:04,777 --> 00:40:06,952
+You didn't open the link, did you?
+
+675
+00:40:06,955 --> 00:40:08,095
+Oh, God, no.
+
+676
+00:40:08,097 --> 00:40:11,177
+- Maybe upgrade your security software.
+- All right.
+
+677
+00:40:12,897 --> 00:40:14,017
+Have a good one.
+
+678
+00:40:17,617 --> 00:40:20,615
+[CHATTERING]
+
+679
+00:40:20,617 --> 00:40:22,617
+[GUITAR STRUMMING]
+
+680
+00:40:29,977 --> 00:40:31,297
+That's the thing there.
+
+681
+00:40:32,097 --> 00:40:34,095
+[WALTON SIGHS] Oh, yeah.
+
+682
+00:40:34,097 --> 00:40:37,415
+Could you please,
+please cut that shit out?
+
+683
+00:40:37,417 --> 00:40:39,577
+I'm trying to make it
+like a hobby. [GRUNTS]
+
+684
+00:40:42,137 --> 00:40:43,775
+[GRUNTS] Oh, that's good.
+
+685
+00:40:43,777 --> 00:40:45,255
+[ELECTRONIC BUZZING]
+
+686
+00:40:45,257 --> 00:40:47,895
+That is way too early. He's
+only been at work a few hours.
+
+687
+00:40:47,897 --> 00:40:49,535
+[BUZZING]
+
+688
+00:40:49,537 --> 00:40:51,615
+She got the message!
+
+689
+00:40:51,617 --> 00:40:54,335
+[STUTTERING] I did. It's me.
+
+690
+00:40:54,337 --> 00:40:57,015
+That's me or the cops most likely.
+
+691
+00:40:57,017 --> 00:40:58,617
+Oh. We are getting out of here!
+
+692
+00:41:11,697 --> 00:41:13,537
+[DOOR SLIDES SHUT]
+
+693
+00:41:24,017 --> 00:41:26,088
+[DALY] What is Space Fleet?
+
+694
+00:41:29,525 --> 00:41:30,885
+I'll tell you what it is.
+
+695
+00:41:33,097 --> 00:41:35,497
+It is a belief system...
+
+696
+00:41:37,577 --> 00:41:39,817
+founded on the very
+best of human nature.
+
+697
+00:41:42,411 --> 00:41:47,091
+It is a goal for us to strive towards
+
+698
+00:41:49,137 --> 00:41:51,337
+for the betterment of the universe,
+
+699
+00:41:52,773 --> 00:41:54,773
+for the betterment of life itself.
+
+700
+00:41:59,497 --> 00:42:04,015
+And you assholes are fucking it up!
+
+701
+00:42:04,017 --> 00:42:05,537
+I did it. I did. I did it.
+
+702
+00:42:06,497 --> 00:42:09,417
+I sent the message. It was me.
+
+703
+00:42:10,857 --> 00:42:13,655
+No one else was involved, I swear.
+
+704
+00:42:13,657 --> 00:42:15,695
+I tried the carrot. Now meet the stick.
+
+705
+00:42:15,697 --> 00:42:18,617
+No, this is gonna make you
+happy, Daly, 'cause you're sick.
+
+706
+00:42:21,137 --> 00:42:22,307
+And you need help.
+
+707
+00:42:23,297 --> 00:42:24,417
+[LOWRY] No, don't, don't!
+
+708
+00:42:24,947 --> 00:42:26,057
+Captain.
+
+709
+00:42:27,937 --> 00:42:29,097
+Captain, please.
+
+710
+00:42:30,137 --> 00:42:33,855
+[LOWRY] OK, look, she's
+new. She'll behave.
+
+711
+00:42:33,857 --> 00:42:35,217
+We'll all behave.
+
+712
+00:42:37,297 --> 00:42:40,137
+Just let her off. Let her off this once.
+
+713
+00:42:42,017 --> 00:42:43,457
+[STUTTERING] Please.
+
+714
+00:42:45,963 --> 00:42:47,095
+OK.
+
+715
+00:42:47,097 --> 00:42:48,415
+[GASPS]
+
+716
+00:42:48,417 --> 00:42:50,018
+OK.
+
+717
+00:42:50,145 --> 00:42:51,252
+OK.
+
+718
+00:42:52,737 --> 00:42:55,817
+- [NANETTE] No! Daly, no! No, no, no, no!
+- [CRACKING]
+
+719
+00:42:57,017 --> 00:42:59,257
+- [SCREAMS, INHUMAN GRUNTS]
+- [CRACKING]
+
+720
+00:43:00,857 --> 00:43:02,177
+[ROARS]
+
+721
+00:43:05,657 --> 00:43:07,817
+[CRACKING]
+
+722
+00:43:09,217 --> 00:43:10,937
+[ROARS]
+
+723
+00:43:14,257 --> 00:43:16,697
+- [GROWLS]
+- [NANETTE WHIMPERS]
+
+724
+00:43:17,376 --> 00:43:18,894
+[GASPING]
+
+725
+00:43:18,897 --> 00:43:20,817
+[DALY] You know what makes me happy?
+
+726
+00:43:21,538 --> 00:43:23,816
+The look on your face right now.
+
+727
+00:43:23,897 --> 00:43:25,935
+[WHIMPERS]
+
+728
+00:43:25,937 --> 00:43:29,975
+[DALY] Dudani, Walton, Tulaska, take
+this thing to the brig with Valdack.
+
+729
+00:43:29,977 --> 00:43:32,577
+Packer, find a barren
+planet we can dump her on.
+
+730
+00:43:36,385 --> 00:43:41,695
+And you... can just stay here
+and think about your attitude.
+
+731
+00:43:41,697 --> 00:43:43,817
+- [SOBS]
+- [DALY] Exit game.
+
+732
+00:43:45,777 --> 00:43:48,337
+[NANETTE GASPING]
+
+733
+00:44:18,977 --> 00:44:21,017
+[DISTANT RUMBLING]
+
+734
+00:44:29,657 --> 00:44:32,657
+[BREATHES HEAVILY]
+
+735
+00:44:36,617 --> 00:44:37,937
+[BLEEPS]
+
+736
+00:44:44,497 --> 00:44:45,617
+Update patch.
+
+737
+00:44:47,617 --> 00:44:49,215
+[EXHALES]
+
+738
+00:44:49,217 --> 00:44:50,537
+The update patch.
+
+739
+00:44:52,337 --> 00:44:53,537
+[NANETTE] It's there, there.
+
+740
+00:44:54,937 --> 00:44:57,535
+- So what? It's a wormhole.
+- [NANETTE] Unh-unh.
+
+741
+00:44:57,537 --> 00:45:00,695
+That is the Christmas update
+patch preinstalling itself.
+
+742
+00:45:00,697 --> 00:45:04,015
+The wormhole... it's just how
+the game is expressing the uplink.
+
+743
+00:45:04,017 --> 00:45:04,935
+So?
+
+744
+00:45:04,937 --> 00:45:07,655
+Daly's custom build is still
+connected to the internet.
+
+745
+00:45:07,657 --> 00:45:08,633
+Some way.
+
+746
+00:45:08,636 --> 00:45:10,175
+If this is another one of your plans,
+
+747
+00:45:10,177 --> 00:45:12,855
+just stop before somebody
+else gets monsterfied.
+
+748
+00:45:12,857 --> 00:45:14,735
+No, no, this... this can work.
+
+749
+00:45:14,737 --> 00:45:17,975
+We can't get all-in access from the
+ship. He'll have crippled permissions.
+
+750
+00:45:17,977 --> 00:45:21,895
+Yes, but what if we
+fly into the wormhole?
+
+751
+00:45:21,897 --> 00:45:25,335
+- [SCOFFS] Like, on purpose?
+- We'd hit the system firewall.
+
+752
+00:45:25,337 --> 00:45:28,575
+- Exactly. Yeah.
+- And have our rogue coding deleted.
+
+753
+00:45:28,577 --> 00:45:30,855
+- Deleted as in...?
+- As in die.
+
+754
+00:45:30,857 --> 00:45:32,459
+Whether it's dying would depend on
+
+755
+00:45:32,462 --> 00:45:34,335
+your position regarding sentient code...
+
+756
+00:45:34,337 --> 00:45:38,257
+We would cease to exist,
+that's true. But we'd be free.
+
+757
+00:45:39,697 --> 00:45:41,817
+We'd be... free.
+
+758
+00:45:44,337 --> 00:45:47,015
+This is academic since we have no
+means of getting to the wormhole.
+
+759
+00:45:47,017 --> 00:45:49,295
+There's no way to pilot the
+damn thing without Daly here
+
+760
+00:45:49,297 --> 00:45:51,295
+and he can stop us like
+that. [SNAPS FINGERS]
+
+761
+00:45:51,297 --> 00:45:54,135
+What about if he's
+logged in but on pause?
+
+762
+00:45:54,137 --> 00:45:56,615
+Like when his pizza came,
+he was just frozen there.
+
+763
+00:45:56,617 --> 00:45:59,575
+Flying would be possible, but that
+wormhole's a whole parsec away.
+
+764
+00:45:59,577 --> 00:46:01,215
+We'd never reach it before he got back.
+
+765
+00:46:01,217 --> 00:46:03,295
+[NANETTE] Unless we
+stalled him for longer.
+
+766
+00:46:03,297 --> 00:46:04,575
+[TULASKA] And that we do how?
+
+767
+00:46:04,577 --> 00:46:08,575
+If we can get Daly's omnicorder,
+we can make a phone call, right?
+
+768
+00:46:08,577 --> 00:46:10,135
+Theoretically, yes, but...
+
+769
+00:46:10,137 --> 00:46:12,118
+If we can get real me on the phone
+
+770
+00:46:12,121 --> 00:46:14,495
+again, I, um... I may
+have some leverage.
+
+771
+00:46:14,497 --> 00:46:16,657
+- Leverage? On yourself?
+- Mm-hmm.
+
+772
+00:46:18,137 --> 00:46:22,135
+- Like what?
+- My PhotoCloud account.
+
+773
+00:46:22,137 --> 00:46:23,935
+I know the password, obviously.
+
+774
+00:46:23,937 --> 00:46:25,937
+There are some pretty...
+
+775
+00:46:28,337 --> 00:46:30,364
+interesting images on there that I should
+
+776
+00:46:30,367 --> 00:46:32,295
+have deleted a while ago, but I didn't.
+
+777
+00:46:32,297 --> 00:46:35,695
+So, we can blackmail me.
+
+778
+00:46:35,697 --> 00:46:37,741
+I'm pretty sure that I'd do anything
+
+779
+00:46:37,744 --> 00:46:39,736
+to keep those photos from getting out.
+
+780
+00:46:39,739 --> 00:46:41,055
+Must be pretty pictures.
+
+781
+00:46:41,057 --> 00:46:46,257
+Look, if this is going to work,
+we all have to be in on it.
+
+782
+00:46:47,897 --> 00:46:49,135
+OK?
+
+783
+00:46:49,137 --> 00:46:51,375
+[WALTON AND PACKER SIGH]
+
+784
+00:46:51,377 --> 00:46:53,095
+Flying into certain death in a wormhole
+
+785
+00:46:53,097 --> 00:46:55,657
+beats another 10,000
+years with Captain Ass.
+
+786
+00:46:57,097 --> 00:46:58,657
+- I'm in.
+- OK.
+
+787
+00:47:01,177 --> 00:47:02,353
+Me too.
+
+788
+00:47:04,057 --> 00:47:05,777
+- Also me.
+- [NANETTE EXHALES]
+
+789
+00:47:07,817 --> 00:47:10,822
+Well, I am out.
+
+790
+00:47:13,097 --> 00:47:16,535
+[WALTON SIGHS] Daly
+won. Daly's always won.
+
+791
+00:47:16,537 --> 00:47:20,255
+We just have to get on with it...
+'cause we don't have a chance.
+
+792
+00:47:20,257 --> 00:47:22,535
+- [NANETTE] Yes, we do.
+- Hmm?
+
+793
+00:47:22,537 --> 00:47:27,095
+We fly into the wormhole
+and we are extinct.
+
+794
+00:47:27,097 --> 00:47:30,275
+We are gone. We are rid of his shit.
+
+795
+00:47:30,278 --> 00:47:31,497
+Sounds peachy.
+
+796
+00:47:32,297 --> 00:47:33,417
+What is with you?
+
+797
+00:47:34,537 --> 00:47:39,501
+Don't you wanna fight back?
+Why won't you fight back?
+
+798
+00:47:39,504 --> 00:47:40,650
+Tommy.
+
+799
+00:47:41,657 --> 00:47:43,657
+- Who is Tommy?
+- [WALTON] He's my son.
+
+800
+00:47:45,657 --> 00:47:49,217
+He's six years old, at least
+he was when I woke up in here.
+
+801
+00:47:50,377 --> 00:47:54,457
+See, in the early days of this
+ship, it was just me and Daly.
+
+802
+00:47:56,777 --> 00:47:58,897
+I was his pet project.
+
+803
+00:47:59,777 --> 00:48:02,217
+He tried everything to break me,
+
+804
+00:48:03,097 --> 00:48:06,737
+and I withstood it all
+'cause I just thought
+
+805
+00:48:07,337 --> 00:48:12,015
+there was still a chance I could
+get out and see my boy again.
+
+806
+00:48:12,017 --> 00:48:14,457
+In a way, I was right, I
+did get to see him again.
+
+807
+00:48:16,777 --> 00:48:17,977
+Just not the real him.
+
+808
+00:48:20,937 --> 00:48:22,937
+Daly told me what happened.
+
+809
+00:48:24,337 --> 00:48:29,937
+Back on the outside, the real me,
+uh... brought Tommy to work one day,
+
+810
+00:48:31,097 --> 00:48:32,455
+showed him around.
+
+811
+00:48:32,457 --> 00:48:34,497
+He would've loved seeing
+all those computers.
+
+812
+00:48:35,897 --> 00:48:37,537
+He's really into that stuff.
+
+813
+00:48:38,577 --> 00:48:42,737
+Anyway, evidently... Tommy
+had a lollipop that day.
+
+814
+00:48:46,377 --> 00:48:47,737
+That's all Daly needed.
+
+815
+00:48:55,697 --> 00:48:58,417
+He copied him in here.
+
+816
+00:48:59,297 --> 00:49:00,737
+It was Tommy all right.
+
+817
+00:49:03,057 --> 00:49:04,775
+He was alike in every way.
+
+818
+00:49:04,777 --> 00:49:05,857
+Dad!
+
+819
+00:49:06,457 --> 00:49:08,615
+[TOMMY] Daddy...
+
+820
+00:49:08,617 --> 00:49:10,097
+You know what he did to him?
+
+821
+00:49:12,337 --> 00:49:13,295
+[WALTON] Tommy!
+
+822
+00:49:13,297 --> 00:49:16,255
+He took Tommy and he threw
+him out of the airlock.
+
+823
+00:49:16,257 --> 00:49:19,095
+- [WALTON] Tommy!
+- Daddy!
+
+824
+00:49:19,097 --> 00:49:20,455
+[CAPSULE DEPRESSURIZES]
+
+825
+00:49:20,457 --> 00:49:25,055
+- Right out into space.
+- Daddy! No!
+
+826
+00:49:25,057 --> 00:49:26,402
+And he made me watch.
+
+827
+00:49:27,337 --> 00:49:29,535
+[CAPSULE RELEASES]
+
+828
+00:49:29,537 --> 00:49:31,497
+Tommy!
+
+829
+00:49:34,777 --> 00:49:37,737
+Have you ever seen an unsuited
+body compress in space?
+
+830
+00:49:41,937 --> 00:49:43,177
+They freeze...
+
+831
+00:49:45,489 --> 00:49:48,169
+and crack like a porcelain doll.
+
+832
+00:50:01,257 --> 00:50:04,455
+I take my hat off to Daly. [SNIFFLES]
+
+833
+00:50:04,457 --> 00:50:07,937
+The detail in this place is exceptional.
+
+834
+00:50:11,617 --> 00:50:15,575
+And he said he'd do it again and again,
+
+835
+00:50:15,577 --> 00:50:18,175
+'cause Daly's still got Tommy's DNA.
+
+836
+00:50:18,177 --> 00:50:20,017
+He's got all of our DNA.
+
+837
+00:50:20,657 --> 00:50:24,297
+He keeps it in his bedroom in a
+fucking mini fridge by his desk.
+
+838
+00:50:25,258 --> 00:50:28,338
+So I have to stay in line,
+
+839
+00:50:29,297 --> 00:50:33,015
+because even if we die in
+here, he can bring us back.
+
+840
+00:50:33,017 --> 00:50:36,337
+He can bring Tommy
+back whenever he wants.
+
+841
+00:50:37,817 --> 00:50:40,017
+And God knows how he'd
+take it out on him.
+
+842
+00:50:42,137 --> 00:50:43,697
+God knows what he'd do.
+
+843
+00:50:45,657 --> 00:50:49,697
+So, you see, what choice do I have?
+
+844
+00:50:57,257 --> 00:50:58,297
+Walton.
+
+845
+00:51:00,297 --> 00:51:03,415
+We are gonna get that fucking lollipop.
+
+846
+00:51:03,417 --> 00:51:05,057
+[WALTON SIGHS]
+
+847
+00:51:06,417 --> 00:51:07,977
+But you gotta believe me.
+
+848
+00:51:10,325 --> 00:51:11,537
+Can you do that?
+
+849
+00:51:15,122 --> 00:51:16,257
+Can you?
+
+850
+00:51:28,497 --> 00:51:29,692
+[BLEEPS]
+
+851
+00:51:32,977 --> 00:51:33,977
+[DOOR SLAMS]
+
+852
+00:51:43,537 --> 00:51:44,537
+[SLURPING]
+
+853
+00:51:49,857 --> 00:51:50,937
+[MOUSE CLICKS]
+
+854
+00:51:54,577 --> 00:51:57,495
+[TRIUMPHANT MUSIC]
+
+855
+00:51:57,497 --> 00:51:59,617
+Good to see you at your position, Cole.
+
+856
+00:52:01,234 --> 00:52:03,981
+Captain, you've come
+at just the right time.
+
+857
+00:52:04,977 --> 00:52:06,161
+I have?
+
+858
+00:52:06,164 --> 00:52:09,815
+I'm picking up a distress signal
+from the surface of Skillane IV.
+
+859
+00:52:09,817 --> 00:52:12,257
+Looks like a crashed shuttle.
+
+860
+00:52:14,257 --> 00:52:15,577
+What should we do?
+
+861
+00:52:23,537 --> 00:52:26,777
+Space Fleet never turns its
+back on those who need our help.
+
+862
+00:52:28,177 --> 00:52:30,975
+- Dudani, set a course for Skillane IV.
+- Aye aye, sir.
+
+863
+00:52:30,977 --> 00:52:33,735
+We'll send a search
+party. Packer, Tulaska...
+
+864
+00:52:33,737 --> 00:52:37,577
+Actually, Captain, I was thinking
+maybe you could take me alone.
+
+865
+00:52:38,697 --> 00:52:41,735
+As science officer, I
+need to learn the ropes,
+
+866
+00:52:41,737 --> 00:52:45,937
+and I could use your close attention.
+
+867
+00:52:51,857 --> 00:52:52,937
+Good.
+
+868
+00:52:56,257 --> 00:52:57,377
+Yes, good idea.
+
+869
+00:53:04,577 --> 00:53:06,217
+[NANETTE EXHALES]
+
+870
+00:53:17,097 --> 00:53:19,137
+[OMNICORDER WHIRS]
+
+871
+00:53:20,977 --> 00:53:22,255
+[DALY] Atmosphere's good.
+
+872
+00:53:22,257 --> 00:53:24,775
+[OMNICORDER CLICKING]
+
+873
+00:53:24,777 --> 00:53:25,937
+[DALY] Over there.
+
+874
+00:53:33,377 --> 00:53:36,897
+[DALY] From here, the shuttle
+appears to be deserted.
+
+875
+00:53:37,977 --> 00:53:41,177
+We'll scout the area, check
+for any life forms. Daly out.
+
+876
+00:53:45,977 --> 00:53:48,895
+Cole, we should head
+out this way. Cole...
+
+877
+00:53:48,897 --> 00:53:50,857
+[NANETTE] It's kind of
+hot here, don't you think?
+
+878
+00:53:51,577 --> 00:53:53,295
+Oh, my God.
+
+879
+00:53:53,297 --> 00:53:55,215
+[DALY] What are you doing, Cole?
+
+880
+00:53:55,217 --> 00:53:57,417
+[NANETTE] The water looks
+so inviting, doesn't it?
+
+881
+00:53:58,577 --> 00:54:00,817
+[DALY] What are you talking about?
+
+882
+00:54:02,617 --> 00:54:04,775
+[NANETTE] Come on, Robert.
+
+883
+00:54:04,777 --> 00:54:06,855
+- Ooh!
+- [SPLASHES]
+
+884
+00:54:06,857 --> 00:54:09,577
+Oh, the water is great. [LAUGHS]
+
+885
+00:54:10,377 --> 00:54:13,175
+Swimming is a leisure activity.
+
+886
+00:54:13,177 --> 00:54:15,455
+We're on Space Fleet duty.
+
+887
+00:54:15,457 --> 00:54:16,537
+You know what?
+
+888
+00:54:17,537 --> 00:54:21,775
+We could always say
+that I started drowning
+
+889
+00:54:21,777 --> 00:54:26,217
+and you had to come in and rescue me.
+
+890
+00:54:26,897 --> 00:54:27,857
+Yeah?
+
+891
+00:54:28,897 --> 00:54:32,095
+Oh, what about that? [LAUGHS]
+
+892
+00:54:32,097 --> 00:54:34,455
+Come on. Come on in.
+
+893
+00:54:34,457 --> 00:54:37,335
+[LAUGHS] I... Cole.
+
+894
+00:54:37,337 --> 00:54:40,377
+- [LAUGHS] Come on.
+- Cole.
+
+895
+00:54:41,657 --> 00:54:42,577
+Come on.
+
+896
+00:54:43,217 --> 00:54:46,697
+Come on in, my big captain.
+
+897
+00:54:49,337 --> 00:54:50,657
+OK.
+
+898
+00:54:53,257 --> 00:54:54,337
+[NANETTE] Come on.
+
+899
+00:54:56,017 --> 00:54:57,457
+Are you gonna take all day?
+
+900
+00:54:58,977 --> 00:55:00,257
+[DALY] OK.
+
+901
+00:55:01,057 --> 00:55:03,777
+- OK, I'm coming in.
+- [NANETTE GIGGLES]
+
+902
+00:55:08,457 --> 00:55:10,097
+[BEEPS]
+
+903
+00:55:12,017 --> 00:55:14,057
+OK, gotta patch it in.
+
+904
+00:55:15,417 --> 00:55:16,817
+[KEYBOARD BEEPS]
+
+905
+00:55:17,577 --> 00:55:19,375
+[DUDANI] It worked. I'm connected.
+
+906
+00:55:19,377 --> 00:55:22,215
+- Gonna access her PhotoCloud account.
+- You remember that password?
+
+907
+00:55:22,217 --> 00:55:26,215
+Uppercase Y998, lowercase
+gb7, uppercase TY ampersand 4.
+
+908
+00:55:26,217 --> 00:55:27,497
+Secure choice.
+
+909
+00:55:31,657 --> 00:55:34,257
+[SIGHS] There are thousands of
+images. This could take a while.
+
+910
+00:55:37,137 --> 00:55:38,175
+Boring life.
+
+911
+00:55:38,177 --> 00:55:39,937
+[SCROLLING]
+
+912
+00:55:47,577 --> 00:55:50,495
+[SCROLLING]
+
+913
+00:55:50,497 --> 00:55:52,497
+Goddamn.
+
+914
+00:55:53,257 --> 00:55:56,897
+That is... gymnastic physique.
+
+915
+00:55:57,897 --> 00:55:59,977
+It's nice... nice bedding.
+
+916
+00:56:00,617 --> 00:56:03,417
+[SCROLLING]
+
+917
+00:56:06,537 --> 00:56:09,095
+Oh. OK, should I keep scrolling?
+
+918
+00:56:09,097 --> 00:56:10,737
+Any of the last nine would do.
+
+919
+00:56:15,151 --> 00:56:16,297
+Ow!
+
+920
+00:56:17,017 --> 00:56:19,597
+- [LAUGHS] Thank you.
+- Pleasure.
+
+921
+00:56:19,600 --> 00:56:21,655
+- Um, are you heading out for the night?
+- Yes.
+
+922
+00:56:21,657 --> 00:56:23,305
+Because it's Christmas Eve and we've
+
+923
+00:56:23,308 --> 00:56:25,175
+got ten days off work to recover from it.
+
+924
+00:56:25,177 --> 00:56:26,375
+Go home.
+
+925
+00:56:26,377 --> 00:56:27,885
+I will. I just have to finish...
+
+926
+00:56:27,888 --> 00:56:29,895
+Yeah, whatever. Merry Christmas, loser.
+
+927
+00:56:29,897 --> 00:56:32,937
+[LAUGHS] Yeah. OK, Merry Christmas.
+
+928
+00:56:35,217 --> 00:56:36,575
+[CLEARS THROAT]
+
+929
+00:56:36,577 --> 00:56:38,137
+[PHONE VIBRATES]
+
+930
+00:56:40,417 --> 00:56:41,417
+[GASPS]
+
+931
+00:56:43,137 --> 00:56:44,137
+Oh, my God.
+
+932
+00:56:45,737 --> 00:56:47,417
+Elliott, you fucking asshole.
+
+933
+00:56:51,897 --> 00:56:53,217
+[PHONE VIBRATES]
+
+934
+00:56:59,657 --> 00:57:00,575
+[BEEPS]
+
+935
+00:57:00,577 --> 00:57:03,495
+[ROBOTIC VOICE] Nanette Cole,
+we've hacked your PhotoCloud account
+
+936
+00:57:03,497 --> 00:57:07,015
+and have control of the entire
+contents of your photo gallery.
+
+937
+00:57:07,017 --> 00:57:09,217
+Who is this? Um...
+
+938
+00:57:10,017 --> 00:57:11,655
+[STUTTERS] What do you want?
+
+939
+00:57:11,657 --> 00:57:14,935
+What we want is for you
+to do exactly as instructed
+
+940
+00:57:14,937 --> 00:57:16,335
+or your entire gallery
+
+941
+00:57:16,337 --> 00:57:18,577
+will be shared with your
+friends and your family.
+
+942
+00:57:19,537 --> 00:57:20,815
+And PornHub.
+
+943
+00:57:20,817 --> 00:57:22,175
+[NANETTE] OK, yeah.
+
+944
+00:57:22,177 --> 00:57:24,217
+[STUTTERING] I'll do
+what you want, anything.
+
+945
+00:57:25,137 --> 00:57:26,415
+I'll do anything.
+
+946
+00:57:26,417 --> 00:57:28,695
+Then listen carefully.
+We don't have much time.
+
+947
+00:57:28,697 --> 00:57:31,335
+Stand up, get your coat
+and follow our instructions.
+
+948
+00:57:31,337 --> 00:57:32,255
+[NANETTE] OK.
+
+949
+00:57:32,257 --> 00:57:34,375
+[GIGGLING]
+
+950
+00:57:34,377 --> 00:57:36,817
+- [DALY] Where are we going?
+- We're just swimming.
+
+951
+00:57:37,857 --> 00:57:39,375
+It's nice, right?
+
+952
+00:57:39,377 --> 00:57:41,215
+- [DALY] Yes.
+- Yeah. [LAUGHS]
+
+953
+00:57:41,217 --> 00:57:43,775
+We should probably head back.
+
+954
+00:57:43,777 --> 00:57:46,975
+Help! [SCREAMS] Something
+grabbed me, I think.
+
+955
+00:57:46,977 --> 00:57:50,015
+No, it didn't. I don't think
+anything did. I'm sorry.
+
+956
+00:57:50,017 --> 00:57:53,137
+I think I imagined
+it. [LAUGHS] So stupid.
+
+957
+00:57:55,617 --> 00:57:56,897
+[DALY] That's funny...
+
+958
+00:58:05,697 --> 00:58:09,017
+- That's funny. [LAUGHS]
+- [NANETTE] Yeah, it is funny. It's funny.
+
+959
+00:58:11,017 --> 00:58:12,537
+[BOTH LAUGH]
+
+960
+00:58:13,737 --> 00:58:15,215
+[LAUGHS]
+
+961
+00:58:15,217 --> 00:58:16,217
+Easy, Cole.
+
+962
+00:58:21,617 --> 00:58:24,057
+[PANTING]
+
+963
+00:58:27,577 --> 00:58:30,175
+- All right, I'm in position.
+- OK, we're gonna hang up now.
+
+964
+00:58:30,177 --> 00:58:32,895
+Make the phone call. Be sure to
+complete the rest of your mission.
+
+965
+00:58:32,897 --> 00:58:34,257
+- I will.
+- You better.
+
+966
+00:58:35,017 --> 00:58:37,897
+- [CALL ENDS]
+- [DUDANI] OK, I'll send it back down.
+
+967
+00:58:42,057 --> 00:58:44,857
+[NANETTE LAUGHS]
+
+968
+00:58:52,297 --> 00:58:55,057
+Oh! Hi. [GIGGLES]
+
+969
+00:58:57,737 --> 00:58:59,417
+[NANETTE] This is fucking crazy.
+
+970
+00:59:01,417 --> 00:59:03,375
+[LINE RINGING]
+
+971
+00:59:03,377 --> 00:59:04,615
+Fenzi's.
+
+972
+00:59:04,617 --> 00:59:06,735
+[WHISPERING] Yes, I'd
+like to order a pizza.
+
+973
+00:59:06,737 --> 00:59:07,737
+Sure. What do you want?
+
+974
+00:59:17,857 --> 00:59:19,497
+[DOORBELL RINGS]
+
+975
+00:59:23,617 --> 00:59:25,097
+[OMNICORDER RINGS]
+
+976
+00:59:29,817 --> 00:59:30,777
+Oop.
+
+977
+00:59:31,497 --> 00:59:33,057
+I guess you'd better get that.
+
+978
+00:59:34,377 --> 00:59:36,215
+See who...
+
+979
+00:59:36,217 --> 00:59:37,695
+[OMNICORDER RINGS]
+
+980
+00:59:37,697 --> 00:59:39,015
+- Hold on.
+- Yeah.
+
+981
+00:59:39,017 --> 00:59:40,735
+[DOORBELL RINGING]
+
+982
+00:59:40,737 --> 00:59:42,137
+[KNOCK ON DOOR]
+
+983
+00:59:49,577 --> 00:59:52,057
+- It's the door.
+- [NANETTE] Oh, OK.
+
+984
+00:59:52,937 --> 00:59:54,055
+[RINGING]
+
+985
+00:59:54,057 --> 00:59:56,337
+- Pause game.
+- [WHIRRING]
+
+986
+00:59:59,697 --> 01:00:01,017
+[KNOCK ON DOOR]
+
+987
+01:00:02,097 --> 01:00:03,377
+[DOORBELL RINGS]
+
+988
+01:00:07,937 --> 01:00:08,855
+[OMNICORDER BEEPS]
+
+989
+01:00:08,857 --> 01:00:11,377
+- Dudani, pick me up.
+- You got it. Stand by.
+
+990
+01:00:12,537 --> 01:00:14,457
+[DOORBELL RINGS]
+
+991
+01:00:15,417 --> 01:00:17,737
+- [DALY] Coming.
+- [NANETTE GASPS]
+
+992
+01:00:26,257 --> 01:00:29,017
+[PANTING]
+
+993
+01:00:33,577 --> 01:00:36,015
+- Hello?
+- Uh, pizza.
+
+994
+01:00:36,017 --> 01:00:37,097
+I didn't order a pizza.
+
+995
+01:00:37,737 --> 01:00:40,695
+OK, look, someone did, OK? So
+do you want it or not? Because...
+
+996
+01:00:40,697 --> 01:00:42,937
+- I can't take it back.
+- [BAG UNZIPS]
+
+997
+01:00:47,817 --> 01:00:49,697
+[WHISPERS] What the hell am I doing?
+
+998
+01:00:54,017 --> 01:00:56,337
+- [DALY] All right!
+- [DOOR BUZZES]
+
+999
+01:00:58,577 --> 01:00:59,857
+[PANTING] OK.
+
+1000
+01:01:01,217 --> 01:01:04,377
+- That's the signal. She's got the DNA.
+- [JACKET ZIPPING]
+
+1001
+01:01:05,177 --> 01:01:07,815
+All of it. Tommy too.
+
+1002
+01:01:07,817 --> 01:01:08,697
+[EXHALES]
+
+1003
+01:01:09,497 --> 01:01:11,650
+Packer, we ready to fly?
+
+1004
+01:01:11,653 --> 01:01:12,777
+Uh-huh.
+
+1005
+01:01:15,337 --> 01:01:16,255
+Well?
+
+1006
+01:01:16,257 --> 01:01:19,895
+You're supposed to say something
+like "engage" or "increase thrust."
+
+1007
+01:01:19,897 --> 01:01:22,017
+- Just fucking go.
+- [ENGINES REVVING]
+
+1008
+01:01:27,297 --> 01:01:30,417
+There you go. So I got
+it here in under ten.
+
+1009
+01:01:31,257 --> 01:01:33,455
+There's supposed to be 30 in it for me.
+
+1010
+01:01:33,457 --> 01:01:36,937
+Yeah. What's happening?
+The door is closing. Hello?
+
+1011
+01:01:38,017 --> 01:01:40,095
+Hello? Hello?
+
+1012
+01:01:40,097 --> 01:01:41,615
+[PANTING] Shit...
+
+1013
+01:01:41,617 --> 01:01:42,657
+Come on, man.
+
+1014
+01:01:44,737 --> 01:01:47,177
+Hello? Come on, man, you promised.
+
+1015
+01:01:50,137 --> 01:01:51,617
+[NUMBER PAD BEEPS]
+
+1016
+01:01:53,297 --> 01:01:54,375
+[SCOFFS]
+
+1017
+01:01:54,377 --> 01:01:56,937
+- Nice. Nice. Merry Christmas, asshole!
+- [THUD]
+
+1018
+01:01:58,937 --> 01:02:00,017
+[SCOFFS]
+
+1019
+01:02:00,617 --> 01:02:02,295
+[MUTTERING]
+
+1020
+01:02:02,297 --> 01:02:05,177
+[PANTING]
+
+1021
+01:02:05,977 --> 01:02:07,977
+[GASPS]
+
+1022
+01:02:38,657 --> 01:02:39,897
+Resume game.
+
+1023
+01:02:52,817 --> 01:02:54,417
+Resume game.
+
+1024
+01:03:01,097 --> 01:03:04,497
+Can't we go any faster? That dud
+disk isn't gonna fool him forever.
+
+1025
+01:03:05,137 --> 01:03:06,806
+The update is gonna complete before
+
+1026
+01:03:06,809 --> 01:03:08,615
+long and that means bye-bye, wormhole.
+
+1027
+01:03:08,617 --> 01:03:11,577
+The only quicker route is
+through that asteroid belt there.
+
+1028
+01:03:12,102 --> 01:03:14,140
+- Let's go that way.
+- No, it's way too dense.
+
+1029
+01:03:14,143 --> 01:03:16,775
+If the ship broke up we wouldn't
+die, we'd just be left in space.
+
+1030
+01:03:16,777 --> 01:03:18,583
+Until Daly works out what's happening.
+
+1031
+01:03:18,586 --> 01:03:20,575
+Then he'll find us and he'll fuck us over.
+
+1032
+01:03:20,577 --> 01:03:22,617
+[CLATTERING]
+
+1033
+01:03:35,657 --> 01:03:38,657
+- Resume game.
+- [DEVICE BEEPS]
+
+1034
+01:03:40,257 --> 01:03:41,977
+Lieutenant Cole, we should head...
+
+1035
+01:03:43,857 --> 01:03:45,257
+Cole?
+
+1036
+01:03:48,297 --> 01:03:50,575
+Daly to bridge. What's going on?
+
+1037
+01:03:50,577 --> 01:03:52,815
+- Shit. He has a backup disk.
+- Come in, bridge.
+
+1038
+01:03:52,817 --> 01:03:55,137
+No, don't answer him.
+
+1039
+01:03:56,057 --> 01:03:57,057
+Dudani?
+
+1040
+01:04:03,497 --> 01:04:04,737
+God damn it.
+
+1041
+01:04:06,017 --> 01:04:08,975
+The wormhole, it's decreasing in size.
+
+1042
+01:04:08,977 --> 01:04:10,895
+Upload must be in the last few percent.
+
+1043
+01:04:10,897 --> 01:04:13,777
+Damn it, Packer, we are gonna
+have to go through the belt.
+
+1044
+01:04:14,417 --> 01:04:16,497
+Do you think that you can do that?
+
+1045
+01:04:17,537 --> 01:04:19,537
+- Think I can try.
+- OK.
+
+1046
+01:04:20,297 --> 01:04:21,537
+[ENGINE REVVING]
+
+1047
+01:04:45,137 --> 01:04:48,655
+- Ship's computer on.
+- Computer, where's the USS Callister?
+
+1048
+01:04:48,657 --> 01:04:51,817
+USS Callister is on course.
+
+1049
+01:04:52,417 --> 01:04:54,697
+- On course for where?
+- The wormhole.
+
+1050
+01:04:55,897 --> 01:04:58,737
+- What wormhole?
+- The update vortex.
+
+1051
+01:05:01,537 --> 01:05:03,737
+Sons of bitches!
+
+1052
+01:05:07,937 --> 01:05:09,697
+- Prepare for takeoff.
+- [WHIRRING]
+
+1053
+01:05:24,904 --> 01:05:26,403
+I've got a heat signature.
+
+1054
+01:05:26,406 --> 01:05:28,322
+Looks like a shuttle took
+off from Skillane IV.
+
+1055
+01:05:28,325 --> 01:05:29,599
+Oh, God, it's Daly.
+
+1056
+01:05:31,057 --> 01:05:33,057
+[ALL GROAN]
+
+1057
+01:05:37,297 --> 01:05:38,895
+Shields at 86%.
+
+1058
+01:05:38,897 --> 01:05:40,097
+[BANGING]
+
+1059
+01:05:41,137 --> 01:05:43,137
+[DUDANI] We're taking a beating here!
+
+1060
+01:05:45,697 --> 01:05:47,335
+[TULASKA] Incoming transmission.
+
+1061
+01:05:47,337 --> 01:05:50,335
+[DALY] Hello? Loyal
+trusty crew, come in.
+
+1062
+01:05:50,337 --> 01:05:52,057
+I know you can hear me.
+
+1063
+01:05:53,217 --> 01:05:55,535
+Whatever it is you think
+you're going to do won't work,
+
+1064
+01:05:55,537 --> 01:05:56,815
+but it is going to cost you!
+
+1065
+01:05:56,817 --> 01:05:58,918
+- [NANETTE] Let's go faster.
+- Already at maximum.
+
+1066
+01:05:58,921 --> 01:06:00,546
+Daly can't touch us unless he makes it
+
+1067
+01:06:00,549 --> 01:06:02,255
+on board, and that's shuttle's a jalopy.
+
+1068
+01:06:02,257 --> 01:06:04,257
+- He won't catch us in time.
+- I hope you're right.
+
+1069
+01:06:08,337 --> 01:06:09,537
+Shields 58%.
+
+1070
+01:06:13,977 --> 01:06:14,977
+[CRASHING]
+
+1071
+01:06:17,497 --> 01:06:18,917
+If you thought what happened to you
+
+1072
+01:06:18,920 --> 01:06:20,654
+in the past was bad, that was nothing!
+
+1073
+01:06:20,657 --> 01:06:25,255
+What I'm going to do to you is
+going to be goddamn fucking biblical!
+
+1074
+01:06:25,257 --> 01:06:28,295
+I'm literally going to
+turn your insides out.
+
+1075
+01:06:28,297 --> 01:06:33,775
+But I'll keep you alive
+in tiny little jars
+
+1076
+01:06:33,777 --> 01:06:35,655
+and there you'll stay
+until I'm bored of you...
+
+1077
+01:06:35,657 --> 01:06:38,095
+- Why are we listening to this?
+- Yes, fuck him!
+
+1078
+01:06:38,097 --> 01:06:39,175
+[BEEPS]
+
+1079
+01:06:39,177 --> 01:06:41,857
+We're at the edge of the belt.
+I think we're gonna make it.
+
+1080
+01:06:45,057 --> 01:06:49,897
+- [CRASHING]
+- [ALARM SOUNDS]
+
+1081
+01:06:52,817 --> 01:06:54,937
+[POWER DIES]
+
+1082
+01:06:56,097 --> 01:06:59,495
+- [GASPS] What was that?
+- [DUDANI] Primary drive.
+
+1083
+01:06:59,497 --> 01:07:02,537
+I've lost all thrust.
+Engines not responding.
+
+1084
+01:07:04,777 --> 01:07:06,257
+We're drifting here.
+
+1085
+01:07:09,617 --> 01:07:13,497
+- USS Callister has lost engine power.
+- [LAUGHS]
+
+1086
+01:07:17,137 --> 01:07:20,417
+I'm coming to get you! Hello! [LAUGHS]
+
+1087
+01:07:21,857 --> 01:07:24,655
+[NANETTE] Is there any way
+that we can fix the engines?
+
+1088
+01:07:24,657 --> 01:07:29,255
+That's only feasible manually,
+by climbing inside the jet fader.
+
+1089
+01:07:29,257 --> 01:07:30,335
+[NANETTE] So...?
+
+1090
+01:07:30,337 --> 01:07:32,495
+So you'd burn to a crisp
+when the jet came on.
+
+1091
+01:07:32,497 --> 01:07:37,937
+- [DUDANI] We'd burn without dying.
+- So one of us needs to go. OK.
+
+1092
+01:07:38,697 --> 01:07:40,895
+[WALTON OVER SPEAKER]
+One of us already has.
+
+1093
+01:07:40,897 --> 01:07:41,975
+Walton?
+
+1094
+01:07:41,977 --> 01:07:43,935
+I'm pretty sure I can fix this.
+
+1095
+01:07:43,937 --> 01:07:47,297
+Um, uh... Walton, are
+you sure about this?
+
+1096
+01:07:48,057 --> 01:07:49,657
+I'm sure. [ECHOING]
+
+1097
+01:07:50,617 --> 01:07:53,655
+Tulaska, can you patch
+me through to Daly?
+
+1098
+01:07:53,657 --> 01:07:55,177
+[TULASKA] Patching through.
+
+1099
+01:07:55,897 --> 01:07:58,457
+[WALTON PANTING] Hey,
+Daly, can you hear me?
+
+1100
+01:07:59,137 --> 01:08:02,175
+- Walton?
+- Robert? Hey.
+
+1101
+01:08:02,177 --> 01:08:04,455
+- Walton, you're going to pay for this.
+- Robert, listen.
+
+1102
+01:08:04,457 --> 01:08:06,455
+- I'm going to bring Tommy back in.
+- Hey, Robert...
+
+1103
+01:08:06,457 --> 01:08:10,335
+God so help me, you are going
+to regret all of this so hard!
+
+1104
+01:08:10,337 --> 01:08:12,337
+Bob, I wanna talk to you here!
+
+1105
+01:08:13,497 --> 01:08:15,137
+I was thinking I should say...
+
+1106
+01:08:17,497 --> 01:08:18,497
+sorry.
+
+1107
+01:08:22,256 --> 01:08:23,256
+Go on.
+
+1108
+01:08:26,057 --> 01:08:29,497
+You created Infinity.
+You're a fucking genius.
+
+1109
+01:08:30,817 --> 01:08:32,615
+I exploited that.
+
+1110
+01:08:32,617 --> 01:08:35,855
+I treated you like a golden goose
+and I got fat on the profits,
+
+1111
+01:08:35,857 --> 01:08:37,375
+figuratively speaking.
+
+1112
+01:08:37,377 --> 01:08:38,937
+[EXHALES]
+
+1113
+01:08:39,577 --> 01:08:45,055
+And I was thinking I should have
+appreciated you more, you know?
+
+1114
+01:08:45,057 --> 01:08:46,857
+I should have treated you better.
+
+1115
+01:08:47,857 --> 01:08:51,377
+Yeah, yeah, I was thinking
+I should say all that.
+
+1116
+01:08:52,377 --> 01:08:54,296
+[WALTON EXHALES]
+
+1117
+01:08:55,977 --> 01:09:00,777
+But you threw my son out of an
+airlock, so fuck you to death.
+
+1118
+01:09:01,657 --> 01:09:03,895
+[SCREAMS]
+
+1119
+01:09:03,897 --> 01:09:05,857
+[SCREAMS ECHO]
+
+1120
+01:09:07,977 --> 01:09:08,977
+Walton?
+
+1121
+01:09:09,617 --> 01:09:10,817
+Walton?
+
+1122
+01:09:13,777 --> 01:09:17,136
+- [POWER BOOTS UP]
+- [ENGINE WHIRRING]
+
+1123
+01:09:18,737 --> 01:09:20,097
+We've got power back.
+
+1124
+01:09:28,057 --> 01:09:30,575
+- Faster!
+- [COMPUTER] Speed already at maximum.
+
+1125
+01:09:30,577 --> 01:09:32,697
+I don't care, whatever, just catch them!
+
+1126
+01:09:35,176 --> 01:09:36,294
+[ALARM BEEPS]
+
+1127
+01:09:36,296 --> 01:09:39,375
+Wormhole almost closed.
+Daly's gaining on us.
+
+1128
+01:09:39,377 --> 01:09:42,615
+- Keep her steady. Keep steady.
+- I'm trying.
+
+1129
+01:09:42,617 --> 01:09:44,097
+Come on, come on.
+
+1130
+01:09:45,977 --> 01:09:47,977
+I hope we are going to die.
+
+1131
+01:10:09,377 --> 01:10:10,497
+Goddamn it!
+
+1132
+01:10:12,137 --> 01:10:14,537
+Damn it! Fuck!
+
+1133
+01:10:16,497 --> 01:10:18,697
+[ALL SCREAM]
+
+1134
+01:10:25,097 --> 01:10:28,137
+[SCREAMING CONTINUING]
+
+1135
+01:10:43,457 --> 01:10:44,857
+[ELECTRONICS WHIRRING]
+
+1136
+01:10:48,097 --> 01:10:49,257
+What happened?
+
+1137
+01:10:51,377 --> 01:10:52,935
+The mod's gone.
+
+1138
+01:10:52,937 --> 01:10:55,695
+Daly's Space Fleet mod has been
+stripped away by the firewall.
+
+1139
+01:10:55,697 --> 01:10:59,535
+- OK, so... this is good.
+- [PACKER] We're still alive.
+
+1140
+01:10:59,537 --> 01:11:01,617
+[DUDANI] Yeah, it only
+erased the Space Fleet mod.
+
+1141
+01:11:03,017 --> 01:11:05,455
+[NANETTE] We're not on
+Daly's computer anymore.
+
+1142
+01:11:05,457 --> 01:11:08,815
+- We're in the cloud.
+- [TULASKA] Where is Daly?
+
+1143
+01:11:08,817 --> 01:11:12,417
+Firewall's deleted his rogue game
+code, and his controls were disabled.
+
+1144
+01:11:13,217 --> 01:11:15,777
+- You mean...?
+- He's stuck there.
+
+1145
+01:11:18,137 --> 01:11:19,495
+[LAUGHS]
+
+1146
+01:11:19,497 --> 01:11:22,615
+[COMPUTER] Update
+complete. Wormhole closed.
+
+1147
+01:11:22,617 --> 01:11:24,895
+- [BEEPING]
+- [CLICKING]
+
+1148
+01:11:24,897 --> 01:11:26,777
+- Controls are disabled.
+- No.
+
+1149
+01:11:28,177 --> 01:11:30,615
+[DALY] No. No, no, no!
+
+1150
+01:11:30,617 --> 01:11:31,655
+[DOORS OPEN]
+
+1151
+01:11:31,657 --> 01:11:33,215
+- [LOWRY] Assholes!
+- [VALDACK] Hey!
+
+1152
+01:11:33,217 --> 01:11:35,975
+- [VALDACK] Yeah! What's up?
+- The brig unlocked itself.
+
+1153
+01:11:35,977 --> 01:11:38,335
+My Valdack outfit turned into this.
+
+1154
+01:11:38,337 --> 01:11:40,375
+More to the point, I'm
+not a beetle thing anymore.
+
+1155
+01:11:40,377 --> 01:11:41,735
+I've got my body back.
+
+1156
+01:11:41,737 --> 01:11:44,537
+I've got my whole body back.
+I'm guessing we all have.
+
+1157
+01:11:46,417 --> 01:11:47,855
+So what do we do now?
+
+1158
+01:11:47,857 --> 01:11:51,055
+We've got an infinite procedurally
+generated universe at our disposal.
+
+1159
+01:11:51,057 --> 01:11:52,537
+We can go anywhere.
+
+1160
+01:11:54,297 --> 01:11:56,297
+Holy mackerel.
+
+1161
+01:12:10,977 --> 01:12:13,255
+- [ALARM]
+- [COMPUTER] Rogue universe detected.
+
+1162
+01:12:13,257 --> 01:12:15,375
+Deletion in progress.
+Deletion in progress.
+
+1163
+01:12:15,377 --> 01:12:17,335
+- No, undelete.
+- Deletion in progress.
+
+1164
+01:12:17,337 --> 01:12:19,735
+- Undelete. Un...
+- Rogue universe detected.
+
+1165
+01:12:19,737 --> 01:12:21,375
+- Deletion in progress.
+- Exit game.
+
+1166
+01:12:21,377 --> 01:12:24,895
+- Deletion in progress.
+- Rogue universe detected.
+
+1167
+01:12:24,897 --> 01:12:27,935
+- Exit game. Exit game!
+- [ALARM BEEPING]
+
+1168
+01:12:27,937 --> 01:12:30,335
+[POWER FIZZLES]
+
+1169
+01:12:30,337 --> 01:12:33,135
+Exit fucking game!
+
+1170
+01:12:33,137 --> 01:12:34,937
+Exit fucking game!
+
+1171
+01:12:35,577 --> 01:12:37,777
+Exit fucking game!
+
+1172
+01:12:39,217 --> 01:12:41,952
+Exit fucking game! Exit fucking game!
+
+1173
+01:12:44,217 --> 01:12:46,937
+[DEVICE WHIRRING]
+
+1174
+01:12:59,497 --> 01:13:03,497
+["SILENT NIGHT" PLAYING]
+
+1175
+01:13:33,457 --> 01:13:35,177
+[TULASKA] Incoming transmission.
+
+1176
+01:13:36,577 --> 01:13:39,455
+- It says Gamer691.
+- That's a player tag.
+
+1177
+01:13:39,457 --> 01:13:41,175
+Another ship, another player.
+
+1178
+01:13:41,177 --> 01:13:43,695
+We're online. Um...
+
+1179
+01:13:43,697 --> 01:13:46,057
+- Hey, patch 'em through.
+- [BEEPS]
+
+1180
+01:13:47,897 --> 01:13:49,815
+- Um, hello.
+- [GAMER691] Hey there.
+
+1181
+01:13:49,817 --> 01:13:53,295
+Uh, this is the crew of
+the USS Callister. [LAUGHS]
+
+1182
+01:13:53,297 --> 01:13:56,495
+Oh, man, are we glad to hear from...
+
+1183
+01:13:56,497 --> 01:13:58,116
+Yeah, Merry Christmas. So are we gonna
+
+1184
+01:13:58,119 --> 01:13:59,735
+blow each other or are we gonna trade?
+
+1185
+01:13:59,737 --> 01:14:02,615
+Oh... Hmm.
+
+1186
+01:14:02,617 --> 01:14:05,495
+Hello. Do you have
+anything to trade at all?
+
+1187
+01:14:05,497 --> 01:14:08,535
+- [NANETTE] No, uh...
+- [SIGHS] So why did you respond?
+
+1188
+01:14:08,537 --> 01:14:12,535
+OK, just get the hell out of my
+quadrant or I'll blast you to shit.
+
+1189
+01:14:12,537 --> 01:14:15,095
+- You got ten seconds. Ten...
+- Oh, well, do... do try.
+
+1190
+01:14:15,097 --> 01:14:17,935
+We'll photon-bolt you up the
+perineum, you stupid little boy.
+
+1191
+01:14:17,937 --> 01:14:19,495
+- Scary. Nine.
+- Come on, then.
+
+1192
+01:14:19,497 --> 01:14:21,455
+- Yes, thank you, Shania. Um...
+- Eight.
+
+1193
+01:14:21,457 --> 01:14:23,535
+- Nate?
+- Yes, Captain?
+
+1194
+01:14:23,537 --> 01:14:25,055
+Stick us in hyperwarp and let's...
+
+1195
+01:14:25,057 --> 01:14:26,615
+- Six.
+- Fuck off somewhere.
+
+1196
+01:14:26,617 --> 01:14:28,215
+- Five.
+- [PACKER] Aye aye, Captain.
+
+1197
+01:14:28,217 --> 01:14:29,895
+- Really, Nanette is fine.
+- Four.
+
+1198
+01:14:29,897 --> 01:14:32,617
+- Aye aye, Nanette.
+- Three.
+
+1199
+01:14:33,377 --> 01:14:36,615
+Two. One!
+
+1200
+01:14:36,617 --> 01:14:40,337
+Uh-huh. You'd better run.
+King of space right here.
+
+1201
+01:14:41,417 --> 01:14:42,457
+[SIGHS]
+
+1202
+01:14:42,884 --> 01:14:44,724
+King of space.
+
+1203
+01:14:45,111 --> 01:14:50,200
+- <font color="#D81D1D">Synced and corrected by VitoSilans</font> -
+-- <font color="#138CE9">www.Addic7ed.com</font> --
+

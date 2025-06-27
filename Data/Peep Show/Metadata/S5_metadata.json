@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Burgling",
+        "released": "2008-05-02",
+        "rating": "8.0",
+        "imdb_id": "tt1221733",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Spin War",
+        "released": "2008-05-09",
+        "rating": "8.3",
+        "imdb_id": "tt1231048",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Jeremy's Broke",
+        "released": "2008-05-16",
+        "rating": "7.7",
+        "imdb_id": "tt1234115",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Jeremy's Mummy",
+        "released": "2008-05-23",
+        "rating": "8.1",
+        "imdb_id": "tt1234116",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Jeremy's Manager",
+        "released": "2008-05-30",
+        "rating": "8.0",
+        "imdb_id": "tt1234117",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Mark's Women",
+        "released": "2008-06-06",
+        "rating": "N/A",
+        "imdb_id": "tt1234118",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

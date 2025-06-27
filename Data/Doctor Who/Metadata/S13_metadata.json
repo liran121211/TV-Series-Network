@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Flux: Chapter One - The Halloween Apocalypse",
+        "released": "2021-10-31",
+        "rating": "6.7",
+        "imdb_id": "tt13456370",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Flux: Chapter Two - War of the Sontarans",
+        "released": "2021-11-07",
+        "rating": "7.0",
+        "imdb_id": "tt13464078",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Flux: Chapter Three - Once, Upon Time",
+        "released": "2021-11-14",
+        "rating": "5.9",
+        "imdb_id": "tt13469788",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Flux: Chapter Four - Village of the Angels",
+        "released": "2021-11-21",
+        "rating": "7.7",
+        "imdb_id": "tt13469792",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Flux: Chapter Five - Survivors of the Flux",
+        "released": "2021-11-28",
+        "rating": "6.1",
+        "imdb_id": "tt13469800",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Flux: Chapter Six - The Vanquishers",
+        "released": "2021-12-05",
+        "rating": "5.3",
+        "imdb_id": "tt13469804",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

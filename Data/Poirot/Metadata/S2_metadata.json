@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Peril at End House",
+        "released": "1990-01-07",
+        "rating": "8.0",
+        "imdb_id": "tt0182361",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S12\\Agatha_Christie's_Poirot_(David_Suchet)_S12E01_1080p_H.264_(moviesbyrizzo)S12E1.zip"
+    },
+    "2": {
+        "title": "The Veiled Lady",
+        "released": "1990-01-14",
+        "rating": "7.4",
+        "imdb_id": "tt0676191",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Lost Mine",
+        "released": "1990-01-21",
+        "rating": "7.3",
+        "imdb_id": "tt0676179",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Cornish Mystery",
+        "released": "1990-01-28",
+        "rating": "7.5",
+        "imdb_id": "tt0676170",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Disappearance of Mr. Davenheim",
+        "released": "1990-02-04",
+        "rating": "7.8",
+        "imdb_id": "tt0676171",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Double Sin",
+        "released": "1990-02-11",
+        "rating": "7.5",
+        "imdb_id": "tt0676146",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Adventure of the Cheap Flat",
+        "released": "1990-02-18",
+        "rating": "7.4",
+        "imdb_id": "tt0676163",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Kidnapped Prime Minister",
+        "released": "1990-02-25",
+        "rating": "7.4",
+        "imdb_id": "tt0676177",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Adventure of the Western Star",
+        "released": "1990-03-04",
+        "rating": "7.2",
+        "imdb_id": "tt0676166",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

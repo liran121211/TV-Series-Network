@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Magus",
+        "released": "2012-02-07",
+        "rating": "N/A",
+        "imdb_id": "tt2008374",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "A Better Man",
+        "released": "2012-02-21",
+        "rating": "N/A",
+        "imdb_id": "tt2055478",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Peaches",
+        "released": "2012-02-28",
+        "rating": "N/A",
+        "imdb_id": "tt2128311",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Experiment",
+        "released": "2012-03-13",
+        "rating": "N/A",
+        "imdb_id": "tt2128312",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Row, Row, Row Your Boat",
+        "released": "2012-03-20",
+        "rating": "N/A",
+        "imdb_id": "tt2209823",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "1": {
+        "title": "The Trip: Part 1",
+        "released": "1992-08-12",
+        "rating": "8.0",
+        "imdb_id": "tt0697799",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S4\\Seinfeld.S04E01.The.Trip.Part1.DVDRip.x264-DiGGS4E1.zip"
+    },
+    "2": {
+        "title": "The Trip: Part 2",
+        "released": "1992-08-19",
+        "rating": "8.3",
+        "imdb_id": "tt0697800",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S4\\Seinfeld.S04E02.The.Trip.Part2.DVDRip.x264-DiGGS4E2.zip"
+    },
+    "3": {
+        "title": "The Pitch",
+        "released": "1992-09-16",
+        "rating": "8.6",
+        "imdb_id": "tt0697755",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S4\\Seinfeld.S04E03-4.The.Pitch.and.The.Ticket.DVDRip.x264-DiGGS4E3.zip"
+    },
+    "4": {
+        "title": "The Ticket",
+        "released": "1992-09-16",
+        "rating": "8.2",
+        "imdb_id": "tt0697798",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Wallet",
+        "released": "1992-09-23",
+        "rating": "7.9",
+        "imdb_id": "tt0697808",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S4\\Seinfeld.S04E05.The.Wallet.DVDRip.x264-DiGGS4E5.zip"
+    },
+    "6": {
+        "title": "The Watch",
+        "released": "1992-09-30",
+        "rating": "8.0",
+        "imdb_id": "tt0697809",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S4\\Seinfeld.S04E06.The.Watch.DVDRip.x264-DiGGS4E6.zip"
+    },
+    "7": {
+        "title": "The Bubble Boy",
+        "released": "1992-10-07",
+        "rating": "8.7",
+        "imdb_id": "tt0697662",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S4\\Seinfeld.S04E07.The.Bubble.Boy.DVDRip.x264-DiGGS4E7.zip"
+    },
+    "8": {
+        "title": "The Cheever Letters",
+        "released": "1992-10-28",
+        "rating": "8.5",
+        "imdb_id": "tt0697673",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S4\\Seinfeld.S04E08.The.Cheever.Letters.DVDRip.x264-DiGGS4E8.zip"
+    },
+    "9": {
+        "title": "The Opera",
+        "released": "1992-11-04",
+        "rating": "8.2",
+        "imdb_id": "tt0697743",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S4\\Seinfeld.S04E09.The.Opera.DVDRip.x264-DiGGS4E9.zip"
+    },
+    "10": {
+        "title": "The Virgin",
+        "released": "1992-11-11",
+        "rating": "8.1",
+        "imdb_id": "tt0697804",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Contest",
+        "released": "1992-11-18",
+        "rating": "9.5",
+        "imdb_id": "tt0697679",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Airport",
+        "released": "1992-11-25",
+        "rating": "8.9",
+        "imdb_id": "tt0697647",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Pick",
+        "released": "1992-12-16",
+        "rating": "8.5",
+        "imdb_id": "tt0697752",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Movie",
+        "released": "1993-01-06",
+        "rating": "8.1",
+        "imdb_id": "tt0697735",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Visa",
+        "released": "1993-01-27",
+        "rating": "8.0",
+        "imdb_id": "tt0697805",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Shoes",
+        "released": "1993-02-04",
+        "rating": "8.1",
+        "imdb_id": "tt0697775",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Outing",
+        "released": "1993-02-11",
+        "rating": "9.4",
+        "imdb_id": "tt0697745",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Old Man",
+        "released": "1993-02-18",
+        "rating": "8.0",
+        "imdb_id": "tt0697742",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Implant",
+        "released": "1993-02-25",
+        "rating": "8.6",
+        "imdb_id": "tt0697711",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Junior Mint",
+        "released": "1993-03-17",
+        "rating": "8.7",
+        "imdb_id": "tt0697715",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Smelly Car",
+        "released": "1993-04-15",
+        "rating": "8.3",
+        "imdb_id": "tt0697778",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Handicap Spot",
+        "released": "1993-05-13",
+        "rating": "8.2",
+        "imdb_id": "tt0697708",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "The Pilot",
+        "released": "1993-05-20",
+        "rating": "8.6",
+        "imdb_id": "tt0697754",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

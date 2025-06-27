@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Maddy",
+        "released": "2014-04-14",
+        "rating": "N/A",
+        "imdb_id": "tt3660148",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S05E01.Maddy.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "2": {
+        "title": "Autumn",
+        "released": "2014-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt3662436",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S05E02.Autumn.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "4": {
+        "title": "Arianna",
+        "released": "2014-05-05",
+        "rating": "N/A",
+        "imdb_id": "tt3689788",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S05E04.Arianna.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "5": {
+        "title": "Summer",
+        "released": "2014-05-12",
+        "rating": "N/A",
+        "imdb_id": "tt3288950",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S05E05.Summer.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "6": {
+        "title": "Karley",
+        "released": "2014-05-19",
+        "rating": "N/A",
+        "imdb_id": "tt3711120",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S05E06.Karley.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "7": {
+        "title": "Aleah",
+        "released": "2014-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt3728992",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S05E07.Aleah.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "8": {
+        "title": "Jazmin",
+        "released": "2014-06-02",
+        "rating": "N/A",
+        "imdb_id": "tt3744192",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S05E08.Jazmin.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "9": {
+        "title": "Jordan",
+        "released": "2014-06-09",
+        "rating": "N/A",
+        "imdb_id": "tt3756570",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S05E09.Jordan.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "11": {
+        "title": "Courtney",
+        "released": "2014-06-16",
+        "rating": "N/A",
+        "imdb_id": "tt3764058",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S05E11.Courtney.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "12": {
+        "title": "Savannah",
+        "released": "2014-06-16",
+        "rating": "N/A",
+        "imdb_id": "tt3764060",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\16 and Pregnant\\Subtitles\\S1\\16.and.Pregnant.S05E12.Savannah.WEBRip.Amazon.en-us[sdh].zip"
+    },
+    "13": {
+        "title": "Life After Labor Finale Special 5",
+        "released": "2014-07-01",
+        "rating": "N/A",
+        "imdb_id": "tt3810062",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Where Are They Now? 5",
+        "released": "2015-01-04",
+        "rating": "N/A",
+        "imdb_id": "tt4317974",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

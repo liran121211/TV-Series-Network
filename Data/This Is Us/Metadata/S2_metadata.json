@@ -1,0 +1,146 @@
+{
+    "1": {
+        "title": "A Father's Advice",
+        "released": "2017-09-26",
+        "rating": "8.7",
+        "imdb_id": "tt6439846",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S2\\This.Is.Us.S02E01.REAL.PROPER.HDTV.x264-SVAS2E1.zip"
+    },
+    "2": {
+        "title": "A Manny-Splendored Thing",
+        "released": "2017-10-03",
+        "rating": "8.3",
+        "imdb_id": "tt6439842",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S2\\This.Is.Us.S02E02.HDTV.x264-SVAS2E2.zip"
+    },
+    "3": {
+        "title": "Déjà Vu",
+        "released": "2017-10-10",
+        "rating": "N/A",
+        "imdb_id": "tt6439850",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S2\\This.Is.Us.S02E03.HDTV.x264-SVAS2E3.zip"
+    },
+    "4": {
+        "title": "Still There",
+        "released": "2017-10-17",
+        "rating": "8.2",
+        "imdb_id": "tt6439852",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S2\\This.Is.Us.S02E04.HDTV.x264-SVAS2E4.zip"
+    },
+    "5": {
+        "title": "Brothers",
+        "released": "2017-10-24",
+        "rating": "N/A",
+        "imdb_id": "tt6439856",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S2\\This.Is.Us.S02E05.HDTV.x264-SVAS2E5.zip"
+    },
+    "6": {
+        "title": "The 20's",
+        "released": "2017-10-31",
+        "rating": "8.3",
+        "imdb_id": "tt6439858",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S2\\This.Is.Us.S02E06.HDTV.x264-SVAS2E6.zip"
+    },
+    "7": {
+        "title": "The Most Disappointed Man",
+        "released": "2017-11-07",
+        "rating": "8.7",
+        "imdb_id": "tt6439854",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S2\\This.Is.Us.S02E07.HDTV.x264-SVAS2E7.zip"
+    },
+    "8": {
+        "title": "Number One",
+        "released": "2017-11-14",
+        "rating": "9.2",
+        "imdb_id": "tt6439848",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S2\\This.Is.Us.S02E08.HDTV.x264-SVAS2E8.zip"
+    },
+    "9": {
+        "title": "Number Two",
+        "released": "2017-11-21",
+        "rating": "N/A",
+        "imdb_id": "tt6439860",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S2\\This.Is.Us.S02E09.HDTV.x264-SVAS2E9.zip"
+    },
+    "10": {
+        "title": "Number Three",
+        "released": "2017-11-28",
+        "rating": "8.8",
+        "imdb_id": "tt6439864",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Fifth Wheel",
+        "released": "2018-01-09",
+        "rating": "N/A",
+        "imdb_id": "tt6439862",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Clooney",
+        "released": "2018-01-16",
+        "rating": "8.2",
+        "imdb_id": "tt6439866",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "That'll Be the Day",
+        "released": "2018-01-23",
+        "rating": "9.3",
+        "imdb_id": "tt6439868",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Super Bowl Sunday",
+        "released": "2018-02-04",
+        "rating": "9.7",
+        "imdb_id": "tt6439870",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Car",
+        "released": "2018-02-06",
+        "rating": "9.2",
+        "imdb_id": "tt6439884",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Vegas, Baby",
+        "released": "2018-02-27",
+        "rating": "8.0",
+        "imdb_id": "tt6439876",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "This Big, Amazing, Beautiful Life",
+        "released": "2018-03-06",
+        "rating": "7.8",
+        "imdb_id": "tt6439880",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Wedding",
+        "released": "2018-03-13",
+        "rating": "8.7",
+        "imdb_id": "tt6439882",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

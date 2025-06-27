@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Episode #1.1",
+        "released": "2025-03-27",
+        "rating": "N/A",
+        "imdb_id": "tt35635286",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #1.2",
+        "released": "2025-04-03",
+        "rating": "4.6",
+        "imdb_id": "tt35635287",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #1.3",
+        "released": "2025-04-10",
+        "rating": "N/A",
+        "imdb_id": "tt35635288",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #1.4",
+        "released": "2025-04-17",
+        "rating": "N/A",
+        "imdb_id": "tt35635291",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #1.5",
+        "released": "2025-04-24",
+        "rating": "N/A",
+        "imdb_id": "tt35635292",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #1.6",
+        "released": "2025-05-01",
+        "rating": "N/A",
+        "imdb_id": "tt35635293",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #1.7",
+        "released": "2025-05-08",
+        "rating": "N/A",
+        "imdb_id": "tt35635296",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #1.8",
+        "released": "2025-05-15",
+        "rating": "N/A",
+        "imdb_id": "tt35635297",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

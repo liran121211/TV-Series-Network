@@ -1,0 +1,34 @@
+{
+    "1": {
+        "title": "Hercule Poirot's Christmas",
+        "released": "1994-12-25",
+        "rating": "8.0",
+        "imdb_id": "tt0110014",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S6\\Agatha_Christie's_Poirot_(David_Suchet)_S06E01_1080p_H.264_(moviesbyrizzo)S6E1.zip"
+    },
+    "2": {
+        "title": "Hickory Dickory Dock",
+        "released": "1995-02-12",
+        "rating": "7.6",
+        "imdb_id": "tt0182225",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Murder on the Links",
+        "released": "1996-02-11",
+        "rating": "N/A",
+        "imdb_id": "tt0182332",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Dumb Witness",
+        "released": "1996-10-31",
+        "rating": "7.9",
+        "imdb_id": "tt0292497",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2012-09-17",
+        "rating": "7.0",
+        "imdb_id": "tt2403715",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Chained Heat",
+        "released": "2012-09-24",
+        "rating": "N/A",
+        "imdb_id": "tt2271428",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "No Quarter",
+        "released": "2012-10-01",
+        "rating": "7.3",
+        "imdb_id": "tt2311060",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Plague Dogs",
+        "released": "2012-10-08",
+        "rating": "7.2",
+        "imdb_id": "tt2311062",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Soul Train",
+        "released": "2012-10-15",
+        "rating": "7.2",
+        "imdb_id": "tt2311066",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Sex and Drugs",
+        "released": "2012-10-29",
+        "rating": "N/A",
+        "imdb_id": "tt2311064",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Children's Crusade",
+        "released": "2012-11-05",
+        "rating": "N/A",
+        "imdb_id": "tt2399694",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Ties That Bind",
+        "released": "2012-11-12",
+        "rating": "7.3",
+        "imdb_id": "tt2481604",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Kashmir",
+        "released": "2012-11-19",
+        "rating": "N/A",
+        "imdb_id": "tt2454912",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Nobody's Fault But Mine",
+        "released": "2012-11-26",
+        "rating": "N/A",
+        "imdb_id": "tt2496952",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Stand",
+        "released": "2013-03-25",
+        "rating": "7.7",
+        "imdb_id": "tt2483204",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Ghosts",
+        "released": "2013-04-01",
+        "rating": "N/A",
+        "imdb_id": "tt2718080",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Song Remains the Same",
+        "released": "2013-04-08",
+        "rating": "N/A",
+        "imdb_id": "tt2667178",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Night the Lights Went Out in Georgia",
+        "released": "2013-04-22",
+        "rating": "N/A",
+        "imdb_id": "tt2676618",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Home",
+        "released": "2013-04-29",
+        "rating": "N/A",
+        "imdb_id": "tt2652134",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Love Boat",
+        "released": "2013-05-06",
+        "rating": "N/A",
+        "imdb_id": "tt2715982",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Longest Day",
+        "released": "2013-05-13",
+        "rating": "N/A",
+        "imdb_id": "tt2771706",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Clue",
+        "released": "2013-05-20",
+        "rating": "N/A",
+        "imdb_id": "tt2771708",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Children of Men",
+        "released": "2013-05-27",
+        "rating": "N/A",
+        "imdb_id": "tt2771710",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Dark Tower",
+        "released": "2013-06-03",
+        "rating": "N/A",
+        "imdb_id": "tt2832786",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

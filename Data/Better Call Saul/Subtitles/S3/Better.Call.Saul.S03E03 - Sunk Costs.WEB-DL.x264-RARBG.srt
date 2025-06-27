@@ -1,0 +1,2200 @@
+﻿1
+00:01:50,570 --> 00:01:53,826
+<font color=#FF00FF>*BETTER CALL SAUL*</font>
+<font color=#00FF00>Season 03 Episode 03</font>
+<font color=#FFFF00>"Sunk Costs"</font>
+
+2
+00:01:53,850 --> 00:01:57,716
+Synchronized by <font color=#00FF00>srjanapala</font>
+
+3
+00:02:20,119 --> 00:02:22,157
+Yeah.
+
+4
+00:02:22,696 --> 00:02:25,438
+May I assume that you are armed?
+
+5
+00:02:26,056 --> 00:02:27,540
+Yes.
+
+6
+00:02:27,581 --> 00:02:29,688
+I do not wish to see your gun.
+
+7
+00:02:30,110 --> 00:02:31,428
+And if I don't,
+
+8
+00:02:31,892 --> 00:02:33,571
+I promise you won't see mine.
+
+9
+00:02:34,462 --> 00:02:36,099
+Are we in agreement?
+
+10
+00:02:36,306 --> 00:02:37,876
+We are.
+
+11
+00:02:38,525 --> 00:02:40,759
+Expect two cars momentarily.
+
+12
+00:03:46,638 --> 00:03:49,497
+You care to elaborate?
+
+13
+00:03:50,557 --> 00:03:55,433
+It's not in my interest
+for Hector Salamanca to die...
+
+14
+00:03:55,801 --> 00:03:57,601
+at this time.
+
+15
+00:03:58,128 --> 00:03:59,456
+Who is he to you?
+
+16
+00:03:59,581 --> 00:04:01,961
+An associate of an associate.
+
+17
+00:04:02,214 --> 00:04:03,362
+Mm.
+
+18
+00:04:04,003 --> 00:04:05,932
+How very specific.
+
+19
+00:04:06,144 --> 00:04:08,276
+Who is he to you?
+
+20
+00:04:09,514 --> 00:04:11,213
+We had a disagreement.
+
+21
+00:04:11,636 --> 00:04:13,159
+He threatened my family.
+
+22
+00:04:13,253 --> 00:04:15,128
+I'm not gonna let that go.
+
+23
+00:04:15,269 --> 00:04:18,589
+But you had let it go.
+
+24
+00:04:18,847 --> 00:04:20,613
+You'd taken his money.
+
+25
+00:04:20,917 --> 00:04:22,972
+Your family was no longer in danger.
+
+26
+00:04:23,280 --> 00:04:26,181
+And yet, still, you robbed his truck.
+
+27
+00:04:27,464 --> 00:04:29,401
+Shouldn't that have settled the matter?
+
+28
+00:04:29,558 --> 00:04:31,958
+Most men would have walked away,
+
+29
+00:04:32,448 --> 00:04:33,993
+but instead...
+
+30
+00:04:34,417 --> 00:04:37,519
+you made an attempt on his life.
+
+31
+00:04:38,323 --> 00:04:40,056
+Why?
+
+32
+00:04:43,925 --> 00:04:48,407
+I understand that a civilian
+found the driver
+
+33
+00:04:48,683 --> 00:04:51,276
+after you robbed the truck.
+
+34
+00:04:52,757 --> 00:04:57,126
+Hector murdered this civilian, correct?
+
+35
+00:05:04,360 --> 00:05:07,028
+He wasn't in the game.
+
+36
+00:05:08,284 --> 00:05:10,456
+I can't allow you to kill Hector.
+
+37
+00:05:10,992 --> 00:05:14,127
+However, I am not completely
+unsympathetic to your...
+
+38
+00:05:14,495 --> 00:05:16,713
+sense of justice.
+
+39
+00:05:17,206 --> 00:05:20,284
+You hurt Hector when you robbed that truck.
+
+40
+00:05:20,575 --> 00:05:22,842
+You hurt his business,
+
+41
+00:05:23,011 --> 00:05:24,277
+his pride.
+
+42
+00:05:24,549 --> 00:05:25,906
+Quite effectively.
+
+43
+00:05:26,014 --> 00:05:31,050
+And if you were to hurt him
+in the same manner again,
+
+44
+00:05:32,097 --> 00:05:34,081
+I would not stand in your way.
+
+45
+00:05:34,290 --> 00:05:37,058
+You want me to rob another truck.
+
+46
+00:05:37,215 --> 00:05:39,620
+If you feel so inclined.
+
+47
+00:05:39,835 --> 00:05:42,469
+I'm done with that.
+
+48
+00:05:44,729 --> 00:05:46,620
+Then our business here is finished.
+
+49
+00:05:46,788 --> 00:05:48,154
+That's it?
+
+50
+00:05:48,581 --> 00:05:49,729
+That's it.
+
+51
+00:05:49,837 --> 00:05:51,070
+No more tracker,
+
+52
+00:05:51,190 --> 00:05:53,612
+no more of your minions following me?
+
+53
+00:05:53,759 --> 00:05:56,011
+Just like that?
+
+54
+00:05:56,384 --> 00:05:57,549
+Just like that.
+
+55
+00:05:57,815 --> 00:05:59,386
+Of course...
+
+56
+00:06:00,026 --> 00:06:03,581
+I trust that you are done
+with Hector Salamanca?
+
+57
+00:06:15,620 --> 00:06:18,011
+Goodbye, Mr. Ehrmantraut.
+
+58
+00:06:19,433 --> 00:06:21,222
+Wait.
+
+59
+00:06:24,995 --> 00:06:26,843
+You want his trucks hit
+
+60
+00:06:26,878 --> 00:06:30,237
+because you want to
+disrupt his supply line.
+
+61
+00:06:30,925 --> 00:06:33,636
+Hector's your competition.
+
+62
+00:06:34,757 --> 00:06:36,456
+Why do you ask?
+
+63
+00:06:37,032 --> 00:06:40,245
+Because I'm not done with Hector Salamanca.
+
+64
+00:06:54,913 --> 00:06:57,222
+Offices of Jimmy McGill.
+How may I help you today?
+
+65
+00:06:57,303 --> 00:06:59,534
+- Hey. It's me.
+- Oh, hey, Jimmy.
+
+66
+00:06:59,637 --> 00:07:03,573
+Listen, um, something's come up,
+and, uh, I need you
+
+67
+00:07:03,667 --> 00:07:06,268
+to reschedule all
+my appointments for tomorrow.
+
+68
+00:07:06,632 --> 00:07:07,965
+Oh, okay.
+
+69
+00:07:08,065 --> 00:07:09,956
+When do you want me to reschedule for?
+
+70
+00:07:10,519 --> 00:07:12,409
+Let's talk about it tomorrow.
+
+71
+00:07:12,509 --> 00:07:13,708
+Sure thing.
+
+72
+00:07:13,758 --> 00:07:15,948
+Oh, and, uh, do me a favor...
+
+73
+00:07:16,081 --> 00:07:18,557
+tell Kim I won't be back in tonight.
+
+74
+00:07:18,745 --> 00:07:20,284
+Will do.
+
+75
+00:07:23,175 --> 00:07:24,901
+Okay. That's it.
+
+76
+00:07:25,597 --> 00:07:27,097
+Have a great night!
+
+77
+00:07:27,297 --> 00:07:29,003
+Mm.
+
+78
+00:07:56,747 --> 00:07:59,357
+You know you can wait inside.
+
+79
+00:08:02,115 --> 00:08:03,502
+You won't want to hear it,
+
+80
+00:08:03,538 --> 00:08:05,471
+but this is for the best.
+
+81
+00:08:07,462 --> 00:08:09,228
+Please, Jimmy...
+
+82
+00:08:12,039 --> 00:08:13,350
+Whatever you think of me,
+
+83
+00:08:13,391 --> 00:08:14,613
+whatever colorful names
+
+84
+00:08:14,649 --> 00:08:17,313
+you're calling me in your head right now,
+
+85
+00:08:17,875 --> 00:08:20,586
+please understand I'm trying to help you.
+
+86
+00:08:22,183 --> 00:08:24,416
+Here's what's going to happen.
+
+87
+00:08:25,193 --> 00:08:26,626
+The police will arrest you,
+
+88
+00:08:26,693 --> 00:08:29,093
+and I'm sorry,
+but I will be pressing charges.
+
+89
+00:08:29,207 --> 00:08:31,844
+I told you there would be consequences.
+
+90
+00:08:32,844 --> 00:08:34,680
+But I have to believe
+
+91
+00:08:34,813 --> 00:08:36,618
+that you'll face those consequences
+
+92
+00:08:36,712 --> 00:08:39,422
+and you'll come out
+the other side a better man.
+
+93
+00:08:39,522 --> 00:08:41,789
+I know it's hard to see right now,
+
+94
+00:08:42,176 --> 00:08:44,510
+but, Jimmy, this is an opportunity.
+
+95
+00:08:44,954 --> 00:08:46,378
+That's why I'm doing this.
+
+96
+00:08:46,414 --> 00:08:47,594
+Not to punish you.
+
+97
+00:08:47,682 --> 00:08:51,050
+To show you, truly show you,
+
+98
+00:08:51,141 --> 00:08:55,508
+that you have to make a change
+before it's too late.
+
+99
+00:08:56,188 --> 00:08:58,591
+Before you destroy yourself...
+
+100
+00:08:58,782 --> 00:09:00,192
+or someone else.
+
+101
+00:09:00,719 --> 00:09:02,891
+And I believe you can change.
+
+102
+00:09:03,132 --> 00:09:05,566
+You'll find your path.
+
+103
+00:09:06,329 --> 00:09:07,833
+And when you're ready,
+
+104
+00:09:08,001 --> 00:09:11,547
+I will be there to help you walk that path.
+
+105
+00:09:15,260 --> 00:09:17,643
+Here's what's gonna happen.
+
+106
+00:09:17,994 --> 00:09:21,486
+One day, you're gonna get sick... again.
+
+107
+00:09:21,743 --> 00:09:24,533
+One of your employees
+is gonna find you curled up
+
+108
+00:09:24,619 --> 00:09:28,611
+in that space blanket,
+take you to the hospital,
+
+109
+00:09:28,885 --> 00:09:35,427
+hook you up to those machines
+that beep and whir and... hurt.
+
+110
+00:09:35,682 --> 00:09:38,464
+And this time, it'll be too much.
+
+111
+00:09:38,643 --> 00:09:42,869
+And you will... die there.
+
+112
+00:09:43,634 --> 00:09:45,006
+Alone.
+
+113
+00:09:51,948 --> 00:09:54,433
+There's my ride.
+
+114
+00:10:13,668 --> 00:10:15,301
+Sir, I need all your personal property,
+
+115
+00:10:15,336 --> 00:10:18,706
+belts, ties, phone, rings, wallet.
+
+116
+00:10:29,856 --> 00:10:32,739
+Need your socks and shoes
+placed in that bag.
+
+117
+00:10:36,769 --> 00:10:38,902
+Put these on your feet.
+
+118
+00:10:42,954 --> 00:10:44,296
+Turn to the right.
+
+119
+00:10:46,758 --> 00:10:48,934
+Turn to the left.
+
+120
+00:10:49,978 --> 00:10:51,953
+Face me.
+
+121
+00:10:52,558 --> 00:10:53,924
+Left hand.
+
+122
+00:11:08,835 --> 00:11:11,609
+- Right hand.
+- Holy hell.
+
+123
+00:11:11,742 --> 00:11:14,360
+I thought they were bullshitting me.
+
+124
+00:11:14,929 --> 00:11:16,729
+How the mighty have fallen.
+
+125
+00:11:17,140 --> 00:11:18,929
+What the hell happened, man?
+
+126
+00:11:18,996 --> 00:11:22,328
+Nothing. Just family trouble.
+
+127
+00:11:22,570 --> 00:11:23,863
+You're married?
+
+128
+00:11:23,977 --> 00:11:26,311
+No. Disagreement with my brother.
+
+129
+00:11:27,109 --> 00:11:28,193
+That hardass?
+
+130
+00:11:28,273 --> 00:11:29,398
+I don't blame ya.
+
+131
+00:11:29,484 --> 00:11:31,010
+So who you got representing you?
+
+132
+00:11:31,045 --> 00:11:32,789
+I'll be representing myself.
+
+133
+00:11:32,843 --> 00:11:34,999
+- Sign here.
+- Moron.
+
+134
+00:11:35,077 --> 00:11:36,444
+'Course, I knew that
+
+135
+00:11:36,502 --> 00:11:39,570
+when you left that sweet Davis & Main gig.
+
+136
+00:11:40,022 --> 00:11:41,146
+This way.
+
+137
+00:11:41,320 --> 00:11:42,749
+Hey, speaking of...
+
+138
+00:11:42,827 --> 00:11:44,093
+they, uh, still trying
+
+139
+00:11:44,132 --> 00:11:45,741
+- to replace you over there?
+- Arms out.
+
+140
+00:11:46,001 --> 00:11:48,268
+How's, uh, Omar?
+
+141
+00:11:48,350 --> 00:11:50,250
+Why? You looking to make a change?
+
+142
+00:11:50,364 --> 00:11:52,023
+Well, leave all this glamour behind?
+
+143
+00:11:52,107 --> 00:11:53,890
+Hey, who do you think's gonna catch this?
+
+144
+00:11:54,072 --> 00:11:55,979
+Eh, it depends on who's
+available when it comes in.
+
+145
+00:11:56,003 --> 00:11:57,843
+- Face me.
+- You think you might be available?
+
+146
+00:11:57,868 --> 00:11:59,491
+Run your hands through your hair, please.
+
+147
+00:11:59,515 --> 00:12:01,874
+Don't you wanna throw the book
+at me for old times' sake?
+
+148
+00:12:02,015 --> 00:12:04,777
+Mmm, I'll see if I can work some magic...
+
+149
+00:12:04,937 --> 00:12:06,968
+but those decisions
+are really above my paygrade.
+
+150
+00:12:07,007 --> 00:12:09,663
+Oh, yeah? When did they
+start paying you?
+
+151
+00:12:11,218 --> 00:12:12,754
+Sit here.
+
+152
+00:12:12,874 --> 00:12:14,999
+- I gotta run, anyway.
+- Left hand.
+
+153
+00:12:15,156 --> 00:12:17,256
+Just had to see it for myself...
+
+154
+00:12:18,116 --> 00:12:19,311
+Jimmy McGill,
+
+155
+00:12:19,379 --> 00:12:21,702
+getting fingerprinted with the hoi polloi.
+
+156
+00:12:21,834 --> 00:12:24,168
+Well, I'm glad you enjoyed the show.
+
+157
+00:12:27,968 --> 00:12:29,176
+I'll check and see
+
+158
+00:12:29,201 --> 00:12:31,210
+if I can get your first
+appearance moved up.
+
+159
+00:12:31,505 --> 00:12:32,838
+Thank you.
+
+160
+00:12:33,085 --> 00:12:34,483
+It's pretty late.
+
+161
+00:12:34,608 --> 00:12:36,843
+Chances are, you're spending the night.
+
+162
+00:12:37,123 --> 00:12:39,323
+You, uh, gonna be okay?
+
+163
+00:12:40,054 --> 00:12:42,347
+Beats the back of a nail salon.
+
+164
+00:12:42,874 --> 00:12:44,929
+I do not doubt that, my friend.
+
+165
+00:12:47,466 --> 00:12:49,433
+Oh, pick the biggest guy.
+
+166
+00:12:49,523 --> 00:12:51,538
+Punch him as hard as you can, okay?
+
+167
+00:12:51,659 --> 00:12:52,892
+Show dominance.
+
+168
+00:12:52,952 --> 00:12:55,093
+Right. Got it. Dominance.
+
+169
+00:12:55,163 --> 00:12:57,460
+You, uh, do know
+how to throw a punch, right?
+
+170
+00:12:57,614 --> 00:13:00,257
+Yeah, all right. Goodbye.
+
+171
+00:14:56,148 --> 00:14:58,038
+Hey, Kim.
+
+172
+00:14:58,179 --> 00:14:59,588
+Can I talk to you?
+
+173
+00:14:59,679 --> 00:15:00,864
+Sure, Ernie.
+
+174
+00:15:00,889 --> 00:15:01,952
+What's going on?
+
+175
+00:15:02,049 --> 00:15:05,186
+Uh, Mr. McGill fired me.
+
+176
+00:15:06,757 --> 00:15:08,764
+- Why? What happened?
+- I don't...
+
+177
+00:15:11,108 --> 00:15:12,983
+It doesn't matter.
+
+178
+00:15:13,588 --> 00:15:15,155
+I just...
+
+179
+00:15:15,406 --> 00:15:16,647
+Is Jimmy okay?
+
+180
+00:15:16,722 --> 00:15:18,671
+I feel bad, like it's my fault.
+
+181
+00:15:18,710 --> 00:15:20,397
+I didn't mean for this to happen.
+
+182
+00:15:20,442 --> 00:15:22,804
+What happened to Jimmy?
+
+183
+00:15:40,756 --> 00:15:43,107
+- McGill?
+- Yeah.
+
+184
+00:15:49,895 --> 00:15:51,700
+You're up.
+
+185
+00:16:07,768 --> 00:16:13,538
+We've got CR-2003113081.
+
+186
+00:16:17,185 --> 00:16:18,651
+James McGill.
+
+187
+00:16:18,709 --> 00:16:20,258
+Yes, Your Honor.
+
+188
+00:16:20,334 --> 00:16:23,135
+Not how I'm used to
+seeing you in here, Mr. McGill.
+
+189
+00:16:23,491 --> 00:16:25,565
+Not how I'd like to be seen.
+
+190
+00:16:25,656 --> 00:16:28,534
+Well, you had quite the day yesterday.
+
+191
+00:16:28,661 --> 00:16:29,893
+Okay.
+
+192
+00:16:29,977 --> 00:16:32,128
+Mr. McGill, you've been accused
+
+193
+00:16:32,254 --> 00:16:34,573
+of fourth degree felony
+breaking and entering,
+
+194
+00:16:34,657 --> 00:16:36,156
+which carries a maximum sentence
+
+195
+00:16:36,224 --> 00:16:39,191
+of 18 months and a $5,000 fine.
+
+196
+00:16:39,667 --> 00:16:42,167
+We've also got petty misdemeanor assault.
+
+197
+00:16:42,322 --> 00:16:45,893
+Maximum six months' jail time
+and a $500 fine.
+
+198
+00:16:46,051 --> 00:16:48,534
+Plus, criminal damage to property,
+
+199
+00:16:48,621 --> 00:16:50,788
+also misdemeanor with a maximum sentence
+
+200
+00:16:50,864 --> 00:16:53,026
+of six months and a $500 fine.
+
+201
+00:16:53,236 --> 00:16:54,869
+Victim is...
+
+202
+00:16:56,167 --> 00:16:57,831
+Your brother Charles?
+
+203
+00:16:58,018 --> 00:16:59,463
+Seriously?
+
+204
+00:17:00,721 --> 00:17:03,323
+I assume you're prepared
+to enter a plea at this time.
+
+205
+00:17:03,480 --> 00:17:04,659
+Yes, Your Honor.
+
+206
+00:17:04,857 --> 00:17:07,737
+I wish to enter a plea of not guilty.
+
+207
+00:17:08,578 --> 00:17:10,111
+The court accepts
+
+208
+00:17:10,136 --> 00:17:12,362
+and enters the defendant's plea
+of not guilty.
+
+209
+00:17:12,676 --> 00:17:15,198
+Now, Mr. McGill, have you secured counsel?
+
+210
+00:17:15,322 --> 00:17:17,260
+Yes. Uh, Your Honor, Kim Wexler.
+
+211
+00:17:17,328 --> 00:17:19,168
+I'll be representing Mr. McGill
+in this matter.
+
+212
+00:17:19,195 --> 00:17:20,526
+Just in time.
+
+213
+00:17:20,599 --> 00:17:22,870
+Let's enter Ms. Wexler
+as the attorney of record.
+
+214
+00:17:22,933 --> 00:17:26,838
+Your Honor, if I may, um,
+I'll be representing myself.
+
+215
+00:17:27,016 --> 00:17:30,317
+I strongly advise against that, Mr. McGill.
+
+216
+00:17:30,447 --> 00:17:32,722
+You know what they say about
+a man who represents himself.
+
+217
+00:17:32,746 --> 00:17:34,345
+Oh, I... I'm aware, but as you know,
+
+218
+00:17:34,529 --> 00:17:36,719
+I've defended many people
+in the criminal justice system.
+
+219
+00:17:36,743 --> 00:17:38,873
+Your Honor, may I have a moment
+to speak with my client?
+
+220
+00:17:38,897 --> 00:17:40,628
+Sounds like he's not your client.
+
+221
+00:17:43,669 --> 00:17:45,401
+Mr. McGill, would you like to take a moment
+
+222
+00:17:45,477 --> 00:17:48,674
+to discuss this with your...
+potential counsel?
+
+223
+00:17:50,394 --> 00:17:52,260
+No, Your Honor. I'm all set.
+
+224
+00:17:52,337 --> 00:17:54,979
+- I'm gonna represent myself.
+- Your Honor...
+
+225
+00:17:55,038 --> 00:17:56,238
+Not your client, Ms. Wexler.
+
+226
+00:17:56,351 --> 00:17:57,471
+I'm sorry. I'm moving on.
+
+227
+00:17:57,511 --> 00:17:59,232
+You two can work this out on your own time.
+
+228
+00:17:59,260 --> 00:18:00,885
+I'm sorry. I was gonna call you,
+
+229
+00:18:00,932 --> 00:18:02,480
+but then I thought I'd tell you in person.
+
+230
+00:18:02,504 --> 00:18:03,970
+Mr. McGill.
+
+231
+00:18:04,580 --> 00:18:07,456
+So, on to the issue of bond.
+
+232
+00:18:09,151 --> 00:18:12,479
+You have no priors
+and no outstanding warrants.
+
+233
+00:18:12,598 --> 00:18:15,292
+And where are you currently practicing law?
+
+234
+00:18:15,367 --> 00:18:17,601
+I haven't seen you in my court in a while.
+
+235
+00:18:18,026 --> 00:18:19,482
+Elder law.
+
+236
+00:18:20,088 --> 00:18:21,495
+What a noble pursuit.
+
+237
+00:18:21,674 --> 00:18:23,854
+One I hope you get back to very soon.
+
+238
+00:18:24,128 --> 00:18:25,706
+Now, given your ties to the community,
+
+239
+00:18:25,784 --> 00:18:27,526
+I see no reason to deny you bond,
+
+240
+00:18:27,579 --> 00:18:30,628
+which I set now at $2,500.
+
+241
+00:18:58,638 --> 00:19:00,371
+I fucked up.
+
+242
+00:19:06,075 --> 00:19:08,160
+Chuck bamboozled me again.
+
+243
+00:19:08,185 --> 00:19:09,285
+That tape?
+
+244
+00:19:09,310 --> 00:19:11,481
+He made sure that
+Ernie heard it, right?
+
+245
+00:19:11,571 --> 00:19:13,137
+Because he knew Ernie, bless him,
+
+246
+00:19:13,297 --> 00:19:15,473
+would tell me about it
+and I would come over
+
+247
+00:19:15,630 --> 00:19:17,520
+to try to destroy it
+or steal it or whatever.
+
+248
+00:19:17,574 --> 00:19:18,660
+Howard was there,
+
+249
+00:19:18,707 --> 00:19:21,012
+and a P.I., if you can believe that,
+
+250
+00:19:21,130 --> 00:19:22,254
+just waiting for me
+
+251
+00:19:22,325 --> 00:19:24,332
+to lose my shit and bust in.
+
+252
+00:19:24,447 --> 00:19:26,488
+Chuck played me like a fiddle!
+
+253
+00:19:26,575 --> 00:19:29,342
+And schmuck that I am, I fell for it!
+
+254
+00:19:29,689 --> 00:19:31,184
+Moron.
+
+255
+00:19:32,335 --> 00:19:33,731
+I'm sorry.
+
+256
+00:19:33,923 --> 00:19:35,456
+And then, I didn't call you,
+
+257
+00:19:35,514 --> 00:19:37,371
+which is stupid,
+and I'm sorry about that, too.
+
+258
+00:19:37,396 --> 00:19:39,363
+But I didn't call you for a reason, okay?
+
+259
+00:19:39,388 --> 00:19:41,340
+'Cause this is my screw-up.
+
+260
+00:19:41,405 --> 00:19:43,418
+I own it, okay?
+
+261
+00:19:43,601 --> 00:19:45,879
+It's my responsibility to fix it.
+
+262
+00:19:45,974 --> 00:19:47,121
+And I know you want to help.
+
+263
+00:19:47,201 --> 00:19:49,449
+Of course you do, 'cause you're wonderful.
+
+264
+00:19:49,606 --> 00:19:53,176
+But y-you're up to your ears in Mesa Verde.
+
+265
+00:19:53,277 --> 00:19:54,476
+And I can't,
+
+266
+00:19:54,565 --> 00:19:57,299
+I won't load this onto you, too.
+
+267
+00:19:57,391 --> 00:20:01,359
+We have worked too hard
+to let Chuck's bullshit vendetta
+
+268
+00:20:01,527 --> 00:20:03,694
+threaten everything that we're building!
+
+269
+00:20:03,745 --> 00:20:06,279
+I won't allow him to endanger our business!
+
+270
+00:20:06,329 --> 00:20:08,637
+No! I will fix this.
+
+271
+00:20:08,864 --> 00:20:10,981
+Myself. Me. Jimmy McGill.
+
+272
+00:20:11,024 --> 00:20:12,074
+Okay?
+
+273
+00:20:12,132 --> 00:20:14,499
+You have gotta let me do this on my own.
+
+274
+00:20:19,488 --> 00:20:21,215
+Okay.
+
+275
+00:20:27,378 --> 00:20:29,002
+Thank you.
+
+276
+00:20:45,820 --> 00:20:48,588
+I, uh, I finished it.
+
+277
+00:20:49,164 --> 00:20:52,476
+I... I mean, I just touched up the edges.
+
+278
+00:20:52,671 --> 00:20:54,311
+A little.
+
+279
+00:20:55,038 --> 00:20:57,250
+Is... Is that okay?
+
+280
+00:20:59,156 --> 00:21:00,421
+Oh.
+
+281
+00:21:01,012 --> 00:21:03,613
+Uh, sure.
+
+282
+00:21:04,231 --> 00:21:06,226
+It looks nice.
+
+283
+00:21:09,065 --> 00:21:11,570
+You mind driving me to my car?
+
+284
+00:21:11,741 --> 00:21:13,574
+Sure. No problem.
+
+285
+00:21:16,337 --> 00:21:19,117
+Um, just so you know,
+
+286
+00:21:19,359 --> 00:21:22,250
+this isn't a typical week around here.
+
+287
+00:21:23,585 --> 00:21:25,642
+Yeah, totally.
+
+288
+00:21:25,789 --> 00:21:28,267
+I... didn't think that it was.
+
+289
+00:21:28,639 --> 00:21:29,970
+Ah.
+
+290
+00:21:58,036 --> 00:22:00,002
+"Aaah!"
+
+291
+00:22:02,028 --> 00:22:03,474
+Ah.
+
+292
+00:22:05,540 --> 00:22:07,106
+Mm-hmm.
+
+293
+00:22:12,099 --> 00:22:13,269
+Mm.
+
+294
+00:22:36,529 --> 00:22:37,728
+Mm?
+
+295
+00:22:52,905 --> 00:22:54,037
+Mm-hmm.
+
+296
+00:23:04,407 --> 00:23:05,773
+Mr. Clark?
+
+297
+00:23:06,318 --> 00:23:08,651
+The doctor is ready.
+
+298
+00:23:13,282 --> 00:23:15,642
+And how may I
+help you today, Mr. Clark?
+
+299
+00:23:15,786 --> 00:23:18,821
+I believe our mutual
+acquaintance called ahead.
+
+300
+00:23:19,031 --> 00:23:21,598
+He told me what, but not how much.
+
+301
+00:23:22,259 --> 00:23:24,899
+Mm. Well, I need a package...
+
+302
+00:23:25,214 --> 00:23:26,790
+yea big.
+
+303
+00:23:28,290 --> 00:23:30,456
+And what's that in grams?
+
+304
+00:23:31,652 --> 00:23:34,353
+Unh. This big.
+
+305
+00:25:13,441 --> 00:25:15,141
+Hey.
+
+306
+00:25:15,628 --> 00:25:16,948
+Hey.
+
+307
+00:25:17,050 --> 00:25:18,707
+Was somebody sitting here?
+
+308
+00:25:18,917 --> 00:25:20,516
+No.
+
+309
+00:25:27,018 --> 00:25:28,484
+So, how was it?
+
+310
+00:25:28,645 --> 00:25:29,978
+How was what?
+
+311
+00:25:30,802 --> 00:25:33,417
+Your night in MDC.
+
+312
+00:25:34,322 --> 00:25:36,120
+I caught up with a few old clients.
+
+313
+00:25:36,156 --> 00:25:37,229
+Yeah?
+
+314
+00:25:37,369 --> 00:25:39,369
+- Want one?
+- Oh.
+
+315
+00:25:40,822 --> 00:25:41,940
+Yeah.
+
+316
+00:25:42,010 --> 00:25:43,486
+This whole thing is a...
+
+317
+00:25:43,634 --> 00:25:45,142
+big misunderstanding.
+
+318
+00:25:45,182 --> 00:25:46,055
+Mm-hmm.
+
+319
+00:25:46,080 --> 00:25:48,463
+There's absolutely no way
+it's going to trial.
+
+320
+00:25:48,565 --> 00:25:50,924
+Who wants that hassle? Not me.
+
+321
+00:25:51,096 --> 00:25:53,954
+Whichever lucky soul at the
+D.A.'s office catches this,
+
+322
+00:25:54,205 --> 00:25:55,889
+looking at an easy clear.
+
+323
+00:25:55,924 --> 00:25:58,325
+There's a felony in there, right?
+
+324
+00:25:58,986 --> 00:26:00,812
+That would be a cla... Go ahead,
+
+325
+00:26:00,986 --> 00:26:03,041
+classic case of overcharging.
+
+326
+00:26:03,158 --> 00:26:04,690
+No offense.
+
+327
+00:26:05,182 --> 00:26:07,132
+Happy to have a civil conversation,
+
+328
+00:26:07,182 --> 00:26:09,229
+and I'm always ready to make a deal.
+
+329
+00:26:09,299 --> 00:26:11,033
+Just call me Monty Hall.
+
+330
+00:26:11,158 --> 00:26:13,707
+So you're looking to plea out
+on this, then, Monty?
+
+331
+00:26:13,947 --> 00:26:16,111
+If it's the right plea.
+
+332
+00:26:16,994 --> 00:26:18,311
+I'm not perfect. Made mistakes.
+
+333
+00:26:18,347 --> 00:26:20,033
+I'm willing to own up to them
+
+334
+00:26:20,080 --> 00:26:24,588
+in a way that is satisfying
+to both myself and the state.
+
+335
+00:26:24,721 --> 00:26:25,938
+- Mm-hmm.
+- Mm.
+
+336
+00:26:25,963 --> 00:26:28,377
+Well, good luck with that.
+
+337
+00:26:29,463 --> 00:26:32,010
+"Good luck with that" as in,
+"I wish you well,"
+
+338
+00:26:32,088 --> 00:26:34,736
+or, "I accept your challenge"?
+
+339
+00:26:35,072 --> 00:26:36,682
+I wish you well.
+
+340
+00:26:36,947 --> 00:26:39,332
+Play your cards right, they may go for it.
+
+341
+00:26:39,682 --> 00:26:41,885
+"They"? Not you?
+
+342
+00:26:42,274 --> 00:26:43,611
+Prosecuting your case?
+
+343
+00:26:43,678 --> 00:26:45,545
+Nah, man. It's not me.
+
+344
+00:26:47,479 --> 00:26:49,916
+You never catch a lucky break, do ya?
+
+345
+00:26:50,440 --> 00:26:53,088
+- Bad timing?
+- No, conflicted out.
+
+346
+00:26:53,346 --> 00:26:54,679
+Conflicted out?
+
+347
+00:26:54,876 --> 00:26:56,236
+I mean, I figured that'd happen.
+
+348
+00:26:56,385 --> 00:26:58,361
+You and I have wheeled
+and dealed together
+
+349
+00:26:58,416 --> 00:26:59,666
+too many times.
+
+350
+00:26:59,755 --> 00:27:01,875
+There was no way the boss
+was letting me run that one.
+
+351
+00:27:03,166 --> 00:27:04,732
+It's not Ericsen, is it?
+
+352
+00:27:04,768 --> 00:27:06,916
+The whole Albuquerque office is out.
+
+353
+00:27:07,003 --> 00:27:08,602
+We all know you, Jimmy.
+
+354
+00:27:08,705 --> 00:27:11,298
+Well, who is it? I don't know.
+
+355
+00:27:11,369 --> 00:27:14,143
+They're pulling in someone from Belen.
+
+356
+00:27:14,268 --> 00:27:16,486
+Um... Hay?
+
+357
+00:27:16,687 --> 00:27:18,447
+Something Hay, I think.
+
+358
+00:27:18,479 --> 00:27:19,459
+I don't know.
+
+359
+00:27:19,484 --> 00:27:21,942
+Boss used the words "tough but fair."
+
+360
+00:27:23,354 --> 00:27:24,739
+Ahh.
+
+361
+00:27:24,876 --> 00:27:26,713
+Gotta jam.
+
+362
+00:27:32,773 --> 00:27:34,606
+Good luck.
+
+363
+00:27:38,411 --> 00:27:40,727
+Burger's getting cold.
+
+364
+00:27:41,552 --> 00:27:42,821
+You want it?
+
+365
+00:27:42,846 --> 00:27:44,246
+- Uh...
+- Yeah?
+
+366
+00:27:44,271 --> 00:27:45,935
+It has too many trans fats.
+
+367
+00:27:46,013 --> 00:27:46,833
+Ohh!
+
+368
+00:27:46,869 --> 00:27:50,370
+Those are the best fats.
+
+369
+00:27:54,037 --> 00:27:55,615
+So they let you keep the car?
+
+370
+00:27:55,685 --> 00:27:57,248
+- What?
+- Davis & Main.
+
+371
+00:27:57,373 --> 00:28:00,529
+They let you keep the, uh, German car?
+
+372
+00:28:01,029 --> 00:28:02,405
+No.
+
+373
+00:28:02,810 --> 00:28:04,351
+That blows.
+
+374
+00:30:53,492 --> 00:30:54,988
+Ms. Hay?
+
+375
+00:30:56,086 --> 00:30:58,383
+- Mr. McGill?
+- Chuck, please.
+
+376
+00:30:58,461 --> 00:30:59,992
+Meet me at the front door.
+
+377
+00:31:00,055 --> 00:31:02,102
+Uh, they said to put my things
+in the mailbox.
+
+378
+00:31:02,211 --> 00:31:04,539
+Yes, please. Anything with a battery.
+
+379
+00:31:10,977 --> 00:31:13,547
+Did your brother ever
+have a key to the house?
+
+380
+00:31:13,860 --> 00:31:16,031
+Before the recent trouble, he did.
+
+381
+00:31:16,477 --> 00:31:19,508
+He brought me my groceries and sundries.
+
+382
+00:31:19,805 --> 00:31:22,024
+But we had a falling-out.
+
+383
+00:31:22,391 --> 00:31:24,445
+I have an employee who does all that now.
+
+384
+00:31:24,672 --> 00:31:26,538
+You took away your brother's key
+
+385
+00:31:26,563 --> 00:31:28,617
+when you hired this employee?
+
+386
+00:31:28,709 --> 00:31:30,943
+I changed the locks.
+
+387
+00:31:32,060 --> 00:31:34,789
+Going... Going back to the confrontation,
+
+388
+00:31:34,875 --> 00:31:38,344
+so I have it absolutely clear,
+did he strike you?
+
+389
+00:31:38,602 --> 00:31:40,234
+No, nothing like that.
+
+390
+00:31:40,445 --> 00:31:42,258
+He backed me into a cabinet.
+
+391
+00:31:42,396 --> 00:31:43,350
+Did he have a weapon?
+
+392
+00:31:43,375 --> 00:31:44,555
+Well, as I mentioned,
+
+393
+00:31:44,585 --> 00:31:47,063
+he used a fireplace poker
+to break into my desk.
+
+394
+00:31:47,422 --> 00:31:49,274
+But he never would
+have used it on me.
+
+395
+00:31:49,389 --> 00:31:51,389
+Did you feel physically threatened?
+
+396
+00:31:52,445 --> 00:31:53,922
+My brother is a lot of things,
+
+397
+00:31:53,984 --> 00:31:55,938
+but even he has limits.
+
+398
+00:31:56,351 --> 00:31:58,007
+And you're willing to
+appear as a witness
+
+399
+00:31:58,070 --> 00:31:59,853
+even though he's family?
+
+400
+00:32:00,614 --> 00:32:02,380
+Unfortunately, yes.
+
+401
+00:32:02,562 --> 00:32:04,531
+If we continue with this,
+
+402
+00:32:04,749 --> 00:32:07,141
+I'll need your sworn testimony.
+
+403
+00:32:07,863 --> 00:32:10,230
+I've had situations
+involving family members before
+
+404
+00:32:10,265 --> 00:32:14,242
+where the injured party
+has ultimately been reluctant
+
+405
+00:32:14,328 --> 00:32:16,007
+to cooperate with my office.
+
+406
+00:32:16,109 --> 00:32:17,796
+That won't happen.
+
+407
+00:32:20,875 --> 00:32:24,149
+I'm curious about your strategy.
+
+408
+00:32:27,445 --> 00:32:29,082
+Well...
+
+409
+00:32:30,571 --> 00:32:32,922
+as officers of the court,
+
+410
+00:32:33,086 --> 00:32:36,008
+I feel we should be held
+to a higher standard.
+
+411
+00:32:36,453 --> 00:32:38,183
+I don't intend to take it
+easy on your brother
+
+412
+00:32:38,207 --> 00:32:39,673
+just because he's a lawyer.
+
+413
+00:32:39,715 --> 00:32:40,915
+Of course not.
+
+414
+00:32:41,383 --> 00:32:42,461
+The bone of contention
+
+415
+00:32:42,492 --> 00:32:44,399
+is going to be the felony
+breaking and entering.
+
+416
+00:32:44,477 --> 00:32:46,844
+Your brother's gonna want
+to plead down to a misdemeanor,
+
+417
+00:32:46,945 --> 00:32:49,500
+but I'll hold the line on the felony.
+
+418
+00:32:50,005 --> 00:32:52,641
+Which means this could
+possibly go to trial.
+
+419
+00:32:54,102 --> 00:32:56,438
+Now, I... I want to be mindful
+
+420
+00:32:56,500 --> 00:32:58,367
+of your comfort and well-being.
+
+421
+00:32:58,477 --> 00:32:59,578
+With, with your condition,
+
+422
+00:32:59,827 --> 00:33:02,719
+are you able to appear before the court?
+
+423
+00:33:02,744 --> 00:33:03,842
+In person?
+
+424
+00:33:03,875 --> 00:33:06,086
+I certainly appreciate you
+accommodating me today
+
+425
+00:33:06,172 --> 00:33:07,387
+by coming here,
+
+426
+00:33:07,422 --> 00:33:10,399
+but don't worry,
+I'm able to tolerate being out
+
+427
+00:33:10,438 --> 00:33:12,649
+for short periods
+with a few minor adjustments.
+
+428
+00:33:12,781 --> 00:33:15,735
+Nothing that will
+overly inconvenience the court.
+
+429
+00:33:17,607 --> 00:33:19,507
+I'll get started on this.
+
+430
+00:33:22,837 --> 00:33:25,610
+U-Unless you have other concerns.
+
+431
+00:33:26,347 --> 00:33:28,201
+I just...
+
+432
+00:33:28,797 --> 00:33:31,210
+I just keep thinking.
+
+433
+00:33:32,838 --> 00:33:34,695
+You know, Jimmy has a good heart.
+
+434
+00:33:34,793 --> 00:33:36,159
+I'm, I'm sure he does.
+
+435
+00:33:36,241 --> 00:33:38,297
+It's not an excuse for what he's done.
+
+436
+00:33:38,666 --> 00:33:40,758
+But he's my brother.
+
+437
+00:33:41,417 --> 00:33:44,719
+And I know... well, he...
+
+438
+00:33:45,201 --> 00:33:47,188
+well, he's emotional.
+He flies off the handle.
+
+439
+00:33:47,220 --> 00:33:48,078
+I understand,
+
+440
+00:33:48,163 --> 00:33:49,556
+but this is more than
+flying off the handle.
+
+441
+00:33:49,580 --> 00:33:52,119
+I'm not going to defend his actions.
+
+442
+00:33:53,073 --> 00:33:54,463
+But I can't help wondering
+
+443
+00:33:54,507 --> 00:33:57,074
+if there's not a better solution.
+
+444
+00:33:57,484 --> 00:33:58,850
+For everyone.
+
+445
+00:38:40,162 --> 00:38:43,063
+- You're good.
+- Hold up.
+
+446
+00:38:45,634 --> 00:38:47,234
+Okay, I can do that.
+
+447
+00:39:36,647 --> 00:39:38,619
+Looks like we got a hit.
+
+448
+00:39:47,128 --> 00:39:48,871
+Get down on your knees!
+
+449
+00:40:50,783 --> 00:40:53,110
+Jesus. How old is this?
+
+450
+00:40:53,314 --> 00:40:55,165
+I found it in the glove box.
+
+451
+00:40:55,262 --> 00:40:56,486
+Best guess?
+
+452
+00:40:56,528 --> 00:40:59,095
+From back when all the doors matched.
+
+453
+00:41:03,257 --> 00:41:06,952
+I got a deal offer from the ADA today.
+
+454
+00:41:07,900 --> 00:41:09,466
+And?
+
+455
+00:41:09,564 --> 00:41:11,338
+It's not what I expected.
+
+456
+00:41:11,462 --> 00:41:13,213
+Bad not what you expected?
+
+457
+00:41:14,322 --> 00:41:16,150
+It's just that...
+
+458
+00:41:16,422 --> 00:41:18,181
+It's different.
+
+459
+00:41:19,098 --> 00:41:22,332
+She's offering me
+Pre-Prosecution Diversion.
+
+460
+00:41:22,938 --> 00:41:24,493
+Seriously?
+
+461
+00:41:24,613 --> 00:41:26,494
+A PPD?
+
+462
+00:41:28,309 --> 00:41:30,767
+That's great, Jimmy.
+
+463
+00:41:31,908 --> 00:41:33,461
+Best I could hope for, right?
+
+464
+00:41:33,513 --> 00:41:34,746
+Right.
+
+465
+00:41:35,828 --> 00:41:37,782
+What does she want you to confess to?
+
+466
+00:41:37,903 --> 00:41:40,353
+All of it. The felony B and E.
+
+467
+00:41:40,439 --> 00:41:43,408
+Uh, misdemeanor petty assault
+and property damage.
+
+468
+00:41:43,437 --> 00:41:46,671
+I never touched him,
+but they got assault in there.
+
+469
+00:41:47,008 --> 00:41:48,681
+Well, could be worse.
+
+470
+00:41:48,775 --> 00:41:50,353
+As long as they never activate it,
+
+471
+00:41:50,390 --> 00:41:51,938
+it doesn't matter, right?
+
+472
+00:41:52,447 --> 00:41:55,736
+You gonna be able to keep your
+nose clean for a whole year?
+
+473
+00:41:55,851 --> 00:41:58,236
+Keep "Viktor" with a "k" on lockdown?
+
+474
+00:41:58,341 --> 00:42:00,441
+It's not a problem, Giselle.
+
+475
+00:42:00,758 --> 00:42:03,954
+And if I don't, it's instant jail, right?
+
+476
+00:42:05,368 --> 00:42:06,767
+Lucky break.
+
+477
+00:42:07,655 --> 00:42:10,389
+She must not want the hassle of a trial.
+
+478
+00:42:10,634 --> 00:42:12,548
+Guess so.
+
+479
+00:42:13,618 --> 00:42:15,259
+Jimmy...
+
+480
+00:42:15,487 --> 00:42:17,020
+this is good news.
+
+481
+00:42:17,689 --> 00:42:19,439
+And Chuck is gonna be pissed.
+
+482
+00:42:19,479 --> 00:42:21,446
+It's a big check in the "pro" column.
+
+483
+00:42:21,592 --> 00:42:25,194
+Actually, the PPD was Chuck's idea.
+
+484
+00:42:26,191 --> 00:42:27,540
+Shit.
+
+485
+00:42:27,682 --> 00:42:29,251
+Yeah.
+
+486
+00:42:31,124 --> 00:42:33,142
+What's his game?
+
+487
+00:42:33,492 --> 00:42:37,509
+One condition of the PPD
+is that my written confession
+
+488
+00:42:37,587 --> 00:42:41,009
+is immediately submitted to
+the New Mexico Bar Association.
+
+489
+00:42:41,060 --> 00:42:43,093
+Your written felony confession.
+
+490
+00:42:43,207 --> 00:42:45,025
+Yeah. I thought he wanted me in jail.
+
+491
+00:42:45,076 --> 00:42:47,447
+He just wants my law license.
+
+492
+00:42:50,819 --> 00:42:52,819
+What are you gonna do?
+
+493
+00:42:53,283 --> 00:42:54,712
+Well...
+
+494
+00:42:54,820 --> 00:42:57,540
+I knew the bar was gonna
+be an issue, right?
+
+495
+00:42:57,593 --> 00:42:59,150
+So I figured I'd plea the charges down
+
+496
+00:42:59,184 --> 00:43:01,087
+to a couple misdemeanors, get a censure,
+
+497
+00:43:01,166 --> 00:43:03,876
+and maybe a little suspension, but...
+
+498
+00:43:04,591 --> 00:43:06,431
+a confession to a felony?
+
+499
+00:43:06,540 --> 00:43:08,407
+Grounds for disbarment.
+
+500
+00:43:08,708 --> 00:43:11,040
+Yeah. And if I take it to trial and I lose,
+
+501
+00:43:11,168 --> 00:43:14,267
+I face the bar anyways
+and jail time, most likely.
+
+502
+00:43:14,874 --> 00:43:17,107
+He's got me boxed in.
+
+503
+00:43:20,204 --> 00:43:21,603
+You can fight this.
+
+504
+00:43:21,668 --> 00:43:24,101
+The disciplinary board listens
+to extenuating circumstances.
+
+505
+00:43:24,169 --> 00:43:26,636
+No, Chuck knows everybody at the bar.
+
+506
+00:43:26,726 --> 00:43:28,439
+Hell, he made half their careers.
+
+507
+00:43:28,526 --> 00:43:31,314
+It's gonna be him and
+his cronies versus me.
+
+508
+00:43:31,457 --> 00:43:32,923
+Alone.
+
+509
+00:43:36,433 --> 00:43:38,917
+- Not alone.
+- Kim.
+
+510
+00:43:39,093 --> 00:43:41,059
+Come on, Jimmy.
+
+511
+00:43:41,782 --> 00:43:43,307
+You need me.
+
+512
+00:43:43,434 --> 00:43:45,245
+You can't argue this yourself.
+
+513
+00:43:45,354 --> 00:43:46,432
+You and I both know that.
+
+514
+00:43:46,567 --> 00:43:49,604
+And I'm not gonna let you
+fight this on your own.
+
+515
+00:43:51,580 --> 00:43:54,615
+- Are you sure?
+- Yeah.
+
+516
+00:43:55,416 --> 00:43:57,550
+'Cause I don't...
+
+517
+00:43:59,110 --> 00:44:01,011
+Why would you...
+
+518
+00:44:02,532 --> 00:44:03,865
+Come on.
+
+519
+00:44:04,181 --> 00:44:05,440
+This guy?
+
+520
+00:44:05,535 --> 00:44:06,901
+Seriously?
+
+521
+00:44:11,595 --> 00:44:15,096
+Let's just call it
+the fallacy of sunk costs.
+
+522
+00:44:18,298 --> 00:44:19,864
+So what now?
+
+523
+00:44:19,922 --> 00:44:21,222
+Now?
+
+524
+00:44:21,305 --> 00:44:23,432
+Now we, uh, take that PPD,
+
+525
+00:44:23,487 --> 00:44:26,655
+and we shove it right up Chuck's ass.
+

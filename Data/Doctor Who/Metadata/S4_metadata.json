@@ -1,0 +1,114 @@
+{
+    "0": {
+        "title": "Voyage of the Damned",
+        "released": "2008-04-18",
+        "rating": "7.6",
+        "imdb_id": "tt1061123",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "1": {
+        "title": "Partners in Crime",
+        "released": "2008-04-25",
+        "rating": "7.7",
+        "imdb_id": "tt1159991",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Fires of Pompeii",
+        "released": "2008-05-02",
+        "rating": "8.0",
+        "imdb_id": "tt1173173",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Planet of the Ood",
+        "released": "2008-05-09",
+        "rating": "8.0",
+        "imdb_id": "tt1173174",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Sontaran Stratagem",
+        "released": "2008-05-16",
+        "rating": "7.4",
+        "imdb_id": "tt1159992",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Poison Sky",
+        "released": "2008-05-30",
+        "rating": "N/A",
+        "imdb_id": "tt1208127",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Doctor's Daughter",
+        "released": "2008-06-06",
+        "rating": "N/A",
+        "imdb_id": "tt1205439",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Unicorn and the Wasp",
+        "released": "2008-06-13",
+        "rating": "7.7",
+        "imdb_id": "tt1208130",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Silence in the Library",
+        "released": "2008-06-20",
+        "rating": "9.3",
+        "imdb_id": "tt1208129",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Forest of the Dead",
+        "released": "2008-06-27",
+        "rating": "N/A",
+        "imdb_id": "tt1205440",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Midnight",
+        "released": "2008-07-11",
+        "rating": "9.1",
+        "imdb_id": "tt1208128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Turn Left",
+        "released": "2008-07-18",
+        "rating": "8.9",
+        "imdb_id": "tt1205436",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Stolen Earth",
+        "released": "2008-07-25",
+        "rating": "9.1",
+        "imdb_id": "tt1205437",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Journey's End",
+        "released": "2008-08-01",
+        "rating": "9.2",
+        "imdb_id": "tt1205438",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

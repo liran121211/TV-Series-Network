@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Heavy Is the Crown",
+        "released": "2024-11-09",
+        "rating": "9.0",
+        "imdb_id": "tt16173690",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arcane\\Subtitles\\S2\\Arcane.S02E01-E03.1080p.WEB.H264-SuccessfulCrabS2E1.zip"
+    },
+    "2": {
+        "title": "Watch It All Burn",
+        "released": "2024-11-09",
+        "rating": "9.1",
+        "imdb_id": "tt34383692",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arcane\\Subtitles\\S2\\Arcane.S02E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSAS2E2.zip"
+    },
+    "3": {
+        "title": "Finally Got the Name Right",
+        "released": "2024-11-09",
+        "rating": "9.4",
+        "imdb_id": "tt34383694",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Paint the Town Blue",
+        "released": "2024-11-16",
+        "rating": "9.2",
+        "imdb_id": "tt34383695",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arcane\\Subtitles\\S2\\Arcane.S02E04-E06.1080p.WEB.H264-SuccessfulCrabS2E4.zip"
+    },
+    "5": {
+        "title": "Blisters and Bedrock",
+        "released": "2024-11-16",
+        "rating": "9.6",
+        "imdb_id": "tt34383696",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arcane\\Subtitles\\S2\\Arcane.S02E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSAS2E5.zip"
+    },
+    "6": {
+        "title": "The Message Hidden Within the Pattern",
+        "released": "2024-11-16",
+        "rating": "9.8",
+        "imdb_id": "tt34383697",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Pretend Like It's the First Time",
+        "released": "2024-11-23",
+        "rating": "9.6",
+        "imdb_id": "tt34383698",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arcane\\Subtitles\\S2\\Arcane.S02E07-E09.1080p.WEB.H264-SuccessfulCrabS2E7.zip"
+    },
+    "8": {
+        "title": "Killing Is a Cycle",
+        "released": "2024-11-23",
+        "rating": "9.1",
+        "imdb_id": "tt34383701",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arcane\\Subtitles\\S2\\Arcane.S02E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSAS2E8.zip"
+    },
+    "9": {
+        "title": "The Dirt Under Your Nails",
+        "released": "2024-11-23",
+        "rating": "9.5",
+        "imdb_id": "tt34383702",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

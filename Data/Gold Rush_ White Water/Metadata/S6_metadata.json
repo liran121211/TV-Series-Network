@@ -1,0 +1,130 @@
+{
+    "1": {
+        "title": "Fortune Favors the Bold",
+        "released": "2022-11-11",
+        "rating": "N/A",
+        "imdb_id": "tt23036480",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Into the Unknown",
+        "released": "2022-11-18",
+        "rating": "N/A",
+        "imdb_id": "tt23801074",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Airboat Accident",
+        "released": "2022-11-25",
+        "rating": "N/A",
+        "imdb_id": "tt23834254",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Dakota Fred Takes Charge",
+        "released": "2022-12-02",
+        "rating": "N/A",
+        "imdb_id": "tt23987452",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Homemade Highway to Hell",
+        "released": "2022-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt24329846",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Fuelling the Pressure",
+        "released": "2022-12-16",
+        "rating": "N/A",
+        "imdb_id": "tt24667674",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Explosion at Nugget Creek",
+        "released": "2022-12-30",
+        "rating": "N/A",
+        "imdb_id": "tt25392874",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Missing In Action",
+        "released": "2023-04-14",
+        "rating": "N/A",
+        "imdb_id": "tt27409931",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Total Annihilation",
+        "released": "2023-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt27598016",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "4-Ounce Nugget",
+        "released": "2023-04-28",
+        "rating": "N/A",
+        "imdb_id": "tt27633248",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Blood Red White Water",
+        "released": "2023-05-05",
+        "rating": "N/A",
+        "imdb_id": "tt27633253",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Risky Business",
+        "released": "2023-05-12",
+        "rating": "N/A",
+        "imdb_id": "tt27787041",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Mouth of the Dragon",
+        "released": "2023-05-19",
+        "rating": "N/A",
+        "imdb_id": "tt27787045",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "In Death's Shadow",
+        "released": "2023-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt27825896",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Hell from the Heavens",
+        "released": "2023-06-02",
+        "rating": "N/A",
+        "imdb_id": "tt27879764",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Gold Rush_ White Water\\Subtitles\\S6\\SUBDL::gold-rush-white-water-sixth-season-english-3102188.zip"
+    },
+    "17": {
+        "title": "Judgment Day",
+        "released": "2023-06-09",
+        "rating": "N/A",
+        "imdb_id": "tt27956534",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

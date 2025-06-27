@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "The Star of the Backstage",
+        "released": "2021-09-26",
+        "rating": "4.4",
+        "imdb_id": "tt14167092",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S33\\The.Simpsons.S33E01.WEBRip.x264-ION10S33E1.zip"
+    },
+    "2": {
+        "title": "Bart's in Jail!",
+        "released": "2021-10-03",
+        "rating": "7.0",
+        "imdb_id": "tt14437466",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S33\\The.Simpsons.S33E02.WEBRip.x264-ION10S33E2.zip"
+    },
+    "3": {
+        "title": "Treehouse of Horror XXXII",
+        "released": "2021-10-10",
+        "rating": "6.6",
+        "imdb_id": "tt14457876",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S33\\The.Simpsons.S33E03.WEBRip.x264-ION10S33E3.zip"
+    },
+    "4": {
+        "title": "The Wayz We Were",
+        "released": "2021-10-17",
+        "rating": "6.7",
+        "imdb_id": "tt14457882",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S33\\The.Simpsons.S33E04.WEBRip.x264-ION10S33E4.zip"
+    },
+    "5": {
+        "title": "Lisa's Belly",
+        "released": "2021-10-24",
+        "rating": "6.8",
+        "imdb_id": "tt14457894",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S33\\The.Simpsons.S33E05.WEBRip.x264-ION10S33E5.zip"
+    },
+    "6": {
+        "title": "A Serious Flanders",
+        "released": "2021-11-07",
+        "rating": "8.3",
+        "imdb_id": "tt14457906",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S33\\The.Simpsons.S33E06.ASeriousFlanders.WEBRip.x264-ION10S33E6.zip"
+    },
+    "7": {
+        "title": "A Serious Flanders: Part 2",
+        "released": "2021-11-14",
+        "rating": "8.2",
+        "imdb_id": "tt14457916",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S33\\The.Simpsons.S33E07.A_Serious_Flanders_Part_2.WEBRip.x264-ION10S33E7.zip"
+    },
+    "8": {
+        "title": "Portrait of a Lackey on Fire",
+        "released": "2021-11-21",
+        "rating": "6.2",
+        "imdb_id": "tt14457928",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S33\\The.Simpsons.S33E08.APortraitofaLackeyOnFire.WEBRip.x264-ION10S33E8.zip"
+    },
+    "9": {
+        "title": "Mothers and Other Strangers",
+        "released": "2021-11-28",
+        "rating": "6.3",
+        "imdb_id": "tt14457932",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S26\\The.Simpsons.S26E09.HDTV.x264-KILLERS.HIS26E9.zip"
+    },
+    "10": {
+        "title": "A Made Maggie",
+        "released": "2021-12-19",
+        "rating": "6.9",
+        "imdb_id": "tt14457938",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Longest Marge",
+        "released": "2022-01-02",
+        "rating": "N/A",
+        "imdb_id": "tt14457944",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Pixelated and Afraid",
+        "released": "2022-02-27",
+        "rating": "7.7",
+        "imdb_id": "tt14457958",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Boyz N the Highlands",
+        "released": "2022-03-06",
+        "rating": "6.7",
+        "imdb_id": "tt14457978",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "You Won't Believe What This Episode Is About - Act Three Will Shock You!",
+        "released": "2022-03-13",
+        "rating": "6.5",
+        "imdb_id": "tt14457992",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Bart the Cool Kid",
+        "released": "2022-03-20",
+        "rating": "6.4",
+        "imdb_id": "tt14458006",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Pretty Whittle Liar",
+        "released": "2022-03-27",
+        "rating": "6.3",
+        "imdb_id": "tt14458018",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Sound of Bleeding Gums",
+        "released": "2022-04-10",
+        "rating": "5.9",
+        "imdb_id": "tt14458034",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "My Octopus and a Teacher",
+        "released": "2022-04-24",
+        "rating": "6.6",
+        "imdb_id": "tt14458056",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Girls Just Shauna Have Fun",
+        "released": "2022-05-01",
+        "rating": "6.6",
+        "imdb_id": "tt14458070",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Marge the Meanie",
+        "released": "2022-05-08",
+        "rating": "6.7",
+        "imdb_id": "tt14458078",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Meat Is Murder",
+        "released": "2022-05-15",
+        "rating": "6.1",
+        "imdb_id": "tt14458098",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Poorhouse Rock",
+        "released": "2022-05-22",
+        "rating": "6.0",
+        "imdb_id": "tt14458122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

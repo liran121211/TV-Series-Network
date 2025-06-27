@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Episode #3.1",
+        "released": "2009-10-24",
+        "rating": "8.0",
+        "imdb_id": "tt1534321",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Thick of It\\Subtitles\\S3\\The.Thick.Of.It.S03E01.HDTV.XviD-BiAS3E1.zip"
+    },
+    "2": {
+        "title": "Episode #3.2",
+        "released": "2009-10-31",
+        "rating": "8.4",
+        "imdb_id": "tt1538188",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #3.3",
+        "released": "2009-11-07",
+        "rating": "N/A",
+        "imdb_id": "tt1543171",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #3.4",
+        "released": "2009-11-14",
+        "rating": "7.9",
+        "imdb_id": "tt1547407",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #3.5",
+        "released": "2009-11-21",
+        "rating": "8.7",
+        "imdb_id": "tt1552594",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #3.6",
+        "released": "2009-11-28",
+        "rating": "8.2",
+        "imdb_id": "tt1557084",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #3.7",
+        "released": "2009-12-05",
+        "rating": "8.5",
+        "imdb_id": "tt1557470",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #3.8",
+        "released": "2009-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt1566416",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

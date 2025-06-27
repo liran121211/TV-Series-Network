@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Chet's Shirt",
+        "released": "2002-09-15",
+        "rating": "8.3",
+        "imdb_id": "tt0551385",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S6\\Curb.Your.Enthusiasm.S06.E01-E10.COMPLETE.DVDRip.x264-SARTRES6E1.zip"
+    },
+    "2": {
+        "title": "The Benadryl Brownie",
+        "released": "2002-09-23",
+        "rating": "7.7",
+        "imdb_id": "tt0551400",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Club Soda and Salt",
+        "released": "2002-09-29",
+        "rating": "8.3",
+        "imdb_id": "tt0551386",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Nanny from Hell",
+        "released": "2002-10-06",
+        "rating": "8.2",
+        "imdb_id": "tt0551415",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Terrorist Attack",
+        "released": "2002-10-13",
+        "rating": "7.7",
+        "imdb_id": "tt0551424",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Special Section",
+        "released": "2002-10-20",
+        "rating": "N/A",
+        "imdb_id": "tt0551421",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Corpse-Sniffing Dog",
+        "released": "2002-10-27",
+        "rating": "8.4",
+        "imdb_id": "tt0551407",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Krazee-Eyez Killa",
+        "released": "2002-11-03",
+        "rating": "8.8",
+        "imdb_id": "tt0551389",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Mary, Joseph and Larry",
+        "released": "2002-11-10",
+        "rating": "8.0",
+        "imdb_id": "tt0551391",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Grand Opening",
+        "released": "2002-11-17",
+        "rating": "N/A",
+        "imdb_id": "tt0551410",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "1": {
+        "title": "Girl of Steel",
+        "released": "2017-10-09",
+        "rating": "7.6",
+        "imdb_id": "tt6403442",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Triggers",
+        "released": "2017-10-16",
+        "rating": "7.2",
+        "imdb_id": "tt7171722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Far from the Tree",
+        "released": "2017-10-23",
+        "rating": "7.2",
+        "imdb_id": "tt7171726",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Faithful",
+        "released": "2017-10-30",
+        "rating": "7.4",
+        "imdb_id": "tt7200898",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Damage",
+        "released": "2017-11-06",
+        "rating": "7.5",
+        "imdb_id": "tt7252130",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Midvale",
+        "released": "2017-11-13",
+        "rating": "8.1",
+        "imdb_id": "tt7304078",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Wake Up",
+        "released": "2017-11-20",
+        "rating": "7.6",
+        "imdb_id": "tt7314624",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Crisis on Earth-X, Part 1",
+        "released": "2017-11-27",
+        "rating": "8.7",
+        "imdb_id": "tt7216108",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Reign",
+        "released": "2017-12-04",
+        "rating": "8.5",
+        "imdb_id": "tt7541772",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Legion of Super-Heroes",
+        "released": "2018-01-15",
+        "rating": "7.7",
+        "imdb_id": "tt7637944",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Fort Rozz",
+        "released": "2018-01-22",
+        "rating": "7.6",
+        "imdb_id": "tt7637966",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "For Good",
+        "released": "2018-01-29",
+        "rating": "7.2",
+        "imdb_id": "tt7637972",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Both Sides Now",
+        "released": "2018-02-05",
+        "rating": "7.3",
+        "imdb_id": "tt7637980",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Schott Through the Heart",
+        "released": "2018-04-16",
+        "rating": "7.0",
+        "imdb_id": "tt7638002",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "In Search of Lost Time",
+        "released": "2018-04-23",
+        "rating": "7.5",
+        "imdb_id": "tt7617864",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Of Two Minds",
+        "released": "2018-04-30",
+        "rating": "N/A",
+        "imdb_id": "tt7762810",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Trinity",
+        "released": "2018-05-07",
+        "rating": "N/A",
+        "imdb_id": "tt7762812",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Shelter from the Storm",
+        "released": "2018-05-14",
+        "rating": "7.5",
+        "imdb_id": "tt7762814",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Fanatical",
+        "released": "2018-05-21",
+        "rating": "6.9",
+        "imdb_id": "tt7762822",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Dark Side of the Moon",
+        "released": "2018-05-28",
+        "rating": "N/A",
+        "imdb_id": "tt7762826",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Not Kansas",
+        "released": "2018-06-04",
+        "rating": "6.4",
+        "imdb_id": "tt7762828",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Make It Reign",
+        "released": "2018-06-11",
+        "rating": "7.3",
+        "imdb_id": "tt7762834",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Battles Lost and Won",
+        "released": "2018-06-18",
+        "rating": "7.5",
+        "imdb_id": "tt7762842",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

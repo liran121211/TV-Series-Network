@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Episode #26.1",
+        "released": "2019-04-25",
+        "rating": "5.3",
+        "imdb_id": "tt9169194",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #26.2",
+        "released": "2019-05-02",
+        "rating": "5.0",
+        "imdb_id": "tt9752316",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #26.3",
+        "released": "2019-05-09",
+        "rating": "N/A",
+        "imdb_id": "tt9752332",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #26.4",
+        "released": "2019-05-16",
+        "rating": "5.9",
+        "imdb_id": "tt9752354",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #26.5",
+        "released": "2019-05-23",
+        "rating": "N/A",
+        "imdb_id": "tt9752366",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

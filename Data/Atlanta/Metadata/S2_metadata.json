@@ -1,0 +1,90 @@
+{
+    "1": {
+        "title": "Alligator Man",
+        "released": "2018-03-01",
+        "rating": "8.8",
+        "imdb_id": "tt6113298",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S2\\Atlanta.S02E01.iNTERNAL.720p.WEB.x264-BAMBOOZLES2E1.zip"
+    },
+    "2": {
+        "title": "Sportin' Waves",
+        "released": "2018-03-08",
+        "rating": "8.2",
+        "imdb_id": "tt7550700",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S2\\Atlanta.S02E02.Sportin'_Waves.WEBRip.x264-ION10.HIS2E2.zip"
+    },
+    "3": {
+        "title": "Money Bag Shawty",
+        "released": "2018-03-15",
+        "rating": "8.4",
+        "imdb_id": "tt7403926",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S2\\Atlanta.S02E03.1080p.WEB.H264-DEFLATES2E3.zip"
+    },
+    "4": {
+        "title": "Helen",
+        "released": "2018-03-22",
+        "rating": "7.9",
+        "imdb_id": "tt7631468",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S2\\Atlanta.S02E04.WEBRip.x264-ION10S2E4.zip"
+    },
+    "5": {
+        "title": "Barbershop",
+        "released": "2018-03-29",
+        "rating": "9.1",
+        "imdb_id": "tt7599684",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S2\\Atlanta.S02E05.Barbershop.720p.WEB.x264-BAMBOOZLES2E5.zip"
+    },
+    "6": {
+        "title": "Teddy Perkins",
+        "released": "2018-04-05",
+        "rating": "9.7",
+        "imdb_id": "tt7629358",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S2\\Atlanta.S02E06.Teddy.Perkins.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTbS2E6.zip"
+    },
+    "7": {
+        "title": "Champagne Papi",
+        "released": "2018-04-12",
+        "rating": "7.5",
+        "imdb_id": "tt7625832",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S2\\Atlanta.S02E07.1080p.WEB.H264-DEFLATES2E7.zip"
+    },
+    "8": {
+        "title": "Woods",
+        "released": "2018-04-19",
+        "rating": "8.8",
+        "imdb_id": "tt7604296",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S2\\Atlanta.S02E08.XviD-AFGS2E8.zip"
+    },
+    "9": {
+        "title": "North of the Border",
+        "released": "2018-04-26",
+        "rating": "9.0",
+        "imdb_id": "tt7709702",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S2\\Atlanta.S02E09.XviD-AFGS2E9.zip"
+    },
+    "10": {
+        "title": "FUBU",
+        "released": "2018-05-03",
+        "rating": "8.8",
+        "imdb_id": "tt7709816",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Crabs in a Barrel",
+        "released": "2018-05-10",
+        "rating": "N/A",
+        "imdb_id": "tt7724458",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

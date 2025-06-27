@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "The Cat and the Canary",
+        "released": "2005-02-05",
+        "rating": "N/A",
+        "imdb_id": "tt0618185",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Ties That Bind",
+        "released": "2005-02-12",
+        "rating": "N/A",
+        "imdb_id": "tt0618198",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Doomsday Sanction",
+        "released": "2005-02-19",
+        "rating": "N/A",
+        "imdb_id": "tt0618187",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Task Force X",
+        "released": "2005-05-21",
+        "rating": "8.4",
+        "imdb_id": "tt0618181",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Balance",
+        "released": "2005-05-28",
+        "rating": "N/A",
+        "imdb_id": "tt0618182",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Double Date",
+        "released": "2005-06-04",
+        "rating": "N/A",
+        "imdb_id": "tt0618132",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Clash",
+        "released": "2005-06-11",
+        "rating": "N/A",
+        "imdb_id": "tt0618186",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Hunter's Moon",
+        "released": "2005-06-18",
+        "rating": "N/A",
+        "imdb_id": "tt0618147",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Question Authority",
+        "released": "2005-06-25",
+        "rating": "N/A",
+        "imdb_id": "tt0618169",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Flashpoint",
+        "released": "2005-07-02",
+        "rating": "N/A",
+        "imdb_id": "tt0618138",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Panic in the Sky",
+        "released": "2005-07-09",
+        "rating": "N/A",
+        "imdb_id": "tt0618165",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Divided We Fall",
+        "released": "2005-07-16",
+        "rating": "9.3",
+        "imdb_id": "tt0618131",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Epilogue",
+        "released": "2005-07-23",
+        "rating": "9.2",
+        "imdb_id": "tt0618135",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

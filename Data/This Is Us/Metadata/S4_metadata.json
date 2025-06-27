@@ -1,0 +1,146 @@
+{
+    "1": {
+        "title": "Strangers",
+        "released": "2019-09-24",
+        "rating": "9.0",
+        "imdb_id": "tt10322306",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S4\\This.Is.Us.S04E01.HDTV.x264-SVAS4E1.zip"
+    },
+    "2": {
+        "title": "The Pool: Part Two",
+        "released": "2019-10-01",
+        "rating": "8.4",
+        "imdb_id": "tt10322308",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S4\\This.Is.Us.S04E02.HDTV.x264-SVAS4E2.zip"
+    },
+    "3": {
+        "title": "Unhinged",
+        "released": "2019-10-08",
+        "rating": "N/A",
+        "imdb_id": "tt10322312",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S4\\This.Is.Us.S04E03.HDTV.x264-SVAS4E3.zip"
+    },
+    "4": {
+        "title": "Flip a Coin",
+        "released": "2019-10-15",
+        "rating": "N/A",
+        "imdb_id": "tt10322310",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S4\\This.Is.Us.S04E04.HDTV.x264-KILLERSS4E4.zip"
+    },
+    "5": {
+        "title": "Storybook Love",
+        "released": "2019-10-22",
+        "rating": "8.9",
+        "imdb_id": "tt10322314",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S4\\This.is.Us.S04E05.HDTV.x264-KILLERSS4E5.zip"
+    },
+    "6": {
+        "title": "The Club",
+        "released": "2019-10-29",
+        "rating": "8.3",
+        "imdb_id": "tt10322316",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S4\\This.Is.Us.S04E06.HDTV.x264-SVAS4E6.zip"
+    },
+    "7": {
+        "title": "The Dinner and the Date",
+        "released": "2019-11-05",
+        "rating": "N/A",
+        "imdb_id": "tt10322320",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S4\\This.Is.Us.S04E07.HDTV.x264-AVSS4E7.zip"
+    },
+    "8": {
+        "title": "Sorry",
+        "released": "2019-11-12",
+        "rating": "8.5",
+        "imdb_id": "tt10322322",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S4\\This.Is.Us.S04E08.Sorry.720p.WEBRip.x264-ION10S4E8.zip"
+    },
+    "9": {
+        "title": "So Long, Marianne",
+        "released": "2019-11-19",
+        "rating": "9.2",
+        "imdb_id": "tt10322318",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S4\\This.Is.Us.S04E09.WEBRip.x264-ION10S4E9.zip"
+    },
+    "10": {
+        "title": "Light and Shadows",
+        "released": "2020-01-14",
+        "rating": "8.8",
+        "imdb_id": "tt10322324",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "A Hell of a Week: Part One",
+        "released": "2020-01-21",
+        "rating": "8.6",
+        "imdb_id": "tt10322326",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "A Hell of a Week: Part Two",
+        "released": "2020-01-28",
+        "rating": "8.7",
+        "imdb_id": "tt10322328",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "A Hell of a Week: Part Three",
+        "released": "2020-02-11",
+        "rating": "8.3",
+        "imdb_id": "tt10322332",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Cabin",
+        "released": "2020-02-18",
+        "rating": "9.5",
+        "imdb_id": "tt10322330",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Clouds",
+        "released": "2020-02-25",
+        "rating": "8.6",
+        "imdb_id": "tt10322334",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "New York, New York, New York",
+        "released": "2020-03-10",
+        "rating": "8.6",
+        "imdb_id": "tt10322336",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "After the Fire",
+        "released": "2020-03-17",
+        "rating": "8.7",
+        "imdb_id": "tt10322340",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Strangers: Part Two",
+        "released": "2020-03-24",
+        "rating": "9.3",
+        "imdb_id": "tt10322338",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

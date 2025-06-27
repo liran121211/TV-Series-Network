@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Return of the Hero",
+        "released": "2019-04-10",
+        "rating": "7.9",
+        "imdb_id": "tt9556748",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\One Punch Man\\Subtitles\\S2\\OneManPunchS02E01.720p.1080p-[Erai-raws]S2E1.zip"
+    },
+    "2": {
+        "title": "Human Monster",
+        "released": "2019-04-17",
+        "rating": "8.3",
+        "imdb_id": "tt10050328",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\One Punch Man\\Subtitles\\S2\\OneManPunchS02E02.720p.1080p-[Erai-raws]S2E2.zip"
+    },
+    "3": {
+        "title": "The Hunt Begins",
+        "released": "2019-04-24",
+        "rating": "8.8",
+        "imdb_id": "tt10050330",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\One Punch Man\\Subtitles\\S2\\OneManPunchS02E03.720p.1080p-[Erai-raws]S2E3.zip"
+    },
+    "4": {
+        "title": "Metal Bat",
+        "released": "2019-05-01",
+        "rating": "7.6",
+        "imdb_id": "tt10050332",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\One Punch Man\\Subtitles\\S2\\OneManPunchS02E04.720p.1080p-[Erai-raws]S2E4.zip"
+    },
+    "5": {
+        "title": "The Martial Arts Tournament",
+        "released": "2019-05-08",
+        "rating": "7.3",
+        "imdb_id": "tt10050334",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\One Punch Man\\Subtitles\\S2\\OneManPunchS02E05.720p.1080p-[Erai-raws]S2E5.zip"
+    },
+    "6": {
+        "title": "The Uprising of the Monsters",
+        "released": "2019-05-15",
+        "rating": "7.5",
+        "imdb_id": "tt10050336",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\One Punch Man\\Subtitles\\S2\\OneManPunchS02E06.720p.1080p-[Erai-raws]S2E6.zip"
+    },
+    "7": {
+        "title": "Class S Heroes",
+        "released": "2019-05-22",
+        "rating": "8.7",
+        "imdb_id": "tt10050338",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\One Punch Man\\Subtitles\\S2\\OneManPunchS02E07.720p.1080p-[Erai-raws]S2E7.zip"
+    },
+    "8": {
+        "title": "The Resistance of the Strong",
+        "released": "2019-05-29",
+        "rating": "8.5",
+        "imdb_id": "tt10050340",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\One Punch Man\\Subtitles\\S2\\OneManPunchS02E08.720p.1080p-[Erai-raws]S2E8.zip"
+    },
+    "9": {
+        "title": "The Troubles of the Strongest",
+        "released": "2019-06-12",
+        "rating": "7.9",
+        "imdb_id": "tt10050342",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\One Punch Man\\Subtitles\\S2\\OneManPunchS02E09.720p.1080p-[Erai-raws]S2E9.zip"
+    },
+    "10": {
+        "title": "The Encircling Net of Justice",
+        "released": "2019-06-19",
+        "rating": "7.7",
+        "imdb_id": "tt10050346",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Everyone's Dignity",
+        "released": "2019-06-26",
+        "rating": "8.9",
+        "imdb_id": "tt10050348",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Cleaning Up the Disciple's Mess",
+        "released": "2019-07-03",
+        "rating": "N/A",
+        "imdb_id": "tt10050352",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

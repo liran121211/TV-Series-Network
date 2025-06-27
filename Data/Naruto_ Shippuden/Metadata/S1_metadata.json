@@ -1,0 +1,802 @@
+{
+    "6": {
+        "title": "Noruma kuriâ",
+        "released": "2009-11-11",
+        "rating": "N/A",
+        "imdb_id": "tt0990166",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Shissôre Kankurô",
+        "released": "2009-11-18",
+        "rating": "N/A",
+        "imdb_id": "tt0996817",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Shutsugeki, Kakashi han",
+        "released": "2009-12-02",
+        "rating": "N/A",
+        "imdb_id": "tt1191046",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Jinchûriki no namida",
+        "released": "2009-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt1202309",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Fûinjutsu: Genryû kyû fûjin",
+        "released": "2009-12-16",
+        "rating": "N/A",
+        "imdb_id": "tt1202302",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Iryô ninja no deshi",
+        "released": "2009-12-23",
+        "rating": "N/A",
+        "imdb_id": "tt1202307",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Kakushi dama nazukete...!",
+        "released": "2009-12-31",
+        "rating": "N/A",
+        "imdb_id": "tt1202310",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Jinchûriki no himitsu",
+        "released": "2010-01-06",
+        "rating": "N/A",
+        "imdb_id": "tt1202308",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Gaara shisu",
+        "released": "2010-01-13",
+        "rating": "N/A",
+        "imdb_id": "tt1202303",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Totsunyû! Botan fukku entorî",
+        "released": "2010-01-20",
+        "rating": "N/A",
+        "imdb_id": "tt1202314",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Torappu sadô! Gai han no teki",
+        "released": "2010-01-27",
+        "rating": "N/A",
+        "imdb_id": "tt1202313",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Hiruko VS futari no kunoichi",
+        "released": "2010-02-03",
+        "rating": "N/A",
+        "imdb_id": "tt1202304",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Chiyo no oku no te",
+        "released": "2010-02-17",
+        "rating": "N/A",
+        "imdb_id": "tt1202300",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Sandaime Kazekage",
+        "released": "2010-02-24",
+        "rating": "N/A",
+        "imdb_id": "tt1214533",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Sei to shi no san bun kan",
+        "released": "2010-03-03",
+        "rating": "N/A",
+        "imdb_id": "tt1214534",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Jû-ki VS Hyaku-ki",
+        "released": "2010-03-10",
+        "rating": "N/A",
+        "imdb_id": "tt1214528",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Kanawanu yume",
+        "released": "2010-03-17",
+        "rating": "8.5",
+        "imdb_id": "tt1214530",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Yomigaeru kemono-tachi",
+        "released": "2010-03-24",
+        "rating": "N/A",
+        "imdb_id": "tt1214537",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Kakashi kaigan!",
+        "released": "2010-03-31",
+        "rating": "N/A",
+        "imdb_id": "tt1214529",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Shunkan no bigaku",
+        "released": "2010-04-07",
+        "rating": "8.3",
+        "imdb_id": "tt1214535",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Tsuga re yuku mono",
+        "released": "2010-04-14",
+        "rating": "N/A",
+        "imdb_id": "tt1214536",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Kazekage no kikan",
+        "released": "2010-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt1214531",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "The New Target",
+        "released": "2010-04-28",
+        "rating": "N/A",
+        "imdb_id": "tt1215341",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "Kessei! Shin Kakashi han",
+        "released": "2010-05-05",
+        "rating": "N/A",
+        "imdb_id": "tt1214532",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Gadatensoku",
+        "released": "2010-05-12",
+        "rating": "N/A",
+        "imdb_id": "tt1214527",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Itsuwari no egao",
+        "released": "2010-05-19",
+        "rating": "N/A",
+        "imdb_id": "tt1196031",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Mudai",
+        "released": "2010-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt1196032",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Shimyurêshon",
+        "released": "2010-06-02",
+        "rating": "N/A",
+        "imdb_id": "tt1206226",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Tenchikyô",
+        "released": "2010-06-16",
+        "rating": "N/A",
+        "imdb_id": "tt1206228",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Kyûbi kaihô!!",
+        "released": "2010-06-23",
+        "rating": "N/A",
+        "imdb_id": "tt1206221",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Gokuhi ninmu sutâto",
+        "released": "2010-06-30",
+        "rating": "N/A",
+        "imdb_id": "tt1206220",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Orochimaru vs Jinchûriki",
+        "released": "2010-07-07",
+        "rating": "N/A",
+        "imdb_id": "tt1206223",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Sakura no namida",
+        "released": "2010-07-14",
+        "rating": "N/A",
+        "imdb_id": "tt1206224",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Tatakai no tenmatsu",
+        "released": "2010-07-21",
+        "rating": "N/A",
+        "imdb_id": "tt1206227",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "Uragiri no hate",
+        "released": "2010-07-28",
+        "rating": "N/A",
+        "imdb_id": "tt1206229",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Mikan no pêji",
+        "released": "2010-08-04",
+        "rating": "N/A",
+        "imdb_id": "tt1206222",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Sennyû! Dokuhebi no ajito",
+        "released": "2010-08-11",
+        "rating": "N/A",
+        "imdb_id": "tt1206225",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "Tsunagari",
+        "released": "2010-08-18",
+        "rating": "N/A",
+        "imdb_id": "tt1194354",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "Taisetsu na mono",
+        "released": "2010-08-25",
+        "rating": "N/A",
+        "imdb_id": "tt1194353",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Ehon ga kataru sutôrî",
+        "released": "2010-09-01",
+        "rating": "N/A",
+        "imdb_id": "tt1202301",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "Saikai",
+        "released": "2010-09-08",
+        "rating": "N/A",
+        "imdb_id": "tt1206631",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Uchiha no chikara",
+        "released": "2010-09-15",
+        "rating": "N/A",
+        "imdb_id": "tt1206632",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "53": {
+        "title": "Taitoru",
+        "released": "2010-10-27",
+        "rating": "N/A",
+        "imdb_id": "tt1215342",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "54": {
+        "title": "Akumu",
+        "released": "2010-11-03",
+        "rating": "N/A",
+        "imdb_id": "tt1214526",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "Kaze",
+        "released": "2010-11-10",
+        "rating": "N/A",
+        "imdb_id": "tt1722523",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "56": {
+        "title": "Ugomeku",
+        "released": "2010-11-17",
+        "rating": "N/A",
+        "imdb_id": "tt1722531",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "57": {
+        "title": "Ubawareta nemuri",
+        "released": "2010-12-01",
+        "rating": "N/A",
+        "imdb_id": "tt1722530",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "58": {
+        "title": "Kodoku",
+        "released": "2010-12-08",
+        "rating": "N/A",
+        "imdb_id": "tt1722524",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "59": {
+        "title": "Aratana teki",
+        "released": "2010-12-15",
+        "rating": "N/A",
+        "imdb_id": "tt1722536",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "60": {
+        "title": "Uitenpen",
+        "released": "2010-12-22",
+        "rating": "N/A",
+        "imdb_id": "tt1722532",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "61": {
+        "title": "Sesshoku",
+        "released": "2010-12-29",
+        "rating": "N/A",
+        "imdb_id": "tt1722527",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "62": {
+        "title": "Chîmumeito",
+        "released": "2011-01-05",
+        "rating": "N/A",
+        "imdb_id": "tt1722521",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "63": {
+        "title": "Futatsu no gyoku",
+        "released": "2011-01-12",
+        "rating": "N/A",
+        "imdb_id": "tt1722522",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "64": {
+        "title": "Shikkoku no noroshi",
+        "released": "2011-01-19",
+        "rating": "N/A",
+        "imdb_id": "tt1722528",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "65": {
+        "title": "Ankoku no sejô",
+        "released": "2011-01-26",
+        "rating": "N/A",
+        "imdb_id": "tt1722520",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "66": {
+        "title": "Yomigaeru tamashi",
+        "released": "2011-02-02",
+        "rating": "N/A",
+        "imdb_id": "tt1722533",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "67": {
+        "title": "Sorezore no shitô",
+        "released": "2011-02-09",
+        "rating": "N/A",
+        "imdb_id": "tt1722529",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "68": {
+        "title": "Mezame no toki",
+        "released": "2011-02-16",
+        "rating": "N/A",
+        "imdb_id": "tt1722526",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "69": {
+        "title": "Zetsubô",
+        "released": "2011-02-23",
+        "rating": "N/A",
+        "imdb_id": "tt1722534",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "70": {
+        "title": "Kyômei",
+        "released": "2011-03-02",
+        "rating": "N/A",
+        "imdb_id": "tt1722525",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "71": {
+        "title": "Tomo yo",
+        "released": "2011-03-09",
+        "rating": "N/A",
+        "imdb_id": "tt1469092",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "72": {
+        "title": "Shinobi yoru kyôi",
+        "released": "2011-03-16",
+        "rating": "N/A",
+        "imdb_id": "tt1289146",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "73": {
+        "title": "&quot;Akatuski&quot; shinkô",
+        "released": "2011-03-23",
+        "rating": "N/A",
+        "imdb_id": "tt1289145",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "74": {
+        "title": "Hoshizora no shita de",
+        "released": "2011-03-30",
+        "rating": "N/A",
+        "imdb_id": "tt1289147",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "75": {
+        "title": "Rôsô no inori",
+        "released": "2011-04-06",
+        "rating": "N/A",
+        "imdb_id": "tt1469088",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "76": {
+        "title": "Tsuginaru suteppu",
+        "released": "2011-04-16",
+        "rating": "N/A",
+        "imdb_id": "tt1469093",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "77": {
+        "title": "Bôgin",
+        "released": "2011-04-23",
+        "rating": "N/A",
+        "imdb_id": "tt1469079",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "78": {
+        "title": "Kudasareta sabaki",
+        "released": "2011-04-30",
+        "rating": "8.6",
+        "imdb_id": "tt1469086",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "79": {
+        "title": "Todokanu zekkyô",
+        "released": "2011-05-07",
+        "rating": "N/A",
+        "imdb_id": "tt1469091",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "80": {
+        "title": "Saigo no kotoba",
+        "released": "2011-05-14",
+        "rating": "N/A",
+        "imdb_id": "tt1469089",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "81": {
+        "title": "Kanashiki shirase",
+        "released": "2011-05-21",
+        "rating": "N/A",
+        "imdb_id": "tt1312698",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "82": {
+        "title": "Daijûppan",
+        "released": "2011-06-04",
+        "rating": "8.8",
+        "imdb_id": "tt1316799",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "83": {
+        "title": "Tâgetto rokkuon",
+        "released": "2011-06-18",
+        "rating": "8.2",
+        "imdb_id": "tt1319956",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "84": {
+        "title": "Kakuzu's Abilities",
+        "released": "2011-06-25",
+        "rating": "N/A",
+        "imdb_id": "tt1323350",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "85": {
+        "title": "The Terrifying Secret",
+        "released": "2011-07-02",
+        "rating": "N/A",
+        "imdb_id": "tt1327478",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "86": {
+        "title": "Shikamaru's Genius",
+        "released": "2011-07-09",
+        "rating": "8.9",
+        "imdb_id": "tt1334497",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "87": {
+        "title": "When You Curse Someone, You Dig Your Own Grave",
+        "released": "2011-07-16",
+        "rating": "N/A",
+        "imdb_id": "tt1334498",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "88": {
+        "title": "Wind Element: Rasen Shuriken!",
+        "released": "2011-07-23",
+        "rating": "8.9",
+        "imdb_id": "tt1338428",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "89": {
+        "title": "The Price of Power",
+        "released": "2011-07-30",
+        "rating": "N/A",
+        "imdb_id": "tt1341586",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "92": {
+        "title": "Deai",
+        "released": "2011-08-27",
+        "rating": "N/A",
+        "imdb_id": "tt1371331",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "95": {
+        "title": "Futatsu no omamori",
+        "released": "2011-09-17",
+        "rating": "N/A",
+        "imdb_id": "tt1469618",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "99": {
+        "title": "Arekurû Bijû",
+        "released": "2012-12-29",
+        "rating": "N/A",
+        "imdb_id": "tt1469622",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "141": {
+        "title": "Shinjitsu",
+        "released": "2009-12-24",
+        "rating": "9.4",
+        "imdb_id": "tt2003727",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "156": {
+        "title": "Shi o koeru toki",
+        "released": "2010-04-15",
+        "rating": "N/A",
+        "imdb_id": "tt2262218",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "163": {
+        "title": "Bakuhatsu! Sen'nin modô",
+        "released": "2010-06-03",
+        "rating": "N/A",
+        "imdb_id": "tt1994948",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "190": {
+        "title": "Naruto to rôhei",
+        "released": "2010-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt2431732",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "196": {
+        "title": "Yami e no shissô",
+        "released": "2011-01-27",
+        "rating": "N/A",
+        "imdb_id": "tt1987255",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "208": {
+        "title": "Tomo to shite",
+        "released": "2011-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt2035154",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "222": {
+        "title": "Gokage no ketsudan",
+        "released": "2011-07-28",
+        "rating": "N/A",
+        "imdb_id": "tt2384359",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "224": {
+        "title": "Benisu no shônin",
+        "released": "2011-08-11",
+        "rating": "N/A",
+        "imdb_id": "tt2506084",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "249": {
+        "title": "Arigatô",
+        "released": "2012-02-09",
+        "rating": "9.5",
+        "imdb_id": "tt2232731",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "261": {
+        "title": "Tomo no tame ni",
+        "released": "2012-05-03",
+        "rating": "7.7",
+        "imdb_id": "tt2396027",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "265": {
+        "title": "Shukuteki to no saikai",
+        "released": "2012-05-31",
+        "rating": "N/A",
+        "imdb_id": "tt2181764",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "277": {
+        "title": "Wakai no In",
+        "released": "2012-08-30",
+        "rating": "N/A",
+        "imdb_id": "tt2320572",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "280": {
+        "title": "Geijutsu ka no bigaku",
+        "released": "2012-09-20",
+        "rating": "N/A",
+        "imdb_id": "tt2405166",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "285": {
+        "title": "Shakuton tsukai! Sunagakure no Pakura",
+        "released": "2012-10-25",
+        "rating": "N/A",
+        "imdb_id": "tt2478696",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "287": {
+        "title": "Kakeru ni ataisuru mono",
+        "released": "2012-11-01",
+        "rating": "N/A",
+        "imdb_id": "tt2492428",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "288": {
+        "title": "Kyôi, Jinpachi - Kushimaru konbi!!",
+        "released": "2012-11-08",
+        "rating": "N/A",
+        "imdb_id": "tt2504984",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "294": {
+        "title": "&quot;Chikara&quot; Episode 5",
+        "released": "2012-12-20",
+        "rating": "N/A",
+        "imdb_id": "tt2583538",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "295": {
+        "title": "&quot;Chikara&quot; Episode Final",
+        "released": "2013-01-10",
+        "rating": "6.9",
+        "imdb_id": "tt2623566",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

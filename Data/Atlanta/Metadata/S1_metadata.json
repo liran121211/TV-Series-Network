@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Big Bang",
+        "released": "2016-09-06",
+        "rating": "8.1",
+        "imdb_id": "tt5689816",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S1\\Atlanta.S01E01.The.Big.Bang.WEBRip.x264-RARBGS1E1.zip"
+    },
+    "2": {
+        "title": "Streets on Lock",
+        "released": "2016-09-06",
+        "rating": "8.5",
+        "imdb_id": "tt5689976",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S1\\Atlanta.S01E02.Streets.on.Lock.WEBRip.x264-RARBGS1E2.zip"
+    },
+    "3": {
+        "title": "Go for Broke",
+        "released": "2016-09-13",
+        "rating": "8.1",
+        "imdb_id": "tt5689986",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S1\\Atlanta.S01E03.Go.for.Broke.WEBRip.x264-RARBGS1E3.zip"
+    },
+    "4": {
+        "title": "The Streisand Effect",
+        "released": "2016-09-20",
+        "rating": "8.1",
+        "imdb_id": "tt5689992",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S1\\Atlanta.S01E04.1080p.WEB-DL.DD5.1.H264-RARBGS1E4.zip"
+    },
+    "5": {
+        "title": "Nobody Beats the Biebs",
+        "released": "2016-09-27",
+        "rating": "N/A",
+        "imdb_id": "tt5691444",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S1\\Atlanta.S01E05.HDTV.x264-KILLERSS1E5.zip"
+    },
+    "6": {
+        "title": "Value",
+        "released": "2016-10-04",
+        "rating": "N/A",
+        "imdb_id": "tt5711660",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S1\\Atlanta.S01E06.Value.720p.WEB-DL.2CH.x265.HEVC-PSAS1E6.zip"
+    },
+    "7": {
+        "title": "B.A.N.",
+        "released": "2016-10-11",
+        "rating": "9.3",
+        "imdb_id": "tt5699790",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S1\\Atlanta.S01E07.B.A.N.720p.WEB-DL.2CH.x265.HEVC-PSAS1E7.zip"
+    },
+    "8": {
+        "title": "The Club",
+        "released": "2016-10-18",
+        "rating": "8.7",
+        "imdb_id": "tt5721504",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S1\\Atlanta.S01E08.HDTV.x264-SVA.HI.C.The_ClubS1E8.zip"
+    },
+    "9": {
+        "title": "Juneteenth",
+        "released": "2016-10-25",
+        "rating": "8.4",
+        "imdb_id": "tt5853556",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Atlanta\\Subtitles\\S1\\Atlanta.S01E09.Junetenth.1080p.WEB-DL.DD5.1.H264-OoshS1E9.zip"
+    },
+    "10": {
+        "title": "The Jacket",
+        "released": "2016-11-01",
+        "rating": "N/A",
+        "imdb_id": "tt5776870",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

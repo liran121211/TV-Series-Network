@@ -1,0 +1,218 @@
+{
+    "1": {
+        "title": "Broke His Crown",
+        "released": "2016-03-26",
+        "rating": "N/A",
+        "imdb_id": "tt5575862",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Don't Look",
+        "released": "2016-04-02",
+        "rating": "N/A",
+        "imdb_id": "tt5571800",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Beyond the Grotto",
+        "released": "2016-04-09",
+        "rating": "N/A",
+        "imdb_id": "tt5597954",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S9\\Adventure_Time_S09_E03_Bespoken_ForS9E3.zip"
+    },
+    "4": {
+        "title": "Lady Rainicorn of the Crystal Dimension",
+        "released": "2016-04-16",
+        "rating": "N/A",
+        "imdb_id": "tt5709708",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "I Am a Sword",
+        "released": "2016-04-23",
+        "rating": "N/A",
+        "imdb_id": "tt5622154",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Adventure Time\\Subtitles\\S9\\Adventure_Time_S09_E05_Elements_Part_4_CloudyS9E5.zip"
+    },
+    "6": {
+        "title": "Bun Bun",
+        "released": "2016-05-05",
+        "rating": "N/A",
+        "imdb_id": "tt5700380",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Normal Man",
+        "released": "2016-05-12",
+        "rating": "8.1",
+        "imdb_id": "tt5654832",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Elemental",
+        "released": "2016-05-19",
+        "rating": "N/A",
+        "imdb_id": "tt5698406",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Five Short Tables",
+        "released": "2016-05-26",
+        "rating": "N/A",
+        "imdb_id": "tt5719330",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Music Hole",
+        "released": "2016-06-23",
+        "rating": "8.6",
+        "imdb_id": "tt5723378",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Daddy-Daughter Card Wars",
+        "released": "2016-07-07",
+        "rating": "7.7",
+        "imdb_id": "tt5723376",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Preboot",
+        "released": "2016-11-19",
+        "rating": "N/A",
+        "imdb_id": "tt6186784",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Reboot",
+        "released": "2016-11-19",
+        "rating": "N/A",
+        "imdb_id": "tt6186786",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Two Swords",
+        "released": "2017-01-23",
+        "rating": "N/A",
+        "imdb_id": "tt6355334",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Do No Harm",
+        "released": "2017-01-23",
+        "rating": "N/A",
+        "imdb_id": "tt6355336",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Wheels",
+        "released": "2017-01-24",
+        "rating": "N/A",
+        "imdb_id": "tt6355340",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "High Strangeness",
+        "released": "2017-01-25",
+        "rating": "N/A",
+        "imdb_id": "tt6355342",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Horse and Ball",
+        "released": "2017-01-26",
+        "rating": "N/A",
+        "imdb_id": "tt6355348",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Jelly Beans Have Power",
+        "released": "2017-01-27",
+        "rating": "N/A",
+        "imdb_id": "tt6355352",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Islands Part 1: The Invitation",
+        "released": "2017-01-30",
+        "rating": "8.5",
+        "imdb_id": "tt6355354",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Islands Part 2: Whipple the Happy Dragon",
+        "released": "2017-01-30",
+        "rating": "N/A",
+        "imdb_id": "tt6355356",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Islands Part 3: Mysterious Island",
+        "released": "2017-01-31",
+        "rating": "8.5",
+        "imdb_id": "tt6355358",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Islands Part 4: Imaginary Resources",
+        "released": "2017-01-31",
+        "rating": "8.4",
+        "imdb_id": "tt6355360",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Islands Part 5: Hide and Seek",
+        "released": "2017-02-01",
+        "rating": "N/A",
+        "imdb_id": "tt6355366",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Islands Part 6: Min and Marty",
+        "released": "2017-02-01",
+        "rating": "9.6",
+        "imdb_id": "tt6355370",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Islands Part 7: Helpers",
+        "released": "2017-02-02",
+        "rating": "N/A",
+        "imdb_id": "tt6355374",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Islands Part 8: The Light Cloud",
+        "released": "2017-02-02",
+        "rating": "N/A",
+        "imdb_id": "tt6355376",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Bang",
+        "released": "2016-03-18",
+        "rating": "8.8",
+        "imdb_id": "tt4625048",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S2\\Marvels.Daredevil.S02E01.WEBRip.XviD-AFGS2E1.zip"
+    },
+    "2": {
+        "title": "Dogs to a Gunfight",
+        "released": "2016-03-18",
+        "rating": "8.6",
+        "imdb_id": "tt4817432",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S2\\Marvels.Daredevil.S02E02.WEBRip.x264-FLEETS2E2.zip"
+    },
+    "3": {
+        "title": "New York's Finest",
+        "released": "2016-03-18",
+        "rating": "9.4",
+        "imdb_id": "tt4935616",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S2\\Marvels.Daredevil.S02E03.WEBRip.x264-SKGTVS2E3.zip"
+    },
+    "4": {
+        "title": "Penny and Dime",
+        "released": "2016-03-18",
+        "rating": "9.4",
+        "imdb_id": "tt4947664",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S2\\Marvels.Daredevil.S02E04.WEBRip.XviD-AFGS2E4.zip"
+    },
+    "5": {
+        "title": "Kinbaku",
+        "released": "2016-03-18",
+        "rating": "8.2",
+        "imdb_id": "tt4950308",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S2\\Marvels.Daredevil.S02E05.WEBRip.XviD-AFGS2E5.zip"
+    },
+    "6": {
+        "title": "Regrets Only",
+        "released": "2016-03-18",
+        "rating": "8.5",
+        "imdb_id": "tt4950312",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S2\\Marvels.Daredevil.S02E06.WEBRip.XviD-AFGS2E6.zip"
+    },
+    "7": {
+        "title": "Semper Fidelis",
+        "released": "2016-03-18",
+        "rating": "8.5",
+        "imdb_id": "tt4950310",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S2\\Marvels.Daredevil.S02E07.WEBRip.XviD-AFGS2E7.zip"
+    },
+    "8": {
+        "title": "Guilty as Sin",
+        "released": "2016-03-18",
+        "rating": "9.0",
+        "imdb_id": "tt4950326",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S2\\Marvels.Daredevil.S02E08.WEBRip.XviD-AFGS2E8.zip"
+    },
+    "9": {
+        "title": "Seven Minutes in Heaven",
+        "released": "2016-03-18",
+        "rating": "9.4",
+        "imdb_id": "tt4950314",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S2\\Marvels.Daredevil.S02E09.WEBRip.XviD-AFGS2E9.zip"
+    },
+    "10": {
+        "title": "The Man in the Box",
+        "released": "2016-03-18",
+        "rating": "9.0",
+        "imdb_id": "tt4950318",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": ".380",
+        "released": "2016-03-18",
+        "rating": "8.7",
+        "imdb_id": "tt4950322",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Dark at the End of the Tunnel",
+        "released": "2016-03-18",
+        "rating": "8.8",
+        "imdb_id": "tt4950320",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "A Cold Day in Hell's Kitchen",
+        "released": "2016-03-18",
+        "rating": "9.1",
+        "imdb_id": "tt4950324",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

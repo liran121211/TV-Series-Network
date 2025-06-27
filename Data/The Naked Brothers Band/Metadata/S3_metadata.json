@@ -1,0 +1,66 @@
+{
+    "2": {
+        "title": "Operation Mojo",
+        "released": "2008-11-22",
+        "rating": "6.9",
+        "imdb_id": "tt1313697",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Supertastic 6",
+        "released": "2008-11-26",
+        "rating": "N/A",
+        "imdb_id": "tt1224048",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Operation Mojo: Part Two",
+        "released": "2008-11-22",
+        "rating": "N/A",
+        "imdb_id": "tt7235960",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Naked Idol",
+        "released": "2009-03-14",
+        "rating": "8.5",
+        "imdb_id": "tt1352544",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Secrets of the NBB Summer Tour",
+        "released": "2009-01-31",
+        "rating": "N/A",
+        "imdb_id": "tt7222282",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "No Schools Fool's Day",
+        "released": "2009-06-13",
+        "rating": "8.6",
+        "imdb_id": "tt1352546",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Naked Idol: Part Two",
+        "released": "2009-03-14",
+        "rating": "N/A",
+        "imdb_id": "tt7235102",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Premiere: Part Two",
+        "released": "2009-04-11",
+        "rating": "N/A",
+        "imdb_id": "tt7234970",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

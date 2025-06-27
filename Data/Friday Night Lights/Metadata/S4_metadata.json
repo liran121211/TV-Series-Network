@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "East of Dillon",
+        "released": "2009-10-28",
+        "rating": "N/A",
+        "imdb_id": "tt1491856",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friday Night Lights\\Subtitles\\S4\\Friday.Night.Lights.S04E01.HDTV.XviD-REDS4E1.zip"
+    },
+    "2": {
+        "title": "After the Fall",
+        "released": "2009-11-04",
+        "rating": "N/A",
+        "imdb_id": "tt1501909",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friday Night Lights\\Subtitles\\S4\\Friday.Night.Lights.S04E02.HDTV.XviD-REDS4E2.zip"
+    },
+    "3": {
+        "title": "In the Skin of a Lion",
+        "released": "2009-11-11",
+        "rating": "N/A",
+        "imdb_id": "tt1502516",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friday Night Lights\\Subtitles\\S4\\Friday.Night.Lights.S04E03.HDTV.XviD-REDS4E3.zip"
+    },
+    "4": {
+        "title": "A Sort of Homecoming",
+        "released": "2009-11-20",
+        "rating": "N/A",
+        "imdb_id": "tt1502517",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friday Night Lights\\Subtitles\\S4\\Friday.Night.Lights.S04E04.HDTV.XviD-REDS4E4.zip"
+    },
+    "5": {
+        "title": "The Son",
+        "released": "2009-12-02",
+        "rating": "9.6",
+        "imdb_id": "tt1526671",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friday Night Lights\\Subtitles\\S4\\Friday.Night.Lights.S04E05.HDTV.XviD-REDS4E5.zip"
+    },
+    "6": {
+        "title": "Stay",
+        "released": "2009-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt1539374",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friday Night Lights\\Subtitles\\S4\\Friday.Night.Lights.S04E06.HDTV.XviD-REDS4E6.zip"
+    },
+    "7": {
+        "title": "In the Bag",
+        "released": "2009-12-16",
+        "rating": "N/A",
+        "imdb_id": "tt1564137",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friday Night Lights\\Subtitles\\S4\\Friday.Night.Lights.S04E07.REPACK.720p.HDTV.x264-REDS4E7.zip"
+    },
+    "8": {
+        "title": "Toilet Bowl",
+        "released": "2010-01-06",
+        "rating": "N/A",
+        "imdb_id": "tt1564138",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friday Night Lights\\Subtitles\\S4\\Friday.Night.Lights.S04E08.HDTV.XviD-REDS4E8.zip"
+    },
+    "9": {
+        "title": "The Lights in Carroll Park",
+        "released": "2010-01-13",
+        "rating": "N/A",
+        "imdb_id": "tt1564136",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Friday Night Lights\\Subtitles\\S4\\Friday.Night.Lights.S04E09.HDTV.XviD-QoSS4E9.zip"
+    },
+    "10": {
+        "title": "I Can't",
+        "released": "2010-01-20",
+        "rating": "8.1",
+        "imdb_id": "tt1564132",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Injury List",
+        "released": "2010-01-27",
+        "rating": "N/A",
+        "imdb_id": "tt1564133",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Laboring",
+        "released": "2010-02-03",
+        "rating": "N/A",
+        "imdb_id": "tt1564134",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Thanksgiving",
+        "released": "2010-02-10",
+        "rating": "9.1",
+        "imdb_id": "tt1564135",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

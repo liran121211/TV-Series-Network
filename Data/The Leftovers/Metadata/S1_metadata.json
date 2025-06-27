@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2014-06-29",
+        "rating": "7.9",
+        "imdb_id": "tt3203968",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Penguin One, Us Zero",
+        "released": "2014-07-06",
+        "rating": "N/A",
+        "imdb_id": "tt3603056",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Two Boats and a Helicopter",
+        "released": "2014-07-13",
+        "rating": "8.8",
+        "imdb_id": "tt3631218",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "B.J. and the A.C.",
+        "released": "2014-07-20",
+        "rating": "7.6",
+        "imdb_id": "tt3594942",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Gladys",
+        "released": "2014-07-27",
+        "rating": "8.2",
+        "imdb_id": "tt3630790",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Guest",
+        "released": "2014-08-03",
+        "rating": "8.8",
+        "imdb_id": "tt3666322",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Solace for Tired Feet",
+        "released": "2014-08-10",
+        "rating": "7.9",
+        "imdb_id": "tt3725022",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Cairo",
+        "released": "2014-08-17",
+        "rating": "8.6",
+        "imdb_id": "tt3725024",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Garveys at Their Best",
+        "released": "2014-08-24",
+        "rating": "9.1",
+        "imdb_id": "tt3721722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Prodigal Son Returns",
+        "released": "2014-09-07",
+        "rating": "9.3",
+        "imdb_id": "tt3721724",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

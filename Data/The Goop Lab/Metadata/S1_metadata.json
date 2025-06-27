@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "The Healing Trip",
+        "released": "2020-01-24",
+        "rating": "3.3",
+        "imdb_id": "tt11568464",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Goop Lab\\Subtitles\\S1\\The.Goop.Lab.S01E01.1080p.WEB.X264-AMRAP-HI.zip"
+    },
+    "2": {
+        "title": "Cold Comfort",
+        "released": "2020-01-24",
+        "rating": "3.5",
+        "imdb_id": "tt11575914",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Goop Lab\\Subtitles\\S1\\The.Goop.Lab.S01E02.1080p.WEB.X264-AMRAP-HI.zip"
+    },
+    "3": {
+        "title": "The Pleasure Is Ours",
+        "released": "2020-01-24",
+        "rating": "3.7",
+        "imdb_id": "tt11575924",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Goop Lab\\Subtitles\\S1\\The.Goop.Lab.S01E03.1080p.WEB.X264-AMRAP-HI.zip"
+    },
+    "4": {
+        "title": "The Health-Span Plan",
+        "released": "2020-01-24",
+        "rating": "N/A",
+        "imdb_id": "tt11575940",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Goop Lab\\Subtitles\\S1\\The.Goop.Lab.S01E04.1080p.WEB.X264-AMRAP-HI.zip"
+    },
+    "5": {
+        "title": "The Energy Experience",
+        "released": "2020-01-24",
+        "rating": "2.7",
+        "imdb_id": "tt11575946",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Goop Lab\\Subtitles\\S1\\The.Goop.Lab.S01E05.1080p.WEB.X264-AMRAP-HI.zip"
+    },
+    "6": {
+        "title": "Are You Intuit?",
+        "released": "2020-01-24",
+        "rating": "N/A",
+        "imdb_id": "tt11575948",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Goop Lab\\Subtitles\\S1\\The.Goop.Lab.S01E06.1080p.WEB.X264-AMRAP-HI.zip"
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "1": {
+        "title": "The Ring",
+        "released": "2009-03-11",
+        "rating": "8.1",
+        "imdb_id": "tt1390286",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Coon",
+        "released": "2009-03-18",
+        "rating": "8.4",
+        "imdb_id": "tt1395555",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Margaritaville",
+        "released": "2009-03-25",
+        "rating": "8.5",
+        "imdb_id": "tt1397941",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Eat, Pray, Queef",
+        "released": "2009-04-01",
+        "rating": "6.5",
+        "imdb_id": "tt1397942",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Fishsticks",
+        "released": "2009-04-08",
+        "rating": "8.8",
+        "imdb_id": "tt1397943",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Pinewood Derby",
+        "released": "2009-04-15",
+        "rating": "7.8",
+        "imdb_id": "tt1397944",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Fatbeard",
+        "released": "2009-04-22",
+        "rating": "8.1",
+        "imdb_id": "tt1397945",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Dead Celebrities",
+        "released": "2009-10-07",
+        "rating": "7.7",
+        "imdb_id": "tt1468598",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Butters' Bottom Bitch",
+        "released": "2009-10-14",
+        "rating": "8.8",
+        "imdb_id": "tt1526694",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "W.T.F.",
+        "released": "2009-10-21",
+        "rating": "8.2",
+        "imdb_id": "tt1532990",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Whale Whores",
+        "released": "2009-10-28",
+        "rating": "8.1",
+        "imdb_id": "tt1535839",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The F Word",
+        "released": "2009-11-04",
+        "rating": "8.1",
+        "imdb_id": "tt1539447",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Dances with Smurfs",
+        "released": "2009-11-11",
+        "rating": "N/A",
+        "imdb_id": "tt1546329",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Pee",
+        "released": "2009-11-18",
+        "rating": "7.7",
+        "imdb_id": "tt1549809",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

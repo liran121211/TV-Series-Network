@@ -1,0 +1,130 @@
+{
+    "1": {
+        "title": "Debut",
+        "released": "2002-06-11",
+        "rating": "N/A",
+        "imdb_id": "tt0762560",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S11\\American.Idol.S11E01.HDTV.XviD-LMAOS11E1.zip"
+    },
+    "2": {
+        "title": "Episode Two",
+        "released": "2002-06-12",
+        "rating": "N/A",
+        "imdb_id": "tt0762573",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S11\\American.Idol.S11E02.HDTV.XviD-MOMENTUMS11E2.zip"
+    },
+    "4": {
+        "title": "Dewey Defeats Truman!",
+        "released": "2002-06-19",
+        "rating": "N/A",
+        "imdb_id": "tt0762568",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S10\\American.Idol.S10E04.HDTV.XviD-FQMS10E4.zip"
+    },
+    "5": {
+        "title": "Army of the Mediocre",
+        "released": "2002-06-25",
+        "rating": "N/A",
+        "imdb_id": "tt0762569",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S10\\American.Idol.S10E05.HDTV.XviD-FQMS10E5.zip"
+    },
+    "6": {
+        "title": "Six Pack",
+        "released": "2002-06-26",
+        "rating": "N/A",
+        "imdb_id": "tt0762570",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S11\\American.Idol.S11E06.HDTV.XviD-FQMS11E6.zip"
+    },
+    "7": {
+        "title": "The Bad, the Even Worse and the Ugly",
+        "released": "2002-07-02",
+        "rating": "N/A",
+        "imdb_id": "tt0762571",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S11\\American.Idol.S11E07.HDTV.XviD-2HDS11E7.zip"
+    },
+    "8": {
+        "title": "Judge Fight!",
+        "released": "2002-07-03",
+        "rating": "N/A",
+        "imdb_id": "tt0762572",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S11\\American.Idol.S11E08.HDTV.XviD-FQMS11E8.zip"
+    },
+    "11": {
+        "title": "The Unkindest Cuts",
+        "released": "2002-07-17",
+        "rating": "N/A",
+        "imdb_id": "tt0797137",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Pride Goeth Before the 'Fro",
+        "released": "2002-07-23",
+        "rating": "N/A",
+        "imdb_id": "tt0798740",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Ryan-ara!",
+        "released": "2002-07-31",
+        "rating": "N/A",
+        "imdb_id": "tt0968361",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Jump, Jive and Fail!",
+        "released": "2002-08-06",
+        "rating": "N/A",
+        "imdb_id": "tt0968356",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Nooooooooooooooooooooooooo!",
+        "released": "2002-08-07",
+        "rating": "N/A",
+        "imdb_id": "tt0968359",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\American Idol\\Subtitles\\S11\\American.Idol.S11E16.HDTV.XviD-FQMS11E16.zip"
+    },
+    "17": {
+        "title": "Five Alive (and an Assortment of Other Bad Puns)",
+        "released": "2002-08-13",
+        "rating": "N/A",
+        "imdb_id": "tt0968355",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "What? Who? You're Sure Now?",
+        "released": "2002-08-21",
+        "rating": "N/A",
+        "imdb_id": "tt0968369",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Two More",
+        "released": "2002-08-28",
+        "rating": "N/A",
+        "imdb_id": "tt0968367",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "El Finale!",
+        "released": "2002-09-04",
+        "rating": "N/A",
+        "imdb_id": "tt0511811",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

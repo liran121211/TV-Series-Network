@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2020-08-14",
+        "rating": "7.8",
+        "imdb_id": "tt10989880",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S1\\Ted.Lasso.S01E01.WEB-DL.x264-ION10S1E1.zip"
+    },
+    "2": {
+        "title": "Biscuits",
+        "released": "2020-08-14",
+        "rating": "8.1",
+        "imdb_id": "tt10989890",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S1\\Ted.Lasso.S01E02.WEB-DL.x264-ION10S1E2.zip"
+    },
+    "3": {
+        "title": "Trent Crimm: The Independent",
+        "released": "2020-08-14",
+        "rating": "8.5",
+        "imdb_id": "tt10989892",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S1\\Ted.Lasso.S01E03.WEB-DL.x264-ION10S1E3.zip"
+    },
+    "4": {
+        "title": "For the Children",
+        "released": "2020-08-21",
+        "rating": "8.2",
+        "imdb_id": "tt11044158",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S1\\Ted.Lasso.S01E04.WEB-DL.x264-ION10S1E4.zip"
+    },
+    "5": {
+        "title": "Tan Lines",
+        "released": "2020-08-28",
+        "rating": "8.9",
+        "imdb_id": "tt11044160",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S1\\Ted.Lasso.S01E05.WEB-DL.x264-ION10S1E5.zip"
+    },
+    "6": {
+        "title": "Two Aces",
+        "released": "2020-09-04",
+        "rating": "8.5",
+        "imdb_id": "tt11046490",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S1\\Ted.Lasso.S01E06.WEB-DL.x264-ION10S1E6.zip"
+    },
+    "7": {
+        "title": "Make Rebecca Great Again",
+        "released": "2020-09-11",
+        "rating": "9.0",
+        "imdb_id": "tt11156378",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S1\\Ted.Lasso.S01E07.WEB-DL.x264-ION10S1E7.zip"
+    },
+    "8": {
+        "title": "The Diamond Dogs",
+        "released": "2020-09-18",
+        "rating": "8.7",
+        "imdb_id": "tt11193418",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S1\\Ted.Lasso.S01E08.WEB-DL.x264-ION10S1E8.zip"
+    },
+    "9": {
+        "title": "All Apologies",
+        "released": "2020-09-25",
+        "rating": "8.6",
+        "imdb_id": "tt11193420",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ted Lasso\\Subtitles\\S1\\Ted.Lasso.S01E09.WEBRip.x264-ION10S1E9.zip"
+    },
+    "10": {
+        "title": "The Hope That Kills You",
+        "released": "2020-10-02",
+        "rating": "9.1",
+        "imdb_id": "tt11193428",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

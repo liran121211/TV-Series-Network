@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Shadow of the Bat: Part I",
+        "released": "1993-09-13",
+        "rating": "N/A",
+        "imdb_id": "tt0519620",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Shadow of the Bat: Part II",
+        "released": "1993-09-14",
+        "rating": "8.3",
+        "imdb_id": "tt0519621",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Mudslide",
+        "released": "1993-09-15",
+        "rating": "8.1",
+        "imdb_id": "tt0519604",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Worry Men",
+        "released": "1993-09-16",
+        "rating": "N/A",
+        "imdb_id": "tt0519641",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Paging the Crime Doctor",
+        "released": "1993-09-17",
+        "rating": "N/A",
+        "imdb_id": "tt0519610",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "House & Garden",
+        "released": "1994-05-02",
+        "rating": "8.3",
+        "imdb_id": "tt0519594",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Sideshow",
+        "released": "1994-05-03",
+        "rating": "7.8",
+        "imdb_id": "tt0519623",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Avatar",
+        "released": "1994-05-09",
+        "rating": "7.5",
+        "imdb_id": "tt0519568",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Trial",
+        "released": "1994-05-16",
+        "rating": "9.1",
+        "imdb_id": "tt0519643",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Harlequinade",
+        "released": "1994-05-23",
+        "rating": "8.6",
+        "imdb_id": "tt0519587",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

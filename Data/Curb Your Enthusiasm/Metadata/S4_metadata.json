@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Mel's Offer",
+        "released": "2004-01-04",
+        "rating": "N/A",
+        "imdb_id": "tt0551392",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Ben's Birthday Party",
+        "released": "2004-01-11",
+        "rating": "N/A",
+        "imdb_id": "tt0551384",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Blind Date",
+        "released": "2004-01-18",
+        "rating": "8.0",
+        "imdb_id": "tt0551401",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Weatherman",
+        "released": "2004-01-25",
+        "rating": "N/A",
+        "imdb_id": "tt0551426",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The 5 Wood",
+        "released": "2004-02-01",
+        "rating": "N/A",
+        "imdb_id": "tt0551397",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Car Pool Lane",
+        "released": "2004-02-08",
+        "rating": "9.1",
+        "imdb_id": "tt0551404",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Surrogate",
+        "released": "2004-02-22",
+        "rating": "N/A",
+        "imdb_id": "tt0551422",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Wandering Bear",
+        "released": "2004-02-29",
+        "rating": "8.2",
+        "imdb_id": "tt0551430",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S7\\Curb.Your.Enthusiasm.S07E08.HDTV.XviD-NoTVS7E8.zip"
+    },
+    "9": {
+        "title": "The Survivor",
+        "released": "2004-03-07",
+        "rating": "N/A",
+        "imdb_id": "tt0551423",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Opening Night",
+        "released": "2004-03-14",
+        "rating": "N/A",
+        "imdb_id": "tt0551393",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

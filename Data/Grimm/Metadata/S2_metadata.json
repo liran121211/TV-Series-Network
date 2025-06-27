@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Bad Teeth",
+        "released": "2012-08-13",
+        "rating": "8.5",
+        "imdb_id": "tt2383905",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Kiss",
+        "released": "2012-08-20",
+        "rating": "N/A",
+        "imdb_id": "tt2324810",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Bad Moon Rising",
+        "released": "2012-08-27",
+        "rating": "8.4",
+        "imdb_id": "tt2351108",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Quill",
+        "released": "2012-09-03",
+        "rating": "N/A",
+        "imdb_id": "tt2351112",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Good Shepherd",
+        "released": "2012-09-28",
+        "rating": "N/A",
+        "imdb_id": "tt2351110",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Over My Dead Body",
+        "released": "2012-10-05",
+        "rating": "8.5",
+        "imdb_id": "tt2336276",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Bottle Imp",
+        "released": "2012-10-12",
+        "rating": "7.7",
+        "imdb_id": "tt2396376",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Other Side",
+        "released": "2012-10-19",
+        "rating": "7.7",
+        "imdb_id": "tt2396374",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "La Llorona",
+        "released": "2012-10-26",
+        "rating": "N/A",
+        "imdb_id": "tt2427016",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Hour of Death",
+        "released": "2012-11-02",
+        "rating": "8.3",
+        "imdb_id": "tt2408496",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "To Protect and Serve Man",
+        "released": "2012-11-09",
+        "rating": "N/A",
+        "imdb_id": "tt2463836",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Season of the Hexenbiest",
+        "released": "2012-11-16",
+        "rating": "8.7",
+        "imdb_id": "tt2465208",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Face Off",
+        "released": "2013-03-08",
+        "rating": "N/A",
+        "imdb_id": "tt2532050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Natural Born Wesen",
+        "released": "2013-03-15",
+        "rating": "N/A",
+        "imdb_id": "tt2523178",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Mr. Sandman",
+        "released": "2013-03-22",
+        "rating": "8.1",
+        "imdb_id": "tt2493216",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Nameless",
+        "released": "2013-03-29",
+        "rating": "N/A",
+        "imdb_id": "tt2771120",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "One Angry Fuchsbau",
+        "released": "2013-04-05",
+        "rating": "8.2",
+        "imdb_id": "tt2801884",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Volcanalis",
+        "released": "2013-04-19",
+        "rating": "N/A",
+        "imdb_id": "tt2800992",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Endangered",
+        "released": "2013-04-30",
+        "rating": "N/A",
+        "imdb_id": "tt2850170",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Kiss of the Muse",
+        "released": "2013-05-07",
+        "rating": "8.1",
+        "imdb_id": "tt2807576",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Waking Dead",
+        "released": "2013-05-14",
+        "rating": "8.3",
+        "imdb_id": "tt2807574",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Goodnight, Sweet Grimm",
+        "released": "2013-05-21",
+        "rating": "8.5",
+        "imdb_id": "tt2807578",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

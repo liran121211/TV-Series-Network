@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Our Father",
+        "released": "2008-09-28",
+        "rating": "8.1",
+        "imdb_id": "tt1242111",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S3\\Dexter.S03E01.DVDScr.XviD-NOTYOUS3E1.zip"
+    },
+    "2": {
+        "title": "Finding Freebo",
+        "released": "2008-10-05",
+        "rating": "8.3",
+        "imdb_id": "tt1242115",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S3\\Dexter.S03E02.HDTV.XviD-0TV_[PERFECT_SUBS][thesurferguy]S3E2.zip"
+    },
+    "3": {
+        "title": "The Lion Sleeps Tonight",
+        "released": "2008-10-12",
+        "rating": "8.0",
+        "imdb_id": "tt1242116",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S3\\Dexter.S03E03.HDTV.XviD-NoTV_[PERFECT_SUBS][thesurferguy]S3E3.zip"
+    },
+    "4": {
+        "title": "All in the Family",
+        "released": "2008-10-19",
+        "rating": "8.0",
+        "imdb_id": "tt1242117",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S3\\Dexter.S03E04.HDTV.XviD-0TV_[PERFECT_SUBS][thesurferguy]S3E4.zip"
+    },
+    "5": {
+        "title": "Turning Biminese",
+        "released": "2008-10-26",
+        "rating": "8.3",
+        "imdb_id": "tt1242118",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S3\\Dexter.S03E05.720p.HDTV.X264-DIMENSIONS3E5.zip"
+    },
+    "6": {
+        "title": "Sí Se Puede",
+        "released": "2008-11-02",
+        "rating": "8.1",
+        "imdb_id": "tt1242119",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S3\\Dexter.S03E06.720p.HDTV.X264-DIMENSIONS3E6.zip"
+    },
+    "7": {
+        "title": "Easy As Pie",
+        "released": "2008-11-09",
+        "rating": "8.4",
+        "imdb_id": "tt1242120",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S3\\Dexter.S03E07.720p.HDTV.X264-DIMENSIONS3E7.zip"
+    },
+    "8": {
+        "title": "The Damage A Man Can Do",
+        "released": "2008-11-16",
+        "rating": "8.5",
+        "imdb_id": "tt1242121",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S3\\Dexter.S03E08.HDTV.XviD-LOLS3E8.zip"
+    },
+    "9": {
+        "title": "About Last Night",
+        "released": "2008-11-23",
+        "rating": "8.7",
+        "imdb_id": "tt1242122",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S3\\dexter.S03E09.hdtv-0tvS3E9.zip"
+    },
+    "10": {
+        "title": "Go Your Own Way",
+        "released": "2008-11-30",
+        "rating": "9.0",
+        "imdb_id": "tt1242112",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "I Had A Dream",
+        "released": "2008-12-07",
+        "rating": "8.8",
+        "imdb_id": "tt1242113",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Do You Take Dexter Morgan?",
+        "released": "2008-12-14",
+        "rating": "8.8",
+        "imdb_id": "tt1242114",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

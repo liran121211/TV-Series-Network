@@ -1,0 +1,82 @@
+{
+    "2": {
+        "title": "Bad Influence(r)",
+        "released": "2022-02-23",
+        "rating": "4.7",
+        "imdb_id": "tt15175458",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Proud Family_ Louder and Prouder\\Subtitles\\S1\\The.Proud.Family.Louder.and.Prouder.S01E02.WEB-DL.DSNP.zip"
+    },
+    "4": {
+        "title": "Father Figures",
+        "released": "2022-03-09",
+        "rating": "5.4",
+        "imdb_id": "tt15175844",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Proud Family_ Louder and Prouder\\Subtitles\\S1\\The.Proud.Family.Louder.and.Prouder.S01E04.WEB-DL.DSNP.zip"
+    },
+    "5": {
+        "title": "Snackland",
+        "released": "2022-03-16",
+        "rating": "N/A",
+        "imdb_id": "tt15175846",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Proud Family_ Louder and Prouder\\Subtitles\\S1\\The.Proud.Family.Louder.and.Prouder.S01E05.WEB-DL.DSNP.zip"
+    },
+    "6": {
+        "title": "Get In",
+        "released": "2022-03-23",
+        "rating": "N/A",
+        "imdb_id": "tt15175850",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Proud Family_ Louder and Prouder\\Subtitles\\S1\\The.Proud.Family.Louder.and.Prouder.S01E06.WEB-DL.DSNP.zip"
+    },
+    "8": {
+        "title": "Home School",
+        "released": "2022-04-06",
+        "rating": "N/A",
+        "imdb_id": "tt15180726",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Proud Family_ Louder and Prouder\\Subtitles\\S1\\The.Proud.Family.Louder.and.Prouder.S01E08.WEB-DL.DSNP.zip"
+    },
+    "14": {
+        "title": "Episode #1.14",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt15203818",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Episode #1.15",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt15203820",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Episode #1.17",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt15203826",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Episode #1.18",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt15203832",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Episode #1.20",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt15203834",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

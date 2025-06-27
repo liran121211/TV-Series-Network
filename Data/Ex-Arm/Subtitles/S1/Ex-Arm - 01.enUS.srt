@@ -1,0 +1,368 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: YTV  [http://www.crunchyroll.com/user/YTV]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Main Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Next time,Arial,22,&H00FFFADB,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,2,1,7,0030,0499,0054,1
+Style: Episode Title Start,Arial,22,&H00FFFADB,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,2,1,1,0335,0134,0051,1
+Style: Flashback Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Episode Title,Arial,22,&H00FFFFFF,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,0,0,3,0379,0038,0073,1
+Style: sign_18893_185_Illustration_by_,Arial,16,&H00FFFFFF,&H000000FF,&H00909090,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0036,0373,0038,1
+Style: Next Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H006C6A6A,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,3,0050,0020,0055,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:00.02,0:00:04.65,Episode Title,Ep Title,0000,0000,0000,,Forbidden Weapon
+Dialogue: 0,0:00:05.02,0:00:09.11,Italics,Akira,0000,0000,0000,,All my life, I staunchly believed...
+Dialogue: 0,0:00:11.84,0:00:15.77,Italics,Akira,0000,0000,0000,,that change doesn't happen \Nat the drop of a hat.
+Dialogue: 0,0:00:18.21,0:00:22.25,Italics,Akira,0000,0000,0000,,Never did I imagine the entire world \Nturning on its head in an instant.
+Dialogue: 0,0:00:23.17,0:00:25.16,Italics,Akira,0000,0000,0000,,Not in my wildest dreams.
+Dialogue: 0,0:00:37.84,0:00:41.14,Italics,Akira,0000,0000,0000,,Did... I do this?
+Dialogue: 0,0:02:41.32,0:02:45.79,Main,G,0000,0000,0000,,Yo, Natsume, give me your ID. \NI'll invite you to the next mixer.
+Dialogue: 0,0:02:45.79,0:02:48.17,Main,A,0000,0000,0000,,Uh, I don't have a cellphone.
+Dialogue: 0,0:02:48.17,0:02:50.85,Main,G,0000,0000,0000,,Are you for real? You're missing out, man.
+Dialogue: 0,0:02:50.85,0:02:52.57,Main,G,0000,0000,0000,,Just get a load of these chicks!
+Dialogue: 0,0:02:53.11,0:02:55.88,Main,G,0000,0000,0000,,Can't believe how hot they are, can ya?
+Dialogue: 0,0:02:55.88,0:02:57.53,Main,G,0000,0000,0000,,Huh? Natsume?!
+Dialogue: 0,0:02:59.17,0:03:00.34,Main,Shuichi,0000,0000,0000,,And then?
+Dialogue: 0,0:03:00.91,0:03:03.77,Main,A,0000,0000,0000,,One-way trip to the infirmary.
+Dialogue: 0,0:03:04.70,0:03:05.96,Main,A,0000,0000,0000,,Fried rice good to go!
+Dialogue: 0,0:03:06.95,0:03:11.33,Main,Sh,0000,0000,0000,,Yeesh. I still can't get over \Nhow much you hate technology.
+Dialogue: 0,0:03:11.97,0:03:14.70,Main,Sh,0000,0000,0000,,Your cooking makes up for it, though.
+Dialogue: 0,0:03:15.20,0:03:17.52,Main,Sh,0000,0000,0000,,Yum! This is great!
+Dialogue: 0,0:03:17.52,0:03:21.42,Main,A,0000,0000,0000,,It's nothing special compared \Nto those dolls you make.
+Dialogue: 0,0:03:21.42,0:03:23.35,Main,Sh,0000,0000,0000,,Androids, you mean.
+Dialogue: 0,0:03:23.80,0:03:24.72,Main,Sh,0000,0000,0000,,Look.
+Dialogue: 0,0:03:25.46,0:03:29.20,Main,A,0000,0000,0000,,Just looking at it makes my head spin.
+Dialogue: 0,0:03:29.20,0:03:31.15,Main,A,0000,0000,0000,,My heart's racing, too.
+Dialogue: 0,0:03:31.15,0:03:35.44,Main,Sh,0000,0000,0000,,Y'know, maybe you just get too excited \Nbecause you were born to love this stuff.
+Dialogue: 0,0:03:35.44,0:03:36.78,Main,A,0000,0000,0000,,Yeah, right.
+Dialogue: 0,0:03:37.35,0:03:42.11,Main,Sh,0000,0000,0000,,I think you should fight \Nthrough the fear and dive into it.
+Dialogue: 0,0:03:42.11,0:03:44.22,Main,Sh,0000,0000,0000,,You never know. It might change something.
+Dialogue: 0,0:03:44.69,0:03:47.03,Main,A,0000,0000,0000,,Sounds convincing, given how you transformed.
+Dialogue: 0,0:03:47.44,0:03:49.79,Main,A,0000,0000,0000,,You used to be more of a weakling than me.
+Dialogue: 0,0:03:49.79,0:03:51.80,Main,A,0000,0000,0000,,How'd you do it? What's the secret?
+Dialogue: 0,0:03:51.80,0:03:52.89,Main,Sh,0000,0000,0000,,Hard work!
+Dialogue: 0,0:03:52.89,0:03:53.79,Main,A,0000,0000,0000,,What?
+Dialogue: 0,0:03:54.52,0:03:58.34,Main,Sh,0000,0000,0000,,I went through hell after Mom and Dad passed.
+Dialogue: 0,0:03:58.86,0:04:01.42,Main,Sh,0000,0000,0000,,All thanks to my dear li'l bro here.
+Dialogue: 0,0:04:01.42,0:04:04.01,Main,A,0000,0000,0000,,I know, I know. \NAnd I'm thankful for all you've done.
+Dialogue: 0,0:04:04.84,0:04:05.85,Main,Sh,0000,0000,0000,,Akira.
+Dialogue: 0,0:04:07.83,0:04:10.72,Main,Sh,0000,0000,0000,,You've just gotta put your best foot forward.
+Dialogue: 0,0:04:10.72,0:04:12.86,Main,Sh,0000,0000,0000,,If you want to change, that is.
+Dialogue: 0,0:04:18.92,0:04:20.36,Main,Dri,0000,0000,0000,,We are a go.
+Dialogue: 0,0:04:24.44,0:04:27.08,Italics,A,0000,0000,0000,,"Put my best foot forward," huh?
+Dialogue: 0,0:04:28.20,0:04:30.50,Italics,A,0000,0000,0000,,Easier said than done.
+Dialogue: 0,0:04:29.59,0:04:31.06,Main Top,Hibari,0000,0000,0000,,Let me go!
+Dialogue: 0,0:04:32.44,0:04:34.72,Main,G1,0000,0000,0000,,C'mon. It won't kill you.
+Dialogue: 0,0:04:34.72,0:04:37.00,Main,G2,0000,0000,0000,,Where do you live? We'll walk you.
+Dialogue: 0,0:04:36.10,0:04:37.46,Main Top,Hi,0000,0000,0000,,Stop!
+Dialogue: 0,0:04:37.46,0:04:38.32,Main Top,G3,0000,0000,0000,,Come on.
+Dialogue: 0,0:04:38.32,0:04:41.29,Italics,A,0000,0000,0000,,What do I do? I should help her out, \Nshouldn't I?
+Dialogue: 0,0:04:41.29,0:04:44.49,Italics,A,0000,0000,0000,,No, there's three of them. \NI don't stand a chance.
+Dialogue: 0,0:04:46.00,0:04:51.00,Italics,A,0000,0000,0000,,But am I just gonna walk away? \NRemember what your big bro just said?
+Dialogue: 0,0:04:51.00,0:04:52.00,Flashback,Sh,0000,0000,0000,,Akira.
+Dialogue: 0,0:04:52.00,0:04:54.27,Flashback,Sh,0000,0000,0000,,You've just gotta put your best foot forward.
+Dialogue: 0,0:04:54.27,0:04:56.20,Flashback,Sh,0000,0000,0000,,If you want to change, that is.
+Dialogue: 0,0:04:57.00,0:04:58.60,Main,A,0000,0000,0000,,Oh, to hell with it!
+Dialogue: 0,0:04:59.40,0:05:01.44,Main,A,0000,0000,0000,,Here goes Akira!
+Dialogue: 0,0:05:05.78,0:05:08.20,Italics,A,0000,0000,0000,,And that's the last of my memories.
+Dialogue: 0,0:05:12.58,0:05:13.92,Italics,Radio,0000,0000,0000,,Emergency alert.
+Dialogue: 0,0:05:13.92,0:05:16.38,Italics,Radio,0000,0000,0000,,An agent's currently engaging \Na group of smugglers.
+Dialogue: 0,0:05:16.38,0:05:17.66,Italics,Radio,0000,0000,0000,,All units provide backup!
+Dialogue: 0,0:05:20.09,0:05:21.52,Main,Sm2,0000,0000,0000,,Get that thing back!
+Dialogue: 0,0:05:20.44,0:05:21.42,Main Top,Sm,0000,0000,0000,,There!
+Dialogue: 0,0:05:21.52,0:05:22.17,Main,Alma,0000,0000,0000,,Minami.
+Dialogue: 0,0:05:22.60,0:05:23.37,Main,Minami,0000,0000,0000,,Alma!
+Dialogue: 0,0:05:35.64,0:05:36.23,Main,Sm,0000,0000,0000,,Shit!
+Dialogue: 0,0:05:45.36,0:05:46.36,Main,Sm,0000,0000,0000,,Hold it!
+Dialogue: 0,0:05:55.79,0:05:56.76,Main,M,0000,0000,0000,,Alma!
+Dialogue: 0,0:06:47.28,0:06:48.97,Main,Sm,0000,0000,0000,,Is she... an android?!
+Dialogue: 0,0:06:49.66,0:06:50.84,Main,Sm,0000,0000,0000,,Damn it!
+Dialogue: 0,0:06:59.30,0:07:01.77,Main,M,0000,0000,0000,,Come in, HQ! We've secured the trunk!
+Dialogue: 0,0:07:01.77,0:07:05.55,Italics,Radio,0000,0000,0000,,Listen up. \NThat's what we've been looking for.
+Dialogue: 0,0:07:05.55,0:07:06.73,Main,M,0000,0000,0000,,It is?
+Dialogue: 0,0:07:06.73,0:07:08.52,Italics,Radio,0000,0000,0000,,Hold on to it until backup arrives.
+Dialogue: 0,0:07:08.52,0:07:09.45,Main,M,0000,0000,0000,,Roger!
+Dialogue: 0,0:07:10.48,0:07:12.95,Main,Sm,0000,0000,0000,,Find 'em! They should be in here!
+Dialogue: 0,0:07:14.63,0:07:16.76,Main,M,0000,0000,0000,,The ship set sail?
+Dialogue: 0,0:07:16.76,0:07:17.92,Main,Al,0000,0000,0000,,Looks like it.
+Dialogue: 0,0:07:17.92,0:07:20.46,Main,M,0000,0000,0000,,Out of the frying pan, into the fire...
+Dialogue: 0,0:07:21.78,0:07:25.05,Main,M,0000,0000,0000,,Hey, this thing's supposed to be \Nsome kind of crazy weapon, right?
+Dialogue: 0,0:07:25.05,0:07:26.75,Main,Al,0000,0000,0000,,Please don't get any funny ideas.
+Dialogue: 0,0:07:26.75,0:07:29.32,Main,Al,0000,0000,0000,,It's top-secret classified information.
+Dialogue: 0,0:07:29.32,0:07:31.82,Main,M,0000,0000,0000,,Yeah, well, that's not gonna keep me alive.
+Dialogue: 0,0:07:31.82,0:07:34.54,Main,M,0000,0000,0000,,It's time to sink or swim!
+Dialogue: 0,0:07:44.64,0:07:46.81,Italics,A,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:47.27,0:07:50.57,Italics,A,0000,0000,0000,,I... I can't feel my body.
+Dialogue: 0,0:07:50.57,0:07:52.27,Italics,A,0000,0000,0000,,Where am I? I can't see a thing.
+Dialogue: 0,0:07:52.27,0:07:56.44,Italics,Al,0000,0000,0000,,Device connected. Come in, EX-ARM.
+Dialogue: 0,0:07:56.44,0:07:58.55,Italics,A,0000,0000,0000,,Whoa, what was that?
+Dialogue: 0,0:08:00.15,0:08:01.80,Italics,A,0000,0000,0000,,What the hell?!
+Dialogue: 0,0:08:02.50,0:08:03.50,Main,M,0000,0000,0000,,It talked!
+Dialogue: 0,0:08:03.50,0:08:05.92,Main,A,0000,0000,0000,,You talked to me first!
+Dialogue: 0,0:08:05.92,0:08:08.49,Main,A,0000,0000,0000,,Wait, who even are you?
+Dialogue: 0,0:08:08.49,0:08:11.18,Main,M,0000,0000,0000,,You first. Who are {\i1}you{\i0}?
+Dialogue: 0,0:08:11.18,0:08:13.94,Main,A,0000,0000,0000,,Me? I'm...
+Dialogue: 0,0:08:15.83,0:08:17.20,Main,A,0000,0000,0000,,Me?!
+Dialogue: 0,0:08:17.20,0:08:20.54,Main,A,0000,0000,0000,,My name's Natsume Akira!
+Dialogue: 0,0:08:20.54,0:08:24.51,Main,Al,0000,0000,0000,,Minami, these aren't an AI's brain waves.
+Dialogue: 0,0:08:24.51,0:08:26.41,Main,Al,0000,0000,0000,,This is an actual human brain.
+Dialogue: 0,0:08:26.41,0:08:28.94,Main,M,0000,0000,0000,,Huh? That can't be!
+Dialogue: 0,0:08:28.94,0:08:30.91,Main,A,0000,0000,0000,,Hey, what are you talking about?
+Dialogue: 0,0:08:30.91,0:08:34.86,Main,M,0000,0000,0000,,I mean, you don't look human at all.
+Dialogue: 0,0:08:34.86,0:08:35.84,Main,M,0000,0000,0000,,See?
+Dialogue: 0,0:08:35.84,0:08:36.93,Main,A,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:36.93,0:08:41.04,Main,A,0000,0000,0000,,Wait, this contraption is me?!
+Dialogue: 0,0:08:41.04,0:08:45.79,Main,Al,0000,0000,0000,,To be more precise, it's a human brain \Nencased in a titanium shell.
+Dialogue: 0,0:08:45.79,0:08:47.26,Main,A,0000,0000,0000,,You've gotta be kidding me!
+Dialogue: 0,0:08:47.26,0:08:50.44,Main,A,0000,0000,0000,,Why can I see myself, then?
+Dialogue: 0,0:08:50.44,0:08:52.46,Main,M,0000,0000,0000,,Oh, quit yapping.
+Dialogue: 0,0:08:52.46,0:08:55.78,Main,M,0000,0000,0000,,Alma's sharing her visual data right now.
+Dialogue: 0,0:08:55.78,0:08:56.73,Main,A,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:58.12,0:09:00.70,Main,M,0000,0000,0000,,I'm Uezono Minami. Nice to meetcha.
+Dialogue: 0,0:09:00.70,0:09:02.96,Main,A,0000,0000,0000,,Sharing... visual data?
+Dialogue: 0,0:09:02.96,0:09:05.05,Main,A,0000,0000,0000,,How is that possible?
+Dialogue: 0,0:09:05.05,0:09:07.83,Main,M,0000,0000,0000,,Well, Alma is an android.
+Dialogue: 0,0:09:08.64,0:09:10.30,Main,A,0000,0000,0000,,An android?!
+Dialogue: 0,0:09:11.07,0:09:12.12,Main,Al,0000,0000,0000,,Yes.
+Dialogue: 0,0:09:12.12,0:09:21.36,Main,Al,0000,0000,0000,,An Alma-series prototype co-developed by the MPD \Nand Irie Heavy Industries in 2028.
+Dialogue: 0,0:09:21.36,0:09:23.58,Main,A,0000,0000,0000,,Hold up. Timeout.
+Dialogue: 0,0:09:23.58,0:09:26.17,Main,A,0000,0000,0000,,What do you mean, 2028?
+Dialogue: 0,0:09:26.17,0:09:28.35,Main,A,0000,0000,0000,,Isn't it 2014 right now?
+Dialogue: 0,0:09:28.35,0:09:31.61,Main,M,0000,0000,0000,,What? It's 2030!
+Dialogue: 0,0:09:31.61,0:09:34.84,Main,A,0000,0000,0000,,2... 2030?!
+Dialogue: 0,0:09:34.84,0:09:39.87,Main,Al,0000,0000,0000,,It would appear you spent \Nthe last 16 years in a coma.
+Dialogue: 0,0:09:42.24,0:09:45.62,Italics,A,0000,0000,0000,,Yeah, nope. None of this makes any sense.
+Dialogue: 0,0:09:46.05,0:09:48.57,Italics,A,0000,0000,0000,,Is this real life?
+Dialogue: 0,0:09:49.27,0:09:51.58,Italics,A,0000,0000,0000,,It's gotta be a dream of some sort, right?
+Dialogue: 0,0:09:54.08,0:09:58.57,Main,Satou,0000,0000,0000,,Uezono and Alma stole the thing \Nand ran onto their ship.
+Dialogue: 0,0:09:58.57,0:10:01.52,Main,Kimura,0000,0000,0000,,Great. More work to do for us.
+Dialogue: 0,0:10:01.52,0:10:04.06,Main,Wanibuchi,0000,0000,0000,,Want us to help, then?
+Dialogue: 0,0:10:04.06,0:10:06.35,Main,Kim,0000,0000,0000,,Wanibuchi, Miyabe...
+Dialogue: 0,0:10:06.35,0:10:08.75,Main,Sat,0000,0000,0000,,We're not working with Public Safety.
+Dialogue: 0,0:10:08.75,0:10:11.85,Main,Wani,0000,0000,0000,,Orders from the top, unfortunately.
+Dialogue: 0,0:10:11.85,0:10:14.01,Main,Miy,0000,0000,0000,,The briefing's about to begin.
+Dialogue: 0,0:10:16.55,0:10:22.18,Main,Chikase,0000,0000,0000,,Given that, we can assume that \Nwhat the smugglers were dealing at the harbor...
+Dialogue: 0,0:10:22.68,0:10:24.33,Main,Chikase,0000,0000,0000,,was an EX-ARM.
+Dialogue: 0,0:10:25.43,0:10:30.31,Main,Chikase,0000,0000,0000,,A weapon series with no info. \NNot who developed it, nor how it was distributed.
+Dialogue: 0,0:10:31.20,0:10:32.48,Main,Cop,0000,0000,0000,,Found 'em!
+Dialogue: 0,0:10:32.48,0:10:37.94,Main,C,0000,0000,0000,,Its capabilities far exceed \Nwhat technology in 2030 can produce.
+Dialogue: 0,0:10:38.56,0:10:39.86,Main,Cop,0000,0000,0000,,This is the police!
+Dialogue: 0,0:10:41.32,0:10:46.46,Main,C,0000,0000,0000,,Be it the escalating mafia wars of recent times, \Nor several other violent crimes,
+Dialogue: 0,0:10:46.46,0:10:49.53,Main,C,0000,0000,0000,,EX-ARM's shadow looms large over all of them.
+Dialogue: 0,0:10:50.13,0:10:53.55,Main,C,0000,0000,0000,,Should you ever run into anyone \Nwith one of them,
+Dialogue: 0,0:10:53.55,0:10:55.17,Main,C,0000,0000,0000,,run away immediately.
+Dialogue: 0,0:10:55.17,0:10:56.31,Main,Cop,0000,0000,0000,,Fire!
+Dialogue: 0,0:10:58.80,0:11:03.21,Main,C,0000,0000,0000,,Because normal weapons don't stand a chance \Nagainst them.
+Dialogue: 0,0:11:04.10,0:11:06.94,Main,C,0000,0000,0000,,That's how terrifying the EX-ARM are.
+Dialogue: 0,0:11:09.39,0:11:11.46,Main,M,0000,0000,0000,,Hey, EX-ARM.
+Dialogue: 0,0:11:11.46,0:11:13.36,Main,A,0000,0000,0000,,Again, I'm...
+Dialogue: 0,0:11:13.36,0:11:15.68,Main,M,0000,0000,0000,,You're a crazy weapon, right?
+Dialogue: 0,0:11:15.68,0:11:19.21,Main,M,0000,0000,0000,,Hurry up and show us what you can do, EX-ARM.
+Dialogue: 0,0:11:19.21,0:11:21.96,Main,A,0000,0000,0000,,Again, my name's Natsume Akira!
+Dialogue: 0,0:11:21.96,0:11:24.04,Main,A,0000,0000,0000,,I'm a person, not a weapon!
+Dialogue: 0,0:11:25.12,0:11:27.00,Main,M,0000,0000,0000,,Think we can use him, Alma?
+Dialogue: 0,0:11:27.00,0:11:30.84,Main,Al,0000,0000,0000,,No. It's a real human brain.
+Dialogue: 0,0:11:30.84,0:11:34.86,Main,Al,0000,0000,0000,,I don't believe it has a way \Nof getting us out of this situation.
+Dialogue: 0,0:11:34.86,0:11:38.46,Main,M,0000,0000,0000,,What? But it was our last resort.
+Dialogue: 0,0:11:38.46,0:11:39.69,Main,A,0000,0000,0000,,Hold up.
+Dialogue: 0,0:11:39.69,0:11:43.47,Main,A,0000,0000,0000,,Use me? "Last resort"? What's all this about?
+Dialogue: 0,0:11:43.47,0:11:44.89,Main,A,0000,0000,0000,,What the hell are {\i1}you{\i0} supposed to be?
+Dialogue: 0,0:11:44.89,0:11:47.13,Main,M,0000,0000,0000,,What? Isn't it obvious?
+Dialogue: 0,0:11:47.13,0:11:48.70,Main,M,0000,0000,0000,,We're the police.
+Dialogue: 0,0:11:48.70,0:11:50.36,Main,A,0000,0000,0000,,P-Police?!
+Dialogue: 0,0:11:50.36,0:11:55.10,Main,M,0000,0000,0000,,Yep. We're aboard the ship of a group \Nof smugglers after you and us.
+Dialogue: 0,0:11:55.10,0:11:57.52,Italics,A,0000,0000,0000,,S-Smugglers?!
+Dialogue: 0,0:11:57.52,0:11:59.28,Italics,A,0000,0000,0000,,Forget it. I'm done.
+Dialogue: 0,0:11:59.28,0:12:02.01,Main,M,0000,0000,0000,,Looks like he really is just some rando.
+Dialogue: 0,0:12:02.01,0:12:03.95,Main,A,0000,0000,0000,,Don't call me a "rando"!
+Dialogue: 0,0:12:03.95,0:12:04.74,Main,Al,0000,0000,0000,,Minami!
+Dialogue: 0,0:12:04.74,0:12:07.03,Main,Throughhand,0000,0000,0000,,Found you.
+Dialogue: 0,0:12:11.57,0:12:13.96,Main,M,0000,0000,0000,,What the? Did he just slip through the wall?!
+Dialogue: 0,0:12:13.96,0:12:15.05,Main,A,0000,0000,0000,,How?
+Dialogue: 0,0:12:21.91,0:12:23.35,Main,T,0000,0000,0000,,It's futile.
+Dialogue: 0,0:12:23.35,0:12:26.27,Main,T,0000,0000,0000,,Physical attacks can't harm me.
+Dialogue: 0,0:12:27.40,0:12:29.05,Main,M,0000,0000,0000,,Wait, that number...
+Dialogue: 0,0:12:33.14,0:12:34.56,Main,T,0000,0000,0000,,Indeed.
+Dialogue: 0,0:12:35.22,0:12:37.99,Main,T,0000,0000,0000,,EX-ARM Number 08.
+Dialogue: 0,0:12:38.55,0:12:40.28,Main,T,0000,0000,0000,,The Throughhand.
+Dialogue: 0,0:12:41.36,0:12:45.26,Main,T,0000,0000,0000,,Wow, you managed to boot that thing?
+Dialogue: 0,0:12:45.26,0:12:48.95,Main,T,0000,0000,0000,,If you hand it over, \NI don't mind letting you two go.
+Dialogue: 0,0:12:49.70,0:12:51.37,Main,M,0000,0000,0000,,No way, pal!
+Dialogue: 0,0:12:51.37,0:12:54.24,Main,T,0000,0000,0000,,Why not? It's just a brain.
+Dialogue: 0,0:12:54.24,0:12:56.27,Main,M,0000,0000,0000,,He looks wack,
+Dialogue: 0,0:12:56.27,0:12:58.21,Main,M,0000,0000,0000,,but he's a real, live human being!
+Dialogue: 0,0:12:58.98,0:13:01.38,Main,M,0000,0000,0000,,So we'll protect him!
+Dialogue: 0,0:13:02.74,0:13:04.04,Main,A,0000,0000,0000,,You...
+Dialogue: 0,0:13:04.67,0:13:05.84,Main,T,0000,0000,0000,,Hmph. In that case...
+Dialogue: 0,0:13:07.97,0:13:09.97,sign_18893_185_Illustration_by_,Eyecatch,0000,0000,0000,,Illustration by Komi Shinya
+Dialogue: 0,0:13:11.72,0:13:13.98,Main,A,0000,0000,0000,,How am I supposed to believe any of this?
+Dialogue: 0,0:13:13.98,0:13:16.73,Main,A,0000,0000,0000,,This wacky contraption is me?
+Dialogue: 0,0:13:16.73,0:13:18.33,Main,A,0000,0000,0000,,What the hell happened?
+Dialogue: 0,0:13:18.33,0:13:22.27,Main,A,0000,0000,0000,,{\i1}And{\i0} you're telling me it's 2030 now, \Nand we're on a smuggling group's ship?!
+Dialogue: 0,0:13:22.27,0:13:23.05,Main,A,0000,0000,0000,,Pull my nonexistent leg!
+Dialogue: 0,0:13:23.05,0:13:25.52,Main,M,0000,0000,0000,,Oh, shut your mouth! Keep it down!
+Dialogue: 0,0:13:25.52,0:13:28.16,Main,A,0000,0000,0000,,'Scuse me? My mouth's all I've got!
+Dialogue: 0,0:13:28.16,0:13:28.81,Main,Sm,0000,0000,0000,,Freeze!
+Dialogue: 0,0:13:29.75,0:13:31.50,Main,A,0000,0000,0000,,Whoa, what are you doing?!
+Dialogue: 0,0:13:31.50,0:13:33.41,Main,Al,0000,0000,0000,,Don't worry. Titanium is tough.
+Dialogue: 0,0:13:35.03,0:13:37.53,Main,T,0000,0000,0000,,Caught you.
+Dialogue: 0,0:13:40.07,0:13:41.80,Main,M,0000,0000,0000,,Take him and run!
+Dialogue: 0,0:13:41.80,0:13:42.43,Main,Al,0000,0000,0000,,Got it.
+Dialogue: 0,0:13:42.43,0:13:43.77,Main,A,0000,0000,0000,,Hey, wait!
+Dialogue: 0,0:13:43.77,0:13:45.98,Main,T,0000,0000,0000,,That's one smart android.
+Dialogue: 0,0:13:45.98,0:13:46.88,Main,M,0000,0000,0000,,Not so fast!
+Dialogue: 0,0:13:47.92,0:13:51.26,Main,T,0000,0000,0000,,I guess I'll cook you up first.
+Dialogue: 0,0:13:51.26,0:13:52.76,Main,Sm,0000,0000,0000,,Find 'em!
+Dialogue: 0,0:13:53.84,0:13:55.79,Main,Al,0000,0000,0000,,They won't find us up here.
+Dialogue: 0,0:13:55.79,0:13:58.44,Main,A,0000,0000,0000,,Hey, we need to go help her.
+Dialogue: 0,0:13:58.44,0:13:59.86,Main,Al,0000,0000,0000,,That's the plan, yes.
+Dialogue: 0,0:14:00.24,0:14:02.91,Main,Al,0000,0000,0000,,I connected you \Nto the ship's network cabling.
+Dialogue: 0,0:14:02.91,0:14:04.23,Main,Al,0000,0000,0000,,You should be able to see now.
+Dialogue: 0,0:14:04.23,0:14:05.80,Main,A,0000,0000,0000,,See what?
+Dialogue: 0,0:14:05.80,0:14:07.20,Main,Al,0000,0000,0000,,CC footage and stuff?
+Dialogue: 0,0:14:07.20,0:14:08.41,Main,A,0000,0000,0000,,Uh, I don't see a thing.
+Dialogue: 0,0:14:08.41,0:14:12.52,Main,Al,0000,0000,0000,,But you accessed my visual data \Neasily earlier.
+Dialogue: 0,0:14:12.52,0:14:15.64,Main,Al,0000,0000,0000,,Hmm... If there's no\Noverarching command system,
+Dialogue: 0,0:14:15.64,0:14:18.60,Main,Al,0000,0000,0000,,maybe you'll be able to, if you try to see.
+Dialogue: 0,0:14:18.60,0:14:19.66,Main,Al,0000,0000,0000,,Later.
+Dialogue: 0,0:14:19.66,0:14:23.00,Main,A,0000,0000,0000,,Oh, come on! \NWhat are you asking me to do?!
+Dialogue: 0,0:14:26.18,0:14:27.77,Main,T,0000,0000,0000,,Did you know?
+Dialogue: 0,0:14:27.77,0:14:32.55,Main,T,0000,0000,0000,,Organs are still a hot product \Nfor us smugglers.
+Dialogue: 0,0:14:32.55,0:14:34.95,Main,T,0000,0000,0000,,I'll slice and dice you up real nice.
+Dialogue: 0,0:14:41.81,0:14:44.36,Main,M,0000,0000,0000,,Alma! I told you to run!
+Dialogue: 0,0:14:44.36,0:14:45.88,Main,M,0000,0000,0000,,You're disobeying orders here!
+Dialogue: 0,0:14:45.88,0:14:47.80,Main,Al,0000,0000,0000,,You're one to talk.
+Dialogue: 0,0:14:48.32,0:14:50.68,Main,A,0000,0000,0000,,Let me see! Come on!
+Dialogue: 0,0:14:50.68,0:14:54.72,Main,A,0000,0000,0000,,Shit, I can't see a thing! Damn it all!
+Dialogue: 0,0:14:54.72,0:14:57.80,Main,A,0000,0000,0000,,I've been left all alone \Nin this crazy situation.
+Dialogue: 0,0:14:58.39,0:15:02.41,Main,A,0000,0000,0000,,Am I gonna be completely useless yet again?!
+Dialogue: 0,0:15:03.64,0:15:04.54,Flashback,Sh,0000,0000,0000,,Akira.
+Dialogue: 0,0:15:04.54,0:15:06.67,Flashback,Sh,0000,0000,0000,,You've just gotta put your best foot forward.
+Dialogue: 0,0:15:06.67,0:15:08.71,Flashback,Sh,0000,0000,0000,,If you want to change, that is.
+Dialogue: 0,0:15:09.80,0:15:11.00,Italics,A,0000,0000,0000,,Bro...
+Dialogue: 0,0:15:11.00,0:15:13.16,Italics,A,0000,0000,0000,,Wait, what's happening?
+Dialogue: 0,0:15:16.27,0:15:19.18,Italics,A,0000,0000,0000,,I can see CC footage now.
+Dialogue: 0,0:15:19.73,0:15:21.29,Italics,A,0000,0000,0000,,It's not just vision.
+Dialogue: 0,0:15:21.29,0:15:23.53,Italics,A,0000,0000,0000,,All my senses are coming back...
+Dialogue: 0,0:15:23.53,0:15:25.88,Italics,A,0000,0000,0000,,to the body I couldn't feel until now.
+Dialogue: 0,0:15:25.88,0:15:28.65,Main,A,0000,0000,0000,,Huh? I can move my body now!
+Dialogue: 0,0:15:29.52,0:15:31.59,Main,A,0000,0000,0000,,I'm filling up with power!
+Dialogue: 0,0:15:32.29,0:15:34.65,Main,A,0000,0000,0000,,I don't have a foot to put forward anymore,
+Dialogue: 0,0:15:35.73,0:15:38.64,Main,A,0000,0000,0000,,but that also means I can't run away.
+Dialogue: 0,0:15:38.64,0:15:39.83,Main,A,0000,0000,0000,,Which means...
+Dialogue: 0,0:15:40.40,0:15:43.02,Main,A,0000,0000,0000,,My only option is to do this!
+Dialogue: 0,0:16:04.40,0:16:08.94,Main,T,0000,0000,0000,,All the power and speed in the world \Nmean nothing if you can't touch me.
+Dialogue: 0,0:16:06.80,0:16:08.02,Main Top,M,0000,0000,0000,,Alma!
+Dialogue: 0,0:16:08.94,0:16:10.19,Main,T,0000,0000,0000,,Game over.
+Dialogue: 0,0:16:15.49,0:16:18.60,Main,Sm,0000,0000,0000,,The ship's network is being\Nbombarded with traffic!
+Dialogue: 0,0:16:18.60,0:16:19.87,Main,Sm,0000,0000,0000,,We can't control it!
+Dialogue: 0,0:16:19.87,0:16:21.29,Main,Sm,0000,0000,0000,,What? Why are the sprinklers...
+Dialogue: 0,0:16:21.29,0:16:23.33,Main,Sm,0000,0000,0000,,Shit! The hatch's been locked!
+Dialogue: 0,0:16:26.49,0:16:30.31,Main,A,0000,0000,0000,,It feels like this entire ship \Nhas become my body.
+Dialogue: 0,0:16:31.64,0:16:34.67,Main,A,0000,0000,0000,,Where are those two? I need to find them.
+Dialogue: 0,0:16:34.67,0:16:35.72,Main,A,0000,0000,0000,,There!
+Dialogue: 0,0:16:36.36,0:16:38.38,Main,Al,0000,0000,0000,,Is it you?
+Dialogue: 0,0:16:38.80,0:16:40.94,Main,A,0000,0000,0000,,You're okay?
+Dialogue: 0,0:16:40.94,0:16:45.02,Main,Al,0000,0000,0000,,No. My mobility chip seems \Nto have been damaged.
+Dialogue: 0,0:16:45.02,0:16:47.05,Main,Al,0000,0000,0000,,So I have a favor to ask.
+Dialogue: 0,0:16:47.05,0:16:51.43,Main,Al,0000,0000,0000,,Access my AI and take control of my body.
+Dialogue: 0,0:16:52.13,0:16:55.61,Main,Al,0000,0000,0000,,We shared my vision smoothly earlier.
+Dialogue: 0,0:16:55.61,0:16:57.24,Main,Al,0000,0000,0000,,I'm sure you can do this, too.
+Dialogue: 0,0:16:57.24,0:17:00.44,Main,A,0000,0000,0000,,But... I've always had a thing against tech.
+Dialogue: 0,0:17:00.44,0:17:02.60,Main,A,0000,0000,0000,,Always felt like the machines \Nwould suck me in.
+Dialogue: 0,0:17:04.30,0:17:06.49,Main,M,0000,0000,0000,,Stop it, you freak!
+Dialogue: 0,0:17:06.49,0:17:08.88,Main,T,0000,0000,0000,,Settle down or I'll kill you.
+Dialogue: 0,0:17:13.44,0:17:15.77,Main,Al,0000,0000,0000,,Hurry up and get inside me!
+Dialogue: 0,0:17:20.50,0:17:21.54,Main,Al,0000,0000,0000,,Come on!
+Dialogue: 0,0:17:25.48,0:17:27.62,Italics,A,0000,0000,0000,,Looks like it worked.
+Dialogue: 0,0:17:28.52,0:17:30.11,Italics,Al,0000,0000,0000,,Now stand up.
+Dialogue: 0,0:17:32.65,0:17:35.32,Italics,A,0000,0000,0000,,Just like with the ship. I can do this.
+Dialogue: 0,0:17:38.30,0:17:41.47,Main,A,0000,0000,0000,,Don't push your luck, you freak!
+Dialogue: 0,0:17:43.98,0:17:44.87,Main,M,0000,0000,0000,,Alma...?
+Dialogue: 0,0:17:44.87,0:17:48.12,Main,T,0000,0000,0000,,You can still move? I'll break you for good.
+Dialogue: 0,0:17:57.48,0:17:59.30,Main,A,0000,0000,0000,,Damn, I can't control myself.
+Dialogue: 0,0:18:02.45,0:18:03.95,Italics,Al,0000,0000,0000,,Don't overthink it.
+Dialogue: 0,0:18:03.95,0:18:06.77,Italics,Al,0000,0000,0000,,You took over my body extremely naturally.
+Dialogue: 0,0:18:06.77,0:18:09.80,Italics,Al,0000,0000,0000,,You probably already have the protocols.
+Dialogue: 0,0:18:09.80,0:18:11.04,Italics,A,0000,0000,0000,,I know.
+Dialogue: 0,0:18:11.04,0:18:14.20,Italics,A,0000,0000,0000,,I've just gotta picture what I wanna do.
+Dialogue: 0,0:18:14.98,0:18:16.15,Italics,A,0000,0000,0000,,Picture it.
+Dialogue: 0,0:18:16.86,0:18:20.46,Italics,A,0000,0000,0000,,Picture myself as the hero \Nin a kung-fu movie!
+Dialogue: 0,0:18:39.62,0:18:42.49,Main,M,0000,0000,0000,,What's with you? You seem different, Alma.
+Dialogue: 0,0:18:42.49,0:18:44.84,Main,A,0000,0000,0000,,Nah, it's your boy here.
+Dialogue: 0,0:18:44.84,0:18:45.72,Main,M,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:46.37,0:18:48.14,Main,T,0000,0000,0000,,You're not getting away!
+Dialogue: 0,0:18:56.69,0:18:58.06,Main,M,0000,0000,0000,,Yes!
+Dialogue: 0,0:18:58.65,0:19:01.66,Main,T,0000,0000,0000,,Wait, is the other side of this wall...
+Dialogue: 0,0:19:02.33,0:19:04.62,Main,A,0000,0000,0000,,Exactly. It's the sea.
+Dialogue: 0,0:19:05.02,0:19:07.34,Main,A,0000,0000,0000,,It was noticeable while fighting you.
+Dialogue: 0,0:19:07.34,0:19:10.06,Main,A,0000,0000,0000,,You blocked kicks from behind.
+Dialogue: 0,0:19:10.76,0:19:12.71,Main,A,0000,0000,0000,,You took the body hit from the side.
+Dialogue: 0,0:19:13.08,0:19:14.79,Main,A,0000,0000,0000,,Your little EX-ARM
+Dialogue: 0,0:19:15.43,0:19:18.22,Main,A,0000,0000,0000,,only affects the area in front of you.
+Dialogue: 0,0:19:18.22,0:19:20.76,Main,A,0000,0000,0000,,You can't slip through backward.
+Dialogue: 0,0:19:20.76,0:19:23.97,Main,A,0000,0000,0000,,You can escape through that wall \Nif you want, but then you'll just sink.
+Dialogue: 0,0:19:27.14,0:19:30.01,Main,M,0000,0000,0000,,Wow, you're pretty smart.
+Dialogue: 0,0:19:30.01,0:19:33.40,Main,A,0000,0000,0000,,Actually, Alma told me all this.
+Dialogue: 0,0:19:33.40,0:19:35.53,Main,M,0000,0000,0000,,What the heck? \NI'm taking back the compliment.
+Dialogue: 0,0:19:35.53,0:19:38.89,Main,A,0000,0000,0000,,Come on! Be thankful \NI fixed this mess for you!
+Dialogue: 0,0:19:40.02,0:19:42.00,Main,T,0000,0000,0000,,"Fixed," you say?
+Dialogue: 0,0:19:42.00,0:19:44.37,Main,T,0000,0000,0000,,You people don't understand a thing.
+Dialogue: 0,0:19:46.15,0:19:51.24,Main,T,0000,0000,0000,,You know that EX-ARM has taken over \Nunderworlds everywhere, right?
+Dialogue: 0,0:19:51.24,0:19:54.35,Main,T,0000,0000,0000,,Then you should know \Nthat it's already too late.
+Dialogue: 0,0:19:54.35,0:19:58.92,Main,T,0000,0000,0000,,Mankind can't let go of powers \Nit has obtained.
+Dialogue: 0,0:19:58.92,0:20:03.16,Main,T,0000,0000,0000,,And EX-ARM is the ultimate power. \NIt makes its wielders superior.
+Dialogue: 0,0:20:03.16,0:20:06.35,Main,T,0000,0000,0000,,The strong will take from the weak, \Nand the weak will die.
+Dialogue: 0,0:20:06.35,0:20:09.42,Main,T,0000,0000,0000,,Nobody can break that cycle now.
+Dialogue: 0,0:20:12.21,0:20:13.14,Main,M,0000,0000,0000,,You're wrong!
+Dialogue: 0,0:20:15.00,0:20:19.40,Main,M,0000,0000,0000,,The strong must use their powers \Nto protect the weak!
+Dialogue: 0,0:20:38.75,0:20:41.08,Main,M,0000,0000,0000,,Well, that's case closed.
+Dialogue: 0,0:20:41.08,0:20:42.99,Main,A,0000,0000,0000,,Thank god.
+Dialogue: 0,0:20:42.99,0:20:44.41,Main,M,0000,0000,0000,,Chief Shiga?!
+Dialogue: 0,0:20:44.84,0:20:46.33,Main,Sh,0000,0000,0000,,Good job on this operation.
+Dialogue: 0,0:20:46.95,0:20:49.01,Main,Sh,0000,0000,0000,,So this is Number 00...
+Dialogue: 0,0:20:50.68,0:20:52.78,Main,Sh,0000,0000,0000,,Uezono Minami, Alma.
+Dialogue: 0,0:20:53.41,0:20:57.02,Main,Sh,0000,0000,0000,,Normally, you would be disciplined \Nfor disobeying orders,
+Dialogue: 0,0:20:57.02,0:21:02.19,Main,Sh,0000,0000,0000,,but I'll let it slide, \Nin light of your capture of EX-ARM 08.
+Dialogue: 0,0:21:04.23,0:21:08.56,Main,A,0000,0000,0000,,Wait. I'm, uh... not Alma.
+Dialogue: 0,0:21:08.56,0:21:10.52,Main,A,0000,0000,0000,,I know it probably doesn't make any sense.
+Dialogue: 0,0:21:10.52,0:21:11.87,Main,Cop,0000,0000,0000,,Don't move. On your knees.
+Dialogue: 0,0:21:14.18,0:21:18.22,Main,A,0000,0000,0000,,Please. This thing isn't who I am.
+Dialogue: 0,0:21:18.22,0:21:21.70,Main,A,0000,0000,0000,,I'm human! Help me!
+Dialogue: 0,0:21:23.33,0:21:28.63,Main,Sh,0000,0000,0000,,It's been ten years since that terrible tragedy, \Nbut you're still...
+Dialogue: 0,0:21:30.26,0:21:31.53,Main,Sh,0000,0000,0000,,an enemy of mankind.
+Dialogue: 0,0:21:43.40,0:21:46.28,Italics,A,0000,0000,0000,,Is that... me?
+Dialogue: 0,0:21:48.56,0:21:49.96,Italics,A,0000,0000,0000,,I'm...
+Dialogue: 0,0:21:51.17,0:21:53.37,Italics,A,0000,0000,0000,,an enemy of all mankind?
+Dialogue: 0,0:23:25.64,0:23:26.75,Main,A,0000,0000,0000,,Oh, come on!
+Dialogue: 0,0:23:26.75,0:23:29.58,Main,A,0000,0000,0000,,Why'd I become a brain in a machine? \NI hate technology!
+Dialogue: 0,0:23:29.58,0:23:31.64,Main,A,0000,0000,0000,,And I'm a weapon now?
+Dialogue: 0,0:23:31.64,0:23:34.18,Main,A,0000,0000,0000,,What? The Counter EX-ARM Squad?
+Dialogue: 0,0:23:34.18,0:23:36.91,Main Top,A,0000,0000,0000,,Next time, on {\i1}EX-ARM:{\i0} \N"Battle 002 - Day of Judgment."
+Dialogue: 0,0:23:34.18,0:23:39.98,Next Episode Title,A,0000,0000,0000,,Day of Judgment
+Dialogue: 0,0:23:36.91,0:23:39.29,Main Top,A,0000,0000,0000,,Wait, I've gotta solve a case?!

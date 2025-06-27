@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "USS Callister",
+        "released": "2017-12-29",
+        "rating": "8.3",
+        "imdb_id": "tt5710974",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Black Mirror\\Subtitles\\S4\\Black.Mirror.S04E01.XviD-AFGS4E1.zip"
+    },
+    "2": {
+        "title": "Arkangel",
+        "released": "2017-12-29",
+        "rating": "N/A",
+        "imdb_id": "tt5709250",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Crocodile",
+        "released": "2017-12-29",
+        "rating": "7.3",
+        "imdb_id": "tt5710976",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Hang the DJ",
+        "released": "2017-12-29",
+        "rating": "8.7",
+        "imdb_id": "tt5710978",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Metalhead",
+        "released": "2017-12-29",
+        "rating": "6.6",
+        "imdb_id": "tt5710984",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Black Museum",
+        "released": "2017-12-29",
+        "rating": "8.6",
+        "imdb_id": "tt5058700",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "The Copper Beeches",
+        "released": "1985-08-25",
+        "rating": "8.0",
+        "imdb_id": "tt0506447",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Greek Interpreter",
+        "released": "1985-09-01",
+        "rating": "7.9",
+        "imdb_id": "tt0506451",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Norwood Builder",
+        "released": "1985-09-08",
+        "rating": "8.2",
+        "imdb_id": "tt0506453",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Resident Patient",
+        "released": "1985-09-15",
+        "rating": "8.0",
+        "imdb_id": "tt0506455",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Red Headed League",
+        "released": "1985-09-22",
+        "rating": "8.4",
+        "imdb_id": "tt0506454",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Final Problem",
+        "released": "1985-09-29",
+        "rating": "8.4",
+        "imdb_id": "tt0506450",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

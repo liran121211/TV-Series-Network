@@ -1,0 +1,90 @@
+{
+    "1": {
+        "title": "Shoulda Tapped",
+        "released": "2019-09-12",
+        "rating": "8.0",
+        "imdb_id": "tt9144538",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S2\\Mr.Inbetween.S02E01.Shoulda.Tapped.HDTV.x264-CRiMSON.HIS2E1.zip"
+    },
+    "2": {
+        "title": "Don't Be a Dickhead",
+        "released": "2019-09-19",
+        "rating": "N/A",
+        "imdb_id": "tt10934174",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S2\\Mr.Inbetween.S02E02.HDTV.x264-CRiMSONS2E2.zip"
+    },
+    "3": {
+        "title": "I Came from Your Balls?",
+        "released": "2019-09-26",
+        "rating": "N/A",
+        "imdb_id": "tt10944050",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S2\\Mr.Inbetween.S02E03.720p.HDTV.x264-AVS.HIS2E3.zip"
+    },
+    "4": {
+        "title": "Monsters",
+        "released": "2019-10-03",
+        "rating": "8.8",
+        "imdb_id": "tt10964082",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S2\\Mr.Inbetween.S02E04.Monsters.HDTV.x264-CRiMSON.HIS2E4.zip"
+    },
+    "5": {
+        "title": "Can't Save You",
+        "released": "2019-10-10",
+        "rating": "N/A",
+        "imdb_id": "tt11011010",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S2\\Mr.Inbetween.S02E05.Cant.Save.You.HDTV.x264-CRiMSON.HIS2E5.zip"
+    },
+    "6": {
+        "title": "Let Me Stop You There",
+        "released": "2019-10-17",
+        "rating": "7.9",
+        "imdb_id": "tt10850482",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S2\\Mr.Inbetween.S02E06.Let.Me.Stop.You.There.REPACK.720p.HDTV.x264-CRiMSON.HIS2E6.zip"
+    },
+    "7": {
+        "title": "Watch Out for Snakes",
+        "released": "2019-10-24",
+        "rating": "N/A",
+        "imdb_id": "tt11028226",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S2\\Mr.Inbetween.S02E07.Watch.Out.for.Snakes.HDTV.x264-CRiMSON.HIS2E7.zip"
+    },
+    "8": {
+        "title": "See You in Your Dreams",
+        "released": "2019-10-31",
+        "rating": "N/A",
+        "imdb_id": "tt11052318",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S2\\Mr.Inbetween.S02E08.See.You.in.Your.Dreams.HDTV.x264-CRiMSON.HIS2E8.zip"
+    },
+    "9": {
+        "title": "Socks Are Important",
+        "released": "2019-11-07",
+        "rating": "9.5",
+        "imdb_id": "tt11098024",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mr Inbetween\\Subtitles\\S2\\Mr.Inbetween.S02E09.Socks.are.Important.HDTV.x264-CRiMSON.HIS2E9.zip"
+    },
+    "10": {
+        "title": "Nice Face",
+        "released": "2019-11-14",
+        "rating": "N/A",
+        "imdb_id": "tt11140810",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "There Rust, and Let Me Die",
+        "released": "2019-11-21",
+        "rating": "9.0",
+        "imdb_id": "tt11182894",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "201 (Auditions)",
+        "released": "2019-03-03",
+        "rating": "8.0",
+        "imdb_id": "tt9579120",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "202 (Auditions)",
+        "released": "2019-03-06",
+        "rating": "7.6",
+        "imdb_id": "tt9833124",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "203 (Auditions)",
+        "released": "2019-03-10",
+        "rating": "N/A",
+        "imdb_id": "tt9833128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "204 (Auditions)",
+        "released": "2019-03-17",
+        "rating": "N/A",
+        "imdb_id": "tt9833130",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "205 (Auditions)",
+        "released": "2019-03-18",
+        "rating": "N/A",
+        "imdb_id": "tt9910056",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "206 (Hollywood Week)",
+        "released": "2019-03-24",
+        "rating": "N/A",
+        "imdb_id": "tt10004300",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "208 (Showcase/Final Judgement)",
+        "released": "2019-03-31",
+        "rating": "8.4",
+        "imdb_id": "tt10004304",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "211 (All-Star Duets)",
+        "released": "2019-04-08",
+        "rating": "7.4",
+        "imdb_id": "tt10121806",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "212 (Top 14)",
+        "released": "2019-04-14",
+        "rating": "N/A",
+        "imdb_id": "tt10121808",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "213 (Top 10 Reveal)",
+        "released": "2019-04-15",
+        "rating": "N/A",
+        "imdb_id": "tt10121812",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "214 (Disney Night)",
+        "released": "2019-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt10188426",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "216 (Woodstock and Show Stoppers)",
+        "released": "2019-05-05",
+        "rating": "N/A",
+        "imdb_id": "tt10222924",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "218 (Season Finale)",
+        "released": "2019-05-19",
+        "rating": "N/A",
+        "imdb_id": "tt10222930",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

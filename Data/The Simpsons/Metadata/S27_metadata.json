@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Every Man's Dream",
+        "released": "2015-09-27",
+        "rating": "5.6",
+        "imdb_id": "tt4341176",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S27\\The.Simpsons.S27E01.HDTV.x264-BATV.HIS27E1.zip"
+    },
+    "2": {
+        "title": "'Cue Detective",
+        "released": "2015-10-04",
+        "rating": "6.6",
+        "imdb_id": "tt4480392",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S27\\The.Simpsons.S27E02.HDTV.x264-KILLERS.HIS27E2.zip"
+    },
+    "3": {
+        "title": "Puffless",
+        "released": "2015-10-11",
+        "rating": "6.9",
+        "imdb_id": "tt4480438",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S27\\The.Simpsons.S27E03.INTERNAL.HDTV.x264-BATV.HIS27E3.zip"
+    },
+    "4": {
+        "title": "Halloween of Horror",
+        "released": "2015-10-18",
+        "rating": "7.6",
+        "imdb_id": "tt4480454",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S27\\The.Simpsons.S27E04.PROPER.HDTV.x264-KILLERS.HIS27E4.zip"
+    },
+    "5": {
+        "title": "Treehouse of Horror XXVI",
+        "released": "2015-10-25",
+        "rating": "6.6",
+        "imdb_id": "tt4480402",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S27\\The.Simpsons.S27E05.HDTV.x264-KILLERS.HIS27E5.zip"
+    },
+    "6": {
+        "title": "Friend with Benefit",
+        "released": "2015-11-08",
+        "rating": "6.6",
+        "imdb_id": "tt4485922",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S27\\The.Simpsons.S27E06.PROPER.HDTV.x264-KILLERS.HIS27E6.zip"
+    },
+    "7": {
+        "title": "Lisa with an &quot;S&quot;",
+        "released": "2015-11-22",
+        "rating": "5.9",
+        "imdb_id": "tt4480444",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S27\\The.Simpsons.S27E07.PROPER.HDTV.x264-KILLERS.HIS27E7.zip"
+    },
+    "8": {
+        "title": "Paths of Glory",
+        "released": "2015-12-06",
+        "rating": "6.8",
+        "imdb_id": "tt4659896",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S27\\The.Simpsons.S27E08.HDTV.x264-KILLERS.HIS27E8.zip"
+    },
+    "9": {
+        "title": "Barthood",
+        "released": "2015-12-13",
+        "rating": "8.4",
+        "imdb_id": "tt4773522",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S27\\The.Simpsons.S27E09.PROPER.720p.HDTV.x264-KILLERS.HIS27E9.zip"
+    },
+    "10": {
+        "title": "The Girl Code",
+        "released": "2016-01-03",
+        "rating": "6.6",
+        "imdb_id": "tt5148632",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Teenage Mutant Milk-Caused Hurdles",
+        "released": "2016-01-10",
+        "rating": "6.5",
+        "imdb_id": "tt4932900",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Much Apu About Something",
+        "released": "2016-01-17",
+        "rating": "6.5",
+        "imdb_id": "tt5179010",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Love Is in the N2-O2-Ar-CO2-Ne-He-CH4",
+        "released": "2016-02-14",
+        "rating": "6.4",
+        "imdb_id": "tt4773532",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Gal of Constant Sorrow",
+        "released": "2016-02-21",
+        "rating": "6.5",
+        "imdb_id": "tt4773516",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Lisa the Veterinarian",
+        "released": "2016-03-06",
+        "rating": "6.4",
+        "imdb_id": "tt4773510",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Marge-ian Chronicles",
+        "released": "2016-03-13",
+        "rating": "7.0",
+        "imdb_id": "tt4818824",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Burns Cage",
+        "released": "2016-04-03",
+        "rating": "6.4",
+        "imdb_id": "tt5222700",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "How Lisa Got Her Marge Back",
+        "released": "2016-04-10",
+        "rating": "6.2",
+        "imdb_id": "tt5222722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Fland Canyon",
+        "released": "2016-04-24",
+        "rating": "7.1",
+        "imdb_id": "tt5222740",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "To Courier with Love",
+        "released": "2016-05-08",
+        "rating": "6.7",
+        "imdb_id": "tt5222750",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Simprovised",
+        "released": "2016-05-15",
+        "rating": "6.3",
+        "imdb_id": "tt5222742",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Orange Is the New Yellow",
+        "released": "2016-05-22",
+        "rating": "6.6",
+        "imdb_id": "tt4765704",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

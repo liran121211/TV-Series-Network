@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Ben 10,000",
+        "released": "2006-11-25",
+        "rating": "8.8",
+        "imdb_id": "tt0907979",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Midnight Madness",
+        "released": "2006-12-02",
+        "rating": "7.3",
+        "imdb_id": "tt0951437",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "A Change of Face",
+        "released": "2006-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt0951435",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Merry Christmas",
+        "released": "2006-12-11",
+        "rating": "7.0",
+        "imdb_id": "tt0951436",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Benwolf",
+        "released": "2007-02-17",
+        "rating": "N/A",
+        "imdb_id": "tt0849835",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Game Over",
+        "released": "2007-02-24",
+        "rating": "N/A",
+        "imdb_id": "tt0971299",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Super Alien Hero Buddy Adventures",
+        "released": "2007-03-03",
+        "rating": "N/A",
+        "imdb_id": "tt0981477",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Under Wraps",
+        "released": "2007-03-10",
+        "rating": "N/A",
+        "imdb_id": "tt0915899",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Unnaturals",
+        "released": "2007-03-17",
+        "rating": "N/A",
+        "imdb_id": "tt0991568",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Monster Weather",
+        "released": "2007-03-24",
+        "rating": "N/A",
+        "imdb_id": "tt0993122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Return",
+        "released": "2007-04-07",
+        "rating": "N/A",
+        "imdb_id": "tt1003814",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Be Afraid of the Dark",
+        "released": "2007-04-14",
+        "rating": "N/A",
+        "imdb_id": "tt1014200",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Visitor",
+        "released": "2007-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt1009150",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

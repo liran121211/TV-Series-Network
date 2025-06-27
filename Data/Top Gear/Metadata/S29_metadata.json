@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Episode #29.1",
+        "released": "2020-10-18",
+        "rating": "5.8",
+        "imdb_id": "tt11780790",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #29.2",
+        "released": "2020-10-25",
+        "rating": "6.6",
+        "imdb_id": "tt13259964",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S29\\Top.Gear.S29E02.1080p.iP.WEB-DL.AAC2.0.H.264-NTbS29E2.zip"
+    },
+    "3": {
+        "title": "Episode #29.3",
+        "released": "2020-11-01",
+        "rating": "5.6",
+        "imdb_id": "tt13273910",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S29\\Top.Gear.S29E03.720p.iP.WEB-DL.AAC2.0.H.264-DRiS29E3.zip"
+    },
+    "4": {
+        "title": "Episode #29.4",
+        "released": "2020-11-08",
+        "rating": "N/A",
+        "imdb_id": "tt13333194",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S29\\Top.Gear.S29E04.1080p.iP.WEB-DL.AAC2.0.H.264-NTbS29E4.zip"
+    },
+    "5": {
+        "title": "Episode #29.5",
+        "released": "2020-11-15",
+        "rating": "5.2",
+        "imdb_id": "tt13366100",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

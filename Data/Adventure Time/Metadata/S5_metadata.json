@@ -1,0 +1,418 @@
+{
+    "1": {
+        "title": "Finn the Human",
+        "released": "2012-11-12",
+        "rating": "N/A",
+        "imdb_id": "tt2459530",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Jake the Dog",
+        "released": "2012-11-12",
+        "rating": "9.4",
+        "imdb_id": "tt2459528",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Five More Short Graybles",
+        "released": "2012-11-19",
+        "rating": "N/A",
+        "imdb_id": "tt2506708",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Up a Tree",
+        "released": "2012-11-26",
+        "rating": "7.6",
+        "imdb_id": "tt2510956",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "All the Little People",
+        "released": "2012-12-03",
+        "rating": "N/A",
+        "imdb_id": "tt2539922",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Jake the Dad",
+        "released": "2013-01-07",
+        "rating": "N/A",
+        "imdb_id": "tt2597414",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Davey",
+        "released": "2013-01-14",
+        "rating": "7.4",
+        "imdb_id": "tt2606674",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Mystery Dungeon",
+        "released": "2013-01-21",
+        "rating": "8.1",
+        "imdb_id": "tt2617736",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "All Your Fault",
+        "released": "2013-01-28",
+        "rating": "N/A",
+        "imdb_id": "tt2620058",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Little Dude",
+        "released": "2013-02-04",
+        "rating": "N/A",
+        "imdb_id": "tt2620066",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Bad Little Boy",
+        "released": "2013-02-18",
+        "rating": "N/A",
+        "imdb_id": "tt2459526",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Vault of Bones",
+        "released": "2013-02-25",
+        "rating": "N/A",
+        "imdb_id": "tt2620072",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Great Bird Man",
+        "released": "2013-03-04",
+        "rating": "N/A",
+        "imdb_id": "tt2620078",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Simon & Marcy",
+        "released": "2013-03-25",
+        "rating": "9.6",
+        "imdb_id": "tt2620082",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "A Glitch Is a Glitch",
+        "released": "2013-04-01",
+        "rating": "7.9",
+        "imdb_id": "tt2620092",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Puhoy",
+        "released": "2013-04-08",
+        "rating": "9.1",
+        "imdb_id": "tt2620086",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "BMO Lost",
+        "released": "2013-04-15",
+        "rating": "8.1",
+        "imdb_id": "tt2620102",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Princess Potluck",
+        "released": "2013-04-22",
+        "rating": "N/A",
+        "imdb_id": "tt2620098",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "James Baxter the Horse",
+        "released": "2013-05-06",
+        "rating": "7.5",
+        "imdb_id": "tt2620106",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Shh!",
+        "released": "2013-05-13",
+        "rating": "N/A",
+        "imdb_id": "tt2620116",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Suitor",
+        "released": "2013-05-20",
+        "rating": "7.4",
+        "imdb_id": "tt2620118",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Party's Over, Isla de Señorita",
+        "released": "2013-05-27",
+        "rating": "N/A",
+        "imdb_id": "tt2620122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "One Last Job",
+        "released": "2013-06-10",
+        "rating": "N/A",
+        "imdb_id": "tt2620096",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Another Five More Short Graybles",
+        "released": "2013-06-17",
+        "rating": "N/A",
+        "imdb_id": "tt2620126",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Candy Streets",
+        "released": "2013-06-24",
+        "rating": "7.5",
+        "imdb_id": "tt2620128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Wizards Only, Fools",
+        "released": "2013-07-01",
+        "rating": "7.7",
+        "imdb_id": "tt2620130",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Jakesuit",
+        "released": "2013-07-15",
+        "rating": "N/A",
+        "imdb_id": "tt3021416",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Be More",
+        "released": "2013-07-22",
+        "rating": "N/A",
+        "imdb_id": "tt3021418",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Sky Witch",
+        "released": "2013-07-29",
+        "rating": "N/A",
+        "imdb_id": "tt3021422",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Frost & Fire",
+        "released": "2013-08-05",
+        "rating": "8.0",
+        "imdb_id": "tt3084366",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "31": {
+        "title": "Too Old",
+        "released": "2013-08-12",
+        "rating": "7.7",
+        "imdb_id": "tt3116518",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Earth & Water",
+        "released": "2013-09-02",
+        "rating": "N/A",
+        "imdb_id": "tt3146612",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Time Sandwich",
+        "released": "2013-09-09",
+        "rating": "N/A",
+        "imdb_id": "tt3094552",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "The Vault",
+        "released": "2013-09-16",
+        "rating": "N/A",
+        "imdb_id": "tt3156934",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Love Games",
+        "released": "2013-09-23",
+        "rating": "6.7",
+        "imdb_id": "tt3156938",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Dungeon Train",
+        "released": "2013-09-30",
+        "rating": "8.1",
+        "imdb_id": "tt3156936",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Box Prince",
+        "released": "2013-10-07",
+        "rating": "7.0",
+        "imdb_id": "tt3238508",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Red Starved",
+        "released": "2013-10-14",
+        "rating": "7.6",
+        "imdb_id": "tt3238506",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "We Fixed a Truck",
+        "released": "2013-10-21",
+        "rating": "N/A",
+        "imdb_id": "tt3245274",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "40": {
+        "title": "Play Date",
+        "released": "2013-11-04",
+        "rating": "7.4",
+        "imdb_id": "tt3313438",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "The Pit",
+        "released": "2013-11-18",
+        "rating": "N/A",
+        "imdb_id": "tt3316440",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "James",
+        "released": "2013-11-25",
+        "rating": "N/A",
+        "imdb_id": "tt3307028",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Root Beer Guy",
+        "released": "2013-12-02",
+        "rating": "8.4",
+        "imdb_id": "tt3394982",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Apple Wedding",
+        "released": "2014-01-13",
+        "rating": "7.2",
+        "imdb_id": "tt3472104",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "Blade of Grass",
+        "released": "2014-01-20",
+        "rating": "N/A",
+        "imdb_id": "tt3452502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Rattleballs",
+        "released": "2014-01-27",
+        "rating": "N/A",
+        "imdb_id": "tt3468222",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "The Red Throne",
+        "released": "2014-02-10",
+        "rating": "7.6",
+        "imdb_id": "tt3529740",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "Betty",
+        "released": "2014-02-24",
+        "rating": "N/A",
+        "imdb_id": "tt3551386",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "Bad Timing",
+        "released": "2014-03-03",
+        "rating": "N/A",
+        "imdb_id": "tt3551388",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Lemonhope Part One",
+        "released": "2014-03-10",
+        "rating": "N/A",
+        "imdb_id": "tt3551390",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "Lemonhope Part Two",
+        "released": "2014-03-10",
+        "rating": "8.7",
+        "imdb_id": "tt3551394",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Billy's Bucket List",
+        "released": "2014-03-17",
+        "rating": "N/A",
+        "imdb_id": "tt3551396",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

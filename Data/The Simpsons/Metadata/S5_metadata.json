@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Homer's Barbershop Quartet",
+        "released": "1993-09-30",
+        "rating": "8.5",
+        "imdb_id": "tt0701121",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E01.WEB-DL.DSNPS15E1.zip"
+    },
+    "2": {
+        "title": "Cape Feare",
+        "released": "1993-10-07",
+        "rating": "9.2",
+        "imdb_id": "tt0701080",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E02.WEB-DL.DSNPS15E2.zip"
+    },
+    "3": {
+        "title": "Homer Goes to College",
+        "released": "1993-10-14",
+        "rating": "8.6",
+        "imdb_id": "tt0773645",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E03.WEB-DL.DSNPS15E3.zip"
+    },
+    "4": {
+        "title": "Rosebud",
+        "released": "1993-10-21",
+        "rating": "8.8",
+        "imdb_id": "tt0701202",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E04.WEB-DL.DSNPS15E4.zip"
+    },
+    "5": {
+        "title": "Treehouse of Horror IV",
+        "released": "1993-10-28",
+        "rating": "8.8",
+        "imdb_id": "tt0701279",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E05.WEB-DL.DSNPS15E5.zip"
+    },
+    "6": {
+        "title": "Marge on the Lam",
+        "released": "1993-11-04",
+        "rating": "8.0",
+        "imdb_id": "tt0701172",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E06.WEB-DL.DSNPS15E6.zip"
+    },
+    "7": {
+        "title": "Bart's Inner Child",
+        "released": "1993-11-11",
+        "rating": "7.6",
+        "imdb_id": "tt0701066",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E07.WEB-DL.DSNPS15E7.zip"
+    },
+    "8": {
+        "title": "Boy Scoutz 'n the Hood",
+        "released": "1993-11-18",
+        "rating": "8.6",
+        "imdb_id": "tt0701072",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E08.WEB-DL.DSNPS15E8.zip"
+    },
+    "9": {
+        "title": "The Last Temptation of Homer",
+        "released": "1993-12-09",
+        "rating": "8.5",
+        "imdb_id": "tt0701246",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S15\\The.Simpsons.S15E09.WEB-DL.DSNPS15E9.zip"
+    },
+    "10": {
+        "title": "$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)",
+        "released": "1993-12-16",
+        "rating": "8.6",
+        "imdb_id": "tt0701040",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Homer the Vigilante",
+        "released": "1994-01-06",
+        "rating": "8.2",
+        "imdb_id": "tt0701117",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Bart Gets Famous",
+        "released": "1994-02-03",
+        "rating": "8.1",
+        "imdb_id": "tt0701055",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Homer and Apu",
+        "released": "1994-02-10",
+        "rating": "8.2",
+        "imdb_id": "tt0701112",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Lisa vs. Malibu Stacy",
+        "released": "1994-02-17",
+        "rating": "8.1",
+        "imdb_id": "tt0701159",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Deep Space Homer",
+        "released": "1994-02-24",
+        "rating": "8.9",
+        "imdb_id": "tt0701087",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Homer Loves Flanders",
+        "released": "1994-03-17",
+        "rating": "8.6",
+        "imdb_id": "tt0773646",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Bart Gets an Elephant",
+        "released": "1994-03-31",
+        "rating": "7.8",
+        "imdb_id": "tt0777148",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Burns' Heir",
+        "released": "1994-04-14",
+        "rating": "8.3",
+        "imdb_id": "tt0777149",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Sweet Seymour Skinner's Baadasssss Song",
+        "released": "1994-04-28",
+        "rating": "8.3",
+        "imdb_id": "tt0777150",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Boy Who Knew Too Much",
+        "released": "1994-05-05",
+        "rating": "8.3",
+        "imdb_id": "tt0778453",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Lady Bouvier's Lover",
+        "released": "1994-05-12",
+        "rating": "N/A",
+        "imdb_id": "tt0763033",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Secrets of a Successful Marriage",
+        "released": "1994-05-19",
+        "rating": "8.0",
+        "imdb_id": "tt0778452",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

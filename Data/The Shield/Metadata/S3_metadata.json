@@ -1,0 +1,122 @@
+{
+    "1": {
+        "title": "Playing Tight",
+        "released": "2004-03-09",
+        "rating": "8.2",
+        "imdb_id": "tt0699524",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S3\\The.Shield.S03E01.2004.EnglishS3E1.zip"
+    },
+    "2": {
+        "title": "Blood and Water",
+        "released": "2004-03-16",
+        "rating": "N/A",
+        "imdb_id": "tt0699487",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S3\\The.Shield.S03E02.2004.EnglishS3E2.zip"
+    },
+    "3": {
+        "title": "Bottom Bitch",
+        "released": "2004-03-23",
+        "rating": "7.7",
+        "imdb_id": "tt0699489",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S3\\The.Shield.S03E03.2004.EnglishS3E3.zip"
+    },
+    "4": {
+        "title": "Streaks and Tips",
+        "released": "2004-03-30",
+        "rating": "8.3",
+        "imdb_id": "tt0699532",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S3\\The.Shield.S03E04.2004.EnglishS3E4.zip"
+    },
+    "5": {
+        "title": "Mum",
+        "released": "2004-04-06",
+        "rating": "8.4",
+        "imdb_id": "tt0699518",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S3\\The.Shield.S03E05.2004.EnglishS3E5.zip"
+    },
+    "6": {
+        "title": "Posse Up",
+        "released": "2004-04-13",
+        "rating": "7.8",
+        "imdb_id": "tt0699525",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S3\\The.Shield.S03E06.2004.EnglishS3E6.zip"
+    },
+    "7": {
+        "title": "Safe",
+        "released": "2004-04-20",
+        "rating": "N/A",
+        "imdb_id": "tt0699528",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S3\\The.Shield.S03E07.2004.EnglishS3E7.zip"
+    },
+    "8": {
+        "title": "Cracking Ice",
+        "released": "2004-04-27",
+        "rating": "7.9",
+        "imdb_id": "tt0699496",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S3\\The.Shield.S03E08.2004.EnglishS3E8.zip"
+    },
+    "9": {
+        "title": "Slipknot",
+        "released": "2004-05-04",
+        "rating": "N/A",
+        "imdb_id": "tt0699530",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S3\\The.Shield.S03E09.2004.EnglishS3E9.zip"
+    },
+    "10": {
+        "title": "What Power Is...",
+        "released": "2004-05-11",
+        "rating": "N/A",
+        "imdb_id": "tt0699542",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Strays",
+        "released": "2004-05-18",
+        "rating": "N/A",
+        "imdb_id": "tt0699531",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Riceburner",
+        "released": "2004-05-25",
+        "rating": "N/A",
+        "imdb_id": "tt0699527",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Fire in the Hole",
+        "released": "2004-06-01",
+        "rating": "8.4",
+        "imdb_id": "tt0699507",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "All In",
+        "released": "2004-06-08",
+        "rating": "8.8",
+        "imdb_id": "tt0699483",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "On Tilt",
+        "released": "2004-06-15",
+        "rating": "9.0",
+        "imdb_id": "tt0699519",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

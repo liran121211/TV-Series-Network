@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "The Amnesiac Orange",
+        "released": "2011-01-07",
+        "rating": "N/A",
+        "imdb_id": "tt1853038",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Rap-Berry",
+        "released": "2011-01-14",
+        "rating": "N/A",
+        "imdb_id": "tt1853035",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Food Court",
+        "released": "2011-01-21",
+        "rating": "N/A",
+        "imdb_id": "tt1853022",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "It Takes Two to Mango",
+        "released": "2011-02-18",
+        "rating": "N/A",
+        "imdb_id": "tt1853028",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Luck o' the Irish",
+        "released": "2010-03-11",
+        "rating": "N/A",
+        "imdb_id": "tt1715369",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Chapter 17: The Apostate",
+        "released": "2023-03-01",
+        "rating": "7.4",
+        "imdb_id": "tt12187072",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Chapter 18: The Mines of Mandalore",
+        "released": "2023-03-08",
+        "rating": "8.2",
+        "imdb_id": "tt13439668",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Chapter 19: The Convert",
+        "released": "2023-03-15",
+        "rating": "7.0",
+        "imdb_id": "tt13665846",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Chapter 20: The Foundling",
+        "released": "2023-03-22",
+        "rating": "7.6",
+        "imdb_id": "tt13669018",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Chapter 21: The Pirate",
+        "released": "2023-03-29",
+        "rating": "8.1",
+        "imdb_id": "tt13801574",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Chapter 22: Guns for Hire",
+        "released": "2023-04-05",
+        "rating": "6.4",
+        "imdb_id": "tt13801578",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Chapter 23: The Spies",
+        "released": "2023-04-12",
+        "rating": "8.7",
+        "imdb_id": "tt13820580",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Chapter 24: The Return",
+        "released": "2023-04-19",
+        "rating": "8.4",
+        "imdb_id": "tt13820582",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

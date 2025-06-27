@@ -1,0 +1,3728 @@
+1
+00:00:01,436 --> 00:00:01,492
+<i>P</i>
+
+2
+00:00:01,493 --> 00:00:01,549
+<i>Pr</i>
+
+3
+00:00:01,550 --> 00:00:01,606
+<i>Pre</i>
+
+4
+00:00:01,607 --> 00:00:01,663
+<i>Prev</i>
+
+5
+00:00:01,664 --> 00:00:01,720
+<i>Previ</i>
+
+6
+00:00:01,721 --> 00:00:01,777
+<i>Previo</i>
+
+7
+00:00:01,778 --> 00:00:01,834
+<i>Previou</i>
+
+8
+00:00:01,835 --> 00:00:01,891
+<i>Previous</i>
+
+9
+00:00:01,892 --> 00:00:01,948
+<i>Previousl</i>
+
+10
+00:00:01,949 --> 00:00:02,005
+<i>Previously</i>
+
+11
+00:00:02,006 --> 00:00:02,062
+<i>Previously </i>
+
+12
+00:00:02,063 --> 00:00:02,119
+<i>Previously O</i>
+
+13
+00:00:02,120 --> 00:00:02,176
+<i>Previously On</i>
+
+14
+00:00:02,177 --> 00:00:02,233
+<i>Previously On </i>
+
+15
+00:00:02,234 --> 00:00:02,291
+<i>Previously On "</i>
+
+16
+00:00:02,292 --> 00:00:02,348
+<i>Previously On "T</i>
+
+17
+00:00:02,349 --> 00:00:02,405
+<i>Previously On "Th</i>
+
+18
+00:00:02,406 --> 00:00:02,462
+<i>Previously On "Thi</i>
+
+19
+00:00:02,463 --> 00:00:02,519
+<i>Previously On "This</i>
+
+20
+00:00:02,520 --> 00:00:02,576
+<i>Previously On "This </i>
+
+21
+00:00:02,577 --> 00:00:02,633
+<i>Previously On "This I</i>
+
+22
+00:00:02,634 --> 00:00:02,690
+<i>Previously On "This Is</i>
+
+23
+00:00:02,691 --> 00:00:02,747
+<i>Previously On "This Is </i>
+
+24
+00:00:02,748 --> 00:00:02,804
+<i>Previously On "This Is U</i>
+
+25
+00:00:02,805 --> 00:00:02,861
+<i>Previously On "This Is Us</i>
+
+26
+00:00:02,862 --> 00:00:02,918
+<i>Previously On "This Is Us.</i>
+
+27
+00:00:02,919 --> 00:00:02,975
+<i>Previously On "This Is Us..</i>
+
+28
+00:00:02,976 --> 00:00:03,032
+<i>Previously On "This Is Us...</i>
+
+29
+00:00:03,033 --> 00:00:03,090
+<i>Previously On "This Is Us..."</i>
+
+30
+00:00:03,264 --> 00:00:04,700
+<i>[RANDALL [over phone]]
+How does it feel</i>
+
+31
+00:00:04,874 --> 00:00:06,310
+<i>to be the Pearson family's
+newest dad?</i>
+
+32
+00:00:06,484 --> 00:00:08,095
+<i>Congrats, Papa Bear.</i>
+
+33
+00:00:08,269 --> 00:00:09,922
+<i>[KEVIN]
+Thank you very much.</i>
+
+34
+00:00:10,097 --> 00:00:11,272
+<i>Giving you to Toby and Kate</i>
+
+35
+00:00:11,446 --> 00:00:13,143
+<i>is the hardest thing
+I've ever done.</i>
+
+36
+00:00:13,317 --> 00:00:15,102
+<i>But it might just be
+the best thing I'll ever do.</i>
+
+37
+00:00:15,276 --> 00:00:17,321
+<i>[quietly]
+I'm your mom.</i>
+
+38
+00:00:17,495 --> 00:00:18,888
+<i>We lost one of the babies.</i>
+
+39
+00:00:19,062 --> 00:00:21,934
+<i>No, that's not true.</i>
+
+40
+00:00:22,109 --> 00:00:24,067
+<i>[sobs]
+That's not true.</i>
+
+41
+00:00:26,113 --> 00:00:28,854
+<i>Welcome to Labor and Delivery.</i>
+
+42
+00:00:29,029 --> 00:00:30,508
+<i>I know many of you
+have been looking forward</i>
+
+43
+00:00:30,682 --> 00:00:31,509
+<i>to this rotation.</i>
+
+44
+00:00:31,683 --> 00:00:33,468
+<i>This is the floor</i>
+
+45
+00:00:33,642 --> 00:00:35,731
+<i>where you encounter
+a lot of crying,</i>
+
+46
+00:00:35,905 --> 00:00:37,907
+<i>screaming and tantrums.</i>
+
+47
+00:00:38,081 --> 00:00:39,909
+<i>[whispers]
+You're not gonna even pretend
+to be interested?</i>
+
+48
+00:00:40,083 --> 00:00:41,476
+<i>[scoffs]</i>
+
+49
+00:00:41,650 --> 00:00:42,955
+<i>It's babies.</i>
+
+50
+00:00:43,130 --> 00:00:44,566
+<i>It's not that complicated.</i>
+
+51
+00:00:45,871 --> 00:00:47,786
+<i>[laughs softly]
+[DOCTOR] For most families,</i>
+
+52
+00:00:47,960 --> 00:00:50,093
+<i>we're the last stop until
+they start the long drive home</i>
+
+53
+00:00:50,267 --> 00:00:51,964
+<i>with their new baby.</i>
+
+54
+00:00:52,139 --> 00:00:55,794
+<i>Or in her case, babies, plural.</i>
+
+55
+00:00:55,968 --> 00:00:58,101
+<i>[whispers]
+I have to go. Cover for me.</i>
+
+56
+00:01:03,846 --> 00:01:04,934
+<i>[REBECCA [softly]]
+Okay.</i>
+
+57
+00:01:05,108 --> 00:01:06,153
+<i>Ooh.
+All right.</i>
+
+58
+00:01:06,327 --> 00:01:07,502
+<i>There's a messy one.</i>
+
+59
+00:01:07,676 --> 00:01:09,547
+<i>Whoa, Kev... Kevin's peeing.</i>
+
+60
+00:01:09,721 --> 00:01:11,375
+<i>We got a pee-er.
+We got a pee-er.
+Oh, I got him. I got him.</i>
+
+61
+00:01:11,549 --> 00:01:12,768
+<i>I got him. I got him.
+[chuckles] Good.</i>
+
+62
+00:01:12,942 --> 00:01:14,639
+<i>There you go, bud. Here.
+[groans]</i>
+
+63
+00:01:14,813 --> 00:01:16,728
+<i>[JACK] Thank you.
+Let me wipe off...</i>
+
+64
+00:01:16,902 --> 00:01:18,165
+<i>[JACK]
+You have one more?</i>
+
+65
+00:01:18,339 --> 00:01:20,645
+<i>[NURSE]
+Well, look at you guys.</i>
+
+66
+00:01:20,819 --> 00:01:23,300
+<i>I think you're definitely ready
+to go home today.</i>
+
+67
+00:01:23,474 --> 00:01:26,695
+<i>Ha ha.
+They go through
+so many diapers.</i>
+
+68
+00:01:28,044 --> 00:01:29,828
+<i>You see that cabinet
+right there?
+[JACK] Mm-hmm.</i>
+
+69
+00:01:30,002 --> 00:01:31,830
+<i>It is fully stocked.</i>
+
+70
+00:01:32,004 --> 00:01:33,354
+<i>I mean like a treasure trove.</i>
+
+71
+00:01:33,528 --> 00:01:36,574
+<i>So, um, I'm gonna step out
+for a minute,</i>
+
+72
+00:01:36,748 --> 00:01:38,533
+<i>and I'm not saying
+that you should take anything,</i>
+
+73
+00:01:38,707 --> 00:01:40,883
+<i>but if you did happen
+to take a few things...</i>
+
+74
+00:01:45,888 --> 00:01:47,150
+<i>[laughs]
+Oh, babe.</i>
+
+75
+00:01:47,324 --> 00:01:49,196
+<i>It's like the holy grail
+in here.</i>
+
+76
+00:01:49,370 --> 00:01:51,589
+<i>Mm-hmm.
+There's wipes.</i>
+
+77
+00:01:51,763 --> 00:01:53,287
+<i>Diapers. Oh, um...</i>
+
+78
+00:01:56,986 --> 00:01:58,335
+<i>Hey.</i>
+
+79
+00:02:00,772 --> 00:02:02,078
+<i>We can do this.</i>
+
+80
+00:02:07,866 --> 00:02:09,085
+<i>I'm gonna come back
+for the rest.</i>
+
+81
+00:02:09,259 --> 00:02:10,913
+<i>Uh, I'm gonna go down
+to the car.</i>
+
+82
+00:02:11,087 --> 00:02:12,915
+<i>I still have to install
+the car seats, anyway.</i>
+
+83
+00:02:13,089 --> 00:02:14,438
+<i>Well, do you have the manual?</i>
+
+84
+00:02:14,612 --> 00:02:16,223
+<i>Manual?</i>
+
+85
+00:02:16,397 --> 00:02:19,095
+<i>Babe, this is...
+well, this is Jack Pearson.</i>
+
+86
+00:02:20,879 --> 00:02:23,360
+<i>All right, Jack Pearson
+don't need no stinkin' manuals.</i>
+
+87
+00:02:23,534 --> 00:02:25,057
+<i>[chuckles]</i>
+
+88
+00:02:29,540 --> 00:02:31,325
+<i>[grunts]</i>
+
+89
+00:02:40,812 --> 00:02:43,380
+<i>[MAN]
+Hey, you need some help
+with that?</i>
+
+90
+00:02:47,993 --> 00:02:50,344
+<i>No, I'm... I'm good.</i>
+
+91
+00:02:50,518 --> 00:02:51,606
+<i>I think you got those
+in backward.</i>
+
+92
+00:02:51,780 --> 00:02:53,303
+<i>You might need to flip 'em.</i>
+
+93
+00:02:53,477 --> 00:02:55,958
+<i>Uh, I was... I was just checking
+what the manufacturer...</i>
+
+94
+00:02:56,132 --> 00:02:58,526
+<i>Yeah, how come you got
+three car seats back there?</i>
+
+95
+00:03:00,092 --> 00:03:01,442
+<i>Three babies.</i>
+
+96
+00:03:02,486 --> 00:03:04,923
+<i>Oh, God.</i>
+
+97
+00:03:05,097 --> 00:03:06,403
+<i>God bless ya.</i>
+
+98
+00:03:10,668 --> 00:03:12,714
+<i>♪ ♪</i>
+
+99
+00:03:20,112 --> 00:03:22,680
+<i>No, that's not it.</i>
+
+100
+00:03:22,854 --> 00:03:25,814
+<i>Maybe my fingers are too
+muscular for this, or something.</i>
+
+101
+00:03:25,988 --> 00:03:28,860
+<i>[MAN [on video]]
+Then place your base
+on the seat</i>
+
+102
+00:03:29,034 --> 00:03:31,602
+<i>and adjust the foot
+until there's no red visible</i>
+
+103
+00:03:31,776 --> 00:03:33,300
+<i>at the level indicator wheel.</i>
+
+104
+00:03:33,474 --> 00:03:34,866
+<i>Got it?</i>
+
+105
+00:03:35,040 --> 00:03:36,694
+<i>Okay, you're doing great.
+It's like</i>
+
+106
+00:03:36,868 --> 00:03:39,741
+<i>putting a man on the moon.
+[camera shutter clicking]</i>
+
+107
+00:03:41,046 --> 00:03:42,134
+<i>What the hell, man?</i>
+
+108
+00:03:42,309 --> 00:03:43,788
+<i>Oh, sorry.</i>
+
+109
+00:03:43,962 --> 00:03:46,138
+<i>I'm just a huge fan
+of The Manny,and, uh...</i>
+
+110
+00:03:46,313 --> 00:03:47,488
+<i>[shutter clicks]
+Well, no, you're not sorry,</i>
+
+111
+00:03:47,662 --> 00:03:48,663
+<i>because you're taking
+another photo.</i>
+
+112
+00:03:50,317 --> 00:03:51,492
+<i>I'm just, I'm trying to put
+my car seats</i>
+
+113
+00:03:51,666 --> 00:03:52,971
+<i>in my car, man, okay?</i>
+
+114
+00:03:53,145 --> 00:03:54,886
+<i>And I just had twins
+six weeks early.</i>
+
+115
+00:03:55,060 --> 00:03:57,149
+<i>How about you just leave me with
+a little bit of dignity, huh?</i>
+
+116
+00:03:58,150 --> 00:03:59,500
+<i>Sorry, uh...</i>
+
+117
+00:03:59,674 --> 00:04:00,805
+<i>Sorry about your kids.</i>
+
+118
+00:04:00,979 --> 00:04:02,807
+<i>No, um...</i>
+
+119
+00:04:02,981 --> 00:04:04,156
+<i>I'm sorry.</i>
+
+120
+00:04:04,331 --> 00:04:06,550
+<i>I... the babies are fine.</i>
+
+121
+00:04:06,724 --> 00:04:09,423
+<i>I've-I've had, like, six hours
+sleep in the past four days,</i>
+
+122
+00:04:09,597 --> 00:04:12,382
+<i>and I can't sleep and I can't
+stop watching them sleep,</i>
+
+123
+00:04:12,556 --> 00:04:14,254
+<i>and how do you keep them
+breathing? And then the...</i>
+
+124
+00:04:16,038 --> 00:04:17,344
+<i>...car s... [sighs]</i>
+
+125
+00:04:17,518 --> 00:04:18,867
+<i>Do you have kids?</i>
+
+126
+00:04:19,041 --> 00:04:22,000
+<i>Yeah.
+So you understand.</i>
+
+127
+00:04:23,088 --> 00:04:25,047
+<i>Let's get a better photo.</i>
+
+128
+00:04:25,221 --> 00:04:26,875
+<i>For reals?
+For real, yeah.</i>
+
+129
+00:04:27,049 --> 00:04:29,225
+<i>[chuckles] Appreciate it.
+Yeah, of course.</i>
+
+130
+00:04:30,487 --> 00:04:32,402
+<i>[camera clicks]
+There you go.</i>
+
+131
+00:04:32,576 --> 00:04:34,535
+<i>Thank you so much.
+I appreciate it.
+Thanks for watching.</i>
+
+132
+00:04:34,709 --> 00:04:36,972
+<i>[muttering softly]</i>
+
+133
+00:04:40,105 --> 00:04:43,413
+<i>All right,
+one pumpkin cream cold brew.</i>
+
+134
+00:04:43,587 --> 00:04:46,024
+<i>And for my favorite new mom
+who can't have caffeine yet,</i>
+
+135
+00:04:46,198 --> 00:04:48,418
+<i>one Vanilla Steamer.</i>
+
+136
+00:04:48,592 --> 00:04:49,593
+<i>So have fun with that.
+Thank you.</i>
+
+137
+00:04:49,767 --> 00:04:51,900
+<i>You're very welcome. Oof.</i>
+
+138
+00:04:52,074 --> 00:04:53,423
+<i>Big news.
+Yeah?</i>
+
+139
+00:04:53,597 --> 00:04:55,860
+<i>Nurse Carmen just told me.</i>
+
+140
+00:04:56,034 --> 00:04:58,733
+<i>Guess who has two thumbs</i>
+
+141
+00:04:58,907 --> 00:05:02,171
+<i>and two newborns
+and is going home today?</i>
+
+142
+00:05:04,216 --> 00:05:05,783
+<i>Real-- wow.</i>
+
+143
+00:05:05,957 --> 00:05:09,439
+<i>[sighs]
+I can't wait
+to sleep in my own bed.</i>
+
+144
+00:05:09,613 --> 00:05:11,093
+<i>Aren't you excited?</i>
+
+145
+00:05:11,267 --> 00:05:13,574
+<i>You said this cot
+was built for R2-D2.</i>
+
+146
+00:05:13,748 --> 00:05:15,924
+<i>Yeah, no, it's... I am.
+I'm-I'm thrilled.</i>
+
+147
+00:05:16,098 --> 00:05:18,274
+<i>I just, uh... we've just,
+we've have a lot of help,</i>
+
+148
+00:05:18,448 --> 00:05:19,623
+<i>you know, with the doctors
+and all the nurses.</i>
+
+149
+00:05:19,797 --> 00:05:21,408
+<i>It's just...</i>
+
+150
+00:05:22,757 --> 00:05:23,801
+<i>It's gonna be the two of us.</i>
+
+151
+00:05:23,975 --> 00:05:25,890
+<i>The four of us.</i>
+
+152
+00:05:28,240 --> 00:05:29,285
+<i>Right.</i>
+
+153
+00:05:32,941 --> 00:05:35,944
+<i>I can't believe we ever thought
+this was hard.</i>
+
+154
+00:05:36,118 --> 00:05:38,425
+<i>I think maybe Tess was hard.</i>
+
+155
+00:05:38,599 --> 00:05:40,818
+<i>But Annie...</i>
+
+156
+00:05:40,992 --> 00:05:45,214
+<i>This girl is an angel sent
+down from God himself.</i>
+
+157
+00:05:45,388 --> 00:05:46,607
+<i>Excuse me?</i>
+
+158
+00:05:46,781 --> 00:05:48,783
+<i>Nobody sent anybody down
+from anywhere.</i>
+
+159
+00:05:48,957 --> 00:05:52,134
+<i>I spent two days slowly
+ejecting her from my body.</i>
+
+160
+00:05:52,308 --> 00:05:54,615
+<i>You were there.
+I was there.</i>
+
+161
+00:05:54,789 --> 00:05:56,486
+<i>I can't believe they're
+kicking us out of here today.</i>
+
+162
+00:05:56,660 --> 00:05:59,315
+<i>I know.
+Man, this place is like a spa.</i>
+
+163
+00:05:59,489 --> 00:06:00,795
+<i>Hey, girl.
+Hey, guys.</i>
+
+164
+00:06:00,969 --> 00:06:03,145
+<i>And remember...
+Hmm?</i>
+
+165
+00:06:03,319 --> 00:06:05,495
+<i>we are stopping by Dairy Queen
+on our way home</i>
+
+166
+00:06:05,669 --> 00:06:06,583
+<i>and getting me
+a Snickers Blizzard.</i>
+
+167
+00:06:06,757 --> 00:06:08,019
+<i>Yes, ma'am.</i>
+
+168
+00:06:08,193 --> 00:06:09,673
+<i>When I was in labor,</i>
+
+169
+00:06:09,847 --> 00:06:11,632
+<i>Randall promised me I could
+have anything I wanted</i>
+
+170
+00:06:11,806 --> 00:06:13,373
+<i>and I chose DQ.</i>
+
+171
+00:06:13,547 --> 00:06:16,288
+<i>I could've dreamed higher,
+but no regrets.</i>
+
+172
+00:06:16,463 --> 00:06:18,465
+<i>I'm gonna miss you guys.</i>
+
+173
+00:06:18,639 --> 00:06:20,641
+<i>And that one...</i>
+
+174
+00:06:20,815 --> 00:06:22,338
+<i>Don't tell the other babies,
+but she's the cutest.</i>
+
+175
+00:06:22,512 --> 00:06:23,818
+<i>I know.</i>
+
+176
+00:06:23,992 --> 00:06:25,646
+<i>I think she has your eyes, Dad.</i>
+
+177
+00:06:26,690 --> 00:06:28,300
+<i>Really?</i>
+
+178
+00:06:28,475 --> 00:06:30,868
+<i>I didn't notice.
+[BETH] Oh, she definitely does.</i>
+
+179
+00:06:31,042 --> 00:06:32,043
+<i>She looks like
+she could start laughing</i>
+
+180
+00:06:32,217 --> 00:06:33,349
+<i>or crying at any moment.</i>
+
+181
+00:06:33,523 --> 00:06:34,611
+<i>That is all you, baby.</i>
+
+182
+00:06:34,785 --> 00:06:35,830
+<i>Ha, ha, ha.</i>
+
+183
+00:06:36,004 --> 00:06:37,092
+<i>All right, then.</i>
+
+184
+00:06:38,310 --> 00:06:40,356
+<i>She has my eyes.</i>
+
+185
+00:06:40,530 --> 00:06:43,359
+<i>You got Daddy's peepers
+in there, do you?</i>
+
+186
+00:06:44,665 --> 00:06:46,493
+<i>Uh-huh. Yeah, I got you.</i>
+
+187
+00:06:46,667 --> 00:06:49,365
+<i>Huh? Yeah.</i>
+
+188
+00:06:49,539 --> 00:06:50,801
+<i>Yeah, I gotta go.
+We're at the hospital.</i>
+
+189
+00:06:50,975 --> 00:06:52,324
+<i>We're gonna bring the baby
+home today.</i>
+
+190
+00:06:52,499 --> 00:06:54,239
+<i>Oh, yeah, and Kate's...
+Kate's here.</i>
+
+191
+00:06:54,414 --> 00:06:56,807
+<i>She's, like, right here,
+so I gotta go. Bye.</i>
+
+192
+00:06:57,895 --> 00:07:00,028
+<i>Hi.
+Hi.</i>
+
+193
+00:07:01,551 --> 00:07:02,639
+<i>[TOBY]
+You think she can read this?</i>
+
+194
+00:07:02,813 --> 00:07:03,684
+<i>[KATE]
+Oh, babe.</i>
+
+195
+00:07:03,858 --> 00:07:05,512
+<i>It's so sweet.</i>
+
+196
+00:07:05,686 --> 00:07:08,036
+<i>Just so she can pick me
+out of the crowd.</i>
+
+197
+00:07:08,210 --> 00:07:09,907
+<i>You ready to meet your dad?</i>
+
+198
+00:07:10,081 --> 00:07:13,345
+<i>Huh?
+[laughs] Hi.</i>
+
+199
+00:07:13,520 --> 00:07:15,565
+<i>Oh, my word.
+You got her?</i>
+
+200
+00:07:15,739 --> 00:07:16,697
+<i>Yeah.</i>
+
+201
+00:07:16,871 --> 00:07:19,221
+<i>Oh, she's a keeper.</i>
+
+202
+00:07:19,395 --> 00:07:20,657
+<i>Hi, there.</i>
+
+203
+00:07:20,831 --> 00:07:22,746
+<i>I'm your dad.</i>
+
+204
+00:07:22,920 --> 00:07:25,532
+<i>You can call me Dad,
+or-or Dada,</i>
+
+205
+00:07:25,706 --> 00:07:27,751
+<i>or your brother
+sometimes calls me Doody,</i>
+
+206
+00:07:27,925 --> 00:07:30,101
+<i>[laughs]
+but I don't think
+he knows what that means.</i>
+
+207
+00:07:30,275 --> 00:07:31,712
+<i>[Hailey fussing]
+[TOBY [chuckles]] Yeah.</i>
+
+208
+00:07:31,886 --> 00:07:33,322
+<i>Where's Ellie?</i>
+
+209
+00:07:33,496 --> 00:07:35,280
+<i>Oh, she's just signing
+the birth certificate</i>
+
+210
+00:07:35,455 --> 00:07:37,065
+<i>and the relinquishment papers,
+and then she'll be right out.</i>
+
+211
+00:07:37,239 --> 00:07:38,545
+<i>All right.
+Babe, I do think that we need</i>
+
+212
+00:07:38,719 --> 00:07:40,242
+<i>to be extra sensitive
+with her today.</i>
+
+213
+00:07:40,416 --> 00:07:42,026
+<i>Yeah. No, I know they said
+leaving the hospital</i>
+
+214
+00:07:42,200 --> 00:07:44,072
+<i>is the hardest day.
+Yeah.</i>
+
+215
+00:07:44,246 --> 00:07:45,856
+<i>But, hopefully, you know,
+for Ellie,</i>
+
+216
+00:07:46,030 --> 00:07:48,903
+<i>it'll be a little easier
+because we're gonna send photos</i>
+
+217
+00:07:49,077 --> 00:07:51,122
+<i>and plan visits and everything.
+Right.</i>
+
+218
+00:07:51,296 --> 00:07:54,125
+<i>And we will absolutely do
+all those things.
+Right. Right.</i>
+
+219
+00:07:54,299 --> 00:07:55,605
+<i>[TOBY]
+And birth mother on your six.</i>
+
+220
+00:07:55,779 --> 00:07:56,780
+<i>[TOBY] Hi.
+[KATE] Ellie.</i>
+
+221
+00:07:56,954 --> 00:07:58,347
+<i>[ELLIE]
+Hi.</i>
+
+222
+00:07:58,521 --> 00:08:00,088
+<i>Oh, you guys met.</i>
+
+223
+00:08:00,262 --> 00:08:02,177
+<i>Yes. She's perfect.</i>
+
+224
+00:08:03,483 --> 00:08:06,007
+<i>I'll grab your bag.
+Oh, thank you.</i>
+
+225
+00:08:08,270 --> 00:08:10,185
+<i>So how'd it go in there?</i>
+
+226
+00:08:10,359 --> 00:08:12,274
+<i>Everything's signed.</i>
+
+227
+00:08:12,448 --> 00:08:14,494
+<i>I, uh, I left a little surprise</i>
+
+228
+00:08:14,668 --> 00:08:16,147
+<i>for you guys
+on the birth certificate.</i>
+
+229
+00:08:16,321 --> 00:08:17,758
+<i>First name Hailey,</i>
+
+230
+00:08:17,932 --> 00:08:19,890
+<i>middle name "zuh Comet."</i>
+
+231
+00:08:20,064 --> 00:08:21,631
+<i>[Toby and Kate laughing]</i>
+
+232
+00:08:21,805 --> 00:08:23,677
+<i>[TOBY]
+I like that. I like that.</i>
+
+233
+00:08:23,851 --> 00:08:26,593
+<i>[chuckles] Thought you might.
+That's good.</i>
+
+234
+00:08:26,767 --> 00:08:27,855
+<i>All right, you ready to go,
+little girl?</i>
+
+235
+00:08:28,029 --> 00:08:29,291
+<i>Come on,
+let me get everybody home.</i>
+
+236
+00:08:29,465 --> 00:08:30,814
+<i>[KATE]
+You ready?</i>
+
+237
+00:08:30,988 --> 00:08:33,295
+<i>[softly]
+Yeah.</i>
+
+238
+00:08:33,469 --> 00:08:35,123
+<i>[KATE] You got it?
+[TOBY] Yeah, I think so.</i>
+
+239
+00:08:38,256 --> 00:08:39,867
+<i>[latch clicks]</i>
+
+240
+00:08:45,655 --> 00:08:47,483
+<i>♪ ♪</i>
+
+241
+00:08:50,442 --> 00:08:53,228
+<i>[clicks]</i>
+
+242
+00:08:55,099 --> 00:08:56,971
+<i>[clicks]</i>
+
+243
+00:08:57,145 --> 00:08:57,972
+<i>You good?</i>
+
+244
+00:08:58,146 --> 00:09:00,801
+<i>Yeah. [sighs]</i>
+
+245
+00:09:00,975 --> 00:09:02,977
+<i>Okay.
+[Beth sighs loudly]</i>
+
+246
+00:09:03,151 --> 00:09:05,327
+<i>[door closes]
+[RANDALL] Ready?</i>
+
+247
+00:09:05,501 --> 00:09:07,590
+<i>Hi. Ready to go.</i>
+
+248
+00:09:12,769 --> 00:09:14,510
+<i>Good?
+Good job.</i>
+
+249
+00:09:14,684 --> 00:09:17,165
+<i>♪ ♪
+Buckle up for safety.</i>
+
+250
+00:09:17,339 --> 00:09:19,123
+<i>[KEVIN]
+Let's go home.</i>
+
+251
+00:09:36,401 --> 00:09:38,969
+<i>Hey, have I mentioned how much
+of a freaking warrior you are?</i>
+
+252
+00:09:39,143 --> 00:09:40,754
+<i>Hmm.</i>
+
+253
+00:09:47,499 --> 00:09:49,850
+<i>You want music?
+How about...</i>
+
+254
+00:09:50,024 --> 00:09:53,418
+<i>how about we find
+that perfect first song, huh?</i>
+
+255
+00:09:53,593 --> 00:09:55,682
+<i>Yeah.
+[pop song playing quietly]</i>
+
+256
+00:09:55,856 --> 00:09:57,771
+<i>[sighs]
+Oh, I wish I could see them.</i>
+
+257
+00:09:57,945 --> 00:09:59,860
+<i>If there weren't three of them,
+I'd be sitting in the back seat.</i>
+
+258
+00:10:00,034 --> 00:10:01,339
+<i>[groans softly]</i>
+
+259
+00:10:01,513 --> 00:10:03,080
+<i>You okay?
+Yeah.</i>
+
+260
+00:10:03,254 --> 00:10:05,561
+<i>No, my-my stitches still hurt
+when I turn.</i>
+
+261
+00:10:05,735 --> 00:10:08,956
+<i>Okay.
+[groans]</i>
+
+262
+00:10:09,130 --> 00:10:11,698
+<i>Jack, do you think
+Kate's car seat is right?</i>
+
+263
+00:10:11,872 --> 00:10:13,743
+<i>Yeah.
+Are you sure?</i>
+
+264
+00:10:13,917 --> 00:10:15,527
+<i>I mean,
+maybe we should just pull over.</i>
+
+265
+00:10:15,702 --> 00:10:16,877
+<i>No, baby, it's fine.</i>
+
+266
+00:10:19,880 --> 00:10:21,795
+<i>Hey, hey, babe, babe,
+you're gonna hurt your...</i>
+
+267
+00:10:21,969 --> 00:10:24,711
+<i>you're gonna hurt yourself.
+I'm okay, I'm okay.</i>
+
+268
+00:10:24,885 --> 00:10:26,756
+<i>[exhales]</i>
+
+269
+00:10:26,930 --> 00:10:29,411
+<i>Now, does Kevin's head
+look weird to you?</i>
+
+270
+00:10:29,585 --> 00:10:32,544
+<i>No. Kevin's fine.</i>
+
+271
+00:10:32,719 --> 00:10:34,546
+<i>It seems like it's
+just flopped over to one side.</i>
+
+272
+00:10:34,721 --> 00:10:36,374
+<i>What do you think
+is gonna happen,</i>
+
+273
+00:10:36,548 --> 00:10:37,549
+<i>you think his head's just gonna
+fall off?</i>
+
+274
+00:10:37,724 --> 00:10:38,899
+<i>[imitates soft thud]</i>
+
+275
+00:10:41,945 --> 00:10:43,686
+<i>[pop song continues quietly]</i>
+
+276
+00:10:43,860 --> 00:10:45,427
+<i>He's fine.</i>
+
+277
+00:10:49,126 --> 00:10:51,563
+<i>[baby crying loudly]</i>
+
+278
+00:10:51,738 --> 00:10:54,218
+<i>[two babies crying loudly]</i>
+
+279
+00:10:55,219 --> 00:10:56,612
+<i>Great.</i>
+
+280
+00:10:56,786 --> 00:10:57,961
+<i>It's okay, guys.</i>
+
+281
+00:10:58,135 --> 00:10:59,920
+<i>Please stop crying.</i>
+
+282
+00:11:00,094 --> 00:11:02,096
+<i>[loud crying continues]</i>
+
+283
+00:11:02,270 --> 00:11:03,793
+<i>[REBECCA]
+It's okay.</i>
+
+284
+00:11:03,967 --> 00:11:06,666
+<i>[babies' crying distorting,
+fading]</i>
+
+285
+00:11:12,062 --> 00:11:13,585
+<i>Pacifier?</i>
+
+286
+00:11:13,760 --> 00:11:16,240
+<i>Check.
+[Annie fussing]</i>
+
+287
+00:11:16,414 --> 00:11:17,415
+<i>Sun hat?</i>
+
+288
+00:11:17,589 --> 00:11:19,113
+<i>Check.</i>
+
+289
+00:11:20,636 --> 00:11:23,421
+<i>Water for extremely thirsty
+breastfeeding mom.</i>
+
+290
+00:11:23,595 --> 00:11:25,467
+<i>Mind reader!</i>
+
+291
+00:11:25,641 --> 00:11:27,425
+<i>Man, we're,
+like, the dream team.</i>
+
+292
+00:11:27,599 --> 00:11:29,253
+<i>Ooh, I like that.</i>
+
+293
+00:11:29,427 --> 00:11:30,777
+<i>But if we're
+gonna do basketball,</i>
+
+294
+00:11:30,951 --> 00:11:32,474
+<i>can we be the '96 Bulls?</i>
+
+295
+00:11:32,648 --> 00:11:34,258
+<i>I always saw you as Pippen
+to my Jordan.</i>
+
+296
+00:11:34,432 --> 00:11:35,477
+<i>Excuse me?</i>
+
+297
+00:11:35,651 --> 00:11:37,827
+<i>I had the baby. I am Jordan.</i>
+
+298
+00:11:38,001 --> 00:11:40,264
+<i>Fair enough.
+You comfortable back there?</i>
+
+299
+00:11:40,438 --> 00:11:42,353
+<i>Hundred percent not at all.
+[chuckles]</i>
+
+300
+00:11:42,527 --> 00:11:43,790
+<i>I should've just sat up front.</i>
+
+301
+00:11:46,836 --> 00:11:48,969
+<i>We should think about a new car.</i>
+
+302
+00:11:49,143 --> 00:11:51,536
+<i>Pushing for that
+Mercedes S-Class again?</i>
+
+303
+00:11:51,711 --> 00:11:54,104
+<i>Nah. Family car,
+so we have more space.</i>
+
+304
+00:11:54,278 --> 00:11:57,107
+<i>You know,
+in case we have a third.</i>
+
+305
+00:11:58,326 --> 00:11:59,762
+<i>A third what?</i>
+
+306
+00:11:59,936 --> 00:12:01,546
+<i>I said "in case."</i>
+
+307
+00:12:01,721 --> 00:12:03,679
+<i>My insides are basically
+on my outsides right now,</i>
+
+308
+00:12:03,853 --> 00:12:06,029
+<i>and you're talking to me
+about a third kid?</i>
+
+309
+00:12:06,203 --> 00:12:08,553
+<i>Okay, I'm sorry,
+I take it back.
+You know what's two things</i>
+
+310
+00:12:08,728 --> 00:12:11,165
+<i>you don't do
+to a brand-new mother?
+Oh... I'm sorry.</i>
+
+311
+00:12:11,339 --> 00:12:12,688
+<i>Mention having a new baby...
+Mm-hmm.</i>
+
+312
+00:12:12,862 --> 00:12:14,995
+<i>...and two is
+drive past the Dairy Queen</i>
+
+313
+00:12:15,169 --> 00:12:16,300
+<i>when you promised her
+a Snickers Blizzard.</i>
+
+314
+00:12:16,474 --> 00:12:18,389
+<i>Copy that. All good.</i>
+
+315
+00:12:18,563 --> 00:12:20,522
+<i>I'll bust a "U" up here.</i>
+
+316
+00:12:20,696 --> 00:12:23,394
+<i>See, Annie, this is why
+sometimes Jordan</i>
+
+317
+00:12:23,568 --> 00:12:26,136
+<i>just did it all
+by his damn self.</i>
+
+318
+00:12:27,529 --> 00:12:29,705
+<i>[MADISON]
+I am obsessed with their faces.</i>
+
+319
+00:12:29,879 --> 00:12:30,750
+<i>[KEVIN]
+Yeah?</i>
+
+320
+00:12:30,924 --> 00:12:32,882
+<i>Kind of want to eat them.</i>
+
+321
+00:12:33,056 --> 00:12:34,492
+<i>[chuckles]
+Not in a bad way.</i>
+
+322
+00:12:34,666 --> 00:12:36,016
+<i>[Kevin yawns]</i>
+
+323
+00:12:36,190 --> 00:12:38,235
+<i>You all good?
+Yeah. No, I'm good.</i>
+
+324
+00:12:38,409 --> 00:12:40,890
+<i>I'm just tired, you know?
+You need me to drive?</i>
+
+325
+00:12:41,064 --> 00:12:43,066
+<i>No. No, no, no, of course not.
+You just had two babies.</i>
+
+326
+00:12:43,240 --> 00:12:45,199
+<i>You've been up all hours
+of the night. I got this.</i>
+
+327
+00:12:47,897 --> 00:12:49,638
+<i>[sighs heavily]</i>
+
+328
+00:12:52,162 --> 00:12:53,990
+<i>I feel like I'm seeing things.</i>
+
+329
+00:12:54,164 --> 00:12:56,427
+<i>Okay, I am definitely driving.</i>
+
+330
+00:12:56,601 --> 00:12:58,821
+<i>No, I mean, I think we're being
+followed, is what I'm saying.</i>
+
+331
+00:13:02,085 --> 00:13:04,218
+<i>This guy's been following us
+the past two turns.</i>
+
+332
+00:13:04,392 --> 00:13:06,176
+<i>I think he's paparazzi.</i>
+
+333
+00:13:16,708 --> 00:13:19,233
+<i>Ooh, so, there's, like,
+no traffic at all.</i>
+
+334
+00:13:19,407 --> 00:13:22,366
+<i>You must be excited
+to get home, see Willow.</i>
+
+335
+00:13:22,540 --> 00:13:23,715
+<i>Yeah.</i>
+
+336
+00:13:23,890 --> 00:13:25,413
+<i>[Hailey fussing]</i>
+
+337
+00:13:25,587 --> 00:13:27,632
+<i>Oh, and I know that you said
+that, you know,</i>
+
+338
+00:13:27,807 --> 00:13:29,896
+<i>you want her to meet Hailey
+in a couple of weeks,</i>
+
+339
+00:13:30,070 --> 00:13:32,246
+<i>so we can definitely come down
+to you, but there is this park</i>
+
+340
+00:13:32,420 --> 00:13:34,422
+<i>near our house
+that has this zip line</i>
+
+341
+00:13:34,596 --> 00:13:36,728
+<i>that I think Willow
+would really like.</i>
+
+342
+00:13:36,903 --> 00:13:38,078
+<i>Of course,
+we're coming down there</i>
+
+343
+00:13:38,252 --> 00:13:39,644
+<i>for her birthday next month.</i>
+
+344
+00:13:39,819 --> 00:13:42,082
+<i>Oh, does she...
+does Willow still like unicorns?</i>
+
+345
+00:13:42,256 --> 00:13:44,084
+<i>Or are unicorns,
+like, so last week...</i>
+
+346
+00:13:44,258 --> 00:13:45,737
+<i>Yeah, she's into unicorns.</i>
+
+347
+00:13:45,912 --> 00:13:47,783
+<i>[Hailey fussing]</i>
+
+348
+00:13:47,957 --> 00:13:50,394
+<i>I will never not like unicorns.</i>
+
+349
+00:13:50,568 --> 00:13:53,093
+<i>[Kate chuckles]</i>
+
+350
+00:14:00,143 --> 00:14:02,624
+<i>It's just a couple of blocks
+down on the right.
+Okay.</i>
+
+351
+00:14:02,798 --> 00:14:04,756
+<i>Okay, so, uh,
+we'll call you, you know,</i>
+
+352
+00:14:04,931 --> 00:14:06,976
+<i>once we're all settled in
+and everything. And listen,</i>
+
+353
+00:14:07,150 --> 00:14:08,804
+<i>if you want to go
+to that park that I mentioned...</i>
+
+354
+00:14:08,978 --> 00:14:10,719
+<i>Hey, I'm sorry,
+but I can't, I can't do this.</i>
+
+355
+00:14:12,112 --> 00:14:13,983
+<i>What do you mean?</i>
+
+356
+00:14:14,157 --> 00:14:18,118
+<i>Um, I know that we said yes
+to open adoption, and we said...</i>
+
+357
+00:14:18,292 --> 00:14:19,902
+<i>yes to visits and photos
+and phone calls,</i>
+
+358
+00:14:20,076 --> 00:14:20,990
+<i>but I-I can't do it.</i>
+
+359
+00:14:21,164 --> 00:14:22,949
+<i>I can't have her in my life.</i>
+
+360
+00:14:23,123 --> 00:14:24,298
+<i>I don't know, maybe...
+maybe someday</i>
+
+361
+00:14:24,472 --> 00:14:26,213
+<i>I'll be able to,
+but I can't right now.</i>
+
+362
+00:14:29,042 --> 00:14:31,348
+<i>Well, maybe it's something
+that we can talk about.</i>
+
+363
+00:14:31,522 --> 00:14:32,741
+<i>I mean,
+how can we make it work...
+Kate. Kate, Kate...</i>
+
+364
+00:14:32,915 --> 00:14:34,351
+<i>Kate, I don't want to talk
+about it.</i>
+
+365
+00:14:34,525 --> 00:14:36,005
+<i>I really just want
+to say goodbye to Hailey,</i>
+
+366
+00:14:36,179 --> 00:14:37,137
+<i>and I want to go home.</i>
+
+367
+00:14:37,311 --> 00:14:39,226
+<i>I'm sorry.</i>
+
+368
+00:14:41,141 --> 00:14:42,751
+<i>[softly]
+It's okay.</i>
+
+369
+00:14:45,493 --> 00:14:46,973
+<i>It's okay.</i>
+
+370
+00:14:51,803 --> 00:14:54,458
+<i>[babies crying loudly]</i>
+
+371
+00:14:54,632 --> 00:14:56,112
+<i>It's okay, guys.</i>
+
+372
+00:14:57,505 --> 00:14:59,507
+<i>Be just a little bit longer now.</i>
+
+373
+00:14:59,681 --> 00:15:01,378
+<i>[crying continues]</i>
+
+374
+00:15:01,552 --> 00:15:03,859
+<i>[sighs] I should be
+in the back with them.</i>
+
+375
+00:15:04,033 --> 00:15:06,818
+<i>I think this
+is just normal crying.</i>
+
+376
+00:15:10,822 --> 00:15:12,346
+<i>[horn honking]</i>
+
+377
+00:15:12,520 --> 00:15:14,783
+<i>Yeah, going as fast
+as I can, pal.</i>
+
+378
+00:15:14,957 --> 00:15:16,916
+<i>[honking horn]</i>
+
+379
+00:15:18,395 --> 00:15:20,180
+<i>I'm-I'm gonna get some gas,
+fill up.</i>
+
+380
+00:15:20,354 --> 00:15:21,181
+<i>Okay.</i>
+
+381
+00:15:21,355 --> 00:15:23,531
+<i>[revving engine]</i>
+
+382
+00:15:23,705 --> 00:15:25,837
+<i>[horn honking]</i>
+
+383
+00:15:26,012 --> 00:15:27,970
+<i>[JACK] Hey!
+[tires squeal]</i>
+
+384
+00:15:28,144 --> 00:15:29,145
+<i>[JACK]
+Ooh!</i>
+
+385
+00:15:30,755 --> 00:15:32,670
+<i>What a maniac!
+What the hell?</i>
+
+386
+00:15:32,844 --> 00:15:35,151
+<i>What the hell is it
+with this guy?</i>
+
+387
+00:15:35,325 --> 00:15:37,066
+<i>[babies continue crying]</i>
+
+388
+00:15:37,240 --> 00:15:40,200
+<i>Hey, hey, hey, Jack,
+let it go, let it g...</i>
+
+389
+00:15:40,374 --> 00:15:41,549
+<i>Jack!</i>
+
+390
+00:15:43,855 --> 00:15:46,206
+<i>Jack! Jack?
+Hey, what are you doing, man?</i>
+
+391
+00:15:46,380 --> 00:15:48,077
+<i>I got three newborns
+in that car!</i>
+
+392
+00:15:48,251 --> 00:15:50,471
+<i>[REBECCA] Hey. Jack?
+That's not my problem.</i>
+
+393
+00:15:50,645 --> 00:15:52,386
+<i>Jack, get back here right now!
+[MAN] Hey, hey, hey, hey!</i>
+
+394
+00:15:57,652 --> 00:15:59,262
+<i>Just...</i>
+
+395
+00:15:59,436 --> 00:16:01,699
+<i>be more careful, would you?</i>
+
+396
+00:16:05,616 --> 00:16:07,096
+<i>What is the matter with you?</i>
+
+397
+00:16:07,270 --> 00:16:09,403
+<i>We have three newborn babies</i>
+
+398
+00:16:09,577 --> 00:16:11,100
+<i>in the car.
+You know what? You're right.</i>
+
+399
+00:16:11,274 --> 00:16:13,711
+<i>I'm sorry.
+I'm-I'm gonna fill up.</i>
+
+400
+00:16:13,885 --> 00:16:15,670
+<i>[crying continues]</i>
+
+401
+00:16:27,160 --> 00:16:28,944
+<i>[KEVIN]
+See, this is what happens
+to these paparazzi.</i>
+
+402
+00:16:29,118 --> 00:16:30,946
+<i>You know, this is what happens.</i>
+
+403
+00:16:31,120 --> 00:16:34,297
+<i>They-they get tipped off by the
+hospital, a nurse or an admin.</i>
+
+404
+00:16:34,471 --> 00:16:35,777
+<i>Someone tells them
+when we're leaving.</i>
+
+405
+00:16:35,951 --> 00:16:36,996
+<i>That's how it happens.</i>
+
+406
+00:16:38,258 --> 00:16:40,434
+<i>[mutters]
+Get rid of this guy.</i>
+
+407
+00:16:40,608 --> 00:16:42,131
+<i>Kevin, okay, Kevin, stop it.
+Kevin, pull over.</i>
+
+408
+00:16:42,305 --> 00:16:43,611
+<i>No, pull over.
+[stammers]</i>
+
+409
+00:16:51,140 --> 00:16:52,924
+<i>Oh, here we go. Look, our friend
+here pulled over, too.</i>
+
+410
+00:16:53,099 --> 00:16:54,926
+<i>Oh, that's nice.
+You want to go? Huh?</i>
+
+411
+00:16:55,101 --> 00:16:56,580
+<i>[MADISON] No. No.
+You want to go? Let's go.</i>
+
+412
+00:16:56,754 --> 00:16:59,061
+<i>Kevin, Kevin, do not go. Kevin!
+You want to go?</i>
+
+413
+00:16:59,235 --> 00:17:00,758
+<i>Let's go.</i>
+
+414
+00:17:02,282 --> 00:17:03,674
+<i>What the hell, man?</i>
+
+415
+00:17:03,848 --> 00:17:06,634
+<i>Just out for a drive.
+You're out for a drive?</i>
+
+416
+00:17:06,808 --> 00:17:08,288
+<i>You're ruining a very special
+moment between me and my family.</i>
+
+417
+00:17:08,462 --> 00:17:10,638
+<i>I'm not breaking any laws.
+I'm just doing my job.</i>
+
+418
+00:17:10,812 --> 00:17:12,727
+<i>Doing your job.
+Get that camera out of my face.</i>
+
+419
+00:17:12,901 --> 00:17:15,512
+<i>Get the camera out of my face.
+I'm a brand-new dad-- I got</i>
+
+420
+00:17:15,686 --> 00:17:17,514
+<i>a very low threshold right now.
+Keep it out of my face.
+Kevin!</i>
+
+421
+00:17:17,688 --> 00:17:18,863
+<i>Kevin? Kevin, no.
+Get back in the car.
+I got this.</i>
+
+422
+00:17:19,038 --> 00:17:20,517
+<i>Go back to...
+Don't take pictures</i>
+
+423
+00:17:20,691 --> 00:17:22,041
+<i>Kevin!
+...of her, man.
+Don't take a picture...</i>
+
+424
+00:17:22,215 --> 00:17:24,260
+<i>Kevin. Go back to the babies.
+I've got this.</i>
+
+425
+00:17:25,522 --> 00:17:27,481
+<i>Now. Go.</i>
+
+426
+00:17:29,091 --> 00:17:31,702
+<i>Hi. I'm sorry.</i>
+
+427
+00:17:31,876 --> 00:17:33,835
+<i>We're all a little overtired
+here. New parents.</i>
+
+428
+00:17:34,009 --> 00:17:36,142
+<i>Do you have kids?
+No.</i>
+
+429
+00:17:36,316 --> 00:17:38,492
+<i>Nieces or nephews?
+No.</i>
+
+430
+00:17:38,666 --> 00:17:42,017
+<i>Okay, well, what if, uh,
+a friend or a member</i>
+
+431
+00:17:42,191 --> 00:17:44,367
+<i>of your family...?
+I don't talk to my family.</i>
+
+432
+00:17:44,541 --> 00:17:47,109
+<i>I have no friends.
+I'm a very lonely person.</i>
+
+433
+00:17:49,851 --> 00:17:51,679
+<i>Okay, give me your number.</i>
+
+434
+00:17:51,853 --> 00:17:53,811
+<i>He goes jogging every Tuesday
+around 9:00 a.m.</i>
+
+435
+00:17:53,985 --> 00:17:55,378
+<i>I will call you,
+you can get the shot.</i>
+
+436
+00:17:55,552 --> 00:17:58,033
+<i>Shirtless?
+Excuse me?</i>
+
+437
+00:17:58,207 --> 00:18:00,035
+<i>The picture's worth more
+if he's not wearing a shirt.</i>
+
+438
+00:18:00,209 --> 00:18:02,472
+<i>Fine. I will make sure
+he's not wearing a shirt.</i>
+
+439
+00:18:02,646 --> 00:18:04,170
+<i>Tight shorts
+so I can see his package.</i>
+
+440
+00:18:04,344 --> 00:18:05,780
+<i>Ugh. That's disgusting.</i>
+
+441
+00:18:05,954 --> 00:18:07,347
+<i>Thank you.</i>
+
+442
+00:18:16,573 --> 00:18:18,184
+<i>What did you say to that guy?</i>
+
+443
+00:18:18,358 --> 00:18:20,882
+<i>Okay, Kevin, you're exhausted.</i>
+
+444
+00:18:21,056 --> 00:18:24,799
+<i>Okay? I'm gonna need you
+at your best.</i>
+
+445
+00:18:24,973 --> 00:18:29,151
+<i>And aggro Liam Neeson movie
+Kevin is not you at your best.</i>
+
+446
+00:18:30,457 --> 00:18:33,199
+<i>We have 20 minutes
+until we get home.</i>
+
+447
+00:18:33,373 --> 00:18:35,201
+<i>I'm driving. Get some rest.</i>
+
+448
+00:18:35,375 --> 00:18:37,072
+<i>I've got this.</i>
+
+449
+00:18:45,820 --> 00:18:48,562
+<i>Here we go.</i>
+
+450
+00:18:48,736 --> 00:18:49,824
+<i>Gonna stretch my legs.</i>
+
+451
+00:18:49,998 --> 00:18:51,391
+<i>Okay. [sniffles]</i>
+
+452
+00:18:51,565 --> 00:18:53,262
+<i>I'll go in and get it for you.</i>
+
+453
+00:18:53,436 --> 00:18:55,743
+<i>One Snickers Blizzard
+coming right up.</i>
+
+454
+00:18:55,917 --> 00:18:58,049
+<i>What size?
+Is that even a question?</i>
+
+455
+00:18:58,224 --> 00:18:59,747
+<i>The biggest Snickers Blizzard.</i>
+
+456
+00:18:59,921 --> 00:19:01,749
+<i>A Snickers avalanche
+if they have it.</i>
+
+457
+00:19:01,923 --> 00:19:04,273
+<i>No school for days
+after I eat this Blizzard.</i>
+
+458
+00:19:04,447 --> 00:19:05,796
+<i>[chuckles]
+I'm talking power outages</i>
+
+459
+00:19:05,970 --> 00:19:08,103
+<i>and white-out conditions.</i>
+
+460
+00:19:12,890 --> 00:19:14,588
+<i>What?</i>
+
+461
+00:19:16,155 --> 00:19:18,287
+<i>Can I just say one more thing</i>
+
+462
+00:19:18,461 --> 00:19:20,289
+<i>about not closing the door
+to having a third kid?</i>
+
+463
+00:19:20,463 --> 00:19:22,509
+<i>Are you out of your mind? Do I
+have to throw something at you?</i>
+
+464
+00:19:22,683 --> 00:19:25,033
+<i>I guess I always thought
+that if we had two girls,</i>
+
+465
+00:19:25,207 --> 00:19:26,643
+<i>that we would go for a boy.</i>
+
+466
+00:19:26,817 --> 00:19:29,342
+<i>You did not just say
+"go for a boy."</i>
+
+467
+00:19:29,516 --> 00:19:31,648
+<i>I always imagined myself
+throwing the ball around</i>
+
+468
+00:19:31,822 --> 00:19:33,824
+<i>with the boy, you know, having
+that special relationship?</i>
+
+469
+00:19:33,998 --> 00:19:35,826
+<i>Special relationship? You used
+to go over to your mom's house</i>
+
+470
+00:19:36,000 --> 00:19:37,785
+<i>every Sunday
+to watch Felicitytogether.
+I...</i>
+
+471
+00:19:37,959 --> 00:19:39,569
+<i>You think that wasn't
+a special relationship?</i>
+
+472
+00:19:39,743 --> 00:19:40,962
+<i>It doesn't have to be a boy.</i>
+
+473
+00:19:41,136 --> 00:19:42,398
+<i>I would love a third girl.</i>
+
+474
+00:19:42,572 --> 00:19:44,922
+<i>I'm just saying,
+we make great kids.</i>
+
+475
+00:19:45,096 --> 00:19:46,315
+<i>And I don't want
+to close the door.</i>
+
+476
+00:19:46,489 --> 00:19:48,404
+<i>Then, Randall,
+you carry the next one.</i>
+
+477
+00:19:49,971 --> 00:19:51,451
+<i>I'm gonna get my own Blizzard.</i>
+
+478
+00:20:01,461 --> 00:20:03,637
+<i>[sighs]</i>
+
+479
+00:20:17,085 --> 00:20:19,130
+<i>[clears throat]</i>
+
+480
+00:20:22,482 --> 00:20:24,005
+<i>You're late.</i>
+
+481
+00:20:24,179 --> 00:20:26,660
+<i>You want to be on time,
+get your own car.</i>
+
+482
+00:20:28,139 --> 00:20:29,837
+<i>[both laugh]</i>
+
+483
+00:20:30,011 --> 00:20:32,100
+<i>Just wrong.</i>
+
+484
+00:20:36,670 --> 00:20:37,801
+<i>Oh.
+Mm.</i>
+
+485
+00:20:37,975 --> 00:20:40,151
+<i>What's this?</i>
+
+486
+00:20:40,326 --> 00:20:43,067
+<i>I know it's early, and I know
+you're not telling anyone,</i>
+
+487
+00:20:43,242 --> 00:20:45,331
+<i>but I had
+to get you something.</i>
+
+488
+00:20:45,505 --> 00:20:47,028
+<i>It's this old-school toy
+from France.</i>
+
+489
+00:20:47,202 --> 00:20:49,204
+<i>They're like magic
+for babies.</i>
+
+490
+00:20:53,556 --> 00:20:55,384
+<i>It's not gonna stay
+a secret long</i>
+
+491
+00:20:55,558 --> 00:20:57,038
+<i>if you keep touching
+your belly like that.</i>
+
+492
+00:20:57,212 --> 00:20:59,693
+<i>What? I didn't touch my belly.
+Mm-hmm.</i>
+
+493
+00:21:01,042 --> 00:21:03,044
+<i>It is cute, right?</i>
+
+494
+00:21:03,218 --> 00:21:05,307
+<i>You're gonna love it.
+It is like magic.</i>
+
+495
+00:21:05,481 --> 00:21:07,309
+<i>[both laugh]
+You ready?</i>
+
+496
+00:21:07,483 --> 00:21:09,572
+<i>I'm ready. [laughs]</i>
+
+497
+00:21:09,746 --> 00:21:11,531
+<i>[indistinct chatter]</i>
+
+498
+00:21:14,360 --> 00:21:17,232
+<i>[babies crying]</i>
+
+499
+00:21:21,149 --> 00:21:23,412
+<i>[bell dings]</i>
+
+500
+00:21:23,586 --> 00:21:25,371
+<i>[crying continues]</i>
+
+501
+00:21:39,559 --> 00:21:41,561
+<i>Hey.
+Uh, number four.</i>
+
+502
+00:21:41,735 --> 00:21:44,215
+<i>And these.</i>
+
+503
+00:21:46,957 --> 00:21:48,568
+<i>$12.32. Anything else?</i>
+
+504
+00:21:48,742 --> 00:21:50,221
+<i>Uh...</i>
+
+505
+00:21:50,396 --> 00:21:51,919
+<i>Yeah. Why don't...</i>
+
+506
+00:21:52,093 --> 00:21:55,270
+<i>I get one of those,
+uh, little whiskeys?</i>
+
+507
+00:21:55,444 --> 00:21:57,185
+<i>And these mints?</i>
+
+508
+00:21:57,359 --> 00:21:59,056
+<i>[sniffles]</i>
+
+509
+00:22:01,102 --> 00:22:03,626
+<i>New dad. Celebrating.</i>
+
+510
+00:22:03,800 --> 00:22:05,715
+<i>All right. Congrats.</i>
+
+511
+00:22:25,779 --> 00:22:27,998
+<i>Thought you might be hungry.</i>
+
+512
+00:22:28,172 --> 00:22:31,611
+<i>Um... hey, baby, how bout...</i>
+
+513
+00:22:31,785 --> 00:22:34,788
+<i>how about you drive?
+You okay to drive?</i>
+
+514
+00:22:34,962 --> 00:22:38,444
+<i>That way, I can turn around
+and make sure the kids are okay.</i>
+
+515
+00:22:40,794 --> 00:22:42,752
+<i>Yeah, okay.
+Okay.</i>
+
+516
+00:22:48,671 --> 00:22:50,934
+<i>She took the bottle,</i>
+
+517
+00:22:51,108 --> 00:22:53,154
+<i>and she's out.</i>
+
+518
+00:22:53,328 --> 00:22:54,895
+<i>You can just call me
+"Dr. Sleep."</i>
+
+519
+00:22:55,069 --> 00:22:56,636
+<i>Wait.</i>
+
+520
+00:22:56,810 --> 00:22:58,289
+<i>No, don't do that.</i>
+
+521
+00:22:58,464 --> 00:23:00,466
+<i>It sounds... [sighs]</i>
+
+522
+00:23:00,640 --> 00:23:02,250
+<i>...murdery.</i>
+
+523
+00:23:02,424 --> 00:23:04,600
+<i>Well, great. Thank you.</i>
+
+524
+00:23:04,774 --> 00:23:06,559
+<i>I just spoke
+to the babysitter,</i>
+
+525
+00:23:06,733 --> 00:23:08,996
+<i>and she's gonna bring Jack home
+in half an hour, so...</i>
+
+526
+00:23:11,694 --> 00:23:13,522
+<i>Kate, there's something
+I need to talk to you...</i>
+
+527
+00:23:13,696 --> 00:23:15,306
+<i>Toby, how are you not more upset
+about this?</i>
+
+528
+00:23:15,481 --> 00:23:17,004
+<i>Honestly.</i>
+
+529
+00:23:17,178 --> 00:23:18,788
+<i>We signed up
+for an open adoption,</i>
+
+530
+00:23:18,962 --> 00:23:21,008
+<i>and that just all changed</i>
+
+531
+00:23:21,182 --> 00:23:23,053
+<i>in a really sad blink of an eye.</i>
+
+532
+00:23:23,227 --> 00:23:26,317
+<i>Kate, I am sorry
+that Ellie is hurting.</i>
+
+533
+00:23:26,492 --> 00:23:28,363
+<i>I feel bad.</i>
+
+534
+00:23:28,537 --> 00:23:30,234
+<i>But when we got into
+all of this,</i>
+
+535
+00:23:30,409 --> 00:23:32,019
+<i>we knew that it was all
+just a plan.</i>
+
+536
+00:23:32,193 --> 00:23:34,500
+<i>We also knew that plans change.</i>
+
+537
+00:23:34,674 --> 00:23:36,589
+<i>Toby, I grew up with a brother</i>
+
+538
+00:23:36,763 --> 00:23:40,331
+<i>who, like, didn't know
+his birth parents.</i>
+
+539
+00:23:40,506 --> 00:23:43,073
+<i>That was... is... is still</i>
+
+540
+00:23:43,247 --> 00:23:44,814
+<i>really, really difficult
+for him.</i>
+
+541
+00:23:44,988 --> 00:23:48,035
+<i>I know.
+Okay, well, I promised myself</i>
+
+542
+00:23:48,209 --> 00:23:49,993
+<i>that it would not be like that
+for Hailey.</i>
+
+543
+00:23:50,167 --> 00:23:51,908
+<i>And it won't.</i>
+
+544
+00:23:52,082 --> 00:23:56,522
+<i>Kate, adoption is a journey.</i>
+
+545
+00:23:56,696 --> 00:23:59,046
+<i>You know, and-and we don't know
+when or if</i>
+
+546
+00:23:59,220 --> 00:24:02,092
+<i>Ellie is gonna change her mind,
+but we will always make sure</i>
+
+547
+00:24:02,266 --> 00:24:03,877
+<i>that Hailey knows
+who her birth mother is.</i>
+
+548
+00:24:04,051 --> 00:24:05,531
+<i>[Hailey crying]</i>
+
+549
+00:24:05,705 --> 00:24:07,054
+<i>I'll get her.
+I'll get her.</i>
+
+550
+00:24:07,228 --> 00:24:09,317
+<i>All right. [sighs]</i>
+
+551
+00:24:09,491 --> 00:24:10,710
+<i>[Toby sniffles]</i>
+
+552
+00:24:10,884 --> 00:24:12,886
+<i>[Hailey cries loudly]</i>
+
+553
+00:24:14,235 --> 00:24:16,542
+<i>I apologize
+that you had to listen</i>
+
+554
+00:24:16,716 --> 00:24:19,588
+<i>to that little dispute
+between me and your mother.</i>
+
+555
+00:24:19,762 --> 00:24:23,244
+<i>And I apologize for my
+antiquated gender assumptions.</i>
+
+556
+00:24:23,418 --> 00:24:25,376
+<i>I will throw a ball with you
+any day of the week.</i>
+
+557
+00:24:25,551 --> 00:24:28,423
+<i>Or watch Felicity,
+whatever you like.</i>
+
+558
+00:24:30,033 --> 00:24:32,427
+<i>So you and I have the same eyes.</i>
+
+559
+00:24:33,820 --> 00:24:37,867
+<i>When the nurse said that,
+it made me very happy.</i>
+
+560
+00:24:39,782 --> 00:24:44,091
+<i>Because I grew up not looking
+like either of my parents,</i>
+
+561
+00:24:44,265 --> 00:24:46,702
+<i>not knowing exactly
+where I came from.</i>
+
+562
+00:24:47,921 --> 00:24:50,184
+<i>So to know
+that you have my eyes,</i>
+
+563
+00:24:50,358 --> 00:24:53,230
+<i>that you came from me--</i>
+
+564
+00:24:53,404 --> 00:24:55,363
+<i>that's special.</i>
+
+565
+00:24:55,537 --> 00:24:57,583
+<i>Thank you.</i>
+
+566
+00:24:57,757 --> 00:24:59,933
+<i>When I was a kid,</i>
+
+567
+00:25:00,107 --> 00:25:03,676
+<i>I had to do
+a family tree for school.</i>
+
+568
+00:25:06,809 --> 00:25:10,117
+<i>And, um, I remember
+making my branches,</i>
+
+569
+00:25:10,291 --> 00:25:13,337
+<i>along with my brother
+and sister.</i>
+
+570
+00:25:13,512 --> 00:25:15,775
+<i>But I knew
+it wasn't quite right.</i>
+
+571
+00:25:15,949 --> 00:25:17,733
+<i>They were my family,</i>
+
+572
+00:25:17,907 --> 00:25:20,649
+<i>but they weren't
+where I came from.</i>
+
+573
+00:25:20,823 --> 00:25:23,130
+<i>You see, that's where you</i>
+
+574
+00:25:23,304 --> 00:25:25,698
+<i>and your sister Tess
+and your mom come in.</i>
+
+575
+00:25:25,872 --> 00:25:29,223
+<i>You've provided me
+with something very special.</i>
+
+576
+00:25:32,095 --> 00:25:33,793
+<i>Because you are my branches.</i>
+
+577
+00:25:35,969 --> 00:25:37,971
+<i>You are the start
+of my family tree.</i>
+
+578
+00:25:40,843 --> 00:25:44,151
+<i>And I just wanted that tree
+to be as big as possible.</i>
+
+579
+00:25:48,372 --> 00:25:51,637
+<i>But, hey, I guess I'm gonna have
+to count on you and your sister</i>
+
+580
+00:25:51,811 --> 00:25:55,379
+<i>to have a whole lot
+of grandchildren.</i>
+
+581
+00:25:55,554 --> 00:25:57,556
+<i>And then maybe one day,
+I will look into the eyes</i>
+
+582
+00:25:57,730 --> 00:26:00,950
+<i>of my grandchild
+or my great-grandchild,</i>
+
+583
+00:26:01,124 --> 00:26:03,213
+<i>and I will say,</i>
+
+584
+00:26:03,387 --> 00:26:07,827
+<i>"Hey, I know
+where those eyes come from."</i>
+
+585
+00:26:09,219 --> 00:26:12,179
+<i>"Those eyes come
+from Annie Pearson."</i>
+
+586
+00:26:13,659 --> 00:26:14,834
+<i>[sniffles loudly]</i>
+
+587
+00:26:15,008 --> 00:26:16,444
+<i>That's a peace offering?</i>
+
+588
+00:26:16,618 --> 00:26:18,054
+<i>No, they're both for me.</i>
+
+589
+00:26:18,228 --> 00:26:20,970
+<i>[Randall smacks lips, hisses]</i>
+
+590
+00:26:39,032 --> 00:26:40,773
+<i>All right.</i>
+
+591
+00:26:40,947 --> 00:26:43,210
+<i>Do not interrupt me
+for the next ten minutes.</i>
+
+592
+00:26:43,384 --> 00:26:45,212
+<i>All right. I don't know
+if you're ready.</i>
+
+593
+00:26:45,386 --> 00:26:47,344
+<i>I'm ready. Oh, I'm ready.
+Yeah?</i>
+
+594
+00:26:52,698 --> 00:26:54,700
+<i>[engine running]</i>
+
+595
+00:27:09,018 --> 00:27:10,411
+<i>[engine shuts off]</i>
+
+596
+00:27:18,854 --> 00:27:20,508
+<i>Oh. Uh...</i>
+
+597
+00:27:20,682 --> 00:27:22,510
+<i>Are they actually...?</i>
+
+598
+00:27:22,684 --> 00:27:24,425
+<i>Let me... let me check.</i>
+
+599
+00:27:45,054 --> 00:27:47,187
+<i>All three knocked out.</i>
+
+600
+00:27:47,361 --> 00:27:50,930
+<i>[whispering]
+They must have
+exhausted themselves crying.</i>
+
+601
+00:27:51,104 --> 00:27:52,714
+<i>Do we bring 'em inside?</i>
+
+602
+00:27:52,888 --> 00:27:55,108
+<i>Oh, no, no, no. They say
+never wake a sleeping baby.</i>
+
+603
+00:27:55,282 --> 00:27:57,763
+<i>Well, what do they say
+about three sleeping babies?</i>
+
+604
+00:28:00,896 --> 00:28:02,593
+<i>I think we just wait.</i>
+
+605
+00:28:02,768 --> 00:28:05,466
+<i>Okay.</i>
+
+606
+00:28:09,818 --> 00:28:11,864
+<i>[Rebecca sighs]</i>
+
+607
+00:28:28,750 --> 00:28:30,752
+<i>[Hailey cooing]</i>
+
+608
+00:28:39,108 --> 00:28:41,067
+<i>[Kate sighs softly]</i>
+
+609
+00:28:42,329 --> 00:28:45,201
+<i>She's only happy
+when I'm holding her.</i>
+
+610
+00:28:45,375 --> 00:28:47,508
+<i>So...
+Like daughter, like father.</i>
+
+611
+00:28:52,339 --> 00:28:54,341
+<i>Kate, do you know why
+Ellie chose us?</i>
+
+612
+00:28:54,515 --> 00:28:56,691
+<i>'Cause I like the Steelers?</i>
+
+613
+00:28:56,865 --> 00:28:59,389
+<i>Maybe. [laughs]</i>
+
+614
+00:28:59,563 --> 00:29:01,914
+<i>I'm sure
+my quirky-meets-classy style</i>
+
+615
+00:29:02,088 --> 00:29:03,829
+<i>didn't hurt anything.
+[chuckles]</i>
+
+616
+00:29:05,874 --> 00:29:10,052
+<i>But more than that,
+she chose us, she chose you,</i>
+
+617
+00:29:10,226 --> 00:29:14,535
+<i>because she saw a funny,
+beautiful,</i>
+
+618
+00:29:14,709 --> 00:29:17,320
+<i>huge-hearted mother
+who has taken every challenge</i>
+
+619
+00:29:17,494 --> 00:29:20,846
+<i>that parenting has to offer
+in total stride.</i>
+
+620
+00:29:21,020 --> 00:29:23,065
+<i>Kate, you're unflappable.</i>
+
+621
+00:29:23,239 --> 00:29:25,111
+<i>Really. You cannot be flapped.</i>
+
+622
+00:29:25,285 --> 00:29:27,330
+<i>All right, and-and all of this
+may not be going</i>
+
+623
+00:29:27,504 --> 00:29:29,158
+<i>the way that we planned,</i>
+
+624
+00:29:29,332 --> 00:29:31,595
+<i>and Ellie may or may not be
+in the picture,</i>
+
+625
+00:29:31,770 --> 00:29:33,423
+<i>but we will figure this out.</i>
+
+626
+00:29:33,597 --> 00:29:36,513
+<i>And I think Ellie knew that
+from the start.</i>
+
+627
+00:29:36,687 --> 00:29:41,344
+<i>And it's a good thing
+that you are...</i>
+
+628
+00:29:41,518 --> 00:29:45,348
+<i>so unflappable,
+because earlier today,</i>
+
+629
+00:29:45,522 --> 00:29:49,048
+<i>when I was on the phone
+with work...</i>
+
+630
+00:29:49,222 --> 00:29:50,789
+<i>I got laid off.</i>
+
+631
+00:29:52,225 --> 00:29:53,356
+<i>What?</i>
+
+632
+00:29:56,882 --> 00:29:58,884
+<i>Oh, um...</i>
+
+633
+00:30:00,886 --> 00:30:01,756
+<i>Toby, I am...</i>
+
+634
+00:30:01,930 --> 00:30:03,889
+<i>[Hailey fusses]</i>
+
+635
+00:30:04,063 --> 00:30:04,846
+<i>[sighs]
+I am so sorry.</i>
+
+636
+00:30:05,020 --> 00:30:06,413
+<i>Yeah, I...</i>
+
+637
+00:30:06,587 --> 00:30:08,632
+<i>I kind of knew
+that it was coming,</i>
+
+638
+00:30:08,807 --> 00:30:11,984
+<i>but I didn't want
+to freak you out.</i>
+
+639
+00:30:12,158 --> 00:30:14,943
+<i>But they let, like,
+40% of the staff go.</i>
+
+640
+00:30:15,117 --> 00:30:16,771
+<i>Wow.</i>
+
+641
+00:30:16,945 --> 00:30:18,468
+<i>Yeah, and I've been
+torturing myself</i>
+
+642
+00:30:18,642 --> 00:30:20,035
+<i>for the last few hours
+'cause I knew I had to tell you,</i>
+
+643
+00:30:20,209 --> 00:30:22,342
+<i>but I didn't want to ruin today.</i>
+
+644
+00:30:23,604 --> 00:30:26,607
+<i>You are never gonna ruin
+anything,</i>
+
+645
+00:30:26,781 --> 00:30:28,565
+<i>and you're not gonna ruin
+this day.</i>
+
+646
+00:30:31,307 --> 00:30:34,223
+<i>And we can figure out
+the job stuff tomorrow.</i>
+
+647
+00:30:34,397 --> 00:30:36,095
+<i>Okay? Let's just be
+a family today.</i>
+
+648
+00:30:38,445 --> 00:30:40,229
+<i>Me, you, and two under two.</i>
+
+649
+00:30:40,403 --> 00:30:41,970
+<i>Exactly.</i>
+
+650
+00:30:42,144 --> 00:30:44,233
+<i>Piece of cake.</i>
+
+651
+00:30:46,105 --> 00:30:47,933
+<i>See?</i>
+
+652
+00:30:48,107 --> 00:30:50,849
+<i>Unflappable.</i>
+
+653
+00:30:51,023 --> 00:30:52,807
+<i>[Franny and Nick crying
+in distance]</i>
+
+654
+00:31:19,747 --> 00:31:21,488
+<i>[crying stops]</i>
+
+655
+00:31:26,536 --> 00:31:28,147
+<i>How'd you get 'em
+to stop crying?</i>
+
+656
+00:31:32,499 --> 00:31:34,283
+<i>Dumb luck.</i>
+
+657
+00:31:37,678 --> 00:31:41,116
+<i>And you-- you and Mom had three.</i>
+
+658
+00:31:42,204 --> 00:31:43,640
+<i>No help, just the two of you.</i>
+
+659
+00:31:43,814 --> 00:31:45,816
+<i>How'd you manage?</i>
+
+660
+00:31:45,991 --> 00:31:48,515
+<i>Oh, that was easy.</i>
+
+661
+00:31:48,689 --> 00:31:52,954
+<i>You kids and your mom--</i>
+
+662
+00:31:53,128 --> 00:31:54,695
+<i>that was all I ever wanted.</i>
+
+663
+00:31:54,869 --> 00:31:57,959
+<i>It was easy to do it when you,</i>
+
+664
+00:31:58,133 --> 00:32:00,353
+<i>when you look at it like that.</i>
+
+665
+00:32:03,051 --> 00:32:05,097
+<i>Yeah.</i>
+
+666
+00:32:08,927 --> 00:32:11,016
+<i>They're beautiful, Kevin.</i>
+
+667
+00:32:12,060 --> 00:32:13,844
+<i>Do 'em a favor.</i>
+
+668
+00:32:15,020 --> 00:32:17,674
+<i>Stop trying to live up to me.</i>
+
+669
+00:32:17,848 --> 00:32:20,547
+<i>I was terrified of being
+like my dad,</i>
+
+670
+00:32:20,721 --> 00:32:24,812
+<i>and you are terrified
+of not being like yours.</i>
+
+671
+00:32:26,857 --> 00:32:31,558
+<i>We both wasted a lot of time
+being quietly terrified.</i>
+
+672
+00:32:35,736 --> 00:32:37,607
+<i>Close your eyes,</i>
+
+673
+00:32:37,781 --> 00:32:39,870
+<i>decide what you want,</i>
+
+674
+00:32:40,045 --> 00:32:42,525
+<i>and then you go and get it, son.</i>
+
+675
+00:32:55,190 --> 00:32:57,192
+<i>They really are beautiful, Kev.</i>
+
+676
+00:33:18,648 --> 00:33:20,433
+<i>Hey, how long was I out?</i>
+
+677
+00:33:20,607 --> 00:33:22,304
+<i>Shh.</i>
+
+678
+00:33:22,478 --> 00:33:23,784
+<i>Uh, not long.</i>
+
+679
+00:33:23,958 --> 00:33:26,613
+<i>15 minutes.</i>
+
+680
+00:33:26,787 --> 00:33:27,875
+<i>15-- you should've woken me up.</i>
+
+681
+00:33:28,049 --> 00:33:29,572
+<i>I had it under control.</i>
+
+682
+00:33:29,746 --> 00:33:32,749
+<i>[fussing]
+I think Franny's hungry.</i>
+
+683
+00:33:32,923 --> 00:33:35,796
+<i>Is that what you want?</i>
+
+684
+00:33:35,970 --> 00:33:37,928
+<i>Or maybe you just want
+to be rocked-- is that it?</i>
+
+685
+00:33:38,103 --> 00:33:39,104
+<i>You just want to be rocked?</i>
+
+686
+00:33:39,278 --> 00:33:40,801
+<i>I don't know what you want.</i>
+
+687
+00:33:40,975 --> 00:33:42,716
+<i>You sound a little
+like a velociraptor.</i>
+
+688
+00:33:42,890 --> 00:33:44,935
+<i>[Madison chuckles]</i>
+
+689
+00:33:48,809 --> 00:33:50,202
+<i>You okay?</i>
+
+690
+00:33:52,291 --> 00:33:53,944
+<i>Yeah, I'm great.</i>
+
+691
+00:33:58,949 --> 00:34:00,995
+<i>-Madison.
+-Yeah.</i>
+
+692
+00:34:04,085 --> 00:34:05,217
+<i>Let's make this official.</i>
+
+693
+00:34:07,349 --> 00:34:10,222
+<i>I know we've been engaged,
+but not engagedengaged,</i>
+
+694
+00:34:10,396 --> 00:34:13,660
+<i>and dancing around the weirdness
+of it all, but I...</i>
+
+695
+00:34:16,010 --> 00:34:17,751
+<i>...I really want you
+to be my wife.</i>
+
+696
+00:34:20,145 --> 00:34:22,016
+<i>I want to be a family.</i>
+
+697
+00:34:24,192 --> 00:34:27,021
+<i>Look, I will, I will get you
+whatever ring that you want</i>
+
+698
+00:34:27,195 --> 00:34:28,501
+<i>whenever you want it
+because you deserve that,</i>
+
+699
+00:34:28,675 --> 00:34:30,111
+<i>but until then...</i>
+
+700
+00:34:31,678 --> 00:34:33,201
+<i>[Madison laughs]
+[groans]</i>
+
+701
+00:34:33,375 --> 00:34:34,942
+<i>I mean, these things are--
+these are just...</i>
+
+702
+00:34:35,116 --> 00:34:36,204
+<i>[laughs]
+[snaps]</i>
+
+703
+00:34:36,378 --> 00:34:37,814
+<i>There we go.</i>
+
+704
+00:34:39,338 --> 00:34:41,079
+<i>Madison.</i>
+
+705
+00:34:43,864 --> 00:34:45,605
+<i>Will you marry me?</i>
+
+706
+00:34:47,346 --> 00:34:48,521
+<i>Yeah.</i>
+
+707
+00:34:48,695 --> 00:34:50,697
+<i>Yeah?
+Yeah. [laughs]</i>
+
+708
+00:34:50,871 --> 00:34:52,829
+<i>♪ ♪</i>
+
+709
+00:34:54,527 --> 00:34:55,658
+<i>It's gorgeous.</i>
+
+710
+00:34:55,832 --> 00:34:56,790
+<i>[both laugh]</i>
+
+711
+00:35:02,839 --> 00:35:04,885
+<i>[birds singing]</i>
+
+712
+00:35:06,930 --> 00:35:09,194
+<i>You know, I think this is
+the quietest it's gonna be</i>
+
+713
+00:35:09,368 --> 00:35:11,283
+<i>for about 18 years.
+[chuckles]</i>
+
+714
+00:35:24,426 --> 00:35:27,037
+<i>I feel like
+there's the person I was</i>
+
+715
+00:35:27,212 --> 00:35:29,039
+<i>before I went to the hospital</i>
+
+716
+00:35:29,214 --> 00:35:32,391
+<i>and the person... I am now.</i>
+
+717
+00:35:34,741 --> 00:35:37,265
+<i>I barely even remember
+who that girl was</i>
+
+718
+00:35:37,439 --> 00:35:39,093
+<i>who got in the car
+four days ago.</i>
+
+719
+00:35:39,267 --> 00:35:40,921
+<i>I do.</i>
+
+720
+00:35:41,095 --> 00:35:44,751
+<i>I'm still me, we're still us.</i>
+
+721
+00:35:46,405 --> 00:35:47,841
+<i>Maybe.</i>
+
+722
+00:35:48,885 --> 00:35:50,235
+<i>I don't know.</i>
+
+723
+00:35:50,409 --> 00:35:53,499
+<i>I do-- hey.</i>
+
+724
+00:35:53,673 --> 00:35:55,414
+<i>I know.</i>
+
+725
+00:36:02,769 --> 00:36:05,641
+<i>My mom lost a baby</i>
+
+726
+00:36:05,815 --> 00:36:09,167
+<i>when I was five.</i>
+
+727
+00:36:10,951 --> 00:36:13,606
+<i>She had a miscarriage.</i>
+
+728
+00:36:13,780 --> 00:36:16,130
+<i>It was really early on, and...</i>
+
+729
+00:36:18,611 --> 00:36:22,484
+<i>I barely even...
+registered it at the time,</i>
+
+730
+00:36:22,658 --> 00:36:25,095
+<i>but I think she was really sad.</i>
+
+731
+00:36:25,270 --> 00:36:28,142
+<i>I think she was really sad
+for a long time.</i>
+
+732
+00:36:34,453 --> 00:36:36,977
+<i>What if I can't be a great mom</i>
+
+733
+00:36:37,151 --> 00:36:40,459
+<i>'cause I'm just too sad
+for too long?</i>
+
+734
+00:36:40,633 --> 00:36:44,550
+<i>Hey, Rebecca, look,
+I worry about a lot of things,</i>
+
+735
+00:36:44,724 --> 00:36:49,076
+<i>but I never, ever worry
+about you not being a great mom.</i>
+
+736
+00:36:50,338 --> 00:36:53,080
+<i>Okay? That story's
+already written.</i>
+
+737
+00:37:08,356 --> 00:37:12,186
+<i>When we stopped
+at the gas station...</i>
+
+738
+00:37:15,363 --> 00:37:17,322
+<i>...I bought a little bottle
+of whiskey.</i>
+
+739
+00:37:19,324 --> 00:37:21,326
+<i>I downed it right there.</i>
+
+740
+00:37:23,632 --> 00:37:28,158
+<i>I was... feeling
+really overwhelmed</i>
+
+741
+00:37:28,333 --> 00:37:29,986
+<i>by everything that's happened</i>
+
+742
+00:37:30,160 --> 00:37:33,729
+<i>and I was just trying
+to keep it together...</i>
+
+743
+00:37:35,078 --> 00:37:39,213
+<i>...really, 'cause when that guy
+cut us off, I just-- I saw red.</i>
+
+744
+00:37:40,170 --> 00:37:42,216
+<i>Lost control.</i>
+
+745
+00:37:43,870 --> 00:37:45,350
+<i>Just like my dad would've.</i>
+
+746
+00:37:45,524 --> 00:37:47,352
+<i>Jack.</i>
+
+747
+00:37:47,526 --> 00:37:48,527
+<i>Yeah.</i>
+
+748
+00:37:51,747 --> 00:37:56,012
+<i>Every night when I was a kid,</i>
+
+749
+00:37:56,186 --> 00:38:00,321
+<i>my dad would come home
+at 5:15 exactly.</i>
+
+750
+00:38:01,801 --> 00:38:04,717
+<i>And my brother and me--
+we'd be playing, uh, blocks,</i>
+
+751
+00:38:04,891 --> 00:38:07,720
+<i>baseball... whatever,</i>
+
+752
+00:38:07,894 --> 00:38:10,200
+<i>just happy as clams, and...</i>
+
+753
+00:38:12,551 --> 00:38:15,989
+<i>...about 5:00, my heart
+would just start pounding.</i>
+
+754
+00:38:16,163 --> 00:38:18,252
+<i>Mm.</i>
+
+755
+00:38:18,426 --> 00:38:20,254
+<i>And then I'd hear
+my dad slam his car door,</i>
+
+756
+00:38:20,428 --> 00:38:23,039
+<i>and all the air would get sucked
+out of the room.</i>
+
+757
+00:38:31,570 --> 00:38:34,312
+<i>He was so unhappy
+just to be around us.</i>
+
+758
+00:38:37,967 --> 00:38:41,841
+<i>He-He'd have a Scotch in his
+hand before he'd even say hello.</i>
+
+759
+00:38:44,452 --> 00:38:47,847
+<i>He needed it just to be
+in the same house with us.</i>
+
+760
+00:38:50,110 --> 00:38:52,678
+<i>Hmm.
+You are not gonna be
+that kind of dad.</i>
+
+761
+00:38:54,201 --> 00:38:56,029
+<i>I don't know.</i>
+
+762
+00:38:56,203 --> 00:38:58,248
+<i>I worry.</i>
+
+763
+00:39:04,298 --> 00:39:07,127
+<i>You don't suck the air
+out of the room.</i>
+
+764
+00:39:07,301 --> 00:39:09,129
+<i>You are the air.</i>
+
+765
+00:39:21,141 --> 00:39:22,316
+<i>[MAN [on radio]]
+Cloudy and continuing...</i>
+
+766
+00:39:22,490 --> 00:39:24,100
+<i>["Everything I Own" by Bread
+playing]</i>
+
+767
+00:39:25,972 --> 00:39:26,973
+<i>♪ You gave my life...♪</i>
+
+768
+00:39:27,147 --> 00:39:28,757
+<i>There it is.
+Mm-hmm.</i>
+
+769
+00:39:28,931 --> 00:39:31,107
+<i>The perfect song.</i>
+
+770
+00:39:31,281 --> 00:39:33,675
+<i>♪ Set me free♪</i>
+
+771
+00:39:33,849 --> 00:39:37,331
+<i>♪ Set me free...♪</i>
+
+772
+00:39:37,505 --> 00:39:39,289
+<i>We're never, ever gonna be
+alone in this car again</i>
+
+773
+00:39:39,464 --> 00:39:41,814
+<i>for the rest of our lives, huh?</i>
+
+774
+00:39:41,988 --> 00:39:43,990
+<i>No.
+Mm.</i>
+
+775
+00:39:44,164 --> 00:39:45,818
+<i>Don't hurt yourself.</i>
+
+776
+00:39:45,992 --> 00:39:47,994
+<i>I'm okay.</i>
+
+777
+00:39:48,168 --> 00:39:53,478
+<i>♪ And I would give
+anything I own♪</i>
+
+778
+00:39:53,652 --> 00:39:57,003
+<i>♪ Would give up my life,
+my heart...♪</i>
+
+779
+00:39:57,177 --> 00:39:58,178
+<i>We have a family.</i>
+
+780
+00:39:58,352 --> 00:40:00,180
+<i>Yes, we do.</i>
+
+781
+00:40:00,354 --> 00:40:01,790
+<i>[whispering]
+We have a family.</i>
+
+782
+00:40:01,964 --> 00:40:04,358
+<i>Gonna be one hell of a ride.</i>
+
+783
+00:40:04,532 --> 00:40:06,665
+<i>One hell of a ride.</i>
+
+784
+00:40:06,839 --> 00:40:11,321
+<i>♪ Just to have you back again♪</i>
+
+785
+00:40:11,496 --> 00:40:12,714
+<i>Hey, Jack, come on.</i>
+
+786
+00:40:12,888 --> 00:40:14,107
+<i>Come on!
+Don't want to be late.</i>
+
+787
+00:40:14,281 --> 00:40:17,893
+<i>♪ You taught me how to love♪</i>
+
+788
+00:40:18,067 --> 00:40:21,375
+<i>♪ What it's of♪</i>
+
+789
+00:40:21,549 --> 00:40:26,293
+<i>♪ What
+it's of♪</i>
+
+790
+00:40:26,467 --> 00:40:31,037
+<i>♪ You never said too much,
+ but still you showed the way♪</i>
+
+791
+00:40:31,211 --> 00:40:35,041
+<i>♪ And I knew from watching you♪</i>
+
+792
+00:40:38,523 --> 00:40:40,873
+<i>♪ Nobody else could ever know♪</i>
+
+793
+00:40:41,047 --> 00:40:42,178
+<i>[indistinct chatter]</i>
+
+794
+00:40:44,050 --> 00:40:45,225
+<i>[laughs]
+♪ The part of me♪</i>
+
+795
+00:40:45,399 --> 00:40:49,055
+<i>♪ That can't let go♪</i>
+
+796
+00:40:49,229 --> 00:40:53,581
+<i>♪ And I would give
+anything I own♪</i>
+
+797
+00:40:53,755 --> 00:40:56,758
+<i>♪ Would give up my life...♪</i>
+
+798
+00:40:56,932 --> 00:40:59,761
+<i>[engine shuts off]
+[car doors open]</i>
+
+799
+00:41:00,980 --> 00:41:03,417
+<i>[sighs]
+So, you think Uncle Kevin
+ordered enough food</i>
+
+800
+00:41:03,591 --> 00:41:05,375
+<i>for a small army again?</i>
+
+801
+00:41:05,550 --> 00:41:07,116
+<i>Took you long enough.</i>
+
+802
+00:41:07,290 --> 00:41:08,204
+<i>Annie made us late.</i>
+
+803
+00:41:08,378 --> 00:41:09,205
+<i>Really?</i>
+
+804
+00:41:10,380 --> 00:41:11,381
+<i>You guys ready?</i>
+
+805
+00:41:11,556 --> 00:41:12,557
+<i>Yeah.</i>
+
+806
+00:41:12,731 --> 00:41:13,732
+<i>Let's go.</i>
+
+807
+00:41:16,778 --> 00:41:18,345
+<i>Hey, Pop.
+Hi, Dad.</i>
+
+808
+00:41:19,651 --> 00:41:24,220
+<i>The beautiful, bountiful
+branches of my family tree.</i>
+
+809
+00:41:26,571 --> 00:41:28,268
+<i>[DEJA]
+How you holding up?</i>
+
+810
+00:41:31,097 --> 00:41:33,708
+<i>I'm okay.</i>
+
+811
+00:41:33,882 --> 00:41:35,710
+<i>I'm better for seeing you three.</i>
+
+812
+00:41:37,538 --> 00:41:38,539
+<i>You okay, Dej?</i>
+
+813
+00:41:38,713 --> 00:41:40,410
+<i>I'm fine.</i>
+
+814
+00:41:40,585 --> 00:41:41,934
+<i>Long day.</i>
+
+815
+00:41:42,108 --> 00:41:43,413
+<i>[chuckles nervously]</i>
+
+816
+00:41:43,588 --> 00:41:46,460
+<i>Um, let's, let's go see her.</i>
+
+817
+00:41:53,772 --> 00:41:54,773
+<i>[vehicle approaches, horn honks]</i>
+
+818
+00:41:54,947 --> 00:41:56,165
+<i>Hey.</i>
+
+819
+00:41:56,339 --> 00:41:58,603
+<i>Look who's here.
+[horn honking]</i>
+
+820
+00:42:00,430 --> 00:42:02,389
+<i>How was the drive up?</i>
+
+821
+00:42:02,563 --> 00:42:05,087
+<i>[sighs]
+Not bad.</i>
+
+822
+00:42:06,480 --> 00:42:08,917
+<i>Always goes by faster
+than you'd think.</i>
+

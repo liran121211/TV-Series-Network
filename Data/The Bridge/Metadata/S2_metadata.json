@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Avsnitt 1",
+        "released": "2013-09-22",
+        "rating": "8.0",
+        "imdb_id": "tt2871034",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S2\\Bron.S02E01.SWEDiSH.720p.HDTV.x264-xD2VS2E1.zip"
+    },
+    "2": {
+        "title": "Avsnitt 2",
+        "released": "2013-09-29",
+        "rating": "N/A",
+        "imdb_id": "tt3146184",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S2\\The_Bridge_(2011)_-_S02E02_-_Episode_2_(1080p_BluRay_x265_Silence)S2E2.zip"
+    },
+    "3": {
+        "title": "Avsnitt 3",
+        "released": "2013-10-06",
+        "rating": "N/A",
+        "imdb_id": "tt3146200",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S2\\The_Bridge_(2011)_-_S02E03_-_Episode_3_(1080p_BluRay_x265_Silence)S2E3.zip"
+    },
+    "4": {
+        "title": "Avsnitt 4",
+        "released": "2013-10-13",
+        "rating": "7.9",
+        "imdb_id": "tt3146242",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S2\\The_Bridge_(2011)_-_S02E04_-_Episode_4_(1080p_BluRay_x265_Silence)S2E4.zip"
+    },
+    "5": {
+        "title": "Avsnitt 5",
+        "released": "2013-10-20",
+        "rating": "N/A",
+        "imdb_id": "tt3146248",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S2\\The_Bridge_(2011)_-_S02E05_-_Episode_5_(1080p_BluRay_x265_Silence)S2E5.zip"
+    },
+    "6": {
+        "title": "Avsnitt 6",
+        "released": "2013-10-27",
+        "rating": "N/A",
+        "imdb_id": "tt3146250",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S2\\The_Bridge_(2011)_-_S02E06_-_Episode_6_(1080p_BluRay_x265_Silence)S2E6.zip"
+    },
+    "7": {
+        "title": "Avsnitt 7",
+        "released": "2013-11-03",
+        "rating": "N/A",
+        "imdb_id": "tt3146252",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S2\\The_Bridge_(2011)_-_S02E07_-_Episode_7_(1080p_BluRay_x265_Silence)S2E7.zip"
+    },
+    "8": {
+        "title": "Avsnitt 8",
+        "released": "2013-11-10",
+        "rating": "N/A",
+        "imdb_id": "tt3146254",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S2\\The_Bridge_(2011)_-_S02E08_-_Episode_8_(1080p_BluRay_x265_Silence)S2E8.zip"
+    },
+    "9": {
+        "title": "Avsnitt 9",
+        "released": "2013-11-17",
+        "rating": "N/A",
+        "imdb_id": "tt3146256",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S2\\The_Bridge_(2011)_-_S02E09_-_Episode_9_(1080p_BluRay_x265_Silence)S2E9.zip"
+    },
+    "10": {
+        "title": "Avsnitt 10",
+        "released": "2013-11-24",
+        "rating": "N/A",
+        "imdb_id": "tt3146258",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

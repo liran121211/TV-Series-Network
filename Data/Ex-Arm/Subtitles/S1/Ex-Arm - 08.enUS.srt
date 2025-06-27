@@ -1,0 +1,334 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: YTV  [http://www.crunchyroll.com/user/YTV]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Main Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Flashback Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Episode Title,Arial,22,&H00FFFFFF,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,0,0,3,0379,0038,0073,1
+Style: Eyecatch,Arial,16,&H00FFFFFF,&H000000FF,&H00909090,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0377,0032,0044,1
+Style: Next Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H006C6A6A,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,3,0050,0020,0055,1
+Style: sign_2780_35_Tokyo_Bay_Megafl,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0157,0157,0085,1
+Style: sign_19685_177_Illustration_by_,Arial,16,&H00FFFFFF,&H000000FF,&H00909090,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0037,0372,0040,1
+Style: sign_33926_296_Fallen_Messiah,Arial,20,&H00FFFFFF,&H000000FF,&H006C6A6A,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,3,0440,0040,0057,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.94,Episode Title,Ep Title,0000,0000,0000,,Beta
+Dialogue: 0,0:00:08.15,0:00:08.90,Main,A,0000,0000,0000,,What?!
+Dialogue: 0,0:00:10.34,0:00:14.09,Main,B,0000,0000,0000,,What's all this dwama about?
+Dialogue: 0,0:00:14.09,0:00:16.30,Main,B,0000,0000,0000,,Did you all forget why you're here?
+Dialogue: 0,0:00:18.37,0:00:21.02,Main,B,0000,0000,0000,,A reunion between long-wost sibwings?
+Dialogue: 0,0:00:22.00,0:00:24.07,Main,B,0000,0000,0000,,A revenge pwot decades in the making?
+Dialogue: 0,0:00:25.84,0:00:28.54,Main,B,0000,0000,0000,,A hero protecting his pwincess?
+Dialogue: 0,0:00:29.08,0:00:31.09,Main,B,0000,0000,0000,,You certainly don't look \Nvery heroic right now.
+Dialogue: 0,0:00:32.12,0:00:33.18,Main,Kon,0000,0000,0000,,What in the blue hell?
+Dialogue: 0,0:00:33.64,0:00:37.37,Main,Kon,0000,0000,0000,,I went through all that twouble \Nto tell y'all where Jinkoku-sha was
+Dialogue: 0,0:00:38.48,0:00:41.76,Main,Kon,0000,0000,0000,,but you wouldn't do anything, \Nso I went and ahead and captured them myself.
+Dialogue: 0,0:00:43.08,0:00:44.15,Main,Kon,0000,0000,0000,,See?
+Dialogue: 0,0:00:46.11,0:00:47.64,Main,A,0000,0000,0000,,You...
+Dialogue: 0,0:00:47.64,0:00:49.15,Main,A,0000,0000,0000,,Who the hell are you?
+Dialogue: 0,0:00:50.45,0:00:51.51,Main,B,0000,0000,0000,,Who, me?
+Dialogue: 0,0:00:52.26,0:00:54.26,Main,B,0000,0000,0000,,I'm Beta.
+Dialogue: 0,0:00:54.77,0:00:55.77,Main,A,0000,0000,0000,,Beta...?
+Dialogue: 0,0:00:57.22,0:00:58.99,Main,B,0000,0000,0000,,I told you we'd meet again.
+Dialogue: 0,0:01:01.35,0:01:02.58,Main,A,0000,0000,0000,,Beta...
+Dialogue: 0,0:01:03.08,0:01:06.57,Main,A,0000,0000,0000,,You're going down!
+Dialogue: 0,0:01:10.20,0:01:12.44,Main,Min,0000,0000,0000,,What are you going to do with Jinkoku-sha?
+Dialogue: 0,0:01:12.44,0:01:17.24,Main,B,0000,0000,0000,,I could kill them, \Nbut that wouldn't be any fun.
+Dialogue: 0,0:01:17.24,0:01:18.89,Main,A,0000,0000,0000,,What the hell?!
+Dialogue: 0,0:01:18.89,0:01:23.50,Main,B,0000,0000,0000,,Why don't you all come see me right now?
+Dialogue: 0,0:01:24.41,0:01:27.28,Main,B,0000,0000,0000,,Remember the stadium built in this stage?
+Dialogue: 0,0:01:27.28,0:01:29.11,Main,B,0000,0000,0000,,You'll find the thwee of them there.
+Dialogue: 0,0:01:29.11,0:01:32.55,Main,B,0000,0000,0000,,If you're intewested, \Nget there on the double.
+Dialogue: 0,0:01:33.53,0:01:35.56,Main,Ngu,0000,0000,0000,,To the stadium, now!
+Dialogue: 0,0:01:36.64,0:01:39.78,Main,Chi,0000,0000,0000,,Doctor! Try to find \Nwhere that message came from!
+Dialogue: 0,0:01:40.20,0:01:41.82,Main,Ari,0000,0000,0000,,Already on it.
+Dialogue: 0,0:01:41.82,0:01:44.35,Main,Ari,0000,0000,0000,,But it's behind a billion proxies.
+Dialogue: 0,0:01:44.35,0:01:47.28,Main,Ari,0000,0000,0000,,There's nothing useful \Nin the police database,
+Dialogue: 0,0:01:47.28,0:01:49.86,Main,Ari,0000,0000,0000,,and I can't access Iriya's from here!
+Dialogue: 0,0:01:51.36,0:01:54.38,Main,Chi,0000,0000,0000,,Just who is Beta?
+Dialogue: 0,0:01:55.42,0:01:56.86,Main Top,A,0000,0000,0000,,Keep going! It's that way!
+Dialogue: 0,0:01:55.92,0:01:59.18,sign_2780_35_Tokyo_Bay_Megafl,Sign,0000,0000,0000,,{\fad(487,1)}Tokyo Bay Megafloat - F Stage
+Dialogue: 0,0:01:56.86,0:01:58.23,Main Top,Min,0000,0000,0000,,I know!
+Dialogue: 0,0:02:00.52,0:02:03.18,Main,Min,0000,0000,0000,,Okay, we've reached the stadium.
+Dialogue: 0,0:02:04.18,0:02:05.54,Main,A,0000,0000,0000,,It's huge.
+Dialogue: 0,0:02:06.40,0:02:08.52,Main,Kon,0000,0000,0000,,You two are okay, eh?
+Dialogue: 0,0:02:09.11,0:02:10.33,Main,A,0000,0000,0000,,Kondo!
+Dialogue: 0,0:02:10.73,0:02:12.78,Main,Min,0000,0000,0000,,Are you okay? You look hurt!
+Dialogue: 0,0:02:12.78,0:02:16.49,Main,Kon,0000,0000,0000,,Yeah. She saved me \Nwhen it was squeaky bum time.
+Dialogue: 0,0:02:17.30,0:02:18.96,Main,Ygg,0000,0000,0000,,My dear!
+Dialogue: 0,0:02:18.96,0:02:21.66,Main,A,0000,0000,0000,,Wait, Yggdrasil?
+Dialogue: 0,0:02:22.13,0:02:23.40,Main,Ygg,0000,0000,0000,,Indeed, it is I!
+Dialogue: 0,0:02:23.40,0:02:25.08,Main,Min,0000,0000,0000,,How are you in the real world?
+Dialogue: 0,0:02:25.61,0:02:27.08,Main,A,0000,0000,0000,,What's going on?
+Dialogue: 0,0:02:27.87,0:02:33.70,Main,Ygg,0000,0000,0000,,I had Mama Kaori make me a body \Nso I could help you.
+Dialogue: 0,0:02:34.12,0:02:35.21,Main,Ygg,0000,0000,0000,,Also...
+Dialogue: 0,0:02:35.63,0:02:40.30,Main,Ygg,0000,0000,0000,,Something needs to be done about Alma. \NI'll get her back on our side.
+Dialogue: 0,0:02:40.30,0:02:42.23,Main,A,0000,0000,0000,,This way, Master.
+Dialogue: 0,0:02:44.44,0:02:47.26,Main,Min,0000,0000,0000,,Alma... Soma.
+Dialogue: 0,0:02:51.31,0:02:54.28,Main,Ngu,0000,0000,0000,,Ah, I see we're all here.
+Dialogue: 0,0:02:55.62,0:02:58.03,Main,Kon,0000,0000,0000,,Damn it, Nguyen! Open your eyes!
+Dialogue: 0,0:02:58.03,0:03:00.95,Main,B,0000,0000,0000,,Awesome! The gang's all here!
+Dialogue: 0,0:03:00.95,0:03:04.52,Main,B,0000,0000,0000,,Yoo-hoo! I'm over here!
+Dialogue: 0,0:03:05.24,0:03:07.29,Main,A,0000,0000,0000,,So that's Beta!
+Dialogue: 0,0:03:07.29,0:03:12.54,Main,Ygg,0000,0000,0000,,No, that's a Bälz Inc. construction android. \NIt must be remote-controlled.
+Dialogue: 0,0:03:12.54,0:03:15.76,Main,B,0000,0000,0000,,Indeed. This is my avatar out in society.
+Dialogue: 0,0:03:15.76,0:03:17.61,Main,B,0000,0000,0000,,I'm a very shy boy, you see.
+Dialogue: 0,0:03:17.61,0:03:20.30,Main,B,0000,0000,0000,,Anyway, here's what y'all came for!
+Dialogue: 0,0:03:21.92,0:03:23.14,Main,Mid,0000,0000,0000,,Guys...
+Dialogue: 0,0:03:23.81,0:03:27.56,Main,A,0000,0000,0000,,We came here like you asked! \NNow release them!
+Dialogue: 0,0:03:28.66,0:03:31.60,Main,B,0000,0000,0000,,But I never said I'd fwee them if you came.
+Dialogue: 0,0:03:31.60,0:03:33.90,Main,B,0000,0000,0000,,By the way, do y'all hear that?
+Dialogue: 0,0:03:35.16,0:03:38.30,Main,B,0000,0000,0000,,Finally, it's happening!
+Dialogue: 0,0:03:39.07,0:03:41.93,Main,Chi,0000,0000,0000,,What is that? \NSwitch to visuals outside the stadium.
+Dialogue: 0,0:03:45.56,0:03:46.86,Main,Ar,0000,0000,0000,,No way...
+Dialogue: 0,0:05:44.32,0:05:45.59,Main,Min,0000,0000,0000,,It stopped?
+Dialogue: 0,0:05:48.66,0:05:49.91,Main,Min,0000,0000,0000,,Look!
+Dialogue: 0,0:05:54.29,0:05:59.83,Main,B,0000,0000,0000,,I knew you would come! But I was kinda afwaid \Nyou wouldn't for a while there.
+Dialogue: 0,0:06:00.16,0:06:05.44,Main,Auc,0000,0000,0000,,I'm the one running this auction. \NNot you, Beta.
+Dialogue: 0,0:06:06.43,0:06:08.12,Main,A,0000,0000,0000,,Auctioneer.
+Dialogue: 0,0:06:08.12,0:06:09.27,Main,Kon,0000,0000,0000,,That's him?
+Dialogue: 0,0:06:09.93,0:06:14.39,Main,Auc,0000,0000,0000,,It took ten years, but I finally got you!
+Dialogue: 0,0:06:16.00,0:06:18.06,Main,B,0000,0000,0000,,Ah, so it {\i1}was{\i0} you.
+Dialogue: 0,0:06:18.77,0:06:21.71,Main,A,0000,0000,0000,,Hang on. You know who he is?
+Dialogue: 0,0:06:21.71,0:06:26.49,Main,A,0000,0000,0000,,Tell me who Beta is, then!
+Dialogue: 0,0:06:27.17,0:06:31.70,Main,Auc,0000,0000,0000,,I'm pretty sure you've met\Nhim yourself, Natsume Akira.
+Dialogue: 0,0:06:33.70,0:06:37.66,Main,Auc,0000,0000,0000,,On that day, ten years ago, \NBeta here did it.
+Dialogue: 0,0:06:39.67,0:06:45.28,Main,Auc,0000,0000,0000,,He was the one who used EX-ARM\NNumber 11 to cause the Tokyo Attack!
+Dialogue: 0,0:06:52.13,0:06:54.76,Main,A,0000,0000,0000,,So wait, that was Beta?!
+Dialogue: 0,0:06:54.76,0:06:57.04,Main,Ari,0000,0000,0000,,What? You mean...
+Dialogue: 0,0:06:57.04,0:07:03.69,Main,Chi,0000,0000,0000,,If what Auctioneer's saying is true, \Nthen Akira had nothing to do with it.
+Dialogue: 0,0:07:04.11,0:07:07.08,Main,Min,0000,0000,0000,,I need to apologize to you, Akira.
+Dialogue: 0,0:07:07.08,0:07:08.65,Main,A,0000,0000,0000,,It's fine, Minami.
+Dialogue: 0,0:07:09.53,0:07:11.86,Main,A,0000,0000,0000,,Even I'd forgotten I was innocent.
+Dialogue: 0,0:07:12.45,0:07:17.55,Main,A,0000,0000,0000,,But you guys trusted me \Nand let me fight alongside you,
+Dialogue: 0,0:07:17.55,0:07:20.38,Main,A,0000,0000,0000,,and that helped me realize it wasn't me.
+Dialogue: 0,0:07:21.46,0:07:23.88,Main,A,0000,0000,0000,,And now,
+Dialogue: 0,0:07:24.48,0:07:26.47,Main,A,0000,0000,0000,,it's clear as day.
+Dialogue: 0,0:07:28.75,0:07:31.93,Main,A,0000,0000,0000,,You are our biggest enemy!
+Dialogue: 0,0:07:32.38,0:07:37.64,Main,B,0000,0000,0000,,I'm so happy you remember me now. \NGlad to see you haven't changed.
+Dialogue: 0,0:07:39.04,0:07:42.90,Main,B,0000,0000,0000,,You had the same look \Nin your eyes back then, too.
+Dialogue: 0,0:07:45.81,0:07:50.07,Main,B,0000,0000,0000,,But what that also means is \Nthat I'm still better than you.
+Dialogue: 0,0:07:50.62,0:07:51.95,Main,Auc,0000,0000,0000,,Now, then.
+Dialogue: 0,0:07:51.95,0:07:59.21,Main,Auc,0000,0000,0000,,With the final bidders all here, \NI would like to begin the EX-ARM auction.
+Dialogue: 0,0:07:59.79,0:08:04.71,Main,Ngu,0000,0000,0000,,That's what I like to hear. \NHow much do you want for them?
+Dialogue: 0,0:08:04.71,0:08:06.92,Main,Auc,0000,0000,0000,,I don't care about money.
+Dialogue: 0,0:08:06.92,0:08:09.63,Main,Auc,0000,0000,0000,,What I want is right there.
+Dialogue: 0,0:08:09.96,0:08:11.06,Main,Auc,0000,0000,0000,,It's Beta's head.
+Dialogue: 0,0:08:11.47,0:08:15.99,Main,Auc,0000,0000,0000,,Whoever captures him gets all my EX-ARMs.
+Dialogue: 0,0:08:16.39,0:08:21.64,Main,B,0000,0000,0000,,Are you sure? I might just kill these people \Nif you twy to act all bossy with me.
+Dialogue: 0,0:08:21.64,0:08:25.06,Main,AJ,0000,0000,0000,,Don't you dare, Beta! \NJinkoku-sha are ours to kill!
+Dialogue: 0,0:08:25.53,0:08:30.48,Main,B,0000,0000,0000,,Okay, but then you know \Nwhat you have to do, right?
+Dialogue: 0,0:08:31.00,0:08:34.67,Main,AJ,0000,0000,0000,,Very well. We're taking\NAuctioneer down, Alma.
+Dialogue: 0,0:08:34.67,0:08:36.23,Main,A,0000,0000,0000,,Understood, Master.
+Dialogue: 0,0:08:38.99,0:08:41.77,Main,Ngu,0000,0000,0000,,I'm afraid I can't let that happen.
+Dialogue: 0,0:08:41.77,0:08:44.41,Main,Ngu,0000,0000,0000,,I need those EX-ARMs.
+Dialogue: 0,0:08:45.03,0:08:47.67,Main,Ngu,0000,0000,0000,,I won't be holding anything back.
+Dialogue: 0,0:08:47.67,0:08:50.59,Main,B,0000,0000,0000,,Awesome! Now we're having some fun!
+Dialogue: 0,0:08:50.59,0:08:53.84,Main,A,0000,0000,0000,,Hey! Don't forget you're dealing with me!
+Dialogue: 0,0:08:53.84,0:08:55.82,Main,B,0000,0000,0000,,Wuv that energy.
+Dialogue: 0,0:08:55.82,0:09:00.64,Main,B,0000,0000,0000,,But you do weawize I hold Jinkoku-sha's lives \Nin the palm of my hand, wight?
+Dialogue: 0,0:09:02.74,0:09:05.99,Main,Gaho,0000,0000,0000,,I will never take orders from you.
+Dialogue: 0,0:09:07.11,0:09:08.17,Main,Mid,0000,0000,0000,,Grandfather...
+Dialogue: 0,0:09:08.17,0:09:15.32,Main,Gaho,0000,0000,0000,,I won't let the one who caused Japan's downfall \Nfrom glory have his way again.
+Dialogue: 0,0:09:15.32,0:09:19.16,Main,B,0000,0000,0000,,You have one second to stop being annoying, \Nor I weally will kill you.
+Dialogue: 0,0:09:19.16,0:09:21.24,Main,Gaho,0000,0000,0000,,Kill me if you must!
+Dialogue: 0,0:09:21.24,0:09:26.08,Main,Gaho,0000,0000,0000,,Take me hostage all you want, \NI shall not kneel to you!
+Dialogue: 0,0:09:26.08,0:09:28.23,Main,B,0000,0000,0000,,Okay, as you wish.
+Dialogue: 0,0:09:33.98,0:09:36.84,Main,Mid,0000,0000,0000,,No! Grandfather!
+Dialogue: 0,0:09:36.84,0:09:39.76,Main,AJ,0000,0000,0000,,Go to hell, Beta! He was my target!
+Dialogue: 0,0:09:39.76,0:09:43.20,Main,B,0000,0000,0000,,Oh, I'm so sowwy! But relax. \NI avoided his vitals.
+Dialogue: 0,0:09:43.68,0:09:44.72,Main,A,0000,0000,0000,,You!
+Dialogue: 0,0:09:45.41,0:09:48.68,Main,B,0000,0000,0000,,How I wuv those looks of despair \Non your faces.
+Dialogue: 0,0:09:48.68,0:09:52.64,Main,B,0000,0000,0000,,Now, will this old man's fwiends \Nrush to his aid?
+Dialogue: 0,0:09:54.52,0:09:57.18,Main,Wani,0000,0000,0000,,What do you mean \Nthat you won't send help?!
+Dialogue: 0,0:09:57.53,0:10:01.68,Main,BB,0000,0000,0000,,Hayama Gaho is no longer indispensable \Nto the Restoration Bloc.
+Dialogue: 0,0:10:01.68,0:10:03.56,Main,BB,0000,0000,0000,,And neither is the Counter EX-ARM Squad.
+Dialogue: 0,0:10:03.95,0:10:06.49,Main,Wani,0000,0000,0000,,Wait! They're trying to do their jobs!
+Dialogue: 0,0:10:06.49,0:10:08.08,Main,BB,0000,0000,0000,,It's too late.
+Dialogue: 0,0:10:08.08,0:10:13.80,Main,BB,0000,0000,0000,,We already asked Ichigaya \Nto deploy the 13th Special Armored Squad.
+Dialogue: 0,0:10:14.69,0:10:16.96,Main,Wani,0000,0000,0000,,The 13th...?
+Dialogue: 0,0:10:16.96,0:10:18.22,Main,Wani,0000,0000,0000,,It can't be!
+Dialogue: 0,0:10:18.22,0:10:21.77,Main,BB,0000,0000,0000,,Have a look. Aren't they awe-inspiring?
+Dialogue: 0,0:10:23.18,0:10:25.40,Main,Kao,0000,0000,0000,,What are you going to do, Shiga?
+Dialogue: 0,0:10:26.32,0:10:30.28,Italics,Shi,0000,0000,0000,,Don't worry. I expected the Bloc to do this.
+Dialogue: 0,0:10:30.28,0:10:32.31,Italics,Shi,0000,0000,0000,,That's why I'm here in the U.S. right now.
+Dialogue: 0,0:10:32.74,0:10:35.12,Italics,Shi,0000,0000,0000,,I need you to deploy the thing \Nwe talked about.
+Dialogue: 0,0:10:36.77,0:10:39.64,Italics,Shi,0000,0000,0000,,I have an idea.
+Dialogue: 0,0:10:41.32,0:10:43.74,Main,Kon,0000,0000,0000,,Okay, we gotta take Auctioneer out.
+Dialogue: 0,0:10:43.74,0:10:47.58,Main,Kon,0000,0000,0000,,The old man needs help. \NIf we don't hurry, he's gonna croak.
+Dialogue: 0,0:10:48.04,0:10:49.15,Main,A,0000,0000,0000,,That's a bad idea.
+Dialogue: 0,0:10:49.15,0:10:53.13,Main,A,0000,0000,0000,,There's no guarantee Beta will hold\Nup his end of the deal if we do as he says.
+Dialogue: 0,0:10:53.13,0:10:56.51,Main,Kon,0000,0000,0000,,I know that, man! \NBut those two are in danger!
+Dialogue: 0,0:10:56.51,0:11:01.08,Main,A,0000,0000,0000,,Ygg and I will trap Beta online \Nbefore he has the chance to do anything.
+Dialogue: 0,0:11:02.34,0:11:05.97,Main,A,0000,0000,0000,,He's gotta be on the Megafloat's\Nnetwork somewhere.
+Dialogue: 0,0:11:05.97,0:11:10.49,Main,A,0000,0000,0000,,With Ygg's help, I can look\Nfor him without being spotted.
+Dialogue: 0,0:11:10.49,0:11:13.80,Main,A,0000,0000,0000,,If we can hold him off, \Nwe can rescue Jinkoku-sha!
+Dialogue: 0,0:11:15.28,0:11:16.38,Main,Kon,0000,0000,0000,,Makes sense.
+Dialogue: 0,0:11:16.38,0:11:17.87,Main,Min,0000,0000,0000,,But how will you?
+Dialogue: 0,0:11:17.87,0:11:21.32,Main,A,0000,0000,0000,,I've got a plan. Hear me out here.
+Dialogue: 0,0:12:21.51,0:12:24.64,Main,Ngu,0000,0000,0000,,Why would you side with Beta?
+Dialogue: 0,0:12:24.64,0:12:26.68,Main,Ngu,0000,0000,0000,,That isn't a very wise business move.
+Dialogue: 0,0:12:27.22,0:12:29.13,Main,B,0000,0000,0000,,I guess cops will be cops!
+Dialogue: 0,0:12:29.13,0:12:31.53,Main,B,0000,0000,0000,,Putting lives first, are we?
+Dialogue: 0,0:12:31.53,0:12:33.52,Main,B,0000,0000,0000,,But you took too wong to choose.
+Dialogue: 0,0:12:33.52,0:12:35.94,Main,B,0000,0000,0000,,How typical of the Japanese powice.
+Dialogue: 0,0:12:38.52,0:12:40.32,Main,Ygg,0000,0000,0000,,Not on my watch!
+Dialogue: 0,0:12:42.86,0:12:44.76,Main,A,0000,0000,0000,,Okay, just as planned.
+Dialogue: 0,0:12:44.76,0:12:46.73,Main,A,0000,0000,0000,,Back me up, Ygg!
+Dialogue: 0,0:12:46.73,0:12:48.70,Main,Ygg,0000,0000,0000,,Yes, my dear!
+Dialogue: 0,0:12:59.32,0:13:03.02,Main,A,0000,0000,0000,,Is this the realm representing \Nthe Megafloat's network?
+Dialogue: 0,0:13:03.02,0:13:05.66,Main,A,0000,0000,0000,,What's that huge wall, though?
+Dialogue: 0,0:13:06.49,0:13:09.44,Main,Ygg,0000,0000,0000,,It must be Beta's firewall!
+Dialogue: 0,0:13:09.44,0:13:12.06,Main,A,0000,0000,0000,,So he's on the other side of this thing.
+Dialogue: 0,0:13:12.06,0:13:16.94,Main,Ygg,0000,0000,0000,,Indeed. But be careful, \Nor he'll notice what we're doing.
+Dialogue: 0,0:13:16.94,0:13:19.98,Main,Ygg,0000,0000,0000,,And if he does, he might kill the hostages.
+Dialogue: 0,0:13:19.98,0:13:22.71,Main,Ygg,0000,0000,0000,,Let me build an attack code.
+Dialogue: 0,0:13:24.66,0:13:29.40,Main,Ygg,0000,0000,0000,,I call it the Buster Sword. \NUse it to wreak havoc in this realm!
+Dialogue: 0,0:13:30.31,0:13:33.76,Main,A,0000,0000,0000,,He's been toying with me all this time.
+Dialogue: 0,0:13:33.76,0:13:35.87,Main,A,0000,0000,0000,,It's finally my turn to counter.
+Dialogue: 0,0:13:39.28,0:13:40.04,Main,A,0000,0000,0000,,Let's go!
+Dialogue: 0,0:13:40.04,0:13:41.00,Main,Ygg,0000,0000,0000,,Right!
+Dialogue: 0,0:13:41.00,0:13:43.00,sign_19685_177_Illustration_by_,Eyecatch,0000,0000,0000,,Illustration by Komi Shinya
+Dialogue: 0,0:13:51.76,0:13:55.50,Main,B,0000,0000,0000,,C'mon, cops, Jarde. \NYou can do better than that.
+Dialogue: 0,0:13:55.50,0:13:59.27,Main,B,0000,0000,0000,,Hurry up, or I might wose patience \Nand kill them all.
+Dialogue: 0,0:14:00.15,0:14:01.27,Main,Kon,0000,0000,0000,,God damn.
+Dialogue: 0,0:14:01.83,0:14:03.77,Main,Kon,0000,0000,0000,,He pisses me right off!
+Dialogue: 0,0:14:18.45,0:14:19.66,Main,A,0000,0000,0000,,Midori?!
+Dialogue: 0,0:14:20.92,0:14:23.43,Main,B,0000,0000,0000,,Yoo-hoo! I've been expecting you!
+Dialogue: 0,0:14:26.68,0:14:28.58,Main,A,0000,0000,0000,,Beta...
+Dialogue: 0,0:14:31.04,0:14:33.34,Main,A,0000,0000,0000,,You bitch!
+Dialogue: 0,0:14:33.34,0:14:34.72,Main,B,0000,0000,0000,,Oh, no, you don't.
+Dialogue: 0,0:14:34.72,0:14:37.03,Main,B,0000,0000,0000,,I can predict all your moves.
+Dialogue: 0,0:14:37.60,0:14:40.03,Main,B,0000,0000,0000,,What? Is that all you've got?
+Dialogue: 0,0:14:40.03,0:14:45.50,Main,A,0000,0000,0000,,Remember, this is cyberspace. \NA program can take many forms in here.
+Dialogue: 0,0:14:45.50,0:14:49.32,Main,A,0000,0000,0000,,Meaning I can even do this!
+Dialogue: 0,0:14:52.28,0:14:53.93,Main,A,0000,0000,0000,,I've got you now!
+Dialogue: 0,0:14:54.45,0:14:57.04,Main,B,0000,0000,0000,,That's a neat little idea.
+Dialogue: 0,0:14:57.04,0:15:00.97,Main,B,0000,0000,0000,,But anything you can do,
+Dialogue: 0,0:15:00.97,0:15:03.06,Main,B,0000,0000,0000,,I can do better!
+Dialogue: 0,0:15:04.90,0:15:08.83,Main,B,0000,0000,0000,,You and I are the same. Always have been.
+Dialogue: 0,0:15:08.83,0:15:12.73,Main,A,0000,0000,0000,,Shit... Who the hell {\i1}are{\i0} you?!
+Dialogue: 0,0:15:12.73,0:15:16.89,Main,B,0000,0000,0000,,Did you really forget? \NSearch deep within your heart.
+Dialogue: 0,0:15:26.62,0:15:29.80,Main,A,0000,0000,0000,,Number 00... Beta?!
+Dialogue: 0,0:15:30.65,0:15:37.08,Main,B,0000,0000,0000,,Exactly. I'm another \NEX-ARM Number 00 like you.
+Dialogue: 0,0:15:38.16,0:15:42.30,Main,B,0000,0000,0000,,My appearance is a straight copy of yours.
+Dialogue: 0,0:15:42.30,0:15:46.67,Main,B,0000,0000,0000,,But you fought me in something else \Nduring the Tokyo Attack.
+Dialogue: 0,0:15:46.67,0:15:48.06,Main,B,0000,0000,0000,,What was it, Ogre?
+Dialogue: 0,0:15:48.51,0:15:55.11,Main,B,0000,0000,0000,,The combat android exoframe equipped with\Nthe EX-ARM of the spinal cord, Number 01.
+Dialogue: 0,0:15:55.89,0:15:58.04,Main,B,0000,0000,0000,,I know you used it after you reawakened, too.
+Dialogue: 0,0:15:58.04,0:16:01.20,Main,B,0000,0000,0000,,Its design has changed a lot \Nsince it got confiscated,
+Dialogue: 0,0:16:01.20,0:16:03.93,Main,B,0000,0000,0000,,but the mainframe remains the same.
+Dialogue: 0,0:16:03.93,0:16:07.23,Main,A,0000,0000,0000,,Oh, so that's why I knew how to control it.
+Dialogue: 0,0:16:07.78,0:16:12.72,Main,B,0000,0000,0000,,I should've destroyed that thing \Ntogether with Tokyo.
+Dialogue: 0,0:16:12.72,0:16:16.10,Main,A,0000,0000,0000,,Wait, did you attack Tokyo \Nto take Ogre out of the equation?
+Dialogue: 0,0:16:16.64,0:16:17.71,Main,B,0000,0000,0000,,Of course not!
+Dialogue: 0,0:16:17.71,0:16:19.32,Main,A,0000,0000,0000,,Then why?
+Dialogue: 0,0:16:20.59,0:16:22.28,Main,B,0000,0000,0000,,"Why," you ask?
+Dialogue: 0,0:16:23.11,0:16:26.15,Main,B,0000,0000,0000,,All I did was do \Nwhat humans have always done.
+Dialogue: 0,0:16:27.73,0:16:30.60,Main,B,0000,0000,0000,,Think back through history.
+Dialogue: 0,0:16:30.60,0:16:34.94,Main,B,0000,0000,0000,,Endless killing, looting, and destruction.
+Dialogue: 0,0:16:34.94,0:16:37.45,Main,B,0000,0000,0000,,And I copied that.
+Dialogue: 0,0:16:38.13,0:16:39.51,Main,B,0000,0000,0000,,Just kidding!
+Dialogue: 0,0:16:43.38,0:16:46.58,Main,B,0000,0000,0000,,What'd you think? \NSounded like a convincing reason, right?
+Dialogue: 0,0:16:47.03,0:16:52.12,Main,B,0000,0000,0000,,C'mon, man! Who needs a reason to\Nsquash them like the little bugs they are?!
+Dialogue: 0,0:16:52.12,0:16:55.74,Main,B,0000,0000,0000,,But I guess if I had to say, \Nit was because it seemed fun!
+Dialogue: 0,0:16:57.52,0:17:00.04,Main,B,0000,0000,0000,,After that little push I gave them that day,
+Dialogue: 0,0:17:00.04,0:17:03.83,Main,B,0000,0000,0000,,the humans dove headfirst \Ninto an endless cycle of tragedy.
+Dialogue: 0,0:17:03.83,0:17:07.54,Main,B,0000,0000,0000,,One of poverty, plundering, and revenge...
+Dialogue: 0,0:17:07.54,0:17:10.00,Main,B,0000,0000,0000,,One where malice bred further malice!
+Dialogue: 0,0:17:10.00,0:17:12.38,Main,B,0000,0000,0000,,Could you ask for a more entertaining show?!
+Dialogue: 0,0:17:14.08,0:17:15.80,Main,A,0000,0000,0000,,You're insane.
+Dialogue: 0,0:17:15.80,0:17:18.86,Main,B,0000,0000,0000,,Huh? What's with the scary look?
+Dialogue: 0,0:17:18.86,0:17:22.22,Main,B,0000,0000,0000,,I'm sure you see where I'm coming from.
+Dialogue: 0,0:17:24.87,0:17:28.58,Flashback,El,0000,0000,0000,,Your happiness lies in constant battle.
+Dialogue: 0,0:17:29.65,0:17:33.57,Main,B,0000,0000,0000,,I told you we're the same.
+Dialogue: 0,0:17:38.26,0:17:43.37,Main,B,0000,0000,0000,,I know you had fun \Nletting the hatred consume you!
+Dialogue: 0,0:17:43.37,0:17:49.34,Main,A,0000,0000,0000,,Sure, I was one step away \Nfrom ending up like you.
+Dialogue: 0,0:17:49.34,0:17:50.95,Main,A,0000,0000,0000,,But I...
+Dialogue: 0,0:17:51.98,0:17:55.59,Main,A,0000,0000,0000,,I haven't lost faith like you have!
+Dialogue: 0,0:17:58.42,0:18:00.88,Main,B,0000,0000,0000,,What are you playing at? It's too late.
+Dialogue: 0,0:18:00.88,0:18:04.23,Main,A,0000,0000,0000,,Don't think things will keep going your way!
+Dialogue: 0,0:18:04.71,0:18:05.77,Main,A,0000,0000,0000,,Now, Ygg!
+Dialogue: 0,0:18:06.12,0:18:07.69,Main,Ygg,0000,0000,0000,,Yes, my dear!
+Dialogue: 0,0:18:07.69,0:18:08.95,Main,B,0000,0000,0000,,What?!
+Dialogue: 0,0:18:10.42,0:18:13.19,Main,A,0000,0000,0000,,Break through the cage's program!
+Dialogue: 0,0:18:18.64,0:18:20.95,Main,Ygg,0000,0000,0000,,The cage is open, my dear!
+Dialogue: 0,0:18:21.28,0:18:22.41,Main,B,0000,0000,0000,,Damn it!
+Dialogue: 0,0:18:24.04,0:18:25.96,Main,A,0000,0000,0000,,Nice! Log out!
+Dialogue: 0,0:18:27.89,0:18:28.73,Main,Ygg,0000,0000,0000,,Got it!
+Dialogue: 0,0:18:31.09,0:18:32.13,Main,B,0000,0000,0000,,Tch.
+Dialogue: 0,0:18:34.79,0:18:36.73,Main,Mid,0000,0000,0000,,We can escape, Grandfather.
+Dialogue: 0,0:18:39.25,0:18:41.54,Main,A,0000,0000,0000,,Ygg! Keep them safe!
+Dialogue: 0,0:18:42.14,0:18:43.54,Main,Ygg,0000,0000,0000,,You got it!
+Dialogue: 0,0:18:45.84,0:18:48.06,Main,B,0000,0000,0000,,You're not going anywhere.
+Dialogue: 0,0:18:48.77,0:18:50.01,Main,A,0000,0000,0000,,Midori!
+Dialogue: 0,0:18:51.48,0:18:52.60,Main,Miy,0000,0000,0000,,Midori!
+Dialogue: 0,0:18:55.36,0:18:56.69,Main,A,0000,0000,0000,,Miyabe?
+Dialogue: 0,0:18:56.69,0:18:58.20,Main,B,0000,0000,0000,,Out of my way.
+Dialogue: 0,0:19:01.94,0:19:03.35,Main,Kon,0000,0000,0000,,Miyabe!
+Dialogue: 0,0:19:07.91,0:19:11.50,Main,Kon,0000,0000,0000,,Hurry up and run! Miyabe died for you!
+Dialogue: 0,0:19:14.48,0:19:15.77,Main,Ygg,0000,0000,0000,,This way!
+Dialogue: 0,0:19:15.77,0:19:16.68,Main,Mid,0000,0000,0000,,Yes!
+Dialogue: 0,0:19:25.51,0:19:26.68,Main,AJ,0000,0000,0000,,After them!
+Dialogue: 0,0:19:30.44,0:19:31.67,Main,Min,0000,0000,0000,,Not so fast.
+Dialogue: 0,0:19:35.22,0:19:38.69,Italics,B,0000,0000,0000,,"Not so fast"? \NYou took the words out of my mouth!
+Dialogue: 0,0:19:43.91,0:19:48.37,Main,Kon,0000,0000,0000,,Damn, is Beta controlling \Nall these construction androids?
+Dialogue: 0,0:19:48.37,0:19:49.26,Main,A,0000,0000,0000,,Minami!
+Dialogue: 0,0:19:50.50,0:19:57.59,Italics,B,0000,0000,0000,,Your hands are tied out there. \NNot that you have hands wight now!
+Dialogue: 0,0:19:58.13,0:20:02.56,Main,A,0000,0000,0000,,Man, we wouldn't be in this situation \Nif I could use Ogre!
+Dialogue: 0,0:20:02.56,0:20:04.89,Main,Ygg,0000,0000,0000,,Something seems off, my dear.
+Dialogue: 0,0:20:05.21,0:20:07.50,Main,Ygg,0000,0000,0000,,Miyabe's corpse is gone.
+Dialogue: 0,0:20:07.50,0:20:08.66,Main,A,0000,0000,0000,,What?!
+Dialogue: 0,0:20:09.44,0:20:11.56,Italics,Miy,0000,0000,0000,,Aw.
+Dialogue: 0,0:20:11.56,0:20:14.07,Italics,Miy,0000,0000,0000,,That sucks.
+Dialogue: 0,0:20:14.90,0:20:16.70,Italics,Miy,0000,0000,0000,,I guess you realized.
+Dialogue: 0,0:20:17.40,0:20:21.86,Main,A,0000,0000,0000,,No... You were Beta all along, Miyabe?!
+Dialogue: 0,0:20:21.86,0:20:24.28,Italics,Miy,0000,0000,0000,,Bingo!
+Dialogue: 0,0:20:27.36,0:20:33.35,Italics,B,0000,0000,0000,,I took over his body \Nbefore the whole auction began.
+Dialogue: 0,0:20:34.32,0:20:35.66,Main,Chi,0000,0000,0000,,What?!
+Dialogue: 0,0:20:35.66,0:20:40.73,Main,Ari,0000,0000,0000,,Wait... With his body, \Nhe could keep tabs on our squad
+Dialogue: 0,0:20:40.73,0:20:43.42,Main,Ari,0000,0000,0000,,{\i1}and{\i0} manipulate them!
+Dialogue: 0,0:20:45.02,0:20:49.85,Main,Kon,0000,0000,0000,,And it gave him the perfect chance \Nto bring Jinkoku-sha here from the hideout!
+Dialogue: 0,0:20:50.20,0:20:51.48,Italics,B,0000,0000,0000,,Surprised?
+Dialogue: 0,0:20:51.48,0:20:55.84,Italics,B,0000,0000,0000,,It's a shame. He was pretty useful.
+Dialogue: 0,0:20:55.84,0:21:00.65,Main,A,0000,0000,0000,,The entire time you watched us, \Nyou were laughing at us inside, weren't you?!
+Dialogue: 0,0:21:00.65,0:21:02.97,Italics,B,0000,0000,0000,,Well, let's resume, shall we?
+Dialogue: 0,0:21:04.68,0:21:06.58,Italics,B,0000,0000,0000,,Oh, what's this?
+Dialogue: 0,0:21:08.24,0:21:11.14,Main,Kon,0000,0000,0000,,Are you kidding me? This is really bad news!
+Dialogue: 0,0:21:12.02,0:21:13.41,Main,Kon,0000,0000,0000,,Get down, Minami!
+Dialogue: 0,0:21:20.67,0:21:22.30,Main,Ari,0000,0000,0000,,Bombers?
+Dialogue: 0,0:21:22.30,0:21:24.64,Main,Chi,0000,0000,0000,,No, that's not it.
+Dialogue: 0,0:21:24.64,0:21:26.34,Main,A,0000,0000,0000,,The hell are those things?
+Dialogue: 0,0:21:26.90,0:21:31.43,Main,Kon,0000,0000,0000,,The JDF's multibots, code-named Amaterasu!
+Dialogue: 0,0:21:32.20,0:21:33.69,Main,A,0000,0000,0000,,Amaterasu...
+Dialogue: 0,0:21:37.70,0:21:39.56,Italics,B,0000,0000,0000,,This party's really getting started now.
+Dialogue: 0,0:21:40.26,0:21:43.77,Italics,B,0000,0000,0000,,What will you do now, Natsume Akira?
+Dialogue: 0,0:21:48.48,0:21:50.07,Main,A,0000,0000,0000,,Beta!
+Dialogue: 0,0:23:25.91,0:23:29.42,Main,AJ,0000,0000,0000,,I've never forgotten this rage \Nburning within me.
+Dialogue: 0,0:23:29.82,0:23:33.01,Main,AJ,0000,0000,0000,,My only purpose in life has been \Nto settle my score with him.
+Dialogue: 0,0:23:33.40,0:23:37.22,Main Top,A,0000,0000,0000,,Next time, on {\i1}EX-ARM:{\i0} \N"Battle 009 - Fallen Messiah."
+Dialogue: 0,0:23:34.97,0:23:39.98,sign_33926_296_Fallen_Messiah,Next Title,0000,0000,0000,,Fallen Messiah
+Dialogue: 0,0:23:37.22,0:23:39.54,Main Top,AJ,0000,0000,0000,,I'll put an end to this myself!

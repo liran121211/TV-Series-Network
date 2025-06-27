@@ -1,0 +1,194 @@
+{
+    "1": {
+        "title": "Nepotism",
+        "released": "2010-09-23",
+        "rating": "8.2",
+        "imdb_id": "tt1691733",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S7\\The.Office.S07E01.HDTV.XviD-LOLS7E1.zip"
+    },
+    "2": {
+        "title": "Counseling",
+        "released": "2010-09-30",
+        "rating": "8.0",
+        "imdb_id": "tt1707764",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Andy's Play",
+        "released": "2010-10-07",
+        "rating": "8.1",
+        "imdb_id": "tt1707765",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Sex Ed",
+        "released": "2010-10-14",
+        "rating": "7.7",
+        "imdb_id": "tt1707766",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S7\\The.Office.US.S07E04.720p.HDTV.X264-DIMENSION_HIS7E4.zip"
+    },
+    "5": {
+        "title": "The Sting",
+        "released": "2010-10-21",
+        "rating": "7.6",
+        "imdb_id": "tt1725593",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Costume Contest",
+        "released": "2010-10-28",
+        "rating": "8.0",
+        "imdb_id": "tt1725594",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S7\\The.Office.US.S07E06.720p.HDTV.X264-DIMENSIONS7E6.zip"
+    },
+    "7": {
+        "title": "Christening",
+        "released": "2010-11-04",
+        "rating": "7.2",
+        "imdb_id": "tt1724495",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S7\\The.Office.US.S07E07.720p.HDTV.X264-DIMENSION_HIS7E7.zip"
+    },
+    "8": {
+        "title": "Viewing Party",
+        "released": "2010-11-11",
+        "rating": "7.7",
+        "imdb_id": "tt1752582",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S7\\The.Office.US.S07E08.Viewing.Party.HDTV.XviD-FQMS7E8.zip"
+    },
+    "9": {
+        "title": "WUPHF.com",
+        "released": "2010-11-18",
+        "rating": "7.5",
+        "imdb_id": "tt1752583",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S7\\The.Office.US.S07E09.720p.HDTV.X264-DIMENSIONS7E9.zip"
+    },
+    "10": {
+        "title": "China",
+        "released": "2010-12-02",
+        "rating": "8.0",
+        "imdb_id": "tt1752581",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Classy Christmas",
+        "released": "2010-12-09",
+        "rating": "8.8",
+        "imdb_id": "tt1752584",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Ultimatum",
+        "released": "2011-01-20",
+        "rating": "8.1",
+        "imdb_id": "tt1776740",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Seminar",
+        "released": "2011-01-27",
+        "rating": "7.5",
+        "imdb_id": "tt1810331",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Search",
+        "released": "2011-02-03",
+        "rating": "8.4",
+        "imdb_id": "tt1817005",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "PDA",
+        "released": "2011-02-10",
+        "rating": "8.2",
+        "imdb_id": "tt1817006",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Threat Level Midnight",
+        "released": "2011-02-17",
+        "rating": "N/A",
+        "imdb_id": "tt1817007",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Todd Packer",
+        "released": "2011-02-24",
+        "rating": "N/A",
+        "imdb_id": "tt1832204",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Garage Sale",
+        "released": "2011-03-24",
+        "rating": "9.3",
+        "imdb_id": "tt1833194",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Training Day",
+        "released": "2011-04-14",
+        "rating": "7.5",
+        "imdb_id": "tt1833195",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Michael's Last Dundies",
+        "released": "2011-04-21",
+        "rating": "8.9",
+        "imdb_id": "tt1833196",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Goodbye, Michael",
+        "released": "2011-04-28",
+        "rating": "9.8",
+        "imdb_id": "tt1833197",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Inner Circle",
+        "released": "2011-05-05",
+        "rating": "7.4",
+        "imdb_id": "tt1848618",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Dwight K. Schrute, (Acting) Manager",
+        "released": "2011-05-12",
+        "rating": "N/A",
+        "imdb_id": "tt1848619",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Search Committee",
+        "released": "2011-05-19",
+        "rating": "8.5",
+        "imdb_id": "tt1848620",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

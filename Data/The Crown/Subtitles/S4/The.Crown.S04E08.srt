@@ -1,0 +1,3424 @@
+1
+00:00:16,120 --> 00:00:17,896
+- Everybody set?
+- Ready, sir.
+
+2
+00:00:19,120 --> 00:00:21,120
+Yes. Yes, hurry up. Hurry up.
+
+3
+00:00:21,200 --> 00:00:22,240
+Operator ready.
+
+4
+00:00:22,320 --> 00:00:23,320
+Right.
+
+5
+00:00:23,720 --> 00:00:26,360
+Absolute silence, everywhere.
+
+6
+00:00:29,840 --> 00:00:30,920
+Cue disc.
+
+7
+00:00:31,000 --> 00:00:32,240
+Live recording.
+
+8
+00:00:33,200 --> 00:00:34,840
+Ready, Your Royal Highness?
+
+9
+00:00:35,880 --> 00:00:36,920
+Five,
+
+10
+00:00:37,000 --> 00:00:38,000
+four,
+
+11
+00:00:38,320 --> 00:00:39,200
+three,
+
+12
+00:00:39,280 --> 00:00:40,280
+two,
+
+13
+00:00:40,760 --> 00:00:41,760
+one,
+
+14
+00:00:41,800 --> 00:00:42,800
+and…
+
+15
+00:00:46,880 --> 00:00:47,880
+"On this…
+
+16
+00:00:49,040 --> 00:00:51,200
+the occasion of my 21st birthday…
+
+17
+00:00:52,440 --> 00:00:54,320
+I welcome the opportunity
+
+18
+00:00:54,400 --> 00:00:57,880
+to speak to all the peoples
+of the British Commonwealth and Empire…
+
+19
+00:00:58,760 --> 00:01:00,040
+wherever they live,
+
+20
+00:01:00,560 --> 00:01:02,280
+whatever race they come from,
+
+21
+00:01:02,880 --> 00:01:04,840
+and whatever language they speak.
+
+22
+00:01:07,720 --> 00:01:10,160
+As I speak to you today from Cape Town,
+
+23
+00:01:11,320 --> 00:01:15,120
+I am 6,000 miles from the country
+where I was born.
+
+24
+00:01:17,960 --> 00:01:20,960
+But I am certainly not
+6,000 miles from home.
+
+25
+00:01:23,640 --> 00:01:27,480
+That is the great privilege
+of belonging to our place
+
+26
+00:01:27,560 --> 00:01:29,400
+in the worldwide Commonwealth.
+
+27
+00:01:30,880 --> 00:01:35,240
+There are homes ready to welcome us
+in every continent of the earth.
+
+28
+00:01:36,840 --> 00:01:38,400
+<i>Before I am much elder,</i>
+
+29
+00:01:38,480 --> 00:01:40,880
+<i>I hope I shall come to know many of them.</i>
+
+30
+00:01:42,000 --> 00:01:44,640
+<i>Although there is none
+of my father's subjects,</i>
+
+31
+00:01:44,720 --> 00:01:48,160
+<i>from the eldest to the youngest,
+whom I do not wish to greet,</i>
+
+32
+00:01:49,040 --> 00:01:53,280
+<i>I am thinking especially today
+of all the young men and women</i>
+
+33
+00:01:53,360 --> 00:01:55,960
+<i>who were born
+about the same time as myself</i>
+
+34
+00:01:56,680 --> 00:01:58,320
+<i>and have grown up like me</i>
+
+35
+00:01:59,160 --> 00:02:03,120
+<i>in the terrible and glorious years
+of the Second World War.</i>
+
+36
+00:02:04,000 --> 00:02:07,600
+<i>Will you, the youth
+of the British family of nations,</i>
+
+37
+00:02:08,280 --> 00:02:11,640
+<i>let me speak on my birthday
+as your representative?</i>
+
+38
+00:02:12,680 --> 00:02:15,320
+<i>Now that we are coming to manhood
+and womanhood,</i>
+
+39
+00:02:16,200 --> 00:02:20,000
+<i>it is surely a great joy to us all
+to think that we shall be able</i>
+
+40
+00:02:20,080 --> 00:02:23,600
+<i>to take some of the burden
+off the shoulders of our elders,</i>
+
+41
+00:02:24,400 --> 00:02:29,360
+<i>who have fought and worked
+and suffered to protect our childhood.</i>
+
+42
+00:02:30,080 --> 00:02:31,080
+<i>To that generation,</i>
+
+43
+00:02:31,160 --> 00:02:33,120
+<i>I say we must not be daunted</i>
+
+44
+00:02:33,200 --> 00:02:37,040
+<i>by the anxieties and hardships
+the war has left behind</i>
+
+45
+00:02:37,120 --> 00:02:39,320
+<i>for every nation of our Commonwealth.</i>
+
+46
+00:02:40,240 --> 00:02:44,640
+<i>We know these things are the price
+we cheerfully undertook to pay</i>
+
+47
+00:02:45,240 --> 00:02:49,520
+<i>for the high honor of standing alone
+seven years ago</i>
+
+48
+00:02:50,320 --> 00:02:52,680
+<i>in defense of the liberty of the world.</i>
+
+49
+00:02:53,360 --> 00:02:57,600
+<i>If we all go forward together
+with an unwavering faith,</i>
+
+50
+00:02:57,680 --> 00:03:00,800
+<i>a high courage, and a quiet heart…"</i>
+
+51
+00:03:01,360 --> 00:03:04,200
+<i>"…we shall be able
+to make of this ancient Commonwealth,</i>
+
+52
+00:03:04,280 --> 00:03:05,960
+<i>which we all love so dearly,</i>
+
+53
+00:03:06,560 --> 00:03:08,080
+<i>an even grander thing.</i>
+
+54
+00:03:09,560 --> 00:03:12,320
+More free, more prosperous,
+
+55
+00:03:12,960 --> 00:03:13,960
+more happy,
+
+56
+00:03:14,280 --> 00:03:18,400
+<i>and a more powerful influence
+for good in the world</i>
+
+57
+00:03:18,480 --> 00:03:21,800
+<i>than it has been
+in the greatest days of our forefathers."</i>
+
+58
+00:03:21,880 --> 00:03:25,800
+<i>Please welcome Margaret Roberts.</i>
+
+59
+00:03:29,600 --> 00:03:31,360
+<i>"To accomplish that…</i>
+
+60
+00:03:31,880 --> 00:03:33,320
+<i>we must give nothing less</i>
+
+61
+00:03:33,400 --> 00:03:37,240
+<i>than what my father, King George,
+the first head of the Commonwealth,</i>
+
+62
+00:03:37,320 --> 00:03:40,000
+<i>calls 'the whole of ourselves.'"</i>
+
+63
+00:03:41,080 --> 00:03:42,080
+Good evening.
+
+64
+00:03:45,240 --> 00:03:49,800
+<i>"There is a motto which
+has been borne by many of my ancestors.</i>
+
+65
+00:03:50,880 --> 00:03:51,960
+<i>A noble motto.</i>
+
+66
+00:03:52,760 --> 00:03:53,760
+<i>'I serve.'</i>
+
+67
+00:03:55,080 --> 00:03:57,560
+<i>I should like to make that dedication now.</i>
+
+68
+00:03:58,760 --> 00:04:00,960
+<i>- It's very simple."</i>
+- And smile!
+
+69
+00:04:01,040 --> 00:04:04,440
+"I declare before you all
+that my whole life…
+
+70
+00:04:05,520 --> 00:04:07,720
+whether it be long or short…
+
+71
+00:04:08,840 --> 00:04:10,960
+shall be devoted to your service…
+
+72
+00:04:12,760 --> 00:04:15,320
+and the service
+of our great imperial family
+
+73
+00:04:16,120 --> 00:04:17,760
+to which we all belong.
+
+74
+00:04:18,720 --> 00:04:20,720
+God help me to make good my vow…
+
+75
+00:04:21,920 --> 00:04:23,280
+and God bless all of you
+
+76
+00:04:23,840 --> 00:04:25,720
+who are willing to share in it."
+
+77
+00:04:34,400 --> 00:04:36,400
+- Thank you, ma'am.
+- Thank you.
+
+78
+00:06:06,120 --> 00:06:09,120
+<i>It was the volte-face of Eurydice,</i>
+
+79
+00:06:09,200 --> 00:06:11,480
+<i>except I was Aristaeus,</i>
+
+80
+00:06:11,560 --> 00:06:14,160
+<i>driving her on towards the serpent…</i>
+
+81
+00:06:14,800 --> 00:06:17,320
+<i>Malachi, Maaalachi…</i>
+
+82
+00:06:17,920 --> 00:06:20,200
+<i>Twice, she called me by the name,</i>
+
+83
+00:06:20,280 --> 00:06:24,240
+<i>and twice she beckoned me
+with her outstretched dactyl…</i>
+
+84
+00:06:24,320 --> 00:06:27,120
+<i>I stood in darkness. She in light.</i>
+
+85
+00:06:27,200 --> 00:06:29,360
+<i>And yet here I was the diurnal,</i>
+
+86
+00:06:29,440 --> 00:06:31,280
+<i>and she the crepuscular,</i>
+
+87
+00:06:31,360 --> 00:06:33,480
+<i>if such a…</i>
+
+88
+00:06:33,560 --> 00:06:36,520
+<i>…nugatory distinction can pertain.</i>
+
+89
+00:06:38,840 --> 00:06:40,520
+<i>The aurora was breaking.</i>
+
+90
+00:06:41,000 --> 00:06:44,680
+<i>The island, sea-girt, was fast stirring.</i>
+
+91
+00:06:44,760 --> 00:06:46,000
+<i>I looked at her again.</i>
+
+92
+00:06:46,080 --> 00:06:49,400
+<i>Her dermis,
+pellucid in the lambent sunshine,</i>
+
+93
+00:06:49,480 --> 00:06:52,560
+<i>seemed as if a fish-skin pulled taut.</i>
+
+94
+00:06:52,640 --> 00:06:54,800
+<i>She gave me one last glancing look,</i>
+
+95
+00:06:55,360 --> 00:06:56,840
+<i>and then stepped off</i>
+
+96
+00:06:56,920 --> 00:07:00,000
+<i>and plunged down
+into the waxing viridescence</i>
+
+97
+00:07:00,080 --> 00:07:03,000
+<i>of the Ionian waters below…</i>
+
+98
+00:07:04,160 --> 00:07:07,720
+Mors tua, vita mea.
+
+99
+00:07:09,840 --> 00:07:11,680
+<i>The End.</i>
+
+100
+00:07:23,560 --> 00:07:26,280
+Golly! Your very own <i>War and Peace.</i>
+
+101
+00:07:26,360 --> 00:07:27,840
+<i>Ulysses, </i>please.
+
+102
+00:07:29,160 --> 00:07:30,880
+Uh…
+
+103
+00:07:31,440 --> 00:07:35,640
+I shall… set aside a year of my life.
+
+104
+00:07:35,720 --> 00:07:37,360
+- What?
+- Just kidding.
+
+105
+00:07:37,440 --> 00:07:39,360
+I'll have it read by the end of next week.
+
+106
+00:07:39,440 --> 00:07:41,920
+- You're very kind.
+- And, Michael, bravo!
+
+107
+00:07:42,000 --> 00:07:44,520
+Ah-ah!
+No congratulations till you've read it.
+
+108
+00:07:44,600 --> 00:07:46,400
+You deserve congratulations
+
+109
+00:07:46,480 --> 00:07:49,320
+for being able to carry it up the stairs.
+Kidding again.
+
+110
+00:07:49,400 --> 00:07:51,560
+Oh.
+
+111
+00:07:51,640 --> 00:07:52,640
+Well…
+
+112
+00:07:53,680 --> 00:07:54,680
+I look forward…
+
+113
+00:07:55,920 --> 00:07:57,520
+to hearing from you.
+
+114
+00:08:02,440 --> 00:08:03,560
+Uh, taxi!
+
+115
+00:08:09,800 --> 00:08:12,440
+- Buckingham Palace, please.
+- Right you are, sir.
+
+116
+00:08:30,560 --> 00:08:32,400
+Good work. Leave it on my desk.
+
+117
+00:08:32,920 --> 00:08:34,560
+- Morning, James.
+- Morning, sir.
+
+118
+00:08:36,040 --> 00:08:37,480
+- Morning, Michael.
+- Sarah.
+
+119
+00:08:37,560 --> 00:08:38,560
+Sorry to ambush you,
+
+120
+00:08:38,640 --> 00:08:41,440
+but I've got the <i>Today </i>newspaper
+asking for confirmation
+
+121
+00:08:41,520 --> 00:08:45,160
+of an apparently open secret
+in Commonwealth government circles,
+
+122
+00:08:45,240 --> 00:08:48,280
+that the Queen is deeply frustrated
+by Thatcher's refusal
+
+123
+00:08:48,360 --> 00:08:51,840
+to back sanctions against
+the apartheid regime in South Africa.
+
+124
+00:08:52,680 --> 00:08:56,920
+A frustration which threatens to strain
+her relationship with the prime minister,
+
+125
+00:08:57,000 --> 00:08:59,120
+who the Queen holds
+personally responsible,
+
+126
+00:08:59,200 --> 00:09:02,840
+and they'd like you,
+as palace press secretary, to comment.
+
+127
+00:09:03,320 --> 00:09:06,840
+You should know better than to come to me
+with nonsense like that, Sarah.
+
+128
+00:09:07,360 --> 00:09:09,360
+In the 33 years she's been on the throne,
+
+129
+00:09:09,440 --> 00:09:13,280
+the Queen has never once expressed
+a point of view about her prime ministers,
+
+130
+00:09:13,360 --> 00:09:14,440
+positive or negative,
+
+131
+00:09:14,520 --> 00:09:15,560
+and never will.
+
+132
+00:09:15,640 --> 00:09:17,000
+Political impartiality
+
+133
+00:09:17,080 --> 00:09:20,240
+and support of her prime minister
+is an article of faith to her.
+
+134
+00:09:21,760 --> 00:09:23,480
+And we all know how the Queen is…
+
+135
+00:09:24,680 --> 00:09:25,880
+about her faith.
+
+136
+00:09:25,960 --> 00:09:29,240
+…<i>the now
+all too familiar use of violence.</i>
+
+137
+00:09:29,320 --> 00:09:32,960
+<i>Tear gas, followed by rubber bullets,
+and then bird shot.</i>
+
+138
+00:09:33,560 --> 00:09:37,640
+<i>It's been nearly four decades
+since the system of racial segregation</i>,
+
+139
+00:09:37,720 --> 00:09:41,400
+<i>termed apartheid, became
+the official policy of South Africa.</i>
+
+140
+00:09:41,480 --> 00:09:45,200
+<i>The current violent oppression
+of Black protesters by government forces</i>
+
+141
+00:09:45,280 --> 00:09:48,120
+<i>is creating
+increased international outrage.</i>
+
+142
+00:09:58,560 --> 00:10:01,160
+<i>The situation is
+getting worse and worse, ma'am.</i>
+
+143
+00:10:01,240 --> 00:10:04,280
+<i>Countless instances of brutality
+by the South African police</i>
+
+144
+00:10:04,360 --> 00:10:06,160
+<i>against members of the public.</i>
+
+145
+00:10:06,240 --> 00:10:09,120
+As you know, we believe the only way
+to stop these atrocities
+
+146
+00:10:09,200 --> 00:10:13,520
+is through sustained economic pressure.
+Forty-eight of the Commonwealth countries
+
+147
+00:10:13,600 --> 00:10:16,680
+are committed to imposing
+a policy of sanctions on Pretoria
+
+148
+00:10:16,760 --> 00:10:19,160
+to try and bring down
+the apartheid regime.
+
+149
+00:10:19,640 --> 00:10:21,720
+But, as Her Majesty knows,
+
+150
+00:10:22,440 --> 00:10:26,760
+in order to implement those sanctions,
+total unanimity is required,
+
+151
+00:10:26,840 --> 00:10:28,840
+and one country remains against.
+
+152
+00:10:28,920 --> 00:10:30,040
+The United Kingdom.
+
+153
+00:10:30,680 --> 00:10:33,080
+Mrs. Thatcher remains opposed.
+
+154
+00:10:35,000 --> 00:10:38,760
+I will have an opportunity to speak
+to Mrs. Thatcher about all this in private
+
+155
+00:10:38,840 --> 00:10:42,240
+at the forthcoming Commonwealth Heads
+of Government Meeting in the Bahamas.
+
+156
+00:10:44,120 --> 00:10:45,400
+<i>The Commonwealth.</i>
+
+157
+00:10:45,480 --> 00:10:47,880
+Ridiculous waste of time.
+
+158
+00:10:48,360 --> 00:10:50,920
+Ridiculous organization.
+
+159
+00:10:51,000 --> 00:10:53,800
+Worse. Morally offensive.
+
+160
+00:10:54,400 --> 00:10:57,200
+Why we allow our Queen
+
+161
+00:10:57,280 --> 00:11:03,880
+to fraternize with countries like Uganda,
+Malawi, Nigeria, Swaziland…
+
+162
+00:11:06,640 --> 00:11:08,320
+Unstable countries.
+
+163
+00:11:09,160 --> 00:11:14,360
+Unstable despotisms
+with appalling human rights records.
+
+164
+00:11:14,440 --> 00:11:15,960
+And calling them "family"!
+
+165
+00:11:16,040 --> 00:11:17,400
+Yes!
+
+166
+00:11:17,480 --> 00:11:21,320
+Anyway, she's requested a private audience
+on board the royal yacht
+
+167
+00:11:22,040 --> 00:11:23,720
+for what the palace is calling
+
+168
+00:11:23,800 --> 00:11:26,640
+"a frank conversation
+about the way forward in South Africa."
+
+169
+00:11:26,720 --> 00:11:27,720
+Spare me!
+
+170
+00:11:28,160 --> 00:11:33,440
+I'll give her a frank conversation
+about not wasting my time.
+
+171
+00:11:34,000 --> 00:11:36,000
+Oh, excuse the eggs, boys.
+
+172
+00:11:37,800 --> 00:11:41,080
+Right. Who wants kedgeree?
+
+173
+00:11:41,840 --> 00:11:43,960
+It's not my best, I'm afraid.
+
+174
+00:11:45,320 --> 00:11:47,880
+<i>For the dinner,
+this sunshine chiffon…</i>
+
+175
+00:11:47,960 --> 00:11:48,840
+There you go.
+
+176
+00:11:48,920 --> 00:11:51,680
+<i>…to pick out the yellow
+in the flag of the Commonwealth.</i>
+
+177
+00:11:51,760 --> 00:11:52,600
+Yummy!
+
+178
+00:11:52,680 --> 00:11:57,560
+Oh, and a brooch given to you
+by King Otumfuo Opoku Ware.
+
+179
+00:11:57,640 --> 00:11:58,680
+Is that a porcupine?
+
+180
+00:11:58,760 --> 00:12:01,960
+A symbol of courage and strength
+in Ashanti culture.
+
+181
+00:12:02,040 --> 00:12:04,480
+Oh, we might need some of that.
+
+182
+00:12:06,600 --> 00:12:08,520
+- What's all this?
+- CHOGM.
+
+183
+00:12:08,600 --> 00:12:11,200
+- Oh, of course.
+- To what do I owe the honor?
+
+184
+00:12:14,680 --> 00:12:17,960
+I came to tell you that I've decided
+to ask Edward to be my best man.
+
+185
+00:12:18,440 --> 00:12:19,440
+Not Charles?
+
+186
+00:12:20,080 --> 00:12:21,000
+No.
+
+187
+00:12:21,080 --> 00:12:23,560
+- Oh, that will raise some eyebrows.
+- Good!
+
+188
+00:12:23,640 --> 00:12:26,680
+Let him see what it feels like
+to be sidelined in a…
+
+189
+00:12:27,320 --> 00:12:29,560
+slimmed-down role,
+
+190
+00:12:29,640 --> 00:12:33,160
+since I gather that's what he now thinks
+the future of the monarchy should be.
+
+191
+00:12:33,640 --> 00:12:37,880
+You, him, and his own precious bloodline.
+To hell with the rest of us.
+
+192
+00:12:39,160 --> 00:12:41,120
+Insecure, jealous fool.
+
+193
+00:12:41,200 --> 00:12:42,480
+What's he jealous of?
+
+194
+00:12:43,400 --> 00:12:45,160
+Me! Always has been.
+
+195
+00:12:45,240 --> 00:12:46,240
+Oh, Andrew.
+
+196
+00:12:47,000 --> 00:12:48,000
+Of me and you,
+
+197
+00:12:48,640 --> 00:12:49,640
+of our…
+
+198
+00:12:51,200 --> 00:12:52,480
+of our closeness.
+
+199
+00:12:54,160 --> 00:12:56,280
+The fact that I've fought in a real war,
+
+200
+00:12:56,920 --> 00:12:57,960
+won real medals.
+
+201
+00:12:59,080 --> 00:13:01,600
+Or the fact that I'm happier in love,
+more popular.
+
+202
+00:13:02,080 --> 00:13:03,080
+And…
+
+203
+00:13:03,920 --> 00:13:07,880
+like other second sons I could mention,
+I'd so obviously be better at it than him.
+
+204
+00:13:07,960 --> 00:13:08,960
+At what?
+
+205
+00:13:11,000 --> 00:13:12,000
+Being the heir.
+
+206
+00:13:13,280 --> 00:13:15,000
+I just want to see you all happy.
+
+207
+00:13:15,520 --> 00:13:17,320
+There are two families I care about.
+
+208
+00:13:17,400 --> 00:13:20,200
+My own family
+and the Commonwealth family of nations.
+
+209
+00:13:20,280 --> 00:13:23,520
+Keeping them all together
+is my life's work. Now I must get on.
+
+210
+00:13:24,400 --> 00:13:25,400
+Mummy.
+
+211
+00:13:29,280 --> 00:13:31,280
+For the state breakfast,
+
+212
+00:13:31,360 --> 00:13:34,520
+a dress of the palest blue
+and gold brocade…
+
+213
+00:13:34,600 --> 00:13:35,440
+Sarah!
+
+214
+00:13:35,520 --> 00:13:37,760
+…will go very well
+with the diamond necklace given to you
+
+215
+00:13:37,840 --> 00:13:40,640
+by the people of South Africa
+on your 21st birthday.
+
+216
+00:13:40,720 --> 00:13:41,720
+Lovely.
+
+217
+00:13:42,520 --> 00:13:44,920
+I told her.
+She was fine with it. Edward it is.
+
+218
+00:13:45,000 --> 00:13:46,240
+Aren't you, now.
+
+219
+00:13:46,320 --> 00:13:47,480
+Right, let's go.
+
+220
+00:13:56,600 --> 00:13:59,920
+Your Majesty.
+I just included that sentence there.
+
+221
+00:14:00,000 --> 00:14:01,560
+I don't think that's necessary.
+
+222
+00:14:02,440 --> 00:14:04,760
+- No, I liked it before.
+- We'll change it back.
+
+223
+00:14:14,600 --> 00:14:17,080
+Your Majesty. Thank you for coming.
+
+224
+00:14:17,800 --> 00:14:20,560
+Oh, thank you.
+They're lovely. Thank you very much.
+
+225
+00:14:30,360 --> 00:14:32,760
+Those of you who know me
+
+226
+00:14:32,840 --> 00:14:36,240
+will be aware
+that the Commonwealth of Nations
+
+227
+00:14:36,320 --> 00:14:38,200
+is a second family to me,
+
+228
+00:14:38,880 --> 00:14:40,880
+as it was to my late father,
+
+229
+00:14:40,960 --> 00:14:42,560
+King George VI.
+
+230
+00:14:43,880 --> 00:14:46,360
+There are always tensions between nations.
+
+231
+00:14:47,040 --> 00:14:49,040
+Global peace is fragile.
+
+232
+00:14:50,200 --> 00:14:56,160
+But I believe this union offers us all
+something rare and valuable.
+
+233
+00:14:57,640 --> 00:15:00,280
+The capacity to celebrate difference.
+
+234
+00:15:01,360 --> 00:15:04,880
+To value compromise over conflict.
+
+235
+00:15:06,240 --> 00:15:12,640
+And to find a way to heal divisions
+in the interests of peace and goodwill.
+
+236
+00:15:14,640 --> 00:15:15,640
+Thank you.
+
+237
+00:15:30,120 --> 00:15:31,760
+Attention!
+
+238
+00:15:43,080 --> 00:15:44,160
+Prime Minister.
+
+239
+00:15:46,840 --> 00:15:48,480
+The prime minister, Your Majesty.
+
+240
+00:15:53,400 --> 00:15:54,240
+Your Majesty.
+
+241
+00:15:54,320 --> 00:15:56,880
+It was kind of you to come.
+I won't keep you long.
+
+242
+00:15:57,640 --> 00:16:00,640
+Um, I was hoping
+we could briefly discuss South Africa.
+
+243
+00:16:00,720 --> 00:16:01,720
+Ma'am.
+
+244
+00:16:02,360 --> 00:16:04,640
+It is my fervent hope
+that Britain will join
+
+245
+00:16:04,720 --> 00:16:07,800
+the other countries of the Commonwealth
+and impose sanctions
+
+246
+00:16:07,880 --> 00:16:10,720
+on an apartheid regime
+that has no place in the modern world.
+
+247
+00:16:10,800 --> 00:16:12,840
+Let us be quite clear about this.
+
+248
+00:16:13,600 --> 00:16:17,120
+Nothing useful
+can be achieved by sanctions.
+
+249
+00:16:17,600 --> 00:16:21,400
+Really? It was my understanding they would
+devastate the South African government.
+
+250
+00:16:21,480 --> 00:16:23,520
+They would devastate us too.
+
+251
+00:16:23,600 --> 00:16:27,600
+Trade between our two countries
+is worth three billion pounds a year.
+
+252
+00:16:27,680 --> 00:16:30,000
+Might we look at it
+from the South African point of view?
+
+253
+00:16:30,080 --> 00:16:31,760
+I am, ma'am.
+
+254
+00:16:31,840 --> 00:16:35,560
+South Africa is already
+a disinvestment economy.
+
+255
+00:16:35,640 --> 00:16:39,320
+But Black South Africans want sanctions,
+so shouldn't we listen to them?
+
+256
+00:16:39,400 --> 00:16:42,720
+Black South Africans
+don't want to inherit a wasteland.
+
+257
+00:16:42,800 --> 00:16:45,040
+They will if they feel
+it is <i>their </i>wasteland.
+
+258
+00:16:45,120 --> 00:16:47,640
+President Kaunda of Zambia
+would confirm as much.
+
+259
+00:16:47,720 --> 00:16:50,760
+It is not the business
+of a British prime minister
+
+260
+00:16:50,840 --> 00:16:53,240
+to consult with unelected dictators.
+
+261
+00:16:53,320 --> 00:16:56,880
+But it is a sovereign's duty
+when they are part of the Commonwealth.
+
+262
+00:16:58,400 --> 00:16:59,400
+Yes.
+
+263
+00:17:00,040 --> 00:17:01,440
+The Commonwealth.
+
+264
+00:17:02,560 --> 00:17:04,000
+Yes, the Commonwealth.
+
+265
+00:17:06,280 --> 00:17:09,880
+I recognize that for your family,
+
+266
+00:17:09,960 --> 00:17:11,960
+the transition of this nation
+
+267
+00:17:12,040 --> 00:17:15,960
+from empire to comparative supplicancy
+on the world stage
+
+268
+00:17:16,040 --> 00:17:19,400
+must have come as a greater shock
+than to the rest of us.
+
+269
+00:17:19,480 --> 00:17:25,560
+But I would argue that the Commonwealth
+is not the way to fill that gap.
+
+270
+00:17:25,640 --> 00:17:28,720
+There <i>are </i>ways
+of Britain being great again,
+
+271
+00:17:28,800 --> 00:17:31,800
+and that is through a revitalized economy,
+
+272
+00:17:31,880 --> 00:17:36,640
+not through association
+with unreliable tribal leaders
+
+273
+00:17:36,720 --> 00:17:38,240
+in eccentric costumes.
+
+274
+00:17:38,320 --> 00:17:40,240
+But isn't that all I am, Prime Minister?
+
+275
+00:17:40,800 --> 00:17:43,280
+A tribal leader in eccentric costume?
+
+276
+00:17:43,360 --> 00:17:44,680
+Certainly not.
+
+277
+00:17:45,560 --> 00:17:48,960
+You're head of an evolved
+constitutional monarchy
+
+278
+00:17:49,040 --> 00:17:51,040
+that stretches back
+to William the Conqueror.
+
+279
+00:17:51,120 --> 00:17:53,880
+It's not comparing like with like.
+
+280
+00:17:53,960 --> 00:17:55,840
+Ah, now that's where we differ.
+
+281
+00:17:55,920 --> 00:17:58,440
+You see,
+I consider myself to be exactly like them.
+
+282
+00:17:58,920 --> 00:18:01,000
+To me, Ghana, Zambia, Malawi
+
+283
+00:18:01,080 --> 00:18:03,760
+are all great sovereign nations
+with great histories.
+
+284
+00:18:04,800 --> 00:18:07,080
+I am aware
+you probably don't share that view.
+
+285
+00:18:07,600 --> 00:18:11,280
+To you, the Commonwealth
+is something of a distraction,
+
+286
+00:18:11,360 --> 00:18:12,440
+a waste of time.
+
+287
+00:18:13,440 --> 00:18:15,840
+But in many ways,
+I have given my life to it.
+
+288
+00:18:17,040 --> 00:18:19,560
+It was the pledge I made 40 years ago.
+
+289
+00:18:19,640 --> 00:18:20,680
+On the wireless?
+
+290
+00:18:20,760 --> 00:18:23,720
+"To our great imperial family…"
+
+291
+00:18:23,800 --> 00:18:25,480
+I remember listening to it
+
+292
+00:18:25,560 --> 00:18:27,560
+as a student at Oxford.
+
+293
+00:18:28,160 --> 00:18:32,000
+But we cannot let the values of the past
+
+294
+00:18:32,080 --> 00:18:35,560
+distract us
+from the realities of the present,
+
+295
+00:18:35,640 --> 00:18:40,080
+particularly where Britain's
+economic interests are concerned.
+
+296
+00:18:40,160 --> 00:18:43,920
+Forty-eight countries of the Commonwealth
+are now preparing a statement
+
+297
+00:18:44,000 --> 00:18:47,520
+condemning the South African regime
+and recommending tougher sanctions.
+
+298
+00:18:47,600 --> 00:18:48,600
+What they…
+
+299
+00:18:49,880 --> 00:18:53,400
+What<i> I </i>would like you to do
+is sign that statement.
+
+300
+00:18:54,960 --> 00:18:56,760
+If I didn't know better,
+
+301
+00:18:57,720 --> 00:19:00,960
+that sounded very much like a directive.
+
+302
+00:19:03,160 --> 00:19:04,760
+Think of it as a question.
+
+303
+00:19:08,440 --> 00:19:12,120
+<i>The jolly atmosphere at the opening
+of the Commonwealth conference in Nassau,</i>
+
+304
+00:19:12,200 --> 00:19:14,360
+<i>nicknamed the CHOGM, fooled nobody.</i>
+
+305
+00:19:14,440 --> 00:19:16,680
+<i>Within an hour, South Africa came up</i>
+
+306
+00:19:16,760 --> 00:19:20,000
+<i>with the Indian prime minister
+making his position crystal clear.</i>
+
+307
+00:19:20,720 --> 00:19:21,720
+How was it?
+
+308
+00:19:21,800 --> 00:19:25,480
+My meeting with the Queen?
+It was a little testy.
+
+309
+00:19:26,280 --> 00:19:29,160
+Although I must say, I do like the boat.
+
+310
+00:19:29,240 --> 00:19:30,240
+Yacht.
+
+311
+00:19:30,760 --> 00:19:32,160
+<i>It isn't a yacht.</i>
+
+312
+00:19:32,240 --> 00:19:33,960
+It's a great big ship.
+
+313
+00:19:34,040 --> 00:19:37,640
+And when the sovereign sails in it,
+historically it's called a yacht.
+
+314
+00:19:37,720 --> 00:19:39,720
+Oh, don't be a know-all. It's unbecoming.
+
+315
+00:19:41,960 --> 00:19:43,440
+Why was it frosty?
+
+316
+00:19:43,520 --> 00:19:45,720
+I didn't say "frosty." I said "testy."
+
+317
+00:19:45,800 --> 00:19:49,280
+Although I wish it had been frosty.
+It's far too hot here.
+
+318
+00:19:50,160 --> 00:19:54,920
+Because my fellow heads of government
+are now coming up with a statement
+
+319
+00:19:55,000 --> 00:19:58,240
+condemning the South African government
+they want me to sign.
+
+320
+00:19:58,320 --> 00:20:01,200
+I've told them I won't accept anything
+with the word "sanction,"
+
+321
+00:20:01,280 --> 00:20:03,720
+and… they've started...
+
+322
+00:20:03,800 --> 00:20:05,640
+Getting their knickers in a twist?
+
+323
+00:20:07,000 --> 00:20:10,280
+Insisting they won't accept anything less.
+
+324
+00:20:11,120 --> 00:20:16,280
+So now we need to come up with a word
+that… works for everyone.
+
+325
+00:20:16,840 --> 00:20:18,640
+Well, good luck with that.
+
+326
+00:20:18,720 --> 00:20:20,080
+Thank you, DT.
+
+327
+00:20:30,680 --> 00:20:32,840
+No, no, no, no.
+
+328
+00:20:40,480 --> 00:20:43,040
+She rejected any mention of "proposals."
+
+329
+00:20:46,240 --> 00:20:48,480
+I'm determined
+to win this battle, Sonny.
+
+330
+00:20:49,160 --> 00:20:51,960
+I don't often get into a fight,
+but when I do, I want to win.
+
+331
+00:20:52,040 --> 00:20:53,200
+You will, ma'am.
+
+332
+00:20:53,720 --> 00:20:55,360
+Remember, you are not alone.
+
+333
+00:20:55,440 --> 00:20:56,960
+It is 48 against one.
+
+334
+00:20:57,560 --> 00:20:59,680
+We are going back with another word.
+
+335
+00:21:01,560 --> 00:21:02,680
+"Measures…"
+
+336
+00:21:03,600 --> 00:21:05,920
+No, no, no.
+
+337
+00:21:06,920 --> 00:21:07,920
+No.
+
+338
+00:21:10,880 --> 00:21:11,880
+I'm sorry.
+
+339
+00:21:14,160 --> 00:21:15,160
+A no to "measures."
+
+340
+00:21:15,200 --> 00:21:19,280
+Yes, so we are going back with "actions."
+
+341
+00:21:19,360 --> 00:21:20,640
+And should that fail?
+
+342
+00:21:20,720 --> 00:21:22,200
+We still have "controls."
+
+343
+00:21:22,280 --> 00:21:25,000
+Yes, I'm beginning to see
+this is all about control.
+
+344
+00:21:27,960 --> 00:21:29,200
+No. No.
+
+345
+00:21:32,480 --> 00:21:34,480
+No. No, no, no.
+
+346
+00:21:46,640 --> 00:21:47,920
+No.
+
+347
+00:21:50,320 --> 00:21:51,440
+Thank you.
+
+348
+00:21:51,520 --> 00:21:54,040
+They must be out of their minds.
+
+349
+00:21:54,320 --> 00:21:55,840
+No. No! No…
+
+350
+00:21:58,440 --> 00:21:59,640
+Definitely not.
+
+351
+00:22:00,560 --> 00:22:01,720
+No!
+
+352
+00:22:04,240 --> 00:22:05,240
+Ridiculous.
+
+353
+00:22:14,440 --> 00:22:17,560
+What we need here
+is not useless politicians… Sorry, Sonny.
+
+354
+00:22:17,640 --> 00:22:18,640
+…but a writer.
+
+355
+00:22:19,080 --> 00:22:20,520
+Where might we find one?
+
+356
+00:22:25,320 --> 00:22:27,160
+<i>…sanctions…</i>
+
+357
+00:22:28,160 --> 00:22:29,680
+<i>…restrictions…</i>
+
+358
+00:22:29,760 --> 00:22:31,200
+<i>…protocols…</i>
+
+359
+00:22:31,280 --> 00:22:32,280
+<i>…measures…</i>
+
+360
+00:22:33,120 --> 00:22:35,240
+<i>…proposals…</i>
+
+361
+00:22:35,320 --> 00:22:36,360
+<i>…curbs…</i>
+
+362
+00:22:36,920 --> 00:22:38,080
+<i>…gestures…</i>
+
+363
+00:22:38,160 --> 00:22:39,040
+<i>…expediences…</i>
+
+364
+00:22:39,120 --> 00:22:40,560
+<i>…signals…</i>
+
+365
+00:22:57,440 --> 00:22:58,440
+Hmm.
+
+366
+00:23:03,840 --> 00:23:06,280
+Yes, I think we can work with that.
+
+367
+00:23:09,520 --> 00:23:10,360
+"Signals"!
+
+368
+00:23:10,440 --> 00:23:12,920
+Yes, she agreed to "signals."
+
+369
+00:23:13,000 --> 00:23:15,000
+And among the signals she agreed to
+
+370
+00:23:15,080 --> 00:23:18,400
+are actually several of the sanctions
+she would never have contemplated
+
+371
+00:23:18,480 --> 00:23:19,920
+had they been called sanctions.
+
+372
+00:23:20,000 --> 00:23:22,400
+Oh, thank you, Michael.
+And congratulations.
+
+373
+00:23:24,000 --> 00:23:25,760
+- Have we won?
+- Oh yes.
+
+374
+00:23:26,320 --> 00:23:30,160
+It's a victory for the Commonwealth,
+for humanity, a victory for you.
+
+375
+00:23:30,720 --> 00:23:34,840
+When put in the ring with her Queen,
+the Iron Lady melted.
+
+376
+00:23:35,480 --> 00:23:36,480
+Oh.
+
+377
+00:23:55,960 --> 00:23:58,640
+Well played, Margaret.
+A victory for common sense.
+
+378
+00:23:58,720 --> 00:24:00,440
+Whatever are you talking about?
+
+379
+00:24:00,520 --> 00:24:02,480
+The other heads of government
+will appreciate
+
+380
+00:24:02,560 --> 00:24:04,400
+your willingness to seek a compromise.
+
+381
+00:24:06,720 --> 00:24:11,200
+There's a reason the top job
+has always eluded you, Geoffrey.
+
+382
+00:24:12,160 --> 00:24:15,120
+The absence of the killer instinct.
+
+383
+00:24:16,680 --> 00:24:21,680
+…that our family is once more
+united around a common consensus.
+
+384
+00:24:22,640 --> 00:24:26,080
+But, ladies and gentlemen,
+first, Prime Minister Margaret Thatcher.
+
+385
+00:24:27,360 --> 00:24:28,800
+- Prime Minister.
+- Yes?
+
+386
+00:24:28,880 --> 00:24:31,120
+You have been forced
+to make significant concessions.
+
+387
+00:24:31,200 --> 00:24:33,480
+Not that I noticed.
+
+388
+00:24:33,560 --> 00:24:37,080
+You signed a document
+prepared by 48 countries
+
+389
+00:24:37,160 --> 00:24:38,840
+who were in conflict with you.
+
+390
+00:24:38,920 --> 00:24:40,200
+I did.
+
+391
+00:24:40,280 --> 00:24:42,240
+But the question is,
+
+392
+00:24:42,320 --> 00:24:46,200
+did one person move to the 48,
+
+393
+00:24:46,280 --> 00:24:49,440
+or did 48 move to one?
+
+394
+00:24:50,680 --> 00:24:53,520
+Yes, I agreed to "signals."
+
+395
+00:24:54,040 --> 00:24:55,640
+But as you know,
+
+396
+00:24:56,280 --> 00:24:58,800
+with one simple turn,
+
+397
+00:24:58,880 --> 00:25:01,480
+a signal can soon point
+
+398
+00:25:01,560 --> 00:25:06,160
+in an entirely different direction.
+Thank you.
+
+399
+00:25:07,160 --> 00:25:09,320
+- Prime Minister!
+- Prime Minister!
+
+400
+00:25:10,320 --> 00:25:13,520
+Secretary-General,
+are you giving out a statement now?
+
+401
+00:25:13,600 --> 00:25:15,200
+Where does that leave the Commonwealth?
+
+402
+00:25:15,280 --> 00:25:17,440
+- That's what she said?
+- Yes, ma'am.
+
+403
+00:25:17,520 --> 00:25:20,280
+- Before walking off.
+- Really?
+
+404
+00:25:30,880 --> 00:25:32,600
+Ready? Here we go.
+
+405
+00:25:32,680 --> 00:25:33,960
+Please. We're ready.
+
+406
+00:25:34,720 --> 00:25:35,720
+In position.
+
+407
+00:25:36,520 --> 00:25:37,520
+Perfect.
+
+408
+00:25:39,240 --> 00:25:40,240
+Look at me.
+
+409
+00:25:40,600 --> 00:25:42,680
+Three, two, one…
+
+410
+00:25:50,960 --> 00:25:53,520
+<i>♪ …smash their brains in ♪</i>
+
+411
+00:25:54,600 --> 00:25:58,240
+<i>♪ 'Cause they ain't got no fink in 'em ♪</i>
+
+412
+00:25:59,200 --> 00:26:03,200
+<i>♪ Some a dem say dem a nigga haytah ♪</i>
+
+413
+00:26:03,280 --> 00:26:04,800
+<i>♪ An' some a dem say… ♪</i>
+
+414
+00:26:07,320 --> 00:26:11,280
+<i>♪ Some a dem say dem a Black stabbah ♪</i>
+
+415
+00:26:11,360 --> 00:26:15,560
+<i>♪ An' some a dem say dem a Paki bash ah ♪</i>
+
+416
+00:26:15,640 --> 00:26:19,280
+<i>♪ Fashist an di attack
+Noh baddah worry 'bout dat… ♪</i>
+
+417
+00:26:19,840 --> 00:26:21,360
+<i>Everyone's reading it.</i>
+
+418
+00:26:21,440 --> 00:26:24,400
+Some early reactions have come in,
+and so far, very encouraging.
+
+419
+00:26:26,520 --> 00:26:27,520
+Right.
+
+420
+00:26:27,560 --> 00:26:28,560
+But, uh…
+
+421
+00:26:29,240 --> 00:26:30,400
+no offers yet?
+
+422
+00:26:30,480 --> 00:26:31,720
+Oh, uh…
+
+423
+00:26:31,800 --> 00:26:36,680
+Not yet. But, regardless
+of whether we get this one published,
+
+424
+00:26:36,760 --> 00:26:41,400
+what is undeniable
+is that you write vividly, catchily…
+
+425
+00:26:41,480 --> 00:26:42,760
+Dare I say it?
+
+426
+00:26:43,240 --> 00:26:44,600
+…even commercially.
+
+427
+00:26:45,800 --> 00:26:49,840
+Well, it's not a dirty word, Michael.
+You can really tell a story.
+
+428
+00:26:49,920 --> 00:26:51,160
+I am wondering,
+
+429
+00:26:51,240 --> 00:26:53,480
+have you ever considered
+a political thriller?
+
+430
+00:26:53,560 --> 00:26:54,400
+What?
+
+431
+00:26:54,480 --> 00:26:57,600
+The inner workings of Whitehall,
+Westminster, the palace.
+
+432
+00:26:57,680 --> 00:27:00,120
+No one could write it better than you.
+
+433
+00:27:00,200 --> 00:27:01,200
+No.
+
+434
+00:27:01,680 --> 00:27:04,920
+No. If this magnum opus doesn't work,
+I'll call it a day.
+
+435
+00:27:05,000 --> 00:27:07,880
+You could expose it all
+under an assumed name.
+
+436
+00:27:07,960 --> 00:27:09,480
+Mmm. I could.
+
+437
+00:27:10,880 --> 00:27:15,200
+But, sadly, I'm old-fashioned
+and would never betray those confidences
+
+438
+00:27:15,280 --> 00:27:17,280
+or the people I'm proud to serve.
+
+439
+00:27:19,240 --> 00:27:20,600
+- I had to try.
+- Hmm.
+
+440
+00:27:20,680 --> 00:27:22,600
+Was that very grubby of me?
+
+441
+00:27:22,680 --> 00:27:24,160
+Mmm.
+
+442
+00:27:24,240 --> 00:27:25,640
+Not grubby.
+
+443
+00:27:28,960 --> 00:27:30,600
+Just quietly heartbreaking.
+
+444
+00:27:34,920 --> 00:27:37,440
+<i>With violence
+escalating in South Africa,</i>
+
+445
+00:27:37,520 --> 00:27:41,440
+<i>tensions between the United Kingdom
+and other nations of the Commonwealth</i>
+
+446
+00:27:41,520 --> 00:27:43,080
+<i>are at breaking point.</i>
+
+447
+00:27:43,160 --> 00:27:45,360
+<i>Mrs. Thatcher's refusal
+to act on sanctions</i>
+
+448
+00:27:45,440 --> 00:27:48,000
+<i>being blamed for the collapse
+of the Commonwealth Games…</i>
+
+449
+00:27:48,080 --> 00:27:49,080
+Good meeting?
+
+450
+00:27:49,160 --> 00:27:50,680
+Great, thank you.
+
+451
+00:27:50,760 --> 00:27:54,080
+Hate to dampen the mood,
+but the <i>Today </i>newspaper has let us know
+
+452
+00:27:54,160 --> 00:27:58,000
+they are now running a front-page story
+about the increasingly sour relations
+
+453
+00:27:58,080 --> 00:28:00,680
+between Buckingham Palace
+and Downing Street
+
+454
+00:28:00,760 --> 00:28:02,120
+following the recent crisis
+
+455
+00:28:02,200 --> 00:28:04,600
+at the Commonwealth
+Heads of Government Meeting.
+
+456
+00:28:05,880 --> 00:28:07,600
+- What is it with these people?
+<i>- </i>Tea, sir.
+
+457
+00:28:07,680 --> 00:28:12,480
+And that relations between the two women
+are in danger of completely breaking down.
+
+458
+00:28:14,640 --> 00:28:17,080
+The good news is, it's <i>Today,</i>
+
+459
+00:28:17,160 --> 00:28:19,800
+so we can expect it to have little impact.
+
+460
+00:28:20,760 --> 00:28:22,160
+The bad news is,
+
+461
+00:28:22,240 --> 00:28:25,640
+it won't be long before bigger,
+more influential newspapers
+
+462
+00:28:25,720 --> 00:28:28,960
+realize this warrants further scrutiny.
+
+463
+00:28:29,040 --> 00:28:31,120
+So I think the time might have come
+
+464
+00:28:31,200 --> 00:28:34,960
+for Your Majesty
+to make some kind of preemptive statement.
+
+465
+00:28:35,040 --> 00:28:36,560
+Uh, what kind of statement?
+
+466
+00:28:36,640 --> 00:28:38,080
+One of support,
+
+467
+00:28:38,640 --> 00:28:40,680
+even, dare I say…
+
+468
+00:28:42,080 --> 00:28:44,280
+personal affection for the prime minister.
+
+469
+00:28:45,400 --> 00:28:47,680
+About the job she's doing,
+
+470
+00:28:47,760 --> 00:28:50,720
+something that would kill the gossip
+stone-dead.
+
+471
+00:28:50,800 --> 00:28:52,760
+What if I'm not happy
+with the job she's doing?
+
+472
+00:28:54,360 --> 00:28:57,960
+What if I'd be happy for people to know
+the displeasure was actually real?
+
+473
+00:28:58,800 --> 00:29:01,800
+That I <i>am</i> personally concerned
+about her lack of compassion.
+
+474
+00:29:01,880 --> 00:29:05,040
+You know how seriously I take
+my constitutional responsibility
+
+475
+00:29:05,120 --> 00:29:08,160
+to remain silent,
+but each of us has our line in the sand.
+
+476
+00:29:09,280 --> 00:29:11,000
+If it were to become public knowledge
+
+477
+00:29:11,080 --> 00:29:14,680
+that there had been an unprecedented rift
+between sovereign and prime minister,
+
+478
+00:29:14,760 --> 00:29:16,200
+would that really be so bad?
+
+479
+00:29:23,320 --> 00:29:24,320
+Well…
+
+480
+00:29:24,640 --> 00:29:26,480
+Um…
+
+481
+00:29:27,120 --> 00:29:30,400
+If… if that really were your intention…
+
+482
+00:29:33,000 --> 00:29:37,520
+And for the record, ma'am, I must say
+I think that would be a misjudgment.
+
+483
+00:29:38,280 --> 00:29:41,040
+And risk doing
+serious and irreparable harm
+
+484
+00:29:41,120 --> 00:29:44,040
+to the relationship between
+Buckingham Palace and Downing Street.
+
+485
+00:29:50,240 --> 00:29:55,280
+…then <i>Today </i>would not be
+the newspaper I would go to.
+
+486
+00:29:56,920 --> 00:29:58,840
+I'd go somewhere with more heft,
+
+487
+00:29:59,440 --> 00:30:02,760
+somewhere that also had a clear sense
+
+488
+00:30:02,840 --> 00:30:08,720
+of the unprecedented nature of this, where
+they understood the rules of the game.
+
+489
+00:30:08,800 --> 00:30:11,640
+Can I leave that with you, Michael?
+You are the expert.
+
+490
+00:30:12,840 --> 00:30:13,960
+- Ma'am.
+- Ma'am.
+
+491
+00:30:23,320 --> 00:30:24,320
+It's reckless.
+
+492
+00:30:25,760 --> 00:30:29,560
+- It's reckless, Martin, and irresponsible.
+- I'm as surprised as you are.
+
+493
+00:30:30,320 --> 00:30:32,520
+It goes against my professional advice,
+
+494
+00:30:33,520 --> 00:30:36,320
+and I want my objection noted.
+
+495
+00:30:37,120 --> 00:30:38,120
+Noted?
+
+496
+00:30:38,600 --> 00:30:39,920
+Noted, Martin.
+
+497
+00:30:41,160 --> 00:30:42,160
+It's noted.
+
+498
+00:30:44,480 --> 00:30:45,720
+- It...
+- It's noted.
+
+499
+00:30:59,360 --> 00:31:02,160
+Simon Freeman of the <i>Sunday Times</i>
+is on the line.
+
+500
+00:31:02,240 --> 00:31:03,840
+He's rung three times.
+
+501
+00:31:05,440 --> 00:31:06,960
+Following up on rumors about
+
+502
+00:31:07,040 --> 00:31:11,360
+"a deep and irreconcilable rift
+between the Queen and Mrs. Thatcher."
+
+503
+00:31:14,520 --> 00:31:15,520
+All right.
+
+504
+00:31:16,040 --> 00:31:17,040
+Put him through.
+
+505
+00:31:28,760 --> 00:31:31,720
+- Six quid fifty-four, sir.
+- Yeah. Keep the change.
+
+506
+00:32:00,800 --> 00:32:02,200
+- Thank you.
+- Prime Minister.
+
+507
+00:32:03,160 --> 00:32:05,560
+- Evening, Prime Minister.
+- Evening, Bernard.
+
+508
+00:32:05,640 --> 00:32:07,720
+I've just had a call from the <i>Sunday Times</i>
+
+509
+00:32:07,800 --> 00:32:11,200
+letting us know that there will be
+a difficult piece in the paper tomorrow.
+
+510
+00:32:11,280 --> 00:32:12,120
+About what?
+
+511
+00:32:12,200 --> 00:32:13,640
+The fault lines that have developed
+
+512
+00:32:13,720 --> 00:32:16,160
+in the relationship
+between sovereign and prime minister.
+
+513
+00:32:16,680 --> 00:32:17,680
+What?
+
+514
+00:32:28,960 --> 00:32:31,080
+<i>Sunday Times, </i>first edition!
+
+515
+00:32:36,760 --> 00:32:39,080
+<i>Sunday Times, </i>first edition!
+
+516
+00:32:41,600 --> 00:32:42,600
+There we go.
+
+517
+00:32:44,200 --> 00:32:46,720
+<i>Sunday Times, </i>first edition!
+
+518
+00:32:50,880 --> 00:32:52,240
+- Bernard.
+- Michael.
+
+519
+00:32:55,440 --> 00:32:56,440
+Here.
+
+520
+00:33:31,480 --> 00:33:34,840
+<i>A constitutional crisis
+was on the verge of erupting this morning</i>
+
+521
+00:33:34,920 --> 00:33:39,000
+<i>as the </i>Sunday Times <i>published details
+of a sensational rift</i>
+
+522
+00:33:39,080 --> 00:33:41,520
+<i>between Buckingham Palace
+and Downing Street.</i>
+
+523
+00:33:42,160 --> 00:33:44,840
+<i>This story,
+which is likely to have a serious impact</i>
+
+524
+00:33:44,920 --> 00:33:47,520
+<i>on what had
+traditionally been cordial relations</i>
+
+525
+00:33:47,600 --> 00:33:49,960
+<i>between the sovereign
+and her prime ministers</i>,
+
+526
+00:33:50,040 --> 00:33:53,120
+<i>cites the cause of the rift
+as an alleged dispute</i>
+
+527
+00:33:53,200 --> 00:33:56,760
+<i>over Mrs. Thatcher's failure
+to commit to a policy of sanctions</i>
+
+528
+00:33:56,840 --> 00:33:59,120
+<i>against apartheid in South Africa…</i>
+
+529
+00:33:59,200 --> 00:34:00,080
+Christ!
+
+530
+00:34:00,160 --> 00:34:04,320
+<i>…a position regarding which the Queen
+has apparently expressed her disapproval,</i>
+
+531
+00:34:04,400 --> 00:34:07,520
+<i>marking a distinct break
+with the monarch's long-held practice</i>
+
+532
+00:34:07,600 --> 00:34:10,200
+<i>of never passing comment
+on political affairs.</i>
+
+533
+00:34:10,960 --> 00:34:15,240
+<i>So far, Buckingham Palace has refused
+to be drawn on the veracity of the report</i>
+
+534
+00:34:15,320 --> 00:34:17,600
+<i>with the palace spokesman
+declining to comment</i>
+
+535
+00:34:17,680 --> 00:34:19,000
+<i>on an article entitled…</i>
+
+536
+00:34:19,080 --> 00:34:22,160
+"The African Queen.
+At odds with Number 10."
+
+537
+00:34:23,160 --> 00:34:25,840
+"It has been an eventful week
+for Buckingham Palace."
+
+538
+00:34:26,360 --> 00:34:29,760
+"Queen Elizabeth II,
+a well-intentioned, apolitical figurehead,
+
+539
+00:34:30,320 --> 00:34:33,720
+has been dragged into a messy row
+over South Africa
+
+540
+00:34:34,360 --> 00:34:37,200
+because of the stubbornness
+and insensitivity…"
+
+541
+00:34:37,280 --> 00:34:38,680
+"…of her prime minister.
+
+542
+00:34:40,120 --> 00:34:43,640
+Far from being a straightforward,
+uncomplicated countrywoman…"
+
+543
+00:34:44,160 --> 00:34:46,240
+"…a late-middle-aged grandmother,
+
+544
+00:34:46,320 --> 00:34:49,080
+who is most at ease
+when talking about dogs and horses…"
+
+545
+00:34:49,760 --> 00:34:53,680
+"…she has shown that
+she is also an astute political infighter
+
+546
+00:34:53,760 --> 00:34:56,240
+who is quite prepared
+to take on Downing Street…"
+
+547
+00:34:56,320 --> 00:34:57,680
+"…when provoked."
+
+548
+00:35:02,560 --> 00:35:03,560
+Really?
+
+549
+00:35:04,240 --> 00:35:05,520
+Well, that's what it says.
+
+550
+00:35:08,320 --> 00:35:11,240
+I'm feeling something
+for the very first time.
+
+551
+00:35:12,680 --> 00:35:16,200
+- Something which I never imagined feeling.
+- What is that?
+
+552
+00:35:18,480 --> 00:35:21,360
+Impatience for our next audience.
+
+553
+00:35:22,560 --> 00:35:24,720
+- There she is!
+- Mrs. Thatcher!
+
+554
+00:35:25,400 --> 00:35:26,400
+Over here!
+
+555
+00:35:28,840 --> 00:35:31,800
+<i>Buckingham Palace
+has continued to deny accusations</i>
+
+556
+00:35:31,880 --> 00:35:33,320
+<i>published in the </i>Sunday Times
+
+557
+00:35:33,400 --> 00:35:36,080
+<i>regarding the rift
+between the Queen and Downing Street.</i>
+
+558
+00:35:37,120 --> 00:35:39,800
+<i>Government sources claim
+that the sacrosanct relationship</i>
+
+559
+00:35:39,880 --> 00:35:44,760
+<i>between sovereign and first minister
+was in danger of being blown apart.</i>
+
+560
+00:35:45,320 --> 00:35:46,720
+The prime minister's here.
+
+561
+00:37:11,600 --> 00:37:12,840
+Your Majesty.
+
+562
+00:37:12,920 --> 00:37:13,920
+Prime Minister.
+
+563
+00:37:21,040 --> 00:37:22,640
+Before coming today,
+
+564
+00:37:23,200 --> 00:37:25,640
+I checked with the cabinet secretary,
+
+565
+00:37:25,720 --> 00:37:29,320
+and it turns out that in the seven years
+I have been prime minister,
+
+566
+00:37:29,400 --> 00:37:32,680
+we have had 164 audiences,
+
+567
+00:37:32,760 --> 00:37:37,920
+always the model of cordiality,
+productivity, and mutual respect.
+
+568
+00:37:38,000 --> 00:37:40,520
+So it is perhaps not unreasonable
+
+569
+00:37:40,600 --> 00:37:43,720
+to expect an isolated hiccup.
+
+570
+00:37:43,800 --> 00:37:44,680
+What hiccup?
+
+571
+00:37:44,760 --> 00:37:46,000
+I was under the impression
+
+572
+00:37:46,080 --> 00:37:51,200
+that Her Majesty <i>never </i>expressed
+her political views in public.
+
+573
+00:37:52,680 --> 00:37:53,520
+I don't.
+
+574
+00:37:53,600 --> 00:37:56,320
+That there was
+an unbreakable code of silence
+
+575
+00:37:56,400 --> 00:37:58,320
+between sovereign and first minister.
+
+576
+00:37:58,400 --> 00:38:00,240
+If you're referring to the <i>Sunday Times,</i>
+
+577
+00:38:00,320 --> 00:38:03,400
+I've always advised my prime ministers
+against reading the newspapers.
+
+578
+00:38:03,480 --> 00:38:04,720
+I <i>don't, </i>ma'am.
+
+579
+00:38:04,800 --> 00:38:06,720
+They misunderstand, misquote,
+
+580
+00:38:06,800 --> 00:38:09,280
+and misrepresent.
+Then everybody gets into a fluster.
+
+581
+00:38:09,360 --> 00:38:11,360
+But my press secretary does,
+
+582
+00:38:11,880 --> 00:38:14,720
+and he has working relationships
+with all of the editors,
+
+583
+00:38:14,800 --> 00:38:19,240
+and the editor in this case assured him
+that the sources were unimpeachable.
+
+584
+00:38:19,880 --> 00:38:21,200
+Close to the Queen.
+
+585
+00:38:21,280 --> 00:38:23,600
+Unprecedentedly close.
+
+586
+00:38:28,120 --> 00:38:30,920
+Well, I'm sure a clarification
+will soon be forthcoming.
+
+587
+00:38:32,280 --> 00:38:35,280
+In the meantime, should we make a start
+on the business of the week?
+
+588
+00:38:35,360 --> 00:38:37,000
+Only I am mindful of the time.
+
+589
+00:38:38,560 --> 00:38:40,720
+This <i>is </i>the business, ma'am.
+
+590
+00:38:41,640 --> 00:38:43,520
+The <i>only </i>business.
+
+591
+00:38:44,200 --> 00:38:47,440
+I think we have enough respect
+for one another personally
+
+592
+00:38:47,520 --> 00:38:51,080
+to ask ourselves
+some of the bigger questions,
+
+593
+00:38:51,600 --> 00:38:53,440
+woman to woman.
+
+594
+00:38:53,520 --> 00:38:55,760
+We are the same age, after all.
+
+595
+00:38:56,280 --> 00:38:57,160
+Really?
+
+596
+00:38:57,240 --> 00:38:59,000
+Just six months between us.
+
+597
+00:38:59,080 --> 00:39:01,040
+Oh? And who is the senior?
+
+598
+00:39:02,760 --> 00:39:04,840
+I am… ma'am.
+
+599
+00:39:11,160 --> 00:39:12,480
+"Uncaring,
+
+600
+00:39:13,240 --> 00:39:16,600
+confrontational, and socially divisive."
+
+601
+00:39:16,680 --> 00:39:20,200
+That's how these sources
+so close to the Queen describe me.
+
+602
+00:39:20,280 --> 00:39:22,760
+- Prime Minister...
+- That I lack compassion.
+
+603
+00:39:22,840 --> 00:39:26,920
+And that my government
+has done irretrievable damage
+
+604
+00:39:27,000 --> 00:39:29,560
+to the country's social fabric.
+
+605
+00:39:35,960 --> 00:39:40,560
+My responsibility,
+for the time I have in office,
+
+606
+00:39:40,640 --> 00:39:44,160
+is to put sentimentality to one side
+
+607
+00:39:44,240 --> 00:39:46,960
+and look after this country's interests
+
+608
+00:39:47,040 --> 00:39:50,240
+with the perspective
+of a cold balance sheet.
+
+609
+00:39:50,320 --> 00:39:53,520
+And while I greatly admire
+your sense of fairness
+
+610
+00:39:53,600 --> 00:39:56,200
+and compassion
+for those less fortunate than us…
+
+611
+00:39:56,280 --> 00:39:57,480
+Do you? Really?
+
+612
+00:39:57,560 --> 00:39:59,800
+…let us not forget
+
+613
+00:40:00,560 --> 00:40:02,360
+that of the two of us,
+
+614
+00:40:02,440 --> 00:40:08,520
+<i>I</i> am the one from a small street
+in an irrelevant town
+
+615
+00:40:08,600 --> 00:40:11,360
+with a father
+who could not bequeath me a title
+
+616
+00:40:11,960 --> 00:40:14,600
+or a Commonwealth, but only grit,
+
+617
+00:40:14,680 --> 00:40:17,360
+good sense, and determination.
+
+618
+00:40:17,440 --> 00:40:22,280
+And I don't want people's pity
+or charity or compassion.
+
+619
+00:40:22,360 --> 00:40:24,240
+Nothing would insult me more.
+
+620
+00:40:25,480 --> 00:40:26,800
+My goal…
+
+621
+00:40:27,360 --> 00:40:33,320
+is to change this country
+from being dependent to self-reliant,
+
+622
+00:40:33,400 --> 00:40:36,000
+and I think in that, I am succeeding.
+
+623
+00:40:36,080 --> 00:40:38,680
+I have had to learn
+many difficult lessons as sovereign...
+
+624
+00:40:38,760 --> 00:40:41,920
+Britons are learning
+to look after number one,
+
+625
+00:40:42,000 --> 00:40:43,160
+to get ahead,
+
+626
+00:40:43,240 --> 00:40:44,800
+and only then,
+
+627
+00:40:45,440 --> 00:40:47,920
+if they choose,
+
+628
+00:40:48,000 --> 00:40:49,640
+to look after their neighbor.
+
+629
+00:40:50,360 --> 00:40:51,560
+Of those...
+
+630
+00:40:51,640 --> 00:40:54,440
+No one would remember the Good Samaritan
+
+631
+00:40:54,520 --> 00:40:58,360
+if he only had good intentions.
+
+632
+00:40:58,440 --> 00:40:59,440
+You see,
+
+633
+00:41:00,200 --> 00:41:03,200
+he had money as well.
+
+634
+00:41:03,280 --> 00:41:04,480
+…perhaps the hardest
+
+635
+00:41:05,200 --> 00:41:07,880
+is that I am obliged
+to support my prime ministers
+
+636
+00:41:07,960 --> 00:41:09,560
+on any position they take,
+
+637
+00:41:09,640 --> 00:41:13,520
+even yours,
+regarding sanctions against South Africa.
+
+638
+00:41:16,880 --> 00:41:18,040
+My question is,
+
+639
+00:41:18,120 --> 00:41:21,800
+given the lack of impact it has
+on your day-to-day political fortunes,
+
+640
+00:41:21,880 --> 00:41:24,000
+yet how important it is to me…
+
+641
+00:41:25,200 --> 00:41:27,720
+…could you not have
+supported <i>me</i> just once?
+
+642
+00:41:28,640 --> 00:41:30,480
+My fellow Commonwealth leaders,
+
+643
+00:41:30,560 --> 00:41:32,840
+many of whom I consider to be friends,
+
+644
+00:41:33,800 --> 00:41:38,280
+now feel that I have betrayed them
+on an issue most important to them.
+
+645
+00:41:38,360 --> 00:41:41,480
+Well, they need only
+read the <i>Sunday Times.</i>
+
+646
+00:41:42,160 --> 00:41:45,480
+It will give them no doubt
+as to your position.
+
+647
+00:41:53,640 --> 00:41:54,960
+Oh look, our time is up.
+
+648
+00:41:55,040 --> 00:41:56,680
+How it flies.
+
+649
+00:41:59,760 --> 00:42:02,880
+You must be very much
+looking forward to the wedding tomorrow
+
+650
+00:42:02,960 --> 00:42:05,240
+of Prince Andrew and Sarah Ferguson.
+
+651
+00:42:05,320 --> 00:42:06,640
+Yes, we are.
+
+652
+00:42:07,440 --> 00:42:09,400
+They seem like a good match.
+
+653
+00:42:09,480 --> 00:42:10,480
+Yes, we think so.
+
+654
+00:42:10,560 --> 00:42:15,480
+My own son, Mark, recently announced
+that he would be getting married.
+
+655
+00:42:15,560 --> 00:42:17,160
+Your favorite? The explorer?
+
+656
+00:42:18,040 --> 00:42:19,720
+Not an explorer, ma'am.
+
+657
+00:42:19,800 --> 00:42:21,440
+That was just the once.
+
+658
+00:42:21,520 --> 00:42:23,080
+He's a businessman now.
+
+659
+00:42:23,160 --> 00:42:24,680
+In the Middle East, mostly.
+
+660
+00:42:25,680 --> 00:42:26,960
+And South Africa.
+
+661
+00:42:29,160 --> 00:42:30,160
+Of course.
+
+662
+00:42:31,840 --> 00:42:32,880
+Your Majesty.
+
+663
+00:42:45,080 --> 00:42:47,880
+<i>Listen to me carefully.
+There is no story here.</i>
+
+664
+00:42:47,960 --> 00:42:49,920
+There's not a shred of truth
+to these rumors.
+
+665
+00:42:50,000 --> 00:42:52,360
+The Queen continues
+to have an extremely cordial
+
+666
+00:42:52,440 --> 00:42:55,040
+and productive working relationship
+with the prime minister.
+
+667
+00:42:55,120 --> 00:42:56,400
+<i>The </i>Sunday Times <i>maintains</i>
+
+668
+00:42:56,440 --> 00:42:59,440
+<i>that the story came from
+a highly placed source within the palace.</i>
+
+669
+00:42:59,520 --> 00:43:00,960
+<i>That's the line we're running with.</i>
+
+670
+00:43:01,040 --> 00:43:03,040
+We will deny it,
+and you will look like fools.
+
+671
+00:43:03,120 --> 00:43:04,640
+<i>Spare me the indignation.</i>
+
+672
+00:43:04,720 --> 00:43:07,920
+<i>I understand you have to say it,
+but we both know that it's true,</i>
+
+673
+00:43:08,000 --> 00:43:10,760
+<i>and your continual denial
+is making you lot look like fools.</i>
+
+674
+00:43:15,040 --> 00:43:17,520
+Hello?
+Can I take your details?
+
+675
+00:43:20,320 --> 00:43:24,120
+What's all this? Don't tell me
+the groom's having last-minute doubts.
+
+676
+00:43:24,200 --> 00:43:28,480
+No. Andrew's asked us all to come together
+because he wants someone to explain why...
+
+677
+00:43:28,560 --> 00:43:30,640
+What in God's name
+is going on with our mother?
+
+678
+00:43:32,160 --> 00:43:35,080
+The wedding of the Duke of York
+should be a landmark event,
+
+679
+00:43:35,160 --> 00:43:36,680
+at home and abroad.
+
+680
+00:43:36,760 --> 00:43:37,760
+Instead,
+
+681
+00:43:38,280 --> 00:43:41,920
+thanks to the Queen's
+inexplicable lapse of judgment,
+
+682
+00:43:42,000 --> 00:43:45,720
+the newspapers are full
+not of Sarah and me,
+
+683
+00:43:45,800 --> 00:43:48,400
+but of Mummy's rift
+with the prime minister!
+
+684
+00:43:50,320 --> 00:43:52,480
+Ah, yes. The <i>Sunday Times.</i>
+
+685
+00:43:52,560 --> 00:43:55,600
+- She has made a godawful mess of it.
+- What was she thinking?
+
+686
+00:43:55,680 --> 00:43:58,840
+She did what she's spent her life
+telling me I cannot do.
+
+687
+00:43:59,360 --> 00:44:01,760
+She opened her mouth
+and expressed an opinion.
+
+688
+00:44:02,960 --> 00:44:05,320
+And is being slaughtered for it.
+
+689
+00:44:06,000 --> 00:44:08,120
+Bloody thoughtless of her if you ask me.
+
+690
+00:44:08,200 --> 00:44:11,080
+You can hardly blame the newspapers
+for wanting to write about something
+
+691
+00:44:11,160 --> 00:44:14,480
+other than the wedding of a fringe member
+of the family who'll never be king.
+
+692
+00:44:15,000 --> 00:44:16,000
+Ouch!
+
+693
+00:44:16,560 --> 00:44:17,960
+Well, it's true, isn't it?
+
+694
+00:44:19,160 --> 00:44:20,320
+Fourth in line now,
+
+695
+00:44:20,400 --> 00:44:23,720
+and by the time William's had children,
+and his children have had children…
+
+696
+00:44:25,480 --> 00:44:26,480
+Fringe.
+
+697
+00:44:29,800 --> 00:44:30,800
+Shall we?
+
+698
+00:44:38,240 --> 00:44:39,640
+Did he really just say that?
+
+699
+00:44:40,760 --> 00:44:41,840
+On my wedding day?
+
+700
+00:44:42,760 --> 00:44:44,480
+That was impressively cunty.
+
+701
+00:44:55,240 --> 00:44:57,480
+<i>It would be hard to imagine
+there'd be anything</i>
+
+702
+00:44:57,560 --> 00:45:01,040
+<i>that could knock a royal wedding
+into second place on the news.</i>
+
+703
+00:45:01,800 --> 00:45:03,520
+<i>But the continuing escalation</i>
+
+704
+00:45:03,600 --> 00:45:06,000
+<i>of the row
+between the Queen and Mrs. Thatcher</i>
+
+705
+00:45:06,080 --> 00:45:08,280
+<i>threatens to overshadow the nuptials.</i>
+
+706
+00:45:08,840 --> 00:45:11,640
+<i>The Queen has made
+a very serious error of judgment,</i>
+
+707
+00:45:12,280 --> 00:45:14,880
+<i>and this </i>Sunday Times <i>article
+has lit a touch paper</i>
+
+708
+00:45:14,960 --> 00:45:18,440
+<i>to what could very quickly become
+a major constitutional crisis.</i>
+
+709
+00:45:19,440 --> 00:45:22,680
+<i>What the palace was hoping
+to achieve by this is hard to say,</i>
+
+710
+00:45:23,360 --> 00:45:26,240
+<i>but the fact is,
+they've stirred up a hornet's nest,</i>
+
+711
+00:45:26,320 --> 00:45:31,320
+<i>and so far seem to lack the wit
+to avoid getting stung. This story…</i>
+
+712
+00:45:31,400 --> 00:45:32,960
+If I might interrupt, ma'am?
+
+713
+00:45:35,400 --> 00:45:38,360
+One unfortunate consequence
+of our denial of the story
+
+714
+00:45:38,440 --> 00:45:43,080
+is that the editor of the <i>Sunday Times</i>
+has now come out all guns blazing<i>,</i>
+
+715
+00:45:43,160 --> 00:45:45,400
+and whilst we could continue to deny it,
+
+716
+00:45:46,360 --> 00:45:49,280
+my own view is
+that it's no longer to our advantage.
+
+717
+00:45:49,800 --> 00:45:53,480
+And I think we're now
+going to have to give them something.
+
+718
+00:45:54,200 --> 00:45:55,080
+What?
+
+719
+00:45:55,160 --> 00:45:56,160
+A culprit.
+
+720
+00:45:57,640 --> 00:46:01,600
+To deflect blame from you
+and to put these flames out ASAP.
+
+721
+00:46:03,200 --> 00:46:04,640
+We need to let them have a name.
+
+722
+00:46:16,280 --> 00:46:17,280
+Martin!
+
+723
+00:46:17,600 --> 00:46:18,600
+Michael.
+
+724
+00:46:20,880 --> 00:46:21,880
+Uh…
+
+725
+00:46:22,240 --> 00:46:25,120
+This… escalating situation
+
+726
+00:46:25,200 --> 00:46:27,520
+between Buckingham Palace
+and Downing Street…
+
+727
+00:46:28,040 --> 00:46:30,240
+- You can't say I didn't warn you.
+- Eh.
+
+728
+00:46:30,960 --> 00:46:34,200
+I think you know how seriously
+the Queen takes her responsibility
+
+729
+00:46:34,280 --> 00:46:37,760
+and how much she values the close
+relationship between the two houses.
+
+730
+00:46:37,840 --> 00:46:38,840
+Of course.
+
+731
+00:46:39,280 --> 00:46:41,600
+And… to see it…
+
+732
+00:46:42,440 --> 00:46:44,960
+well, compromised like this
+
+733
+00:46:45,800 --> 00:46:47,880
+as a consequence of your actions…
+
+734
+00:46:47,960 --> 00:46:48,960
+Wha...
+
+735
+00:46:50,600 --> 00:46:52,440
+What?
+
+736
+00:46:54,080 --> 00:46:57,240
+The fact is that the steps you took
+were completely unprofessional.
+
+737
+00:46:58,160 --> 00:46:59,240
+Martin, stop it.
+
+738
+00:46:59,320 --> 00:47:02,320
+Impugning the integrity of the palace
+and of the Queen herself.
+
+739
+00:47:02,400 --> 00:47:04,160
+We know one another too well.
+
+740
+00:47:05,080 --> 00:47:06,520
+This is madness.
+
+741
+00:47:09,040 --> 00:47:10,480
+I hope we can rely on you…
+
+742
+00:47:11,480 --> 00:47:12,720
+to do the right thing.
+
+743
+00:47:27,400 --> 00:47:28,400
+Of course.
+
+744
+00:47:52,760 --> 00:47:53,760
+Michael.
+
+745
+00:49:03,960 --> 00:49:08,520
+<i>"There is a motto which
+has been borne by many of my ancestors.</i>
+
+746
+00:49:09,440 --> 00:49:10,520
+<i>A noble motto.</i>
+
+747
+00:49:11,840 --> 00:49:12,840
+<i>'I serve.'</i>
+
+748
+00:49:13,840 --> 00:49:16,000
+<i>I should like to make that dedication now.</i>
+
+749
+00:49:16,840 --> 00:49:17,840
+<i>It's very simple.</i>
+
+750
+00:49:18,680 --> 00:49:20,240
+<i>I declare before you all</i>
+
+751
+00:49:21,200 --> 00:49:22,400
+<i>that my whole life…</i>
+
+752
+00:49:23,520 --> 00:49:25,520
+<i>whether it be long or short,</i>
+
+753
+00:49:26,240 --> 00:49:28,240
+<i>shall be devoted to your service</i>
+
+754
+00:49:29,240 --> 00:49:32,000
+<i>and the service
+of our great imperial family</i>
+
+755
+00:49:32,600 --> 00:49:34,080
+<i>to which we all belong.</i>
+
+756
+00:49:36,000 --> 00:49:38,240
+<i>God help me to make good my vow,</i>
+
+757
+00:49:39,200 --> 00:49:42,960
+<i>and God bless all of you
+who are willing to share in it."</i>
+
+758
+00:50:40,920 --> 00:50:43,280
+<i>♪ Inglan is a bitch ♪</i>
+
+759
+00:50:47,720 --> 00:50:50,200
+<i>♪ Inglan is a bitch ♪</i>
+
+760
+00:50:54,240 --> 00:50:57,440
+<i>♪ W'en mi jus' come to Landan toun ♪</i>
+
+761
+00:50:57,520 --> 00:51:00,040
+<i>♪ Mi use to work pan di andahgroun ♪</i>
+
+762
+00:51:01,280 --> 00:51:03,880
+<i>♪ But workin' pan di andahgroun ♪</i>
+
+763
+00:51:05,040 --> 00:51:07,800
+<i>♪ Y'u don't get fi know your way aroun' ♪</i>
+
+764
+00:51:08,320 --> 00:51:09,880
+<i>♪ Inglan is a bitch ♪</i>
+
+765
+00:51:11,600 --> 00:51:14,040
+<i>♪ Dere's no escapin' it ♪</i>
+
+766
+00:51:15,360 --> 00:51:17,040
+<i>♪ Inglan is a bitch ♪</i>
+
+767
+00:51:18,160 --> 00:51:20,760
+<i>♪ Dere's no runnin' whey fram it ♪</i>
+
+768
+00:51:22,080 --> 00:51:25,400
+<i>♪ Mi get a lickle jab in a big 'otell ♪</i>
+
+769
+00:51:25,480 --> 00:51:28,880
+<i>♪ An' aftah a while
+Mi woz doin' quite well ♪</i>
+
+770
+00:51:28,960 --> 00:51:32,360
+<i>♪ Dem staat mi aaf as a dish-washah ♪</i>
+
+771
+00:51:32,440 --> 00:51:36,120
+<i>♪ But w'en mi tek a stack
+Mi noh tun clackwatchah!</i>
+
+772
+00:51:36,200 --> 00:51:37,760
+<i>♪ Inglan is a bitch ♪</i>
+
+773
+00:51:38,960 --> 00:51:41,600
+<i>♪ Dere's no escapin' it ♪</i>
+
+774
+00:51:43,120 --> 00:51:44,720
+<i>♪ Inglan is a bitch ♪</i>
+
+775
+00:51:46,320 --> 00:51:48,480
+<i>♪ Noh baddah try fi hide fram it ♪</i>
+
+776
+00:51:49,520 --> 00:51:52,160
+<i>♪ W'en em gi'you di lickle wage packit ♪</i>
+
+777
+00:51:52,960 --> 00:51:55,360
+<i>♪ Fus dem rab it wid dem big tax rackit ♪</i>
+

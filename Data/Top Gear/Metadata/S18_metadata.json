@@ -1,0 +1,66 @@
+{
+    "0": {
+        "title": "India Special",
+        "released": "2012-04-16",
+        "rating": "8.2",
+        "imdb_id": "tt2153721",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "1": {
+        "title": "Super Cars Across Italy",
+        "released": "2012-04-23",
+        "rating": "8.3",
+        "imdb_id": "tt2197521",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S18\\Top.Gear.S18E01.HDTV.XviD-FoVS18E1.zip"
+    },
+    "2": {
+        "title": "Hammond Learns About NASCAR Racing In Texas - Clarkson And May Examine China's Car Industry In Beijing",
+        "released": "2012-04-30",
+        "rating": "N/A",
+        "imdb_id": "tt2223857",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S18\\Top.Gear.S18E02.HDTV.XviD-FoVS18E2.zip"
+    },
+    "3": {
+        "title": "Creating The Climactic Car Chase For 'The Sweeney'",
+        "released": "2012-05-07",
+        "rating": "N/A",
+        "imdb_id": "tt2240389",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S18\\Top.Gear.S18E03.HDTV.XviD-FoVS18E3.zip"
+    },
+    "4": {
+        "title": "Build And Test Off-Road Mobility Scooters In The Countryside",
+        "released": "2012-05-14",
+        "rating": "N/A",
+        "imdb_id": "tt2255519",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Tribute To Swedish Car Maker Saab - Rally-Spec Skoda Vs Jet-Powered Flying Man",
+        "released": "2012-05-21",
+        "rating": "N/A",
+        "imdb_id": "tt2271029",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Test Of Three Stripped Track Cars",
+        "released": "2012-05-28",
+        "rating": "N/A",
+        "imdb_id": "tt2287267",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Motor Racing Cheaper Than Playing Golf? - May's Childhood Dream Car: The Ferrari 250 GT California.",
+        "released": "2012-06-04",
+        "rating": "N/A",
+        "imdb_id": "tt2300515",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S9\\Top.Gear.S09E07.720p.Polar.SpecialS9E7.zip"
+    }
+}

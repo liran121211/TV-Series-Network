@@ -1,0 +1,242 @@
+{
+    "1": {
+        "title": "The Other Side of the Sea",
+        "released": "2020-12-06",
+        "rating": "9.2",
+        "imdb_id": "tt10783086",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Attack on Titan\\Subtitles\\S4\\Attack.on.Titan.S04E01.WEBRip.Netflix.enS4E1.zip"
+    },
+    "2": {
+        "title": "Midnight Train",
+        "released": "2020-12-13",
+        "rating": "8.6",
+        "imdb_id": "tt13586908",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Attack on Titan\\Subtitles\\S4\\Attack.on.Titan.S04E02.WEBRip.Netflix.enS4E2.zip"
+    },
+    "3": {
+        "title": "The Door of Hope",
+        "released": "2020-12-20",
+        "rating": "9.2",
+        "imdb_id": "tt13611850",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Attack on Titan\\Subtitles\\S4\\Attack.on.Titan.S04E03.WEBRip.Netflix.enS4E3.zip"
+    },
+    "4": {
+        "title": "From One Hand to Another",
+        "released": "2020-12-27",
+        "rating": "8.9",
+        "imdb_id": "tt13605712",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Attack on Titan\\Subtitles\\S4\\Attack.on.Titan.S04E04.WEBRip.Netflix.enS4E4.zip"
+    },
+    "5": {
+        "title": "Declaration of War",
+        "released": "2021-01-10",
+        "rating": "9.7",
+        "imdb_id": "tt13605714",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Attack on Titan\\Subtitles\\S4\\Attack.on.Titan.S04E05.WEBRip.Netflix.enS4E5.zip"
+    },
+    "6": {
+        "title": "The War Hammer Titan",
+        "released": "2021-01-17",
+        "rating": "9.7",
+        "imdb_id": "tt13819632",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Attack on Titan\\Subtitles\\S4\\Attack.on.Titan.S04E06.WEBRip.Netflix.enS4E6.zip"
+    },
+    "7": {
+        "title": "Assault",
+        "released": "2021-01-24",
+        "rating": "9.7",
+        "imdb_id": "tt13857684",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Attack on Titan\\Subtitles\\S4\\Attack.on.Titan.S04E07.WEBRip.Netflix.enS4E7.zip"
+    },
+    "8": {
+        "title": "Assassin's Bullet",
+        "released": "2021-01-31",
+        "rating": "9.4",
+        "imdb_id": "tt13907662",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Attack on Titan\\Subtitles\\S4\\Attack.on.Titan.S04E08.WEBRip.Netflix.enS4E8.zip"
+    },
+    "9": {
+        "title": "Brave Volunteers",
+        "released": "2021-02-07",
+        "rating": "8.9",
+        "imdb_id": "tt13971296",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Attack on Titan\\Subtitles\\S4\\Attack.on.Titan.S04E09.WEBRip.Netflix.enS4E9.zip"
+    },
+    "10": {
+        "title": "A Sound Argument",
+        "released": "2021-02-14",
+        "rating": "N/A",
+        "imdb_id": "tt13989258",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Deceiver",
+        "released": "2021-02-21",
+        "rating": "8.8",
+        "imdb_id": "tt13996128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Guides",
+        "released": "2021-02-28",
+        "rating": "8.9",
+        "imdb_id": "tt14026060",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Children of the Forest",
+        "released": "2021-03-07",
+        "rating": "9.5",
+        "imdb_id": "tt14093766",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Savagery",
+        "released": "2021-03-21",
+        "rating": "9.7",
+        "imdb_id": "tt14132418",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Sole Salvation",
+        "released": "2021-03-21",
+        "rating": "9.5",
+        "imdb_id": "tt14134628",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Above and Below",
+        "released": "2021-05-02",
+        "rating": "9.4",
+        "imdb_id": "tt14134634",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Judgment",
+        "released": "2022-01-09",
+        "rating": "9.0",
+        "imdb_id": "tt14342824",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Sneak Attack",
+        "released": "2022-01-16",
+        "rating": "9.3",
+        "imdb_id": "tt14551446",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Two Brothers",
+        "released": "2022-01-23",
+        "rating": "9.7",
+        "imdb_id": "tt17277218",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Memories of the Future",
+        "released": "2022-01-30",
+        "rating": "9.7",
+        "imdb_id": "tt17505964",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "From You, 2000 Years Ago",
+        "released": "2022-02-06",
+        "rating": "9.7",
+        "imdb_id": "tt17594170",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Thaw",
+        "released": "2022-02-13",
+        "rating": "9.0",
+        "imdb_id": "tt18211918",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Sunset",
+        "released": "2022-02-20",
+        "rating": "8.5",
+        "imdb_id": "tt18286830",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Pride",
+        "released": "2022-02-27",
+        "rating": "8.4",
+        "imdb_id": "tt18327540",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Night of the End",
+        "released": "2022-03-06",
+        "rating": "8.6",
+        "imdb_id": "tt18412610",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Traitor",
+        "released": "2022-03-13",
+        "rating": "9.1",
+        "imdb_id": "tt18484352",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Retrospective",
+        "released": "2022-03-20",
+        "rating": "9.5",
+        "imdb_id": "tt18856536",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "The Dawn of Humanity",
+        "released": "2022-04-03",
+        "rating": "9.6",
+        "imdb_id": "tt18953204",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "The Final Chapters: Special 1",
+        "released": "2023-09-10",
+        "rating": "9.4",
+        "imdb_id": "tt21357640",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "The Final Chapters: Special 2",
+        "released": "2023-11-04",
+        "rating": "8.8",
+        "imdb_id": "tt27048168",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

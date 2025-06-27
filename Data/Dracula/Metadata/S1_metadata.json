@@ -1,0 +1,26 @@
+{
+    "1": {
+        "title": "The Rules of the Beast",
+        "released": "2020-01-04",
+        "rating": "8.0",
+        "imdb_id": "tt9155978",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Blood Vessel",
+        "released": "2020-01-04",
+        "rating": "7.6",
+        "imdb_id": "tt9155980",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Dark Compass",
+        "released": "2020-01-04",
+        "rating": "N/A",
+        "imdb_id": "tt9155984",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Help Me",
+        "released": "2016-09-23",
+        "rating": "6.6",
+        "imdb_id": "tt5212382",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Seen You",
+        "released": "2016-09-23",
+        "rating": "7.0",
+        "imdb_id": "tt5212384",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Stay Inside",
+        "released": "2016-09-30",
+        "rating": "7.1",
+        "imdb_id": "tt5212494",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Coming Back",
+        "released": "2016-10-07",
+        "rating": "6.9",
+        "imdb_id": "tt5212498",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Fear Her",
+        "released": "2016-10-14",
+        "rating": "7.1",
+        "imdb_id": "tt5212500",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Nothing Matters",
+        "released": "2016-10-21",
+        "rating": "7.1",
+        "imdb_id": "tt5212502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "For Me",
+        "released": "2016-10-28",
+        "rating": "7.6",
+        "imdb_id": "tt5212506",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Little Thing",
+        "released": "2016-11-04",
+        "rating": "7.2",
+        "imdb_id": "tt5212510",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Help Out",
+        "released": "2016-11-11",
+        "rating": "7.2",
+        "imdb_id": "tt5212516",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Last Time",
+        "released": "2016-11-25",
+        "rating": "7.0",
+        "imdb_id": "tt5212524",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "He's Coming",
+        "released": "2016-12-02",
+        "rating": "7.1",
+        "imdb_id": "tt5212528",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "It Begins",
+        "released": "2016-12-09",
+        "rating": "7.2",
+        "imdb_id": "tt5212530",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

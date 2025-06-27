@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2012-11-24",
+        "rating": "6.0",
+        "imdb_id": "tt2515502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Improbable Story",
+        "released": "2012-12-01",
+        "rating": "6.0",
+        "imdb_id": "tt2501502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Toothache",
+        "released": "2012-12-08",
+        "rating": "N/A",
+        "imdb_id": "tt2543986",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Ice Pop Pop",
+        "released": "2012-12-15",
+        "rating": "N/A",
+        "imdb_id": "tt2543962",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Scary Movie",
+        "released": "2013-01-19",
+        "rating": "N/A",
+        "imdb_id": "tt2644544",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Battle of the Bands",
+        "released": "2013-02-16",
+        "rating": "N/A",
+        "imdb_id": "tt2628054",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "St. Glar Kai Day",
+        "released": "2013-03-15",
+        "rating": "6.0",
+        "imdb_id": "tt2773946",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Marvin's Day Off",
+        "released": "2013-04-06",
+        "rating": "N/A",
+        "imdb_id": "tt2836592",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "House Party",
+        "released": "2013-04-13",
+        "rating": "N/A",
+        "imdb_id": "tt2740066",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Big Time Marvin",
+        "released": "2013-04-27",
+        "rating": "N/A",
+        "imdb_id": "tt2615096",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

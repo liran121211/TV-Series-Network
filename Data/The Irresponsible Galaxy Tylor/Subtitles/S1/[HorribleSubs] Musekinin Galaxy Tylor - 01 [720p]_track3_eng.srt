@@ -1,0 +1,72 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Flashback_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Episode Title,Open Sans Semibold,36,&H00000000,&H000000FF,&H00F5FBFC,&H00C0D1D1,1,0,0,0,100,100,0,0,1,3,3,8,13,13,27,1
+Style: sign_1288_19_Garbage,Open Sans Semibold,36,&H0027190F,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,0,0,8,13,13,259,1
+Style: sign_4667_47_Space,Open Sans Semibold,36,&H006E3533,&H000000FF,&H00CCBCB5,&H00CCBCB5,1,0,0,0,100,100,0,0,1,3,1,9,633,113,21,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.85,0:00:03.10,Italics,,0000,0000,0000,,In the distant future the \Ngreat hero of the galaxy,
+Dialogue: 0,0:00:03.10,0:00:06.81,Italics,,0000,0000,0000,,Justy Ueki Tylor, has passed on...
+Dialogue: 0,0:00:06.81,0:00:09.06,Italics,,0000,0000,0000,,this story takes place even \Nfurther into the future.
+Dialogue: 0,0:00:09.44,0:00:11.92,Italics,,0000,0000,0000,,The former United Planets \Nhave slid into decline,
+Dialogue: 0,0:00:11.92,0:00:14.30,Italics,,0000,0000,0000,,and the militaristic Empire has disappeared.
+Dialogue: 0,0:00:14.30,0:00:16.75,Italics,,0000,0000,0000,,Now, the people who were once \Nspread across the galaxy
+Dialogue: 0,0:00:16.75,0:00:19.41,Italics,,0000,0000,0000,,all live peacefully on on a \Nsidereal mega-structure.
+Dialogue: 0,0:00:22.75,0:00:25.50,Episode Title,Title sign,0000,0000,0000,,{\fad(189,1)}Something's Different About Today
+Dialogue: 0,0:00:26.05,0:00:31.24,Main,Yamamoto,0000,0000,0000,,Tylor, stop fiddling with your banjo and \Nfigure out what to do about that ship!
+Dialogue: 0,0:00:32.09,0:00:34.88,Main,Yamamoto,0000,0000,0000,,We're supposed to recover the vessel, \Nbut if we make one mistake,
+Dialogue: 0,0:00:34.88,0:00:37.93,Main,Yamamoto,0000,0000,0000,,we'll be swallowed into \Nthat space-time fault!
+Dialogue: 0,0:00:38.59,0:00:39.65,Main,Yamamoto,0000,0000,0000,,Tylor!
+Dialogue: 0,0:00:40.09,0:00:41.68,Main,Tylor,0000,0000,0000,,Now, now, Yamamoto-kun...
+Dialogue: 0,0:00:41.68,0:00:43.56,Main,Yama,0000,0000,0000,,Don't "now, now, Yamamoto-kun" me!
+Dialogue: 0,0:00:44.08,0:00:48.72,Main,Yama,0000,0000,0000,,The sidereal mega-structure surrounds \Nthis solar system in a giant shell,
+Dialogue: 0,0:00:48.72,0:00:51.46,Main,Yama,0000,0000,0000,,letting us use the energy it \Nradiates incredibly efficiently,
+Dialogue: 0,0:00:51.46,0:00:53.56,Main,Yama,0000,0000,0000,,and its radius is one hundred \Nand fifty million kilometers.
+Dialogue: 0,0:00:53.69,0:00:58.99,sign_1288_19_Garbage,Sign,0000,0000,0000,,Garbage
+Dialogue: 0,0:00:54.02,0:00:59.12,Main,Yama,0000,0000,0000,,You and I make our living collecting and \Nselling the debris that collects on its exterior.
+Dialogue: 0,0:00:59.12,0:01:01.49,Main,Yama,0000,0000,0000,,But what we're dealing with now isn't trash.
+Dialogue: 0,0:01:01.49,0:01:05.11,Main,Yama,0000,0000,0000,,It's a ship that, long ago, would've belonged \Nto the ruthless Raalgon Empire!
+Dialogue: 0,0:01:06.70,0:01:08.64,Main,Yama,0000,0000,0000,,Oh, my stomach... my stomach...
+Dialogue: 0,0:01:08.64,0:01:10.69,Main,Yama,0000,0000,0000,,I shouldn't even have a stomach, \Nand it still hurts somehow!
+Dialogue: 0,0:01:10.69,0:01:13.95,Main,Tylor,0000,0000,0000,,Easy does it there, let's just \Nkeep things light, Yamamoto-kun.
+Dialogue: 0,0:01:13.95,0:01:15.76,Main,Yamamoto,0000,0000,0000,,Does this seem {\i1}light{\i0} to you?
+Dialogue: 0,0:01:15.76,0:01:20.02,Main,Tylor,0000,0000,0000,,The trick is to not think too hard about \Nit, and just give it a shot! Come on!
+Dialogue: 0,0:01:21.62,0:01:23.06,Main,Seceratry,0000,0000,0000,,Voice recognition activated.
+Dialogue: 0,0:01:23.47,0:01:28.02,Main,Seceratry,0000,0000,0000,,Wavelength verification cleared, \Nlocks disengaging. Opening.
+Dialogue: 0,0:01:36.89,0:01:40.67,Main,Azalyn,0000,0000,0000,,Tylor... where have you gone?
+Dialogue: 0,0:01:43.18,0:01:46.45,Main,Tylor,0000,0000,0000,,I can feel it! Someone's inside \Nthe ship! We've gotta save them!
+Dialogue: 0,0:01:46.45,0:01:47.49,Main,Yamamoto,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:48.68,0:01:51.33,Main,Yamamoto,0000,0000,0000,,Tylor, it's too dangerous to proceed.
+Dialogue: 0,0:01:51.33,0:01:54.67,Main,Yamamoto,0000,0000,0000,,The ship is on the verge of falling \Ninto that space-time fault.
+Dialogue: 0,0:01:54.67,0:01:56.00,Main,Yamamoto,0000,0000,0000,,We should turn back now!
+Dialogue: 0,0:01:56.31,0:01:58.15,Main,Tylor,0000,0000,0000,,Not gonna happen, Yamamoto-kun!
+Dialogue: 0,0:01:58.15,0:01:59.49,Main,Yamamoto,0000,0000,0000,,Tylor!
+Dialogue: 0,0:01:59.49,0:02:01.35,Main,Yamamoto,0000,0000,0000,,Collecting garbage day in and day out,
+Dialogue: 0,0:02:01.35,0:02:05.25,Main,Yamamoto,0000,0000,0000,,on the outer shell of the mega-structure \Nwhere no decent people live,
+Dialogue: 0,0:02:05.25,0:02:08.14,Main,Yamamoto,0000,0000,0000,,spending my entire life \Nwith no hopes or dreams,
+Dialogue: 0,0:02:08.14,0:02:10.75,Main,Yamamoto,0000,0000,0000,,and you won't even let me \Nrescue a damsel in distress?
+Dialogue: 0,0:02:11.03,0:02:13.09,Main,Yamamoto,0000,0000,0000,,Understood, Tylor...
+Dialogue: 0,0:02:13.09,0:02:16.64,Main,Yamamoto,0000,0000,0000,,But I don't believe there's any profit to \Nbe had in collecting {\i1}that{\i0} kind of garbage.
+Dialogue: 0,0:02:36.43,0:02:38.59,Main,Azalyn,0000,0000,0000,,Who dares to mock me?
+Dialogue: 0,0:02:39.22,0:02:42.55,Main,Tylor,0000,0000,0000,,Well, Yamamoto-kun, we took it \Neasy and it worked out, didn't it?
+Dialogue: 0,0:02:43.18,0:02:45.48,Main,Yamamoto,0000,0000,0000,,It seems that way, Tylor.
+Dialogue: 0,0:02:47.28,0:02:49.31,Main,Azarin,0000,0000,0000,,Did he say... Tylor?!
+Dialogue: 0,0:03:14.63,0:03:19.59,sign_4667_47_Space,ED Banner,0000,0000,0000,,{\fad(3300,1)}Space
+Dialogue: 0,0:03:19.59,0:03:23.37,Main,BG lady,0000,0000,0000,,I have spent two thousand years \Nlooking after Empress Azalyn
+Dialogue: 0,0:03:23.37,0:03:26.09,Main,BG lady,0000,0000,0000,,and now, my duty has come to an end.
+Dialogue: 0,0:03:26.52,0:03:28.80,Main,BG lady,0000,0000,0000,,I bid you farewell, my Empress.

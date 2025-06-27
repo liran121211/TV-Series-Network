@@ -1,0 +1,34 @@
+{
+    "1": {
+        "title": "Be Right Back",
+        "released": "2013-02-11",
+        "rating": "8.0",
+        "imdb_id": "tt2290780",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Black Mirror\\Subtitles\\S2\\Black.Mirror.S02E01.1080p.WEBRip.DD2.0.x264-CasStudio.EnS2E1.zip"
+    },
+    "2": {
+        "title": "White Bear",
+        "released": "2013-02-18",
+        "rating": "8.0",
+        "imdb_id": "tt2542420",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Black Mirror\\Subtitles\\S2\\Black.Mirror.S02E02.HDTV.1080p.x264-ZeKeS2E2.zip"
+    },
+    "3": {
+        "title": "The Waldo Moment",
+        "released": "2013-02-25",
+        "rating": "6.6",
+        "imdb_id": "tt2386296",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Black Mirror\\Subtitles\\S2\\Black.Mirror.S02E03.1080p.WEBRip.DD2.0.x264-CasStudioS2E3.zip"
+    },
+    "4": {
+        "title": "White Christmas",
+        "released": "2014-12-16",
+        "rating": "9.1",
+        "imdb_id": "tt3973198",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

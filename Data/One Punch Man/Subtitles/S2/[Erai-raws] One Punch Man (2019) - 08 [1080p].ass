@@ -1,0 +1,364 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Italics - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Next Ep Title,Times New Roman,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0030,0030,0200,1
+Style: sign_7523_72_Class_B_Rank_3_W,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,2,1,0022,0423,0016,1
+Style: sign_10002_106_Charanko__Fist_o,Arial,26,&H001F2120,&H000000FF,&H00DEE1D1,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0198,0000,0167,1
+Style: sign_10926_119_Hero_Association,Arial,14,&H00DEE6DF,&H000000FF,&H00222B2D,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0318,0126,0255,1
+Style: sign_0_1_Closing_Ceremoni,Times New Roman,24,&H00CCCCC5,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0204,0204,0100,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:00.00,0:00:01.43,sign_0_1_Closing_Ceremoni,Sign,0000,0000,0000,,Closing Ceremony
+Dialogue: 0,0:00:01.43,0:00:04.40,Main,Guy,0000,0000,0000,,Congratulations on your win, Suiryu!
+Dialogue: 0,0:00:04.40,0:00:06.88,Main,Guy,0000,0000,0000,,We had a minor incident toward the end,
+Dialogue: 0,0:00:06.88,0:00:08.90,Main,Guy,0000,0000,0000,,but in the end, you won, \Ncompletely unscathed!
+Dialogue: 0,0:00:08.90,0:00:10.63,Italics,Suiryu,0000,0000,0000,,Unscathed?
+Dialogue: 0,0:00:11.15,0:00:13.40,Italics,Suiryu,0000,0000,0000,,If he hadn't pulled his punch, I would've...
+Dialogue: 0,0:00:14.61,0:00:16.41,sign_0_1_Closing_Ceremoni,Sign,0000,0000,0000,,{\fnArial}Announcement
+Dialogue: 0,0:00:14.62,0:00:17.89,Main,Guy,0000,0000,0000,,We now have an announcement \Nfor everyone here.
+Dialogue: 0,0:00:17.89,0:00:21.20,Main,Guy,0000,0000,0000,,There appear to be monsters \Noutside right now,
+Dialogue: 0,0:00:21.20,0:00:21.91,Main,Lady,0000,0000,0000,,{\an8}Monsters?
+Dialogue: 0,0:00:21.20,0:00:25.88,Main,Guy,0000,0000,0000,,so we ask that you do not leave the \Nvenue until the police give the all-clear.
+Dialogue: 0,0:00:21.91,0:00:23.02,Main,Guy,0000,0000,0000,,{\an8}Again?
+Dialogue: 0,0:00:23.02,0:00:25.40,Main,Guy,0000,0000,0000,,{\an8}We'll be safe from the monsters in here.
+Dialogue: 0,0:00:25.40,0:00:25.88,Main,Guy,0000,0000,0000,,{\an8}True.
+Dialogue: 0,0:00:26.53,0:00:28.97,Italics,Suiryu,0000,0000,0000,,There's no point in dwelling on it.
+Dialogue: 0,0:00:28.97,0:00:31.42,Italics,Suiryu,0000,0000,0000,,I just need to make sure\NI never see that guy again.
+Dialogue: 0,0:00:33.51,0:00:35.30,Main,Suiryu,0000,0000,0000,,Hey, you're cute.
+Dialogue: 0,0:00:35.30,0:00:36.29,Main,Girl,0000,0000,0000,,Huh?
+Dialogue: 0,0:00:36.97,0:00:38.68,Italics,Suiryu,0000,0000,0000,,I'm just going to take it easy.
+Dialogue: 0,0:00:38.68,0:00:39.97,Main,Guy,0000,0000,0000,,What's that?!
+Dialogue: 0,0:00:39.97,0:00:41.25,Main,,0000,0000,0000,,What is that?!
+Dialogue: 0,0:00:46.35,0:00:47.75,Main,Guy,0000,0000,0000,,M-Monsters?!
+Dialogue: 0,0:00:47.75,0:00:51.11,Main,Guy,0000,0000,0000,,Look! They're holding \NRosie, Dave, and Bazuzu!
+Dialogue: 0,0:00:51.11,0:00:53.77,Main,Guy,0000,0000,0000,,The contestants that were \Nsent to the hospital..
+Dialogue: 0,0:00:53.77,0:00:54.95,Main,Guy,0000,0000,0000,,I-I'm outta here!
+Dialogue: 0,0:00:54.95,0:00:57.24,Main,Guy,0000,0000,0000,,You guys can deal with the monsters!
+Dialogue: 0,0:00:57.24,0:00:58.11,Main,Guy,0000,0000,0000,,See ya!
+Dialogue: 0,0:00:58.11,0:00:59.30,Main,Sour,0000,0000,0000,,Hey!
+Dialogue: 0,0:01:07.99,0:01:10.75,Main,Goketsu,0000,0000,0000,,Are all the contestants here?
+Dialogue: 0,0:01:14.35,0:01:18.48,Main,Goke,0000,0000,0000,,Look at all you runts. How far \Nthe martial arts world has fallen...
+Dialogue: 0,0:01:18.48,0:01:19.76,Main,Goke,0000,0000,0000,,Well, whatever.
+Dialogue: 0,0:01:19.76,0:01:23.97,Main,Goke,0000,0000,0000,,You're all going to become monsters.
+Dialogue: 0,0:02:56.23,0:03:01.11,Next Ep Title,Sign,0000,0000,0000,,{\fs26\pos(455,275)}The Strong Ones Fight Back
+Dialogue: 0,0:02:57.29,0:03:03.20,Main,Goke,0000,0000,0000,,{\an8}Even you trash fighters should be somewhat \Nuseful after you become monsters.
+Dialogue: 0,0:03:03.54,0:03:05.24,Main,Light,0000,0000,0000,,Become monsters?
+Dialogue: 0,0:03:05.24,0:03:08.00,Main,Snek,0000,0000,0000,,We pro heroes will put you in your place!
+Dialogue: 0,0:03:08.00,0:03:10.71,Main,Guy,0000,0000,0000,,Way to go, heroes! Kick his ass!
+Dialogue: 0,0:03:14.29,0:03:16.00,Main,Goke,0000,0000,0000,,Finished already?
+Dialogue: 0,0:03:16.89,0:03:18.01,Main,Sour,0000,0000,0000,,With one hit?
+Dialogue: 0,0:03:18.35,0:03:21.67,Main,Goke,0000,0000,0000,,I'm not here to kill you all today.
+Dialogue: 0,0:03:22.22,0:03:25.85,Main,Goke,0000,0000,0000,,I'm Goketsu, and I'm here on behalf \Nof the Monster Association.
+Dialogue: 0,0:03:25.85,0:03:27.68,Main,Zak,0000,0000,0000,,Goketsu?!
+Dialogue: 0,0:03:27.68,0:03:30.39,Main,Guy,0000,0000,0000,,You don't mean the previous \NSuper Fight champion?!
+Dialogue: 0,0:03:30.85,0:03:33.56,Main,Goke,0000,0000,0000,,If you know who I am, \Nthis shouldn't take too long.
+Dialogue: 0,0:03:33.56,0:03:35.65,Main,Goke,0000,0000,0000,,You must realize resistance is futile.
+Dialogue: 0,0:03:35.65,0:03:38.97,Main,Guy,0000,0000,0000,,But I heard that he was killed \Nby a monster a few years ago!
+Dialogue: 0,0:03:38.97,0:03:39.99,Main,Guy,0000,0000,0000,,So why...
+Dialogue: 0,0:03:40.86,0:03:44.96,Main,Goke,0000,0000,0000,,It's true that I was defeated by \Na certain monster in the past,
+Dialogue: 0,0:03:44.96,0:03:47.54,Main,Goke,0000,0000,0000,,and I was taken to their lair.
+Dialogue: 0,0:03:48.08,0:03:50.93,Main,Goke,0000,0000,0000,,But to my surprise, they made me an offer.
+Dialogue: 0,0:03:51.58,0:03:57.10,Main,Goke,0000,0000,0000,,In return for my cooperation,\Nthey would grant all of my desires!
+Dialogue: 0,0:03:57.43,0:04:04.02,Main,Goke,0000,0000,0000,,As a monster, I can surpass \Nthe limits I had as a human!
+Dialogue: 0,0:04:04.55,0:04:06.93,Main,Goke,0000,0000,0000,,Do you understand what I'm saying? Right now,
+Dialogue: 0,0:04:06.93,0:04:10.89,Main,Goke,0000,0000,0000,,I'm on a completely different level \Nthan the martial artist Goketsu!
+Dialogue: 0,0:04:11.30,0:04:15.06,Main,Goke,0000,0000,0000,,Rejoice! I have something to give you.
+Dialogue: 0,0:04:15.54,0:04:17.48,Main,Goke,0000,0000,0000,,Eat those monster cells.
+Dialogue: 0,0:04:18.77,0:04:22.11,Main,Goke,0000,0000,0000,,Then you can all become monsters.
+Dialogue: 0,0:04:22.58,0:04:24.20,Main,Goke,0000,0000,0000,,If you don't eat them, I'll just kill you.
+Dialogue: 0,0:04:27.26,0:04:28.95,Main,Guy,0000,0000,0000,,The Monster Association...
+Dialogue: 0,0:04:29.71,0:04:34.42,Main,Guy,0000,0000,0000,,What do you want? Are you just \Nout for murder and destruction?
+Dialogue: 0,0:04:34.42,0:04:39.38,Italics,Eye,0000,0000,0000,,True, violence is a basic \Ndesire for monsters.
+Dialogue: 0,0:04:39.38,0:04:42.55,Italics,Eye,0000,0000,0000,,But that is not our only motive.
+Dialogue: 0,0:04:42.55,0:04:46.87,Main,Eye,0000,0000,0000,,We're trying to go one step higher.
+Dialogue: 0,0:04:46.87,0:04:49.46,Main,Eye,0000,0000,0000,,You can just stay there and watch for now,
+Dialogue: 0,0:04:49.46,0:04:53.83,Italics,Eye,0000,0000,0000,,and observe how physically and \Nmentally weak humans are.
+Dialogue: 0,0:04:55.98,0:04:57.31,Main,Goke,0000,0000,0000,,Choose.
+Dialogue: 0,0:04:57.31,0:04:59.14,Main,Goke,0000,0000,0000,,Die or become monsters.
+Dialogue: 0,0:05:00.40,0:05:01.69,Main,Sour,0000,0000,0000,,No, don't!
+Dialogue: 0,0:05:11.93,0:05:14.00,Main,Rose,0000,0000,0000,,This is amazing!
+Dialogue: 0,0:05:14.00,0:05:17.39,Main,Rosie,0000,0000,0000,,I can feel the power and \Nviolence flow through me!
+Dialogue: 0,0:05:17.39,0:05:18.42,Main,Rosie,0000,0000,0000,,Hey, fatso!
+Dialogue: 0,0:05:18.73,0:05:21.25,Main,Rosie,0000,0000,0000,,You're gonna regret what you \Ndid to me during our match!
+Dialogue: 0,0:05:25.65,0:05:27.94,Main,Sour,0000,0000,0000,,He's got superhuman strength now.
+Dialogue: 0,0:05:32.87,0:05:37.14,Main,Guy,0000,0000,0000,,How interesting that even a peasant \Nlike him could gain such power.
+Dialogue: 0,0:05:37.14,0:05:40.40,Main,Guy,0000,0000,0000,,I should be able to awaken \Nto the ultimate power,
+Dialogue: 0,0:05:41.11,0:05:43.80,Main,Guy,0000,0000,0000,,given I'm the man with the \Nworld's most perfect genes.
+Dialogue: 0,0:05:44.23,0:05:45.49,Main,Zak,0000,0000,0000,,Choze, not you, too!
+Dialogue: 0,0:05:50.99,0:05:53.98,Main,Cho,0000,0000,0000,,Not only did it improve \Nmy physical functioning,
+Dialogue: 0,0:05:53.98,0:05:56.79,Main,Cho,0000,0000,0000,,but I can feel my subconscious \Nlimits falling away.
+Dialogue: 0,0:05:57.23,0:06:00.00,Main,Cho,0000,0000,0000,,So this is how it feels to be \Na monster? Let's see...
+Dialogue: 0,0:06:02.90,0:06:03.99,Main,Sour,0000,0000,0000,,Jakumen!
+Dialogue: 0,0:06:05.22,0:06:08.84,Main,Cho,0000,0000,0000,,Now I'll definitely be able to kill that guy!
+Dialogue: 0,0:06:08.84,0:06:14.31,Main,Cho,0000,0000,0000,,I'll make him pay for embarrassing \Nme like that... with his death!
+Dialogue: 0,0:06:15.27,0:06:17.73,Main,Goke,0000,0000,0000,,You didn't turn out too bad.
+Dialogue: 0,0:06:17.73,0:06:20.40,Main,Goke,0000,0000,0000,,We do have winners and losers, \Ndepending on what we're working with.
+Dialogue: 0,0:06:21.05,0:06:24.27,Main,Goke,0000,0000,0000,,Go on. The rest of you filth \Nneed to eat those, too.
+Dialogue: 0,0:06:25.61,0:06:27.17,Main,Ben,0000,0000,0000,,Please, spare me!
+Dialogue: 0,0:06:27.70,0:06:28.78,Main,Guy,0000,0000,0000,,Benpats!
+Dialogue: 0,0:06:28.78,0:06:30.57,Main,Ham,0000,0000,0000,,This is for survival.
+Dialogue: 0,0:06:30.57,0:06:31.91,Main,Girl,0000,0000,0000,,Hamukichi!
+Dialogue: 0,0:06:31.91,0:06:33.67,Main,Guy,0000,0000,0000,,This is to become stronger!
+Dialogue: 0,0:06:34.09,0:06:35.37,Main,Guy,0000,0000,0000,,Not you, too, Boltane!
+Dialogue: 0,0:06:40.82,0:06:42.92,Main,Guy,0000,0000,0000,,I feel like I can do anything now!
+Dialogue: 0,0:06:45.31,0:06:46.82,Main,Guy,0000,0000,0000,,This feels great!
+Dialogue: 0,0:06:48.17,0:06:50.42,Main,Girl,0000,0000,0000,,They all turned into monsters!
+Dialogue: 0,0:06:50.42,0:06:51.89,Main,Sour,0000,0000,0000,,Wh-Wh-What should we do?
+Dialogue: 0,0:06:52.38,0:06:54.01,Main,Sui,0000,0000,0000,,Hey.
+Dialogue: 0,0:06:54.45,0:06:57.35,Main,Sui,0000,0000,0000,,If I can chase those guys off, \Nwill you go on a date with me?
+Dialogue: 0,0:06:58.79,0:06:59.81,Main,Sui,0000,0000,0000,,Great! That settles it.
+Dialogue: 0,0:07:00.37,0:07:03.77,Main,Sui,0000,0000,0000,,I'm going to relieve all that stress \Nfrom the finals right now.
+Dialogue: 0,0:07:03.77,0:07:07.59,Main,Goke,0000,0000,0000,,Oh? We actually have someone who \Ndares defy us in this situation?
+Dialogue: 0,0:07:07.59,0:07:08.86,Main,Goke,0000,0000,0000,,So be it.
+Dialogue: 0,0:07:09.27,0:07:12.87,Main,Goke,0000,0000,0000,,We're to eliminate anyone who dares to \Nbecome an enemy of the Monster Association.
+Dialogue: 0,0:07:13.41,0:07:14.46,Main,Goke,0000,0000,0000,,Finish him!
+Dialogue: 0,0:07:14.46,0:07:17.08,Main,Guy,0000,0000,0000,,You fool! You're nothing but a playboy!
+Dialogue: 0,0:07:17.08,0:07:18.87,Main,Guy,0000,0000,0000,,You suddenly want to play hero now?
+Dialogue: 0,0:07:21.31,0:07:22.33,Main,sui,0000,0000,0000,,That's not it.
+Dialogue: 0,0:07:23.60,0:07:25.50,Main,Sui,0000,0000,0000,,It's just that you guys
+Dialogue: 0,0:07:26.30,0:07:27.30,Main,Sui,0000,0000,0000,,are in the way...
+Dialogue: 0,0:07:29.45,0:07:31.15,Main,Sui,0000,0000,0000,,of my fun lifestyle.
+Dialogue: 0,0:08:00.21,0:08:02.54,Main,Sui,0000,0000,0000,,Well, well... You're not half bad.
+Dialogue: 0,0:08:02.99,0:08:04.08,Main,Guy,0000,0000,0000,,Not half bad?
+Dialogue: 0,0:08:04.08,0:08:06.91,Main,Guy,0000,0000,0000,,Your answer suggests you lack intelligence.
+Dialogue: 0,0:08:08.55,0:08:10.81,Main,Girl,0000,0000,0000,,What's that?
+Dialogue: 0,0:08:10.81,0:08:11.84,Main,Guy,0000,0000,0000,,I've decided.
+Dialogue: 0,0:08:12.35,0:08:17.00,Main,Guy,0000,0000,0000,,I'll remake this world with only \Nthose of my own choosing.
+Dialogue: 0,0:08:17.00,0:08:18.85,Main,Guy,0000,0000,0000,,And all of you fail.
+Dialogue: 0,0:08:19.17,0:08:21.06,Main,Guy,0000,0000,0000,,Begone.
+Dialogue: 0,0:08:27.38,0:08:29.14,Main,Sui,0000,0000,0000,,This is nothing!
+Dialogue: 0,0:08:35.82,0:08:37.07,Main,Guy,0000,0000,0000,,What?!
+Dialogue: 0,0:08:42.09,0:08:45.87,Main,Sui,0000,0000,0000,,And in my eyes, you just failed.
+Dialogue: 0,0:08:45.87,0:08:47.42,Main,Sui,0000,0000,0000,,Entertain me a little more.
+Dialogue: 0,0:08:47.42,0:08:49.38,Main,Guy,0000,0000,0000,,You fool!
+Dialogue: 0,0:08:52.55,0:08:54.17,Main,Zak,0000,0000,0000,,They're too fast! I can't see anything!
+Dialogue: 0,0:08:55.78,0:08:58.47,Main,Sui,0000,0000,0000,,Dark Body Quake Tiger Fist!
+Dialogue: 0,0:09:03.55,0:09:05.85,Main,Sui,0000,0000,0000,,Dark Body Phoenix Rising Fist!
+Dialogue: 0,0:09:11.73,0:09:13.36,Main,Zak,0000,0000,0000,,Way to go!
+Dialogue: 0,0:09:13.82,0:09:17.83,Main,Sui,0000,0000,0000,,Ouch... I haven't bled in a long time.
+Dialogue: 0,0:09:17.83,0:09:20.62,Main,Sui,0000,0000,0000,,This "monsterization" stuff sure is wild.
+Dialogue: 0,0:09:20.62,0:09:22.66,Main,Sui,0000,0000,0000,,They all became way stronger.
+Dialogue: 0,0:09:23.13,0:09:26.84,Main,Goke,0000,0000,0000,,You know, it would be a \Nwaste to just kill you.
+Dialogue: 0,0:09:26.84,0:09:29.04,Main,Goke,0000,0000,0000,,I'll still let you change your mind.
+Dialogue: 0,0:09:29.90,0:09:32.77,Main,Goke,0000,0000,0000,,The world will eventually \Nbelong to the monsters.
+Dialogue: 0,0:09:33.25,0:09:35.58,Main,Goke,0000,0000,0000,,That means the strong can \Ngo as crazy as they want,
+Dialogue: 0,0:09:35.58,0:09:38.33,Main,Goke,0000,0000,0000,,kill all they want, and enjoy true freedom.
+Dialogue: 0,0:09:38.33,0:09:40.72,Main,Goke,0000,0000,0000,,It'll be a world of blood and violence.
+Dialogue: 0,0:09:41.17,0:09:43.97,Main,Goke,0000,0000,0000,,You can live an enjoyable life as a monster.
+Dialogue: 0,0:09:44.75,0:09:46.64,Main,Goke,0000,0000,0000,,Not a bad deal, is it?
+Dialogue: 0,0:09:48.69,0:09:49.56,Main,Sour,0000,0000,0000,,Don't tell me...
+Dialogue: 0,0:09:50.13,0:09:51.77,Main,Sui,0000,0000,0000,,I see.
+Dialogue: 0,0:09:52.26,0:09:55.44,Main,Sui,0000,0000,0000,,You're saying it doesn't matter \Nwhat the world's like,
+Dialogue: 0,0:09:55.46,0:09:57.97,Main,Sui,0000,0000,0000,,as long as you enjoy yourself...
+Dialogue: 0,0:10:00.43,0:10:06.04,Main,Sui,0000,0000,0000,,Well, sorry... but the last thing \NI ever want to be is as ugly as you!
+Dialogue: 0,0:10:06.04,0:10:08.77,Main,Sui,0000,0000,0000,,Dark Body Flying Dragon Fist!
+Dialogue: 0,0:10:09.04,0:10:09.79,Main,Sour,0000,0000,0000,,Yes!
+Dialogue: 0,0:10:16.22,0:10:18.37,Main,Goke,0000,0000,0000,,Then you get to die.
+Dialogue: 0,0:10:19.85,0:10:21.47,Main,Girl,0000,0000,0000,,Watchdog Man!
+Dialogue: 0,0:10:21.47,0:10:23.16,Main,Guy,0000,0000,0000,,You're awesome!
+Dialogue: 0,0:10:23.16,0:10:24.24,Main,Girl,0000,0000,0000,,Thank you!
+Dialogue: 0,0:10:24.24,0:10:26.68,Main,Guy,0000,0000,0000,,You really are the guardian deity of City Q!
+Dialogue: 0,0:10:27.10,0:10:29.86,Italics,Garo,0000,0000,0000,,I guess he really is a Class S hero.
+Dialogue: 0,0:10:30.94,0:10:33.81,Italics,Garo,0000,0000,0000,,Just before I started my hunt, \Nmonsters suddenly attacked.
+Dialogue: 0,0:10:34.85,0:10:38.38,Italics,Garo,0000,0000,0000,,I was amazed at how powerful \Nand fast he was in that battle,
+Dialogue: 0,0:10:38.38,0:10:39.78,Italics,Garo,0000,0000,0000,,but it's nothing.
+Dialogue: 0,0:10:40.74,0:10:43.16,Italics,Garo,0000,0000,0000,,I can deal with him just fine.
+Dialogue: 0,0:10:43.69,0:10:47.95,Italics,Garo,0000,0000,0000,,Watchdog Man, it's your turn to be hunted!
+Dialogue: 0,0:10:51.03,0:10:54.29,Main,Dog,0000,0000,0000,,Are you human, or are you a monster?
+Dialogue: 0,0:10:55.88,0:10:57.84,Main,Garo,0000,0000,0000,,Fist of Flowing Water Crushed Rock!
+Dialogue: 0,0:10:59.68,0:11:00.93,Main,Garo,0000,0000,0000,,I didn't say, "Shake!"
+Dialogue: 0,0:11:03.55,0:11:07.18,Italics,Garo,0000,0000,0000,,He does have speed and \Npower, if nothing else.
+Dialogue: 0,0:11:07.93,0:11:11.52,Italics,Garo,0000,0000,0000,,But he's inhuman!
+Dialogue: 0,0:11:12.58,0:11:14.94,Main,Goke,0000,0000,0000,,What? You done already?
+Dialogue: 0,0:11:15.39,0:11:17.65,Main,Goke,0000,0000,0000,,Stand up. I'll give you three seconds.
+Dialogue: 0,0:11:18.03,0:11:21.51,Main,Goke,0000,0000,0000,,Three, two, one...
+Dialogue: 0,0:11:30.07,0:11:33.79,Main,Goke,0000,0000,0000,,Good, good... Keep fighting back, \Nas if your life depends on it!
+Dialogue: 0,0:11:38.38,0:11:40.38,Italics,Sui,0000,0000,0000,,Damn it... He's not even flinching.
+Dialogue: 0,0:11:40.38,0:11:41.34,Italics,Sui,0000,0000,0000,,What do I do?
+Dialogue: 0,0:11:41.66,0:11:43.34,Main,Goke,0000,0000,0000,,You can take care of those guys, too.
+Dialogue: 0,0:11:51.21,0:11:52.62,Italics,Sui,0000,0000,0000,,Well, this isn't good...
+Dialogue: 0,0:11:52.62,0:11:55.06,Main,Goke,0000,0000,0000,,Come on, now, pay attention!
+Dialogue: 0,0:11:59.57,0:12:00.32,Italics,Sui,0000,0000,0000,,It broke...
+Dialogue: 0,0:12:01.27,0:12:03.30,Main,Goke,0000,0000,0000,,Well? What's the matter?
+Dialogue: 0,0:12:06.13,0:12:08.29,Main,Goke,0000,0000,0000,,Stand up. I'll give you three seconds.
+Dialogue: 0,0:12:08.97,0:12:12.66,Main,Goke,0000,0000,0000,,Three, two, one...
+Dialogue: 0,0:12:17.07,0:12:19.59,Main,Sui,0000,0000,0000,,Dark Body Quake Tiger Fist!
+Dialogue: 0,0:12:22.05,0:12:24.22,Main,Sui,0000,0000,0000,,H-He caught my strongest attack?!
+Dialogue: 0,0:12:31.29,0:12:32.14,Italics,Sui,0000,0000,0000,,He's strong...
+Dialogue: 0,0:12:32.14,0:12:35.31,Italics,Sui,0000,0000,0000,,He surpasses me in every way...
+Dialogue: 0,0:12:36.86,0:12:40.90,Italics,Sui,0000,0000,0000,,S-So this is... a monster?
+Dialogue: 0,0:12:47.55,0:12:50.83,Main,Goke,0000,0000,0000,,Hey, guys. You get some good grub today.
+Dialogue: 0,0:12:50.83,0:12:52.34,Main,Goke,0000,0000,0000,,Enjoy your meal!
+Dialogue: 0,0:12:55.33,0:12:57.96,Main,Goke,0000,0000,0000,,They were my disciples.
+Dialogue: 0,0:12:57.96,0:12:59.42,Main,Goke,0000,0000,0000,,But they were mentally weak,
+Dialogue: 0,0:12:59.42,0:13:02.84,Main,Goke,0000,0000,0000,,so when they turned into monsters, \Nthey lost their sense of self.
+Dialogue: 0,0:13:05.58,0:13:06.59,Main,Sui,0000,0000,0000,,Damn it!
+Dialogue: 0,0:13:09.26,0:13:10.93,Italics,Sui,0000,0000,0000,,This isn't good!
+Dialogue: 0,0:13:14.06,0:13:17.65,Main,Sui,0000,0000,0000,,Hey, you! I'm in trouble here! \NLend me a hand!
+Dialogue: 0,0:13:19.71,0:13:20.65,Main,Guy,0000,0000,0000,,Suiryu.
+Dialogue: 0,0:13:21.14,0:13:24.90,Main,Guy,0000,0000,0000,,After observing the finals, \NI've realized that you're stronger than me.
+Dialogue: 0,0:13:25.41,0:13:29.51,Main,Guy,0000,0000,0000,,There's no way that I can \Nbeat you. I'll admit that.
+Dialogue: 0,0:13:29.51,0:13:33.08,Main,Guy,0000,0000,0000,,But now, you're on the verge of death.
+Dialogue: 0,0:13:33.08,0:13:34.67,Main,Guy,0000,0000,0000,,How ironic.
+Dialogue: 0,0:13:34.67,0:13:37.33,Main,Guy,0000,0000,0000,,You may have taken the top \Nposition in human society,
+Dialogue: 0,0:13:37.67,0:13:40.14,Main,Guy,0000,0000,0000,,but you don't stand a chance \Nagainst these monsters.
+Dialogue: 0,0:13:40.83,0:13:42.98,Main,Sui,0000,0000,0000,,That's why I'm asking for your help!
+Dialogue: 0,0:13:42.98,0:13:43.92,Main,Guy,0000,0000,0000,,I've made up my mind.
+Dialogue: 0,0:13:46.39,0:13:48.30,Main,Guy,0000,0000,0000,,I'm going to become a monster, as well.
+Dialogue: 0,0:13:48.86,0:13:51.30,Main,Guy,0000,0000,0000,,You can just die right here.
+Dialogue: 0,0:13:53.29,0:13:55.50,Main,Guy,0000,0000,0000,,I give up on becoming the \Nworld's strongest person.
+Dialogue: 0,0:13:55.50,0:13:59.82,Main,Guy,0000,0000,0000,,I'll aim to be the ultimate \Nbeing on the next level!
+Dialogue: 0,0:13:59.82,0:14:02.59,Main,Goke,0000,0000,0000,,Jeez, he actually ate all of them.
+Dialogue: 0,0:14:02.59,0:14:03.73,Main,Goke,0000,0000,0000,,You greedy bastard.
+Dialogue: 0,0:14:04.13,0:14:08.10,Main,Guy,0000,0000,0000,,Shut up! I'll shut that trap \Nof yours myself in a moment.
+Dialogue: 0,0:14:10.99,0:14:13.08,Main,Goke,0000,0000,0000,,Looks like your body's not holding up.
+Dialogue: 0,0:14:14.69,0:14:16.81,Main,Goke,0000,0000,0000,,You've failed to become a monster.
+Dialogue: 0,0:14:17.78,0:14:21.21,Main,Goke,0000,0000,0000,,Now, then... You're \Nfinally the only one left.
+Dialogue: 0,0:14:21.21,0:14:23.42,Main,Sign,0000,0000,0000,,{\an8\fnArial\b1\3c&H39382F&\bord3\shad0}Hero Association Hospital
+Dialogue: 0,0:14:25.95,0:14:29.85,Italics,Mumen,0000,0000,0000,,There are patients up ahead in \Nthe ICU that can't be moved!
+Dialogue: 0,0:14:29.85,0:14:32.30,Italics,Mumen,0000,0000,0000,,As a hero, I can't back down!
+Dialogue: 0,0:14:32.30,0:14:34.99,Main,Fish,0000,0000,0000,,In the end, heroes are only human.
+Dialogue: 0,0:14:34.99,0:14:38.77,Main,Fish,0000,0000,0000,,You're only worth being \Noppressed by us monsters.
+Dialogue: 0,0:14:43.07,0:14:45.00,Main,Goke,0000,0000,0000,,Everyone ran off,
+Dialogue: 0,0:14:45.00,0:14:46.87,Main,Goke,0000,0000,0000,,or they were defeated.
+Dialogue: 0,0:14:47.45,0:14:51.66,Main,Goke,0000,0000,0000,,Good for you. Now you can cry and \Nscream without anyone seeing you.
+Dialogue: 0,0:14:51.66,0:14:55.12,Main,Goke,0000,0000,0000,,Go on. Let me hear you scream.
+Dialogue: 0,0:14:55.12,0:14:56.49,Main,Snek,0000,0000,0000,,Coiling Defense!
+Dialogue: 0,0:14:59.04,0:15:01.17,Main,Light,0000,0000,0000,,Lightning Kick!
+Dialogue: 0,0:15:03.29,0:15:05.53,Main,Sui,0000,0000,0000,,Snek! Max!
+Dialogue: 0,0:15:05.53,0:15:06.46,Main,Sui,0000,0000,0000,,You're okay!
+Dialogue: 0,0:15:07.83,0:15:10.72,Main,Sui,0000,0000,0000,,But why... Why did you come back?
+Dialogue: 0,0:15:11.94,0:15:12.93,Main,Both,0000,0000,0000,,To help.
+Dialogue: 0,0:15:14.51,0:15:17.10,Main,Snek,0000,0000,0000,,Now that we're dressed like \Nthis, we're the real deal.
+Dialogue: 0,0:15:17.62,0:15:22.06,Main,Snek,0000,0000,0000,,This suit is strong against \Nmonster claws, fangs, and beaks.
+Dialogue: 0,0:15:22.06,0:15:23.67,Main,Snek,0000,0000,0000,,It's a battle suit!
+Dialogue: 0,0:15:24.25,0:15:26.99,Main,Light,0000,0000,0000,,I'm also wearing my lightning shoes!
+Dialogue: 0,0:15:26.99,0:15:29.57,Main,Light,0000,0000,0000,,Now we can really show \Nyou what we're made of!
+Dialogue: 0,0:15:29.57,0:15:31.82,Main,Snek,0000,0000,0000,,We're up against three opponents, though.
+Dialogue: 0,0:15:32.26,0:15:34.14,Main,Light,0000,0000,0000,,Can we leave one of them to you?
+Dialogue: 0,0:15:34.14,0:15:34.99,Main,Sui,0000,0000,0000,,Yeah!
+Dialogue: 0,0:15:43.22,0:15:46.09,Main,Sui,0000,0000,0000,,You guys are lifesavers. Thank you!
+Dialogue: 0,0:15:46.09,0:15:48.94,Main,Tank,0000,0000,0000,,Tank-Top Tackle!
+Dialogue: 0,0:15:53.54,0:15:56.14,Main,Mumen,0000,0000,0000,,That was an amazing tackle...
+Dialogue: 0,0:15:56.14,0:15:59.06,Main,Tank,0000,0000,0000,,Don't try so hard when you're \Nnot wearing a tank-top.
+Dialogue: 0,0:15:59.06,0:16:01.61,Main,Tank,0000,0000,0000,,Can you stand, Mumen Rider?
+Dialogue: 0,0:16:01.61,0:16:02.35,Main,Mumen,0000,0000,0000,,Yeah.
+Dialogue: 0,0:16:02.35,0:16:03.98,Main,Mumen,0000,0000,0000,,I sure can.
+Dialogue: 0,0:16:06.26,0:16:08.45,Main,Sui,0000,0000,0000,,All right... My legs can still move.
+Dialogue: 0,0:16:08.45,0:16:09.82,Main,Sui,0000,0000,0000,,Now, let's get out of here.
+Dialogue: 0,0:16:11.67,0:16:14.10,Main,Sui,0000,0000,0000,,Why are you taking fighting \Nstances, you two?
+Dialogue: 0,0:16:14.65,0:16:16.41,Main,Snek,0000,0000,0000,,We'll hold him back.
+Dialogue: 0,0:16:16.41,0:16:17.78,Main,Light,0000,0000,0000,,Use that chance to run.
+Dialogue: 0,0:16:17.78,0:16:21.00,Main,Sui,0000,0000,0000,,You can't be serious! \NYou guys don't stand a chance!
+Dialogue: 0,0:16:21.00,0:16:23.19,Main,Sui,0000,0000,0000,,I mean, you two were lower than me...
+Dialogue: 0,0:16:25.54,0:16:28.17,Italics,Sui,0000,0000,0000,,You're kidding... Aren't you scared?
+Dialogue: 0,0:16:36.18,0:16:37.68,Main,Sui,0000,0000,0000,,This is my last chance!
+Dialogue: 0,0:16:37.97,0:16:41.27,Main,Sui,0000,0000,0000,,I need to run! Run! Run! Run!
+Dialogue: 0,0:16:42.98,0:16:45.09,Main,Guy,0000,0000,0000,,Where do you think you're going?!
+Dialogue: 0,0:16:45.09,0:16:47.81,Main,Guy,0000,0000,0000,,Things are just getting interesting!
+Dialogue: 0,0:16:53.51,0:16:56.92,Main,Goke,0000,0000,0000,,Oh? I guess this one was a winner after all.
+Dialogue: 0,0:16:56.92,0:17:00.74,Main,Goke,0000,0000,0000,,It looks like you're the same \Nthreat level as me: Dragon.
+Dialogue: 0,0:17:02.62,0:17:04.23,Main,Guy,0000,0000,0000,,Of course I am!
+Dialogue: 0,0:17:04.23,0:17:06.88,Main,Goke,0000,0000,0000,,Oh? You're still trying to stand?
+Dialogue: 0,0:17:16.46,0:17:18.82,Main,Eye,0000,0000,0000,,Our first objective...
+Dialogue: 0,0:17:19.53,0:17:24.68,Main,Eye,0000,0000,0000,,Let the monsters run wild to show \Nthe humans how terrifying we are.
+Dialogue: 0,0:17:24.68,0:17:27.33,Main,Eye,0000,0000,0000,,That part is going very well.
+Dialogue: 0,0:17:27.33,0:17:29.50,Main,Eye,0000,0000,0000,,No place is safe anymore.
+Dialogue: 0,0:17:29.95,0:17:33.34,Main,Eye,0000,0000,0000,,Everything is enveloped \Nin uneasiness and fear.
+Dialogue: 0,0:17:33.34,0:17:35.30,Main,Eye,0000,0000,0000,,Objective number two...
+Dialogue: 0,0:17:35.30,0:17:39.62,Main,Eye,0000,0000,0000,,Kidnapping someone connected \Nto the Hero Association.
+Dialogue: 0,0:17:39.62,0:17:41.51,Main,Eye,0000,0000,0000,,That was also a success.
+Dialogue: 0,0:17:41.51,0:17:44.66,Main,Eye,0000,0000,0000,,We managed to kidnap the son \Nof one of their executives.
+Dialogue: 0,0:17:44.66,0:17:47.07,Main,Eye,0000,0000,0000,,And objective number three...
+Dialogue: 0,0:17:47.07,0:17:49.63,Main,Eye,0000,0000,0000,,Turning worthy humans into monsters.
+Dialogue: 0,0:17:49.63,0:17:51.13,Main,Eye,0000,0000,0000,,This is also going well.
+Dialogue: 0,0:17:51.13,0:17:53.98,Main,Eye,0000,0000,0000,,Nyaan infiltrated a prison
+Dialogue: 0,0:17:53.98,0:17:59.05,Main,Eye,0000,0000,0000,,and monsterized a bunch of violent \Ninmates, and is heading back here.
+Dialogue: 0,0:17:59.05,0:18:02.64,Main,Eye,0000,0000,0000,,It appears Goketsu has turned some of \Nthe martial artists into monsters, as well.
+Dialogue: 0,0:18:02.64,0:18:06.15,Main,Eye,0000,0000,0000,,That should also bring us \Nsome worthy monsters.
+Dialogue: 0,0:18:07.02,0:18:09.55,Main,Eye,0000,0000,0000,,It appears Goketsu is still...
+Dialogue: 0,0:18:10.01,0:18:13.25,Main,Eye,0000,0000,0000,,Hey, Goketsu. Come back.
+Dialogue: 0,0:18:13.25,0:18:17.31,Main,Eye,0000,0000,0000,,If multiple Class S heroes show up, \Neven you will end up with broken bones.
+Dialogue: 0,0:18:17.87,0:18:18.99,Main,Goke,0000,0000,0000,,Don't underestimate me.
+Dialogue: 0,0:18:19.81,0:18:21.70,Main,Goke,0000,0000,0000,,But I'm done here, anyway.
+Dialogue: 0,0:18:22.18,0:18:23.54,Main,Goke,0000,0000,0000,,Hey, newbie.
+Dialogue: 0,0:18:23.54,0:18:24.73,Main,Guy,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:24.73,0:18:27.00,Main,Goke,0000,0000,0000,,I'll take you to our hideout. Come with me.
+Dialogue: 0,0:18:28.06,0:18:32.59,Main,Guy,0000,0000,0000,,Don't you dare order me around!
+Dialogue: 0,0:18:41.63,0:18:43.34,Main,Goke,0000,0000,0000,,Just listen.
+Dialogue: 0,0:18:43.34,0:18:47.46,Main,Goke,0000,0000,0000,,There are a number of monsters, \Nincluding me, who are stronger than you.
+Dialogue: 0,0:18:47.46,0:18:49.31,Main,Goke,0000,0000,0000,,Don't let your head get too big.
+Dialogue: 0,0:18:50.13,0:18:53.46,Main,Goke,0000,0000,0000,,Are the other monsters heading \Nback to the hideout, as well?
+Dialogue: 0,0:18:53.46,0:18:56.11,Main,Goke,0000,0000,0000,,That means the heroes, \Nincluding Class S heroes,
+Dialogue: 0,0:18:56.42,0:18:58.95,Main,Goke,0000,0000,0000,,will head toward any remaining monsters.
+Dialogue: 0,0:18:58.95,0:19:01.32,Main,Goke,0000,0000,0000,,A simpleton like you \Nwouldn't stand a chance.
+Dialogue: 0,0:19:01.81,0:19:05.29,Main,Goke,0000,0000,0000,,I've given you a warning. \NNow, I'm heading back.
+Dialogue: 0,0:19:06.63,0:19:09.29,Main,Goke,0000,0000,0000,,The outskirts of City Z.
+Dialogue: 0,0:19:09.29,0:19:11.25,Main,Goke,0000,0000,0000,,That's where you can find us.
+Dialogue: 0,0:19:12.50,0:19:14.26,Main,Guy,0000,0000,0000,,Did you hear that, Suiryu?
+Dialogue: 0,0:19:14.26,0:19:16.71,Main,Guy,0000,0000,0000,,There's a ton of monsters.
+Dialogue: 0,0:19:16.71,0:19:18.51,Main,Guy,0000,0000,0000,,Hilarious, isn't it?
+Dialogue: 0,0:19:18.93,0:19:21.47,Main,Guy,0000,0000,0000,,That guy's punch freaked me out.
+Dialogue: 0,0:19:22.95,0:19:25.74,Main,Guy,0000,0000,0000,,Yeah, I'm done trying to be the strongest.
+Dialogue: 0,0:19:26.23,0:19:28.06,Main,Sui,0000,0000,0000,,S-Say, Bakuzan...
+Dialogue: 0,0:19:29.03,0:19:31.31,Main,Sui,0000,0000,0000,,I have no intention of fighting anymore.
+Dialogue: 0,0:19:32.07,0:19:35.49,Main,Sui,0000,0000,0000,,Please... Just let me go.
+Dialogue: 0,0:19:36.09,0:19:39.37,Main,Guy,0000,0000,0000,,You see, Suiryu...
+Dialogue: 0,0:19:42.07,0:19:43.95,Main,Sui,0000,0000,0000,,S-Stop...
+Dialogue: 0,0:19:43.95,0:19:47.83,Main,Guy,0000,0000,0000,,I've always been a guy who loved \Nhurting those weaker than me!
+Dialogue: 0,0:19:47.83,0:19:51.41,Main,Guy,0000,0000,0000,,That's the only reason I \Nwanted to become stronger!
+Dialogue: 0,0:19:53.18,0:19:56.92,Main,Guy,0000,0000,0000,,Now that I'm free, I feel great!
+Dialogue: 0,0:19:58.13,0:19:59.88,Main,Guy,0000,0000,0000,,Let's go for another!
+Dialogue: 0,0:20:01.55,0:20:04.34,Main,Guy,0000,0000,0000,,Wow, the great Suiryu \Nactually screamed in agony.
+Dialogue: 0,0:20:04.34,0:20:07.76,Main,Guy,0000,0000,0000,,It's too bad we don't have \Nan audience to witness this.
+Dialogue: 0,0:20:09.21,0:20:15.61,Main,Guy,0000,0000,0000,,Youth, talent, popularity, \Nmoney, women, and freedom.
+Dialogue: 0,0:20:15.61,0:20:19.46,Main,Guy,0000,0000,0000,,Don't you think you're a bit \Ngreedy to have all of that?
+Dialogue: 0,0:20:21.55,0:20:25.91,Main,Guy,0000,0000,0000,,I'll let you taste a bit of hell \Nbefore you die to make up for it!
+Dialogue: 0,0:20:28.91,0:20:31.29,Main,Guy,0000,0000,0000,,You're pathetic, Champion.
+Dialogue: 0,0:20:33.66,0:20:35.18,Main,Sui,0000,0000,0000,,Someone!
+Dialogue: 0,0:20:35.18,0:20:37.79,Main,Sui,0000,0000,0000,,Help me!
+Dialogue: 0,0:20:37.79,0:20:39.51,Main,Sui,0000,0000,0000,,A monster!
+Dialogue: 0,0:20:39.51,0:20:42.61,Main,Sui,0000,0000,0000,,There's a monster here!
+Dialogue: 0,0:20:42.61,0:20:44.65,Main,Sui,0000,0000,0000,,Isn't there anyone who can help me?!
+Dialogue: 0,0:20:44.65,0:20:47.48,Main,Sui,0000,0000,0000,,I'm being attacked by a monster!
+Dialogue: 0,0:20:47.48,0:20:48.99,Main,Sui,0000,0000,0000,,Please!
+Dialogue: 0,0:20:48.99,0:20:52.19,Main,Sui,0000,0000,0000,,Heroes... Right! Heroes!
+Dialogue: 0,0:20:52.19,0:20:55.69,Main,Sui,0000,0000,0000,,If you can hear me, please come here!
+Dialogue: 0,0:20:55.69,0:20:59.61,Main,Sui,0000,0000,0000,,Heroes! Please come!
+Dialogue: 0,0:20:59.61,0:21:02.23,Main,Sui,0000,0000,0000,,There's a monster here...
+Dialogue: 0,0:21:02.23,0:21:03.75,Main,Sui,0000,0000,0000,,Heroes...
+Dialogue: 0,0:21:03.75,0:21:06.89,Main,Guy,0000,0000,0000,,No one's going to hear you.
+Dialogue: 0,0:21:06.89,0:21:08.45,Main,Guy,0000,0000,0000,,No heroes are going to come.
+Dialogue: 0,0:21:09.35,0:21:10.91,Main,Guy,0000,0000,0000,,You're going to die!
+Dialogue: 0,0:21:11.38,0:21:14.37,Main,Sui,0000,0000,0000,,No one stands a chance against this guy...
+Dialogue: 0,0:21:14.37,0:21:17.08,Main,Sui,0000,0000,0000,,No matter how strong some heroes may be...
+Dialogue: 0,0:21:18.19,0:21:22.09,Main,Sui,0000,0000,0000,,But, please... Rise up once again...
+Dialogue: 0,0:21:23.74,0:21:29.02,Italics,Sui,0000,0000,0000,,When people find themselves in \Ndarkness, they seek the light.
+Dialogue: 0,0:21:29.75,0:21:35.06,Italics,Sui,0000,0000,0000,,It doesn't matter how faint \Nor small that light is.
+Dialogue: 0,0:21:35.95,0:21:39.56,Italics,Sui,0000,0000,0000,,As long as it's there, there's hope...
+Dialogue: 0,0:21:40.74,0:21:43.82,Main,Guy,0000,0000,0000,,This is what you call despair.
+Dialogue: 0,0:21:53.59,0:21:55.08,Main,Guy,0000,0000,0000,,Who the hell are you?
+Dialogue: 0,0:21:56.77,0:21:59.29,Main,Sai,0000,0000,0000,,I'm a hero.
+Dialogue: 0,0:22:01.18,0:22:04.26,Main,Sai,0000,0000,0000,,I heard you call for help, Suiryu.
+Dialogue: 0,0:22:05.65,0:22:07.22,Main,Sai,0000,0000,0000,,You did well on your own.
+Dialogue: 0,0:22:08.11,0:22:09.72,Main,Sai,0000,0000,0000,,Leave the rest to me.
+Dialogue: 0,0:23:45.02,0:23:50.25,Next Ep Title,Sign,0000,0000,0000,,{\pos(236,255)}The Ultimate Dilemma

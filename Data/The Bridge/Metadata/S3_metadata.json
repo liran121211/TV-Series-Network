@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Avsnitt 1",
+        "released": "2023-12-26",
+        "rating": "7.9",
+        "imdb_id": "tt3923726",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S3\\Broen.S03E01.DANISH.720p50.HDTV-Z97.engS3E1.zip"
+    },
+    "2": {
+        "title": "Avsnitt 2",
+        "released": "2023-12-26",
+        "rating": "N/A",
+        "imdb_id": "tt4493508",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S3\\Broen.S03E02.DANISH.720p50.HDTV-Z97.engS3E2.zip"
+    },
+    "3": {
+        "title": "Avsnitt 3",
+        "released": "2015-10-11",
+        "rating": "N/A",
+        "imdb_id": "tt4493516",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S3\\Broen.S03E03.DANISH.720p50.HDTV-Z97.engS3E3.zip"
+    },
+    "4": {
+        "title": "Avsnitt 4",
+        "released": "2015-10-18",
+        "rating": "N/A",
+        "imdb_id": "tt4493524",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S3\\The_Bridge_S03E04_1080p_HDTV_x264_NL_SUBSS3E4.zip"
+    },
+    "5": {
+        "title": "Avsnitt 5",
+        "released": "2015-10-25",
+        "rating": "N/A",
+        "imdb_id": "tt4493526",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S3\\Broen.S03E05.DANISH.720p50.HDTV-Z97.engS3E5.zip"
+    },
+    "6": {
+        "title": "Avsnitt 6",
+        "released": "2023-12-26",
+        "rating": "8.1",
+        "imdb_id": "tt4493534",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S3\\Broen.S03E06.DANISH.720p50.HDTV-Z97.engS3E6.zip"
+    },
+    "7": {
+        "title": "Avsnitt 7",
+        "released": "2015-11-08",
+        "rating": "8.1",
+        "imdb_id": "tt4493538",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S3\\Broen.S03E07.DANISH.720p50.HDTV-Z97.engS3E7.zip"
+    },
+    "8": {
+        "title": "Avsnitt 8",
+        "released": "2023-12-26",
+        "rating": "N/A",
+        "imdb_id": "tt4493548",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S3\\Broen.S03E08.DANISH.720p50.HDTV-Z97.engS3E8.zip"
+    },
+    "9": {
+        "title": "Avsnitt 9",
+        "released": "2015-11-22",
+        "rating": "N/A",
+        "imdb_id": "tt4493556",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Bridge\\Subtitles\\S3\\Broen.S03E09.DANISH.720p50.HDTV-Z97.engS3E9.zip"
+    },
+    "10": {
+        "title": "Avsnitt 10",
+        "released": "2015-11-29",
+        "rating": "8.7",
+        "imdb_id": "tt4493562",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

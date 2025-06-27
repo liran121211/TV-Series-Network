@@ -1,0 +1,4481 @@
+﻿1
+00:00:00,015 --> 00:00:02,667
+<i>Previously on "Better Call Saul"...</i>
+
+2
+00:00:02,669 --> 00:00:05,069
+It was all you, start to finish.
+
+3
+00:00:05,071 --> 00:00:06,503
+Got to go.
+
+4
+00:00:06,505 --> 00:00:07,672
+Yep.
+
+5
+00:00:07,674 --> 00:00:11,067
+Perhaps we should
+temper our expectations.
+
+6
+00:00:11,070 --> 00:00:12,543
+You can call me Lalo.
+
+7
+00:00:12,545 --> 00:00:13,835
+The Salamanca family.
+
+8
+00:00:13,838 --> 00:00:15,378
+It's gonna be like I'm not even here.
+
+9
+00:00:15,381 --> 00:00:18,114
+We're way behind schedule,
+but the work is solid.
+
+10
+00:00:18,116 --> 00:00:19,215
+And Werner?
+
+11
+00:00:19,217 --> 00:00:20,650
+I've got eyes on him.
+
+12
+00:00:20,652 --> 00:00:23,043
+SAUL: The thing that we
+did, I mean, it was nuts.
+
+13
+00:00:23,046 --> 00:00:25,088
+And I dumped it in your lap.
+
+14
+00:00:25,090 --> 00:00:27,557
+I'm this close to being reinstated.
+
+15
+00:00:27,559 --> 00:00:28,929
+Let's do it again.
+
+16
+00:00:34,198 --> 00:00:37,233
+[CRUTCHES CLUNKING]
+
+17
+00:00:40,739 --> 00:00:43,539
+[ELEVATOR BELL DINGS]
+
+18
+00:00:43,541 --> 00:00:47,176
+[CRUTCHES CLUNKING]
+
+19
+00:00:47,178 --> 00:00:50,746
+[COPY MACHINE WHIRRING]
+
+20
+00:00:50,748 --> 00:00:53,609
+Excuse me.
+
+21
+00:00:53,612 --> 00:00:55,754
+- May I help you?
+- Oh, I really hope so.
+
+22
+00:00:55,757 --> 00:00:57,186
+What can I do for you?
+
+23
+00:00:57,188 --> 00:01:01,190
+Uh, my firm submitted
+plans for Mesa Verde Bank.
+
+24
+00:01:01,192 --> 00:01:02,864
+We're building a branch here in Lubbock.
+
+25
+00:01:02,867 --> 00:01:04,860
+Oh, sure, I think I
+saw that come through.
+
+26
+00:01:04,862 --> 00:01:06,562
+As I was cleaning up,
+
+27
+00:01:06,564 --> 00:01:08,843
+re-filing all our plans internally,
+
+28
+00:01:08,846 --> 00:01:12,201
+I realized I was missing
+one of the old versions.
+
+29
+00:01:12,203 --> 00:01:14,864
+We had some late changes to
+the conference-room dimensions,
+
+30
+00:01:14,867 --> 00:01:16,716
+so there were different
+versions floating around
+
+31
+00:01:16,718 --> 00:01:18,018
+and things got really complicated.
+
+32
+00:01:18,020 --> 00:01:19,286
+Sorry. [CHUCKLES]
+
+33
+00:01:19,289 --> 00:01:20,375
+Whew.
+
+34
+00:01:20,377 --> 00:01:23,144
+So, long story short,
+I think it's possible
+
+35
+00:01:23,146 --> 00:01:25,980
+the wrong version ended
+up in our proposal.
+
+36
+00:01:25,982 --> 00:01:27,716
+- Oh, dear.
+- Yeah.
+
+37
+00:01:27,718 --> 00:01:30,985
+So, I have the correct plans here,
+
+38
+00:01:30,987 --> 00:01:33,388
+and I was hoping to just take a look
+
+39
+00:01:33,390 --> 00:01:35,223
+at the approved plans to compare them,
+
+40
+00:01:35,225 --> 00:01:36,558
+- just to make sure.
+- Okay. Okay.
+
+41
+00:01:36,560 --> 00:01:37,792
+Um, but if they're wrong,
+
+42
+00:01:37,794 --> 00:01:39,160
+you know you have to re-file...
+
+43
+00:01:39,162 --> 00:01:40,995
+Re-file. Yeah. I know. [CHUCKLES]
+
+44
+00:01:40,997 --> 00:01:42,997
+I just want to make sure they
+actually are the wrong ones
+
+45
+00:01:42,999 --> 00:01:45,888
+before I, uh, get into it with my bosses.
+
+46
+00:01:45,891 --> 00:01:47,114
+No problem.
+
+47
+00:01:47,117 --> 00:01:48,836
+- Uh, Mesa Verde?
+- Yes.
+
+48
+00:01:48,838 --> 00:01:50,238
+Do you have the address?
+
+49
+00:01:50,240 --> 00:01:52,645
+8783 Baylor Street.
+
+50
+00:01:52,648 --> 00:01:53,808
+I'll be right back.
+
+51
+00:01:53,810 --> 00:01:55,376
+Thank you.
+
+52
+00:01:56,023 --> 00:01:57,456
+[BRIEFCASE THUDS]
+
+53
+00:01:57,459 --> 00:01:59,792
+[SIGHS]
+
+54
+00:01:59,795 --> 00:02:01,695
+[DOOR CLOSES]
+
+55
+00:02:04,020 --> 00:02:06,620
+- [DOOR OPENS]
+- SHIRLEY: Here we go.
+
+56
+00:02:06,622 --> 00:02:09,423
+[DOOR CLOSES]
+
+57
+00:02:09,425 --> 00:02:11,625
+Oh, I'll... I'll come around to you.
+
+58
+00:02:11,627 --> 00:02:13,661
+Oh, good. Thanks. [CHUCKLES]
+
+59
+00:02:16,833 --> 00:02:18,632
+Okay.
+
+60
+00:02:18,634 --> 00:02:20,835
+Yep. Dates match.
+
+61
+00:02:20,837 --> 00:02:22,636
+That's a good start. [CHUCKLES]
+
+62
+00:02:22,638 --> 00:02:27,875
+Uh, all right, conference
+room is on sheet A1.1.
+
+63
+00:02:32,194 --> 00:02:38,598
+And room dimensions
+should be 15'6 " by 12'6"?
+
+64
+00:02:38,601 --> 00:02:41,512
+Uh, 15'6 " by 12'6".
+
+65
+00:02:41,515 --> 00:02:42,455
+Great.
+
+66
+00:02:42,457 --> 00:02:44,490
+Uh, break or sprain?
+
+67
+00:02:44,492 --> 00:02:46,459
+- Huh?
+- Uh, your foot.
+
+68
+00:02:46,461 --> 00:02:48,061
+Oh, uh, a sprain.
+
+69
+00:02:48,063 --> 00:02:50,164
+I started trail running
+a couple months ago,
+
+70
+00:02:50,167 --> 00:02:52,533
+went for a run last week,
+wasn't paying attention,
+
+71
+00:02:52,536 --> 00:02:55,164
+and got my foot snagged
+in one of the roots,
+
+72
+00:02:55,167 --> 00:02:57,304
+- just twisted my ankle.
+- Ohh.
+
+73
+00:02:57,306 --> 00:03:00,874
+Do you have a setback for
+that conference-room wall
+
+74
+00:03:00,876 --> 00:03:03,310
+at 2 feet, 10 inches?
+
+75
+00:03:03,312 --> 00:03:06,598
+Uh, yes, the wall is set
+back 2 feet, 10 inches.
+
+76
+00:03:06,601 --> 00:03:08,013
+So far, so good.
+
+77
+00:03:09,050 --> 00:03:13,085
+It hasn't been that bad except
+I have an 8-month-old, so...
+
+78
+00:03:13,087 --> 00:03:14,686
+Oh, congratulations.
+
+79
+00:03:14,688 --> 00:03:16,088
+Thanks.
+
+80
+00:03:16,090 --> 00:03:18,557
+Been, you know, kind
+of doing it on my own.
+
+81
+00:03:18,559 --> 00:03:20,159
+My brother's been helping
+
+82
+00:03:20,161 --> 00:03:21,493
+since I'm a little limited these days,
+
+83
+00:03:21,495 --> 00:03:23,095
+driving me around and whatnot.
+
+84
+00:03:23,097 --> 00:03:25,097
+Well, it's nice to have family around.
+
+85
+00:03:25,099 --> 00:03:26,498
+Yeah.
+
+86
+00:03:26,500 --> 00:03:28,500
+For the most part.
+
+87
+00:03:28,502 --> 00:03:30,336
+[CHUCKLES] He tries.
+
+88
+00:03:30,338 --> 00:03:31,670
+That's the important thing, right?
+
+89
+00:03:31,672 --> 00:03:33,572
+- [CHUCKLING] Oh. Yeah.
+- Okay.
+
+90
+00:03:33,574 --> 00:03:35,908
+I think these are the same.
+
+91
+00:03:35,910 --> 00:03:38,143
+Am I missing anything?
+
+92
+00:03:43,822 --> 00:03:46,020
+They look the same to me.
+
+93
+00:03:46,023 --> 00:03:47,352
+- Great.
+- [BOTH LAUGH]
+
+94
+00:03:47,354 --> 00:03:48,879
+- Yes!
+- No re-filing.
+
+95
+00:03:48,882 --> 00:03:50,168
+Ahh. Thank you.
+
+96
+00:03:50,171 --> 00:03:52,395
+Uh, thank you, Shirley. God.
+
+97
+00:03:52,398 --> 00:03:53,524
+You're welcome.
+
+98
+00:03:53,526 --> 00:03:55,126
+You saved my life.
+
+99
+00:03:55,128 --> 00:03:58,176
+I am telling you, my bosses
+would have murdered me.
+
+100
+00:03:58,179 --> 00:03:59,730
+I understand.
+
+101
+00:03:59,732 --> 00:04:02,267
+You know, you're the only
+person in charge of organization,
+
+102
+00:04:02,269 --> 00:04:04,735
+- and suddenly everything's your fault, right?
+- Mm-hmm.
+
+103
+00:04:04,737 --> 00:04:07,538
+I assume you would know all about that.
+
+104
+00:04:07,540 --> 00:04:09,374
+Yo, Lizzie.
+
+105
+00:04:09,376 --> 00:04:12,110
+Bill. Where's Aidan?
+
+106
+00:04:12,112 --> 00:04:13,945
+Oh. Hey, lady.
+
+107
+00:04:13,947 --> 00:04:17,547
+Um, he's fine, but he's very hungry.
+
+108
+00:04:17,549 --> 00:04:19,983
+- Bill. Bill...
+- And he's like a little eating machine.
+
+109
+00:04:19,985 --> 00:04:21,622
+- Bill...
+- Could you sniff this for me?
+
+110
+00:04:21,625 --> 00:04:22,921
+Bill! Where is Aidan?
+
+111
+00:04:22,924 --> 00:04:24,528
+He's fine. He's in the Wrangler.
+
+112
+00:04:24,531 --> 00:04:26,070
+- Just take a smell because...
+- What?
+
+113
+00:04:26,073 --> 00:04:29,906
+- ...[SNIFFS] it's a little funky.
+- You left my child in your Jeep?!
+
+114
+00:04:29,909 --> 00:04:31,876
+Yeah. I cracked the window, just...
+
+115
+00:04:31,879 --> 00:04:33,062
+- Bill...
+- What?
+
+116
+00:04:33,065 --> 00:04:34,703
+- Check this...
+- Just give me the keys.
+
+117
+00:04:34,706 --> 00:04:36,400
+- I'm not gonna check it!
+- Where ya going?
+
+118
+00:04:36,402 --> 00:04:38,568
+To get Aidan because you
+can't leave a baby in a car.
+
+119
+00:04:38,570 --> 00:04:40,404
+What the hell is wrong with you?!
+
+120
+00:04:40,406 --> 00:04:42,172
+Oh, man.
+
+121
+00:04:42,174 --> 00:04:44,153
+- Get... Go get the...
+- What?
+
+122
+00:04:44,156 --> 00:04:45,809
+- Go get the baby, Bill.
+- What did I do?
+
+123
+00:04:45,811 --> 00:04:47,734
+- Help her!
+- Well, it's only been a minute.
+
+124
+00:04:47,737 --> 00:04:49,536
+- I didn't know!
+- [KIM SIGHS]
+
+125
+00:04:49,539 --> 00:04:51,980
+Sorry. [SLURPING]
+
+126
+00:04:51,983 --> 00:04:53,416
+What am I supposed to do?
+
+127
+00:04:53,418 --> 00:04:55,184
+KIM: What are you supposed to do?
+
+128
+00:04:55,186 --> 00:04:57,723
+You're supposed to watch a
+baby for five minutes in a car.
+
+129
+00:04:57,726 --> 00:04:58,822
+How hard is that?
+
+130
+00:04:58,824 --> 00:05:01,203
+Slow down. I'm wearing flip-flops.
+
+131
+00:05:08,433 --> 00:05:11,334
+[CRUTCHES CLUNKING]
+
+132
+00:05:11,336 --> 00:05:13,436
+How's Aidan?
+
+133
+00:05:13,438 --> 00:05:14,656
+Oh, he's fine.
+
+134
+00:05:14,659 --> 00:05:17,205
+He was only alone for
+a minute, thank God.
+
+135
+00:05:17,208 --> 00:05:19,320
+Wait. What... What happened?
+
+136
+00:05:19,323 --> 00:05:20,852
+- Your milk...
+- What?
+
+137
+00:05:20,855 --> 00:05:22,610
+Well, it... it just
+kind of went everywhere.
+
+138
+00:05:22,613 --> 00:05:24,813
+- What are you talking...
+- I am so sorry.
+
+139
+00:05:24,815 --> 00:05:26,815
+What... Oh, my God.
+
+140
+00:05:26,817 --> 00:05:29,452
+[GASPS] Oh, my God. Oh, my God.
+
+141
+00:05:29,454 --> 00:05:31,454
+- I... I...
+- No, no, no, no, no, no, no, no, no, no!
+
+142
+00:05:31,456 --> 00:05:33,389
+- Shirley, I can't! Shirley, that's not...
+- A-All right, all right.
+
+143
+00:05:33,391 --> 00:05:34,823
+Oh, my God, they don't
+even know I'm in Texas!
+
+144
+00:05:34,825 --> 00:05:36,192
+L-Listen, this is what we're gonna do.
+
+145
+00:05:36,194 --> 00:05:37,659
+This is what we're gonna do.
+
+146
+00:05:37,661 --> 00:05:40,229
+- [GASPING]
+- You're gonna give me your copy,
+
+147
+00:05:40,231 --> 00:05:42,031
+and I'll trade them out.
+
+148
+00:05:42,033 --> 00:05:44,265
+W-Won't you get in trouble?
+
+149
+00:05:44,268 --> 00:05:45,634
+They're exactly the same.
+
+150
+00:05:45,636 --> 00:05:47,236
+No one has to know.
+
+151
+00:05:47,238 --> 00:05:49,609
+[EXHALES SHARPLY] Are you sure?
+
+152
+00:05:49,612 --> 00:05:51,434
+- Go on, Gettem.
+- Okay.
+
+153
+00:05:51,437 --> 00:05:53,075
+Okay.
+
+154
+00:05:53,077 --> 00:05:55,643
+Okay, if you're sure.
+
+155
+00:05:55,645 --> 00:05:57,879
+Okay.
+
+156
+00:05:59,649 --> 00:06:01,916
+Thank you so much.
+
+157
+00:06:01,918 --> 00:06:03,851
+Shirley...
+
+158
+00:06:03,853 --> 00:06:06,747
+I can't tell you how
+much this means to me.
+
+159
+00:06:06,750 --> 00:06:08,823
+Really, you're a life-saver.
+
+160
+00:06:08,825 --> 00:06:11,171
+SHIRLEY: We need to stick together.
+
+161
+00:06:11,174 --> 00:06:14,441
+Being a mom is hard enough.
+
+162
+00:06:14,444 --> 00:06:16,144
+[CHUCKLES]
+
+163
+00:06:16,147 --> 00:06:18,032
+All right.
+
+164
+00:06:18,035 --> 00:06:19,267
+[SNIFFLES]
+
+165
+00:06:19,269 --> 00:06:21,179
+[BREATHING HEAVILY]
+
+166
+00:06:21,182 --> 00:06:22,670
+[SNIFFLES]
+
+167
+00:06:22,672 --> 00:06:24,039
+All right.
+
+168
+00:06:24,041 --> 00:06:26,841
+Let's make this official.
+
+169
+00:06:26,843 --> 00:06:29,743
+[STAMP MACHINE THUNKING]
+
+170
+00:06:29,745 --> 00:06:33,113
+[BREATHING HEAVILY]
+
+171
+00:06:38,754 --> 00:06:42,835
+♪ ♪
+
+172
+00:06:42,838 --> 00:06:47,921
+- <font color="#D81D1D">Synced and corrected by VitoSilans</font> -
+-- <font color="#138CE9">www.Addic7ed.com</font> --
+
+173
+00:06:53,364 --> 00:06:55,540
+<i>We have returned. Welcome
+back to "The Newlywed Game."</i>
+
+174
+00:06:55,543 --> 00:06:57,185
+<i>Gentlemen, we've recorded
+your predictions on cards.</i>
+
+175
+00:06:57,187 --> 00:06:58,591
+<i>You now have them flat on your laps.</i>
+
+176
+00:06:58,593 --> 00:06:59,669
+<i>Remember, each time</i>
+
+177
+00:06:59,672 --> 00:07:01,294
+<i>that your prediction
+matches your wife's answer,</i>
+
+178
+00:07:01,296 --> 00:07:03,293
+<i>you get 5 points, and the one couple</i>
+
+179
+00:07:03,296 --> 00:07:04,654
+<i>with the most points
+at the end of the show</i>
+
+180
+00:07:04,656 --> 00:07:06,161
+<i>wins a great second honeymoon.</i>
+
+181
+00:07:06,164 --> 00:07:08,512
+<i>So, ladies, we are so thrilled
+that you did come back,</i>
+
+182
+00:07:08,515 --> 00:07:10,216
+<i>and here's your first
+question for 5 points.</i>
+
+183
+00:07:10,218 --> 00:07:12,392
+<i>Tell me, ladies, if you were a boat,</i>
+
+184
+00:07:12,395 --> 00:07:13,964
+<i>does your husband think</i>
+
+185
+00:07:13,966 --> 00:07:18,634
+<i>you've been taking in the most
+water lately on your stern...</i>
+
+186
+00:07:18,636 --> 00:07:23,173
+<i>on your port side, on your
+starboard side, or on your bow?</i>
+
+187
+00:07:23,175 --> 00:07:24,740
+<i>Where you taking in that water, Laura?</i>
+
+188
+00:07:24,742 --> 00:07:26,176
+- LAURA: <i>My stern.</i>
+- [SPEAKING SPANISH] _
+
+189
+00:07:26,178 --> 00:07:27,609
+<i>- On your stern.
+- Definitely, yeah.</i>
+
+190
+00:07:27,612 --> 00:07:30,679
+<i>He said you've been taking a
+lot of water in on your bow.</i>
+
+191
+00:07:30,682 --> 00:07:31,982
+<i>Bow?</i>
+
+192
+00:07:31,984 --> 00:07:33,583
+MAN: <i>The top half's the bow.</i>
+
+193
+00:07:33,585 --> 00:07:35,385
+<i>- Yeah, but...
+- Okay.</i>
+
+194
+00:07:35,387 --> 00:07:38,221
+<i>I... I'm a little... Are
+you saying I'm top-heavy?</i>
+
+195
+00:07:38,223 --> 00:07:40,390
+<i>- Lately.
+- Lately? I guess. Okay.</i>
+
+196
+00:07:40,392 --> 00:07:41,724
+<i>Are you complaining?</i>
+
+197
+00:07:41,726 --> 00:07:43,593
+<i>- No, not at all.
+- [LAUGHTER]</i>
+
+198
+00:07:43,595 --> 00:07:45,495
+<i>You don't like her
+bow? I love her bow.</i>
+
+199
+00:07:45,497 --> 00:07:47,597
+- [SPEAKING SPANISH] _
+- <i>I just thought my stern.</i>
+
+200
+00:07:48,187 --> 00:07:49,523
+_
+
+201
+00:07:50,593 --> 00:07:52,012
+_
+
+202
+00:07:52,015 --> 00:07:53,836
+<i>No. How's she stay afloat?</i>
+
+203
+00:07:53,838 --> 00:07:55,404
+<i>- [LAUGHTER]
+- She's top-heavy.</i>
+
+204
+00:07:55,406 --> 00:07:57,339
+<i>- She's top-heavy?
+- Yeah.</i>
+
+205
+00:07:57,341 --> 00:07:59,752
+<i>I see. Okay. Tammy, where
+you taking in the water?</i>
+
+206
+00:07:59,755 --> 00:08:00,855
+_
+
+207
+00:08:01,272 --> 00:08:02,346
+_
+
+208
+00:08:02,349 --> 00:08:04,179
+<i>Oh, because your bow
+is your stomach here.</i>
+
+209
+00:08:04,181 --> 00:08:05,748
+<i>Her bow is her top side.</i>
+
+210
+00:08:05,750 --> 00:08:06,777
+<i>Well, you know...</i>
+
+211
+00:08:06,778 --> 00:08:12,587
+_
+
+212
+00:08:12,590 --> 00:08:15,157
+[CHUCKLES]
+
+213
+00:08:15,328 --> 00:08:16,995
+_
+
+214
+00:08:16,996 --> 00:08:19,582
+_
+
+215
+00:08:19,585 --> 00:08:22,896
+<i>...said you've been taking
+a lot of water in on your...</i>
+
+216
+00:08:22,899 --> 00:08:24,263
+_
+
+217
+00:08:26,798 --> 00:08:28,927
+_
+
+218
+00:08:29,474 --> 00:08:32,775
+MAN: <i>Big bow. [LAUGHS]</i>
+
+219
+00:08:33,304 --> 00:08:37,891
+_
+
+220
+00:08:38,347 --> 00:08:40,102
+_
+
+221
+00:08:40,105 --> 00:08:41,687
+<i>You don't like her stern?</i>
+
+222
+00:08:41,688 --> 00:08:43,055
+_
+
+223
+00:08:43,058 --> 00:08:46,487
+[LAUGHS]
+
+224
+00:08:47,819 --> 00:08:50,508
+_
+
+225
+00:08:53,366 --> 00:08:55,261
+_
+
+226
+00:08:55,264 --> 00:08:56,783
+<i>[LAUGHTER]</i>
+
+227
+00:08:56,786 --> 00:09:01,300
+_
+
+228
+00:09:01,303 --> 00:09:05,083
+[BREATHING HEAVILY]
+
+229
+00:09:05,086 --> 00:09:08,297
+_
+
+230
+00:09:08,298 --> 00:09:11,705
+_
+
+231
+00:09:11,708 --> 00:09:15,616
+<i>[INDISTINCT CONVERSATION ON TV]</i>
+
+232
+00:09:15,930 --> 00:09:17,849
+_
+
+233
+00:09:19,849 --> 00:09:23,091
+_
+
+234
+00:09:28,777 --> 00:09:33,364
+_
+
+235
+00:09:33,660 --> 00:09:37,577
+_
+
+236
+00:09:39,355 --> 00:09:42,373
+_
+
+237
+00:09:43,750 --> 00:09:45,411
+_
+
+238
+00:09:50,089 --> 00:09:52,544
+_
+
+239
+00:09:53,676 --> 00:09:55,638
+_
+
+240
+00:09:56,596 --> 00:10:01,643
+_
+
+241
+00:10:02,143 --> 00:10:05,835
+_
+
+242
+00:10:05,838 --> 00:10:06,999
+[CHUCKLES]
+
+243
+00:10:07,002 --> 00:10:09,963
+_
+
+244
+00:10:10,892 --> 00:10:12,695
+_
+
+245
+00:10:14,155 --> 00:10:15,994
+_
+
+246
+00:10:17,305 --> 00:10:19,830
+_
+
+247
+00:10:20,370 --> 00:10:21,783
+_
+
+248
+00:10:23,186 --> 00:10:25,072
+_
+
+249
+00:10:34,822 --> 00:10:38,430
+[BREATHING HEAVILY]
+
+250
+00:10:38,432 --> 00:10:40,565
+<i>He said you dragged the telephone</i>
+
+251
+00:10:40,567 --> 00:10:42,541
+<i>and dropped if off a 10-story building.</i>
+
+252
+00:10:42,544 --> 00:10:43,955
+<i>[LAUGHS]</i>
+
+253
+00:10:43,958 --> 00:10:46,394
+_
+
+254
+00:10:46,397 --> 00:10:47,769
+[CHUCKLES]
+
+255
+00:10:47,772 --> 00:10:52,894
+_
+
+256
+00:10:52,897 --> 00:10:56,283
+"Ding! Ding! Ding!" [LAUGHS]
+
+257
+00:10:56,286 --> 00:11:01,674
+_
+
+258
+00:11:02,579 --> 00:11:04,254
+_
+
+259
+00:11:05,039 --> 00:11:06,165
+_
+
+260
+00:11:06,374 --> 00:11:07,866
+_
+
+261
+00:11:07,869 --> 00:11:10,843
+<i>...what will your husband say
+you think he needs to work on</i>
+
+262
+00:11:10,846 --> 00:11:13,064
+- <i>before your next big match?</i>
+- [BELL DINGS]
+
+263
+00:11:13,713 --> 00:11:15,046
+_
+
+264
+00:11:15,049 --> 00:11:16,971
+- [BELL DINGS]
+- [CHUCKLES] _
+
+265
+00:11:17,181 --> 00:11:18,327
+_
+
+266
+00:11:18,330 --> 00:11:20,337
+- [BELL DINGING REPEATEDLY]
+- [LAUGHING]
+
+267
+00:11:20,339 --> 00:11:22,472
+[DINGING CONTINUES]
+
+268
+00:11:22,474 --> 00:11:25,676
+[LAUGHING]
+
+269
+00:11:28,813 --> 00:11:31,275
+_
+
+270
+00:11:31,278 --> 00:11:32,600
+[LAUGHS]
+
+271
+00:11:32,603 --> 00:11:34,852
+[BREATHING HEAVILY]
+
+272
+00:11:34,854 --> 00:11:36,453
+<i>I'm sorry he has a problem.</i>
+
+273
+00:11:36,455 --> 00:11:37,405
+<i>Laura?</i>
+
+274
+00:11:37,408 --> 00:11:39,089
+LAURA: <i>Definitely follow-through.</i>
+
+275
+00:11:39,092 --> 00:11:40,457
+<i>- Follow-through.
+- Yeah.</i>
+
+276
+00:11:40,459 --> 00:11:41,784
+<i>Everything else is doing good,</i>
+
+277
+00:11:41,787 --> 00:11:44,061
+<i>but afterwards, he's
+like, "Okay, what's next?</i>
+
+278
+00:11:44,064 --> 00:11:45,529
+<i>- Let's get up and go
+- " Oh, really?</i>
+
+279
+00:11:45,531 --> 00:11:46,864
+<i>[LAUGHING] Yeah.</i>
+
+280
+00:11:46,866 --> 00:11:49,083
+<i>- That's 12:00 at night, right?
+- Yeah...</i>
+
+281
+00:11:49,086 --> 00:11:52,165
+Hey, why don't you, um,
+go get some Jell-O?
+
+282
+00:11:52,168 --> 00:11:54,560
+WOMAN: <i>Pacing, yeah. Everything
+else is fine, just pacing.</i>
+
+283
+00:11:54,563 --> 00:11:55,795
+<i>We got a big pacing problem.</i>
+
+284
+00:11:55,798 --> 00:11:57,207
+<i>[CHUCKLES] Okay.</i>
+
+285
+00:11:57,209 --> 00:11:59,185
+<i>Next question, ladies...
+How many gallons of water</i>
+
+286
+00:11:59,188 --> 00:12:00,162
+<i>will your husband say</i>
+
+287
+00:12:00,165 --> 00:12:02,663
+<i>the largest tub or sink
+in your home holds?</i>
+
+288
+00:12:02,666 --> 00:12:05,030
+_
+
+289
+00:12:05,033 --> 00:12:06,227
+[BELL DINGS]
+
+290
+00:12:06,230 --> 00:12:07,762
+<i>I would say 32 maybe.</i>
+
+291
+00:12:07,765 --> 00:12:11,094
+<i>32. Wow. That's a guess, but...</i>
+
+292
+00:12:11,097 --> 00:12:12,815
+- <i>Yeah.</i>
+- [BELL DINGS]
+
+293
+00:12:12,818 --> 00:12:14,691
+<i>...I'm not very good with,
+like, measure stuff.</i>
+
+294
+00:12:14,693 --> 00:12:16,326
+<i>Laura?</i>
+
+295
+00:12:16,328 --> 00:12:18,495
+LAURA: <i>Probably smaller,
+just, like, maybe 10.</i>
+
+296
+00:12:18,497 --> 00:12:20,330
+<i>- 10? 10 Gallons?
+- 10. 10 gallons.</i>
+
+297
+00:12:20,332 --> 00:12:22,367
+<i>- Oh, my.
+- Yeah. Smaller size.</i>
+
+298
+00:12:22,370 --> 00:12:24,133
+<i>- Pardon me?
+- A smaller size.</i>
+
+299
+00:12:24,135 --> 00:12:25,622
+<i>He's not taking a bath, is he?</i>
+
+300
+00:12:25,625 --> 00:12:26,891
+<i>Well, we have a ver...</i>
+
+301
+00:12:26,894 --> 00:12:30,172
+<i>[SOFT PIANO MUSIC PLAYING]</i>
+
+302
+00:12:41,019 --> 00:12:42,385
+Same old Hector.
+
+303
+00:12:42,387 --> 00:12:44,720
+Just wants to kill everybody.
+
+304
+00:12:44,722 --> 00:12:48,243
+<i>[MUSIC CONTINUES]</i>
+
+305
+00:12:48,246 --> 00:12:51,047
+You know, the biggest pancake
+is not the best pancake,
+
+306
+00:12:51,050 --> 00:12:52,261
+or they would call it
+
+307
+00:12:52,263 --> 00:12:54,530
+"the best pancake that
+happens to be the biggest."
+
+308
+00:12:54,532 --> 00:12:55,612
+- [LAUGHS]
+- Top off?
+
+309
+00:12:55,615 --> 00:12:57,998
+But, no, it's the... Thank you.
+
+310
+00:12:58,001 --> 00:12:59,833
+Can I get y'all anything else?
+
+311
+00:12:59,836 --> 00:13:01,519
+- Stuffed.
+- Uh, we're good. Thanks.
+
+312
+00:13:01,522 --> 00:13:03,672
+[CHUCKLES] No, you don't
+want a whole other burger?
+
+313
+00:13:03,675 --> 00:13:05,117
+Whenever you're ready. No rush.
+
+314
+00:13:05,120 --> 00:13:06,941
+Okay, thanks. [LAUGHS]
+
+315
+00:13:06,943 --> 00:13:09,611
+You better take it easy with that stuff.
+
+316
+00:13:09,613 --> 00:13:13,055
+Oh, we've still got at
+least at hour on the road.
+
+317
+00:13:13,058 --> 00:13:14,222
+Gotta stay awake.
+
+318
+00:13:14,225 --> 00:13:17,559
+Yeah, but you got to be able
+to sleep when we get home, too.
+
+319
+00:13:17,562 --> 00:13:19,788
+- What time is your hearing?
+- 11:00.
+
+320
+00:13:19,790 --> 00:13:21,189
+This time next week,
+
+321
+00:13:21,191 --> 00:13:24,359
+I will once again be
+James McGill, Esquire.
+
+322
+00:13:24,361 --> 00:13:26,542
+- Yes.
+- Mm.
+
+323
+00:13:26,545 --> 00:13:28,296
+<i>[WOMAN SINGING INDISTINCTLY]</i>
+
+324
+00:13:28,298 --> 00:13:31,599
+Mm! And I already got a
+jump on my new practice.
+
+325
+00:13:31,601 --> 00:13:32,966
+Oh, yeah?
+- Yeah.
+
+326
+00:13:32,968 --> 00:13:33,995
+[MUG THUDS]
+
+327
+00:13:33,998 --> 00:13:36,273
+Unexpected bonus of
+the drop-phone business...
+
+328
+00:13:36,276 --> 00:13:38,539
+It turns out it's great
+for client development.
+
+329
+00:13:38,541 --> 00:13:40,969
+Y-Yes, I-I guess that's true.
+
+330
+00:13:40,972 --> 00:13:41,972
+Sooner or later,
+
+331
+00:13:41,975 --> 00:13:45,586
+every last one of those idiots
+is gonna need an attorney.
+
+332
+00:13:45,589 --> 00:13:47,581
+<i>[SOFT MUSIC PLAYING]</i>
+
+333
+00:13:47,583 --> 00:13:49,983
+Of course, they all
+know me as Saul Goodman.
+
+334
+00:13:49,985 --> 00:13:52,386
+- That's just details.
+- [CHUCKLES]
+
+335
+00:13:52,388 --> 00:13:54,788
+<i>[MUSIC CONTINUES]</i>
+
+336
+00:13:54,790 --> 00:13:57,791
+Got to say, a lot of people
+
+337
+00:13:57,793 --> 00:14:01,228
+are gonna be begging for the
+old Huell Babineaux treatment.
+
+338
+00:14:01,230 --> 00:14:02,496
+And what's that?
+
+339
+00:14:02,498 --> 00:14:05,399
+Our powers...
+
+340
+00:14:05,401 --> 00:14:07,198
+combined.
+
+341
+00:14:07,201 --> 00:14:10,002
+- ♪ <i>I don't care</i> ♪
+- People would pay top dollar
+
+342
+00:14:10,005 --> 00:14:13,250
+for us to undo a potentially
+life-ruining sentence.
+
+343
+00:14:13,253 --> 00:14:14,977
+♪ <i>I'll get by</i> ♪
+
+344
+00:14:14,980 --> 00:14:17,781
+I think we should only
+use our powers for good.
+
+345
+00:14:17,784 --> 00:14:20,413
+What are we considering good as of...
+
+346
+00:14:20,415 --> 00:14:22,836
+- 9:06 p.m. tonight?
+- You know what?
+
+347
+00:14:22,839 --> 00:14:24,751
+It's like Potter Stewart said.
+
+348
+00:14:24,753 --> 00:14:26,819
+We'll know it when we see it.
+
+349
+00:14:26,821 --> 00:14:28,989
+<i>[SINGING CONTINUES]</i>
+
+350
+00:14:33,262 --> 00:14:34,827
+[CLEARS THROAT]
+
+351
+00:14:34,829 --> 00:14:39,332
+We just drove 300 miles
+to scam Lubbock, Texas,
+
+352
+00:14:39,334 --> 00:14:42,758
+so that your client can have
+a 13% bigger bank branch.
+
+353
+00:14:42,761 --> 00:14:44,003
+Don't get me wrong.
+
+354
+00:14:44,005 --> 00:14:45,269
+I loved every second of it.
+
+355
+00:14:45,272 --> 00:14:49,040
+But how is that using
+our powers for good?
+
+356
+00:14:49,043 --> 00:14:51,277
+♪ <i>As long as I</i> ♪
+
+357
+00:14:51,279 --> 00:14:55,515
+♪ <i>As long as I have you</i> ♪
+
+358
+00:14:55,517 --> 00:14:58,451
+♪ <i>And if the sky</i> ♪
+
+359
+00:14:58,453 --> 00:15:00,653
+Okay. Fine.
+
+360
+00:15:00,655 --> 00:15:03,055
+Yeah. We'll know it when we see it.
+
+361
+00:15:03,057 --> 00:15:04,457
+I-I like it.
+
+362
+00:15:04,459 --> 00:15:06,992
+It's a plan I can get behind.
+
+363
+00:15:06,994 --> 00:15:10,129
+♪ <i>...the sea</i> ♪
+
+364
+00:15:10,131 --> 00:15:14,199
+♪ <i>Oh, just, just as...</i> ♪
+
+365
+00:15:31,101 --> 00:15:34,135
+[EXHALES SHARPLY]
+
+366
+00:15:46,100 --> 00:15:49,101
+[SPEAKING GERMAN]
+
+367
+00:15:49,103 --> 00:15:51,402
+Mm-hmm. Okay.
+
+368
+00:16:01,121 --> 00:16:04,490
+[FOOTSTEPS CLUNKING]
+
+369
+00:16:26,939 --> 00:16:30,308
+[AIR BRAKES SQUEALING]
+
+370
+00:16:38,549 --> 00:16:40,883
+I'm in position.
+
+371
+00:16:40,886 --> 00:16:43,118
+We're almost ready here. Stand by.
+
+372
+00:16:43,121 --> 00:16:45,424
+Copy.
+
+373
+00:16:48,335 --> 00:16:51,703
+[CONVERSING IN GERMAN]
+
+374
+00:16:55,859 --> 00:16:57,492
+What's up?
+
+375
+00:16:57,495 --> 00:16:59,109
+My apologies.
+
+376
+00:16:59,112 --> 00:17:01,640
+We have a small problem.
+
+377
+00:17:01,643 --> 00:17:02,806
+How small?
+
+378
+00:17:02,808 --> 00:17:04,575
+KAI: The red light.
+
+379
+00:17:04,577 --> 00:17:08,148
+It means there's no,
+uh... How do you say...
+
+380
+00:17:08,151 --> 00:17:10,180
+Continuity on the circuit
+
+381
+00:17:10,182 --> 00:17:12,583
+of one of the three charges.
+
+382
+00:17:12,585 --> 00:17:14,187
+The orange one.
+
+383
+00:17:14,190 --> 00:17:17,187
+There may be a loose or faulty wire.
+
+384
+00:17:17,189 --> 00:17:20,024
+I'll go in and check.
+
+385
+00:17:20,026 --> 00:17:23,193
+I thought you were
+the demolition expert.
+
+386
+00:17:23,195 --> 00:17:25,462
+It's my job, Michael.
+
+387
+00:17:32,805 --> 00:17:35,005
+- [SIGHS]
+- Stand by.
+
+388
+00:17:35,007 --> 00:17:38,526
+Copy. Standing by.
+
+389
+00:17:55,360 --> 00:17:59,028
+[HATCH CREAKING]
+
+390
+00:17:59,030 --> 00:18:01,498
+[HATCH THUDS]
+
+391
+00:18:13,812 --> 00:18:16,079
+[FLASHLIGHT CLICKS]
+
+392
+00:18:51,540 --> 00:18:54,875
+[SNIFFLES]
+
+393
+00:18:54,885 --> 00:18:58,253
+[GASPING RAPIDLY]
+
+394
+00:19:00,290 --> 00:19:07,529
+♪ ♪
+
+395
+00:19:07,531 --> 00:19:10,866
+[GASPING CONTINUES]
+
+396
+00:19:10,868 --> 00:19:20,791
+♪ ♪
+
+397
+00:19:20,885 --> 00:19:30,799
+♪ ♪
+
+398
+00:19:30,887 --> 00:19:39,117
+♪ ♪
+
+399
+00:19:39,120 --> 00:19:40,612
+[SPEAKING GERMAN] _
+
+400
+00:19:42,198 --> 00:19:44,377
+_
+
+401
+00:19:45,334 --> 00:19:47,735
+[EXHALES SHARPLY]
+
+402
+00:19:47,737 --> 00:19:50,337
+♪ ♪
+
+403
+00:19:50,339 --> 00:19:53,307
+[BREATHING HEAVILY]
+
+404
+00:19:53,309 --> 00:19:56,576
+♪ ♪
+
+405
+00:19:56,578 --> 00:19:59,913
+[GASPING RAPIDLY]
+
+406
+00:19:59,915 --> 00:20:09,800
+♪ ♪
+
+407
+00:20:09,925 --> 00:20:19,823
+♪ ♪
+
+408
+00:20:19,935 --> 00:20:29,870
+♪ ♪
+
+409
+00:20:29,944 --> 00:20:39,839
+♪ ♪
+
+410
+00:20:39,956 --> 00:20:41,954
+♪ ♪
+
+411
+00:20:41,956 --> 00:20:44,123
+[GASPING CONTINUES]
+
+412
+00:20:44,125 --> 00:20:45,791
+[COUGHING]
+
+413
+00:20:45,793 --> 00:20:47,793
+[BREATHING DEEPLY]
+
+414
+00:20:47,795 --> 00:20:49,228
+[SIGHS]
+
+415
+00:20:54,834 --> 00:20:56,143
+[SPEAKS GERMAN] _
+
+416
+00:20:57,604 --> 00:20:59,569
+I think we're ready here, Michael.
+
+417
+00:21:18,423 --> 00:21:20,190
+All green.
+
+418
+00:21:20,193 --> 00:21:22,660
+We're good here.
+
+419
+00:21:22,662 --> 00:21:25,062
+- TYRUS: Ready?
+- Go.
+
+420
+00:21:25,064 --> 00:21:26,430
+Call it.
+
+421
+00:21:26,432 --> 00:21:27,862
+On the go.
+
+422
+00:21:29,568 --> 00:21:32,503
+[AIR BRAKES HISS]
+
+423
+00:21:32,505 --> 00:21:42,378
+♪ ♪
+
+424
+00:21:42,502 --> 00:21:52,409
+♪ ♪
+
+425
+00:21:52,525 --> 00:22:02,432
+♪ ♪
+
+426
+00:22:02,535 --> 00:22:12,456
+♪ ♪
+
+427
+00:22:12,550 --> 00:22:17,279
+♪ ♪
+
+428
+00:22:17,281 --> 00:22:19,582
+Five...
+
+429
+00:22:19,584 --> 00:22:21,283
+four...
+
+430
+00:22:21,285 --> 00:22:23,152
+three...
+
+431
+00:22:23,154 --> 00:22:24,954
+two...
+
+432
+00:22:24,956 --> 00:22:26,255
+one.
+
+433
+00:22:26,257 --> 00:22:28,324
+Now!
+
+434
+00:22:28,326 --> 00:22:29,892
+[MUFFLED EXPLOSION]
+
+435
+00:22:29,894 --> 00:22:31,661
+[TRUCK THUDDING]
+
+436
+00:22:31,663 --> 00:22:34,930
+[ALL CHEERING]
+
+437
+00:22:34,932 --> 00:22:37,500
+[LAUGHTER]
+
+438
+00:22:41,573 --> 00:22:43,672
+Whoo-hoo!
+
+439
+00:22:43,674 --> 00:22:48,209
+[CONVERSATIONS IN GERMAN]
+
+440
+00:22:52,481 --> 00:22:55,289
+[MEN CHEERING, LAUGHING]
+
+441
+00:22:55,292 --> 00:22:58,598
+<i>[ROCK MUSIC PLAYING]</i>
+
+442
+00:22:58,601 --> 00:23:00,167
+Oh, wait!
+
+443
+00:23:00,170 --> 00:23:01,545
+We're missing one!
+
+444
+00:23:01,598 --> 00:23:02,847
+We're missing one!
+
+445
+00:23:02,849 --> 00:23:04,515
+Have a drink!
+
+446
+00:23:04,517 --> 00:23:06,651
+No, no, no, no. I'm good. Thank you.
+
+447
+00:23:06,653 --> 00:23:08,119
+No. We don't accept this.
+
+448
+00:23:08,121 --> 00:23:09,886
+You can't be always on duty, Mike.
+
+449
+00:23:09,888 --> 00:23:11,288
+[MEN SHOUTING INDISTINCTLY]
+
+450
+00:23:11,290 --> 00:23:13,532
+ALL: Mike! Mike! Mike! Mike! Mike!
+
+451
+00:23:13,535 --> 00:23:17,017
+Mike! Mike! Mike! Mike! Mike!
+Mike! Mike! Mike! Mike! Mike! Mike!
+
+452
+00:23:17,020 --> 00:23:18,298
+[SPEAKS GERMAN] _
+
+453
+00:23:18,301 --> 00:23:20,497
+[MEN CHEER]
+
+454
+00:23:20,499 --> 00:23:22,299
+Ahh.
+
+455
+00:23:22,301 --> 00:23:24,568
+[CONVERSING IN GERMAN]
+
+456
+00:23:24,570 --> 00:23:28,405
+<i>[MUSIC CONTINUES]</i>
+
+457
+00:23:28,407 --> 00:23:38,301
+♪ ♪
+
+458
+00:23:38,417 --> 00:23:47,323
+♪ ♪
+
+459
+00:23:47,325 --> 00:23:49,692
+What's on your mind, hmm?
+
+460
+00:23:51,387 --> 00:23:53,329
+Nothing, really.
+
+461
+00:23:53,331 --> 00:23:54,697
+[SIGHS]
+
+462
+00:23:54,699 --> 00:23:57,333
+I'm pleased the blasting went well.
+
+463
+00:23:57,335 --> 00:24:00,102
+No damage to the structure,
+
+464
+00:24:00,104 --> 00:24:02,905
+no unforeseen incidents.
+
+465
+00:24:02,907 --> 00:24:05,341
+You don't seem pleased.
+
+466
+00:24:05,343 --> 00:24:07,743
+I'm just tired.
+
+467
+00:24:09,714 --> 00:24:12,114
+I need to know what's going on.
+
+468
+00:24:12,116 --> 00:24:14,350
+Nothing is going on.
+
+469
+00:24:14,352 --> 00:24:19,121
+<i>[MUSIC CONTINUES]</i>
+
+470
+00:24:19,123 --> 00:24:22,123
+This work is taking
+longer than I estimated.
+
+471
+00:24:22,125 --> 00:24:24,993
+- It is.
+- And I appreciate the R and R.
+
+472
+00:24:24,996 --> 00:24:28,363
+The boys... [CHUCKLING] they had fun.
+
+473
+00:24:28,365 --> 00:24:30,309
+But I'm...
+
+474
+00:24:32,928 --> 00:24:35,562
+[SIGHS]
+
+475
+00:24:36,940 --> 00:24:40,975
+Michael, you were married?
+
+476
+00:24:40,977 --> 00:24:42,310
+I was.
+
+477
+00:24:42,312 --> 00:24:44,045
+How long?
+
+478
+00:24:44,047 --> 00:24:45,747
+22 years.
+
+479
+00:24:45,749 --> 00:24:47,549
+Perhaps you will understand.
+
+480
+00:24:47,551 --> 00:24:50,218
+- 26 in April.
+- Congratulations.
+
+481
+00:24:50,220 --> 00:24:51,553
+Mm-hmm.
+
+482
+00:24:51,555 --> 00:24:53,881
+My wife.
+
+483
+00:24:53,884 --> 00:24:55,646
+I'm...
+
+484
+00:24:57,960 --> 00:24:59,260
+[SIGHS]
+
+485
+00:24:59,262 --> 00:25:03,230
+Uh, I'm... Without her, I am adr...
+
+486
+00:25:03,232 --> 00:25:04,565
+Adrift.
+
+487
+00:25:04,567 --> 00:25:05,966
+Yeah. Adrift without her.
+
+488
+00:25:05,968 --> 00:25:07,501
+You've been away before.
+
+489
+00:25:07,503 --> 00:25:09,570
+Yes, of course. Not like this.
+
+490
+00:25:09,572 --> 00:25:11,104
+I'll finish what I've started,
+
+491
+00:25:11,106 --> 00:25:12,479
+no question of that.
+
+492
+00:25:12,482 --> 00:25:17,611
+Still, I can't help but wonder...
+
+493
+00:25:17,613 --> 00:25:19,346
+No, of course not.
+
+494
+00:25:19,348 --> 00:25:21,348
+- What?
+- It's impossible.
+
+495
+00:25:21,350 --> 00:25:23,617
+Although...
+
+496
+00:25:26,989 --> 00:25:32,191
+Kai could supervise the
+work until I get back.
+
+497
+00:25:32,193 --> 00:25:35,795
+I don't wish to cause you hardship,
+
+498
+00:25:35,797 --> 00:25:38,654
+even though I'd only be gone
+
+499
+00:25:38,657 --> 00:25:42,601
+for four days or five, maybe, total.
+
+500
+00:25:42,604 --> 00:25:45,805
+You're talking about flying
+to Germany for a weekend?
+
+501
+00:25:45,807 --> 00:25:47,507
+Just a quick trip.
+
+502
+00:25:47,509 --> 00:25:49,108
+Fwih, fwih!
+
+503
+00:25:49,110 --> 00:25:53,613
+I could leave detailed instructions.
+
+504
+00:25:53,615 --> 00:25:56,683
+The work would not be interrupted.
+
+505
+00:25:58,260 --> 00:26:00,460
+You wanna see your wife?
+
+506
+00:26:01,456 --> 00:26:03,790
+More than anything.
+
+507
+00:26:03,792 --> 00:26:06,258
+Then finish the job.
+
+508
+00:26:07,724 --> 00:26:09,323
+Werner, you can do this.
+
+509
+00:26:09,326 --> 00:26:12,698
+You put your head down, and
+you push your way through.
+
+510
+00:26:12,700 --> 00:26:13,965
+When it's done,
+
+511
+00:26:13,967 --> 00:26:16,034
+from the money you've made here,
+
+512
+00:26:16,036 --> 00:26:18,615
+you'll never be away
+from your wife again.
+
+513
+00:26:20,040 --> 00:26:22,474
+Of course. [CHUCKLES]
+
+514
+00:26:22,476 --> 00:26:24,643
+Of course you're right.
+
+515
+00:26:24,645 --> 00:26:26,514
+Flight of fancy.
+
+516
+00:26:29,107 --> 00:26:30,534
+I-I tell you what.
+
+517
+00:26:30,537 --> 00:26:33,021
+We'll get you on the phone with her
+
+518
+00:26:33,024 --> 00:26:34,323
+for an extra call.
+
+519
+00:26:34,326 --> 00:26:36,054
+Mm.
+
+520
+00:26:36,056 --> 00:26:38,857
+We'll do it tomorrow.
+
+521
+00:26:38,859 --> 00:26:41,259
+Thank you, my friend.
+
+522
+00:26:41,261 --> 00:26:47,064
+<i>[MUSIC CONTINUES]</i>
+
+523
+00:26:47,066 --> 00:26:49,076
+You hang in there.
+
+524
+00:27:00,847 --> 00:27:02,513
+- [KNOCK ON DOOR]
+- Mr. Fring?
+
+525
+00:27:02,515 --> 00:27:04,281
+Ah, yes, Lyle?
+
+526
+00:27:04,283 --> 00:27:07,084
+There's a, uh, man who just came in.
+
+527
+00:27:07,086 --> 00:27:09,349
+And I know that it's been a while,
+
+528
+00:27:09,352 --> 00:27:12,119
+but I was just like,
+"He is so familiar."
+
+529
+00:27:12,122 --> 00:27:13,891
+I think it's one of
+the guys that, you know,
+
+530
+00:27:13,893 --> 00:27:16,393
+made all the trouble last year.
+
+531
+00:27:16,395 --> 00:27:18,294
+[GULPS] Not, uh, the... the main guy,
+
+532
+00:27:18,296 --> 00:27:20,096
+which is why I'm not totally sure.
+
+533
+00:27:20,098 --> 00:27:21,531
+I see.
+
+534
+00:27:21,533 --> 00:27:23,529
+He's not doing anything, though.
+
+535
+00:27:23,532 --> 00:27:25,199
+Uh, he and the other
+guy ordered some food,
+
+536
+00:27:25,201 --> 00:27:26,256
+and they're just sitting,
+
+537
+00:27:26,259 --> 00:27:28,959
+but I... I thought
+that you'd want to know.
+
+538
+00:27:28,962 --> 00:27:30,540
+Oh, thank you, Lyle.
+
+539
+00:27:30,542 --> 00:27:32,256
+I'll take care of it.
+
+540
+00:27:39,662 --> 00:27:44,832
+[INDISTINCT CONVERSATIONS]
+
+541
+00:27:47,912 --> 00:27:50,559
+LALO: And you should know because...
+
+542
+00:27:50,561 --> 00:27:52,895
+[INDISTINCT CONVERSATION]
+
+543
+00:27:52,897 --> 00:27:55,330
+Is everything to your liking?
+
+544
+00:27:55,332 --> 00:27:57,132
+Are you kidding me?
+
+545
+00:27:57,134 --> 00:28:01,136
+This is the best
+chicken I have ever had.
+
+546
+00:28:01,139 --> 00:28:03,628
+[CHUCKLING] Well,
+I'm delighted to hear that.
+
+547
+00:28:03,631 --> 00:28:04,803
+No, really. I'm serious.
+
+548
+00:28:04,806 --> 00:28:08,292
+I mean, it's crispy,
+but it's not dried out,
+
+549
+00:28:08,295 --> 00:28:10,932
+and the seasoning... It's so...
+
+550
+00:28:10,935 --> 00:28:12,534
+flavorful.
+
+551
+00:28:12,537 --> 00:28:14,817
+- [CHUCKLES]
+- Well, thank you.
+
+552
+00:28:14,819 --> 00:28:16,479
+Is there anything else I can do for you?
+
+553
+00:28:16,482 --> 00:28:18,353
+Is there any chance...
+
+554
+00:28:18,355 --> 00:28:22,591
+And I know the answer is probably no,
+
+555
+00:28:22,593 --> 00:28:24,959
+but is it possible for
+me to meet the owner?
+
+556
+00:28:24,961 --> 00:28:26,961
+<i>I</i> am the owner.
+
+557
+00:28:26,963 --> 00:28:28,412
+Really?
+
+558
+00:28:28,415 --> 00:28:30,982
+How lucky for me.
+
+559
+00:28:30,985 --> 00:28:33,367
+Would you be interested in franchising?
+
+560
+00:28:33,369 --> 00:28:35,971
+Because I would be eager to invest.
+
+561
+00:28:35,974 --> 00:28:37,605
+Well, perhaps we should go to my office,
+
+562
+00:28:37,607 --> 00:28:39,373
+where we can discuss it further.
+
+563
+00:28:39,375 --> 00:28:41,375
+Excellent.
+
+564
+00:28:41,377 --> 00:28:44,178
+- Don't waste that.
+- This way.
+
+565
+00:28:44,180 --> 00:28:46,313
+[FOOTSTEPS DEPART]
+
+566
+00:28:46,315 --> 00:28:50,184
+Now, what may I do for you, Señor...
+
+567
+00:28:50,186 --> 00:28:51,519
+Salamanca.
+
+568
+00:28:51,521 --> 00:28:53,521
+Eduardo Salamanca.
+
+569
+00:28:53,523 --> 00:28:55,823
+But you can call me "Lalo."
+
+570
+00:28:55,825 --> 00:28:57,959
+And you're Gustavo Fring.
+
+571
+00:28:57,961 --> 00:29:01,327
+I have been an admirer
+of yours for many years.
+
+572
+00:29:01,329 --> 00:29:03,196
+You have how many of these restaurants?
+
+573
+00:29:03,198 --> 00:29:05,632
+- Seven.
+- Seven.
+
+574
+00:29:05,634 --> 00:29:07,000
+And starting from nothing.
+
+575
+00:29:07,002 --> 00:29:09,202
+That's incredible.
+
+576
+00:29:09,204 --> 00:29:11,805
+What may I do for you?
+
+577
+00:29:11,807 --> 00:29:14,808
+I come here on behalf of my entire family
+
+578
+00:29:14,810 --> 00:29:16,843
+to give you our deepest thanks.
+
+579
+00:29:16,845 --> 00:29:18,177
+Well, for what?
+
+580
+00:29:18,179 --> 00:29:19,646
+For what?
+
+581
+00:29:19,648 --> 00:29:21,882
+For saving Don Hector's life.
+
+582
+00:29:21,884 --> 00:29:23,149
+I just visited him.
+
+583
+00:29:23,151 --> 00:29:25,018
+You know, seeing a man like that...
+
+584
+00:29:25,020 --> 00:29:27,387
+Can't speak, can barely move...
+
+585
+00:29:27,389 --> 00:29:29,422
+I wanted to weep.
+
+586
+00:29:29,424 --> 00:29:31,558
+But it could have been worse.
+
+587
+00:29:31,560 --> 00:29:33,026
+Varga tells me
+
+588
+00:29:33,028 --> 00:29:35,361
+that while everybody else
+was picking their asses,
+
+589
+00:29:35,363 --> 00:29:37,096
+you rushed to him,
+struck him on the chest,
+
+590
+00:29:37,098 --> 00:29:38,431
+and brought him back.
+
+591
+00:29:38,433 --> 00:29:40,566
+It was simple instinct.
+
+592
+00:29:40,568 --> 00:29:44,203
+But still, with all the
+history between you two,
+
+593
+00:29:44,205 --> 00:29:47,040
+what you did was a gesture of peace.
+
+594
+00:29:47,042 --> 00:29:48,441
+Or at least, that's how we see it.
+
+595
+00:29:48,443 --> 00:29:49,639
+Mm.
+
+596
+00:29:49,642 --> 00:29:51,248
+I'm very pleased to hear that.
+
+597
+00:29:52,944 --> 00:29:56,045
+And here we are, gettin' along.
+
+598
+00:29:59,701 --> 00:30:03,471
+[SPEAKING SPANISH] _
+
+599
+00:30:03,474 --> 00:30:04,757
+Mm.
+
+600
+00:30:04,761 --> 00:30:07,974
+_
+
+601
+00:30:09,295 --> 00:30:15,264
+_
+
+602
+00:30:16,606 --> 00:30:22,239
+_
+
+603
+00:30:22,742 --> 00:30:25,643
+[SPEAKING SPANISH] _
+
+604
+00:30:25,645 --> 00:30:28,280
+Really?
+
+605
+00:30:28,282 --> 00:30:31,716
+Still, if we were to get along <i>too</i> well,
+
+606
+00:30:31,718 --> 00:30:34,752
+I'm sure Eladio wouldn't
+like that, would he?
+
+607
+00:30:34,754 --> 00:30:36,488
+[INHALES SHARPLY]
+
+608
+00:30:36,490 --> 00:30:38,990
+I am satisfied with the
+current arrangement.
+
+609
+00:30:40,561 --> 00:30:42,460
+I'm just shitting you.
+
+610
+00:30:42,462 --> 00:30:45,343
+You would be crazy to
+go up against Eladio.
+
+611
+00:30:47,901 --> 00:30:50,301
+Look, I'm gonna be in town for a while,
+
+612
+00:30:50,303 --> 00:30:52,737
+so, uh, you know, we'll talk some more.
+
+613
+00:30:52,739 --> 00:30:54,105
+[SIGHS]
+
+614
+00:30:54,107 --> 00:30:55,506
+We owe you.
+
+615
+00:30:55,508 --> 00:30:58,418
+If you need a favor, I'm your man.
+
+616
+00:30:58,421 --> 00:30:59,512
+Same.
+
+617
+00:30:59,515 --> 00:31:00,912
+Naturally.
+
+618
+00:31:00,914 --> 00:31:03,314
+Oh, and I'll be back
+for that chicken, eh?
+
+619
+00:31:03,316 --> 00:31:05,516
+It's too tasty to stay away from.
+
+620
+00:31:05,518 --> 00:31:08,920
+- [DOOR OPENS]
+- [BREATHES DEEPLY]
+
+621
+00:31:08,922 --> 00:31:10,688
+[DOOR CLOSES]
+
+622
+00:31:12,759 --> 00:31:16,127
+[ENGINE STARTS, VEHICLE DEPARTS]
+
+623
+00:31:25,271 --> 00:31:28,372
+[KEYS JINGLING]
+
+624
+00:31:32,781 --> 00:31:35,171
+You say you pick up six keys a week?
+
+625
+00:31:35,174 --> 00:31:37,147
+NACHO: Yeah.
+
+626
+00:31:37,150 --> 00:31:38,882
+Where?
+
+627
+00:31:38,884 --> 00:31:42,319
+He's got a chicken farm way out of town.
+
+628
+00:31:43,851 --> 00:31:45,356
+Show me.
+
+629
+00:31:52,913 --> 00:31:56,166
+[ENGINE STARTS]
+
+630
+00:32:01,285 --> 00:32:03,551
+[TIRES SCREECH]
+
+631
+00:32:05,521 --> 00:32:08,576
+[ELEVATOR BELL DINGS]
+
+632
+00:32:08,579 --> 00:32:12,181
+[SIGHS HEAVILY]
+
+633
+00:32:12,183 --> 00:32:14,333
+[CLICKS TONGUE]
+
+634
+00:32:27,062 --> 00:32:29,062
+Mr. McGill, we're ready for you now.
+
+635
+00:32:29,065 --> 00:32:31,298
+- [DOOR CLOSES]
+- Great.
+
+636
+00:32:32,202 --> 00:32:34,470
+CHAIRMAN: And it looks
+like you've completed
+
+637
+00:32:34,472 --> 00:32:36,713
+the Pre Prosecution Diversion Program?
+
+638
+00:32:36,716 --> 00:32:38,705
+That's right... 3 1/2 weeks ago.
+
+639
+00:32:38,708 --> 00:32:39,608
+Actually, I believe,
+
+640
+00:32:39,610 --> 00:32:41,443
+if you look at the supplemental materials,
+
+641
+00:32:41,445 --> 00:32:44,012
+there's a letter from my
+supervisor, Brad Markham.
+
+642
+00:32:44,014 --> 00:32:46,214
+Mm. Uh... ah, good.
+
+643
+00:32:46,216 --> 00:32:47,816
+[INHALES SHARPLY]
+
+644
+00:32:47,818 --> 00:32:50,955
+He says he was impressed
+with your commitment.
+
+645
+00:32:50,958 --> 00:32:52,424
+And for most of last year,
+
+646
+00:32:52,427 --> 00:32:54,454
+you've been employed at CC Mobile?
+
+647
+00:32:54,457 --> 00:32:55,697
+It's a cellphone store.
+
+648
+00:32:55,700 --> 00:32:57,332
+And, again, there's a letter
+
+649
+00:32:57,335 --> 00:32:59,435
+from my manager, Mr. Robert Finn.
+
+650
+00:32:59,438 --> 00:33:02,229
+Uh, it's also in the
+supplemental materials.
+
+651
+00:33:02,232 --> 00:33:03,564
+WOMAN: Mm.
+
+652
+00:33:03,566 --> 00:33:05,834
+Says here you were part of something
+
+653
+00:33:05,836 --> 00:33:08,837
+called the Silver Circle
+three months in a row?
+
+654
+00:33:08,839 --> 00:33:10,385
+It's a sales award.
+
+655
+00:33:10,388 --> 00:33:12,239
+Mr. Finn and the people at CC Mobile
+
+656
+00:33:12,242 --> 00:33:13,541
+have been very generous.
+
+657
+00:33:13,543 --> 00:33:14,876
+You don't have to sell many phones
+
+658
+00:33:14,878 --> 00:33:16,335
+to get in the Silver, believe me.
+
+659
+00:33:16,338 --> 00:33:17,512
+[CHUCKLES]
+
+660
+00:33:17,514 --> 00:33:20,048
+What made you choose
+that particular field?
+
+661
+00:33:20,050 --> 00:33:22,986
+Honestly, just, uh, to
+put bread on the table.
+
+662
+00:33:22,989 --> 00:33:25,485
+But I would say it's given me
+
+663
+00:33:25,488 --> 00:33:27,572
+a new outlook on client relations.
+
+664
+00:33:27,575 --> 00:33:30,709
+I mean, after dealing
+with cellphone contracts,
+
+665
+00:33:30,712 --> 00:33:33,527
+explaining statutes to my
+clients should be a cakewalk.
+
+666
+00:33:33,530 --> 00:33:34,829
+[LIGHT LAUGHTER]
+
+667
+00:33:34,831 --> 00:33:36,568
+Well, as the saying goes,
+
+668
+00:33:36,571 --> 00:33:38,571
+the law is constantly changing.
+
+669
+00:33:38,574 --> 00:33:40,574
+Have you been keeping yourself, uh,
+
+670
+00:33:40,577 --> 00:33:42,307
+apprised of the latest developments?
+
+671
+00:33:42,310 --> 00:33:44,271
+I've been reading the Bar Journal.
+
+672
+00:33:44,273 --> 00:33:46,060
+You know, what caught my eye recently
+
+673
+00:33:46,063 --> 00:33:48,075
+was Crawford v. Washington.
+
+674
+00:33:48,077 --> 00:33:49,377
+Any of you follow that?
+
+675
+00:33:49,379 --> 00:33:52,613
+That has to do with the admissibility
+of ex parte examinations?
+
+676
+00:33:52,615 --> 00:33:54,701
+That was a-a Supreme
+Court case, wasn't it?
+
+677
+00:33:54,704 --> 00:33:56,333
+JIMMY: That's right. How did it go?
+
+678
+00:33:56,336 --> 00:33:58,902
+"The only indicium of reliability
+
+679
+00:33:58,905 --> 00:34:01,105
+sufficient to satisfy
+constitutional demands
+
+680
+00:34:01,108 --> 00:34:04,289
+is the one the Constitution
+actually prescribes...
+
+681
+00:34:04,292 --> 00:34:05,498
+Confrontation."
+
+682
+00:34:05,501 --> 00:34:06,960
+Classic Scalia.
+
+683
+00:34:06,962 --> 00:34:09,896
+I can't help but think about victims
+
+684
+00:34:09,898 --> 00:34:12,169
+forced to confront their
+assailants in open court,
+
+685
+00:34:12,172 --> 00:34:13,638
+but on the other hand,
+
+686
+00:34:13,641 --> 00:34:15,951
+the Sixth Amendment
+is pretty controlling.
+
+687
+00:34:15,954 --> 00:34:18,247
+Uh... [CLEARS THROAT] I'm sorry.
+
+688
+00:34:18,250 --> 00:34:22,019
+I just... I get rolling on
+constitutional questions.
+
+689
+00:34:22,022 --> 00:34:25,166
+Short answer... I've been
+doing my level best.
+
+690
+00:34:25,169 --> 00:34:26,380
+[CHUCKLES]
+
+691
+00:34:26,382 --> 00:34:29,787
+Well, Mr. McGill, is there
+anything you'd like to tell us
+
+692
+00:34:29,790 --> 00:34:33,752
+about the reasons you were
+suspended in the first place?
+
+693
+00:34:33,755 --> 00:34:35,554
+This past year,
+
+694
+00:34:35,556 --> 00:34:38,924
+that's pretty much been
+the only thing on my mind.
+
+695
+00:34:38,926 --> 00:34:44,830
+And I'm humbled by the sheer
+stupidity of my actions.
+
+696
+00:34:44,832 --> 00:34:47,396
+Remorse doesn't begin to cover it.
+
+697
+00:34:47,399 --> 00:34:48,731
+I'm not gonna make excuses
+
+698
+00:34:48,734 --> 00:34:50,846
+'cause there's no excuse for what I did.
+
+699
+00:34:50,849 --> 00:34:52,805
+But as I sit here,
+
+700
+00:34:52,807 --> 00:34:58,577
+I can assure you nothing like
+that will ever happen again.
+
+701
+00:34:58,579 --> 00:35:00,446
+Never.
+
+702
+00:35:01,482 --> 00:35:03,349
+Well, all right.
+
+703
+00:35:03,352 --> 00:35:05,919
+That would seem to be satisfactory.
+
+704
+00:35:05,922 --> 00:35:08,389
+Um, Meg, you have something?
+
+705
+00:35:09,756 --> 00:35:13,992
+Mr. McGill, what does
+the law mean to you?
+
+706
+00:35:16,935 --> 00:35:18,363
+The law?
+
+707
+00:35:18,365 --> 00:35:22,167
+[KEYBOARD CLACKING]
+
+708
+00:35:22,169 --> 00:35:25,770
+Uh, yeah. Okay.
+
+709
+00:35:25,772 --> 00:35:27,205
+[SIGHS]
+
+710
+00:35:27,207 --> 00:35:29,808
+Um...
+
+711
+00:35:31,178 --> 00:35:32,844
+Listen, growing up,
+
+712
+00:35:32,846 --> 00:35:36,982
+becoming a lawyer was, uh,
+the last thing on my mind.
+
+713
+00:35:36,984 --> 00:35:38,482
+[KEYBOARD CLACKING]
+
+714
+00:35:38,485 --> 00:35:41,253
+Even if I wanted to, I
+didn't have the smarts
+
+715
+00:35:41,256 --> 00:35:45,389
+or the skills or the
+"stick-to-it" -ivness.
+
+716
+00:35:45,391 --> 00:35:49,857
+But I happened to get a
+job with some attorneys,
+
+717
+00:35:49,860 --> 00:35:54,380
+and I couldn't help but
+think, "Maybe I could do that?"
+
+718
+00:35:54,383 --> 00:35:59,202
+Something inside me made me want to try.
+
+719
+00:35:59,205 --> 00:36:02,640
+Now, listen, my diploma says
+
+720
+00:36:02,642 --> 00:36:05,643
+the "University of
+American Samoa Law School,"
+
+721
+00:36:05,645 --> 00:36:07,498
+and that's exactly what it sounds like.
+
+722
+00:36:07,501 --> 00:36:09,935
+That's a correspondence school.
+
+723
+00:36:09,938 --> 00:36:14,686
+I wish it said "Georgetown"
+[CHUCKLES] or "Northwestern."
+
+724
+00:36:14,688 --> 00:36:18,722
+But UAS... that's the only
+one that would take me.
+
+725
+00:36:18,724 --> 00:36:22,826
+'Cause let me tell
+you, I wasn't a natural.
+
+726
+00:36:22,828 --> 00:36:25,596
+I mean, the classes, the studying,
+
+727
+00:36:25,598 --> 00:36:29,505
+trying to pass the bar
+[SCOFFS] practically killed me.
+
+728
+00:36:29,508 --> 00:36:32,434
+I must have quit 10 or 12 times.
+
+729
+00:36:32,437 --> 00:36:36,907
+But I kept coming back to it,
+and I'm... I'm really glad I did
+
+730
+00:36:36,909 --> 00:36:40,443
+because when I got to
+work with actual clients,
+
+731
+00:36:40,445 --> 00:36:43,580
+there was nothing else like it.
+
+732
+00:36:43,582 --> 00:36:45,654
+Our legal system is complicated,
+
+733
+00:36:45,657 --> 00:36:47,846
+and sometimes it could feel capricious,
+
+734
+00:36:47,849 --> 00:36:51,849
+but it's the closest thing to
+real justice that we've got.
+
+735
+00:36:51,852 --> 00:36:53,418
+And for it to work,
+
+736
+00:36:53,421 --> 00:36:56,858
+it needs vigorous, passionate advocates.
+
+737
+00:36:56,861 --> 00:37:00,096
+And helping my clients, you know,
+
+738
+00:37:00,098 --> 00:37:02,465
+arguing on their behalf...
+
+739
+00:37:02,467 --> 00:37:05,701
+That's the best thing I've ever done.
+
+740
+00:37:05,703 --> 00:37:07,138
+[KEYBOARD CLACKING]
+
+741
+00:37:07,141 --> 00:37:09,471
+And this past year...
+
+742
+00:37:09,474 --> 00:37:11,908
+I've missed the hell out of it.
+
+743
+00:37:13,278 --> 00:37:15,654
+[BREATHING DEEPLY]
+
+744
+00:37:19,717 --> 00:37:22,485
+That was very eloquent.
+
+745
+00:37:22,487 --> 00:37:24,587
+[KEYBOARD CLACKING]
+
+746
+00:37:24,589 --> 00:37:29,357
+Was there any particular
+influence on your views?
+
+747
+00:37:29,360 --> 00:37:31,725
+[SIGHS]
+
+748
+00:37:31,728 --> 00:37:35,464
+Um, credit where credit is due.
+
+749
+00:37:35,466 --> 00:37:37,490
+[KEYBOARD CLACKING]
+
+750
+00:37:37,493 --> 00:37:40,334
+The University of American Samoa.
+
+751
+00:37:40,337 --> 00:37:42,971
+Go, Land Crabs!
+
+752
+00:37:42,973 --> 00:37:46,175
+[KEYBOARD CLACKING]
+
+753
+00:37:48,293 --> 00:37:49,646
+Anything else?
+
+754
+00:37:49,649 --> 00:37:50,685
+No.
+
+755
+00:37:50,688 --> 00:37:52,646
+- Thank you.
+- No? Good.
+
+756
+00:37:52,649 --> 00:37:54,583
+I think we have everything we need.
+
+757
+00:37:54,585 --> 00:37:56,959
+You'll be getting a
+letter with our decision
+
+758
+00:37:56,962 --> 00:37:59,353
+in the next few days.
+
+759
+00:37:59,356 --> 00:38:00,655
+All right.
+
+760
+00:38:00,657 --> 00:38:04,201
+Um, thanks for your time, all of you.
+
+761
+00:38:19,342 --> 00:38:21,505
+[SIGHS]
+
+762
+00:38:23,546 --> 00:38:26,147
+[EXHALES SHARPLY]
+
+763
+00:38:26,149 --> 00:38:29,517
+[TELEPHONE RINGS]
+
+764
+00:38:31,847 --> 00:38:34,014
+I thought he was right
+up there, you know?
+
+765
+00:38:34,017 --> 00:38:36,560
+Yeah, no, he was part
+of the review process.
+
+766
+00:38:36,563 --> 00:38:38,396
+And you've worked with him before.
+
+767
+00:38:38,399 --> 00:38:40,665
+- Good guy?
+- Yeah, real good guy.
+
+768
+00:38:44,176 --> 00:38:46,031
+Hey. Hi.
+
+769
+00:38:46,034 --> 00:38:48,521
+- Hi. Mr. McGill.
+- Yes.
+
+770
+00:38:48,524 --> 00:38:50,260
+I know they said I'd hear from them,
+
+771
+00:38:50,263 --> 00:38:51,829
+but, uh, just between you and me,
+
+772
+00:38:51,832 --> 00:38:53,716
+uh, what did they decide?
+
+773
+00:38:57,896 --> 00:38:59,755
+You got to be kidding me.
+
+774
+00:38:59,758 --> 00:39:03,583
+No. No. No, no, no, no, no!
+
+775
+00:39:03,585 --> 00:39:07,201
+[GROANS] Oh, no!
+
+776
+00:39:07,204 --> 00:39:08,688
+[DOOR BANGS]
+
+777
+00:39:08,690 --> 00:39:10,423
+[FOOTSTEPS DEPART]
+
+778
+00:39:10,425 --> 00:39:12,224
+[FOOTSTEPS APPROACH]
+
+779
+00:39:12,226 --> 00:39:13,904
+Hey, wait a minute!
+
+780
+00:39:13,907 --> 00:39:15,685
+You're denying me?!
+
+781
+00:39:15,688 --> 00:39:17,056
+- What did I do wrong?
+- Mr. McGill?
+
+782
+00:39:17,058 --> 00:39:18,107
+- What did I do wrong?!
+- I can't...
+
+783
+00:39:18,109 --> 00:39:19,542
+Mr.... Mr. McGill,
+this is not the place.
+
+784
+00:39:19,544 --> 00:39:21,400
+Okay. I did everything
+right. Please tell me.
+
+785
+00:39:21,402 --> 00:39:23,001
+[SIGHS]
+
+786
+00:39:23,003 --> 00:39:26,643
+Look, [SIGHS] these
+decisions are never easy.
+
+787
+00:39:26,646 --> 00:39:29,007
+Okay, come on. I deserve an answer.
+
+788
+00:39:29,009 --> 00:39:31,410
+[EXHALES SHARPLY, STAMMERS]
+
+789
+00:39:31,412 --> 00:39:33,612
+- Please!
+- Mr. McGill, I-I can't...
+
+790
+00:39:33,614 --> 00:39:38,417
+I did everything right.
+
+791
+00:39:38,419 --> 00:39:41,187
+It was a question of sincerity.
+
+792
+00:39:41,189 --> 00:39:43,055
+A w-what?
+
+793
+00:39:43,057 --> 00:39:45,423
+[ELEVATOR BELL DINGS]
+
+794
+00:39:45,425 --> 00:39:49,227
+Some members of the committee
+found you somewhat...
+
+795
+00:39:49,229 --> 00:39:51,055
+insincere.
+
+796
+00:39:52,866 --> 00:39:55,433
+You're free to apply again next year.
+
+797
+00:39:55,435 --> 00:39:57,035
+[FOOTSTEPS DEPART]
+
+798
+00:39:57,037 --> 00:39:59,971
+[EXHALING SHARPLY]
+
+799
+00:40:02,227 --> 00:40:07,278
+[BREATHING HEAVILY]
+
+800
+00:40:09,369 --> 00:40:13,836
+- <i>[CONVERSATIONS IN GERMAN]</i>
+- [DOOR OPENS]
+
+801
+00:40:13,839 --> 00:40:15,171
+Hey, Mike.
+
+802
+00:40:15,174 --> 00:40:17,617
+Hey.
+
+803
+00:40:17,619 --> 00:40:20,820
+Well, how goes it with
+the dirty half-dozen?
+
+804
+00:40:20,822 --> 00:40:22,555
+Playing volleyball.
+
+805
+00:40:22,557 --> 00:40:24,223
+That guy Kai cheats.
+
+806
+00:40:24,225 --> 00:40:26,626
+Mm-hmm.
+
+807
+00:40:26,628 --> 00:40:28,227
+Werner still talking?
+
+808
+00:40:28,229 --> 00:40:30,296
+Oh, they've been saying goodbye
+
+809
+00:40:30,298 --> 00:40:32,064
+for about 20 minutes now.
+
+810
+00:40:32,066 --> 00:40:33,466
+Anything of note?
+
+811
+00:40:33,468 --> 00:40:35,635
+Uh, they got a new puppy,
+
+812
+00:40:35,637 --> 00:40:39,105
+and it's peeing everywhere.
+
+813
+00:40:39,107 --> 00:40:40,407
+The dog, the house.
+
+814
+00:40:40,409 --> 00:40:41,924
+Her back's acting up, so they want
+
+815
+00:40:41,927 --> 00:40:44,186
+to go to the springs at
+Baden-Baden once he gets back.
+
+816
+00:40:44,189 --> 00:40:46,502
+- Sound like the usual.
+- Yep.
+
+817
+00:40:46,505 --> 00:40:48,846
+They've been at it
+almost an hour and a half.
+
+818
+00:40:48,849 --> 00:40:51,135
+You want me to, uh,
+give a 10-minute warning?
+
+819
+00:40:51,138 --> 00:40:53,038
+No.
+
+820
+00:40:53,041 --> 00:40:55,253
+Let him go on as long as he wants.
+
+821
+00:40:55,255 --> 00:40:56,922
+Wait. Okay.
+
+822
+00:40:56,924 --> 00:40:58,356
+They're wrapping up.
+
+823
+00:40:58,358 --> 00:41:00,626
+She's got to get to book club.
+
+824
+00:41:00,628 --> 00:41:01,860
+Mm.
+
+825
+00:41:01,862 --> 00:41:03,662
+<i>[CONVERSATION CONTINUES]</i>
+
+826
+00:41:03,664 --> 00:41:07,365
+I'm gonna check the perimeter.
+
+827
+00:41:07,367 --> 00:41:10,702
+[DOOR CREAKS, CLOSES]
+
+828
+00:41:11,772 --> 00:41:15,106
+[BALL BOUNCING, MEN SHOUTING IN GERMAN]
+
+829
+00:41:15,108 --> 00:41:25,017
+♪ ♪
+
+830
+00:41:25,117 --> 00:41:28,319
+♪ ♪
+
+831
+00:41:28,321 --> 00:41:31,923
+[MAN SHOUTING IN GERMAN]
+
+832
+00:41:31,925 --> 00:41:33,324
+Ahh!
+
+833
+00:41:33,326 --> 00:41:34,859
+[HANDS CLAPPING]
+
+834
+00:41:34,861 --> 00:41:38,195
+[CONVERSATIONS IN GERMAN]
+
+835
+00:41:38,197 --> 00:41:48,115
+♪ ♪
+
+836
+00:41:48,207 --> 00:41:58,115
+♪ ♪
+
+837
+00:41:58,216 --> 00:42:08,131
+♪ ♪
+
+838
+00:42:08,226 --> 00:42:11,393
+♪ ♪
+
+839
+00:42:11,396 --> 00:42:14,764
+TROY: We have no problem with
+that language and will adjust.
+
+840
+00:42:14,766 --> 00:42:18,112
+We do have a concern
+on page 15, clause 4b.
+
+841
+00:42:18,115 --> 00:42:19,811
+- [BLOWS]
+- Third paragraph begins,
+
+842
+00:42:19,814 --> 00:42:23,405
+"The right to indemnification,
+payment, reimbursement."
+
+843
+00:42:23,408 --> 00:42:26,142
+- Everyone with me?
+- PAIGE: Yes. I see it.
+
+844
+00:42:26,144 --> 00:42:29,190
+This is clearly a
+pro-sandbagging clause.
+
+845
+00:42:29,193 --> 00:42:31,580
+Troy, it simply gives us
+the right to indemnification
+
+846
+00:42:31,582 --> 00:42:33,104
+for breaches of representation.
+
+847
+00:42:33,107 --> 00:42:34,617
+MAN: Of which there are none.
+
+848
+00:42:34,619 --> 00:42:35,920
+We feel it's necessary,
+
+849
+00:42:35,923 --> 00:42:38,219
+given the fast pace of
+the negotiations thus far
+
+850
+00:42:38,222 --> 00:42:40,589
+and the lack of time we've
+had to complete due diligence.
+
+851
+00:42:40,591 --> 00:42:42,354
+Mesa Verde set the pace here.
+
+852
+00:42:42,357 --> 00:42:43,792
+Further, you're overstepping
+
+853
+00:42:43,794 --> 00:42:45,589
+by requiring parts of the target payment
+
+854
+00:42:45,592 --> 00:42:46,956
+be put aside as collateral.
+
+855
+00:42:46,959 --> 00:42:49,598
+Kim Wexler here. If I may
+respectfully remind you,
+
+856
+00:42:49,600 --> 00:42:51,526
+Mesa Verde is allowing
+you to keep a clause
+
+857
+00:42:51,529 --> 00:42:54,403
+that warranty breaches must
+be in a material respect.
+
+858
+00:42:54,405 --> 00:42:55,804
+It's standard language.
+
+859
+00:42:55,806 --> 00:42:57,606
+Y... As is ours.
+
+860
+00:42:57,608 --> 00:42:59,784
+Come on. Guys, meet me halfway here.
+
+861
+00:42:59,787 --> 00:43:01,010
+Fine.
+
+862
+00:43:01,012 --> 00:43:02,271
+Then we'd like to discuss
+
+863
+00:43:02,274 --> 00:43:04,558
+how we're defining "knowledge"
+within the contract.
+
+864
+00:43:04,561 --> 00:43:05,813
+- [CELLPHONE VIBRATING]
+- PAIGE: Be my guest.
+
+865
+00:43:05,815 --> 00:43:07,323
+We feel that what we've established
+
+866
+00:43:07,326 --> 00:43:08,389
+is pretty reasonable.
+
+867
+00:43:08,392 --> 00:43:09,935
+- Our clients would like to propose...
+- Hey there.
+
+868
+00:43:09,937 --> 00:43:11,639
+...changing "within
+the seller's knowledge"
+
+869
+00:43:11,642 --> 00:43:13,542
+to "to the best of the
+seller's knowledge."
+
+870
+00:43:13,545 --> 00:43:15,084
+Slow down.
+
+871
+00:43:15,185 --> 00:43:16,518
+Slow down.
+
+872
+00:43:16,521 --> 00:43:20,161
+[ENGINE REVS, TIRES SCREECHING]
+
+873
+00:43:27,771 --> 00:43:33,207
+[TIRES SCREECHING]
+
+874
+00:43:40,966 --> 00:43:43,450
+[SCREECHING CONTINUES]
+
+875
+00:43:43,453 --> 00:43:45,453
+[KEYS JINGLING, CAR DOOR OPENS]
+
+876
+00:43:45,455 --> 00:43:48,512
+- [CAR DOOR SLAMS]
+- Insincere! Insincere?!
+
+877
+00:43:48,515 --> 00:43:50,197
+- Jimmy, what happened?
+- A goddamn year?
+
+878
+00:43:50,200 --> 00:43:51,635
+What am I supposed to
+do for a whole year?!
+
+879
+00:43:51,637 --> 00:43:52,993
+- Jimmy...
+- I can guarantee you
+
+880
+00:43:52,995 --> 00:43:54,861
+I'm not selling cellphones
+for a fuckin' year.
+
+881
+00:43:54,863 --> 00:43:56,663
+- I'll tell you that.
+- What did they say, exactly?
+
+882
+00:43:56,665 --> 00:43:58,697
+- How... How did it...
+- [GROANS] Hard pass!
+
+883
+00:43:58,700 --> 00:44:00,301
+- All right.
+- And don't tell me I can appeal
+
+884
+00:44:00,303 --> 00:44:03,306
+because once the board hears the
+word "insincere," I'm screwed.
+
+885
+00:44:03,309 --> 00:44:05,473
+- Jimmy... Jimmy...
+- How do you disprove "insincere"?!
+
+886
+00:44:05,475 --> 00:44:06,840
+Please, Jimmy, just take a breath
+
+887
+00:44:06,842 --> 00:44:08,362
+and start from the beginning, please.
+
+888
+00:44:09,345 --> 00:44:11,312
+I was good, Kim.
+
+889
+00:44:11,314 --> 00:44:15,040
+I mean, I-I wasn't stuck up,
+but I knew my shit, right?
+
+890
+00:44:15,043 --> 00:44:17,318
+"What have you been doing
+during your suspension?"
+
+891
+00:44:17,321 --> 00:44:19,221
+and, uh, "Have you been
+keeping up with the law?"
+
+892
+00:44:19,223 --> 00:44:20,673
+Yadda yadda. All fine.
+
+893
+00:44:20,676 --> 00:44:22,018
+And then one of them, out of nowhere,
+
+894
+00:44:22,020 --> 00:44:24,234
+comes up with this weird-ass question...
+
+895
+00:44:24,237 --> 00:44:26,470
+"What does the law mean to you?"
+
+896
+00:44:26,473 --> 00:44:27,893
+That's a big one.
+
+897
+00:44:27,895 --> 00:44:30,096
+Huge! And I nailed it!
+
+898
+00:44:30,098 --> 00:44:32,232
+I talked about the meaning of the law
+
+899
+00:44:32,234 --> 00:44:34,501
+and I was down-to-earth
+and I was humble
+
+900
+00:44:34,503 --> 00:44:37,236
+and I was sincere and they loved it.
+
+901
+00:44:37,239 --> 00:44:38,705
+So...
+
+902
+00:44:38,708 --> 00:44:41,508
+So they turned me down.
+
+903
+00:44:41,510 --> 00:44:44,444
+Well, there has to be
+more to it than that.
+
+904
+00:44:44,446 --> 00:44:47,280
+There's not.
+
+905
+00:44:47,282 --> 00:44:48,748
+I don't... [STAMMERS]
+
+906
+00:44:48,750 --> 00:44:50,883
+What did they say when
+you talked about Chuck?
+
+907
+00:44:50,885 --> 00:44:53,352
+[SCOFFS] What does Chuck
+have to do with this?
+
+908
+00:44:53,354 --> 00:44:54,853
+What?
+
+909
+00:44:54,855 --> 00:44:56,522
+Well, so, you didn't even...
+
+910
+00:44:56,524 --> 00:44:58,208
+Why would I?
+
+911
+00:45:01,529 --> 00:45:03,728
+Okay. O... Um...
+
+912
+00:45:03,730 --> 00:45:06,876
+Okay, listen, we will figure this out.
+
+913
+00:45:06,879 --> 00:45:08,354
+And, yes, you will appeal.
+We'll appeal this to the...
+
+914
+00:45:08,356 --> 00:45:10,135
+- They're just gonna rubber-stamp...
+- Well, we won't let them.
+
+915
+00:45:10,137 --> 00:45:12,137
+- They're gonna rubber-stamp whatever...
+- And we'll find a way to make you look sincere.
+
+916
+00:45:12,139 --> 00:45:15,374
+- Kim, I <i>was</i> sincere!
+- I know that.
+
+917
+00:45:15,376 --> 00:45:16,787
+- I meant we will fix it.
+- I might have been
+
+918
+00:45:16,789 --> 00:45:18,643
+a little corny, but
+I meant every word.
+
+919
+00:45:18,646 --> 00:45:20,114
+I know that.
+
+920
+00:45:22,216 --> 00:45:23,615
+You don't believe me.
+
+921
+00:45:23,617 --> 00:45:25,447
+- Of course I do.
+- Jesus.
+
+922
+00:45:25,450 --> 00:45:26,951
+It's right there on your face.
+
+923
+00:45:26,953 --> 00:45:29,751
+You think I'm some kind of
+lowlife, some kind of asshole...
+
+924
+00:45:29,754 --> 00:45:31,745
+- What?
+- ...the kind of lawyer guilty people hire, right?
+
+925
+00:45:31,747 --> 00:45:32,759
+No. Jimmy, that's not...
+
+926
+00:45:32,762 --> 00:45:34,726
+Yeah, you look at me, and
+you see Slippin' Jimmy.
+
+927
+00:45:34,728 --> 00:45:35,778
+I never said that.
+
+928
+00:45:35,781 --> 00:45:37,573
+Yeah, but you thought it!
+
+929
+00:45:39,407 --> 00:45:42,674
+You want to know why the
+committee called you insincere?
+
+930
+00:45:42,677 --> 00:45:44,744
+Because you didn't mention Chuck.
+
+931
+00:45:44,747 --> 00:45:46,104
+What does that have to even...
+
+932
+00:45:46,106 --> 00:45:47,505
+They read the transcripts.
+
+933
+00:45:47,507 --> 00:45:48,848
+They know what happened, Jimmy.
+
+934
+00:45:48,851 --> 00:45:50,641
+They were waiting for you to
+say <i>something</i> about him.
+
+935
+00:45:50,643 --> 00:45:52,123
+So I'm supposed to make a big hairy deal
+
+936
+00:45:52,125 --> 00:45:55,478
+about my dead brother at
+my re-instatement hearing?
+
+937
+00:45:55,481 --> 00:45:57,119
+How is that sincere?
+
+938
+00:45:57,122 --> 00:45:59,962
+Ya, I don't think about Chuck, okay?
+
+939
+00:45:59,965 --> 00:46:01,284
+I don't miss Chuck.
+
+940
+00:46:01,286 --> 00:46:03,787
+Chuck was alive and now
+he's dead and that's that.
+
+941
+00:46:03,789 --> 00:46:06,622
+<i>Finito.</i> Life goes on. So sue me.
+
+942
+00:46:07,485 --> 00:46:09,619
+There it is again. [STAMMERS]
+
+943
+00:46:09,622 --> 00:46:12,144
+- That's why we don't have an office.
+- What? No!
+
+944
+00:46:12,147 --> 00:46:14,430
+Just, you know, do not
+start in on that office.
+
+945
+00:46:14,433 --> 00:46:15,970
+I don't want to hear another word
+
+946
+00:46:15,973 --> 00:46:17,101
+about that stupid office.
+
+947
+00:46:17,103 --> 00:46:19,002
+Stupid office? Okay.
+Here we go. Here we go.
+
+948
+00:46:19,004 --> 00:46:22,298
+Jimmy, I have been on your
+side since the day we met!
+
+949
+00:46:22,301 --> 00:46:24,712
+Who comes running when you call?
+
+950
+00:46:24,715 --> 00:46:26,681
+Who cleans up your messes?
+
+951
+00:46:26,684 --> 00:46:27,811
+I have a job,
+
+952
+00:46:27,813 --> 00:46:31,615
+but I drop everything
+for you every single time.
+
+953
+00:46:31,617 --> 00:46:33,617
+You confess to a felony on tape,
+
+954
+00:46:33,619 --> 00:46:34,809
+I'm there.
+
+955
+00:46:34,812 --> 00:46:36,818
+You have a bar hearing, I represent you.
+
+956
+00:46:36,821 --> 00:46:40,705
+Over and over again, if
+you need me, I'm there.
+
+957
+00:46:40,708 --> 00:46:42,625
+But somehow in your
+mind the only measure
+
+958
+00:46:42,627 --> 00:46:45,348
+of my feelings for you
+is... is some office?!
+
+959
+00:46:45,351 --> 00:46:47,389
+I'm good enough to live
+with, to sleep with,
+
+960
+00:46:47,392 --> 00:46:49,799
+but God forbid you should
+have an office with me.
+
+961
+00:46:49,801 --> 00:46:52,622
+- What are you t... I just told you...
+- You get a little bored with your life,
+
+962
+00:46:52,624 --> 00:46:54,419
+so you come down and
+roll around in the dirt...
+
+963
+00:46:54,421 --> 00:46:56,660
+- have some fun with Slippin' Jimmy...
+- Oh, is it fun?
+
+964
+00:46:56,663 --> 00:46:58,513
+- ...and then it's [CLICKS TONGUE] back up.
+- Fun like lying to the ADA
+
+965
+00:46:58,515 --> 00:47:00,270
+to get your friend out of the shitter?
+
+966
+00:47:00,273 --> 00:47:03,246
+Or fun like standing there with
+a smile plastered on my face
+
+967
+00:47:03,248 --> 00:47:05,764
+while you play infantile
+mind games on my law partner?
+
+968
+00:47:05,767 --> 00:47:06,983
+Oh, what a mistake it was
+
+969
+00:47:06,985 --> 00:47:09,551
+to take me up to your office in the sky!
+
+970
+00:47:09,554 --> 00:47:11,555
+- You'll never do that again!
+- Yeah, maybe I won't.
+
+971
+00:47:11,557 --> 00:47:13,390
+And maybe next time
+you call, I won't come.
+
+972
+00:47:13,393 --> 00:47:15,926
+There you go. Kick a man when he's down.
+
+973
+00:47:17,752 --> 00:47:20,035
+Jimmy, you are always down.
+
+974
+00:47:24,227 --> 00:47:25,814
+[SCOFFS]
+
+975
+00:47:31,375 --> 00:47:34,276
+[DOOR OPENS]
+
+976
+00:47:34,278 --> 00:47:36,720
+[DOOR CLOSES]
+
+977
+00:48:02,020 --> 00:48:07,523
+[LOCK DISENGAGES, DOOR OPENS]
+
+978
+00:48:07,526 --> 00:48:10,760
+[DOOR CREAKS, CLOSES]
+
+979
+00:48:10,762 --> 00:48:14,130
+[KEYS JINGLE]
+
+980
+00:48:18,942 --> 00:48:22,309
+[SHOES SQUEAKING]
+
+981
+00:48:27,304 --> 00:48:29,737
+[BAG THUDS, KEYS JINGLE]
+
+982
+00:48:37,780 --> 00:48:41,465
+[UNZIPPING]
+
+983
+00:48:45,496 --> 00:48:48,864
+[RUSTLING]
+
+984
+00:48:54,372 --> 00:48:56,372
+[DRAWER OPENS]
+
+985
+00:48:56,374 --> 00:48:58,879
+[SIGHS]
+
+986
+00:49:02,903 --> 00:49:05,613
+[SIGHS]
+
+987
+00:49:11,188 --> 00:49:14,555
+[OBJECTS CLATTERING]
+
+988
+00:49:25,621 --> 00:49:27,642
+[BOOKS THUDDING]
+
+989
+00:49:38,426 --> 00:49:40,547
+[SIGHS]
+
+990
+00:49:40,549 --> 00:49:44,637
+[BREATHES DEEPLY]
+
+991
+00:49:46,489 --> 00:49:48,688
+I messed it all up.
+
+992
+00:50:03,715 --> 00:50:05,614
+You still want to be a lawyer?
+
+993
+00:50:10,679 --> 00:50:12,606
+Yeah.
+
+994
+00:50:15,801 --> 00:50:17,918
+Well, we can start with that.
+
+995
+00:50:29,898 --> 00:50:31,898
+[BRAKES SQUEAL]
+
+996
+00:50:31,900 --> 00:50:33,567
+[ENGINE SHUTS OFF]
+
+997
+00:50:33,569 --> 00:50:36,302
+[DOOR SQUEAKS]
+
+998
+00:50:38,148 --> 00:50:40,048
+ARTHUR: Hey, Mike.
+
+999
+00:50:40,051 --> 00:50:42,043
+Hey.
+
+1000
+00:50:44,680 --> 00:50:46,614
+Thanks.
+
+1001
+00:50:48,916 --> 00:50:50,983
+Oh, thank you, sir.
+
+1002
+00:50:50,985 --> 00:50:53,533
+So, what do we got?
+
+1003
+00:50:53,536 --> 00:50:55,536
+It's pretty quiet.
+
+1004
+00:50:55,539 --> 00:50:56,954
+Kai was up late again.
+
+1005
+00:50:56,957 --> 00:50:58,491
+About an hour after he went down,
+
+1006
+00:50:58,493 --> 00:51:00,361
+Werner came out for a couple minutes.
+
+1007
+00:51:00,364 --> 00:51:03,362
+Then Casper was up around 2:30,
+
+1008
+00:51:03,364 --> 00:51:06,899
+watched some TV, headed back in.
+
+1009
+00:51:08,512 --> 00:51:10,779
+What's going on with 6?
+
+1010
+00:51:11,638 --> 00:51:12,871
+Huh?
+
+1011
+00:51:12,874 --> 00:51:15,508
+There... What is that?
+
+1012
+00:51:15,510 --> 00:51:18,937
+Oh, yeah. Dead pixels.
+
+1013
+00:51:18,940 --> 00:51:20,572
+Wasn't there yesterday.
+
+1014
+00:51:20,575 --> 00:51:22,189
+Had a voltage spike earlier.
+
+1015
+00:51:22,192 --> 00:51:23,993
+Camera flared for about 20 seconds,
+
+1016
+00:51:23,996 --> 00:51:25,316
+but it came right back.
+
+1017
+00:51:25,318 --> 00:51:28,119
+A voltage spike?
+
+1018
+00:51:28,121 --> 00:51:30,522
+Any of the other cameras do that?
+
+1019
+00:51:30,524 --> 00:51:31,856
+Uh...
+
+1020
+00:51:33,455 --> 00:51:35,822
+[MOUSE CLICKING]
+
+1021
+00:51:35,825 --> 00:51:37,662
+Yeah. 10.
+
+1022
+00:51:42,802 --> 00:51:45,169
+Show me the outside cameras.
+
+1023
+00:51:46,973 --> 00:51:50,041
+[MOUSE CLICKS]
+
+1024
+00:51:53,848 --> 00:51:55,579
+Oh.
+
+1025
+00:51:55,581 --> 00:51:57,748
+You... let's go.
+
+1026
+00:51:57,750 --> 00:52:00,040
+[DOOR OPENS]
+
+1027
+00:52:00,043 --> 00:52:02,986
+[DOOR BUZZES]
+
+1028
+00:52:02,988 --> 00:52:05,356
+Get the lights!
+
+1029
+00:52:05,358 --> 00:52:09,360
+♪ ♪
+
+1030
+00:52:09,362 --> 00:52:12,996
+[POWER SURGING]
+
+1031
+00:52:12,998 --> 00:52:22,903
+♪ ♪
+
+1032
+00:52:23,008 --> 00:52:32,926
+♪ ♪
+
+1033
+00:52:33,001 --> 00:52:42,910
+♪ ♪
+
+1034
+00:52:43,027 --> 00:52:51,033
+♪ ♪
+
+1035
+00:52:51,035 --> 00:52:53,793
+Up there. You check that out.
+
+1036
+00:52:53,796 --> 00:52:56,406
+- [CHATTER]
+- KAI: What's going on?
+
+1037
+00:52:56,408 --> 00:52:58,641
+Mike?
+
+1038
+00:52:58,643 --> 00:53:08,567
+♪ ♪
+
+1039
+00:53:08,652 --> 00:53:14,823
+♪ ♪
+
+1040
+00:53:14,825 --> 00:53:17,126
+[LOCK CLATTERS]
+
+1041
+00:53:17,128 --> 00:53:27,020
+♪ ♪
+
+1042
+00:53:27,138 --> 00:53:37,051
+♪ ♪
+
+1043
+00:53:37,147 --> 00:53:47,051
+♪ ♪
+
+1044
+00:53:47,157 --> 00:53:57,067
+♪ ♪
+
+1045
+00:53:57,167 --> 00:54:07,051
+♪ ♪
+
+1046
+00:54:07,177 --> 00:54:10,711
+♪ ♪
+
+1047
+00:54:18,854 --> 00:54:20,543
+[DEVICE BEEPS]
+
+1048
+00:54:29,348 --> 00:54:30,663
+[DEVICE BEEPS]
+
+1049
+00:54:31,901 --> 00:54:34,202
+[ELECTRICITY HUMMING]
+
+1050
+00:54:34,687 --> 00:54:38,692
+- <font color="#D81D1D">Synced and corrected by VitoSilans</font> -
+-- <font color="#138CE9">www.Addic7ed.com</font> --
+

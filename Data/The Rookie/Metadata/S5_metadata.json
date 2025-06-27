@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Double Down",
+        "released": "2022-09-25",
+        "rating": "8.0",
+        "imdb_id": "tt19267598",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S5\\The.Rookie.S05E01.HDTVS5E1.zip"
+    },
+    "2": {
+        "title": "Labor Day",
+        "released": "2022-10-02",
+        "rating": "7.6",
+        "imdb_id": "tt21346132",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S5\\The.Rookie.S05E02.720p.HDTV.x264-SYNCOPY_-_No_HIS5E2.zip"
+    },
+    "3": {
+        "title": "Dye Hard",
+        "released": "2022-10-09",
+        "rating": "7.4",
+        "imdb_id": "tt21346140",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S5\\The.Rookie.S05E03.1080p.WEB.h264-PLZPROPERS5E3.zip"
+    },
+    "4": {
+        "title": "The Choice",
+        "released": "2022-10-16",
+        "rating": "7.2",
+        "imdb_id": "tt22185408",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S5\\The.Rookie.S05E04.720p.WEB.x265-MiNXS5E4.zip"
+    },
+    "5": {
+        "title": "The Fugitive",
+        "released": "2022-10-23",
+        "rating": "7.6",
+        "imdb_id": "tt22442706",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S5\\The.Rookie.S05E05.720p.WEB.h264-GOSSIPS5E5.zip"
+    },
+    "6": {
+        "title": "The Reckoning",
+        "released": "2022-10-30",
+        "rating": "7.2",
+        "imdb_id": "tt22505048",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S5\\The.Rookie.S05E06.HDTVS5E6.zip"
+    },
+    "7": {
+        "title": "Crossfire",
+        "released": "2022-11-06",
+        "rating": "7.3",
+        "imdb_id": "tt22753260",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S5\\The.Rookie.S05E07.HDTVS5E7.zip"
+    },
+    "8": {
+        "title": "The Collar",
+        "released": "2022-12-04",
+        "rating": "7.8",
+        "imdb_id": "tt23624880",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S5\\The.Rookie.S05E08.The.Collar.720p.AMZN.WEB-DL.DDP5.1.H.264-NTbS5E8.zip"
+    },
+    "9": {
+        "title": "Take Back",
+        "released": "2022-12-04",
+        "rating": "7.6",
+        "imdb_id": "tt23624890",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The List",
+        "released": "2023-01-03",
+        "rating": "7.3",
+        "imdb_id": "tt23624888",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Naked and the Dead",
+        "released": "2023-01-10",
+        "rating": "N/A",
+        "imdb_id": "tt24249890",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Death Notice",
+        "released": "2023-01-17",
+        "rating": "7.8",
+        "imdb_id": "tt25374832",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Daddy Cop",
+        "released": "2023-01-24",
+        "rating": "7.9",
+        "imdb_id": "tt25994806",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Death Sentence",
+        "released": "2023-01-31",
+        "rating": "N/A",
+        "imdb_id": "tt26231950",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Con",
+        "released": "2023-02-14",
+        "rating": "7.5",
+        "imdb_id": "tt26542368",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Exposed",
+        "released": "2023-02-21",
+        "rating": "7.3",
+        "imdb_id": "tt26678246",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Enemy Within",
+        "released": "2023-02-28",
+        "rating": "7.9",
+        "imdb_id": "tt26690694",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Double Trouble",
+        "released": "2023-03-21",
+        "rating": "4.5",
+        "imdb_id": "tt26936066",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "A Hole in the World",
+        "released": "2023-03-28",
+        "rating": "7.9",
+        "imdb_id": "tt27136042",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "S.T.R.",
+        "released": "2023-04-18",
+        "rating": "7.2",
+        "imdb_id": "tt27235310",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Going Under",
+        "released": "2023-04-25",
+        "rating": "7.5",
+        "imdb_id": "tt27235314",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Under Siege",
+        "released": "2023-05-02",
+        "rating": "9.0",
+        "imdb_id": "tt27235319",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

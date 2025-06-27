@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "Episode #24.1",
+        "released": "2017-03-12",
+        "rating": "6.2",
+        "imdb_id": "tt6586700",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S24\\Top.Gear.S24E01.HDTV.x264-MTBS24E1.zip"
+    },
+    "2": {
+        "title": "Episode #24.2",
+        "released": "2017-03-19",
+        "rating": "5.8",
+        "imdb_id": "tt6617876",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S24\\Top.Gear.S24E02.HDTV.x265-BvSS24E2.zip"
+    },
+    "3": {
+        "title": "Episode #24.3",
+        "released": "2017-03-26",
+        "rating": "6.2",
+        "imdb_id": "tt6617882",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S24\\Top.Gear.S24E03.HDTV.x264-MTBS24E3.zip"
+    },
+    "4": {
+        "title": "Episode #24.4",
+        "released": "2017-04-02",
+        "rating": "N/A",
+        "imdb_id": "tt6617894",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S24\\Top.Gear.S24E04.HDTV.x264-MTBS24E4.zip"
+    },
+    "5": {
+        "title": "Episode #24.5",
+        "released": "2017-04-09",
+        "rating": "5.6",
+        "imdb_id": "tt6617902",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S24\\Top.Gear.S24E05.HDTV.x264-MTBS24E5.zip"
+    },
+    "6": {
+        "title": "Episode #24.6",
+        "released": "2017-04-16",
+        "rating": "N/A",
+        "imdb_id": "tt6617912",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #24.7",
+        "released": "2017-04-23",
+        "rating": "N/A",
+        "imdb_id": "tt6617920",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

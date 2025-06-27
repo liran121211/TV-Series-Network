@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2013-06-24",
+        "rating": "7.6",
+        "imdb_id": "tt2656658",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Fire",
+        "released": "2013-07-01",
+        "rating": "7.1",
+        "imdb_id": "tt2779640",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Manhunt",
+        "released": "2013-07-08",
+        "rating": "6.8",
+        "imdb_id": "tt2821206",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Outbreak",
+        "released": "2013-07-15",
+        "rating": "7.1",
+        "imdb_id": "tt2821450",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Blue on Blue",
+        "released": "2013-07-22",
+        "rating": "7.4",
+        "imdb_id": "tt2821458",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Endless Thirst",
+        "released": "2013-07-29",
+        "rating": "7.1",
+        "imdb_id": "tt2821460",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Imperfect Circles",
+        "released": "2013-08-05",
+        "rating": "7.2",
+        "imdb_id": "tt2821462",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Thicker Than Water",
+        "released": "2013-08-12",
+        "rating": "7.1",
+        "imdb_id": "tt2821464",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Fourth Hand",
+        "released": "2013-08-19",
+        "rating": "7.1",
+        "imdb_id": "tt2821468",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Let the Games Begin",
+        "released": "2013-08-26",
+        "rating": "6.9",
+        "imdb_id": "tt2821472",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Speak of the Devil",
+        "released": "2013-09-02",
+        "rating": "7.2",
+        "imdb_id": "tt2821474",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Exigent Circumstances",
+        "released": "2013-09-09",
+        "rating": "7.4",
+        "imdb_id": "tt2821478",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Curtains",
+        "released": "2013-09-16",
+        "rating": "7.1",
+        "imdb_id": "tt2821482",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

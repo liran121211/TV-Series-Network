@@ -1,0 +1,2718 @@
+﻿1
+00:00:03,753 --> 00:00:06,755
+SARAH [VOICE-OVER]: In the future,
+my son will lead mankind...
+
+2
+00:00:06,923 --> 00:00:09,299
+...in a war against Skynet.
+
+3
+00:00:09,759 --> 00:00:13,512
+A computer system programmed
+to destroy the world.
+
+4
+00:00:14,514 --> 00:00:17,433
+It has sent machines
+back through time.
+
+5
+00:00:17,726 --> 00:00:19,059
+Some to kill him.
+
+6
+00:00:19,394 --> 00:00:20,894
+One to protect him.
+
+7
+00:00:21,271 --> 00:00:24,773
+Today we fight to stop Skynet
+from ever being created.
+
+8
+00:00:24,941 --> 00:00:27,401
+To change our future.
+
+9
+00:00:27,569 --> 00:00:29,862
+To change his fate.
+
+10
+00:00:30,447 --> 00:00:34,366
+The war to save mankind begins now.
+
+11
+00:00:39,873 --> 00:00:42,624
+NARRATOR: Previously on Terminator:
+The Sarah Connor Chronicles...
+
+12
+00:00:48,089 --> 00:00:50,716
+SARAH: Where are we?
+CAMERON: Same where. Different when.
+
+13
+00:00:51,134 --> 00:00:52,926
+I want my new name.
+My whole new me.
+
+14
+00:00:53,094 --> 00:00:54,094
+I'll track down Enrique.
+
+15
+00:00:54,262 --> 00:00:55,512
+I need three sets of papers.
+
+16
+00:00:55,680 --> 00:00:57,973
+My nephew has taken over the business.
+
+17
+00:00:58,141 --> 00:01:00,494
+You're in the system and everything.
+SARAH: Uncle Enrique would be proud.
+
+18
+00:01:00,518 --> 00:01:02,478
+[SPEAKING SPANISH]
+
+19
+00:01:02,645 --> 00:01:04,813
+He referred to you as a rata. Snitch.
+
+20
+00:01:06,149 --> 00:01:08,269
+Why would you do this?
+CAMERON: Because you wouldn't.
+
+21
+00:01:08,359 --> 00:01:12,613
+- Why not stay in the past?
+- You died two years ago. Cancer.
+
+22
+00:01:12,781 --> 00:01:14,990
+SARAH: I've seen that before.
+CAMERON: Skynet work camp.
+
+23
+00:01:15,158 --> 00:01:16,283
+Resistance fighters.
+
+24
+00:01:16,451 --> 00:01:18,804
+JOHN: You sure there's money here?
+CAMERON: Anything they valued.
+
+25
+00:01:18,828 --> 00:01:20,746
+Money. Guns. It would be hidden.
+
+26
+00:01:24,959 --> 00:01:26,293
+SARAH:
+You told me we'd be safe.
+
+27
+00:01:26,544 --> 00:01:28,462
+CAMERON:
+Skynet doesn't know you're here.
+
+28
+00:01:28,630 --> 00:01:30,172
+There's no directive to hunt you.
+
+29
+00:01:31,174 --> 00:01:33,342
+What if they found out?
+Would they all know what to do?
+
+30
+00:01:33,510 --> 00:01:35,469
+Who the hell are you, man?
+
+31
+00:01:36,304 --> 00:01:37,679
+Ah...
+
+32
+00:01:38,681 --> 00:01:39,681
+CAMERON:
+They do.
+
+33
+00:01:42,977 --> 00:01:46,271
+When I was in the mental hospital
+I became obsessed with science.
+
+34
+00:01:46,815 --> 00:01:48,357
+Not all science, actually.
+
+35
+00:01:48,942 --> 00:01:51,151
+And not really science at all.
+
+36
+00:01:51,319 --> 00:01:54,863
+Scientists, and then
+only nuclear scientists.
+
+37
+00:01:55,031 --> 00:01:56,657
+The ones who invented the bomb.
+
+38
+00:01:58,535 --> 00:02:01,203
+Oppenheimer, Heisenberg,
+Fermi and Teller.
+
+39
+00:02:01,371 --> 00:02:04,456
+Pioneers. Geniuses all.
+
+40
+00:02:04,666 --> 00:02:08,043
+I read every book I could.
+I wanted to understand.
+
+41
+00:02:08,211 --> 00:02:12,548
+Why couldn't they stop?
+These fathers of our destruction?
+
+42
+00:02:12,882 --> 00:02:15,008
+And why wouldn't anybody
+stop them?
+
+43
+00:02:17,887 --> 00:02:21,390
+And if I had the chance, would I?
+
+44
+00:02:22,267 --> 00:02:23,642
+[MEN GRUNTING]
+
+45
+00:03:17,780 --> 00:03:19,406
+Good morning.
+
+46
+00:03:20,617 --> 00:03:23,911
+- You look like hell.
+- Up late.
+
+47
+00:03:24,746 --> 00:03:29,208
+Newspaper clippings,
+surveillance photos, bank records.
+
+48
+00:03:29,375 --> 00:03:31,877
+Pamphlets from every high-tech company
+in the state.
+
+49
+00:03:32,045 --> 00:03:34,922
+Even thought I saw the deeds
+to city hall in here somewhere.
+
+50
+00:03:35,089 --> 00:03:39,051
+Those Resistance guys weren't sent
+back here to be our support crew.
+
+51
+00:03:39,219 --> 00:03:40,719
+They're a Skynet hunting party.
+
+52
+00:03:42,472 --> 00:03:43,722
+Really? Are you sure?
+
+53
+00:03:44,098 --> 00:03:48,101
+Most of this is still a puzzle to me,
+but there is one list in here I understand.
+
+54
+00:03:48,269 --> 00:03:51,271
+Employee list, Cyberdyne Systems.
+
+55
+00:03:51,981 --> 00:03:55,943
+Seems they thought
+it was a good place to start. And it is.
+
+56
+00:03:56,110 --> 00:03:57,861
+She's not gonna be happy to see you.
+
+57
+00:03:59,280 --> 00:04:00,364
+She never is.
+
+58
+00:04:00,990 --> 00:04:04,159
+- You want me to come along?
+- No. You have your own job to do.
+
+59
+00:04:04,369 --> 00:04:06,119
+A big one.
+
+60
+00:04:15,880 --> 00:04:18,173
+You're getting pretty good at that.
+
+61
+00:04:18,841 --> 00:04:20,509
+Thank you.
+
+62
+00:04:23,012 --> 00:04:25,347
+Still, it's not brain surgery
+or anything.
+
+63
+00:04:25,515 --> 00:04:29,017
+It would be funny if you were some
+advanced cybernetic intelligence...
+
+64
+00:04:29,185 --> 00:04:32,271
+...yet stumped by a stick of eyeliner.
+
+65
+00:04:32,438 --> 00:04:34,022
+No, it's not brain surgery.
+
+66
+00:04:35,525 --> 00:04:38,694
+Would have to be a lot sharper
+for brain surgery.
+
+67
+00:04:46,869 --> 00:04:48,537
+Much better.
+
+68
+00:04:48,871 --> 00:04:52,457
+When you wear clothes, much better.
+
+69
+00:04:53,334 --> 00:04:56,169
+Okay, six ways in, six ways out.
+
+70
+00:04:56,337 --> 00:04:59,006
+The front opens to the street here.
+Security's minimal.
+
+71
+00:04:59,173 --> 00:05:01,883
+Two armed guards in the morning.
+Four in the afternoon.
+
+72
+00:05:02,051 --> 00:05:04,553
+If anything goes wrong,
+there's a parking lot here.
+
+73
+00:05:04,721 --> 00:05:09,850
+Mom, it's high school, okay?
+Not supermax. We can handle it.
+
+74
+00:05:11,519 --> 00:05:13,228
+We can handle it.
+
+75
+00:05:13,896 --> 00:05:15,439
+Don't you kiss me.
+
+76
+00:05:19,319 --> 00:05:20,402
+Or anyone else.
+
+77
+00:05:23,990 --> 00:05:27,326
+JOHN: Okay, now blend in.
+CAMERON: Blend in.
+
+78
+00:05:27,493 --> 00:05:30,746
+Yeah, I mean don't seem like a freak.
+You know what I mean, right?
+
+79
+00:05:30,913 --> 00:05:34,916
+Freak. Weirdo. Kook.
+Oddball. Crackpot.
+
+80
+00:05:35,084 --> 00:05:38,378
+Strange duck. Queer potato.
+Nut.
+
+81
+00:05:38,546 --> 00:05:40,380
+I've been reading the dictionary.
+
+82
+00:05:40,548 --> 00:05:42,758
+- I don't sleep.
+- That's what I'm talking about.
+
+83
+00:05:42,967 --> 00:05:46,428
+You do that, you sound like a freak.
+Don't walk around like my bodyguard.
+
+84
+00:05:46,596 --> 00:05:48,764
+You're supposed to be my sister.
+
+85
+00:05:50,016 --> 00:05:51,725
+You won't fool anyone.
+
+86
+00:05:53,227 --> 00:05:55,103
+I fooled you.
+
+87
+00:05:55,772 --> 00:05:57,272
+[SCOFFS]
+
+88
+00:06:03,446 --> 00:06:05,072
+What's that all about?
+
+89
+00:06:05,782 --> 00:06:09,368
+Appears to be a re-imagining
+of a trompe l'oeil fresco.
+
+90
+00:06:10,620 --> 00:06:11,787
+I don't sleep.
+
+91
+00:06:15,083 --> 00:06:19,544
+Cell phones, hats, rings, and bling.
+Take it off and put it in the basket.
+
+92
+00:06:19,712 --> 00:06:23,382
+Cell phones, hats, rings, and bling
+in the basket.
+
+93
+00:06:23,549 --> 00:06:25,050
+In the basket, people. Come on.
+
+94
+00:06:25,635 --> 00:06:27,135
+The line keeps moving. Let's go.
+
+95
+00:06:27,303 --> 00:06:31,223
+Cell phones, hats, rings, and bling
+in the basket.
+
+96
+00:06:31,391 --> 00:06:32,474
+Keep the line moving.
+
+97
+00:06:32,642 --> 00:06:35,977
+Cell phones, caps, rings, and bling
+in the basket please.
+
+98
+00:06:36,145 --> 00:06:40,148
+Let's go. Come on. Thank you.
+Cell phones, caps, rings, and bli...
+
+99
+00:06:41,609 --> 00:06:43,402
+GUARD 1:
+Again with you, missy.
+
+100
+00:06:43,820 --> 00:06:46,822
+Cell phones, hats, rings and bling
+in the basket.
+
+101
+00:06:47,031 --> 00:06:48,926
+GUARD 2: Hold that. Come through.
+MAN 1: Come on.
+
+102
+00:06:48,950 --> 00:06:50,325
+Come on, we ain't got all day.
+
+103
+00:06:50,493 --> 00:06:51,660
+[SIGHS]
+
+104
+00:06:52,412 --> 00:06:54,663
+Excuse me. This is my sister.
+
+105
+00:06:54,831 --> 00:06:55,997
+Extra credit for you.
+
+106
+00:06:56,165 --> 00:06:58,667
+JOHN: Look, she's got
+a metal plate in her head.
+
+107
+00:06:58,835 --> 00:07:00,043
+Really. It's a big one.
+
+108
+00:07:01,671 --> 00:07:03,088
+[BEEPING]
+
+109
+00:07:03,256 --> 00:07:05,841
+MAN 2: Look at this. All right,
+metal head, let's go through.
+
+110
+00:07:06,634 --> 00:07:08,552
+I fell. Hard.
+
+111
+00:07:09,679 --> 00:07:11,263
+All right, let's go. Go ahead.
+
+112
+00:07:11,431 --> 00:07:13,682
+Cell phones, caps.
+
+113
+00:07:24,610 --> 00:07:28,363
+TARISSA: I thought you were dead.
+- Well, I'm not.
+
+114
+00:07:29,615 --> 00:07:31,491
+Lucky you.
+
+115
+00:07:32,076 --> 00:07:33,702
+- You look...
+- Different?
+
+116
+00:07:33,870 --> 00:07:35,203
+The same.
+
+117
+00:07:35,371 --> 00:07:39,708
+- Well, I can't explain.
+- I wouldn't want you to.
+
+118
+00:07:41,294 --> 00:07:44,171
+- Is John...?
+- He's good.
+
+119
+00:07:45,089 --> 00:07:47,340
+TARISSA:
+What about that machine?
+
+120
+00:07:48,217 --> 00:07:49,551
+She's still around.
+
+121
+00:07:50,511 --> 00:07:52,137
+Not that one.
+
+122
+00:07:52,305 --> 00:07:54,139
+- The other.
+- No.
+
+123
+00:07:56,976 --> 00:07:58,101
+Do you mind?
+
+124
+00:07:59,145 --> 00:08:00,896
+You brought it.
+
+125
+00:08:05,693 --> 00:08:07,360
+Danny's not here?
+
+126
+00:08:08,571 --> 00:08:10,822
+It's ten years, right?
+
+127
+00:08:11,991 --> 00:08:14,117
+He's at school.
+
+128
+00:08:14,535 --> 00:08:17,913
+- He hasn't come in a long time.
+- I'm sorry to hear that.
+
+129
+00:08:21,876 --> 00:08:23,835
+What do you want, Sarah?
+
+130
+00:08:24,253 --> 00:08:27,506
+You never die
+and you always want something.
+
+131
+00:08:30,218 --> 00:08:32,093
+I need you to look
+at these photographs.
+
+132
+00:08:32,261 --> 00:08:36,056
+Tell me if you recognize anybody.
+I know it's been a long time but...
+
+133
+00:08:41,896 --> 00:08:43,563
+[TARISSA SIGHS]
+
+134
+00:08:48,569 --> 00:08:50,111
+No.
+
+135
+00:08:50,947 --> 00:08:52,697
+Nobody. Sorry.
+
+136
+00:08:52,865 --> 00:08:55,951
+Because one of them may be involved
+with Skynet right now.
+
+137
+00:08:56,118 --> 00:08:58,453
+They might not even know it.
+
+138
+00:09:07,630 --> 00:09:08,755
+Sorry to bother you.
+
+139
+00:09:10,174 --> 00:09:12,175
+I'll leave you alone.
+
+140
+00:09:14,262 --> 00:09:16,304
+The fourth photo.
+
+141
+00:09:16,889 --> 00:09:18,181
+The young one.
+
+142
+00:09:18,891 --> 00:09:21,309
+His name is Andrew Goode.
+
+143
+00:09:21,477 --> 00:09:22,978
+Andy.
+
+144
+00:09:23,187 --> 00:09:25,480
+He was an intern at Cyberdyne
+one summer.
+
+145
+00:09:27,108 --> 00:09:29,317
+Miles liked him.
+
+146
+00:09:32,321 --> 00:09:33,655
+Is he going to die too?
+
+147
+00:09:35,283 --> 00:09:38,451
+Is that what happens now? He dies?
+
+148
+00:09:38,828 --> 00:09:40,745
+I don't know.
+
+149
+00:09:42,790 --> 00:09:43,832
+I hope not.
+
+150
+00:09:45,835 --> 00:09:49,004
+Well, if he does,
+just make sure it matters.
+
+151
+00:09:49,213 --> 00:09:51,673
+Make sure it's not in vain.
+
+152
+00:09:54,135 --> 00:09:56,344
+No one dies in vain.
+
+153
+00:10:13,362 --> 00:10:16,698
+Agent Ellison.
+They told me you were coming.
+
+154
+00:10:16,866 --> 00:10:19,326
+But I told them the last time
+you worked a scene...
+
+155
+00:10:19,493 --> 00:10:21,703
+...Hoover was cross-dressing
+at Quantico.
+
+156
+00:10:23,789 --> 00:10:25,165
+Ballistics.
+
+157
+00:10:25,333 --> 00:10:27,834
+I can already tell you mine are bigger.
+
+158
+00:10:28,961 --> 00:10:34,174
+Same gun that killed your boys here
+killed one of my CI's. Enrique Salzia.
+
+159
+00:10:34,342 --> 00:10:36,343
+What's the connection?
+
+160
+00:10:36,636 --> 00:10:39,137
+He made fake paper.
+Your guys had fake paper.
+
+161
+00:10:39,305 --> 00:10:42,974
+Hope you're not selling the terrorist-cell
+theory because I'm not buying it.
+
+162
+00:10:43,142 --> 00:10:45,810
+- Why not?
+- Look at the print report.
+
+163
+00:10:45,978 --> 00:10:50,273
+Cal. ID, NCIC, CDP, Interpol.
+There's nothing here.
+
+164
+00:10:50,816 --> 00:10:54,152
+These guys were drug dealers.
+Small-time.
+
+165
+00:10:54,320 --> 00:10:56,738
+Definitely not worth
+you putting your tie on...
+
+166
+00:10:56,906 --> 00:10:59,366
+...and breaking open
+your Thomas Guide.
+
+167
+00:10:59,909 --> 00:11:03,203
+Oh, yeah. We see this every day.
+
+168
+00:11:03,371 --> 00:11:05,372
+You didn't find that curious?
+
+169
+00:11:05,539 --> 00:11:08,083
+Why would anyone wire a safe
+directly into the power?
+
+170
+00:11:08,292 --> 00:11:10,919
+Why's the sky blue, Ellison?
+Don't overthink it.
+
+171
+00:11:11,087 --> 00:11:15,173
+The guys were druggies. They're not
+rocket scientists, not terrorists.
+
+172
+00:11:15,341 --> 00:11:17,384
+Your guy sold my guys paper.
+
+173
+00:11:17,551 --> 00:11:20,095
+My guys whacked your guy
+to cover their tracks.
+
+174
+00:11:20,304 --> 00:11:22,764
+Go back to your office.
+Your desk misses you.
+
+175
+00:11:23,683 --> 00:11:26,518
+Right. Good one.
+
+176
+00:11:27,937 --> 00:11:29,104
+[SIGHS]
+
+177
+00:11:30,690 --> 00:11:34,442
+Somebody came back here
+for whatever was in that safe.
+
+178
+00:11:34,610 --> 00:11:37,779
+They're out there.
+And I'm gonna find them.
+
+179
+00:11:51,961 --> 00:11:53,628
+DOCTOR:
+Hey, buddy, wait.
+
+180
+00:11:54,213 --> 00:11:55,839
+You can't go in there.
+
+181
+00:12:45,473 --> 00:12:46,973
+Hey. Hey.
+
+182
+00:12:47,141 --> 00:12:48,516
+[GRUNTING]
+
+183
+00:12:55,816 --> 00:12:57,616
+ANDY:
+All right. Uh, the receipt's in the bag.
+
+184
+00:12:57,735 --> 00:12:59,569
+Let me know if you have
+any problems.
+
+185
+00:12:59,737 --> 00:13:02,739
+You shouldn't have any problems
+setting up the... The... You know.
+
+186
+00:13:03,365 --> 00:13:06,785
+You should be pretty happy.
+MAN: Cool, that's so...
+
+187
+00:13:09,538 --> 00:13:11,706
+ANDY: Let me know
+if you have any problems with it.
+
+188
+00:13:11,874 --> 00:13:14,125
+Enjoy.
+MAN: Thank you.
+
+189
+00:13:14,293 --> 00:13:16,044
+ANDY:
+Have a good day.
+
+190
+00:13:21,258 --> 00:13:22,550
+ANDY:
+Can I help you?
+
+191
+00:13:22,927 --> 00:13:24,552
+No.
+
+192
+00:13:25,930 --> 00:13:28,681
+Andy. Just looking.
+
+193
+00:13:29,725 --> 00:13:32,227
+You just kept looking over
+like you needed something.
+
+194
+00:13:36,232 --> 00:13:40,151
+That's the phone. Seriously, if I was
+gonna be alone on a desert island...
+
+195
+00:13:40,319 --> 00:13:43,321
+...with only a phone for a companion
+that would be the phone.
+
+196
+00:13:43,489 --> 00:13:45,073
+Is that something you would do?
+
+197
+00:13:45,241 --> 00:13:46,324
+[CHUCKLES]
+
+198
+00:13:46,575 --> 00:13:48,201
+May I?
+
+199
+00:13:48,702 --> 00:13:50,036
+Got a four-meg camera...
+
+200
+00:13:50,204 --> 00:13:53,832
+...texting... True texting too.
+Not that SMS cartoon-bubble junk.
+
+201
+00:13:53,999 --> 00:13:55,917
+3G data access, 10 gigs free music...
+
+202
+00:13:56,085 --> 00:13:59,003
+...six hours of talk time
+and 36 standby on your battery.
+
+203
+00:14:01,674 --> 00:14:03,716
+What happens if I press
+these numbers here?
+
+204
+00:14:04,593 --> 00:14:07,095
+- Excuse me?
+- These numbers? One through nine?
+
+205
+00:14:08,764 --> 00:14:11,224
+If I press seven of them
+will someone talk to me...
+
+206
+00:14:11,392 --> 00:14:13,226
+...through the ear part up here?
+
+207
+00:14:14,103 --> 00:14:16,896
+Uh... Yeah.
+
+208
+00:14:17,356 --> 00:14:19,983
+Okay. I'll take three.
+
+209
+00:14:26,740 --> 00:14:29,909
+[CELL PHONE RINGING]
+
+210
+00:14:34,999 --> 00:14:37,417
+Hello?
+ANDY [ON PHONE]: Hi.
+
+211
+00:14:39,503 --> 00:14:40,962
+Are you calling me?
+
+212
+00:14:41,130 --> 00:14:43,923
+Uh, I was just following up
+to make sure everything's okay.
+
+213
+00:14:44,133 --> 00:14:48,303
+I just left the store.
+ANDY: I know.
+
+214
+00:14:49,722 --> 00:14:51,973
+Okay. Do you wanna have dinner
+with me tonight?
+
+215
+00:14:52,141 --> 00:14:53,641
+No.
+
+216
+00:14:53,809 --> 00:14:55,602
+Well, you answered too quickly.
+
+217
+00:14:55,769 --> 00:14:58,271
+Hear me out.
+Just give me one minute.
+
+218
+00:14:59,773 --> 00:15:02,025
+- Thirty seconds?
+- Talk fast.
+
+219
+00:15:02,192 --> 00:15:06,404
+Okay, first let me clear up the whole
+desert-island-and-a-cell-phone thing.
+
+220
+00:15:06,572 --> 00:15:09,115
+- It seems strange if you picture it.
+- I wasn't.
+
+221
+00:15:09,283 --> 00:15:11,659
+Right. Why would you?
+It's an asinine sales pitch.
+
+222
+00:15:11,827 --> 00:15:15,288
+Nowhere to plug in the phone.
+It would be worth less than a rock...
+
+223
+00:15:15,456 --> 00:15:18,016
+...when the battery died.
+Couldn't even use it to open a coconut.
+
+224
+00:15:18,167 --> 00:15:21,502
+- This is you selling yourself?
+- Selling myself? I don't know.
+
+225
+00:15:21,670 --> 00:15:25,798
+There's something immoral
+about the whole selling process.
+
+226
+00:15:25,966 --> 00:15:28,426
+- And yet, that's your job.
+- Part-time.
+
+227
+00:15:28,594 --> 00:15:32,555
+And I'm not very good at it. So I'm
+actually less immoral than the average...
+
+228
+00:15:33,807 --> 00:15:36,017
+Anyway. Um...
+
+229
+00:15:37,227 --> 00:15:38,728
+Where was I?
+
+230
+00:15:38,896 --> 00:15:41,272
+- You're right.
+- About what?
+
+231
+00:15:42,191 --> 00:15:44,192
+I answered too quick.
+
+232
+00:15:51,283 --> 00:15:54,243
+- Mr. Baum?
+- Yes?
+
+233
+00:15:54,411 --> 00:15:56,287
+Take your seat, please.
+
+234
+00:16:00,834 --> 00:16:02,627
+- Hi.
+- Hi.
+
+235
+00:16:02,795 --> 00:16:07,006
+Okay. Paper and pencil out.
+Time for a pop quiz.
+
+236
+00:16:13,389 --> 00:16:14,931
+Here.
+
+237
+00:16:15,099 --> 00:16:16,182
+[KNOCKING ON DOOR]
+
+238
+00:16:16,350 --> 00:16:17,976
+TEACHER:
+Come in.
+
+239
+00:16:18,435 --> 00:16:19,727
+[KNOCKING ON DOOR]
+
+240
+00:16:20,521 --> 00:16:22,814
+I said come on in.
+
+241
+00:16:23,357 --> 00:16:24,607
+[CHATTERING]
+
+242
+00:16:25,567 --> 00:16:26,859
+I'm transferring in.
+
+243
+00:16:28,779 --> 00:16:32,115
+MAN 1: That's what I'm talking about.
+MAN 2: What's up with that?
+
+244
+00:16:33,117 --> 00:16:35,493
+TEACHER:
+Okay. Any open seat.
+
+245
+00:16:41,500 --> 00:16:44,961
+JOHN: What part about "Don't act like a
+freak" didn't you understand?
+
+246
+00:16:45,504 --> 00:16:47,046
+Sit down.
+
+247
+00:16:53,971 --> 00:16:55,847
+[DOG BARKING]
+
+248
+00:17:14,867 --> 00:17:16,951
+[SPANISH RAP MUSIC PLAYING]
+
+249
+00:17:18,954 --> 00:17:20,371
+JAMES: So.
+- So.
+
+250
+00:17:20,539 --> 00:17:24,417
+Like I said on the phone, your sweet
+Uncle Enrique lived a colorful life.
+
+251
+00:17:24,585 --> 00:17:26,669
+One we have not yet painted in full.
+
+252
+00:17:26,837 --> 00:17:28,588
+You grow apart.
+
+253
+00:17:28,797 --> 00:17:31,674
+Every day's a new adventure.
+Who can keep up?
+
+254
+00:17:31,842 --> 00:17:33,176
+[INHALES SHARPLY]
+
+255
+00:17:36,680 --> 00:17:38,931
+I got an uncle who's like a father.
+
+256
+00:17:39,099 --> 00:17:42,393
+I also got one who's like a stranger.
+How about you two?
+
+257
+00:17:42,561 --> 00:17:44,979
+More like an aunt. Chatty, chatty.
+
+258
+00:17:45,147 --> 00:17:46,397
+[BOTH LAUGHING]
+
+259
+00:17:46,607 --> 00:17:50,526
+All right. So you're not too close.
+
+260
+00:17:51,028 --> 00:17:53,988
+But he did call you three times
+the day he was murdered.
+
+261
+00:17:54,156 --> 00:17:57,492
+- What did you chat about?
+- Those Lakers.
+
+262
+00:17:57,659 --> 00:18:01,954
+- Really? What about them?
+- Kobe. He's the bomb.
+
+263
+00:18:02,122 --> 00:18:04,457
+I always thought he was a ball hog.
+
+264
+00:18:04,625 --> 00:18:07,919
+He's all alone, man.
+He's got no one else who can shoot.
+
+265
+00:18:08,087 --> 00:18:10,463
+Is that you, Carlos?
+
+266
+00:18:11,048 --> 00:18:13,174
+Now that your uncle's dead?
+
+267
+00:18:13,884 --> 00:18:14,967
+You all alone?
+
+268
+00:18:15,969 --> 00:18:17,637
+Yeah.
+
+269
+00:18:18,180 --> 00:18:20,181
+All these boys can shoot.
+
+270
+00:18:22,434 --> 00:18:24,102
+[LAUGHS]
+
+271
+00:18:31,902 --> 00:18:35,029
+- I didn't kill my uncle.
+- No.
+
+272
+00:18:35,948 --> 00:18:39,158
+And you're too smart
+to know nothing about who did.
+
+273
+00:18:43,747 --> 00:18:45,873
+I'll be in touch.
+
+274
+00:18:57,678 --> 00:19:01,472
+No, I know. The guy's 18 months
+ahead of the Germans.
+
+275
+00:19:01,640 --> 00:19:04,517
+Yeah, well, I would
+if I had that kind of grant money.
+
+276
+00:19:04,685 --> 00:19:07,145
+No, I'm not saying
+the guy's a complete idiot.
+
+277
+00:19:07,312 --> 00:19:09,647
+It's not exactly
+avant-garde science, is it?
+
+278
+00:19:09,815 --> 00:19:12,483
+Why don't they give money
+to people on the cutting edge?
+
+279
+00:19:12,651 --> 00:19:14,277
+But they never do. They never...
+
+280
+00:19:14,444 --> 00:19:16,320
+[FOOTSTEPS]
+
+281
+00:19:20,909 --> 00:19:22,618
+[CHOKING]
+
+282
+00:19:29,918 --> 00:19:31,586
+Hey.
+
+283
+00:19:32,462 --> 00:19:36,716
+- How was school?
+- I have a metal plate in my head.
+
+284
+00:19:36,925 --> 00:19:38,593
+She's gonna need a note.
+
+285
+00:19:38,760 --> 00:19:41,053
+I meant you, not her.
+JOHN: Yeah, fine.
+
+286
+00:19:41,221 --> 00:19:42,821
+SARAH:
+You're not gonna give me anything?
+
+287
+00:19:42,848 --> 00:19:43,931
+We went, we learned.
+
+288
+00:19:44,099 --> 00:19:47,977
+I didn't get killed and she didn't kill
+anybody. It was a pretty good first day.
+
+289
+00:19:48,145 --> 00:19:49,812
+What about you, did you go?
+SARAH: I did.
+
+290
+00:19:49,980 --> 00:19:51,856
+JOHN: How was she?
+Surprised you weren't dead?
+
+291
+00:19:52,024 --> 00:19:53,983
+More like disappointed.
+
+292
+00:19:54,193 --> 00:19:55,985
+She ID'd
+one of the safe-house photos.
+
+293
+00:19:56,153 --> 00:19:58,070
+Intern at Cyberdyne.
+JOHN: Really?
+
+294
+00:19:58,238 --> 00:20:01,949
+What does he do? Work in a lab or build
+rocket guidance systems or something?
+
+295
+00:20:02,117 --> 00:20:05,286
+- Cell phone salesman.
+- Shut up.
+
+296
+00:20:05,454 --> 00:20:07,872
+Cell phone salesman,
+and not a very good one.
+
+297
+00:20:08,040 --> 00:20:09,360
+CAMERON:
+These need to be cleaned.
+
+298
+00:20:13,128 --> 00:20:14,754
+JOHN: Okay, so about
+the cell-phone guy.
+
+299
+00:20:14,963 --> 00:20:17,298
+I'm having dinner with him tonight.
+
+300
+00:20:18,258 --> 00:20:22,845
+- Dinner? You mean, like a date?
+- Not a date.
+
+301
+00:20:23,472 --> 00:20:25,681
+Are you going to kill him?
+
+302
+00:20:26,099 --> 00:20:29,602
+Kill him?
+I don't know the first thing about him.
+
+303
+00:20:29,770 --> 00:20:34,565
+He interned at Cyberdyne in college.
+His photo's in a pile of photos.
+
+304
+00:20:37,736 --> 00:20:39,570
+Nobody dies till I say so.
+
+305
+00:20:42,491 --> 00:20:43,991
+Tell her.
+
+306
+00:20:44,409 --> 00:20:47,161
+People die all the time.
+They won't wait for her.
+
+307
+00:20:52,501 --> 00:20:54,210
+I fooled you again.
+
+308
+00:20:54,378 --> 00:20:56,254
+[EXHALES]
+
+309
+00:21:02,803 --> 00:21:04,637
+Who are you?
+
+310
+00:21:05,597 --> 00:21:10,434
+How did you find me?
+What... What do you want?
+
+311
+00:21:11,019 --> 00:21:13,354
+Are you a veteran?
+Is that what this is about?
+
+312
+00:21:14,856 --> 00:21:16,857
+Do you speak?
+
+313
+00:21:21,071 --> 00:21:22,655
+TERMINATOR [IN ROBOT VOICE]:
+Read that.
+
+314
+00:21:27,119 --> 00:21:28,703
+How...? How did you...?
+
+315
+00:21:36,962 --> 00:21:38,879
+No, no, no. That's not possible.
+
+316
+00:21:39,089 --> 00:21:41,716
+That's an epidermal growth rate
+that's not sustainable.
+
+317
+00:21:41,883 --> 00:21:43,175
+Keratinocyte and...
+
+318
+00:21:43,844 --> 00:21:48,055
+At that rate you couldn't possibly
+maintain cell regulation or differentiation.
+
+319
+00:21:48,223 --> 00:21:49,682
+It's impossible.
+
+320
+00:21:50,392 --> 00:21:51,600
+TERMINATOR:
+Possible.
+
+321
+00:21:56,857 --> 00:21:58,691
+Woo was wrong.
+
+322
+00:22:01,486 --> 00:22:03,029
+Thomason was wrong.
+
+323
+00:22:03,196 --> 00:22:06,157
+Parker and Lang were almost right,
+but still...
+
+324
+00:22:06,325 --> 00:22:08,909
+...completely wrong. I was...
+
+325
+00:22:09,161 --> 00:22:11,245
+I wasn't even close.
+
+326
+00:22:11,413 --> 00:22:13,622
+TERMINATOR:
+Can you do it?
+
+327
+00:22:16,585 --> 00:22:19,170
+Well, I'd have to go to my lab.
+
+328
+00:22:19,338 --> 00:22:25,509
+There's a whole mix of growth rates.
+TGF-beta, PDGF, EGF...
+
+329
+00:22:25,677 --> 00:22:27,094
+I'd need...
+
+330
+00:22:27,262 --> 00:22:30,222
+You know, there's a lot of equipment.
+
+331
+00:22:30,390 --> 00:22:34,435
+Oh, and blood.
+We need at least 20 units.
+
+332
+00:22:34,644 --> 00:22:39,065
+Preferably with tissues comprised...
+TERMINATOR: I brought my own.
+
+333
+00:22:42,069 --> 00:22:44,195
+TERMINATOR:
+Can you do it?
+
+334
+00:22:46,615 --> 00:22:48,199
+Yes.
+
+335
+00:22:52,120 --> 00:22:53,662
+Yes, I can.
+
+336
+00:22:56,750 --> 00:22:58,209
+SARAH [VOICE-OVER]:
+In 1943...
+
+337
+00:22:58,377 --> 00:23:00,461
+...the German physicist
+Werner Heisenberg...
+
+338
+00:23:00,629 --> 00:23:03,756
+...delivered a physics lecture
+to a packed hall in Zurich.
+
+339
+00:23:03,924 --> 00:23:05,966
+One of the audience members
+was Moe Berg...
+
+340
+00:23:06,134 --> 00:23:09,970
+...an ex-professional baseball player
+working as a spy for the OSS.
+
+341
+00:23:10,138 --> 00:23:13,974
+Berg's task was to listen to the lecture
+and determine whether the Germans...
+
+342
+00:23:14,184 --> 00:23:16,936
+...were close to perfecting
+the atomic bomb.
+
+343
+00:23:17,104 --> 00:23:19,146
+If Berg discovered
+that this was the case...
+
+344
+00:23:19,314 --> 00:23:21,816
+...he was to wait
+for Heisenberg outside the hall...
+
+345
+00:23:21,983 --> 00:23:24,610
+...and shoot the scientist in the head.
+
+346
+00:23:28,657 --> 00:23:31,450
+He had never killed anyone before.
+
+347
+00:23:38,125 --> 00:23:39,792
+So what's your deal, Andy?
+
+348
+00:23:39,960 --> 00:23:42,920
+I can't imagine you majored
+in cell phone sales at college.
+
+349
+00:23:43,088 --> 00:23:47,758
+No. No. More like Funyuns and 12 packs
+of Jolt from the vintage soda store...
+
+350
+00:23:47,926 --> 00:23:50,261
+...while my roommates and I
+hacked "Zelda III"...
+
+351
+00:23:50,429 --> 00:23:53,305
+...so the princess would say
+funny lines ripped from reruns.
+
+352
+00:23:53,473 --> 00:23:56,016
+What's that language you speak, boy?
+
+353
+00:23:56,435 --> 00:24:01,689
+Computer science.
+Caltech. Advanced Dork.
+
+354
+00:24:01,940 --> 00:24:06,026
+And what would you do
+with a computer degree from Caltech?
+
+355
+00:24:06,236 --> 00:24:08,154
+I don't know. I never got one.
+
+356
+00:24:08,321 --> 00:24:10,781
+- Really?
+- My father died senior year.
+
+357
+00:24:10,949 --> 00:24:14,034
+Mom went a little off the rails.
+I dropped out to help.
+
+358
+00:24:14,953 --> 00:24:16,203
+I'm sorry.
+
+359
+00:24:16,371 --> 00:24:20,124
+No, it was a long time ago,
+but thanks anyway.
+
+360
+00:24:20,292 --> 00:24:23,794
+She's good. She married
+the security guard at her bank.
+
+361
+00:24:27,883 --> 00:24:29,967
+Do you have family?
+
+362
+00:24:30,218 --> 00:24:31,886
+Distant.
+
+363
+00:24:33,680 --> 00:24:37,391
+Don't take this the wrong way, but as
+a cell phone salesman I think I can ask.
+
+364
+00:24:37,559 --> 00:24:40,561
+Did you ever wanna be anything
+other than a waitress?
+
+365
+00:24:40,770 --> 00:24:43,397
+- Yes, I did.
+- What was it?
+
+366
+00:24:45,233 --> 00:24:47,318
+I can't remember.
+
+367
+00:24:52,657 --> 00:24:54,033
+What's this, Andy?
+
+368
+00:24:57,245 --> 00:24:58,704
+Oh, isn't it great?
+
+369
+00:25:00,081 --> 00:25:03,584
+That is the official promotional poster
+for the Kramnik-Deep Fritz match.
+
+370
+00:25:03,752 --> 00:25:05,336
+Awesome match. Just awesome.
+
+371
+00:25:05,504 --> 00:25:08,088
+Most people cite
+the '97 Kasparov-Deep Blue...
+
+372
+00:25:08,298 --> 00:25:10,716
+...as the watershed man-versus-machine
+chess match.
+
+373
+00:25:10,884 --> 00:25:13,427
+But, uh, Fritz would have
+wiped the floor with Blue...
+
+374
+00:25:13,595 --> 00:25:16,013
+...just like Kramnik did
+with Kasparov.
+
+375
+00:25:16,181 --> 00:25:19,266
+Besides, the other poster's
+impossible to find.
+
+376
+00:25:20,227 --> 00:25:22,561
+What is it you do, Andy?
+
+377
+00:25:24,898 --> 00:25:26,023
+Do you wanna see?
+
+378
+00:25:27,234 --> 00:25:28,901
+Yes, I wanna see.
+
+379
+00:25:30,612 --> 00:25:31,737
+All right.
+
+380
+00:25:36,535 --> 00:25:38,285
+Behold.
+
+381
+00:25:40,288 --> 00:25:42,206
+The Turk.
+
+382
+00:25:44,876 --> 00:25:48,337
+- The Turk?
+- Well, not the original Turk.
+
+383
+00:25:48,797 --> 00:25:50,881
+The original Turk was an automaton...
+
+384
+00:25:51,049 --> 00:25:55,302
+...constructed and unveiled in 1770
+by the Baron Wolfgang von Kempelen.
+
+385
+00:25:56,805 --> 00:25:58,138
+It played chess.
+
+386
+00:25:58,306 --> 00:26:01,225
+Is that what your Turk does?
+It plays chess?
+
+387
+00:26:01,393 --> 00:26:05,312
+I know that sounds boring as hell.
+Most people think so.
+
+388
+00:26:05,480 --> 00:26:07,606
+But maybe I should put it this way:
+
+389
+00:26:07,774 --> 00:26:11,986
+My Turk plays chess at a level
+that could defeat every human player...
+
+390
+00:26:12,153 --> 00:26:15,072
+...that has ever lived
+and probably ever will live.
+
+391
+00:26:15,240 --> 00:26:17,992
+That's not bragging.
+A number of AIs can do that now.
+
+392
+00:26:18,159 --> 00:26:20,327
+But the AI chess platform
+is very valuable...
+
+393
+00:26:20,495 --> 00:26:22,955
+...for artificial intelligence developers.
+
+394
+00:26:24,583 --> 00:26:26,166
+What?
+
+395
+00:26:26,376 --> 00:26:28,294
+I thought I saw someone outside.
+
+396
+00:26:29,254 --> 00:26:30,921
+[CRICKETS CHIRPING]
+
+397
+00:26:44,269 --> 00:26:46,478
+Uh, yeah, it's a prowler.
+
+398
+00:26:47,814 --> 00:26:49,648
+Uh, back porch. It's the police.
+
+399
+00:26:49,816 --> 00:26:52,026
+There's been break-ins
+in the neighborhood.
+
+400
+00:26:52,193 --> 00:26:53,485
+My...
+SARAH: I have to go, Andy.
+
+401
+00:26:53,653 --> 00:26:57,531
+No, Sarah, wait.
+Uh, it's 165 Mesrow. Sarah!
+
+402
+00:27:00,702 --> 00:27:03,037
+Again, what did it look like?
+
+403
+00:27:03,371 --> 00:27:05,914
+What did it look like?
+Who cares what it looked like?
+
+404
+00:27:06,082 --> 00:27:08,042
+It was a rack of computer equipment.
+
+405
+00:27:08,209 --> 00:27:10,544
+Okay, but was there
+obvious network access?
+
+406
+00:27:10,712 --> 00:27:13,881
+- Do you know what kind of bandwidth?
+- You're joking.
+
+407
+00:27:14,049 --> 00:27:16,216
+What about power supply?
+Was there a cooling element?
+
+408
+00:27:16,384 --> 00:27:18,385
+- Like a fan or something?
+- John...
+
+409
+00:27:18,553 --> 00:27:20,888
+I'm just trying to get a sense
+of the horsepower.
+
+410
+00:27:21,056 --> 00:27:25,059
+I wanna know if this thing
+was a dinky little homemade soap box...
+
+411
+00:27:25,226 --> 00:27:27,394
+...or if it was a full-fledged
+Al platform...
+
+412
+00:27:28,063 --> 00:27:32,232
+...capable of learning and growing
+and taking on other applications.
+
+413
+00:27:32,400 --> 00:27:34,610
+It plays chess.
+
+414
+00:27:35,070 --> 00:27:36,403
+So did Einstein.
+
+415
+00:27:41,743 --> 00:27:44,620
+Have you ever heard
+of the Singularity?
+
+416
+00:27:46,748 --> 00:27:50,084
+It's a point in time
+where machines become so smart...
+
+417
+00:27:50,251 --> 00:27:55,089
+...that they're capable of making smarter
+versions of themselves without our help.
+
+418
+00:27:57,926 --> 00:28:00,928
+That's pretty much the time
+we can kiss our asses goodbye.
+
+419
+00:28:02,263 --> 00:28:04,264
+Unless we stop it.
+
+420
+00:28:06,267 --> 00:28:07,601
+Like you said you would.
+
+421
+00:28:19,239 --> 00:28:22,783
+So I caught a break on a set
+of fingerprints from our drug dealers.
+
+422
+00:28:22,951 --> 00:28:25,828
+I wanted to see your face
+when I laid that on you.
+
+423
+00:28:26,621 --> 00:28:31,083
+See, the only fingerprint database
+I hadn't checked was kid prints.
+
+424
+00:28:31,292 --> 00:28:34,461
+Ha, ha. That's no joke. That's him.
+That's one of your dead terrorists.
+
+425
+00:28:34,629 --> 00:28:40,676
+A black-haired, brown-eyed, 35-pound,
+4-year-old boy living in Canton, Ohio.
+
+426
+00:28:43,680 --> 00:28:44,805
+[SIGHS]
+
+427
+00:28:45,765 --> 00:28:47,766
+And that's the look I wanted to see.
+
+428
+00:28:53,606 --> 00:28:55,315
+JAMES:
+Hold up.
+
+429
+00:28:58,820 --> 00:29:02,489
+Did your crime-scene guys
+find any peculiar blood?
+
+430
+00:29:02,657 --> 00:29:06,285
+I think they got all the peculiar
+they could stomach with these prints.
+
+431
+00:29:06,453 --> 00:29:10,205
+Lab says some blood evidence found
+at my CI crime scene is almost human.
+
+432
+00:29:10,957 --> 00:29:13,000
+Except there's no
+red blood cells present.
+
+433
+00:29:14,335 --> 00:29:16,503
+I wanna see the blood evidence
+from your guys.
+
+434
+00:29:18,715 --> 00:29:19,840
+I'll get back to you.
+
+435
+00:29:20,633 --> 00:29:22,801
+You're gonna double check those prints,
+right?
+
+436
+00:29:22,969 --> 00:29:24,595
+On the kid in Canton?
+
+437
+00:29:25,472 --> 00:29:27,181
+[SIGHS]
+
+438
+00:29:29,184 --> 00:29:30,893
+Have a party.
+
+439
+00:29:34,606 --> 00:29:36,023
+[EXHALES SHARPLY]
+
+440
+00:29:36,191 --> 00:29:37,524
+[BEEPING]
+
+441
+00:29:37,901 --> 00:29:41,153
+The thing I hadn't thought of,
+the thing nobody thought possible...
+
+442
+00:29:41,321 --> 00:29:44,531
+...was the use
+of a synthetic oxygen carrier.
+
+443
+00:29:47,994 --> 00:29:52,998
+By creating a synthetic spear that carries
+oxygen bringing nutrients to the skin...
+
+444
+00:29:53,166 --> 00:29:56,752
+...it obviates the need
+for the marrow interaction.
+
+445
+00:29:58,713 --> 00:30:03,926
+The real-world applications are,
+well, mind-blowing.
+
+446
+00:30:18,066 --> 00:30:20,192
+It's ready.
+
+447
+00:30:21,194 --> 00:30:24,905
+I have a video camera.
+Would it be all right if...?
+
+448
+00:30:25,073 --> 00:30:26,949
+TERMINATOR [IN ROBOT VOICE]:
+Move away.
+
+449
+00:30:48,763 --> 00:30:50,681
+Who are you?
+
+450
+00:30:52,058 --> 00:30:53,934
+What are you?
+
+451
+00:31:09,200 --> 00:31:10,701
+Sarah?
+
+452
+00:31:11,494 --> 00:31:14,663
+Didn't you get my message?
+I returned your call about the results.
+
+453
+00:31:14,831 --> 00:31:18,834
+- Yeah, I got your message.
+- Yeah. You're healthy as a horse.
+
+454
+00:31:19,002 --> 00:31:20,335
+A healthy horse.
+
+455
+00:31:20,503 --> 00:31:22,588
+I got that from your message.
+
+456
+00:31:22,755 --> 00:31:24,798
+I wanted to talk to you
+about prevention.
+
+457
+00:31:24,966 --> 00:31:28,427
+For cancer? What you're doing
+seems to be working.
+
+458
+00:31:28,595 --> 00:31:29,845
+Specifically.
+
+459
+00:31:30,305 --> 00:31:32,639
+Um... Don't smoke.
+
+460
+00:31:32,807 --> 00:31:37,311
+Get lots of exercise. Eat leafy greens.
+Don't snort asbestos.
+
+461
+00:31:38,813 --> 00:31:41,648
+I don't mean to make light,
+but you've got no risk factors.
+
+462
+00:31:41,816 --> 00:31:42,983
+No genetic disposition.
+
+463
+00:31:43,151 --> 00:31:46,653
+Is there anything else about your history
+that I should know?
+
+464
+00:31:47,488 --> 00:31:48,989
+No.
+
+465
+00:31:50,450 --> 00:31:52,659
+You've got children, right?
+
+466
+00:31:53,536 --> 00:31:55,537
+Yeah, I got two myself.
+
+467
+00:31:55,747 --> 00:31:59,875
+You worry. You wanna make sure you're
+always healthy and strong for them.
+
+468
+00:32:01,544 --> 00:32:06,673
+Don't drive yourself crazy
+chasing the future. We can't predict.
+
+469
+00:32:07,008 --> 00:32:10,886
+You know?
+We can only try and prevent.
+
+470
+00:32:21,773 --> 00:32:24,149
+[CELL PHONE BEEPS]
+
+471
+00:32:24,359 --> 00:32:27,527
+Andy, it's Sarah.
+
+472
+00:32:32,241 --> 00:32:34,368
+[CHATTERING]
+
+473
+00:32:38,539 --> 00:32:39,665
+MAN:
+Forget about it.
+
+474
+00:32:45,296 --> 00:32:47,589
+- Hey.
+- Hi.
+
+475
+00:32:48,216 --> 00:32:50,592
+- You going to chem?
+- Yeah.
+
+476
+00:33:03,356 --> 00:33:05,857
+- What is going on?
+- No idea.
+
+477
+00:33:06,025 --> 00:33:11,405
+WOMAN 1: She is such a skanky whore.
+Ugh, disgusting.
+
+478
+00:33:13,408 --> 00:33:14,908
+WOMAN 2:
+Dirty whore.
+
+479
+00:33:15,243 --> 00:33:19,371
+CHOLA: I love this color.
+It's tight, right?
+
+480
+00:33:19,539 --> 00:33:20,747
+This color's tight.
+
+481
+00:33:20,915 --> 00:33:23,000
+- What is it?
+- Rash.
+
+482
+00:33:23,167 --> 00:33:25,252
+It's so tight.
+
+483
+00:33:25,420 --> 00:33:26,545
+[SCOFFS]
+
+484
+00:33:26,713 --> 00:33:29,589
+I'm a pig. I look pregnant.
+
+485
+00:33:29,757 --> 00:33:31,758
+Does this make me look fat?
+
+486
+00:33:32,427 --> 00:33:33,510
+Yes.
+
+487
+00:33:34,137 --> 00:33:37,389
+What the hell? What's your problem?
+
+488
+00:33:37,724 --> 00:33:38,765
+You asked.
+
+489
+00:33:40,184 --> 00:33:41,893
+Bitch-whore much?
+
+490
+00:33:42,520 --> 00:33:43,729
+I don't understand.
+
+491
+00:33:44,188 --> 00:33:47,441
+I said, bitch-whore much?
+
+492
+00:33:49,068 --> 00:33:50,277
+What are you looking at?
+
+493
+00:33:51,112 --> 00:33:52,529
+I'm looking at you.
+
+494
+00:34:07,086 --> 00:34:11,256
+[WOMAN CRYING]
+
+495
+00:34:14,427 --> 00:34:15,719
+[BREATHES SHARPLY]
+
+496
+00:34:18,473 --> 00:34:20,766
+You saw it, right?
+
+497
+00:34:20,933 --> 00:34:22,809
+Right? You saw it?
+
+498
+00:34:23,478 --> 00:34:27,814
+It's so freaking big,
+and right out there.
+
+499
+00:34:29,692 --> 00:34:33,320
+It's freaking big.
+JORDAN: Right. It is, right?
+
+500
+00:34:34,447 --> 00:34:36,740
+Whoever's doing this
+is such a jackass.
+
+501
+00:34:37,950 --> 00:34:41,453
+I mean, who would do this?
+And how would they even know?
+
+502
+00:34:41,621 --> 00:34:43,663
+My parents.
+
+503
+00:34:43,831 --> 00:34:48,126
+They're gonna kill me. Kill me.
+
+504
+00:34:49,087 --> 00:34:51,922
+I mean, don't we have hall monitors?
+I mean, how could someone just...
+
+505
+00:34:52,090 --> 00:34:54,841
+[CRYING]
+
+506
+00:34:57,637 --> 00:34:58,845
+You're upset.
+
+507
+00:35:01,015 --> 00:35:05,602
+No kidding, I'm upset.
+My life is freaking over.
+
+508
+00:35:10,525 --> 00:35:12,359
+Here's a present.
+
+509
+00:35:14,153 --> 00:35:15,278
+It's tight.
+
+510
+00:35:16,823 --> 00:35:18,698
+[JORDAN CRYING]
+
+511
+00:35:24,956 --> 00:35:27,290
+ANDY: I have to admit,
+I wondered if I'd see you again.
+
+512
+00:35:27,458 --> 00:35:31,169
+SARAH: Miracles happen every day.
+ANDY: That's funny.
+
+513
+00:35:31,546 --> 00:35:35,382
+ANDY: That was a joke, right?
+SARAH: if it was funny, it was a joke.
+
+514
+00:35:35,550 --> 00:35:38,885
+ANDY: So the police recommended
+that I put in a security system.
+
+515
+00:35:39,303 --> 00:35:43,056
+Armed patrol, that kind of thing.
+Can't really afford it, though.
+
+516
+00:35:43,266 --> 00:35:46,560
+- You think someone wants the Turk?
+- Well, eight years of my life.
+
+517
+00:35:47,145 --> 00:35:50,021
+Not just the software.
+I customized the hardware too.
+
+518
+00:35:50,189 --> 00:35:53,024
+One month, I worked so much
+on a motherboard...
+
+519
+00:35:53,192 --> 00:35:55,819
+...that I lost my sight for three days.
+
+520
+00:35:56,279 --> 00:36:00,031
+No, that really happened.
+Those circuits are so small.
+
+521
+00:36:00,199 --> 00:36:03,243
+A lot of the gear is actually pulled
+from gaming platforms.
+
+522
+00:36:03,411 --> 00:36:06,580
+Did you know that the military
+uses them?
+
+523
+00:36:06,789 --> 00:36:11,042
+Yeah, I've got the guts of three Xboxes
+and four PlayStations, daisy-chained.
+
+524
+00:36:11,210 --> 00:36:15,172
+Plus some seriously modded-out code
+that I swear came to me in a dream.
+
+525
+00:36:15,923 --> 00:36:19,551
+And all this to beat another computer
+at chess?
+
+526
+00:36:20,511 --> 00:36:23,722
+None of this to beat another computer
+at chess.
+
+527
+00:36:24,432 --> 00:36:26,099
+Then what?
+
+528
+00:36:27,059 --> 00:36:29,019
+What are you doing?
+
+529
+00:36:30,438 --> 00:36:32,814
+Would you believe me if I told you
+Turk has moods?
+
+530
+00:36:33,316 --> 00:36:36,610
+Obviously not in the sense
+that you and I understand mood...
+
+531
+00:36:36,819 --> 00:36:41,907
+...but sometimes I'll feed it a particular
+chess problem, and it'll solve it one way.
+
+532
+00:36:42,074 --> 00:36:45,410
+The next day, I feed it the same problem
+and it solves it differently.
+
+533
+00:36:46,120 --> 00:36:48,955
+Once in a while,
+it can't even solve it at all.
+
+534
+00:36:49,290 --> 00:36:52,626
+- Do you know why it does that?
+- No.
+
+535
+00:36:52,919 --> 00:36:57,881
+Yeah, neither do I.
+Someday, I'm gonna figure it out.
+
+536
+00:36:58,341 --> 00:37:01,468
+- Someday, Turk will tell me.
+- You talk about it like it's human.
+
+537
+00:37:03,054 --> 00:37:04,387
+Well, you never know.
+
+538
+00:37:06,641 --> 00:37:11,269
+What? Too far? What is it?
+
+539
+00:37:13,397 --> 00:37:14,940
+Nothing.
+
+540
+00:37:16,484 --> 00:37:18,360
+Nothing at all.
+
+541
+00:37:24,158 --> 00:37:26,243
+[CHATTERING]
+
+542
+00:37:28,120 --> 00:37:31,748
+- Do you like this color on me?
+- What?
+
+543
+00:37:31,916 --> 00:37:35,669
+- I'm a bitch-whore.
+- What?
+
+544
+00:37:36,003 --> 00:37:38,004
+I have a new friend.
+
+545
+00:37:38,172 --> 00:37:40,966
+Did she tell you,
+you were a bitch-whore?
+
+546
+00:37:41,133 --> 00:37:43,176
+No. She cried.
+
+547
+00:37:44,345 --> 00:37:46,429
+Wait. What?
+
+548
+00:37:48,808 --> 00:37:51,476
+Okay, what the hell is this thing?
+
+549
+00:37:51,644 --> 00:37:53,937
+MAN:
+Jumper. Outside the gym.
+
+550
+00:37:54,438 --> 00:37:56,356
+[CHATTERING]
+
+551
+00:38:04,490 --> 00:38:05,991
+MAN 1:
+Yo, man, check it out.
+
+552
+00:38:11,622 --> 00:38:13,957
+MAN 2: Jump! Jump!
+WOMAN 1: Shut up.
+
+553
+00:38:14,125 --> 00:38:16,876
+She's not gonna jump.
+She's just trying to get attention.
+
+554
+00:38:17,044 --> 00:38:18,545
+- Jump!
+- Dude, come on.
+
+555
+00:38:18,713 --> 00:38:19,879
+WOMAN 2:
+You guys are so mean.
+
+556
+00:38:20,047 --> 00:38:23,842
+CAMERON: That's my new friend.
+The crying one from the bathroom.
+
+557
+00:38:26,721 --> 00:38:28,138
+When?
+
+558
+00:38:28,848 --> 00:38:31,725
+Two hours, three minutes ago.
+Four minutes ago.
+
+559
+00:38:31,892 --> 00:38:33,372
+WOMAN 3:
+She just wants the attention.
+
+560
+00:38:33,477 --> 00:38:37,063
+She's upset.
+Her parents are gonna kill her.
+
+561
+00:38:39,025 --> 00:38:41,234
+Did you do anything to her?
+
+562
+00:38:42,320 --> 00:38:44,988
+I tried to give her a tight present.
+
+563
+00:38:53,873 --> 00:38:56,041
+- We gotta help her. Now.
+- No.
+
+564
+00:38:56,500 --> 00:38:57,584
+I'm going up there.
+
+565
+00:39:00,004 --> 00:39:03,590
+- Let me go. I order you to let me go.
+- Don't be a freak.
+
+566
+00:39:03,758 --> 00:39:05,759
+ALL:
+Whoa.
+
+567
+00:39:07,762 --> 00:39:09,262
+[ALL GASPING AND SHOUTING]
+
+568
+00:39:10,890 --> 00:39:12,265
+We gotta go. Now.
+
+569
+00:39:21,400 --> 00:39:25,945
+I could have done something.
+I was right there.
+
+570
+00:39:26,364 --> 00:39:28,114
+Maybe.
+
+571
+00:39:28,616 --> 00:39:30,575
+Come on, Mom.
+
+572
+00:39:31,744 --> 00:39:35,455
+John, people who wanna
+take their own lives, this girl...
+
+573
+00:39:35,623 --> 00:39:38,208
+...if they're serious about it,
+they'll find a way.
+
+574
+00:39:38,376 --> 00:39:40,543
+You didn't see her.
+
+575
+00:39:41,253 --> 00:39:44,047
+If you'd have seen her,
+you wouldn't be talking like this.
+
+576
+00:39:44,215 --> 00:39:46,299
+And what were you gonna do,
+be a hero?
+
+577
+00:39:47,551 --> 00:39:50,595
+Get your name in the papers?
+Your face?
+
+578
+00:39:51,305 --> 00:39:55,225
+Isn't that what I'm supposed to be?
+A hero? Isn't that who I am?
+
+579
+00:39:56,268 --> 00:39:59,229
+If it's just gonna sit inside me,
+just gonna sit in my gut...
+
+580
+00:39:59,397 --> 00:40:02,816
+...then what are we doing?
+What's the point?
+
+581
+00:40:03,067 --> 00:40:06,361
+Why not just give it to them
+if we're gonna act like them?
+
+582
+00:40:13,619 --> 00:40:15,870
+I don't know how to help him.
+
+583
+00:40:19,667 --> 00:40:21,126
+Andy Goode must be killed.
+
+584
+00:40:24,338 --> 00:40:26,756
+[POLICE RADIO CHATTER]
+
+585
+00:41:07,923 --> 00:41:09,174
+Took his eyes, James.
+
+586
+00:41:11,552 --> 00:41:13,428
+They took his freaking eyes.
+
+587
+00:41:27,568 --> 00:41:29,194
+SARAH [VOICE-OVER]:
+On July 16th, 1945...
+
+588
+00:41:29,361 --> 00:41:32,739
+...in the mountains outside of
+Los Alamos, New Mexico...
+
+589
+00:41:32,907 --> 00:41:36,242
+...the world's first atomic bomb
+exploded.
+
+590
+00:41:36,702 --> 00:41:39,204
+A white light pierced the sky
+with such intensity...
+
+591
+00:41:39,371 --> 00:41:43,708
+...that a blind girl claimed to see
+the flash from a hundred miles away.
+
+592
+00:41:43,876 --> 00:41:45,502
+After witnessing the explosion...
+
+593
+00:41:45,669 --> 00:41:48,838
+...J. Robert Oppenheimer quoted
+a fragment of the Bhagavad-Gita...
+
+594
+00:41:49,006 --> 00:41:54,093
+...declaring, "I am become death,
+the destroyer of worlds."
+
+595
+00:41:54,762 --> 00:41:57,847
+[DISTANT SIRENS WAILING]
+
+596
+00:41:58,057 --> 00:42:01,100
+His colleague, Ken Bainbridge,
+put it another way...
+
+597
+00:42:01,268 --> 00:42:03,770
+...when he leaned close to Oppenheimer
+and whispered:
+
+598
+00:42:03,938 --> 00:42:06,898
+"Now we are all sons of bitches."
+
+599
+00:43:02,955 --> 00:43:06,416
+Now we are all sons of bitches.
+

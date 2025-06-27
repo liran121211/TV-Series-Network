@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Beast Titan",
+        "released": "2017-04-01",
+        "rating": "9.2",
+        "imdb_id": "tt4228718",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "I'm Home",
+        "released": "2017-04-08",
+        "rating": "8.5",
+        "imdb_id": "tt6723670",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Attack on Titan\\Subtitles\\S2\\Attack.on.Titan.S02E02.DUBBED.HDTV.x264-W4FS2E2.zip"
+    },
+    "3": {
+        "title": "Southwestward",
+        "released": "2017-04-15",
+        "rating": "8.6",
+        "imdb_id": "tt6723672",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Soldier",
+        "released": "2017-04-22",
+        "rating": "9.1",
+        "imdb_id": "tt6723674",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Historia",
+        "released": "2017-04-29",
+        "rating": "9.1",
+        "imdb_id": "tt6723678",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Warrior",
+        "released": "2017-05-06",
+        "rating": "9.7",
+        "imdb_id": "tt6723680",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Close Combat",
+        "released": "2017-05-13",
+        "rating": "9.6",
+        "imdb_id": "tt6723686",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Hunters",
+        "released": "2017-05-20",
+        "rating": "8.4",
+        "imdb_id": "tt6723692",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Opening",
+        "released": "2017-05-27",
+        "rating": "8.5",
+        "imdb_id": "tt6723698",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Children",
+        "released": "2017-06-03",
+        "rating": "9.0",
+        "imdb_id": "tt6723700",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Charge",
+        "released": "2017-06-10",
+        "rating": "9.5",
+        "imdb_id": "tt6723708",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Scream",
+        "released": "2017-06-17",
+        "rating": "9.7",
+        "imdb_id": "tt6723710",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

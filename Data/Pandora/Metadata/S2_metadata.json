@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "Things Have Changed",
+        "released": "2020-10-04",
+        "rating": "6.4",
+        "imdb_id": "tt11132668",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Don't Think Twice, It's All Right",
+        "released": "2020-10-11",
+        "rating": "N/A",
+        "imdb_id": "tt13188424",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Pandora\\Subtitles\\S2\\Pandora.2019.S02E02.WEB.h264-BAES2E2.zip"
+    },
+    "3": {
+        "title": "Gates of Eden",
+        "released": "2020-10-18",
+        "rating": "7.2",
+        "imdb_id": "tt13199350",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Beyond Here Lies Nothin'",
+        "released": "2020-10-25",
+        "rating": "7.1",
+        "imdb_id": "tt13241738",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "On a Night Like This",
+        "released": "2020-11-01",
+        "rating": "N/A",
+        "imdb_id": "tt13317016",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Pandora\\Subtitles\\S2\\Pandora.2019.S02E05.WEB.h264-BAES2E5.zip"
+    },
+    "6": {
+        "title": "Pay in Blood",
+        "released": "2020-11-08",
+        "rating": "N/A",
+        "imdb_id": "tt13358666",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "A Fool Such as I",
+        "released": "2020-11-22",
+        "rating": "6.2",
+        "imdb_id": "tt13438816",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

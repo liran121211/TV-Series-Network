@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Episode #5.1",
+        "released": "2013-10-23",
+        "rating": "N/A",
+        "imdb_id": "tt2805132",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #5.2",
+        "released": "2013-10-30",
+        "rating": "N/A",
+        "imdb_id": "tt2952520",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #5.3",
+        "released": "2013-11-06",
+        "rating": "N/A",
+        "imdb_id": "tt2952526",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #5.4",
+        "released": "2013-11-13",
+        "rating": "N/A",
+        "imdb_id": "tt2952522",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #5.5",
+        "released": "2013-11-20",
+        "rating": "N/A",
+        "imdb_id": "tt2952528",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #5.6",
+        "released": "2013-11-27",
+        "rating": "N/A",
+        "imdb_id": "tt2952524",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #5.7",
+        "released": "2013-12-04",
+        "rating": "N/A",
+        "imdb_id": "tt2952530",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #5.8",
+        "released": "2013-12-11",
+        "rating": "6.5",
+        "imdb_id": "tt2952534",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

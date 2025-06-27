@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "The Foundation",
+        "released": "1996-09-19",
+        "rating": "8.1",
+        "imdb_id": "tt0697699",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S8\\Seinfeld.S08.E01-22.DVDRip.x264-DiGGS8E1.zip"
+    },
+    "2": {
+        "title": "The Soul Mate",
+        "released": "1996-09-26",
+        "rating": "7.9",
+        "imdb_id": "tt0697780",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Bizarro Jerry",
+        "released": "1996-10-03",
+        "rating": "9.0",
+        "imdb_id": "tt0697657",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Little Kicks",
+        "released": "1996-10-10",
+        "rating": "8.9",
+        "imdb_id": "tt0697725",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Package",
+        "released": "1996-10-17",
+        "rating": "8.6",
+        "imdb_id": "tt0697746",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Fatigues",
+        "released": "1996-10-31",
+        "rating": "8.0",
+        "imdb_id": "tt0697694",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Checks",
+        "released": "1996-11-07",
+        "rating": "8.0",
+        "imdb_id": "tt0697672",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Chicken Roaster",
+        "released": "1996-11-14",
+        "rating": "8.9",
+        "imdb_id": "tt0697674",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Abstinence",
+        "released": "1996-11-21",
+        "rating": "9.0",
+        "imdb_id": "tt0697646",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Andrea Doria",
+        "released": "1996-12-19",
+        "rating": "8.4",
+        "imdb_id": "tt0697649",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Little Jerry",
+        "released": "1997-01-09",
+        "rating": "8.3",
+        "imdb_id": "tt0697724",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Money",
+        "released": "1997-01-16",
+        "rating": "N/A",
+        "imdb_id": "tt0697734",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Comeback",
+        "released": "1997-01-30",
+        "rating": "8.5",
+        "imdb_id": "tt0697678",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Van Buren Boys",
+        "released": "1997-02-06",
+        "rating": "7.9",
+        "imdb_id": "tt0697803",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Susie",
+        "released": "1997-02-13",
+        "rating": "8.6",
+        "imdb_id": "tt0697795",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Pothole",
+        "released": "1997-02-20",
+        "rating": "8.6",
+        "imdb_id": "tt0697760",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The English Patient",
+        "released": "1997-03-13",
+        "rating": "8.5",
+        "imdb_id": "tt0697691",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Nap",
+        "released": "1997-04-10",
+        "rating": "8.7",
+        "imdb_id": "tt0697737",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Yada Yada",
+        "released": "1997-04-24",
+        "rating": "9.0",
+        "imdb_id": "tt0697814",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Millennium",
+        "released": "1997-05-01",
+        "rating": "8.0",
+        "imdb_id": "tt0697732",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Muffin Tops",
+        "released": "1997-05-08",
+        "rating": "8.4",
+        "imdb_id": "tt0697736",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Summer of George",
+        "released": "1997-05-15",
+        "rating": "8.5",
+        "imdb_id": "tt0697794",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

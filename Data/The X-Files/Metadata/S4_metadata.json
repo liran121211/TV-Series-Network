@@ -1,0 +1,194 @@
+{
+    "1": {
+        "title": "Herrenvolk",
+        "released": "1996-10-04",
+        "rating": "8.4",
+        "imdb_id": "tt0751135",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S4\\The_X-Files_S04E01_Herrenvolk_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S4E1.zip"
+    },
+    "2": {
+        "title": "Home",
+        "released": "1996-10-11",
+        "rating": "8.8",
+        "imdb_id": "tt0751137",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S4\\The_X-Files_S04E02_Home_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S4E2.zip"
+    },
+    "3": {
+        "title": "Teliko",
+        "released": "1996-10-18",
+        "rating": "6.6",
+        "imdb_id": "tt0751214",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S4\\The_X-Files_S04E03_Teliko_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S4E3.zip"
+    },
+    "4": {
+        "title": "Unruhe",
+        "released": "1996-10-27",
+        "rating": "8.0",
+        "imdb_id": "tt0751255",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S4\\The_X-Files_S04E04_Unruhe_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S4E4.zip"
+    },
+    "5": {
+        "title": "The Field Where I Died",
+        "released": "1996-11-03",
+        "rating": "6.6",
+        "imdb_id": "tt0751225",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S4\\The_X-Files_S04E05_The_Field_Where_I_Died_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S4E5.zip"
+    },
+    "6": {
+        "title": "Sanguinarium",
+        "released": "1996-11-10",
+        "rating": "7.3",
+        "imdb_id": "tt0751197",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S4\\The_X-Files_S04E06_Sanguinarium_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S4E6.zip"
+    },
+    "7": {
+        "title": "Musings of a Cigarette Smoking Man",
+        "released": "1996-11-17",
+        "rating": "9.0",
+        "imdb_id": "tt0751164",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S4\\The_X-Files_S04E07_Musings_of_a_Cigarette_Smoking_Man_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S4E7.zip"
+    },
+    "8": {
+        "title": "Tunguska",
+        "released": "1996-11-24",
+        "rating": "N/A",
+        "imdb_id": "tt0751251",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S4\\The_X-Files_S04E08_Tunguska_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S4E8.zip"
+    },
+    "9": {
+        "title": "Terma",
+        "released": "1996-12-01",
+        "rating": "8.1",
+        "imdb_id": "tt0751216",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S4\\The_X-Files_S04E09_Terma_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S4E9.zip"
+    },
+    "10": {
+        "title": "Paper Hearts",
+        "released": "1996-12-15",
+        "rating": "8.7",
+        "imdb_id": "tt0751175",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "El Mundo Gira",
+        "released": "1997-01-12",
+        "rating": "6.7",
+        "imdb_id": "tt0751109",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Leonard Betts",
+        "released": "1997-01-26",
+        "rating": "8.3",
+        "imdb_id": "tt0751153",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Never Again",
+        "released": "1997-02-02",
+        "rating": "7.4",
+        "imdb_id": "tt0751165",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Memento Mori",
+        "released": "1997-02-09",
+        "rating": "8.4",
+        "imdb_id": "tt0751158",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Kaddish",
+        "released": "1997-02-16",
+        "rating": "6.9",
+        "imdb_id": "tt0751149",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Unrequited",
+        "released": "1997-02-23",
+        "rating": "7.2",
+        "imdb_id": "tt0751254",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Tempus Fugit",
+        "released": "1997-03-16",
+        "rating": "8.4",
+        "imdb_id": "tt0751215",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Max",
+        "released": "1997-03-23",
+        "rating": "8.4",
+        "imdb_id": "tt0751156",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Synchrony",
+        "released": "1997-04-13",
+        "rating": "7.7",
+        "imdb_id": "tt0751211",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Small Potatoes",
+        "released": "1997-04-20",
+        "rating": "8.9",
+        "imdb_id": "tt0751205",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Zero Sum",
+        "released": "1997-04-27",
+        "rating": "8.1",
+        "imdb_id": "tt0751266",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Elegy",
+        "released": "1997-05-04",
+        "rating": "7.8",
+        "imdb_id": "tt0751110",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Demons",
+        "released": "1997-05-11",
+        "rating": "7.8",
+        "imdb_id": "tt0751100",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Gethsemane",
+        "released": "1997-05-18",
+        "rating": "8.6",
+        "imdb_id": "tt0751130",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

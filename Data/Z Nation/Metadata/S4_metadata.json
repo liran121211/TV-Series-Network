@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Warren's Dream",
+        "released": "2017-09-29",
+        "rating": "7.3",
+        "imdb_id": "tt6286768",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Escape from Zona",
+        "released": "2017-10-05",
+        "rating": "N/A",
+        "imdb_id": "tt6344868",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Vanishing",
+        "released": "2017-10-13",
+        "rating": "7.3",
+        "imdb_id": "tt6533324",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "A New Mission: Keep Moving",
+        "released": "2017-10-20",
+        "rating": "7.1",
+        "imdb_id": "tt6581554",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Unknowns",
+        "released": "2017-10-27",
+        "rating": "6.9",
+        "imdb_id": "tt6581566",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Back From the Undead",
+        "released": "2017-11-03",
+        "rating": "7.6",
+        "imdb_id": "tt6581568",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Warren's Wedding",
+        "released": "2017-11-10",
+        "rating": "N/A",
+        "imdb_id": "tt6581572",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Crisis of Faith",
+        "released": "2017-11-17",
+        "rating": "N/A",
+        "imdb_id": "tt6581578",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "We Interrupt This Program",
+        "released": "2017-11-24",
+        "rating": "8.1",
+        "imdb_id": "tt6581580",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Frenemies",
+        "released": "2017-12-01",
+        "rating": "6.6",
+        "imdb_id": "tt6586284",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Return to Mercy Labs",
+        "released": "2017-12-08",
+        "rating": "N/A",
+        "imdb_id": "tt7427528",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Mt. Weather",
+        "released": "2017-12-15",
+        "rating": "N/A",
+        "imdb_id": "tt7440588",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Black Rainbow",
+        "released": "2017-12-15",
+        "rating": "7.8",
+        "imdb_id": "tt7440606",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

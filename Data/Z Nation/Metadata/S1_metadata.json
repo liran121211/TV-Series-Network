@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Puppies and Kittens",
+        "released": "2014-09-12",
+        "rating": "6.5",
+        "imdb_id": "tt3998408",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Fracking Zombies",
+        "released": "2014-09-19",
+        "rating": "6.8",
+        "imdb_id": "tt3998414",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Philly Feast",
+        "released": "2014-09-26",
+        "rating": "7.3",
+        "imdb_id": "tt3998416",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Full Metal Zombie",
+        "released": "2014-10-03",
+        "rating": "7.2",
+        "imdb_id": "tt3982520",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Home Sweet Zombie",
+        "released": "2014-10-10",
+        "rating": "7.1",
+        "imdb_id": "tt3973662",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Resurrection Z",
+        "released": "2014-10-17",
+        "rating": "8.0",
+        "imdb_id": "tt3878722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Welcome to the Fu-Bar",
+        "released": "2014-10-24",
+        "rating": "7.5",
+        "imdb_id": "tt3920776",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Zunami",
+        "released": "2014-10-31",
+        "rating": "7.6",
+        "imdb_id": "tt3969588",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Die Zombie Die... Again",
+        "released": "2014-11-07",
+        "rating": "5.2",
+        "imdb_id": "tt4018330",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Going Nuclear",
+        "released": "2014-11-14",
+        "rating": "7.4",
+        "imdb_id": "tt4018328",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Sisters of Mercy",
+        "released": "2014-11-21",
+        "rating": "N/A",
+        "imdb_id": "tt3973844",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Murphy's Law",
+        "released": "2014-11-28",
+        "rating": "7.8",
+        "imdb_id": "tt4018366",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Doctor of the Dead",
+        "released": "2014-12-05",
+        "rating": "8.3",
+        "imdb_id": "tt4116866",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

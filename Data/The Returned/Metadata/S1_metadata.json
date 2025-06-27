@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Camille",
+        "released": "2013-10-31",
+        "rating": "8.0",
+        "imdb_id": "tt2550114",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Simon",
+        "released": "2012-11-26",
+        "rating": "7.9",
+        "imdb_id": "tt2550130",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Julie",
+        "released": "2012-12-03",
+        "rating": "N/A",
+        "imdb_id": "tt2550120",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Victor",
+        "released": "2012-12-03",
+        "rating": "N/A",
+        "imdb_id": "tt2550118",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Serge et Toni",
+        "released": "2012-12-10",
+        "rating": "N/A",
+        "imdb_id": "tt2550122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Lucy",
+        "released": "2012-12-10",
+        "rating": "N/A",
+        "imdb_id": "tt2550128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Adèle",
+        "released": "2012-12-17",
+        "rating": "N/A",
+        "imdb_id": "tt2553666",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "La horde",
+        "released": "2012-12-17",
+        "rating": "N/A",
+        "imdb_id": "tt2553670",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode #1.9",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt4049164",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

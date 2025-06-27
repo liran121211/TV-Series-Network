@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2019-09-24",
+        "rating": "7.7",
+        "imdb_id": "tt9601722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Camera Wheelbarrow Tiger Pillow",
+        "released": "2019-10-01",
+        "rating": "N/A",
+        "imdb_id": "tt10861746",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "2 MG CU BID",
+        "released": "2019-10-08",
+        "rating": "7.9",
+        "imdb_id": "tt11005658",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "No Outlet",
+        "released": "2019-10-15",
+        "rating": "7.7",
+        "imdb_id": "tt10914438",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "RDZ9021",
+        "released": "2019-10-29",
+        "rating": "8.1",
+        "imdb_id": "tt11102826",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Mile Marker 14",
+        "released": "2019-11-05",
+        "rating": "8.0",
+        "imdb_id": "tt11173626",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Fatal Exception",
+        "released": "2019-11-19",
+        "rating": "8.0",
+        "imdb_id": "tt11210362",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "American Chestnut",
+        "released": "2019-11-26",
+        "rating": "7.8",
+        "imdb_id": "tt11271194",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Where You Belong",
+        "released": "2019-12-10",
+        "rating": "N/A",
+        "imdb_id": "tt11337770",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "15 Years",
+        "released": "2020-01-07",
+        "rating": "7.8",
+        "imdb_id": "tt11432450",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Killshot Pt. 1",
+        "released": "2020-01-21",
+        "rating": "N/A",
+        "imdb_id": "tt11569096",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Killshot Pt. 2",
+        "released": "2020-01-28",
+        "rating": "N/A",
+        "imdb_id": "tt11622346",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

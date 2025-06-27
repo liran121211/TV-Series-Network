@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Public Relations",
+        "released": "2010-07-25",
+        "rating": "8.5",
+        "imdb_id": "tt1615656",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S4\\Mad.Men.S04E01.720p.BluRay.X264.REWARDS4E1.zip"
+    },
+    "2": {
+        "title": "Christmas Comes But Once a Year",
+        "released": "2010-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt1615661",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Good News",
+        "released": "2010-08-08",
+        "rating": "8.7",
+        "imdb_id": "tt1615662",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S4\\Mad.Men.S04E03.HDTV.XviD-FEVERS4E3.zip"
+    },
+    "4": {
+        "title": "The Rejected",
+        "released": "2010-08-15",
+        "rating": "8.2",
+        "imdb_id": "tt1615663",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S4\\Mad.Men.S04E04.HDTV.XviD-FQMS4E4.zip"
+    },
+    "5": {
+        "title": "The Chrysanthemum and the Sword",
+        "released": "2010-08-22",
+        "rating": "8.6",
+        "imdb_id": "tt1615664",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S4\\Mad.Men.S04E05.HDTV.XviD-FQMS4E5.zip"
+    },
+    "6": {
+        "title": "Waldorf Stories",
+        "released": "2010-08-29",
+        "rating": "8.6",
+        "imdb_id": "tt1615665",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S4\\Mad_Men_S04E06_Waldorf_Stories_HDTV_XviD-FQMS4E6.zip"
+    },
+    "7": {
+        "title": "The Suitcase",
+        "released": "2010-09-05",
+        "rating": "9.7",
+        "imdb_id": "tt1615666",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S4\\Mad.Men.S04E07.The.Suitcase.HDTV.XviD-FQMS4E7.zip"
+    },
+    "8": {
+        "title": "The Summer Man",
+        "released": "2010-09-12",
+        "rating": "8.6",
+        "imdb_id": "tt1615667",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S4\\Mad.Men.S04E08.The.Summer.Man.HDTV.XviD-FQMS4E8.zip"
+    },
+    "9": {
+        "title": "The Beautiful Girls",
+        "released": "2010-09-19",
+        "rating": "N/A",
+        "imdb_id": "tt1615668",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Mad Men\\Subtitles\\S4\\Mad.Men.S04E09.The.Beautiful.Girls.HDTV.XviD-FQM-HIS4E9.zip"
+    },
+    "10": {
+        "title": "Hands and Knees",
+        "released": "2010-09-26",
+        "rating": "8.7",
+        "imdb_id": "tt1615657",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Chinese Wall",
+        "released": "2010-10-03",
+        "rating": "N/A",
+        "imdb_id": "tt1615658",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Blowing Smoke",
+        "released": "2010-10-10",
+        "rating": "N/A",
+        "imdb_id": "tt1615659",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Tomorrowland",
+        "released": "2010-10-17",
+        "rating": "N/A",
+        "imdb_id": "tt1615660",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

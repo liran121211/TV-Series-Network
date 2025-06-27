@@ -1,0 +1,114 @@
+{
+    "1": {
+        "title": "Consequences",
+        "released": "2021-01-03",
+        "rating": "7.9",
+        "imdb_id": "tt12367704",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S3\\The.Rookie.S03E01p.WEBRip.H264S3E1.zip"
+    },
+    "2": {
+        "title": "In Justice",
+        "released": "2021-01-10",
+        "rating": "6.4",
+        "imdb_id": "tt13433298",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S3\\The.Rookie.S03E02.1080p.WEB.H264-RARBGS3E2.zip"
+    },
+    "3": {
+        "title": "La Fiera",
+        "released": "2021-01-17",
+        "rating": "6.2",
+        "imdb_id": "tt13433304",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S3\\The.Rookie.S03E03.WEBRip.x264-ION10S3E3.zip"
+    },
+    "4": {
+        "title": "Sabotage",
+        "released": "2021-01-24",
+        "rating": "6.6",
+        "imdb_id": "tt13433306",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S3\\The.Rookie.S03E04.WEBRip.x264-ION10S3E4.zip"
+    },
+    "5": {
+        "title": "Lockdown",
+        "released": "2021-02-14",
+        "rating": "7.8",
+        "imdb_id": "tt13433308",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S3\\The.Rookie.S03E05.720p.HDTV.x265-MiNX[TGx]S3E5.zip"
+    },
+    "6": {
+        "title": "Revelations",
+        "released": "2021-02-21",
+        "rating": "6.6",
+        "imdb_id": "tt13433312",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S3\\The.Rookie.S03E06.Revelations.720p.AMZN.WEB-DL.DDP5.1.H.264-NTbS3E6.zip"
+    },
+    "7": {
+        "title": "True Crime",
+        "released": "2021-02-28",
+        "rating": "4.4",
+        "imdb_id": "tt13433314",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S3\\The.Rookie.S03E07.WEBRip.x264-ION10S3E7.zip"
+    },
+    "8": {
+        "title": "Bad Blood",
+        "released": "2021-03-28",
+        "rating": "7.5",
+        "imdb_id": "tt13433318",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S3\\The.Rookie.S03E08.Bad.Blood.720p.AMZN.WEB-DL.DDP5.1.x264-NTbS3E8.zip"
+    },
+    "9": {
+        "title": "Amber",
+        "released": "2021-04-04",
+        "rating": "7.5",
+        "imdb_id": "tt13433322",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S3\\The.Rookie.S03E09.WEBRip-ION10S3E9.zip"
+    },
+    "10": {
+        "title": "Man of Honor",
+        "released": "2021-04-11",
+        "rating": "7.9",
+        "imdb_id": "tt13433326",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "New Blood",
+        "released": "2021-04-18",
+        "rating": "7.4",
+        "imdb_id": "tt13433328",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Brave Heart",
+        "released": "2021-05-02",
+        "rating": "7.6",
+        "imdb_id": "tt13433330",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Triple Duty",
+        "released": "2021-05-09",
+        "rating": "7.9",
+        "imdb_id": "tt13433332",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S3\\The.Rookie.S03E13.HDTV.x264-PHOENiXS3E13.zip"
+    },
+    "14": {
+        "title": "Threshold",
+        "released": "2021-05-16",
+        "rating": "8.2",
+        "imdb_id": "tt13433346",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

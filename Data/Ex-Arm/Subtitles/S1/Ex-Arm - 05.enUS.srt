@@ -1,0 +1,361 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: YTV  [http://www.crunchyroll.com/user/YTV]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Main Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Next time,Arial,22,&H00FFFADB,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,2,1,7,0030,0499,0054,1
+Style: Episode Title Start,Arial,22,&H00FFFADB,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,2,1,1,0335,0134,0051,1
+Style: Flashback Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Episode Title,Arial,22,&H00FFFFFF,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,0,0,3,0379,0038,0073,1
+Style: Next Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H006C6A6A,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,3,0050,0020,0055,1
+Style: Eyecatch,Arial,16,&H00FFFFFF,&H000000FF,&H00909090,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0377,0032,0044,1
+Style: sign_4879_35_destroy,Arial,20,&H00C9C4C9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0279,0279,0018,1
+Style: sign_4940_38_destroy,Arial,20,&H00C9C4C9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0279,0279,0018,1
+Style: sign_5015_41_destroy_it_all,Arial,20,&H00C9C4C9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0254,0254,0018,1
+Style: sign_5661_49_Natsume,Arial,20,&H00000000,&H000000FF,&H00C2C2C4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0283,0261,0233,1
+Style: sign_8429_87_Infirmary,Arial,20,&H00000000,&H000000FF,&H00B9BAB8,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0272,0272,0020,1
+Style: sign_17959_191_Illustration_by_,Arial,16,&H00FFFFFF,&H000000FF,&H00909090,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0377,0032,0044,1
+Style: sign_19409_211_Special_Stamina_,Arial,16,&H00000000,&H000000FF,&H00C0C0C0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0368,0043,0163,1
+Style: sign_19409_210_Meat__n__potatoe,Arial,16,&H00000000,&H000000FF,&H00C0C0C0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0058,0262,0047,1
+Style: sign_33931_313_EX_ARM_Auction,Arial,20,&H00FFFFFF,&H000000FF,&H006C6A6A,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,3,0424,0038,0056,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.98,Episode Title,Ep Title,0000,0000,0000,,Red-Hot Daydream!
+Dialogue: 0,0:00:07.17,0:00:07.94,Main,A,0000,0000,0000,,Okay.
+Dialogue: 0,0:00:07.94,0:00:09.61,Main,A,0000,0000,0000,,Fried rice good to go!
+Dialogue: 0,0:00:09.61,0:00:12.36,Main,A,0000,0000,0000,,Huh? You got a new phone?
+Dialogue: 0,0:00:12.36,0:00:16.43,Main,Sh,0000,0000,0000,,Yeah, it's the latest model. \NThere's a new app I wanted to check out.
+Dialogue: 0,0:00:16.43,0:00:19.63,Main,Sh,0000,0000,0000,,You can look up flights \Nacross the world in real time.
+Dialogue: 0,0:00:19.63,0:00:22.00,Main,Sh,0000,0000,0000,,This stuff is just so much fun to watch.
+Dialogue: 0,0:00:22.36,0:00:23.40,Main,A,0000,0000,0000,,Huh...
+Dialogue: 0,0:00:23.40,0:00:28.30,Main,Sh,0000,0000,0000,,Oh, my bad. You wouldn't find it very fun, \Nwhat with your hate for tech.
+Dialogue: 0,0:00:29.75,0:00:32.57,Main,A,0000,0000,0000,,Yeah, yeah, I can't keep up with technology.
+Dialogue: 0,0:00:32.57,0:00:34.93,Main,A,0000,0000,0000,,People act like I'm a Luddite or something.
+Dialogue: 0,0:00:34.93,0:00:37.16,Main,Sh,0000,0000,0000,,Troglodyte or not, I'll always love ya.
+Dialogue: 0,0:00:37.16,0:00:38.26,Main,A,0000,0000,0000,,You jerk!
+Dialogue: 0,0:00:38.26,0:00:42.11,Main,Sh,0000,0000,0000,,But, you know, you might actually be lucky.
+Dialogue: 0,0:00:42.11,0:00:44.24,Main,A,0000,0000,0000,,Huh? What do you mean?
+Dialogue: 0,0:00:44.24,0:00:46.67,Main,Sh,0000,0000,0000,,This might sound cliché,
+Dialogue: 0,0:00:46.67,0:00:50.50,Main,Sh,0000,0000,0000,,but convenient tools, when misused, \Ncan turn into dangerous weapons.
+Dialogue: 0,0:00:51.16,0:00:53.07,Main,Sh,0000,0000,0000,,Mankind may create and own tech,
+Dialogue: 0,0:00:53.07,0:00:56.65,Main,Sh,0000,0000,0000,,but we can also end up \Nbeing controlled by it.
+Dialogue: 0,0:00:56.65,0:00:58.95,Main,Sh,0000,0000,0000,,That's how it's always been.
+Dialogue: 0,0:00:59.34,0:01:04.95,Main,Sh,0000,0000,0000,,Eventually, progress itself \Nmight turn its back on us.
+Dialogue: 0,0:02:38.52,0:02:40.64,Main,A,0000,0000,0000,,I'm Natsume Akira.
+Dialogue: 0,0:02:40.64,0:02:44.56,Main,A,0000,0000,0000,,I used to be a perfectly ordinary high schooler \Nuntil I got into an accident
+Dialogue: 0,0:02:44.56,0:02:48.31,Main,A,0000,0000,0000,,and woke up sixteen years later \Nas just a brain,
+Dialogue: 0,0:02:48.31,0:02:51.34,Main,A,0000,0000,0000,,forced to fight battles \NI couldn't make heads nor tails of.
+Dialogue: 0,0:02:51.73,0:02:55.82,Main,A,0000,0000,0000,,But if I try my best, \Nmaybe I can go back to being human.
+Dialogue: 0,0:02:56.36,0:03:00.20,Main,A,0000,0000,0000,,Hoping against hope for that wish to come true, \NI continue to work with the police.
+Dialogue: 0,0:03:06.60,0:03:08.34,Main,A,0000,0000,0000,,What the heck is this?
+Dialogue: 0,0:03:09.20,0:03:13.13,Main,FA,0000,0000,0000,,You're nothing but a brain.
+Dialogue: 0,0:03:13.13,0:03:15.16,Main,FA,0000,0000,0000,,A weapon.
+Dialogue: 0,0:03:15.16,0:03:17.34,Main,FA,0000,0000,0000,,No longer human.
+Dialogue: 0,0:03:17.34,0:03:20.14,Main,A,0000,0000,0000,,Shut up. Who are you, anyway?
+Dialogue: 0,0:03:20.14,0:03:22.12,Main,FA,0000,0000,0000,,Deep down, you already know.
+Dialogue: 0,0:03:22.12,0:03:23.47,Main,A,0000,0000,0000,,No...
+Dialogue: 0,0:03:23.47,0:03:24.72,sign_4879_35_destroy,Sign,0000,0000,0000,,destroy
+Dialogue: 0,0:03:23.47,0:03:24.72,Main,FA,0000,0000,0000,,Destroy...
+Dialogue: 0,0:03:25.02,0:03:26.01,Main,A,0000,0000,0000,,Stop...
+Dialogue: 0,0:03:26.01,0:03:27.64,sign_4940_38_destroy,Sign,0000,0000,0000,,destroy
+Dialogue: 0,0:03:26.01,0:03:27.64,Main,FA,0000,0000,0000,,Destroy.
+Dialogue: 0,0:03:27.64,0:03:29.14,Main,A,0000,0000,0000,,Stop it!
+Dialogue: 0,0:03:29.14,0:03:30.60,sign_5015_41_destroy_it_all,Sign,0000,0000,0000,,destroy it all
+Dialogue: 0,0:03:29.14,0:03:30.60,Main,FA,0000,0000,0000,,Destroy it all!
+Dialogue: 0,0:03:40.01,0:03:41.38,Main,A,0000,0000,0000,,Wait, I have a body.
+Dialogue: 0,0:03:42.00,0:03:44.54,Main,A,0000,0000,0000,,Is this... my room?
+Dialogue: 0,0:03:45.00,0:03:45.91,Main,A,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:46.62,0:03:48.16,Main,A,0000,0000,0000,,"2014"?
+Dialogue: 0,0:03:48.59,0:03:50.63,Main,A,0000,0000,0000,,Isn't that when I got into an accident?
+Dialogue: 0,0:03:51.24,0:03:54.33,Main,A,0000,0000,0000,,Was it all just a bad dream?
+Dialogue: 0,0:03:56.09,0:03:57.63,sign_5661_49_Natsume,Sign,0000,0000,0000,,Natsume
+Dialogue: 0,0:03:58.32,0:03:59.63,Main,Mi,0000,0000,0000,,What's taking you so long?
+Dialogue: 0,0:04:00.04,0:04:01.14,Main,A,0000,0000,0000,,Minami?!
+Dialogue: 0,0:04:01.76,0:04:04.18,Main,Mi,0000,0000,0000,,Why aren't you ready yet?
+Dialogue: 0,0:04:04.18,0:04:06.00,Main,Mi,0000,0000,0000,,We'll be late for school.
+Dialogue: 0,0:04:06.00,0:04:08.62,Main,Mi,0000,0000,0000,,I came all the way to wake\Nyou up, so hurry up.
+Dialogue: 0,0:04:08.62,0:04:10.04,Main,A,0000,0000,0000,,Huh? Uh...
+Dialogue: 0,0:04:10.04,0:04:12.38,Main,A,0000,0000,0000,,O-Okay.
+Dialogue: 0,0:04:14.68,0:04:15.77,Main,Mi,0000,0000,0000,,You had a bad dream?
+Dialogue: 0,0:04:16.12,0:04:19.23,Main,A,0000,0000,0000,,Yeah, and a real weird one, at that.
+Dialogue: 0,0:04:19.23,0:04:20.14,Main,Mi,0000,0000,0000,,What about?
+Dialogue: 0,0:04:20.14,0:04:25.78,Main,A,0000,0000,0000,,Well, it was 2030, and you were a cop \Nwith an android partner.
+Dialogue: 0,0:04:25.78,0:04:28.60,Main,A,0000,0000,0000,,And I'd been reduced to just a brain.
+Dialogue: 0,0:04:30.59,0:04:31.87,Main,A,0000,0000,0000,,Ridiculous, right?
+Dialogue: 0,0:04:31.87,0:04:35.61,Main,A,0000,0000,0000,,Man alive, am I ever glad that wasn't real.
+Dialogue: 0,0:04:38.11,0:04:39.47,Main,G,0000,0000,0000,,On your feet!
+Dialogue: 0,0:04:39.47,0:04:40.41,Main,G,0000,0000,0000,,Bow!
+Dialogue: 0,0:04:40.88,0:04:42.09,Main,G,0000,0000,0000,,Take your seats!
+Dialogue: 0,0:04:42.09,0:04:46.40,Main,Chi,0000,0000,0000,,Good morning, my dear students. \NSay hi to Iriya. She just transferred in.
+Dialogue: 0,0:04:46.40,0:04:48.83,Main,Al,0000,0000,0000,,I'm Iriya Alma. Nice to meet you.
+Dialogue: 0,0:04:48.83,0:04:50.78,Main,A,0000,0000,0000,,Huh? Wasn't she the...
+Dialogue: 0,0:04:50.78,0:04:54.34,Main,Chi,0000,0000,0000,,Take the seat next to Natsume over there.
+Dialogue: 0,0:04:54.34,0:04:55.19,Main,Al,0000,0000,0000,,Got it.
+Dialogue: 0,0:05:03.64,0:05:05.46,Main,A,0000,0000,0000,,I can't stop thinking about that girl.
+Dialogue: 0,0:05:09.46,0:05:10.27,Main,Kim,0000,0000,0000,,Ow!
+Dialogue: 0,0:05:10.27,0:05:13.29,Main,Kim,0000,0000,0000,,Damn it, Akira! Watch where you're going, man!
+Dialogue: 0,0:05:13.29,0:05:15.52,Main,A,0000,0000,0000,,Oh, hey, Kimura. Didn't see you there, sorry.
+Dialogue: 0,0:05:15.52,0:05:17.16,Main,Kim,0000,0000,0000,,Why, you little...
+Dialogue: 0,0:05:17.16,0:05:19.79,Main,Kim,0000,0000,0000,,You tryin' to play down \Nmy overwhelming presence here?
+Dialogue: 0,0:05:19.79,0:05:21.99,Main,Kon,0000,0000,0000,,Hey, you two punks!
+Dialogue: 0,0:05:21.99,0:05:25.36,Main,Kon,0000,0000,0000,,You got some balls of steel \Nto be fighting in {\i1}my{\i0} halls.
+Dialogue: 0,0:05:25.36,0:05:27.32,Main,Kon,0000,0000,0000,,How 'bout I soften 'em up for ya?
+Dialogue: 0,0:05:27.32,0:05:29.80,Main,Kim,0000,0000,0000,,Yikes! It's Kondo, the school counselor!
+Dialogue: 0,0:05:29.80,0:05:31.94,Main,Kim,0000,0000,0000,,Run for it!
+Dialogue: 0,0:05:33.15,0:05:36.07,Main,Kon,0000,0000,0000,,No running in the hallways! \NGet yer asses back here!
+Dialogue: 0,0:05:43.60,0:05:44.28,Main,A,0000,0000,0000,,Sorry!
+Dialogue: 0,0:05:44.28,0:05:47.34,Main,Mi,0000,0000,0000,,A... ki... ra!
+Dialogue: 0,0:05:49.54,0:05:52.00,Main,A,0000,0000,0000,,Ow!
+Dialogue: 0,0:05:51.53,0:05:55.04,sign_8429_87_Infirmary,Sign,0000,0000,0000,,Infirmary
+Dialogue: 0,0:05:52.00,0:05:55.04,Main,Ar,0000,0000,0000,,Wow, sounds like you had a rough time.
+Dialogue: 0,0:05:55.04,0:05:59.10,Main,Ar,0000,0000,0000,,But enjoy it while it lasts. \NAh, to be young again.
+Dialogue: 0,0:05:59.10,0:06:00.58,Main,Ar,0000,0000,0000,,There. You're as good as new.
+Dialogue: 0,0:06:01.73,0:06:03.42,Main,A,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:06:06.80,0:06:11.56,Main,Kon,0000,0000,0000,,Hey, is there really a point to acting out \Nthis B-grade high-school anime?
+Dialogue: 0,0:06:11.56,0:06:13.14,Main,Kon,0000,0000,0000,,This crap is nothing like real life.
+Dialogue: 0,0:06:13.99,0:06:16.25,Main,Ar,0000,0000,0000,,Of course it isn't.
+Dialogue: 0,0:06:16.25,0:06:19.19,Main,Ar,0000,0000,0000,,This is just a fantasy world.
+Dialogue: 0,0:06:20.02,0:06:22.12,Main,Kon,0000,0000,0000,,Let me out of here for a bit.
+Dialogue: 0,0:06:24.20,0:06:25.78,Main,Ar,0000,0000,0000,,You got it.
+Dialogue: 0,0:06:25.78,0:06:27.50,Main,Ar,0000,0000,0000,,{\fad(1,781)}Logging you out.
+Dialogue: 0,0:06:41.32,0:06:44.47,Main,Kon,0000,0000,0000,,These guys are such good sports. \NIt's making me cry.
+Dialogue: 0,0:06:47.49,0:06:49.12,Main,Shi,0000,0000,0000,,How's it looking?
+Dialogue: 0,0:06:49.12,0:06:52.97,Main,Kon,0000,0000,0000,,They're all enjoying \Na generic-ass school life in full VR.
+Dialogue: 0,0:06:52.97,0:06:56.95,Main,Kon,0000,0000,0000,,Chief, will this really awaken Akira's memories?
+Dialogue: 0,0:06:58.60,0:07:00.28,Main,A,0000,0000,0000,,I'm gonna be late!
+Dialogue: 0,0:07:01.94,0:07:02.89,Main,Al,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:07:02.89,0:07:04.96,Main,A,0000,0000,0000,,Huh? Uh, yeah.
+Dialogue: 0,0:07:04.96,0:07:09.47,Main,Kim,0000,0000,0000,,God {\i1}damn.{\i0} This guy's got one \Nmessed-up idea of teenage life.
+Dialogue: 0,0:07:09.47,0:07:13.20,Main,Chi,0000,0000,0000,,This world's been built \Nfrom Akira's conscious.
+Dialogue: 0,0:07:13.20,0:07:15.36,Main,Chi,0000,0000,0000,,If we want to investigate his memories here,
+Dialogue: 0,0:07:15.36,0:07:19.33,Main,Chi,0000,0000,0000,,we'll have to poke at the things \Nhe avoids or dislikes.
+Dialogue: 0,0:07:19.33,0:07:21.22,Main,Mi,0000,0000,0000,,Like what?
+Dialogue: 0,0:07:23.12,0:07:25.06,Main,Chi,0000,0000,0000,,Don't you notice anything off \Nabout the streets?
+Dialogue: 0,0:07:28.42,0:07:31.90,Main,Chi,0000,0000,0000,,There are hardly any vehicles \Noperating in this world.
+Dialogue: 0,0:07:32.34,0:07:35.67,Main,Kim,0000,0000,0000,,Oh, yeah. Akira did get in\Nan accident, didn't he?
+Dialogue: 0,0:07:36.10,0:07:39.16,Main,Mi,0000,0000,0000,,Also, nobody has a cellphone.
+Dialogue: 0,0:07:39.16,0:07:42.70,Main,Chi,0000,0000,0000,,That, too, is part of his desire. \NHe hates technology, after all.
+Dialogue: 0,0:07:44.44,0:07:50.17,Main,Al,0000,0000,0000,,So, you say we can awaken his memories \Nby pushing those angles?
+Dialogue: 0,0:07:50.17,0:07:51.96,Main,Chi,0000,0000,0000,,That is my assumption, yes.
+Dialogue: 0,0:07:51.96,0:07:54.54,Main,Kim,0000,0000,0000,,And how do we do that, exactly?
+Dialogue: 0,0:07:54.54,0:07:56.45,Main,Mi,0000,0000,0000,,What's the matter, Alma?
+Dialogue: 0,0:07:56.81,0:07:58.46,Main,Al,0000,0000,0000,,I've got an idea.
+Dialogue: 0,0:08:00.72,0:08:03.88,Main,,0000,0000,0000,,His accident must be a huge source \Nof trauma for him.
+Dialogue: 0,0:08:03.88,0:08:08.07,Main,,0000,0000,0000,,Reenacting one in his presence \Nshould do the job.
+Dialogue: 0,0:08:08.68,0:08:09.72,Main,Mi,0000,0000,0000,,Got it.
+Dialogue: 0,0:08:11.88,0:08:13.21,Main,Mi,0000,0000,0000,,Hey, Akira.
+Dialogue: 0,0:08:21.08,0:08:22.46,Main,Mi,0000,0000,0000,,The truck...
+Dialogue: 0,0:08:22.46,0:08:23.64,Main,Mi,0000,0000,0000,,disappeared?!
+Dialogue: 0,0:08:24.23,0:08:27.13,Main,A,0000,0000,0000,,Hey, don't space out \Nin the middle of the street.
+Dialogue: 0,0:08:27.13,0:08:30.09,Main,A,0000,0000,0000,,You can be pretty absentminded, huh, Alma?
+Dialogue: 0,0:08:38.28,0:08:40.24,Main,Mi,0000,0000,0000,,Alma, what just happened?
+Dialogue: 0,0:08:40.24,0:08:45.21,Main,Al,0000,0000,0000,,That was unexpected. \NMy AI failed to intervene.
+Dialogue: 0,0:08:52.80,0:08:55.45,Main,Ar,0000,0000,0000,,Well, I'm sure it was just a minor error,
+Dialogue: 0,0:08:55.45,0:08:58.17,Main,Ar,0000,0000,0000,,but we should all log out just in case.
+Dialogue: 0,0:08:58.17,0:09:00.93,Main,Chi,0000,0000,0000,,Aw, I was having fun.
+Dialogue: 0,0:09:00.93,0:09:02.88,Main,Ar,0000,0000,0000,,Hmm? What's going on?
+Dialogue: 0,0:09:02.88,0:09:04.03,Main,Ar,0000,0000,0000,,You can't be serious!
+Dialogue: 0,0:09:04.03,0:09:05.10,Main,Chi,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:09:05.10,0:09:07.38,Main,Ar,0000,0000,0000,,I can't access the system controls.
+Dialogue: 0,0:09:08.52,0:09:12.81,Main,Ar,0000,0000,0000,,I have no idea why, but it looks like \Nwe're not gonna be able to log out.
+Dialogue: 0,0:09:13.57,0:09:17.76,Main,Chi,0000,0000,0000,,Wait, you mean we're trapped \Nhere in this VR space?
+Dialogue: 0,0:09:17.76,0:09:19.85,Main,Ar,0000,0000,0000,,Unfortunately, yes.
+Dialogue: 0,0:09:19.85,0:09:21.74,Main,Kim,0000,0000,0000,,Are you kidding me?
+Dialogue: 0,0:09:26.60,0:09:30.20,Main,Ygg,0000,0000,0000,,You seem to be enjoying yourself.
+Dialogue: 0,0:09:30.85,0:09:32.48,Main,A,0000,0000,0000,,Yeah, this is fun.
+Dialogue: 0,0:09:34.60,0:09:36.72,Main,A,0000,0000,0000,,But something's off.
+Dialogue: 0,0:09:36.72,0:09:40.17,Main,A,0000,0000,0000,,I get the feeling \NI'm forgetting something important.
+Dialogue: 0,0:09:40.17,0:09:41.70,Main,Ygg,0000,0000,0000,,And what would that be?
+Dialogue: 0,0:09:42.65,0:09:44.66,Main,A,0000,0000,0000,,Who are you, anyway?
+Dialogue: 0,0:09:45.76,0:09:47.42,Main,Ygg,0000,0000,0000,,I'm Ygg!
+Dialogue: 0,0:09:48.78,0:09:50.33,Main,Mi,0000,0000,0000,,"Yggdrasil"?
+Dialogue: 0,0:09:50.33,0:09:51.29,Main,Ar,0000,0000,0000,,Yeah.
+Dialogue: 0,0:09:52.52,0:09:56.08,Main,Ar,0000,0000,0000,,A quantum computer Iriya has in operation.
+Dialogue: 0,0:09:56.08,0:09:57.61,Main,Ar,0000,0000,0000,,AKA "Ygg."
+Dialogue: 0,0:09:58.45,0:10:03.26,Main,Ar,0000,0000,0000,,This world's based off Akira's memories, \Nbut it's Yggdrasil that's bringing it to life.
+Dialogue: 0,0:10:03.26,0:10:06.44,Main,,0000,0000,0000,,Oh, and Ygg was also the one \Nwho drew up Alma's design.
+Dialogue: 0,0:10:07.00,0:10:10.44,Main,Mi,0000,0000,0000,,Huh... So she's like Alma's mom, huh?
+Dialogue: 0,0:10:10.44,0:10:14.99,Main,Kim,0000,0000,0000,,This is no time to be making a family tree. \NWe need to get outta here.
+Dialogue: 0,0:10:14.99,0:10:19.55,Main,Al,0000,0000,0000,,How about directly telling Akira \Nthat this is a fantasy world?
+Dialogue: 0,0:10:19.55,0:10:21.92,Main,Ar,0000,0000,0000,,But it's one that he desired.
+Dialogue: 0,0:10:21.92,0:10:24.17,Main,Ar,0000,0000,0000,,He'll just refuse to accept it.
+Dialogue: 0,0:10:24.17,0:10:26.74,Main,Ar,0000,0000,0000,,He has to realize the truth himself.
+Dialogue: 0,0:10:28.02,0:10:33.05,Main,Chi,0000,0000,0000,,He might come to his senses if we do\Nsomething that didn't happen during his life.
+Dialogue: 0,0:10:33.05,0:10:34.62,Main,Mi,0000,0000,0000,,Like what?
+Dialogue: 0,0:10:34.62,0:10:36.95,Main,Chi,0000,0000,0000,,Well...
+Dialogue: 0,0:10:42.15,0:10:44.38,Main,A,0000,0000,0000,,You okay, Minami?
+Dialogue: 0,0:10:45.62,0:10:47.70,Main,A,0000,0000,0000,,I heard you've got a fever.
+Dialogue: 0,0:10:48.58,0:10:50.46,Main,Mi,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:10:51.22,0:10:52.92,Main,A,0000,0000,0000,,Hey, what?
+Dialogue: 0,0:10:58.28,0:10:59.68,Main,Chi,0000,0000,0000,,Looking good!
+Dialogue: 0,0:10:59.68,0:11:01.29,Main,Ar,0000,0000,0000,,On to the next stage!
+Dialogue: 0,0:11:01.29,0:11:06.81,Main,Mi,0000,0000,0000,,S-Say, have you ever k-kissed anyone?
+Dialogue: 0,0:11:07.59,0:11:09.37,Main,A,0000,0000,0000,,N-No.
+Dialogue: 0,0:11:09.37,0:11:12.82,Main,Mi,0000,0000,0000,,W-Wanna give it a shot, then?
+Dialogue: 0,0:11:12.82,0:11:14.36,Main,A,0000,0000,0000,,B-But...
+Dialogue: 0,0:11:14.36,0:11:18.34,Main,Mi,0000,0000,0000,,I-I mean, this is all virtual,\Nanyway. Not real life.
+Dialogue: 0,0:11:24.24,0:11:25.80,Main,Ygg,0000,0000,0000,,No!
+Dialogue: 0,0:11:27.32,0:11:32.28,Main,Ygg,0000,0000,0000,,Akira's mine! Keep your paws off him!
+Dialogue: 0,0:11:35.25,0:11:36.26,Main,Bo,0000,0000,0000,,Who's that?
+Dialogue: 0,0:11:37.55,0:11:40.79,Main,A,0000,0000,0000,,Oh, you're that girl \Nfrom the courtyard earlier.
+Dialogue: 0,0:11:41.69,0:11:42.30,Main,Ygg,0000,0000,0000,,Snap!
+Dialogue: 0,0:11:45.33,0:11:48.20,Main,Chi,0000,0000,0000,,What did you do to Akira?
+Dialogue: 0,0:11:48.20,0:11:50.35,Main,Ygg,0000,0000,0000,,I just put him to sleep for a bit.
+Dialogue: 0,0:11:50.35,0:11:52.06,Main,Ar,0000,0000,0000,,Wake him up right now.
+Dialogue: 0,0:11:52.77,0:11:57.16,Main,Ygg,0000,0000,0000,,Even if he realizes the truth, \Nhe has only a harsh reality waiting for him.
+Dialogue: 0,0:11:58.36,0:12:03.21,Main,Ygg,0000,0000,0000,,If you truly want the best for him, \Nlet him stay here.
+Dialogue: 0,0:12:04.07,0:12:06.66,Main,Mi,0000,0000,0000,,Who are you, really?
+Dialogue: 0,0:12:10.47,0:12:12.23,Main,Ygg,0000,0000,0000,,I'm Ygg.
+Dialogue: 0,0:12:12.23,0:12:14.74,Main,Ygg,0000,0000,0000,,His wife-to-be.
+Dialogue: 0,0:12:16.28,0:12:16.92,Main,Ar,0000,0000,0000,,Hang on.
+Dialogue: 0,0:12:17.43,0:12:19.62,Main,Ar,0000,0000,0000,,"Ygg"...? No way!
+Dialogue: 0,0:12:21.24,0:12:26.06,Main,Ygg,0000,0000,0000,,Anyway, I will protect his happiness!
+Dialogue: 0,0:12:29.01,0:12:31.02,sign_17959_191_Illustration_by_,Eyecatch,0000,0000,0000,,Illustration by Komi Shinya
+Dialogue: 0,0:12:32.24,0:12:34.48,Main,Ar,0000,0000,0000,,W-We're out on the street?
+Dialogue: 0,0:12:34.48,0:12:35.71,Main,Chi,0000,0000,0000,,What's going on?
+Dialogue: 0,0:12:35.71,0:12:37.06,Main,Mi,0000,0000,0000,,L-Look!
+Dialogue: 0,0:12:37.06,0:12:40.01,Main,Kim,0000,0000,0000,,Y-Yo, help!
+Dialogue: 0,0:12:41.14,0:12:43.32,Main,Al,0000,0000,0000,,What's with that video-game monster?!
+Dialogue: 0,0:12:50.24,0:12:51.32,Main,Mi,0000,0000,0000,,Alma!
+Dialogue: 0,0:12:51.32,0:12:52.95,Main,Kim,0000,0000,0000,,You saved my ass. Thanks.
+Dialogue: 0,0:12:53.52,0:12:55.29,Main,Al,0000,0000,0000,,We're not out of the woods yet.
+Dialogue: 0,0:12:57.83,0:12:59.71,Main,Sh,0000,0000,0000,,What happened?
+Dialogue: 0,0:12:59.71,0:13:02.33,Main,G,0000,0000,0000,,We're still investigating the cause,
+Dialogue: 0,0:13:02.33,0:13:08.65,Main,G,0000,0000,0000,,but it seems they've been disconnected \Nfrom Akira while trapped in VR.
+Dialogue: 0,0:13:08.65,0:13:13.39,Main,Kon,0000,0000,0000,,Come on, Akira. This ain't funny, man.
+Dialogue: 0,0:13:13.39,0:13:16.84,Main,Kim,0000,0000,0000,,At least we made it to Akira's\Nplace in one piece.
+Dialogue: 0,0:13:17.40,0:13:21.45,Main,Chi,0000,0000,0000,,Is the girl we met in the infirmary \Nthe one sending those monsters?
+Dialogue: 0,0:13:21.45,0:13:22.59,Main,Ar,0000,0000,0000,,Probably.
+Dialogue: 0,0:13:22.59,0:13:23.77,Main,Kim,0000,0000,0000,,Where's Minami?
+Dialogue: 0,0:13:25.62,0:13:29.13,Main,Mi,0000,0000,0000,,He really was just an ordinary high schooler.
+Dialogue: 0,0:13:29.13,0:13:30.06,Main,Al,0000,0000,0000,,Yeah.
+Dialogue: 0,0:13:29.49,0:13:33.58,sign_19409_210_Meat__n__potatoe,Sign,0000,0000,0000,,Meat 'n' potatoes, packed to the brim!
+Dialogue: 0,0:13:29.49,0:13:33.58,sign_19409_211_Special_Stamina_,Sign,0000,0000,0000,,Special Stamina Fried Rice
+Dialogue: 0,0:13:30.07,0:13:32.30,Main,Mi,0000,0000,0000,,He sure loved to cook, huh?
+Dialogue: 0,0:13:34.00,0:13:35.69,Main,Mi,0000,0000,0000,,Is that an album?
+Dialogue: 0,0:13:39.62,0:13:41.20,Main,Mi,0000,0000,0000,,He looks so funny!
+Dialogue: 0,0:13:41.98,0:13:46.25,Main,Mi,0000,0000,0000,,Shuichi, his big brother, \Nmust have taken these.
+Dialogue: 0,0:13:46.25,0:13:47.68,Main,Al,0000,0000,0000,,How can you tell?
+Dialogue: 0,0:13:48.45,0:13:52.56,Main,Mi,0000,0000,0000,,His love for his little brother \Nshines through in this photo.
+Dialogue: 0,0:13:52.56,0:13:54.72,Main,Mi,0000,0000,0000,,I had one myself.
+Dialogue: 0,0:13:55.15,0:13:59.27,Main,Mi,0000,0000,0000,,Akira really was a normal boy \Nliving in our world.
+Dialogue: 0,0:14:06.07,0:14:07.21,Main,Al,0000,0000,0000,,Minami?
+Dialogue: 0,0:14:07.21,0:14:11.36,Main,Mi,0000,0000,0000,,What that girl said hit home a bit.
+Dialogue: 0,0:14:11.36,0:14:15.58,Main,Mi,0000,0000,0000,,Akira might actually be happier \Nstaying in this world.
+Dialogue: 0,0:14:15.58,0:14:19.63,Main,Mi,0000,0000,0000,,But that's still not right! \NYou gotta pick yourself up and move on!
+Dialogue: 0,0:14:19.63,0:14:21.46,Main,Mi,0000,0000,0000,,Akira has to, and so do we.
+Dialogue: 0,0:14:25.10,0:14:26.18,Main,Ar,0000,0000,0000,,Hello?
+Dialogue: 0,0:14:26.96,0:14:29.64,Italics,Kon,0000,0000,0000,,Finally got through, yeesh.
+Dialogue: 0,0:14:29.64,0:14:30.55,Main,Ar,0000,0000,0000,,Kondo?!
+Dialogue: 0,0:14:31.02,0:14:36.00,Italics,Kon,0000,0000,0000,,Listen up. The only way out for you guys \Nis to make Akira face reality.
+Dialogue: 0,0:14:36.00,0:14:37.71,Main,Ar,0000,0000,0000,,What's happening to him?
+Dialogue: 0,0:14:37.71,0:14:40.97,Italics,Kon,0000,0000,0000,,We can't disconnect him on our end.
+Dialogue: 0,0:14:40.97,0:14:43.60,Italics,,0000,0000,0000,,Looks like he's in school over there.
+Dialogue: 0,0:14:43.60,0:14:47.10,Italics,,0000,0000,0000,,But there's a program guarding him \Nand keeping y'all away.
+Dialogue: 0,0:14:47.89,0:14:50.16,Main,Mi,0000,0000,0000,,How can we take out those monsters?
+Dialogue: 0,0:14:55.70,0:14:57.30,Main,Kim,0000,0000,0000,,Guns acquired!
+Dialogue: 0,0:14:58.04,0:15:01.05,Main,Mi,0000,0000,0000,,How did we end up having to raid \Na police station? We're cops!
+Dialogue: 0,0:15:01.05,0:15:02.17,Main,Al,0000,0000,0000,,Right...
+Dialogue: 0,0:15:05.04,0:15:06.07,Main,Ar,0000,0000,0000,,Found one.
+Dialogue: 0,0:15:08.26,0:15:11.38,Main,Ar,0000,0000,0000,,This will help us \Ntake at least a little control back.
+Dialogue: 0,0:15:12.56,0:15:14.33,Main,Chi,0000,0000,0000,,Everyone ready?
+Dialogue: 0,0:15:14.33,0:15:17.43,Main,Chi,0000,0000,0000,,Let's go wake Akira up!
+Dialogue: 0,0:15:17.87,0:15:21.36,Main,Kim,0000,0000,0000,,Was this really the best car we could use?
+Dialogue: 0,0:15:21.36,0:15:23.37,Main,Ar,0000,0000,0000,,Remember, we're in Akira's fantasy.
+Dialogue: 0,0:15:23.37,0:15:24.98,Main,Ar,0000,0000,0000,,Be thankful we even found a car.
+Dialogue: 0,0:15:26.64,0:15:28.41,Main,Mi,0000,0000,0000,,The school's in sight!
+Dialogue: 0,0:15:31.93,0:15:33.62,Main,Ygg,0000,0000,0000,,So you've come.
+Dialogue: 0,0:15:35.73,0:15:37.98,Main,Chi,0000,0000,0000,,We'll handle things here.
+Dialogue: 0,0:15:42.88,0:15:44.75,Main,Al,0000,0000,0000,,You go on ahead, Minami!
+Dialogue: 0,0:15:47.30,0:15:48.34,Main,Mi,0000,0000,0000,,Roger that!
+Dialogue: 0,0:15:50.34,0:15:53.48,Main,Kim,0000,0000,0000,,Bring it! \NI'll show you that payback's a bitch!
+Dialogue: 0,0:16:20.75,0:16:22.94,Main,Mi,0000,0000,0000,,Those monsters are scary!
+Dialogue: 0,0:16:23.49,0:16:28.10,Main,Mi,0000,0000,0000,,Y'know, even if I do get to Akira, \Ncan I really make him face reality?
+Dialogue: 0,0:16:29.16,0:16:30.76,Main,Sh,0000,0000,0000,,You can do it.
+Dialogue: 0,0:16:32.67,0:16:35.58,Main,Sh,0000,0000,0000,,This world's been distorted by his will.
+Dialogue: 0,0:16:35.58,0:16:39.89,Main,Sh,0000,0000,0000,,If you can figure out what the biggest\Ninconsistency is, you can get through to him.
+Dialogue: 0,0:16:39.89,0:16:41.13,Main,Mi,0000,0000,0000,,Inconsistency?
+Dialogue: 0,0:16:49.30,0:16:50.83,Main,Mi,0000,0000,0000,,Right!
+Dialogue: 0,0:16:50.83,0:16:52.03,Main,Sh,0000,0000,0000,,I'm glad you realized.
+Dialogue: 0,0:16:53.46,0:16:55.45,Main,Sh,0000,0000,0000,,Take care of him for me.
+Dialogue: 0,0:16:56.70,0:16:58.47,Main,Mi,0000,0000,0000,,Was that...
+Dialogue: 0,0:17:00.92,0:17:03.50,Main,Mi,0000,0000,0000,,Alisa, can you monitor things?
+Dialogue: 0,0:17:04.12,0:17:05.39,Main,Ar,0000,0000,0000,,Aye.
+Dialogue: 0,0:17:05.39,0:17:07.10,Italics,Mi,0000,0000,0000,,I want to try something.
+Dialogue: 0,0:17:07.10,0:17:08.20,Main,Ar,0000,0000,0000,,Go for it.
+Dialogue: 0,0:17:10.95,0:17:12.76,Main,A,0000,0000,0000,,Yeah...
+Dialogue: 0,0:17:12.76,0:17:15.38,Main,A,0000,0000,0000,,I really am forgetting something.
+Dialogue: 0,0:17:17.06,0:17:18.40,Main,A,0000,0000,0000,,But...
+Dialogue: 0,0:17:18.40,0:17:19.40,Main,Mi,0000,0000,0000,,Akira.
+Dialogue: 0,0:17:20.48,0:17:23.66,Main,A,0000,0000,0000,,Minami? Wait, how'd you get hurt?
+Dialogue: 0,0:17:27.38,0:17:31.18,Main,Mi,0000,0000,0000,,You really are a totally\Nordinary high schooler, huh?
+Dialogue: 0,0:17:31.18,0:17:34.28,Main,A,0000,0000,0000,,Gee, sorry for being ordinary. \NIt actually bothers me a little.
+Dialogue: 0,0:17:37.23,0:17:40.95,Main,Mi,0000,0000,0000,,I wish we could've met \Nunder these circumstances instead.
+Dialogue: 0,0:17:41.35,0:17:46.00,Main,Mi,0000,0000,0000,,But hiding in a fantasy \Nisn't going to solve anything.
+Dialogue: 0,0:17:51.06,0:17:54.91,Main,Mi,0000,0000,0000,,I realized that this world \Ndidn't have a single mirror.
+Dialogue: 0,0:17:54.91,0:17:56.76,Main,Mi,0000,0000,0000,,You didn't wanna see one.
+Dialogue: 0,0:17:56.76,0:17:58.51,Main,Mi,0000,0000,0000,,But you need to take a good look, Akira!
+Dialogue: 0,0:18:07.81,0:18:10.14,Main,A,0000,0000,0000,,Wait, you're...
+Dialogue: 0,0:18:11.20,0:18:12.44,Main,A,0000,0000,0000,,Beta!
+Dialogue: 0,0:18:14.23,0:18:15.56,Main,A,0000,0000,0000,,Stop it!
+Dialogue: 0,0:18:15.56,0:18:18.39,Main,A,0000,0000,0000,,Huh? Is this really my arm?
+Dialogue: 0,0:18:18.72,0:18:20.24,Main,A,0000,0000,0000,,What's going on?
+Dialogue: 0,0:18:20.65,0:18:22.06,Main,A,0000,0000,0000,,What did I...
+Dialogue: 0,0:18:30.68,0:18:32.92,Main,Mi,0000,0000,0000,,Snap out of it, Akira!
+Dialogue: 0,0:18:34.50,0:18:42.97,Main,Mi,0000,0000,0000,,You were a cheeky, pervy, ordinary high-schooler \Nwho hated tech and loved to cook!
+Dialogue: 0,0:18:43.73,0:18:48.54,Main,Mi,0000,0000,0000,,Then you got in an accident, spent years\Nin a coma, and were reduced to a brain!
+Dialogue: 0,0:18:49.02,0:18:53.62,Main,Mi,0000,0000,0000,,And you are our squadmate. One of us.
+Dialogue: 0,0:18:56.05,0:19:00.46,Main,A,0000,0000,0000,,Oh... So that's my reality.
+Dialogue: 0,0:19:04.29,0:19:07.24,Main,A,0000,0000,0000,,I remember now. Thanks, Minami.
+Dialogue: 0,0:19:21.33,0:19:22.40,Main,Kim,0000,0000,0000,,What the...
+Dialogue: 0,0:19:22.40,0:19:24.79,Main,Chi,0000,0000,0000,,Akira must've snapped out of it!
+Dialogue: 0,0:19:24.79,0:19:27.16,Main,Ar,0000,0000,0000,,Phew, took long enough.
+Dialogue: 0,0:19:28.72,0:19:32.04,Main,Ygg,0000,0000,0000,,Game over. Too bad.
+Dialogue: 0,0:19:35.43,0:19:37.67,Main,G,0000,0000,0000,,Everyone's come to!
+Dialogue: 0,0:19:38.73,0:19:40.33,Main,Kon,0000,0000,0000,,Sheesh.
+Dialogue: 0,0:19:44.00,0:19:45.18,Main,Mi,0000,0000,0000,,Akira.
+Dialogue: 0,0:19:47.11,0:19:48.22,Main,A,0000,0000,0000,,Minami.
+Dialogue: 0,0:19:53.75,0:19:57.80,Main,Kao,0000,0000,0000,,Out, Yggdrasil. You did all that, didn't you?
+Dialogue: 0,0:20:00.17,0:20:02.43,Main,Ygg,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:20:02.43,0:20:06.86,Main,Ygg,0000,0000,0000,,But I couldn't help myself after seeing \Nhow well that boy syncs with machines!
+Dialogue: 0,0:20:06.86,0:20:09.22,Main,Kao,0000,0000,0000,,Professor Iriya used to say the same thing.
+Dialogue: 0,0:20:09.88,0:20:13.35,Main,Ygg,0000,0000,0000,,He seems to have remembered something crucial:
+Dialogue: 0,0:20:13.35,0:20:15.77,Main,Ygg,0000,0000,0000,,Beta's existence.
+Dialogue: 0,0:20:17.76,0:20:20.28,Main,Kao,0000,0000,0000,,EX-ARM Number 11?
+Dialogue: 0,0:20:21.04,0:20:25.32,Main,Kao,0000,0000,0000,,So, this "Beta" was the one \Nbehind the Tokyo Attack?
+Dialogue: 0,0:21:30.29,0:21:31.60,Main,A,0000,0000,0000,,It's him.
+Dialogue: 0,0:21:33.83,0:21:34.98,Main,A,0000,0000,0000,,Beta!
+Dialogue: 0,0:21:35.65,0:21:40.17,Main,A,0000,0000,0000,,As long as you're around, \Nthis vicious cycle will never break.
+Dialogue: 0,0:21:40.17,0:21:44.28,Main,A,0000,0000,0000,,If I can catch you \Nand get all the answers I need,
+Dialogue: 0,0:21:44.28,0:21:46.98,Main,A,0000,0000,0000,,I might be able to take back what I've lost.
+Dialogue: 0,0:21:47.62,0:21:49.34,Main,A,0000,0000,0000,,I ain't no machine.
+Dialogue: 0,0:21:49.78,0:21:53.16,Main,A,0000,0000,0000,,I'm a human by the name of Natsume Akira!
+Dialogue: 0,0:23:26.16,0:23:29.67,Main,Shi,0000,0000,0000,,Looks like criminal scum from across the world \Nare flocking to the EX-ARMs.
+Dialogue: 0,0:23:30.09,0:23:33.05,Main,Shi,0000,0000,0000,,I didn't expect that thing \Nto be put up for sale, though.
+Dialogue: 0,0:23:33.05,0:23:36.36,Main Top,A,0000,0000,0000,,Next time, on {\i1}EX-ARM:{\i0} \N"Battle 006 - EX-ARM Auction."
+Dialogue: 0,0:23:35.18,0:23:40.02,sign_33931_313_EX_ARM_Auction,Next Title,0000,0000,0000,,EX-ARM Auction
+Dialogue: 0,0:23:36.36,0:23:39.67,Main Top,Shi,0000,0000,0000,,Retrieve all the EX-ARMs! \NThis is an order!

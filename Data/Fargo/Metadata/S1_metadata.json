@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Crocodile's Dilemma",
+        "released": "2014-04-15",
+        "rating": "9.3",
+        "imdb_id": "tt3097534",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Rooster Prince",
+        "released": "2014-04-22",
+        "rating": "8.3",
+        "imdb_id": "tt3296848",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "A Muddy Road",
+        "released": "2014-04-29",
+        "rating": "8.5",
+        "imdb_id": "tt3519062",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Eating the Blame",
+        "released": "2014-05-06",
+        "rating": "8.9",
+        "imdb_id": "tt3578722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Six Ungraspables",
+        "released": "2014-05-13",
+        "rating": "8.4",
+        "imdb_id": "tt3514096",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Buridan's Ass",
+        "released": "2014-05-20",
+        "rating": "9.2",
+        "imdb_id": "tt3551076",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Who Shaves the Barber?",
+        "released": "2014-05-27",
+        "rating": "8.9",
+        "imdb_id": "tt3578728",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Heap",
+        "released": "2014-06-03",
+        "rating": "8.5",
+        "imdb_id": "tt3468290",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "A Fox, a Rabbit, and a Cabbage",
+        "released": "2014-06-10",
+        "rating": "9.3",
+        "imdb_id": "tt3599898",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Morton's Fork",
+        "released": "2014-06-17",
+        "rating": "9.3",
+        "imdb_id": "tt3599918",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

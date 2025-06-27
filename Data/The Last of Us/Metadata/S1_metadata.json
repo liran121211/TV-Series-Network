@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "When You're Lost in the Darkness",
+        "released": "2023-01-15",
+        "rating": "9.1",
+        "imdb_id": "tt11957006",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Last of Us\\Subtitles\\S1\\The-Last-of-Us-SE01xE09-END-WEBRip-ION10_CAKES_HMAXS1E1.zip"
+    },
+    "2": {
+        "title": "Infected",
+        "released": "2023-01-22",
+        "rating": "9.1",
+        "imdb_id": "tt14500884",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Last of Us\\Subtitles\\S1\\The.Last.of.Us.S01E02.WEBRip.x264-ION10S1E2.zip"
+    },
+    "3": {
+        "title": "Long, Long Time",
+        "released": "2023-01-29",
+        "rating": "8.1",
+        "imdb_id": "tt14500888",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Last of Us\\Subtitles\\S1\\The.Last.of.Us.S01E03.720p_1080p_2160p.HMAX.WEBRip.DDP5.1.Atmos.x264-SMURFS1E3.zip"
+    },
+    "4": {
+        "title": "Please Hold to My Hand",
+        "released": "2023-02-05",
+        "rating": "8.4",
+        "imdb_id": "tt14500890",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Last of Us\\Subtitles\\S1\\The.Last.of.Us.S01E04.WEBRip.x264-ION10S1E4.zip"
+    },
+    "5": {
+        "title": "Endure and Survive",
+        "released": "2023-02-10",
+        "rating": "9.4",
+        "imdb_id": "tt14659486",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Last of Us\\Subtitles\\S1\\The.Last.of.Us.S01E05.WEBRip.x264-ION10S1E5.zip"
+    },
+    "6": {
+        "title": "Kin",
+        "released": "2023-02-19",
+        "rating": "8.8",
+        "imdb_id": "tt14659496",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Last of Us\\Subtitles\\S1\\The.Last.of.Us.S01E06.WEBRip.x264-ION10S1E6.zip"
+    },
+    "7": {
+        "title": "Left Behind",
+        "released": "2023-02-26",
+        "rating": "7.4",
+        "imdb_id": "tt15747172",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Last of Us\\Subtitles\\S1\\The.Last.of.Us.S01E07.WEBRip.x264-ION10S1E7.zip"
+    },
+    "8": {
+        "title": "When We Are in Need",
+        "released": "2023-03-05",
+        "rating": "9.3",
+        "imdb_id": "tt15747176",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Last of Us\\Subtitles\\S1\\The.Last.of.Us-SE01E08.WEBRip_DL-HBOGOS1E8.zip"
+    },
+    "9": {
+        "title": "Look for the Light",
+        "released": "2023-03-12",
+        "rating": "9.0",
+        "imdb_id": "tt15747178",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

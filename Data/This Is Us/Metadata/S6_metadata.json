@@ -1,0 +1,146 @@
+{
+    "1": {
+        "title": "The Challenger",
+        "released": "2022-01-04",
+        "rating": "8.2",
+        "imdb_id": "tt10322344",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S6\\This.Is.Us.S06E01.720p.HDTV.x264.by.Barel.engHiS6E1.zip"
+    },
+    "2": {
+        "title": "One Giant Leap",
+        "released": "2022-01-11",
+        "rating": "8.2",
+        "imdb_id": "tt16433208",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S6\\This.Is.Us.S06E02.One.Giant.Leap.x264-by.Barel.engHiS6E2.zip"
+    },
+    "3": {
+        "title": "Four Fathers",
+        "released": "2022-01-18",
+        "rating": "8.0",
+        "imdb_id": "tt16433226",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S6\\This.Is.Us.S06E03.720p.hdtv.x264-syncopy.englishS6E3.zip"
+    },
+    "4": {
+        "title": "Don't Let Me Keep You",
+        "released": "2022-01-25",
+        "rating": "9.1",
+        "imdb_id": "tt16024734",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S6\\This.Is.Us.S06E04.720p.HDTV.x264-SYNCOPY.engHiS6E4.zip"
+    },
+    "5": {
+        "title": "Heart and Soul",
+        "released": "2022-02-01",
+        "rating": "8.2",
+        "imdb_id": "tt16296824",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S6\\This.Is.Us.S06E05.720p.hdtv.x264-syncopy.eng-HiS6E5.zip"
+    },
+    "6": {
+        "title": "Our Little Island Girl: Part 2",
+        "released": "2022-02-22",
+        "rating": "8.0",
+        "imdb_id": "tt17372646",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S6\\This.Is.Us.S06E06.WEBRip.x264-ION10.engS6E6.zip"
+    },
+    "7": {
+        "title": "Taboo",
+        "released": "2022-03-08",
+        "rating": "8.7",
+        "imdb_id": "tt17073768",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S6\\This.Is.Us.S06E07.Taboo.720p.10bit.WEBRip.2CH.x265.HEVC-PSAS6E7.zip"
+    },
+    "8": {
+        "title": "The Guitar Man",
+        "released": "2022-03-15",
+        "rating": "7.8",
+        "imdb_id": "tt18267002",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S6\\This.Is.Us.S06E08.720p.HDTV.x264-SYNCOPY.engS6E8.zip"
+    },
+    "9": {
+        "title": "The Hill",
+        "released": "2022-03-22",
+        "rating": "8.0",
+        "imdb_id": "tt18547072",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S6\\This.Is.Us.S06E09.720p.HDTV.x264-SYNCOPY.engHiS6E9.zip"
+    },
+    "10": {
+        "title": "Every Version of You",
+        "released": "2022-03-29",
+        "rating": "8.6",
+        "imdb_id": "tt18815408",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Saturday in the Park",
+        "released": "2022-04-05",
+        "rating": "8.7",
+        "imdb_id": "tt18967088",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Katoby",
+        "released": "2022-04-12",
+        "rating": "8.6",
+        "imdb_id": "tt19064704",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Day of the Wedding",
+        "released": "2022-04-19",
+        "rating": "8.8",
+        "imdb_id": "tt19064708",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Night Before the Wedding",
+        "released": "2022-04-26",
+        "rating": "8.9",
+        "imdb_id": "tt19064716",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Miguel",
+        "released": "2022-05-03",
+        "rating": "9.5",
+        "imdb_id": "tt19064724",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Family Meeting",
+        "released": "2022-05-10",
+        "rating": "9.2",
+        "imdb_id": "tt19064728",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Train",
+        "released": "2022-05-17",
+        "rating": "9.7",
+        "imdb_id": "tt19064730",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Us",
+        "released": "2022-05-24",
+        "rating": "8.8",
+        "imdb_id": "tt19064732",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Larry David Sandwich",
+        "released": "2005-09-25",
+        "rating": "8.0",
+        "imdb_id": "tt0551413",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S5\\Curb.Your.Enthusiasm.S05.E01-E10.COMPLETE.DVDRip.x264-SARTRES5E1.zip"
+    },
+    "2": {
+        "title": "The Bowtie",
+        "released": "2005-10-02",
+        "rating": "N/A",
+        "imdb_id": "tt0551402",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Christ Nail",
+        "released": "2005-10-09",
+        "rating": "N/A",
+        "imdb_id": "tt0551406",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Kamikaze Bingo",
+        "released": "2005-10-16",
+        "rating": "N/A",
+        "imdb_id": "tt0551388",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Lewis Needs a Kidney",
+        "released": "2005-10-30",
+        "rating": "8.4",
+        "imdb_id": "tt0551390",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Smoking Jacket",
+        "released": "2005-11-06",
+        "rating": "7.7",
+        "imdb_id": "tt0551420",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Seder",
+        "released": "2005-11-13",
+        "rating": "N/A",
+        "imdb_id": "tt0551417",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Ski Lift",
+        "released": "2005-11-20",
+        "rating": "9.0",
+        "imdb_id": "tt0551419",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Korean Bookie",
+        "released": "2005-11-27",
+        "rating": "N/A",
+        "imdb_id": "tt0551412",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The End",
+        "released": "2005-12-04",
+        "rating": "N/A",
+        "imdb_id": "tt0551409",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

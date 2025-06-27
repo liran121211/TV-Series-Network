@@ -1,0 +1,1605 @@
+﻿1
+00:01:02,958 --> 00:01:03,999
+Huh?
+
+2
+00:01:04,000 --> 00:01:05,500
+You're beyond help.
+
+3
+00:01:06,041 --> 00:01:08,290
+Whoa, relax, jumpy.
+
+4
+00:01:08,291 --> 00:01:10,457
+I've got a new idea...
+
+5
+00:01:15,250 --> 00:01:17,540
+Uh, did you just throw that?
+
+6
+00:01:17,541 --> 00:01:18,875
+Stay... Stay back.
+
+7
+00:01:21,750 --> 00:01:22,583
+Oi.
+
+8
+00:01:23,458 --> 00:01:26,208
+What in the seven sumps
+is all this racket?
+
+9
+00:01:28,750 --> 00:01:30,875
+Oi, one of those days, huh?
+
+10
+00:01:32,958 --> 00:01:34,790
+You know those ugly twins,
+
+11
+00:01:34,791 --> 00:01:36,624
+genius and madness.
+
+12
+00:01:36,625 --> 00:01:39,540
+Maybe take the madness outside.
+
+13
+00:01:39,541 --> 00:01:41,999
+I still got a business to...
+
+14
+00:01:42,000 --> 00:01:43,083
+Oh.
+
+15
+00:01:44,291 --> 00:01:45,791
+What's gotten into him?
+
+16
+00:02:03,666 --> 00:02:06,332
+<i>♪ I wake up to the sounds
+Of the silence that allows ♪</i>
+
+17
+00:02:06,333 --> 00:02:09,874
+<i>♪ For my mind to run around
+With my ear up to the ground ♪</i>
+
+18
+00:02:09,875 --> 00:02:12,540
+<i>♪ I'm searching to behold
+The stories that are told ♪</i>
+
+19
+00:02:12,541 --> 00:02:16,124
+{\an8}<i>♪ When my back is to the world
+That was smiling when I turned ♪</i>
+
+20
+00:02:16,125 --> 00:02:21,624
+{\an8}<i>♪ Tell you you're the greatest ♪</i>
+
+21
+00:02:21,625 --> 00:02:27,958
+{\an8}<i>♪ But once you turn, they hate us ♪</i>
+
+22
+00:02:28,666 --> 00:02:31,582
+<i>♪ Oh, the misery ♪</i>
+
+23
+00:02:31,583 --> 00:02:34,707
+<i>♪ Everybody wants to be my enemy ♪</i>
+
+24
+00:02:34,708 --> 00:02:37,832
+{\an8}<i>♪ Oh, spare the sympathy ♪</i>
+
+25
+00:02:37,833 --> 00:02:41,165
+{\an8}<i>♪ Everybody wants to be my enemy ♪</i>
+
+26
+00:02:41,166 --> 00:02:45,708
+<i>♪ Pray it away, I swear
+I'll never be a saint, no way ♪</i>
+
+27
+00:02:46,250 --> 00:02:47,207
+<i>♪ My enemy ♪</i>
+
+28
+00:02:47,208 --> 00:02:50,832
+<i>♪ Pray it away, I swear
+I'll never be a saint ♪</i>
+
+29
+00:02:50,833 --> 00:02:52,541
+<i>♪ Look out for yourself ♪</i>
+
+30
+00:03:18,875 --> 00:03:23,415
+<i>♪ We arrived
+So we'll start the game ♪</i>
+
+31
+00:03:23,416 --> 00:03:25,750
+<i>♪ Start the game ♪</i>
+
+32
+00:03:26,500 --> 00:03:32,291
+<i>♪ Who is playing
+When it all ends the same? ♪</i>
+
+33
+00:03:34,625 --> 00:03:37,540
+<i>♪ Don't take it so hard... ♪</i>
+
+34
+00:03:44,333 --> 00:03:45,666
+Hey, spaceboy,
+
+35
+00:03:46,458 --> 00:03:48,583
+I'm not talking to myself over here.
+
+36
+00:03:49,125 --> 00:03:53,041
+What is up with you?
+You've been out of it all day.
+
+37
+00:03:54,000 --> 00:03:57,249
+I feel like
+I woke up in the wrong universe.
+
+38
+00:03:57,250 --> 00:03:59,915
+This is what happens
+when you stay up all night.
+
+39
+00:03:59,916 --> 00:04:01,665
+Those synapses start firing around
+
+40
+00:04:01,666 --> 00:04:03,499
+like drunk slugs.
+
+41
+00:04:03,500 --> 00:04:06,583
+There's still plenty of time
+before the competition.
+
+42
+00:04:07,125 --> 00:04:09,665
+Okay? We'll work out the kinks.
+
+43
+00:04:09,666 --> 00:04:10,874
+I've got you.
+
+44
+00:04:14,750 --> 00:04:17,000
+Ah, if it isn't Zaun's royalty.
+
+45
+00:04:17,625 --> 00:04:19,041
+My liege.
+
+46
+00:04:20,333 --> 00:04:22,415
+Sit down.
+
+47
+00:04:22,416 --> 00:04:25,208
+Hey, hey, little man.
+Trouble in paradise?
+
+48
+00:04:26,416 --> 00:04:28,415
+Just the usual project woes.
+
+49
+00:04:28,416 --> 00:04:29,915
+Tell me about it.
+
+50
+00:04:29,916 --> 00:04:33,332
+We finally got the hybrids
+to feed off the fissure gases,
+
+51
+00:04:33,333 --> 00:04:36,374
+but the conversion rate's way too low.
+
+52
+00:04:36,375 --> 00:04:37,332
+They hardly grow.
+
+53
+00:04:37,333 --> 00:04:40,457
+They're nowhere near robust enough
+to purify all the air down here.
+
+54
+00:04:40,458 --> 00:04:43,457
+- Unless you plant a million of them.
+- No way we're doing that.
+
+55
+00:04:43,458 --> 00:04:45,790
+And we've tried cultivating the soil,
+
+56
+00:04:45,791 --> 00:04:47,541
+infusing the water.
+
+57
+00:04:48,208 --> 00:04:49,374
+No luck.
+
+58
+00:04:49,375 --> 00:04:51,624
+I'll be right back.
+
+59
+00:04:51,625 --> 00:04:52,707
+Oh, no.
+
+60
+00:04:52,708 --> 00:04:54,916
+Go. Save him from himself.
+
+61
+00:04:58,000 --> 00:04:59,874
+Where would you be without her?
+
+62
+00:05:05,833 --> 00:05:07,208
+Hey, Gert.
+
+63
+00:05:07,708 --> 00:05:10,082
+No. Oh, come on.
+
+64
+00:05:10,083 --> 00:05:11,790
+- Hey...
+- Hey, Gert.
+
+65
+00:05:11,791 --> 00:05:14,665
+Do the Chem Sisters
+have another show coming up?
+
+66
+00:05:14,666 --> 00:05:17,082
+Mylo here is a big fan.
+
+67
+00:05:17,083 --> 00:05:19,083
+Like, huge.
+
+68
+00:05:20,083 --> 00:05:21,165
+Cool.
+
+69
+00:05:21,166 --> 00:05:24,957
+Uh, yeah, the old man's gonna let us
+play the party the night before
+
+70
+00:05:24,958 --> 00:05:28,290
+that Innovators Competition
+you all are gunning for.
+
+71
+00:05:41,833 --> 00:05:43,874
+What would they do without you?
+
+72
+00:05:43,875 --> 00:05:46,457
+There would probably be some arm-flailing.
+
+73
+00:05:49,666 --> 00:05:53,125
+You know, one thing I learned
+as a bartender:
+
+74
+00:05:53,958 --> 00:05:56,874
+As good as it feels
+to pour everyone's drink,
+
+75
+00:05:56,875 --> 00:06:00,541
+you need to fill your own cup
+every now and again.
+
+76
+00:06:01,083 --> 00:06:03,040
+Let me guess.
+
+77
+00:06:03,041 --> 00:06:05,249
+You think I'm holding myself back.
+
+78
+00:06:05,250 --> 00:06:09,583
+I think you're too smart
+to spend your life in a bar.
+
+79
+00:06:15,041 --> 00:06:17,000
+Hey, professor.
+
+80
+00:06:17,500 --> 00:06:20,625
+- Professor?
+- Am I late for a gathering of the minds?
+
+81
+00:06:23,375 --> 00:06:24,458
+Whoa.
+
+82
+00:06:25,583 --> 00:06:26,708
+Oh.
+
+83
+00:06:45,375 --> 00:06:47,415
+One can't shout from the rooftops
+
+84
+00:06:47,416 --> 00:06:49,915
+about being thrust
+into parallel dimensions
+
+85
+00:06:49,916 --> 00:06:52,041
+without awkward consequences.
+
+86
+00:06:53,458 --> 00:06:58,540
+It seems the anomaly which dislodged us
+from our proverbial reality
+
+87
+00:06:58,541 --> 00:07:01,250
+also scattered us across time.
+
+88
+00:07:03,166 --> 00:07:05,208
+Man, I thought I was going crazy.
+
+89
+00:07:06,208 --> 00:07:07,749
+How long have you been here?
+
+90
+00:07:07,750 --> 00:07:10,124
+One thousand,
+one hundred twenty-eight days,
+
+91
+00:07:10,125 --> 00:07:12,957
+six hours, and twenty minutes.
+
+92
+00:07:12,958 --> 00:07:13,916
+Give or take.
+
+93
+00:07:15,666 --> 00:07:18,540
+So you've just been waiting for me
+all this time?
+
+94
+00:07:18,541 --> 00:07:21,999
+Precisely. Or rather, imprecisely.
+
+95
+00:07:22,000 --> 00:07:23,874
+I grew skeptical you'd arrive,
+
+96
+00:07:23,875 --> 00:07:26,749
+even during my unusually long lifetime.
+
+97
+00:07:26,750 --> 00:07:28,750
+What about Jayce? Is he here?
+
+98
+00:07:30,916 --> 00:07:33,957
+I fear he may have wound up elsewhere.
+
+99
+00:07:33,958 --> 00:07:36,540
+The anomaly behaved
+differently around him.
+
+100
+00:07:37,625 --> 00:07:40,416
+Tell me you figured out a way
+to get us home.
+
+101
+00:07:41,458 --> 00:07:44,249
+That is a veritable conundrum.
+
+102
+00:07:44,250 --> 00:07:47,082
+I'm afraid Hextech
+was never invented here.
+
+103
+00:07:47,083 --> 00:07:51,499
+And without a creation
+so prodigious as the Hexgates...
+
+104
+00:07:51,500 --> 00:07:53,124
+No anomaly.
+
+105
+00:07:54,708 --> 00:07:56,582
+Oh, it isn't all bad.
+
+106
+00:07:56,583 --> 00:07:59,832
+I've been able to accomplish
+wonderful things in this world.
+
+107
+00:07:59,833 --> 00:08:01,290
+Give it time to settle.
+
+108
+00:08:01,291 --> 00:08:03,833
+This place will grow on you. You'll see.
+
+109
+00:08:04,625 --> 00:08:06,124
+Grow on me?
+
+110
+00:08:06,125 --> 00:08:08,540
+I have people back home who need me.
+
+111
+00:08:08,541 --> 00:08:10,124
+We don't belong here.
+
+112
+00:08:10,125 --> 00:08:12,957
+And yet we can't leave.
+
+113
+00:08:12,958 --> 00:08:15,832
+I'm gonna find a way back,
+with or without you.
+
+114
+00:08:15,833 --> 00:08:19,166
+- Oh!
+- Oh. Uh...
+
+115
+00:08:19,833 --> 00:08:22,000
+I was gonna go see Vi.
+
+116
+00:08:22,541 --> 00:08:23,582
+Vi?
+
+117
+00:08:23,583 --> 00:08:24,874
+You wanna come?
+
+118
+00:08:26,416 --> 00:08:28,082
+<i>What have we done?</i>
+
+119
+00:09:17,333 --> 00:09:18,166
+Hello?
+
+120
+00:09:20,333 --> 00:09:21,541
+Is anyone out there?
+
+121
+00:09:28,833 --> 00:09:29,666
+Who's there?
+
+122
+00:09:38,833 --> 00:09:39,666
+You.
+
+123
+00:09:42,458 --> 00:09:44,208
+Did you bring me here?
+
+124
+00:09:45,875 --> 00:09:46,833
+Where are we?
+
+125
+00:09:51,750 --> 00:09:52,666
+Wait!
+
+126
+00:10:22,000 --> 00:10:23,000
+No.
+
+127
+00:10:24,666 --> 00:10:25,666
+It can't be.
+
+128
+00:10:32,166 --> 00:10:34,124
+What's with
+the third degree, Ekko?
+
+129
+00:10:34,125 --> 00:10:36,250
+We've been working on this for months.
+
+130
+00:10:37,041 --> 00:10:38,207
+Humor me.
+
+131
+00:10:38,208 --> 00:10:40,749
+You had one of your funky dreams
+
+132
+00:10:40,750 --> 00:10:44,582
+about an energy-storage device
+that you swore would win the competition.
+
+133
+00:10:44,583 --> 00:10:47,457
+So you came to me for help.
+
+134
+00:10:47,458 --> 00:10:49,124
+I came to you?
+
+135
+00:10:49,125 --> 00:10:51,790
+You weren't gonna figure it out yourself.
+
+136
+00:10:51,791 --> 00:10:54,416
+"Zero-loss chemical energy cell."
+
+137
+00:10:56,750 --> 00:10:58,333
+And this invention.
+
+138
+00:10:58,875 --> 00:11:02,165
+You don't have
+some alternative purpose for it?
+
+139
+00:11:02,166 --> 00:11:04,040
+You're the big idea guy.
+
+140
+00:11:04,041 --> 00:11:05,666
+Sorry, sis.
+
+141
+00:11:06,416 --> 00:11:10,291
+Someone's wigging out over his project
+and having an identity crisis again.
+
+142
+00:11:10,875 --> 00:11:11,875
+No names.
+
+143
+00:11:13,250 --> 00:11:17,624
+I got the "not living up to my potential"
+speech from Vander again.
+
+144
+00:11:17,625 --> 00:11:18,958
+Reminds me of you.
+
+145
+00:11:19,500 --> 00:11:20,333
+Hmm?
+
+146
+00:11:21,500 --> 00:11:23,541
+She's dead?
+
+147
+00:11:26,541 --> 00:11:27,375
+How?
+
+148
+00:11:28,625 --> 00:11:30,125
+That's not funny, Ekko.
+
+149
+00:11:31,708 --> 00:11:33,290
+It was a mistake to come here.
+
+150
+00:11:33,291 --> 00:11:36,083
+What's that supposed to mean?
+
+151
+00:11:37,791 --> 00:11:40,958
+Just 'cause you're having a bad day,
+don't take it out on me.
+
+152
+00:11:41,708 --> 00:11:42,708
+Was it you?
+
+153
+00:11:44,583 --> 00:11:46,249
+You gave us the tip.
+
+154
+00:11:46,250 --> 00:11:48,832
+We went on that job because of you.
+
+155
+00:11:48,833 --> 00:11:50,666
+The job.
+
+156
+00:11:51,208 --> 00:11:53,415
+That's why there's no Hextech here.
+
+157
+00:11:53,416 --> 00:11:54,499
+You should leave.
+
+158
+00:11:54,500 --> 00:11:57,415
+Go. Before I do something I regret.
+
+159
+00:11:57,416 --> 00:11:59,708
+Believe me, I'm working on it.
+
+160
+00:12:12,125 --> 00:12:15,416
+<i>♪ Hold me right now ♪</i>
+
+161
+00:12:17,791 --> 00:12:24,290
+<i>♪ To look back
+And I've disappeared ♪</i>
+
+162
+00:12:49,208 --> 00:12:51,457
+Come on. I saw it over here.
+
+163
+00:12:55,708 --> 00:12:57,749
+Care for a cup of tea, sir?
+
+164
+00:12:57,750 --> 00:12:58,708
+Come on.
+
+165
+00:13:09,083 --> 00:13:10,749
+<i>♪ Go spin the wheel ♪</i>
+
+166
+00:13:10,750 --> 00:13:14,500
+<i>♪ And see where it lands ♪</i>
+
+167
+00:13:15,416 --> 00:13:17,415
+<i>♪ Join in the circus ♪</i>
+
+168
+00:13:17,416 --> 00:13:19,749
+<i>♪ Stay for a dance ♪</i>
+
+169
+00:13:19,750 --> 00:13:23,915
+<i>♪ And right when the war quiets down ♪</i>
+
+170
+00:13:23,916 --> 00:13:27,207
+<i>♪ Strike up the band ♪</i>
+
+171
+00:13:27,208 --> 00:13:30,790
+<i>♪ Keep marching on ♪</i>
+
+172
+00:13:30,791 --> 00:13:32,875
+<i>♪ My friends ♪</i>
+
+173
+00:13:33,583 --> 00:13:36,125
+<i>♪ And do what you can ♪</i>
+
+174
+00:13:46,875 --> 00:13:49,749
+<i>♪ Wait till your brothers
+And your sisters ♪</i>
+
+175
+00:13:49,750 --> 00:13:53,540
+<i>♪ See where you been ♪</i>
+
+176
+00:13:53,541 --> 00:13:56,124
+<i>♪ And if you love the journey ♪</i>
+
+177
+00:13:56,125 --> 00:13:58,749
+<i>♪ More than the end ♪</i>
+
+178
+00:13:58,750 --> 00:13:59,665
+<i>♪ Go ahead ♪</i>
+
+179
+00:13:59,666 --> 00:14:02,415
+<i>♪ Just turn that hourglass around ♪</i>
+
+180
+00:14:02,416 --> 00:14:05,790
+<i>♪ And count to ten ♪</i>
+
+181
+00:14:05,791 --> 00:14:07,415
+<i>♪ This ain't goodbye... ♪</i>
+
+182
+00:14:07,416 --> 00:14:09,915
+Violet, don't! Ple--
+
+183
+00:14:09,916 --> 00:14:12,207
+Please, no...
+
+184
+00:14:12,208 --> 00:14:14,666
+<i>♪ It just began ♪</i>
+
+185
+00:14:18,166 --> 00:14:21,541
+<i>♪ March on, my friends ♪</i>
+
+186
+00:14:25,250 --> 00:14:31,457
+<i>♪ Whoa-oa-oa, oh-oh-oh ♪</i>
+
+187
+00:14:31,458 --> 00:14:35,458
+<i>♪ Oh-oh ♪</i>
+
+188
+00:14:38,000 --> 00:14:43,958
+<i>♪ Whoa-oa-oa, oh-oh-oh ♪</i>
+
+189
+00:14:44,458 --> 00:14:50,083
+<i>♪ Oh-oh-oh ♪</i>
+
+190
+00:14:51,166 --> 00:14:53,624
+<i>♪ Go and make some mistakes ♪</i>
+
+191
+00:14:53,625 --> 00:14:57,000
+<i>♪ You live and you learn ♪</i>
+
+192
+00:14:58,083 --> 00:14:59,874
+<i>♪ And where the chips fall ♪</i>
+
+193
+00:14:59,875 --> 00:15:03,999
+<i>♪ Is not your concern ♪</i>
+
+194
+00:15:04,000 --> 00:15:06,874
+<i>♪ Like the wind gonna breeze ♪</i>
+
+195
+00:15:06,875 --> 00:15:09,790
+<i>♪ Fires'll burn ♪</i>
+
+196
+00:15:09,791 --> 00:15:13,707
+<i>♪ Just let the gears ♪</i>
+
+197
+00:15:13,708 --> 00:15:15,250
+<i>♪ My friend ♪</i>
+
+198
+00:15:15,875 --> 00:15:20,457
+<i>♪ Oh, just let the gears ♪</i>
+
+199
+00:15:20,458 --> 00:15:22,666
+<i>♪ My friend ♪</i>
+
+200
+00:15:25,208 --> 00:15:27,207
+<i>♪ Let them turn ♪</i>
+
+201
+00:15:28,875 --> 00:15:30,166
+Thank you very much.
+
+202
+00:16:31,875 --> 00:16:35,541
+You think you can recreate the anomaly
+with these?
+
+203
+00:16:36,125 --> 00:16:37,208
+That's the theory.
+
+204
+00:16:37,958 --> 00:16:39,750
+Inconceivable.
+
+205
+00:16:40,708 --> 00:16:41,875
+So you'll help me?
+
+206
+00:16:42,708 --> 00:16:44,790
+I meant that quite literally.
+
+207
+00:16:44,791 --> 00:16:46,833
+I don't believe this can be done.
+
+208
+00:16:47,375 --> 00:16:49,082
+Tampering with the Arcane
+
+209
+00:16:49,083 --> 00:16:50,749
+never ends well, lad.
+
+210
+00:16:50,750 --> 00:16:52,750
+The risk is far too great.
+
+211
+00:16:54,208 --> 00:16:55,458
+You said I was your pupil.
+
+212
+00:16:56,125 --> 00:16:57,375
+I need a professor.
+
+213
+00:16:58,000 --> 00:16:58,833
+Better yet,
+
+214
+00:16:59,416 --> 00:17:00,333
+a partner.
+
+215
+00:17:02,291 --> 00:17:04,291
+Oh, blast nozzles.
+
+216
+00:17:05,000 --> 00:17:08,124
+How could I forsake
+a brilliant lad in need?
+
+217
+00:17:08,125 --> 00:17:09,375
+<i>Again.</i>
+
+218
+00:18:34,666 --> 00:18:36,625
+<i>I never asked for this.</i>
+
+219
+00:18:39,291 --> 00:18:41,916
+<i>That research is everything.
+My whole life.</i>
+
+220
+00:18:48,333 --> 00:18:49,666
+<i>He was my mentor, Mel.</i>
+
+221
+00:18:50,666 --> 00:18:51,833
+<i>And I betrayed him.</i>
+
+222
+00:18:52,833 --> 00:18:54,833
+<i>You must destroy it.</i>
+
+223
+00:18:55,958 --> 00:18:56,916
+<i>It corrupts.</i>
+
+224
+00:18:57,500 --> 00:18:59,165
+<i>Consumes.</i>
+
+225
+00:18:59,166 --> 00:19:00,957
+<i>I was trying to create magic.</i>
+
+226
+00:19:00,958 --> 00:19:03,458
+- <i>Piltover...</i>
+<i>- It's your time now, Jayce.</i>
+
+227
+00:19:04,250 --> 00:19:05,499
+<i>Perhaps it's time.</i>
+
+228
+00:19:05,500 --> 00:19:06,915
+No, no.
+
+229
+00:19:06,916 --> 00:19:08,582
+<i>For the era of magic.</i>
+
+230
+00:19:08,583 --> 00:19:11,165
+<i>I've seen nations destroyed...</i>
+
+231
+00:19:11,166 --> 00:19:12,166
+<i>Please.</i>
+
+232
+00:19:12,750 --> 00:19:14,708
+<i>...exactly like this.</i>
+
+233
+00:20:23,875 --> 00:20:24,958
+Watch your step.
+
+234
+00:20:26,041 --> 00:20:27,290
+We're almost there.
+
+235
+00:20:27,291 --> 00:20:29,499
+I don't know what this is all about,
+
+236
+00:20:29,500 --> 00:20:33,041
+but if you're trying to apologize,
+dragging me through the...
+
+237
+00:20:37,416 --> 00:20:40,125
+You painted this?
+
+238
+00:20:41,875 --> 00:20:43,125
+I had this dream...
+
+239
+00:20:44,166 --> 00:20:46,291
+where things went another way.
+
+240
+00:20:47,791 --> 00:20:50,375
+She looks so badass.
+
+241
+00:20:51,583 --> 00:20:53,374
+You don't know the half of it.
+
+242
+00:20:53,375 --> 00:20:56,040
+She was the toughest person
+in all of Zaun.
+
+243
+00:20:56,041 --> 00:20:57,707
+Nothing scared her.
+
+244
+00:20:57,708 --> 00:20:59,375
+No, not my sister.
+
+245
+00:21:01,208 --> 00:21:03,625
+Vi was strong because she was afraid.
+
+246
+00:21:04,166 --> 00:21:07,875
+Her fear of losing us
+is what made her fight so hard.
+
+247
+00:21:09,958 --> 00:21:12,915
+- You were different in my dream too.
+- Oh, yeah, buster?
+
+248
+00:21:12,916 --> 00:21:15,957
+Is that what this is about?
+You want me to change?
+
+249
+00:21:15,958 --> 00:21:16,875
+No.
+
+250
+00:21:18,083 --> 00:21:19,708
+No, no, I just...
+
+251
+00:21:21,041 --> 00:21:25,500
+You aren't the kind of person who helps
+other people with their projects.
+
+252
+00:21:26,541 --> 00:21:28,916
+Your ideas change the world.
+
+253
+00:21:29,625 --> 00:21:33,500
+I can't shake the feeling
+that that's who you're supposed to be.
+
+254
+00:21:34,041 --> 00:21:36,125
+Things are good, Ekko.
+
+255
+00:21:37,041 --> 00:21:38,500
+I like my life.
+
+256
+00:21:39,375 --> 00:21:43,290
+I don't wanna lose what makes me "me"
+
+257
+00:21:43,291 --> 00:21:45,250
+chasing some wild dream.
+
+258
+00:21:49,625 --> 00:21:53,958
+Sometimes taking a leap forward
+means leaving a few things behind.
+
+259
+00:21:54,791 --> 00:21:58,082
+You're a real mystery, aren't you, mister?
+
+260
+00:22:00,791 --> 00:22:02,916
+All right, out with it.
+
+261
+00:22:03,458 --> 00:22:04,666
+What do you want from me?
+
+262
+00:23:33,750 --> 00:23:34,583
+Hmm.
+
+263
+00:23:57,125 --> 00:23:58,250
+Huh.
+
+264
+00:24:40,916 --> 00:24:42,208
+It's so small.
+
+265
+00:24:42,916 --> 00:24:45,166
+Golly, we've done it.
+
+266
+00:24:45,708 --> 00:24:46,958
+Halfway there.
+
+267
+00:24:53,125 --> 00:24:55,375
+So, what does it do?
+
+268
+00:24:55,916 --> 00:24:56,958
+Uh...
+
+269
+00:25:03,625 --> 00:25:05,707
+So, what does it do?
+
+270
+00:25:05,708 --> 00:25:07,500
+You just asked me that.
+
+271
+00:25:08,291 --> 00:25:09,207
+No, I didn't.
+
+272
+00:25:09,208 --> 00:25:11,625
+I'm too tired for games.
+
+273
+00:25:16,375 --> 00:25:17,708
+No, I didn't.
+
+274
+00:25:21,958 --> 00:25:23,249
+It's a time loop.
+
+275
+00:25:23,250 --> 00:25:25,500
+Huh? A time loop?
+
+276
+00:25:26,708 --> 00:25:29,416
+- Huh? A time loop?
+- A time loop.
+
+277
+00:25:30,041 --> 00:25:32,832
+You're going back in time.
+
+278
+00:25:32,833 --> 00:25:35,457
+Gadzooks. How did you stumble upon that?
+
+279
+00:25:35,458 --> 00:25:39,374
+I was playing with inversions
+on Jayce's acceleration rune.
+
+280
+00:25:39,375 --> 00:25:40,582
+How far did you go?
+
+281
+00:25:40,583 --> 00:25:42,582
+I don't know. A second?
+
+282
+00:25:42,583 --> 00:25:45,290
+- Try going back further.
+- Take it slow, lad.
+
+283
+00:25:45,291 --> 00:25:48,957
+We wouldn't want to push
+a new invention too far too quickly.
+
+284
+00:25:48,958 --> 00:25:50,250
+Mm...
+
+285
+00:26:23,500 --> 00:26:24,500
+One.
+
+286
+00:26:28,875 --> 00:26:29,875
+Two.
+
+287
+00:26:30,458 --> 00:26:31,583
+Three.
+
+288
+00:26:33,000 --> 00:26:34,540
+- Gadzooks.
+- Four.
+
+289
+00:26:42,875 --> 00:26:44,707
+The limit is four seconds.
+
+290
+00:26:44,708 --> 00:26:47,708
+Are you certain, my boy?
+What were the indicators?
+
+291
+00:26:48,833 --> 00:26:50,166
+Trust me.
+
+292
+00:26:50,750 --> 00:26:52,083
+It's four seconds.
+
+293
+00:26:53,208 --> 00:26:54,374
+- Amazing.
+- Hmm.
+
+294
+00:26:54,375 --> 00:26:56,541
+We could show it off at the party.
+
+295
+00:26:57,500 --> 00:26:59,125
+We aren't done.
+
+296
+00:27:01,125 --> 00:27:03,208
+Please go change before the party.
+
+297
+00:27:09,041 --> 00:27:12,083
+I think I might know
+how to give it a boost.
+
+298
+00:27:14,458 --> 00:27:15,457
+A boost?
+
+299
+00:27:15,458 --> 00:27:17,874
+A momentary upgrade, if you will.
+
+300
+00:27:17,875 --> 00:27:20,124
+That's great. Where do we start?
+
+301
+00:27:20,125 --> 00:27:22,458
+You can start by attending your party.
+
+302
+00:27:23,333 --> 00:27:26,249
+One's thoughts are
+more easily gathered in isolation.
+
+303
+00:27:26,250 --> 00:27:28,832
+And what's the point of a device like this
+
+304
+00:27:28,833 --> 00:27:31,125
+if you don't enjoy the time you have?
+
+305
+00:28:10,916 --> 00:28:14,125
+You load it through here
+and then you wait for it...
+
+306
+00:28:15,958 --> 00:28:17,749
+It's just a prototype for now...
+
+307
+00:28:21,666 --> 00:28:22,915
+There he is.
+
+308
+00:28:22,916 --> 00:28:25,499
+Hey, nervous, kid?
+
+309
+00:28:25,500 --> 00:28:27,207
+Big day tomorrow.
+
+310
+00:28:27,208 --> 00:28:28,958
+It's all I can think about.
+
+311
+00:28:29,875 --> 00:28:31,291
+Where's the little lady?
+
+312
+00:28:31,875 --> 00:28:35,874
+Not sure. She said something
+about making an entrance.
+
+313
+00:28:35,875 --> 00:28:38,916
+She does love a spectacle, eh?
+
+314
+00:28:41,083 --> 00:28:42,083
+Yeah.
+
+315
+00:28:44,375 --> 00:28:48,208
+Hey, in case I don't remember
+to tell you tomorrow,
+
+316
+00:28:49,166 --> 00:28:51,416
+you've always meant the world
+to me, Benzo.
+
+317
+00:28:52,708 --> 00:28:53,874
+Oh.
+
+318
+00:28:53,875 --> 00:28:56,165
+Well, you, uh...
+
+319
+00:28:56,166 --> 00:29:00,624
+Ach. Uh, you...
+Oh, don't get all mushy on me now.
+
+320
+00:29:00,625 --> 00:29:01,541
+Hey.
+
+321
+00:29:03,958 --> 00:29:08,165
+- Making the big man misty, are you?
+- Oh, these damned allergies.
+
+322
+00:29:08,166 --> 00:29:10,415
+You should be proud of yourself, Ekko.
+
+323
+00:29:10,416 --> 00:29:12,875
+Powder's been raving about your Z-Drive.
+
+324
+00:29:13,583 --> 00:29:16,166
+Can't remember the last time
+I saw her so alive.
+
+325
+00:29:17,916 --> 00:29:20,707
+I have the feeling
+that you'll be running this place soon.
+
+326
+00:29:20,708 --> 00:29:23,665
+So there's a chance for us yet.
+
+327
+00:29:23,666 --> 00:29:25,250
+You?
+
+328
+00:29:26,041 --> 00:29:29,665
+Didn't think
+I'd miss your big day, did you?
+
+329
+00:29:29,666 --> 00:29:31,791
+Didn't you try to kill him?
+
+330
+00:29:33,291 --> 00:29:37,624
+Greatest thing we can do in life
+is find the power to forgive.
+
+331
+00:29:37,625 --> 00:29:38,958
+Ach.
+
+332
+00:30:54,166 --> 00:30:55,624
+Some night.
+
+333
+00:30:55,625 --> 00:30:57,083
+It's beautiful.
+
+334
+00:30:58,416 --> 00:31:00,750
+Where'd you learn those moves?
+
+335
+00:31:01,333 --> 00:31:03,916
+<i>Oh, I was just following your lead.</i>
+
+336
+00:31:04,416 --> 00:31:05,750
+<i>Mm.</i>
+
+337
+00:31:06,333 --> 00:31:07,415
+<i>He's got lines.</i>
+
+338
+00:31:09,833 --> 00:31:11,625
+<i>Hey. Uh...</i>
+
+339
+00:31:14,625 --> 00:31:16,125
+I just want to thank you.
+
+340
+00:31:17,000 --> 00:31:18,500
+You know, for everything.
+
+341
+00:31:19,916 --> 00:31:22,583
+<i>I used to dream
+the undercity could be like this.</i>
+
+342
+00:31:23,125 --> 00:31:27,750
+<i>But somewhere, I got consumed
+by all the ways it wasn't.</i>
+
+343
+00:31:29,625 --> 00:31:30,625
+<i>I gave up on it.</i>
+
+344
+00:31:32,250 --> 00:31:33,458
+<i>Gave up on you.</i>
+
+345
+00:31:34,375 --> 00:31:38,250
+I've never seen you
+give up on anything, Ekko.
+
+346
+00:31:41,000 --> 00:31:45,000
+You ever wish
+you could just stay in one moment?
+
+347
+00:31:45,875 --> 00:31:49,791
+Sometimes taking a leap forward means...
+
+348
+00:31:50,875 --> 00:31:52,666
+leaving a few things behind.
+
+349
+00:31:53,208 --> 00:31:55,166
+I promise I'll never forget this.
+
+350
+00:31:55,791 --> 00:31:57,041
+You better not.
+
+351
+00:31:59,250 --> 00:32:00,916
+- Sorry, I...
+- No...
+
+352
+00:32:01,750 --> 00:32:03,083
+It's fine, I...
+
+353
+00:32:06,291 --> 00:32:10,250
+Can we just pretend
+like it's the first time?
+
+354
+00:33:47,666 --> 00:33:50,582
+Ekko, my lad. You're just in time.
+
+355
+00:33:50,583 --> 00:33:52,332
+This is a big upgrade.
+
+356
+00:33:52,333 --> 00:33:53,790
+Just a moment.
+
+357
+00:33:53,791 --> 00:33:56,833
+I only need
+to hook up the final power supply.
+
+358
+00:34:02,458 --> 00:34:03,416
+Whoa.
+
+359
+00:34:19,041 --> 00:34:21,375
+This is where it all started, isn't it?
+
+360
+00:34:24,833 --> 00:34:26,541
+The end of Piltover.
+
+361
+00:34:27,291 --> 00:34:28,583
+Because of Hextech.
+
+362
+00:34:34,916 --> 00:34:36,708
+Why did you ever give me this?
+
+363
+00:34:38,000 --> 00:34:38,833
+Why?
+
+364
+00:34:44,875 --> 00:34:47,250
+It doesn't have to go this way, right?
+
+365
+00:34:50,291 --> 00:34:52,374
+Just tell me there's a chance.
+
+366
+00:35:05,750 --> 00:35:08,540
+Oh, I do wish
+I could apologize to Ms. Powder
+
+367
+00:35:08,541 --> 00:35:10,666
+for co-opting her space like this.
+
+368
+00:35:11,250 --> 00:35:13,250
+It truly was the only way.
+
+369
+00:35:30,541 --> 00:35:31,708
+Send me back.
+
+370
+00:36:10,500 --> 00:36:12,625
+Never a dull moment.
+
+371
+00:36:13,875 --> 00:36:16,665
+I must say that since I've met you, lad,
+
+372
+00:36:16,666 --> 00:36:18,290
+I've truly lived.
+
+373
+00:36:18,291 --> 00:36:19,208
+What?
+
+374
+00:36:20,750 --> 00:36:23,750
+- Back in a wink.
+- No! Heimerdinger, wait! Wait!
+
+375
+00:36:47,875 --> 00:36:49,250
+I won't fail.
+
+376
+00:36:54,708 --> 00:36:56,083
+I swear it.
+
+377
+00:36:58,666 --> 00:36:59,791
+No!
+
+378
+00:37:47,666 --> 00:37:48,708
+Powder?
+
+379
+00:37:49,541 --> 00:37:50,625
+Huh?
+
+380
+00:37:51,916 --> 00:37:52,916
+What happened?
+

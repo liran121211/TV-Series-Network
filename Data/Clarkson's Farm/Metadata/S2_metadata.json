@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Surviving",
+        "released": "2023-02-10",
+        "rating": "8.6",
+        "imdb_id": "tt14986054",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Cowering",
+        "released": "2023-02-10",
+        "rating": "N/A",
+        "imdb_id": "tt20253742",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Schmoozing",
+        "released": "2023-02-10",
+        "rating": "8.8",
+        "imdb_id": "tt20253752",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Badgering",
+        "released": "2023-02-10",
+        "rating": "N/A",
+        "imdb_id": "tt20253756",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Council-ing",
+        "released": "2023-02-10",
+        "rating": "9.1",
+        "imdb_id": "tt20253762",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Counselling",
+        "released": "2023-02-10",
+        "rating": "N/A",
+        "imdb_id": "tt20253766",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Scheming",
+        "released": "2023-02-10",
+        "rating": "N/A",
+        "imdb_id": "tt20253772",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Climaxing",
+        "released": "2023-02-10",
+        "rating": "9.4",
+        "imdb_id": "tt18425310",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Monkey See, Doggie Do/Mommy Fearest",
+        "released": "1998-11-18",
+        "rating": "N/A",
+        "imdb_id": "tt1005607",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Powerpuff Girls\\Subtitles\\S1\\the.powerpuff.girls.2016.s01e01e02.hdtv.x264-w4f.zip"
+    },
+    "2": {
+        "title": "Insect Inside/Powerpuff Bluff",
+        "released": "1998-11-25",
+        "rating": "N/A",
+        "imdb_id": "tt0677591",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Octi Evil/Geshundfight",
+        "released": "1998-12-02",
+        "rating": "N/A",
+        "imdb_id": "tt1005608",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Powerpuff Girls\\Subtitles\\S1\\The.Powerpuff.Girls.2016.S01E03.HDTV.x264-W4F.zip"
+    },
+    "4": {
+        "title": "Buttercrush/Fuzzy Logic",
+        "released": "1998-12-09",
+        "rating": "7.2",
+        "imdb_id": "tt0677582",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Powerpuff Girls\\Subtitles\\S1\\the.powerpuff.girls.2016.s01e04.HDTV.x264-QCF.zip"
+    },
+    "5": {
+        "title": "Boogie Frights/Abracadaver",
+        "released": "1998-12-16",
+        "rating": "N/A",
+        "imdb_id": "tt1005605",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Powerpuff Girls\\Subtitles\\S1\\the.powerpuff.girls.2016.s01e05.hdtv.x264-w4f.zip"
+    },
+    "6": {
+        "title": "Telephonies/Tough Love",
+        "released": "1998-12-23",
+        "rating": "N/A",
+        "imdb_id": "tt1005609",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Powerpuff Girls\\Subtitles\\S1\\the.powerpuff.girls.2016.s01e06.hdtv.x264-w4f.zip"
+    },
+    "7": {
+        "title": "Major Competition/Mr. Mojo's Rising",
+        "released": "1999-01-06",
+        "rating": "N/A",
+        "imdb_id": "tt1005606",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Powerpuff Girls\\Subtitles\\S1\\The.Powerpuff.Girls.S01E07.WEB-DL.x264-RARBG.zip"
+    },
+    "11": {
+        "title": "Just Another Manic Mojo/Mime for a Change",
+        "released": "1999-02-03",
+        "rating": "N/A",
+        "imdb_id": "tt1048802",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Rowdyruff Boys",
+        "released": "1999-04-07",
+        "rating": "N/A",
+        "imdb_id": "tt0677599",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

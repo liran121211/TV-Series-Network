@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Elephants Can Remember",
+        "released": "2014-08-11",
+        "rating": "8.0",
+        "imdb_id": "tt2119591",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S13\\Agatha_Christie__Poirot_S13E01_-_Elephants_Can_Remember.HDTV.thebox.Hannibal.HIS13E1.zip"
+    },
+    "2": {
+        "title": "The Big Four",
+        "released": "2014-07-27",
+        "rating": "7.2",
+        "imdb_id": "tt2119592",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S13\\Agatha_Christie-_Poirot_S13E02_HDTV.x264-RiVERS13E2.zip"
+    },
+    "3": {
+        "title": "Dead Man's Folly",
+        "released": "2014-08-03",
+        "rating": "7.9",
+        "imdb_id": "tt2119590",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S13\\Agatha_Christie-_Poirot_S13E03_HDTV.x264-RiVERS13E3.zip"
+    },
+    "4": {
+        "title": "The Labours of Hercules",
+        "released": "2014-08-18",
+        "rating": "8.1",
+        "imdb_id": "tt2119593",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Curtain: Poirot's Last Case",
+        "released": "2014-08-25",
+        "rating": "8.6",
+        "imdb_id": "tt2119589",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

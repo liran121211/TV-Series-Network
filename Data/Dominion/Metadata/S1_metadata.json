@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2014-06-19",
+        "rating": "N/A",
+        "imdb_id": "tt3396696",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Godspeed",
+        "released": "2014-06-26",
+        "rating": "N/A",
+        "imdb_id": "tt3592770",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Broken Places",
+        "released": "2014-07-03",
+        "rating": "N/A",
+        "imdb_id": "tt3815940",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Flood",
+        "released": "2014-07-10",
+        "rating": "N/A",
+        "imdb_id": "tt3839020",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Something Borrowed",
+        "released": "2014-07-17",
+        "rating": "N/A",
+        "imdb_id": "tt3862298",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Black Eyes Blue",
+        "released": "2014-07-24",
+        "rating": "7.8",
+        "imdb_id": "tt3868420",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Ouroboros",
+        "released": "2014-07-31",
+        "rating": "7.7",
+        "imdb_id": "tt3875124",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Beware Those Closest to You",
+        "released": "2014-08-07",
+        "rating": "7.8",
+        "imdb_id": "tt3894452",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

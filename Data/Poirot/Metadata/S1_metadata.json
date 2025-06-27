@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Adventure of the Clapham Cook",
+        "released": "1989-01-08",
+        "rating": "7.5",
+        "imdb_id": "tt0483459",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S1\\Agatha_Christie's_Poirot_(David_Suchet)_S01E01_1080p_H.264_(moviesbyrizzo)S1E1.zip"
+    },
+    "2": {
+        "title": "Murder in the Mews",
+        "released": "1989-01-15",
+        "rating": "N/A",
+        "imdb_id": "tt0676156",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S1\\PoirotS01E02Murder_In_The_MewsS1E2.zip"
+    },
+    "3": {
+        "title": "The Adventure of Johnnie Waverly",
+        "released": "1989-01-22",
+        "rating": "6.9",
+        "imdb_id": "tt0483458",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S1\\PoirotS01E03The_Adventure_Of_Johnnie_WaverlyS1E3.zip"
+    },
+    "4": {
+        "title": "Four and Twenty Blackbirds",
+        "released": "1989-01-29",
+        "rating": "7.2",
+        "imdb_id": "tt0676150",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Third Floor Flat",
+        "released": "1989-02-05",
+        "rating": "7.5",
+        "imdb_id": "tt0676188",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Triangle at Rhodes",
+        "released": "1989-02-12",
+        "rating": "7.4",
+        "imdb_id": "tt0676192",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Problem at Sea",
+        "released": "1989-02-19",
+        "rating": "7.3",
+        "imdb_id": "tt0676186",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Incredible Theft",
+        "released": "1989-02-26",
+        "rating": "7.1",
+        "imdb_id": "tt0483460",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The King of Clubs",
+        "released": "1989-03-12",
+        "rating": "7.0",
+        "imdb_id": "tt0676178",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Dream",
+        "released": "1989-03-19",
+        "rating": "7.7",
+        "imdb_id": "tt0676173",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

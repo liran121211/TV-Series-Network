@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "The Holy Trinity",
+        "released": "2016-11-18",
+        "rating": "8.9",
+        "imdb_id": "tt5715192",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S1\\The.Grand.Tour.S01E01-E10.1080p.WEBRip.X264-DEFLATES1E1.zip"
+    },
+    "2": {
+        "title": "Operation Desert Stumble",
+        "released": "2016-11-25",
+        "rating": "6.8",
+        "imdb_id": "tt6068824",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S1\\The_Grand_Tour_S01E02_HDTV_x264-RMTeamS1E2.zip"
+    },
+    "3": {
+        "title": "Opera, Arts and Donuts",
+        "released": "2016-12-02",
+        "rating": "8.2",
+        "imdb_id": "tt6068828",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S1\\The.Grand.Tour.S01E03.WEBRip.X264-DEFLATE[ettv]-HIS1E3.zip"
+    },
+    "4": {
+        "title": "Enviro-mental",
+        "released": "2016-12-09",
+        "rating": "8.1",
+        "imdb_id": "tt6068832",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S1\\The.Grand.Tour.S01E04.WEBRip.X264-DEFLATE[ettv]-HIS1E4.zip"
+    },
+    "5": {
+        "title": "Morroccan Roll",
+        "released": "2016-12-16",
+        "rating": "8.1",
+        "imdb_id": "tt6068834",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S1\\The.Grand.Tour.S01E05.WEBRip.X264-DEFLATE[ettv]S1E5.zip"
+    },
+    "6": {
+        "title": "Happy Finnish Christmas",
+        "released": "2016-12-23",
+        "rating": "N/A",
+        "imdb_id": "tt6068836",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S1\\The.Grand.Tour.S01E06.Happy.Finnish.Christmas.720p.WEBRip.2CH.x265.HEVC-PSAS1E6.zip"
+    },
+    "7": {
+        "title": "The Beach (Buggy) Boys - Part 1",
+        "released": "2016-12-30",
+        "rating": "8.7",
+        "imdb_id": "tt6068840",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S1\\The.Grand.Tour.S01E07.WEBRip.X264-DEFLATE-HIS1E7.zip"
+    },
+    "8": {
+        "title": "The Beach (Buggy) Boys - Part 2",
+        "released": "2016-12-31",
+        "rating": "8.6",
+        "imdb_id": "tt6068844",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S1\\The.Grand.Tour.S01E08.WEBRip.X264-DEFLATE-HIS1E8.zip"
+    },
+    "9": {
+        "title": "Berks to the Future",
+        "released": "2017-01-06",
+        "rating": "N/A",
+        "imdb_id": "tt6068846",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Grand Tour\\Subtitles\\S1\\The.Grand.Tour.S01E09.WEBRip.X264-DEFLATE-HIS1E9.zip"
+    },
+    "10": {
+        "title": "Dumb Fight at the O.K. Coral",
+        "released": "2017-01-13",
+        "rating": "7.8",
+        "imdb_id": "tt6068850",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Italian Lessons",
+        "released": "2017-01-20",
+        "rating": "N/A",
+        "imdb_id": "tt6068852",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "[censored] to [censored]",
+        "released": "2017-01-27",
+        "rating": "8.5",
+        "imdb_id": "tt6068854",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Past v Future",
+        "released": "2017-02-03",
+        "rating": "N/A",
+        "imdb_id": "tt6371376",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

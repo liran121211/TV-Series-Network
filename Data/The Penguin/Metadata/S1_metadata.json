@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "After Hours",
+        "released": "2024-09-18",
+        "rating": "8.7",
+        "imdb_id": "tt16358420",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Inside Man",
+        "released": "2024-09-29",
+        "rating": "8.4",
+        "imdb_id": "tt26749846",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Bliss",
+        "released": "2024-10-05",
+        "rating": "9.0",
+        "imdb_id": "tt26749845",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Cent'Anni",
+        "released": "2024-10-12",
+        "rating": "9.4",
+        "imdb_id": "tt26749847",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Homecoming",
+        "released": "2024-10-20",
+        "rating": "8.7",
+        "imdb_id": "tt26749852",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Gold Summit",
+        "released": "2024-10-27",
+        "rating": "8.6",
+        "imdb_id": "tt26749854",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Top Hat",
+        "released": "2024-11-03",
+        "rating": "8.9",
+        "imdb_id": "tt26749858",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "A Great or Little Thing",
+        "released": "2024-11-09",
+        "rating": "9.6",
+        "imdb_id": "tt26749860",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

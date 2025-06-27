@@ -1,0 +1,50 @@
+{
+    "2": {
+        "title": "Episode #1.2",
+        "released": "2010-10-13",
+        "rating": "5.0",
+        "imdb_id": "tt1742607",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #1.3",
+        "released": "2010-10-17",
+        "rating": "N/A",
+        "imdb_id": "tt1747717",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #1.8",
+        "released": "2010-11-03",
+        "rating": "N/A",
+        "imdb_id": "tt1752602",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode #1.9",
+        "released": "2010-11-07",
+        "rating": "N/A",
+        "imdb_id": "tt1758495",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Episode #1.10",
+        "released": "2010-11-10",
+        "rating": "N/A",
+        "imdb_id": "tt1758494",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Only Way Is EsseXmas 2010 Special",
+        "released": "2010-12-24",
+        "rating": "N/A",
+        "imdb_id": "tt1799038",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

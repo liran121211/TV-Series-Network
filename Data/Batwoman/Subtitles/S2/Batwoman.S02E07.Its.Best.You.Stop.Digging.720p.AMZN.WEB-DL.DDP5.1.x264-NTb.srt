@@ -1,0 +1,3547 @@
+﻿1
+00:00:00,217 --> 00:00:01,918
+<i>Previously, on</i>
+<font color="#ffff00">"Batwoman"...</font>
+
+2
+00:00:02,003 --> 00:00:03,559
+Ryan's only hope
+is the desert Rose,
+
+3
+00:00:03,644 --> 00:00:05,056
+<i>which is on Coryana
+with Kate.</i>
+
+4
+00:00:05,141 --> 00:00:06,830
+- Who's Safiyah?
+- The woman who has my daughter.
+
+5
+00:00:06,914 --> 00:00:08,411
+We can't locate her,
+but since this was
+
+6
+00:00:08,495 --> 00:00:10,473
+the last thing on Kate's phone,
+we think it will help.
+
+7
+00:00:10,556 --> 00:00:11,830
+The many arms
+will kill whoever
+
+8
+00:00:11,914 --> 00:00:13,194
+lays hands
+on that painting.
+
+9
+00:00:13,279 --> 00:00:14,895
+You'll never find
+Coryana.
+
+10
+00:00:15,026 --> 00:00:17,797
+The painting gets us to Coryana?
+Is it a map?
+
+11
+00:00:25,113 --> 00:00:28,635
+Aah! It feels like
+my brain is hemorrhaging.
+
+12
+00:00:28,720 --> 00:00:30,240
+It's even nastier
+since yesterday.
+
+13
+00:00:30,324 --> 00:00:32,004
+It kind of reeks, too.
+It kind of...
+
+14
+00:00:32,089 --> 00:00:33,768
+Thanks, Luke!
+Very helpful!
+
+15
+00:00:33,853 --> 00:00:35,563
+Ok. Remember
+a few days ago
+
+16
+00:00:35,648 --> 00:00:37,982
+when I deleted half the dvr
+to make room for your shows?
+
+17
+00:00:38,067 --> 00:00:40,704
+- What?
+- Just remember you like me, ok?
+
+18
+00:00:57,439 --> 00:00:59,561
+- What the hell just happened?
+- I am trying really hard
+
+19
+00:00:59,645 --> 00:01:01,448
+not to seriously
+freak out right now,
+
+20
+00:01:01,553 --> 00:01:02,874
+but I'm pretty sure
+the kryptonite
+
+21
+00:01:02,959 --> 00:01:04,708
+just entered her brain.
+
+22
+00:01:09,370 --> 00:01:11,515
+<font color=#FF00FF>*BATWOMAN*</font>
+<font color=#00FF00>Season 02  Episode 07</font>
+
+23
+00:01:11,600 --> 00:01:13,559
+Episode Title:
+<font color=#FFc30f>"It's Best You Stop Digging "</font>
+
+24
+00:01:13,644 --> 00:01:14,653
+Aired on:
+<font color="#00ffff">March 14, 2021</font>
+
+25
+00:01:14,738 --> 00:01:16,545
+I not only
+have to fly to Gotham,
+
+26
+00:01:16,630 --> 00:01:18,513
+but then you make me
+Wade through a mile
+
+27
+00:01:18,597 --> 00:01:20,516
+of rabid rats
+to find you?
+
+28
+00:01:20,600 --> 00:01:22,182
+It's a wee bit remote,
+
+29
+00:01:22,266 --> 00:01:24,598
+but these types of places
+kind of have to be.
+
+30
+00:01:24,683 --> 00:01:29,473
+This was ocean's smoke-out,
+wu-wu meditation spot.
+
+31
+00:01:30,137 --> 00:01:31,221
+Was?
+
+32
+00:01:31,596 --> 00:01:34,720
+As promised,
+Tatiana.
+
+33
+00:01:35,013 --> 00:01:38,758
+I think you'll find
+the ocean is dead calm.
+
+34
+00:01:39,584 --> 00:01:42,488
+Got to admit I didn't
+think you had it in you.
+
+35
+00:01:42,593 --> 00:01:43,907
+Unh!
+
+36
+00:01:44,343 --> 00:01:48,004
+You really shouldn't
+be thinking at all, Tatiana.
+
+37
+00:01:48,425 --> 00:01:50,868
+It's not your strong suit.
+
+38
+00:01:50,953 --> 00:01:52,898
+I never would have
+traded that map for Alice
+
+39
+00:01:52,982 --> 00:01:54,989
+if I'd known I'd be forced
+to hand it right back over
+
+40
+00:01:55,073 --> 00:01:56,228
+to a bunch of thugs.
+
+41
+00:01:56,313 --> 00:01:58,109
+Some highly paid thugs
+it turns out.
+
+42
+00:01:58,194 --> 00:02:01,971
+Aaron helzinger wanted the desert
+Rose to heal his damaged amygdala.
+
+43
+00:02:02,056 --> 00:02:03,455
+He also claimed that
+Hamilton doctors
+
+44
+00:02:03,539 --> 00:02:04,921
+had been experimenting
+on his brain.
+
+45
+00:02:05,005 --> 00:02:07,042
+We can assume
+those same doctors
+
+46
+00:02:07,127 --> 00:02:09,828
+were the ones who sent him to
+Mary and me for more antidote.
+
+47
+00:02:09,912 --> 00:02:11,567
+These are all
+the doctors he's seen?
+
+48
+00:02:11,652 --> 00:02:14,205
+Yeah. Most of them work for
+upstanding regional hospitals
+
+49
+00:02:14,290 --> 00:02:16,408
+except one...
+Dr. Ethan Rogers.
+
+50
+00:02:16,493 --> 00:02:19,782
+Rogers was Helzinger's last
+known neurologist, worked in a lab.
+
+51
+00:02:19,867 --> 00:02:22,311
+Appears to have been running
+off-the-grid medical experiments.
+
+52
+00:02:22,396 --> 00:02:24,396
+You think Rogers was
+responsible for taking the map?
+
+53
+00:02:24,480 --> 00:02:26,010
+We found that
+garnick logistics was owned
+
+54
+00:02:26,094 --> 00:02:29,169
+by an offshore company held
+by Hamilton dynamics.
+
+55
+00:02:29,254 --> 00:02:31,196
+It appears we have
+unearthed yet another
+
+56
+00:02:31,280 --> 00:02:33,429
+of Catherine's
+dirty, little secrets.
+
+57
+00:02:34,014 --> 00:02:37,237
+- Let's go get that map, sir.
+- Let's go get that map.
+
+58
+00:02:37,338 --> 00:02:39,578
+Good morning,
+my little lesbian pet.
+
+59
+00:02:44,336 --> 00:02:45,702
+What is this?
+
+60
+00:02:46,103 --> 00:02:48,573
+Oh, this? Yeah.
+This is storytime.
+
+61
+00:02:48,885 --> 00:02:52,171
+See, you are going to take
+me down memoryless Lane,
+
+62
+00:02:52,256 --> 00:02:54,253
+tell me the who, what,
+where, and why
+
+63
+00:02:54,338 --> 00:02:57,429
+ocean and I were
+experiencing fleeting moments
+
+64
+00:02:57,514 --> 00:02:58,867
+of forgotten memory.
+
+65
+00:02:58,952 --> 00:03:01,784
+Does it really matter?
+He's dead.
+
+66
+00:03:01,868 --> 00:03:04,124
+Yeah. Well, I think you'll
+find you have that in common
+
+67
+00:03:04,209 --> 00:03:05,819
+if you don't start
+talking!
+
+68
+00:03:05,904 --> 00:03:07,778
+Thought you'd figured it
+out by now.
+
+69
+00:03:07,863 --> 00:03:11,411
+Safiyah had
+your memories wiped.
+
+70
+00:03:11,608 --> 00:03:15,605
+I know, but Safiyah
+rules over an island.
+
+71
+00:03:15,722 --> 00:03:17,721
+I was an orphan
+runaway.
+
+72
+00:03:17,890 --> 00:03:20,367
+What was so threatening
+about little old me?
+
+73
+00:03:20,744 --> 00:03:23,707
+To understand what made
+you a threat,
+
+74
+00:03:23,890 --> 00:03:27,077
+you have to understand
+what made you appealing.
+
+75
+00:03:27,714 --> 00:03:31,110
+You and Safiyah had
+a common enemy.
+
+76
+00:03:31,463 --> 00:03:34,560
+Catherine Hamilton?
+I remember.
+
+77
+00:03:34,653 --> 00:03:36,832
+After Catherine
+burned Safiyah
+
+78
+00:03:36,917 --> 00:03:38,423
+on an island
+defense system,
+
+79
+00:03:38,655 --> 00:03:42,355
+Safiyah instructed us
+to steal one of her yachts
+
+80
+00:03:42,440 --> 00:03:44,079
+to teach her a lesson.
+
+81
+00:03:44,643 --> 00:03:48,160
+Turns out vengeful minds
+think alike
+
+82
+00:03:48,245 --> 00:03:51,335
+because we found you
+stowed away in the cabin,
+
+83
+00:03:51,420 --> 00:03:55,540
+wearing her clothes, swilling
+her 5-figure bottles of champagne.
+
+84
+00:04:01,493 --> 00:04:02,794
+Why the hell
+am I here?
+
+85
+00:04:02,879 --> 00:04:04,880
+Can I kill
+her now?
+
+86
+00:04:07,563 --> 00:04:09,655
+Leave us, please.
+
+87
+00:04:10,261 --> 00:04:12,683
+She's a filthy
+outsider.
+
+88
+00:04:12,768 --> 00:04:14,540
+- We have no use for her.
+- She is my prisoner.
+
+89
+00:04:14,624 --> 00:04:16,552
+I will deal with her
+my way.
+
+90
+00:04:16,740 --> 00:04:19,377
+You fought off 4
+of my men
+
+91
+00:04:19,462 --> 00:04:20,663
+before we put you down.
+
+92
+00:04:20,748 --> 00:04:23,539
+To me, you were
+a feral animal,
+
+93
+00:04:23,624 --> 00:04:26,747
+but to Safiyah,
+you were something else.
+
+94
+00:04:26,832 --> 00:04:29,504
+You were special.
+
+95
+00:04:31,772 --> 00:04:34,958
+Relax. I'm not
+going to hurt you,
+
+96
+00:04:35,895 --> 00:04:38,944
+and from the looks of
+what you did to my men,
+
+97
+00:04:39,116 --> 00:04:41,176
+I wouldn't stand
+a chance.
+
+98
+00:04:41,315 --> 00:04:43,369
+Why am I here?
+
+99
+00:04:43,627 --> 00:04:45,295
+What do you want?
+
+100
+00:04:46,067 --> 00:04:48,565
+First, I'd like to know why
+a beautiful young woman
+
+101
+00:04:48,650 --> 00:04:50,531
+with her entire life
+ahead of her
+
+102
+00:04:50,616 --> 00:04:52,529
+was found sequestered
+away on a boat
+
+103
+00:04:52,614 --> 00:04:54,446
+floating in the middle
+of nowhere.
+
+104
+00:04:54,531 --> 00:04:58,153
+Let's just say I've grown
+accustomed to small spaces.
+
+105
+00:04:58,290 --> 00:05:01,501
+The real world can be an
+overwhelming place sometimes.
+
+106
+00:05:02,922 --> 00:05:04,623
+I understand we both
+have a bone to pick
+
+107
+00:05:04,708 --> 00:05:06,830
+with Catherine
+Hamilton-Kane.
+
+108
+00:05:06,985 --> 00:05:11,575
+She convinced
+my entire family
+
+109
+00:05:11,660 --> 00:05:17,043
+I was dead while I spent
+the last 11 years
+
+110
+00:05:17,128 --> 00:05:19,501
+in my kidnapper's
+basement cell.
+
+111
+00:05:20,928 --> 00:05:22,968
+And here you are,
+
+112
+00:05:23,181 --> 00:05:26,421
+a siren once trapped
+in a net,
+
+113
+00:05:26,604 --> 00:05:29,395
+who somehow
+found her way out.
+
+114
+00:05:31,267 --> 00:05:34,390
+Safiyah liked you
+because she was inspired by you.
+
+115
+00:05:34,474 --> 00:05:36,814
+Whatever story you told her
+of your captivity,
+
+116
+00:05:36,899 --> 00:05:39,685
+you did the one thing
+she never could...
+
+117
+00:05:41,115 --> 00:05:44,196
+Escape. She would never
+admit it,
+
+118
+00:05:44,281 --> 00:05:48,529
+but to this day, she considers
+herself a prisoner of Coryana.
+
+119
+00:05:48,614 --> 00:05:50,405
+Oh. Poor thing.
+
+120
+00:05:50,635 --> 00:05:53,144
+It must be so hard
+being handed a kingdom,
+
+121
+00:05:53,229 --> 00:05:54,954
+but I remember
+all of this.
+
+122
+00:05:55,073 --> 00:05:56,614
+When did ocean
+factor in?
+
+123
+00:05:56,707 --> 00:06:00,798
+When Safiyah realized
+you had purpose.
+
+124
+00:06:00,924 --> 00:06:02,929
+Technically,
+you were our prisoner,
+
+125
+00:06:03,014 --> 00:06:06,478
+but she wanted to harness
+the rage you had for Catherine
+
+126
+00:06:06,564 --> 00:06:09,015
+by making you one
+of her loyal soldiers
+
+127
+00:06:09,100 --> 00:06:14,223
+except you were
+an untamed and angry girl.
+
+128
+00:06:14,628 --> 00:06:17,339
+You needed discipline.
+
+129
+00:06:21,126 --> 00:06:24,167
+And Safiyah knew exactly
+who would teach you
+
+130
+00:06:24,252 --> 00:06:26,023
+how to be a good,
+little soldier.
+
+131
+00:06:30,865 --> 00:06:32,296
+Ocean.
+
+132
+00:06:35,885 --> 00:06:37,110
+Hi.
+
+133
+00:06:37,712 --> 00:06:40,582
+There are
+very few rules on our island...
+
+134
+00:06:40,771 --> 00:06:45,038
+No leaving, no stealing
+the desert Rose,
+
+135
+00:06:46,237 --> 00:06:49,902
+and if Safiyah wants
+something, she gets it,
+
+136
+00:06:49,987 --> 00:06:52,615
+and Safiyah wanted
+your loyalty
+
+137
+00:06:52,700 --> 00:06:54,907
+so that after you went home
+to Gotham
+
+138
+00:06:54,991 --> 00:06:56,991
+to get revenge
+against your family
+
+139
+00:06:57,076 --> 00:07:00,252
+you would come back
+and join hers.
+
+140
+00:07:00,337 --> 00:07:02,234
+And what did I want?
+
+141
+00:07:02,921 --> 00:07:06,088
+You wanted ocean.
+
+142
+00:07:15,057 --> 00:07:17,140
+Hey. Come here.
+
+143
+00:07:17,225 --> 00:07:19,017
+Sophie thinks they might
+know who took the map.
+
+144
+00:07:19,101 --> 00:07:20,899
+They're bringing an
+army of crows to his work.
+
+145
+00:07:20,983 --> 00:07:22,274
+So what happens next?
+Does Ryan suit up
+
+146
+00:07:22,358 --> 00:07:23,518
+and jump on the jet
+with them?
+
+147
+00:07:23,603 --> 00:07:25,110
+No. She's never
+gonna make it.
+
+148
+00:07:25,195 --> 00:07:26,735
+She has acute radiation.
+
+149
+00:07:26,820 --> 00:07:28,569
+Her bone marrow
+is disintegrating.
+
+150
+00:07:28,813 --> 00:07:30,479
+Her circulatory system
+is failing.
+
+151
+00:07:30,563 --> 00:07:32,479
+Ok. So what do you
+suggest?
+
+152
+00:07:32,562 --> 00:07:34,004
+I think we need to ask
+my dad to bring
+
+153
+00:07:34,087 --> 00:07:35,769
+a flower back
+with Kate.
+
+154
+00:07:35,853 --> 00:07:38,102
+If he finds the map
+and if he gets there in time,
+
+155
+00:07:38,186 --> 00:07:40,338
+not to mention, Mary, that the
+man just shut down your clinic.
+
+156
+00:07:40,422 --> 00:07:41,571
+- I know.
+- How do you think he'll react to
+
+157
+00:07:41,655 --> 00:07:42,561
+finding out that you're
+on the bat team?
+
+158
+00:07:42,646 --> 00:07:45,674
+I'm still in
+the brainstorming phase.
+
+159
+00:07:47,430 --> 00:07:49,012
+Oh!
+
+160
+00:07:49,393 --> 00:07:50,699
+Ryan!
+
+161
+00:08:00,981 --> 00:08:03,096
+So you're telling me
+that...
+
+162
+00:08:04,078 --> 00:08:07,294
+A little crush
+on the first cute boy
+
+163
+00:08:07,379 --> 00:08:09,441
+I laid eyes on
+after escaping captivity
+
+164
+00:08:09,526 --> 00:08:10,937
+for 11 years
+
+165
+00:08:11,146 --> 00:08:14,370
+threw the island queen
+into a tizzy?
+
+166
+00:08:14,643 --> 00:08:15,962
+It wasn't like that.
+
+167
+00:08:17,279 --> 00:08:20,947
+In fact, at first,
+no one even noticed.
+
+168
+00:08:21,267 --> 00:08:22,555
+Let me guess-
+
+169
+00:08:22,640 --> 00:08:25,177
+clandestine trysts
+by the water well?
+
+170
+00:08:25,262 --> 00:08:26,487
+No.
+
+171
+00:08:27,197 --> 00:08:28,929
+The reason
+no one noticed
+
+172
+00:08:29,014 --> 00:08:31,605
+was because you two
+hated each other.
+
+173
+00:08:33,524 --> 00:08:34,726
+Unh!
+
+174
+00:08:35,010 --> 00:08:36,505
+Now use my weight
+against me.
+
+175
+00:08:38,511 --> 00:08:40,011
+Unh!
+
+176
+00:08:43,211 --> 00:08:44,920
+ Aah! Ohh!
+
+177
+00:08:49,307 --> 00:08:50,806
+The game
+is never over.
+
+178
+00:08:50,891 --> 00:08:52,098
+What's the point
+of this?
+
+179
+00:08:52,182 --> 00:08:54,098
+Has anyone ever heard
+of a gun?
+
+180
+00:08:54,269 --> 00:08:56,389
+Guns can jam,
+get taken.
+
+181
+00:08:56,473 --> 00:08:57,805
+The real fight
+is in here,
+
+182
+00:08:57,889 --> 00:09:00,221
+and that they can't
+take away.
+
+183
+00:09:00,305 --> 00:09:03,678
+Preparation, engagement,
+commitment.
+
+184
+00:09:03,762 --> 00:09:06,386
+Surrendering to false gods
+and ideologies.
+
+185
+00:09:06,470 --> 00:09:07,886
+What's that
+supposed to mean?
+
+186
+00:09:07,970 --> 00:09:10,467
+It means there is
+a whole world
+
+187
+00:09:10,551 --> 00:09:13,946
+outside the island that
+you know nothing about...
+
+188
+00:09:14,031 --> 00:09:16,701
+Books, food, electricity...
+
+189
+00:09:16,786 --> 00:09:19,026
+And Safiyah likes to
+keep it that way
+
+190
+00:09:19,111 --> 00:09:23,364
+so that you stay close
+and loyal and uninspired.
+
+191
+00:09:26,388 --> 00:09:27,780
+Unh!
+
+192
+00:09:35,890 --> 00:09:37,514
+As the weeks passed,
+
+193
+00:09:37,668 --> 00:09:40,349
+you two became
+each other's sparring partners.
+
+194
+00:09:55,334 --> 00:09:57,849
+I think Safiyah
+will like you.
+
+195
+00:09:59,220 --> 00:10:00,385
+This is a waste
+of time.
+
+196
+00:10:00,470 --> 00:10:02,282
+You're not even
+trying.
+
+197
+00:10:03,327 --> 00:10:05,201
+You're wasting
+your own time.
+
+198
+00:10:05,285 --> 00:10:06,425
+Well, if it's all
+the same to you,
+
+199
+00:10:06,509 --> 00:10:08,147
+I'd rather waste my time
+and go get drunk.
+
+200
+00:10:08,260 --> 00:10:09,676
+W-What do you really want?
+
+201
+00:10:09,844 --> 00:10:12,592
+Revenge?
+Why?
+
+202
+00:10:12,946 --> 00:10:15,063
+Because your family moved
+on after more than a decade?
+
+203
+00:10:15,157 --> 00:10:17,894
+Catherine Hamilton lied
+through her teeth
+
+204
+00:10:17,979 --> 00:10:19,166
+so they would
+forget me.
+
+205
+00:10:19,250 --> 00:10:21,054
+Or maybe she did them
+a favor.
+
+206
+00:10:21,139 --> 00:10:22,357
+You said they looked
+for a year.
+
+207
+00:10:22,441 --> 00:10:24,544
+You weren't gonna be found.
+What were they supposed to do,
+
+208
+00:10:24,627 --> 00:10:26,353
+sit around and be miserable
+for the next decade?
+
+209
+00:10:26,437 --> 00:10:27,787
+Is that really
+what you wanted,
+
+210
+00:10:27,872 --> 00:10:31,619
+the family you supposedly
+love and miss so much?
+
+211
+00:10:31,704 --> 00:10:34,025
+You don't need to learn
+how to fight, Alice.
+
+212
+00:10:34,194 --> 00:10:35,986
+You need to learn
+how to feel.
+
+213
+00:10:53,103 --> 00:10:54,658
+Baby...
+
+214
+00:10:55,992 --> 00:10:58,600
+Are you sure you want to
+be going where you're going?
+
+215
+00:11:00,601 --> 00:11:02,017
+ You know
+I have faith
+
+216
+00:11:02,100 --> 00:11:03,475
+in your
+decision-making.
+
+217
+00:11:03,559 --> 00:11:05,307
+All I'm cautioning
+is be mindful
+
+218
+00:11:05,391 --> 00:11:06,807
+the company you keep.
+
+219
+00:11:06,891 --> 00:11:09,115
+Other people judge
+your friends.
+
+220
+00:11:09,298 --> 00:11:12,361
+Mama... angelique is
+a good person.
+
+221
+00:11:12,455 --> 00:11:14,251
+Mm-hmm. She also
+gets in trouble,
+
+222
+00:11:14,335 --> 00:11:16,754
+and I don't want you
+getting roped into her drama.
+
+223
+00:11:17,592 --> 00:11:19,175
+You were put
+on this earth
+
+224
+00:11:19,260 --> 00:11:20,936
+for bigger and better
+things, child.
+
+225
+00:11:21,037 --> 00:11:26,070
+I know.
+You tell me this every day. Ha!
+
+226
+00:11:31,342 --> 00:11:33,049
+Mama?
+
+227
+00:11:33,356 --> 00:11:34,785
+What the?
+
+228
+00:11:35,686 --> 00:11:37,267
+What happened?
+
+229
+00:11:37,367 --> 00:11:38,950
+Why'd you stop?
+
+230
+00:11:41,479 --> 00:11:43,519
+Mama.
+
+231
+00:11:44,088 --> 00:11:46,169
+Mama, what happened?
+
+232
+00:11:49,110 --> 00:11:52,344
+Batwoman,
+do you copy? Batwoman!
+
+233
+00:11:52,723 --> 00:11:54,375
+She just hit
+92 miles per hour,
+
+234
+00:11:54,460 --> 00:11:55,434
+and she's not answering
+her comms.
+
+235
+00:11:55,519 --> 00:11:56,768
+Where the hell
+is she going?
+
+236
+00:11:56,853 --> 00:11:57,845
+She's headed
+towards the west end.
+
+237
+00:11:57,929 --> 00:11:59,054
+What the hell's up there?
+
+238
+00:11:59,426 --> 00:12:00,800
+- Oh, no.
+- What?
+
+239
+00:12:00,885 --> 00:12:02,040
+Of course that's
+where she went.
+
+240
+00:12:02,124 --> 00:12:03,251
+Where?
+Where's she going?
+
+241
+00:12:03,336 --> 00:12:04,889
+Her brain isn't
+working,
+
+242
+00:12:04,974 --> 00:12:08,120
+- so she turned to her heart.
+- What?
+
+243
+00:12:09,865 --> 00:12:11,322
+Oh, my god!
+
+244
+00:12:14,454 --> 00:12:16,410
+What he actual hell?
+
+245
+00:12:16,494 --> 00:12:18,576
+Angie. Angelique.
+
+246
+00:12:18,661 --> 00:12:20,502
+How do you know
+my name?
+
+247
+00:12:20,587 --> 00:12:22,793
+And are... are you ok?
+
+248
+00:12:22,919 --> 00:12:24,252
+I...
+
+249
+00:12:24,445 --> 00:12:27,234
+Hey. Where's
+your wine opener?
+
+250
+00:12:27,491 --> 00:12:28,741
+Oh, my god!
+
+251
+00:12:28,826 --> 00:12:30,264
+- She doesn't drink.
+- I don't drink.
+
+252
+00:12:32,907 --> 00:12:35,163
+I'm sorry. How do you
+know my life?
+
+253
+00:12:35,248 --> 00:12:36,871
+Angie, what is
+going on?
+
+254
+00:12:36,956 --> 00:12:39,163
+- Angie.
+- Shouldn't you be out,
+
+255
+00:12:39,248 --> 00:12:41,826
+like, fighting crime?
+
+256
+00:12:43,021 --> 00:12:45,321
+I'm looking
+for your friend...
+
+257
+00:12:45,819 --> 00:12:47,538
+Ocean.
+
+258
+00:12:48,966 --> 00:12:50,631
+Can I have two seconds?
+
+259
+00:12:50,817 --> 00:12:52,163
+Ok.
+
+260
+00:12:52,492 --> 00:12:54,754
+Ahem. Sorry.
+
+261
+00:12:54,839 --> 00:12:57,505
+No idea, uh, who you're
+talking about.
+
+262
+00:12:57,626 --> 00:13:00,590
+Maybe you know
+what this is.
+
+263
+00:13:00,675 --> 00:13:05,298
+Whoa. What are you
+gonna do, slash me?
+
+264
+00:13:05,813 --> 00:13:09,019
+Look. The dude grows shrooms
+in a concrete jungle.
+
+265
+00:13:09,165 --> 00:13:12,427
+If you can't find him, maybe
+you shouldn't quit your day job.
+
+266
+00:13:12,512 --> 00:13:15,844
+Or I'll haul your ass
+into the cops,
+
+267
+00:13:16,515 --> 00:13:18,403
+and I'll let them
+sweat it out of you.
+
+268
+00:13:18,488 --> 00:13:21,182
+All right. Fine.
+You got me.
+
+269
+00:13:21,266 --> 00:13:24,013
+You'll find him
+in coventry.
+
+270
+00:13:24,182 --> 00:13:25,706
+I'll give you
+a head start.
+
+271
+00:13:25,796 --> 00:13:27,170
+Aah!
+
+272
+00:13:50,911 --> 00:13:52,315
+Grab her legs.
+
+273
+00:13:52,400 --> 00:13:54,451
+<i>This is the
+Gotham city police department.</i>
+
+274
+00:13:54,535 --> 00:13:56,591
+<i>Stop and back away
+from the suspect.</i>
+
+275
+00:13:56,676 --> 00:13:58,838
+<i>I repeat.
+Back away from the suspect.</i>
+
+276
+00:13:58,923 --> 00:14:01,287
+<i>You are interfering
+in a police response.</i>
+
+277
+00:14:01,372 --> 00:14:04,229
+<i>Freeze. You are under arrest
+and ordered not to move.</i>
+
+278
+00:14:04,314 --> 00:14:06,008
+<i>Repeat. You are under arrest...</i>
+
+279
+00:14:06,093 --> 00:14:07,278
+I'll meet you
+in the batcave.
+
+280
+00:14:07,334 --> 00:14:09,296
+- Why are you giving me the keys?
+- I have to take the Batmobile.
+
+281
+00:14:09,380 --> 00:14:11,336
+- I can take the Batmobile.
+- You've never driven it before.
+
+282
+00:14:11,421 --> 00:14:13,368
+- I've never driven your car before.
+- Mary, no!
+
+283
+00:14:13,453 --> 00:14:14,257
+- Yes!
+- No!
+
+284
+00:14:14,342 --> 00:14:15,130
+- Yes!
+- Mary!
+
+285
+00:14:15,215 --> 00:14:16,503
+- Yes!
+- <i>Release the suspect.</i>
+
+286
+00:14:16,587 --> 00:14:19,586
+<i>- We don't have time for this.</i>
+- Give me, give me!
+
+287
+00:14:20,880 --> 00:14:22,686
+<i>You are under arrest
+and ordered...</i>
+
+288
+00:14:22,770 --> 00:14:24,270
+Hell, yeah!
+
+289
+00:14:38,390 --> 00:14:40,013
+Mama?
+
+290
+00:14:44,305 --> 00:14:45,895
+Mama!
+
+291
+00:15:08,548 --> 00:15:09,921
+Why are you here?
+
+292
+00:15:10,005 --> 00:15:12,204
+Why did you do this
+to us?
+
+293
+00:15:12,342 --> 00:15:14,300
+You must be mad,
+
+294
+00:15:14,486 --> 00:15:16,738
+or you wouldn't have
+come here.
+
+295
+00:15:24,214 --> 00:15:28,043
+Why did you kill her?
+What was the point?
+
+296
+00:15:28,831 --> 00:15:30,247
+Huh!
+
+297
+00:15:41,746 --> 00:15:44,092
+You know how much pain
+you caused me?
+
+298
+00:15:44,562 --> 00:15:46,394
+How do you do that?
+
+299
+00:15:46,718 --> 00:15:48,564
+How do you just murder
+someone's mom
+
+300
+00:15:48,649 --> 00:15:50,513
+and move on like
+it doesn't matter?
+
+301
+00:15:50,868 --> 00:15:52,971
+Ha ha ha!
+
+302
+00:15:53,201 --> 00:15:55,265
+Huh!
+
+303
+00:15:59,571 --> 00:16:03,030
+Tell me you remember her!
+Tell me her name!
+
+304
+00:16:05,310 --> 00:16:09,263
+Cora. Cora Lewis.
+
+305
+00:16:09,356 --> 00:16:11,213
+What are you doing?
+
+306
+00:16:11,886 --> 00:16:13,302
+I'm getting the justice...
+
+307
+00:16:13,387 --> 00:16:14,537
+Aah!
+
+308
+00:16:14,622 --> 00:16:16,580
+My mother deserves.
+
+309
+00:16:18,705 --> 00:16:19,955
+Aah!
+
+310
+00:16:21,983 --> 00:16:23,494
+Aah!
+
+311
+00:16:31,104 --> 00:16:34,811
+Ok. Ok. So I hid
+the Batmobile keys in dino,
+
+312
+00:16:34,896 --> 00:16:36,181
+and I'm putting
+an extra tracker
+
+313
+00:16:36,265 --> 00:16:38,406
+in her gauntlet cuffs in case
+she decides to run off again
+
+314
+00:16:38,490 --> 00:16:40,030
+and thinks to turn off
+her GPS.
+
+315
+00:16:40,331 --> 00:16:41,685
+- What are you doing?
+- I'm mixing two
+
+316
+00:16:41,769 --> 00:16:43,530
+complementary
+cardiotonics
+
+317
+00:16:43,615 --> 00:16:45,511
+to calm down her mind
+and speed up her system
+
+318
+00:16:45,596 --> 00:16:48,384
+and hopefully pull her
+out of these hallucinations,
+
+319
+00:16:48,468 --> 00:16:52,121
+but... this isn't
+gonna last,
+
+320
+00:16:52,206 --> 00:16:54,828
+and since I don't have
+access to my clinic anymore,
+
+321
+00:16:54,913 --> 00:16:57,113
+I'm gonna need
+a few supplies.
+
+322
+00:16:58,139 --> 00:17:00,609
+Ok. Great. Do I look
+like postmates, or...
+
+323
+00:17:00,693 --> 00:17:02,870
+No, nor do you
+look like a doctor,
+
+324
+00:17:02,955 --> 00:17:04,544
+which is who needs to
+stay with her right now,
+
+325
+00:17:04,628 --> 00:17:05,977
+unless you want to
+give it a shot,
+
+326
+00:17:06,061 --> 00:17:08,179
+you know, put her life in
+your hands just for funsies?
+
+327
+00:17:08,269 --> 00:17:10,018
+Ok. I'll be back.
+
+328
+00:17:16,475 --> 00:17:17,789
+Hmm?
+
+329
+00:17:19,588 --> 00:17:21,171
+Ah, ah, ah.
+
+330
+00:17:24,047 --> 00:17:25,546
+Save some
+for the fishies.
+
+331
+00:17:25,935 --> 00:17:29,629
+So Safiyah and I
+shared a common enemy,
+
+332
+00:17:29,713 --> 00:17:32,253
+she thought I'd be
+a good soldier,
+
+333
+00:17:32,337 --> 00:17:36,214
+and I started to hate-crush
+her metaphorical brother.
+
+334
+00:17:36,299 --> 00:17:39,623
+Call me old-fashioned, but I'm
+missing the motive for a lobotomy.
+
+335
+00:17:39,918 --> 00:17:42,636
+You're really not
+getting it, are you?
+
+336
+00:17:42,721 --> 00:17:44,374
+Well, you're not exactly
+unfolding the plot
+
+337
+00:17:44,458 --> 00:17:45,981
+to a shakespearian
+drama here.
+
+338
+00:17:46,066 --> 00:17:49,607
+Safiyah would claim she
+wanted you for her army,
+
+339
+00:17:49,834 --> 00:17:52,121
+survival instincts
+would make you
+
+340
+00:17:52,206 --> 00:17:55,329
+an excellent fighter
+and advisor.
+
+341
+00:17:56,426 --> 00:17:58,090
+And what would you
+claim?
+
+342
+00:17:58,175 --> 00:18:00,175
+That she was
+in love with you.
+
+343
+00:18:06,462 --> 00:18:08,710
+I heard there was wine.
+
+344
+00:18:08,959 --> 00:18:10,491
+Sounds like training's
+going well.
+
+345
+00:18:10,575 --> 00:18:11,949
+I have yet to see
+the point of an army.
+
+346
+00:18:12,033 --> 00:18:13,116
+You have no crime here,
+
+347
+00:18:13,200 --> 00:18:14,351
+everyone walks around
+with a smile.
+
+348
+00:18:14,435 --> 00:18:16,106
+I'm in Roman pleasantville.
+
+349
+00:18:16,405 --> 00:18:19,204
+That's actually why
+I invited you here,
+
+350
+00:18:19,540 --> 00:18:23,191
+to tell you
+about the desert Rose.
+
+351
+00:18:24,415 --> 00:18:26,360
+It's delicate and vibrant
+
+352
+00:18:26,445 --> 00:18:29,838
+and in the wrong hands one of the
+most dangerous weapons in the world.
+
+353
+00:18:30,078 --> 00:18:31,375
+This?
+
+354
+00:18:31,577 --> 00:18:34,782
+Its serum can cure illness,
+hereditary disease.
+
+355
+00:18:35,067 --> 00:18:37,913
+It can expunge toxins,
+pathogens.
+
+356
+00:18:38,202 --> 00:18:42,232
+This simple flower
+is a miracle cure-all, Alice,
+
+357
+00:18:42,316 --> 00:18:45,473
+and it's my birthright
+to protect it at all costs.
+
+358
+00:18:45,897 --> 00:18:48,396
+- Hence the army.
+- Hence the army.
+
+359
+00:18:48,774 --> 00:18:52,310
+On occasion, word of a mystical
+flower on a faraway island
+
+360
+00:18:52,394 --> 00:18:54,282
+draws unwanted attention.
+
+361
+00:18:54,520 --> 00:18:57,685
+If outsiders were able
+to come take it,
+
+362
+00:18:57,769 --> 00:18:59,393
+we'd be left with nothing,
+
+363
+00:18:59,477 --> 00:19:01,267
+and our sanctuary
+would be destroyed.
+
+364
+00:19:01,351 --> 00:19:02,934
+Why don't you just
+grow more?
+
+365
+00:19:03,018 --> 00:19:05,100
+According to the lore,
+centuries ago,
+
+366
+00:19:05,184 --> 00:19:07,307
+the women of a village
+in Europe
+
+367
+00:19:07,391 --> 00:19:10,398
+banded together to escape
+their abusive husbands.
+
+368
+00:19:10,599 --> 00:19:12,722
+They'd heard tell
+of an island
+
+369
+00:19:12,806 --> 00:19:16,013
+under the constellations
+of cassiopeia and Andromeda,
+
+370
+00:19:16,096 --> 00:19:19,387
+and they fled here
+with their children in tow.
+
+371
+00:19:19,471 --> 00:19:23,264
+Months later, the men
+they escaped tracked them down.
+
+372
+00:19:23,388 --> 00:19:26,596
+As their ships landed,
+the men were met
+
+373
+00:19:26,719 --> 00:19:28,884
+by a ferocious
+female army.
+
+374
+00:19:28,968 --> 00:19:31,841
+The women succeeded in
+driving the men back into the sea.
+
+375
+00:19:31,925 --> 00:19:34,507
+However, it was
+at great cost.
+
+376
+00:19:34,591 --> 00:19:37,881
+Many women lay dead,
+slaughtered.
+
+377
+00:19:37,965 --> 00:19:40,741
+Only my ancestors
+and a few others survived.
+
+378
+00:19:40,826 --> 00:19:44,046
+The next day, a field
+of roses bloomed
+
+379
+00:19:44,130 --> 00:19:46,944
+in the very spot
+of the battle.
+
+380
+00:19:48,227 --> 00:19:50,876
+The women claimed the
+blood that had been spilled
+
+381
+00:19:50,961 --> 00:19:52,351
+was sacred,
+
+382
+00:19:52,487 --> 00:19:56,268
+its protective feminine
+essence enriched the land.
+
+383
+00:19:59,666 --> 00:20:03,703
+They wrote that only
+a woman's life force
+
+384
+00:20:03,999 --> 00:20:05,958
+could birth this medicine
+
+385
+00:20:06,128 --> 00:20:09,085
+destined to save mankind.
+
+386
+00:20:18,703 --> 00:20:19,776
+Heh heh.
+
+387
+00:20:19,861 --> 00:20:21,805
+She knew she
+couldn't tell you how she felt,
+
+388
+00:20:21,889 --> 00:20:23,181
+so she showed you.
+
+389
+00:20:23,266 --> 00:20:24,639
+She entrusted you
+
+390
+00:20:25,200 --> 00:20:28,199
+with her most
+valued secret.
+
+391
+00:20:28,283 --> 00:20:31,118
+And someone was
+a little jealous?
+
+392
+00:20:31,699 --> 00:20:33,350
+Ha ha ha!
+
+393
+00:20:34,072 --> 00:20:37,154
+You weren't a threat
+to me, Alice.
+
+394
+00:20:37,245 --> 00:20:41,042
+You were a threat to the
+entire island of Coryana.
+
+395
+00:20:41,825 --> 00:20:47,316
+Not even, like, a teeny,
+weeny, itty, bitty bit jealous?
+
+396
+00:20:47,401 --> 00:20:49,608
+I'm Safiyah's
+right hand.
+
+397
+00:20:49,775 --> 00:20:51,397
+It's my job
+to tell her
+
+398
+00:20:51,482 --> 00:20:53,832
+when there's a fox
+in the henhouse.
+
+399
+00:20:54,066 --> 00:20:55,369
+So you think I'm a fox?
+
+400
+00:20:55,453 --> 00:20:57,531
+I think you're
+a distraction.
+
+401
+00:20:57,616 --> 00:20:59,425
+I think you're in love
+with her.
+
+402
+00:20:59,648 --> 00:21:00,962
+You are such a child.
+
+403
+00:21:01,047 --> 00:21:02,703
+Well, you're the one who can't
+admit you're in love with her.
+
+404
+00:21:02,787 --> 00:21:05,043
+- Of course, I'm in love with her.
+- Ha ha ha!
+
+405
+00:21:05,369 --> 00:21:06,868
+And you'd better believe
+
+406
+00:21:06,952 --> 00:21:08,687
+that when the first
+opportunity arose
+
+407
+00:21:08,772 --> 00:21:14,117
+for me to destroy you
+I did not hesitate.
+
+408
+00:21:19,475 --> 00:21:20,725
+Let's go, let's go!
+
+409
+00:21:26,002 --> 00:21:28,667
+Got to wonder if Catherine
+ever wandered these halls.
+
+410
+00:21:28,806 --> 00:21:30,253
+Guess there's a lot
+you didn't know about her.
+
+411
+00:21:30,337 --> 00:21:32,195
+Well, apparently,
+it runs in the family.
+
+412
+00:21:32,280 --> 00:21:34,779
+Turns out Mary was operating
+an illegal medical clinic
+
+413
+00:21:34,864 --> 00:21:36,455
+out of
+a church basement.
+
+414
+00:21:36,660 --> 00:21:39,325
+Really? That's... huh.
+
+415
+00:21:39,636 --> 00:21:41,270
+Did you know?
+
+416
+00:21:42,552 --> 00:21:44,675
+- Sir...
+- You got to be kidding me.
+
+417
+00:21:44,759 --> 00:21:46,634
+No one wants to tell
+me anything around here.
+
+418
+00:21:46,717 --> 00:21:48,807
+Because I knew you'd
+shut it down.
+
+419
+00:21:48,970 --> 00:21:50,423
+That place was her life.
+
+420
+00:21:50,507 --> 00:21:52,013
+She helped a lot
+of people.
+
+421
+00:21:52,097 --> 00:21:53,535
+Have you two
+spoken since?
+
+422
+00:21:53,619 --> 00:21:55,755
+I refuse to let her
+turn into her mother.
+
+423
+00:21:55,840 --> 00:21:58,254
+Catherine cut a lot
+of corners at Hamilton.
+
+424
+00:21:58,338 --> 00:21:59,995
+Look where it got us.
+
+425
+00:22:00,939 --> 00:22:02,476
+I'll take that
+as a no.
+
+426
+00:22:04,946 --> 00:22:08,277
+<i>Synthetic granulocytes.</i>
+
+427
+00:22:09,167 --> 00:22:10,294
+My god.
+
+428
+00:22:10,378 --> 00:22:12,541
+<i>Now injecting them
+in patient B,</i>
+
+429
+00:22:12,626 --> 00:22:16,356
+<i>an 80-year-old male
+with a similar cancer.</i>
+
+430
+00:22:16,525 --> 00:22:19,235
+<i>Our hypothesis is that
+the new solution</i>
+
+431
+00:22:19,320 --> 00:22:20,512
+Dr. Rogers!
+
+432
+00:22:20,659 --> 00:22:22,534
+So much for our lead.
+
+433
+00:22:25,140 --> 00:22:27,536
+So we'll
+check back in 24 hours
+
+434
+00:22:27,621 --> 00:22:29,082
+and look for progress.
+
+435
+00:22:33,943 --> 00:22:36,509
+<i>Help!
+Uh, just calm down, breathe.</i>
+
+436
+00:22:36,594 --> 00:22:38,523
+<i>We need help in here!</i>
+
+437
+00:22:39,161 --> 00:22:40,571
+<i>Try to breathe.</i>
+
+438
+00:22:50,455 --> 00:22:52,454
+What the hell are we
+dealing with?
+
+439
+00:23:00,571 --> 00:23:02,787
+Ryan, can you hear me?
+
+440
+00:23:05,807 --> 00:23:07,732
+This kryptonite gives
+a worse hangover
+
+441
+00:23:07,817 --> 00:23:10,324
+than $2.00 Tequila.
+
+442
+00:23:11,433 --> 00:23:13,765
+Wait. How did I get
+back here?
+
+443
+00:23:14,936 --> 00:23:17,072
+Luke and I found you
+outside of Angelique's.
+
+444
+00:23:17,156 --> 00:23:18,228
+Yeah.
+
+445
+00:23:18,313 --> 00:23:22,027
+But good news...
+I got to drive the Batmobile.
+
+446
+00:23:22,486 --> 00:23:25,004
+Bad news... the wipers button
+and the rocket launchers
+
+447
+00:23:25,089 --> 00:23:26,937
+look very similar.
+
+448
+00:23:27,021 --> 00:23:28,355
+Someone should
+label those.
+
+449
+00:23:28,439 --> 00:23:29,556
+What did you do?
+
+450
+00:23:29,641 --> 00:23:31,639
+I should be asking you
+that, Missy.
+
+451
+00:23:31,903 --> 00:23:34,059
+Why'd you go to Angelique's
+in the batsuit?
+
+452
+00:23:34,144 --> 00:23:35,845
+I needed a lead
+on ocean.
+
+453
+00:23:35,936 --> 00:23:37,892
+You're dying,
+and you waste
+
+454
+00:23:37,977 --> 00:23:40,113
+your last gasps
+of energy on him?
+
+455
+00:23:40,198 --> 00:23:42,864
+No. I find ocean,
+I find Alice
+
+456
+00:23:42,948 --> 00:23:44,708
+so I can hear
+her last gasp.
+
+457
+00:23:44,793 --> 00:23:47,389
+- Ryan.
+- No. I am not going down
+
+458
+00:23:47,474 --> 00:23:49,733
+without getting justice
+for both of our moms.
+
+459
+00:23:49,930 --> 00:23:52,262
+Let's just get some
+more fluids in you first,
+
+460
+00:23:52,346 --> 00:23:56,037
+and then we can talk...
+Bucket list.
+
+461
+00:24:04,437 --> 00:24:05,681
+This is Rogers' office.
+
+462
+00:24:05,766 --> 00:24:07,223
+We looked
+into the deceased,
+
+463
+00:24:07,444 --> 00:24:09,130
+and everyone seems
+to have been involved
+
+464
+00:24:09,215 --> 00:24:10,886
+in the experiments
+with the desert Rose.
+
+465
+00:24:10,971 --> 00:24:14,333
+My guess is they were trying
+to create more and failed.
+
+466
+00:24:16,566 --> 00:24:19,297
+Coryana sent their
+assassins to cover their tracks.
+
+467
+00:24:19,382 --> 00:24:22,636
+I believe Safiyah calls them
+the many arms of death.
+
+468
+00:24:22,752 --> 00:24:25,480
+Let's just hope they didn't
+find the map that Rogers stole.
+
+469
+00:24:25,718 --> 00:24:27,746
+It has to be around here
+somewhere.
+
+470
+00:24:30,263 --> 00:24:31,596
+Hang on.
+
+471
+00:24:35,733 --> 00:24:37,150
+Bingo.
+
+472
+00:24:57,066 --> 00:24:58,603
+They beat us to it.
+
+473
+00:24:58,928 --> 00:25:02,107
+Agh! Agh!
+
+474
+00:25:05,610 --> 00:25:06,781
+Sir.
+
+475
+00:25:07,217 --> 00:25:09,605
+They have my Kate,
+damn it.
+
+476
+00:25:12,648 --> 00:25:15,573
+I can't stand losing
+another daughter like this.
+
+477
+00:25:43,331 --> 00:25:45,146
+When I was being held
+in that cell,
+
+478
+00:25:45,231 --> 00:25:48,601
+my father and sister
+came looking for me.
+
+479
+00:25:50,060 --> 00:25:54,398
+I was told if I made a sound
+they'd be shot,
+
+480
+00:25:55,834 --> 00:25:59,416
+but Kate, my, um...
+my twin,
+
+481
+00:25:59,501 --> 00:26:01,693
+she found my cell,
+
+482
+00:26:02,237 --> 00:26:05,720
+and I heard her
+put her hand on the door,
+
+483
+00:26:05,805 --> 00:26:07,638
+so I did the same,
+
+484
+00:26:08,996 --> 00:26:15,571
+and I just stood there
+silently... Praying
+
+485
+00:26:15,971 --> 00:26:17,362
+that she would...
+
+486
+00:26:19,669 --> 00:26:20,903
+Feel me.
+
+487
+00:26:21,791 --> 00:26:23,333
+And she never did?
+
+488
+00:26:26,005 --> 00:26:28,471
+You asked
+why I want revenge.
+
+489
+00:26:29,800 --> 00:26:32,676
+It's because I can't
+forget moments like that.
+
+490
+00:26:35,890 --> 00:26:37,217
+Then don't,
+
+491
+00:26:38,294 --> 00:26:39,729
+but do you really
+want to spend
+
+492
+00:26:39,814 --> 00:26:42,757
+the rest of your life trying
+to get her to apologize?
+
+493
+00:26:42,842 --> 00:26:45,347
+Because that's not
+how this works.
+
+494
+00:26:45,604 --> 00:26:46,978
+She's your sister.
+
+495
+00:26:47,062 --> 00:26:48,532
+She will spend
+every waking moment
+
+496
+00:26:48,617 --> 00:26:51,495
+trying to fix it,
+to fix you,
+
+497
+00:26:52,696 --> 00:26:53,891
+and she can't.
+
+498
+00:26:54,008 --> 00:26:56,021
+Only you can do that.
+
+499
+00:26:57,189 --> 00:26:59,946
+You got out,
+you got your second chance.
+
+500
+00:27:00,031 --> 00:27:01,599
+Let it go.
+
+501
+00:27:02,028 --> 00:27:03,514
+Be happy.
+
+502
+00:27:03,697 --> 00:27:05,929
+You make that sound
+so...
+
+503
+00:27:06,611 --> 00:27:07,819
+So easy.
+
+504
+00:27:07,903 --> 00:27:09,246
+It is.
+
+505
+00:27:10,463 --> 00:27:12,211
+At least it is now.
+
+506
+00:27:13,513 --> 00:27:15,012
+Desert Rose snips.
+
+507
+00:27:15,097 --> 00:27:17,789
+I'll plant them,
+nurture them,
+
+508
+00:27:17,874 --> 00:27:19,654
+feed them blood
+so they bloom.
+
+509
+00:27:19,763 --> 00:27:22,408
+Pretty soon, all of mankind
+will have its miracle drug,
+
+510
+00:27:22,493 --> 00:27:24,219
+and I'll have money
+to travel the world.
+
+511
+00:27:24,304 --> 00:27:26,231
+You are not supposed
+to have those.
+
+512
+00:27:26,348 --> 00:27:29,422
+There's a lot Safiyah
+tells us we can't have.
+
+513
+00:27:37,934 --> 00:27:39,714
+I want to do
+what you did.
+
+514
+00:27:40,795 --> 00:27:43,163
+I want to escape,
+I want to start over
+
+515
+00:27:43,248 --> 00:27:45,776
+and experience life
+outside this island.
+
+516
+00:27:54,553 --> 00:27:57,885
+And I want you
+to come with me.
+
+517
+00:28:38,956 --> 00:28:40,776
+<i>The man
+you were willing</i>
+
+518
+00:28:40,860 --> 00:28:42,124
+to change your life for,
+
+519
+00:28:42,209 --> 00:28:45,582
+the one person who
+offered you a second chance
+
+520
+00:28:45,667 --> 00:28:47,858
+and freedom
+from your past
+
+521
+00:28:48,061 --> 00:28:52,774
+is the same man Safiyah
+convinced you to stab
+
+522
+00:28:53,367 --> 00:28:55,185
+through the heart.
+
+523
+00:28:56,604 --> 00:29:01,333
+Ha ha ha!
+
+524
+00:29:01,708 --> 00:29:02,978
+I'm sorry. That's it?
+
+525
+00:29:03,062 --> 00:29:04,602
+That's your big
+mic drop moment?
+
+526
+00:29:04,686 --> 00:29:06,709
+"Surprise! You killed
+your soul mate
+
+527
+00:29:06,795 --> 00:29:08,184
+that you don't even
+remember."
+
+528
+00:29:08,268 --> 00:29:11,470
+Yeah. I found my
+mother's head in a freezer,
+
+529
+00:29:11,555 --> 00:29:13,435
+so if you're trying
+to shock me,
+
+530
+00:29:13,520 --> 00:29:16,305
+you're gonna have to
+do a little better than that.
+
+531
+00:29:32,995 --> 00:29:36,051
+Don't you think you
+should be lying down?
+
+532
+00:29:36,135 --> 00:29:39,175
+Angelique said
+he grew shrooms
+
+533
+00:29:39,260 --> 00:29:40,924
+in a concrete jungle,
+meaning he would need
+
+534
+00:29:41,008 --> 00:29:42,780
+some type
+of indoor forest.
+
+535
+00:29:42,865 --> 00:29:44,747
+That means a neighborhood
+with a high moisture level.
+
+536
+00:29:44,831 --> 00:29:46,962
+- North side by the water.
+- Wait. What?
+
+537
+00:29:47,047 --> 00:29:48,608
+He'd have to block out
+his windows,
+
+538
+00:29:48,693 --> 00:29:49,740
+wouldn't want
+questions asked,
+
+539
+00:29:49,824 --> 00:29:51,651
+and he'd have to draw
+a crapload of power
+
+540
+00:29:51,736 --> 00:29:53,296
+for all those
+grow lamps.
+
+541
+00:29:55,293 --> 00:29:56,584
+Oh! The grow lamps.
+
+542
+00:29:56,669 --> 00:29:58,736
+Ryan, you need to
+lie down.
+
+543
+00:29:58,821 --> 00:29:59,812
+I need to find Alice.
+
+544
+00:29:59,896 --> 00:30:03,780
+No. I... I can't let you
+kill Alice.
+
+545
+00:30:04,467 --> 00:30:06,109
+Do you love
+your mom?
+
+546
+00:30:06,402 --> 00:30:07,624
+Of course I do.
+
+547
+00:30:07,708 --> 00:30:09,416
+Do you believe
+in what we do here?
+
+548
+00:30:09,827 --> 00:30:11,040
+You know I do.
+
+549
+00:30:11,395 --> 00:30:13,884
+Then how can we stand
+behind this symbol
+
+550
+00:30:14,088 --> 00:30:16,342
+and claim we fight
+for justice
+
+551
+00:30:16,444 --> 00:30:17,982
+and we stand up
+for victims
+
+552
+00:30:18,067 --> 00:30:20,111
+and we protect
+our streets
+
+553
+00:30:20,228 --> 00:30:23,918
+with a legitimate serial-killing
+psychopath out there,
+
+554
+00:30:24,204 --> 00:30:26,202
+living, breathing,
+
+555
+00:30:26,287 --> 00:30:28,334
+looking for a way to find
+your sister
+
+556
+00:30:28,419 --> 00:30:29,630
+- and kill her, too?
+- And we will stop her!
+
+557
+00:30:29,713 --> 00:30:30,467
+When?
+
+558
+00:30:30,550 --> 00:30:33,055
+When two crows bring
+me some miracle flower
+
+559
+00:30:33,140 --> 00:30:35,138
+from an island
+we can't get to?
+
+560
+00:30:35,240 --> 00:30:37,489
+- That's what I was...
+- Did they find the map?
+
+561
+00:30:37,907 --> 00:30:40,072
+Did they find the map?
+
+562
+00:30:40,521 --> 00:30:41,972
+The map's gone.
+
+563
+00:30:45,406 --> 00:30:49,549
+Alice took our moms
+from us, Mary.
+
+564
+00:30:50,782 --> 00:30:52,811
+Do you ever
+for a second
+
+565
+00:30:53,120 --> 00:30:54,661
+think about what your life
+would be like
+
+566
+00:30:54,745 --> 00:30:56,158
+if she were
+still here?
+
+567
+00:30:58,678 --> 00:31:01,149
+If she could be proud
+of you for one more day,
+
+568
+00:31:01,233 --> 00:31:03,282
+if you could ask her
+for advice
+
+569
+00:31:03,366 --> 00:31:05,186
+or tell her
+about a crush
+
+570
+00:31:05,271 --> 00:31:07,690
+or hear her tell you
+she loves you?
+
+571
+00:31:07,774 --> 00:31:09,730
+A million times a day.
+
+572
+00:31:09,968 --> 00:31:12,729
+I am as good as dead,
+Mary,
+
+573
+00:31:13,182 --> 00:31:14,502
+and I am not
+leaving here
+
+574
+00:31:14,587 --> 00:31:16,085
+without getting
+justice,
+
+575
+00:31:16,729 --> 00:31:20,892
+so... you can step
+out of my way
+
+576
+00:31:20,976 --> 00:31:22,183
+and let me do
+my thing,
+
+577
+00:31:22,268 --> 00:31:24,100
+or I can go
+through you.
+
+578
+00:31:28,237 --> 00:31:29,736
+Keys are in dino.
+
+579
+00:31:51,618 --> 00:31:53,042
+What are you doing?
+
+580
+00:31:53,208 --> 00:31:55,041
+Packing up.
+We're done.
+
+581
+00:31:55,126 --> 00:31:57,075
+You don't want to
+know more?
+
+582
+00:31:58,613 --> 00:32:00,094
+What's to know?
+
+583
+00:32:00,379 --> 00:32:01,992
+Safiyah got jealous,
+so she took away
+
+584
+00:32:02,077 --> 00:32:04,222
+my memory of ocean
+to punish me.
+
+585
+00:32:04,464 --> 00:32:05,846
+I could have saved
+a lot of time
+
+586
+00:32:05,931 --> 00:32:07,000
+by reading the back
+of the book.
+
+587
+00:32:07,084 --> 00:32:10,250
+It wasn't as simple as plucking
+out just those memories.
+
+588
+00:32:10,335 --> 00:32:12,581
+There was
+collateral damage.
+
+589
+00:32:13,932 --> 00:32:15,633
+I never thought
+I'd see the day
+
+590
+00:32:15,718 --> 00:32:17,903
+that a man I considered
+a brother
+
+591
+00:32:18,233 --> 00:32:20,479
+would be kneeling before me
+a betrayer of his island
+
+592
+00:32:20,564 --> 00:32:21,944
+and his people!
+
+593
+00:32:22,029 --> 00:32:25,479
+That flower is
+everything to us,
+
+594
+00:32:25,880 --> 00:32:27,133
+that which defines us,
+
+595
+00:32:27,218 --> 00:32:29,270
+that which is the key
+to our survival!
+
+596
+00:32:29,363 --> 00:32:31,570
+Safiyah, we both know this
+isn't about a stupid flower.
+
+597
+00:32:31,703 --> 00:32:33,410
+And what do you
+think it's about?
+
+598
+00:32:33,494 --> 00:32:35,786
+Me having the one thing
+you can't.
+
+599
+00:32:37,891 --> 00:32:40,647
+Alice
+is a snake
+
+600
+00:32:40,732 --> 00:32:43,338
+that slithered
+into our garden.
+
+601
+00:32:44,093 --> 00:32:46,100
+Let me kill her.
+
+602
+00:32:46,907 --> 00:32:48,691
+We're not killing anyone.
+
+603
+00:32:50,196 --> 00:32:52,529
+I'm going to visit
+a punishment upon her
+
+604
+00:32:52,614 --> 00:32:54,378
+that fits the crime.
+
+605
+00:32:54,657 --> 00:32:57,655
+Find enigma,
+bring her to me.
+
+606
+00:32:57,938 --> 00:33:01,811
+Safiyah, no.
+You can't do this.
+
+607
+00:33:02,222 --> 00:33:04,429
+Yes, my queen.
+
+608
+00:33:04,514 --> 00:33:06,441
+You wanted to take
+the one thing that was
+
+609
+00:33:06,525 --> 00:33:07,541
+precious to me.
+
+610
+00:33:07,626 --> 00:33:10,125
+I will take what's
+most precious to you...
+
+611
+00:33:10,608 --> 00:33:12,023
+Each other!
+
+612
+00:33:12,108 --> 00:33:14,399
+- Who's enigma?
+- A hypnotist.
+
+613
+00:33:14,607 --> 00:33:16,202
+She wants to screw
+with our heads.
+
+614
+00:33:16,320 --> 00:33:18,417
+You're not a snake, Alice.
+
+615
+00:33:18,807 --> 00:33:20,560
+You're just
+a broken little girl,
+
+616
+00:33:20,645 --> 00:33:22,228
+who sought refuge
+from her trauma
+
+617
+00:33:22,313 --> 00:33:25,354
+by escaping
+into a fantastical book!
+
+618
+00:33:25,551 --> 00:33:28,757
+I know the big, wild world
+seemed daunting to you.
+
+619
+00:33:29,036 --> 00:33:30,452
+I was going to show you
+how easily
+
+620
+00:33:30,537 --> 00:33:32,994
+you could rise and thrive,
+
+621
+00:33:33,101 --> 00:33:36,141
+but instead, you turned to
+him for solace and rehabilitation.
+
+622
+00:33:36,225 --> 00:33:38,224
+She didn't do
+anything wrong!
+
+623
+00:33:39,807 --> 00:33:42,680
+You are going to
+go home, Alice!
+
+624
+00:33:42,764 --> 00:33:46,262
+You are going to embrace
+this fairytale persona of yours,
+
+625
+00:33:46,346 --> 00:33:50,094
+and you're going to imbue it
+with fury!
+
+626
+00:33:50,178 --> 00:33:52,761
+You will build
+your own army,
+
+627
+00:33:52,845 --> 00:33:55,416
+you will become your own queen,
+
+628
+00:33:55,719 --> 00:33:58,134
+and you will carry out
+the vengeance on your family
+
+629
+00:33:58,218 --> 00:34:00,715
+that you
+so desperately crave,
+
+630
+00:34:01,537 --> 00:34:04,328
+and you'll forget
+all about ocean
+
+631
+00:34:04,413 --> 00:34:06,940
+and your love
+for each other!
+
+632
+00:34:08,590 --> 00:34:10,256
+Don't do this,
+Safiyah.
+
+633
+00:34:10,341 --> 00:34:12,339
+<i>With the memories came</i>
+
+634
+00:34:12,539 --> 00:34:16,418
+the love and humanity that
+was bubbling up inside of you.
+
+635
+00:34:16,503 --> 00:34:20,087
+Safiyah took that
+and in turn
+
+636
+00:34:20,336 --> 00:34:22,631
+activated this...
+
+637
+00:34:22,752 --> 00:34:25,409
+Cold, hard,
+
+638
+00:34:25,963 --> 00:34:28,669
+vengeance-obsessed
+killing machine.
+
+639
+00:34:28,754 --> 00:34:30,956
+You would have
+run away with ocean
+
+640
+00:34:31,041 --> 00:34:32,627
+and started
+a new life,
+
+641
+00:34:32,712 --> 00:34:35,632
+happy, free, in love.
+
+642
+00:34:35,717 --> 00:34:39,961
+Instead, Safiyah
+turned you into herself.
+
+643
+00:34:40,267 --> 00:34:42,057
+You look upset.
+
+644
+00:34:42,203 --> 00:34:44,517
+Shakespearian enough
+for you?
+
+645
+00:34:52,866 --> 00:34:54,473
+Take the body.
+
+646
+00:34:55,988 --> 00:34:57,906
+I'll call you
+for my pickup.
+
+647
+00:34:58,988 --> 00:35:00,696
+Where are you going?
+
+648
+00:35:00,795 --> 00:35:02,835
+Oh, I'm not requesting
+an audience with the queen
+
+649
+00:35:02,920 --> 00:35:04,628
+dressed like this.
+
+650
+00:35:16,416 --> 00:35:17,396
+Gotcha.
+
+651
+00:35:17,481 --> 00:35:19,105
+- Enigma did this?
+- Mm-hmm.
+
+652
+00:35:19,190 --> 00:35:20,731
+Of course.
+
+653
+00:35:20,907 --> 00:35:22,364
+She's a hypnotist.
+
+654
+00:35:22,449 --> 00:35:23,786
+Owed Safiyah
+a favor.
+
+655
+00:35:23,871 --> 00:35:27,188
+Safiyah and her legion
+of lady loyalists.
+
+656
+00:35:27,870 --> 00:35:30,567
+Tatiana found out you were
+stealing the desert Rose.
+
+657
+00:35:30,731 --> 00:35:33,022
+Good riddance.
+That flower's meant to save lives,
+
+658
+00:35:33,106 --> 00:35:36,390
+yet it destroys
+everything it touches.
+
+659
+00:35:39,968 --> 00:35:45,254
+And... I guess
+this is it.
+
+660
+00:35:47,000 --> 00:35:49,165
+There's a bar
+in portofino
+
+661
+00:35:49,350 --> 00:35:50,411
+I've always
+wanted to try.
+
+662
+00:35:50,496 --> 00:35:53,337
+Cobblestone streets,
+view of the harbor.
+
+663
+00:35:57,598 --> 00:36:00,281
+What about you?
+What now?
+
+664
+00:36:01,369 --> 00:36:03,511
+Uh... now I'm off
+to Coryana
+
+665
+00:36:03,596 --> 00:36:06,512
+to get my final revenge
+on my sister.
+
+666
+00:36:08,136 --> 00:36:13,884
+Unless... you have
+a reason to stop me.
+
+667
+00:36:20,885 --> 00:36:22,510
+Live your life.
+
+668
+00:36:25,210 --> 00:36:26,875
+See you, Alice.
+
+669
+00:36:42,987 --> 00:36:44,444
+Where's Ryan?
+
+670
+00:36:44,583 --> 00:36:45,668
+My dad couldn't find
+the map,
+
+671
+00:36:45,752 --> 00:36:46,916
+so there's no way
+to find Coryana.
+
+672
+00:36:47,000 --> 00:36:48,457
+Why are her comms off?
+Where is she?
+
+673
+00:36:48,542 --> 00:36:51,105
+- She's gonna die.
+- Mary, where is Ryan?
+
+674
+00:36:52,573 --> 00:36:55,287
+Alice, do you know
+who I am?
+
+675
+00:36:55,745 --> 00:36:58,161
+Ok. I've had a day.
+
+676
+00:36:58,246 --> 00:37:02,457
+Can we do this in,
+say, 2... 3 weeks?
+
+677
+00:37:02,843 --> 00:37:05,759
+Do you know who I am?
+
+678
+00:37:05,897 --> 00:37:07,794
+Honestly, so many women
+keep showing up
+
+679
+00:37:07,879 --> 00:37:09,878
+in that outfit, it's
+impossible to keep track.
+
+680
+00:37:09,966 --> 00:37:11,590
+How's this?
+
+681
+00:37:16,709 --> 00:37:18,458
+You killed my mom,
+
+682
+00:37:18,674 --> 00:37:20,629
+and now I'm here
+to kill you.
+
+683
+00:37:20,714 --> 00:37:24,712
+Heh. You're kidding,
+right?
+
+684
+00:37:25,279 --> 00:37:27,207
+That's what this
+is about?
+
+685
+00:37:27,538 --> 00:37:29,493
+My mom was Cora Lewis.
+
+686
+00:37:29,673 --> 00:37:34,879
+Your gang beat her to death
+on December 13, 2015.
+
+687
+00:37:34,987 --> 00:37:37,112
+I get it.
+Mommy died,
+
+688
+00:37:37,484 --> 00:37:40,191
+and now you're
+a "woman on fire,"
+
+689
+00:37:40,274 --> 00:37:42,523
+which means I'm
+responsible for spawning
+
+690
+00:37:42,607 --> 00:37:45,640
+not one batwoman...
+But two.
+
+691
+00:37:45,725 --> 00:37:47,641
+- You think this is funny?
+- Yes.
+
+692
+00:37:47,731 --> 00:37:50,147
+My mom meant
+everything to me!
+
+693
+00:37:50,231 --> 00:37:53,105
+I have no memory
+of your mommy.
+
+694
+00:37:53,190 --> 00:37:54,855
+- Liar!
+- Unh!
+
+695
+00:37:54,940 --> 00:37:56,481
+Aah!
+
+696
+00:37:58,729 --> 00:38:01,145
+Aw. Did you hurt
+yourself?
+
+697
+00:38:01,340 --> 00:38:03,047
+Is that my fault, too?
+
+698
+00:38:16,375 --> 00:38:18,582
+Unh!
+
+699
+00:38:18,681 --> 00:38:20,264
+Aah! Ohh!
+
+700
+00:38:20,909 --> 00:38:21,956
+Unh!
+
+701
+00:38:27,801 --> 00:38:29,384
+Aah!
+
+702
+00:38:32,978 --> 00:38:34,394
+Hyah!
+
+703
+00:38:37,056 --> 00:38:39,929
+- Raah!
+- Aah!
+
+704
+00:38:47,199 --> 00:38:48,692
+I wasn't the one
+who killed her.
+
+705
+00:38:48,777 --> 00:38:50,159
+Your army did
+
+706
+00:38:50,437 --> 00:38:52,142
+because of you
+because you turned them
+
+707
+00:38:52,230 --> 00:38:54,375
+into coldblooded killers!
+
+708
+00:38:54,459 --> 00:38:56,538
+- Ha ha ha!
+- Aah!
+
+709
+00:39:01,953 --> 00:39:03,369
+Agh!
+
+710
+00:39:05,536 --> 00:39:06,909
+Ryan!
+
+711
+00:39:07,016 --> 00:39:08,687
+This isn't the girl
+I raised.
+
+712
+00:39:11,744 --> 00:39:13,756
+But she killed you.
+
+713
+00:39:14,170 --> 00:39:15,585
+Agh!
+
+714
+00:39:17,721 --> 00:39:19,259
+Ugh.
+
+715
+00:39:23,414 --> 00:39:25,958
+I don't know
+what made you this way,
+
+716
+00:39:26,762 --> 00:39:28,285
+but you're not
+worth it.
+
+717
+00:39:28,533 --> 00:39:31,185
+You'll never
+be worth it!
+
+718
+00:39:33,829 --> 00:39:35,244
+It wasn't my fault.
+
+719
+00:39:35,329 --> 00:39:36,668
+Everything's
+your fault.
+
+720
+00:39:37,625 --> 00:39:39,262
+Now leave!
+
+721
+00:39:55,878 --> 00:39:57,877
+No sign of Alice
+anywhere, sir.
+
+722
+00:39:59,743 --> 00:40:01,783
+You know, I figured out
+why Catherine lied
+
+723
+00:40:01,867 --> 00:40:04,116
+and said that Beth
+was dead.
+
+724
+00:40:05,532 --> 00:40:07,865
+She was doing me a favor.
+
+725
+00:40:09,324 --> 00:40:11,780
+The only thing worse than
+losing one of your children
+
+726
+00:40:11,864 --> 00:40:14,196
+is the cycle
+of waking up every morning
+
+727
+00:40:14,280 --> 00:40:18,632
+with hope and then
+having it ripped away
+
+728
+00:40:19,065 --> 00:40:21,426
+and losing them all over
+again by dinner.
+
+729
+00:40:23,402 --> 00:40:26,150
+Sir, you really
+should get some sleep.
+
+730
+00:40:26,249 --> 00:40:29,248
+I won't sleep until
+I have my family back.
+
+731
+00:40:43,166 --> 00:40:44,999
+This must be
+the airport shuttle.
+
+732
+00:40:45,138 --> 00:40:46,541
+Get in.
+
+733
+00:40:53,073 --> 00:40:56,156
+Air Coryana terminal,
+Jeevsy.
+
+734
+00:41:04,117 --> 00:41:05,493
+Where's Alice?
+
+735
+00:41:07,389 --> 00:41:09,363
+Hello to you, too.
+
+736
+00:41:13,503 --> 00:41:15,676
+Well, I realized killing
+her would only
+
+737
+00:41:15,761 --> 00:41:17,742
+make me more like her.
+
+738
+00:41:17,827 --> 00:41:19,675
+Kind of went along
+with what you guys were saying.
+
+739
+00:41:19,758 --> 00:41:21,175
+Great.
+So where is she?
+
+740
+00:41:21,280 --> 00:41:22,945
+- I let her go.
+- What?! Ok.
+
+741
+00:41:23,030 --> 00:41:25,780
+There's not killing,
+but there's still apprehending.
+
+742
+00:41:25,925 --> 00:41:28,215
+We need her to go
+to Coryana.
+
+743
+00:41:28,300 --> 00:41:30,799
+No, we don't.
+She'll kill Kate.
+
+744
+00:41:30,960 --> 00:41:32,466
+I'll stop her.
+
+745
+00:41:34,755 --> 00:41:36,545
+I put a tracker
+in her boot.
+
+746
+00:41:37,463 --> 00:41:40,525
+We follow her,
+we find Coryana,
+
+747
+00:41:40,837 --> 00:41:42,287
+we save Kate.
+
+748
+00:41:43,000 --> 00:41:45,698
+And we get you
+the desert Rose.
+
+749
+00:41:47,442 --> 00:41:50,331
+<font color=#ffc30f>Sync corrections</font> by <font color=#00FF00>srjanapala</font>
+
+750
+00:41:51,000 --> 00:41:53,000
+<font color="#D81D1D">Resynced by</font>
+<font color="#138CE9">== Flatto (subscene.com) ==</font>
+

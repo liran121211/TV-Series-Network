@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "Prepare for Take-Off",
+        "released": "2010-03-24",
+        "rating": "N/A",
+        "imdb_id": "tt1539169",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Fly Girls\\Subtitles\\S1\\Fly.Girls.S01E01.Pilot.HDTV.XviD-FQM.zip"
+    },
+    "2": {
+        "title": "Turbulent Relationships",
+        "released": "2010-03-31",
+        "rating": "N/A",
+        "imdb_id": "tt1622733",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Fly Girls\\Subtitles\\S1\\Fly.Girls.S01E02.HDTV.XviD-2HD.zip"
+    },
+    "3": {
+        "title": "Rocking the Boat",
+        "released": "2010-04-07",
+        "rating": "N/A",
+        "imdb_id": "tt1628994",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Destination: Sin City",
+        "released": "2010-04-14",
+        "rating": "N/A",
+        "imdb_id": "tt1651976",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Fly Girls\\Subtitles\\S1\\Fly.Girls.S01E04.HDTV.XviD-2HD.zip"
+    },
+    "5": {
+        "title": "Cabin Pressure",
+        "released": "2010-04-21",
+        "rating": "N/A",
+        "imdb_id": "tt1651975",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Third Wheel",
+        "released": "2010-05-05",
+        "rating": "N/A",
+        "imdb_id": "tt1651978",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Unexpected Departures",
+        "released": "2010-05-05",
+        "rating": "N/A",
+        "imdb_id": "tt1651979",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

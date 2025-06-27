@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Northwest Passage",
+        "released": "1990-04-08",
+        "rating": "8.9",
+        "imdb_id": "tt0278784",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Traces to Nowhere",
+        "released": "1990-04-12",
+        "rating": "8.2",
+        "imdb_id": "tt0734840",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Zen, or the Skill to Catch a Killer",
+        "released": "1990-04-19",
+        "rating": "8.9",
+        "imdb_id": "tt0734843",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Rest in Pain",
+        "released": "1990-04-26",
+        "rating": "8.2",
+        "imdb_id": "tt0734831",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The One-Armed Man",
+        "released": "1990-05-03",
+        "rating": "8.1",
+        "imdb_id": "tt0734837",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Cooper's Dreams",
+        "released": "1990-05-10",
+        "rating": "8.4",
+        "imdb_id": "tt0734818",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Realization Time",
+        "released": "1990-05-17",
+        "rating": "8.5",
+        "imdb_id": "tt0734830",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Last Evening",
+        "released": "1990-05-23",
+        "rating": "9.0",
+        "imdb_id": "tt0734835",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

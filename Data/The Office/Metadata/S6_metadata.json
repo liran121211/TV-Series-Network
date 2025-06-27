@@ -1,0 +1,210 @@
+{
+    "1": {
+        "title": "Gossip",
+        "released": "2009-09-17",
+        "rating": "8.7",
+        "imdb_id": "tt1467798",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S6\\The.Office.S06E01.720p.HDTV.x264-CTUS6E1.zip"
+    },
+    "2": {
+        "title": "The Meeting",
+        "released": "2009-09-24",
+        "rating": "N/A",
+        "imdb_id": "tt1487740",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S6\\The.Office.S06E02.HDTV.XviD-FQMS6E2.zip"
+    },
+    "3": {
+        "title": "The Promotion",
+        "released": "2009-10-01",
+        "rating": "N/A",
+        "imdb_id": "tt1487741",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S6\\The.Office.S06E03.HDTV.XviD-2HDS6E3.zip"
+    },
+    "4": {
+        "title": "Niagara: Part 1",
+        "released": "2009-10-08",
+        "rating": "9.2",
+        "imdb_id": "tt1487742",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S6\\The.Office.US.S06E04.720p.HDTV.x264-ORENJiS6E4.zip"
+    },
+    "5": {
+        "title": "Niagara: Part 2",
+        "released": "2009-10-08",
+        "rating": "9.4",
+        "imdb_id": "tt5541236",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S6\\The.Office.US.S06E05.720p.HDTV.X264-MRSKS6E5.zip"
+    },
+    "6": {
+        "title": "Mafia",
+        "released": "2009-10-15",
+        "rating": "7.5",
+        "imdb_id": "tt1520196",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S6\\The.Office.S06E06.720p.HDTV.x264-CTUS6E6.zip"
+    },
+    "7": {
+        "title": "The Lover",
+        "released": "2009-10-22",
+        "rating": "8.5",
+        "imdb_id": "tt1520197",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S6\\The.Office.US.S06E07.PROPER.720p.HDTV.x264-ORENJiS6E7.zip"
+    },
+    "8": {
+        "title": "Koi Pond",
+        "released": "2009-10-29",
+        "rating": "8.0",
+        "imdb_id": "tt1524878",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S6\\The.Office.US.S06E08.720p.HDTV.X264-DIMENSIONS6E8.zip"
+    },
+    "9": {
+        "title": "Double Date",
+        "released": "2009-11-05",
+        "rating": "N/A",
+        "imdb_id": "tt1531589",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S6\\The.Office.US.S06E09.720p.HDTV.X264-DIMENSIONS6E9.zip"
+    },
+    "10": {
+        "title": "Murder",
+        "released": "2009-11-12",
+        "rating": "8.6",
+        "imdb_id": "tt1535367",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Shareholder Meeting",
+        "released": "2009-11-19",
+        "rating": "8.0",
+        "imdb_id": "tt1536326",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Scott's Tots",
+        "released": "2009-12-03",
+        "rating": "8.2",
+        "imdb_id": "tt1544466",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Secret Santa",
+        "released": "2009-12-10",
+        "rating": "8.4",
+        "imdb_id": "tt1548747",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Banker",
+        "released": "2010-01-21",
+        "rating": "6.7",
+        "imdb_id": "tt1564719",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Sabre",
+        "released": "2010-02-04",
+        "rating": "7.5",
+        "imdb_id": "tt1564720",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Manager and Salesman",
+        "released": "2010-02-11",
+        "rating": "7.8",
+        "imdb_id": "tt1564721",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Delivery: Part 1",
+        "released": "2010-03-04",
+        "rating": "N/A",
+        "imdb_id": "tt1582153",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Delivery: Part 2",
+        "released": "2010-03-04",
+        "rating": "8.4",
+        "imdb_id": "tt1582154",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "St. Patrick's Day",
+        "released": "2010-03-11",
+        "rating": "7.5",
+        "imdb_id": "tt1589333",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "New Leads",
+        "released": "2010-03-18",
+        "rating": "7.6",
+        "imdb_id": "tt1589334",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Happy Hour",
+        "released": "2010-03-25",
+        "rating": "8.4",
+        "imdb_id": "tt1589335",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Secretary's Day",
+        "released": "2010-04-22",
+        "rating": "7.6",
+        "imdb_id": "tt1589336",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Body Language",
+        "released": "2010-04-29",
+        "rating": "7.7",
+        "imdb_id": "tt1589337",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "The Cover-Up",
+        "released": "2010-05-06",
+        "rating": "8.0",
+        "imdb_id": "tt1589338",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "The Chump",
+        "released": "2010-05-13",
+        "rating": "7.6",
+        "imdb_id": "tt1610228",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Whistleblower",
+        "released": "2010-05-20",
+        "rating": "7.8",
+        "imdb_id": "tt1610229",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

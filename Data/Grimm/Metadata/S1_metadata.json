@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2011-10-28",
+        "rating": "7.8",
+        "imdb_id": "tt1940498",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Bears Will Be Bears",
+        "released": "2011-11-04",
+        "rating": "7.5",
+        "imdb_id": "tt2021147",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "BeeWare",
+        "released": "2011-11-11",
+        "rating": "7.5",
+        "imdb_id": "tt2056075",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Lonelyhearts",
+        "released": "2011-11-18",
+        "rating": "7.6",
+        "imdb_id": "tt2059726",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Danse Macabre",
+        "released": "2011-12-08",
+        "rating": "7.9",
+        "imdb_id": "tt2058314",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Three Bad Wolves",
+        "released": "2011-12-09",
+        "rating": "7.9",
+        "imdb_id": "tt2056972",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Let Your Hair Down",
+        "released": "2011-12-16",
+        "rating": "7.9",
+        "imdb_id": "tt2075676",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Game Ogre",
+        "released": "2012-01-13",
+        "rating": "8.1",
+        "imdb_id": "tt2087188",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Of Mouse and Man",
+        "released": "2012-01-20",
+        "rating": "7.5",
+        "imdb_id": "tt2075677",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Organ Grinder",
+        "released": "2012-02-03",
+        "rating": "8.0",
+        "imdb_id": "tt2090876",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Tarantella",
+        "released": "2012-02-10",
+        "rating": "7.8",
+        "imdb_id": "tt2104400",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Last Grimm Standing",
+        "released": "2012-02-24",
+        "rating": "8.0",
+        "imdb_id": "tt2124369",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Three Coins in a Fuchsbau",
+        "released": "2012-03-02",
+        "rating": "8.5",
+        "imdb_id": "tt2127825",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Plumed Serpent",
+        "released": "2012-03-09",
+        "rating": "8.0",
+        "imdb_id": "tt2202951",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Island of Dreams",
+        "released": "2012-03-30",
+        "rating": "8.1",
+        "imdb_id": "tt2200281",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Thing with Feathers",
+        "released": "2012-04-06",
+        "rating": "7.9",
+        "imdb_id": "tt2208573",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Love Sick",
+        "released": "2012-04-13",
+        "rating": "8.4",
+        "imdb_id": "tt2222231",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Cat and Mouse",
+        "released": "2012-04-20",
+        "rating": "8.4",
+        "imdb_id": "tt2257329",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Leave It to Beavers",
+        "released": "2012-04-27",
+        "rating": "8.5",
+        "imdb_id": "tt2356209",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Happily Ever Aftermath",
+        "released": "2012-05-04",
+        "rating": "7.8",
+        "imdb_id": "tt2373013",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Big Feet",
+        "released": "2012-05-11",
+        "rating": "8.0",
+        "imdb_id": "tt2373011",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Woman in Black",
+        "released": "2012-05-18",
+        "rating": "N/A",
+        "imdb_id": "tt2383907",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

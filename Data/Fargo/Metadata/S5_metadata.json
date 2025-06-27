@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Tragedy of the Commons",
+        "released": "2023-11-21",
+        "rating": "8.6",
+        "imdb_id": "tt18269034",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Trials and Tribulations",
+        "released": "2023-11-21",
+        "rating": "8.4",
+        "imdb_id": "tt27250991",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Paradox of Intermediate Transactions",
+        "released": "2023-11-28",
+        "rating": "8.0",
+        "imdb_id": "tt27250992",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Insolubilia",
+        "released": "2023-12-05",
+        "rating": "8.0",
+        "imdb_id": "tt27250995",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Tiger",
+        "released": "2023-12-12",
+        "rating": "8.1",
+        "imdb_id": "tt27331428",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Tender Trap",
+        "released": "2023-12-19",
+        "rating": "8.1",
+        "imdb_id": "tt27331434",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Linda",
+        "released": "2023-12-26",
+        "rating": "N/A",
+        "imdb_id": "tt27331437",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Blanket",
+        "released": "2024-01-02",
+        "rating": "8.6",
+        "imdb_id": "tt27126335",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Useless Hand",
+        "released": "2024-01-09",
+        "rating": "8.6",
+        "imdb_id": "tt27426597",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Bisquik",
+        "released": "2024-01-16",
+        "rating": "8.3",
+        "imdb_id": "tt27426599",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

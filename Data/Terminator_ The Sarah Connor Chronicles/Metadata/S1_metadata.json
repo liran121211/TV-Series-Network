@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2008-01-13",
+        "rating": "7.6",
+        "imdb_id": "tt0898023",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S1\\Terminator.The.Sarah.Connor.Chronicles.S01E01.HDTV.XviD-CRiMSONS1E1.zip"
+    },
+    "2": {
+        "title": "Gnothi Seauton",
+        "released": "2008-01-14",
+        "rating": "7.4",
+        "imdb_id": "tt1055790",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S1\\Terminator.The.Sarah.Connor.Chronicals.S01E02.HDTV.XviD-NoTV-HIS1E2.zip"
+    },
+    "3": {
+        "title": "The Turk",
+        "released": "2008-01-21",
+        "rating": "7.5",
+        "imdb_id": "tt1055791",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S1\\Terminator.The.Sarah.Connor.Chronicals.S01E03.HDTV.XviD-NoTV-HIS1E3.zip"
+    },
+    "4": {
+        "title": "Heavy Metal",
+        "released": "2008-02-04",
+        "rating": "7.4",
+        "imdb_id": "tt1055792",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S1\\Terminator.The.Sarah.Connor.Chronicles.S01E04.HDTV.XviD-NoTV-HIS1E4.zip"
+    },
+    "5": {
+        "title": "Queen's Gambit",
+        "released": "2008-02-11",
+        "rating": "7.8",
+        "imdb_id": "tt1055793",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S1\\Terminator.The.Sarah.Connor.Chronicles.S01E05.HDTV.XviD-XOR-HIS1E5.zip"
+    },
+    "6": {
+        "title": "Dungeons & Dragons",
+        "released": "2008-02-18",
+        "rating": "7.7",
+        "imdb_id": "tt1055794",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S1\\Terminator.The.Sarah.Connor.Chronicles.S01E06.HDTV.XviD-XOR-HIS1E6.zip"
+    },
+    "7": {
+        "title": "The Demon Hand",
+        "released": "2008-02-25",
+        "rating": "7.8",
+        "imdb_id": "tt1055795",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S1\\Terminator.The.Sarah.Connor.Chronicles.S01E07.PROPER.HDTV.XviD-NoTV-HI_.CS1E7.zip"
+    },
+    "8": {
+        "title": "Vick's Chip",
+        "released": "2008-03-03",
+        "rating": "7.6",
+        "imdb_id": "tt1055796",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S1\\Terminator.The.Sarah.Connor.Chronicles.S01E08.HDTV.XviD-NoTV-HIS1E8.zip"
+    },
+    "9": {
+        "title": "What He Beheld",
+        "released": "2008-03-03",
+        "rating": "8.2",
+        "imdb_id": "tt1055797",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Terminator_ The Sarah Connor Chronicles\\Subtitles\\S1\\Terminator.The.Sarah.Connor.Chronicles.S01E09.REPACK.HDTV.XviD-NoTV-HIS1E9.zip"
+    }
+}

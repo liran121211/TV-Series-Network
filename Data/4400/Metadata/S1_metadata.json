@@ -1,0 +1,90 @@
+{
+    "1": {
+        "title": "Past Is Prologue",
+        "released": "2021-10-25",
+        "rating": "5.7",
+        "imdb_id": "tt14403052",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\4400\\Subtitles\\S1\\4400 - S01E01 WEB.eng.zip"
+    },
+    "2": {
+        "title": "All Things Are Possible",
+        "released": "2021-11-01",
+        "rating": "5.7",
+        "imdb_id": "tt15402702",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\4400\\Subtitles\\S1\\4400 - S01E02 WEB.eng.zip"
+    },
+    "4": {
+        "title": "Harlem's Renaissance Man",
+        "released": "2021-11-15",
+        "rating": "N/A",
+        "imdb_id": "tt15574988",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\4400\\Subtitles\\S1\\4400 - S01E04 WEB.eng.zip"
+    },
+    "5": {
+        "title": "The Way We Were",
+        "released": "2021-11-22",
+        "rating": "N/A",
+        "imdb_id": "tt15408150",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\4400\\Subtitles\\S1\\4400 - S01E05 WEB.eng.zip"
+    },
+    "6": {
+        "title": "If You Love Something",
+        "released": "2021-11-29",
+        "rating": "6.3",
+        "imdb_id": "tt15574992",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\4400\\Subtitles\\S1\\4400 - S01E06 WEB.eng.zip"
+    },
+    "7": {
+        "title": "Empowered Women Empower Women",
+        "released": "2021-12-06",
+        "rating": "N/A",
+        "imdb_id": "tt15545454",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\4400\\Subtitles\\S1\\4400 - S01E07 WEB.eng.zip"
+    },
+    "9": {
+        "title": "Great Expectations",
+        "released": "2022-01-17",
+        "rating": "N/A",
+        "imdb_id": "tt16420742",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\4400\\Subtitles\\S1\\4400 - S01E09 WEB.eng.zip"
+    },
+    "10": {
+        "title": "Give Up the Ghost",
+        "released": "2022-01-24",
+        "rating": "N/A",
+        "imdb_id": "tt16951266",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\4400\\Subtitles\\S1\\4400 - S01E10 WEB.eng.zip"
+    },
+    "11": {
+        "title": "You Only Meant Well",
+        "released": "2022-01-31",
+        "rating": "N/A",
+        "imdb_id": "tt17069020",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\4400\\Subtitles\\S1\\4400 - S01E11 WEB.eng.zip"
+    },
+    "12": {
+        "title": "Group Efforts",
+        "released": "2022-02-07",
+        "rating": "6.8",
+        "imdb_id": "tt17338812",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Present Is Prologue",
+        "released": "2022-02-14",
+        "rating": "5.7",
+        "imdb_id": "tt17521150",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

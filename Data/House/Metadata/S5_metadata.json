@@ -1,0 +1,194 @@
+{
+    "1": {
+        "title": "Dying Changes Everything",
+        "released": "2008-09-16",
+        "rating": "8.3",
+        "imdb_id": "tt1274484",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S5\\House.S05E01-24.DVDRip-REWARD.eng.[Fixed.3.lines]S5E1.zip"
+    },
+    "2": {
+        "title": "Not Cancer",
+        "released": "2008-09-23",
+        "rating": "8.1",
+        "imdb_id": "tt1273723",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S5\\House.S05E02.Repack.720p.HDTV.X264-DIMENSIONS5E2.zip"
+    },
+    "3": {
+        "title": "Adverse Events",
+        "released": "2008-09-30",
+        "rating": "8.0",
+        "imdb_id": "tt1273727",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S5\\House.S05E03.HDTV.XviD-LOLS5E3.zip"
+    },
+    "4": {
+        "title": "Birthmarks",
+        "released": "2008-10-14",
+        "rating": "8.9",
+        "imdb_id": "tt1273728",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S5\\House.S05E04.HDTV.XviD-LOLS5E4.zip"
+    },
+    "5": {
+        "title": "Lucky Thirteen",
+        "released": "2008-10-21",
+        "rating": "8.5",
+        "imdb_id": "tt1273729",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S5\\House_S05E05_HDTV_XviD-LOLS5E5.zip"
+    },
+    "6": {
+        "title": "Joy",
+        "released": "2008-10-28",
+        "rating": "8.5",
+        "imdb_id": "tt1273730",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S5\\House.S05E06.Joy.HDTV.XviD.FQMS5E6.zip"
+    },
+    "7": {
+        "title": "The Itch",
+        "released": "2008-11-11",
+        "rating": "N/A",
+        "imdb_id": "tt1273731",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S5\\House.S05E07.HDTV.XviD-LOL_[Perfect_Subtitle]S5E7.zip"
+    },
+    "8": {
+        "title": "Emancipation",
+        "released": "2008-11-18",
+        "rating": "N/A",
+        "imdb_id": "tt1273732",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S5\\House.S05E08.HDTV.XviD-LOL_[Edited]S5E8.zip"
+    },
+    "9": {
+        "title": "Last Resort",
+        "released": "2008-11-25",
+        "rating": "N/A",
+        "imdb_id": "tt1273733",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S5\\House.S05E09.HDTV.XviD-LOL.engS5E9.zip"
+    },
+    "10": {
+        "title": "Let Them Eat Cake",
+        "released": "2008-12-02",
+        "rating": "8.1",
+        "imdb_id": "tt1273713",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Joy to the World",
+        "released": "2008-12-09",
+        "rating": "8.3",
+        "imdb_id": "tt1273714",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Painless",
+        "released": "2009-01-19",
+        "rating": "7.9",
+        "imdb_id": "tt1273715",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Big Baby",
+        "released": "2009-01-26",
+        "rating": "7.8",
+        "imdb_id": "tt1273716",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Greater Good",
+        "released": "2009-02-02",
+        "rating": "7.8",
+        "imdb_id": "tt1273717",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Unfaithful",
+        "released": "2009-02-16",
+        "rating": "8.3",
+        "imdb_id": "tt1273718",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Softer Side",
+        "released": "2009-02-23",
+        "rating": "8.5",
+        "imdb_id": "tt1273719",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Social Contract",
+        "released": "2009-03-09",
+        "rating": "8.6",
+        "imdb_id": "tt1273720",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Here Kitty",
+        "released": "2009-03-16",
+        "rating": "N/A",
+        "imdb_id": "tt1273721",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Locked In",
+        "released": "2009-03-30",
+        "rating": "9.1",
+        "imdb_id": "tt1273722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Simple Explanation",
+        "released": "2009-04-06",
+        "rating": "9.1",
+        "imdb_id": "tt1273724",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Saviors",
+        "released": "2009-04-13",
+        "rating": "8.2",
+        "imdb_id": "tt1273725",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "House Divided",
+        "released": "2009-04-27",
+        "rating": "9.0",
+        "imdb_id": "tt1273726",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Under My Skin",
+        "released": "2009-05-04",
+        "rating": "9.2",
+        "imdb_id": "tt1399759",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Both Sides Now",
+        "released": "2009-05-11",
+        "rating": "9.6",
+        "imdb_id": "tt1413129",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

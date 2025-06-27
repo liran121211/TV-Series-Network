@@ -1,0 +1,42 @@
+{
+    "5": {
+        "title": "White Noise",
+        "released": "2014-04-06",
+        "rating": "N/A",
+        "imdb_id": "tt3369098",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Bang and Blame",
+        "released": "2014-04-20",
+        "rating": "N/A",
+        "imdb_id": "tt3471128",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Together",
+        "released": "2014-04-27",
+        "rating": "N/A",
+        "imdb_id": "tt3475228",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Collapse",
+        "released": "2014-05-25",
+        "rating": "N/A",
+        "imdb_id": "tt3665632",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Second Chance",
+        "released": "2014-06-15",
+        "rating": "N/A",
+        "imdb_id": "tt3683582",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

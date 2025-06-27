@@ -1,0 +1,162 @@
+{
+    "1": {
+        "title": "Scattered",
+        "released": "2005-07-15",
+        "rating": "8.2",
+        "imdb_id": "tt0519785",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S2\\Battlestar.Galactica.S02E01-20.DVDRiP.AC3-HB.eng-HI-RETAILS2E1.zip"
+    },
+    "2": {
+        "title": "Valley of Darkness",
+        "released": "2005-07-22",
+        "rating": "7.9",
+        "imdb_id": "tt0519791",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S2\\BSG.S02E02.Valley.Of.Darkness.720p.BrripS2E2.zip"
+    },
+    "3": {
+        "title": "Fragged",
+        "released": "2005-07-29",
+        "rating": "N/A",
+        "imdb_id": "tt0519771",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S2\\BSG.S02E03.Fragged.720p.BrripS2E3.zip"
+    },
+    "4": {
+        "title": "Resistance",
+        "released": "2005-08-05",
+        "rating": "8.0",
+        "imdb_id": "tt0519780",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S2\\BSG.S02E04.Resistance.720p.BrripS2E4.zip"
+    },
+    "5": {
+        "title": "The Farm",
+        "released": "2005-08-12",
+        "rating": "7.7",
+        "imdb_id": "tt0519788",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S2\\BSG.S02E05.The.Farm.720p.BrripS2E5.zip"
+    },
+    "6": {
+        "title": "Home: Part 1",
+        "released": "2005-08-19",
+        "rating": "8.0",
+        "imdb_id": "tt0519772",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S2\\BSG.S02E06.Home.Part.1.720p.BrripS2E6.zip"
+    },
+    "7": {
+        "title": "Home: Part 2",
+        "released": "2005-08-26",
+        "rating": "8.3",
+        "imdb_id": "tt0519773",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S2\\BSG.S02E07.Home.Part.2.720p.BrripS2E7.zip"
+    },
+    "8": {
+        "title": "Final Cut",
+        "released": "2005-09-09",
+        "rating": "7.7",
+        "imdb_id": "tt0519768",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S2\\BSG.S02E08.Final.Cut.720p.BrripS2E8.zip"
+    },
+    "9": {
+        "title": "Flight of the Phoenix",
+        "released": "2005-09-16",
+        "rating": "8.2",
+        "imdb_id": "tt0519770",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S2\\BSG.S02E09.Flight.Of.The.Phoenix.720p.BrripS2E9.zip"
+    },
+    "10": {
+        "title": "Pegasus",
+        "released": "2005-09-23",
+        "rating": "N/A",
+        "imdb_id": "tt0519779",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Battlestar Galactica\\Subtitles\\S2\\Battlestar.Galactica.S02E10.Extended.DVDRip.XviD-DIMENSIONS2E10.zip"
+    },
+    "11": {
+        "title": "Resurrection Ship: Part 1",
+        "released": "2006-01-06",
+        "rating": "8.7",
+        "imdb_id": "tt0519781",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Resurrection Ship: Part 2",
+        "released": "2006-01-13",
+        "rating": "8.9",
+        "imdb_id": "tt0519782",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Epiphanies",
+        "released": "2006-01-20",
+        "rating": "7.4",
+        "imdb_id": "tt0519767",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Black Market",
+        "released": "2006-01-27",
+        "rating": "6.4",
+        "imdb_id": "tt0519764",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Scar",
+        "released": "2006-02-03",
+        "rating": "7.3",
+        "imdb_id": "tt0519784",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Sacrifice",
+        "released": "2006-02-10",
+        "rating": "7.0",
+        "imdb_id": "tt0519783",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Captain's Hand",
+        "released": "2006-02-17",
+        "rating": "7.6",
+        "imdb_id": "tt0519787",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Downloaded",
+        "released": "2006-02-24",
+        "rating": "8.4",
+        "imdb_id": "tt0519766",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Lay Down Your Burdens: Part 1",
+        "released": "2006-03-03",
+        "rating": "8.0",
+        "imdb_id": "tt0519776",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Lay Down Your Burdens: Part 2",
+        "released": "2006-03-10",
+        "rating": "8.7",
+        "imdb_id": "tt0519777",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

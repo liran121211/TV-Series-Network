@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Tehri",
+        "released": "2019-06-27",
+        "rating": "N/A",
+        "imdb_id": "tt10549082",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Hum Do Hamare Do",
+        "released": "2019-06-27",
+        "rating": "N/A",
+        "imdb_id": "tt10549132",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Itwaar",
+        "released": "2019-06-27",
+        "rating": "N/A",
+        "imdb_id": "tt10549262",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Batti Aa Gayi",
+        "released": "2019-06-27",
+        "rating": "N/A",
+        "imdb_id": "tt10549486",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Tyohaar",
+        "released": "2019-06-27",
+        "rating": "9.0",
+        "imdb_id": "tt10549456",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

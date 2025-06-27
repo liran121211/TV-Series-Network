@@ -1,0 +1,3310 @@
+1
+00:01:23,084 --> 00:01:25,833
+The train now
+arriving on Platform 1
+
+2
+00:01:26,125 --> 00:01:29,666
+is the 5:30 from Ilfracombe,
+Barnstaple, Exeter, and Yeovil.
+
+3
+00:01:32,459 --> 00:01:34,541
+The train now arriving
+on Platform 1
+
+4
+00:01:35,209 --> 00:01:40,833
+is the 5:30 from Ilfracombe,
+Barnstaple, Exeter, and Yeovil.
+
+5
+00:02:21,459 --> 00:02:23,166
+Good evening, Countess.
+
+6
+00:02:23,500 --> 00:02:25,499
+It's an honor to have you
+with us again.
+
+7
+00:02:25,625 --> 00:02:27,208
+Your usual suite is ready.
+
+8
+00:02:53,042 --> 00:02:54,166
+Thank you.
+
+9
+00:02:54,292 --> 00:02:56,333
+Thank you, Countess.
+
+10
+00:03:18,417 --> 00:03:19,791
+Doesn't the town look good
+
+11
+00:03:19,917 --> 00:03:21,416
+at this time of year, Poirot?
+
+12
+00:03:21,542 --> 00:03:24,541
+Yes, one can always tell
+when the summer, it is arrived.
+
+13
+00:03:24,667 --> 00:03:25,791
+It's in the air, eh?
+
+14
+00:03:25,917 --> 00:03:28,333
+No, Hastings, it is in the speed
+of your driving.
+
+15
+00:03:28,459 --> 00:03:32,124
+Come on, Poirot,
+we're only pushing 30.
+
+16
+00:03:38,292 --> 00:03:39,541
+Sorry, old chap.
+
+17
+00:03:40,292 --> 00:03:41,333
+Red light.
+
+18
+00:03:43,459 --> 00:03:44,708
+I prefer the winter.
+
+19
+00:03:44,834 --> 00:03:46,083
+It is safer.
+
+20
+00:03:47,084 --> 00:03:49,374
+Now, there's a pleasant sight
+
+21
+00:03:49,500 --> 00:03:50,916
+for you on a summer's day.
+
+22
+00:03:51,084 --> 00:03:52,624
+You ever thought about it?
+
+23
+00:03:54,459 --> 00:03:57,374
+In my experience,
+I have known of five cases
+
+24
+00:03:57,625 --> 00:04:00,208
+of women murdered
+by their devoted husbands.
+
+25
+00:04:00,625 --> 00:04:01,874
+Yes?
+
+26
+00:04:02,084 --> 00:04:04,874
+And 22 husbands murdered
+by their devoted wives.
+
+27
+00:04:07,584 --> 00:04:08,833
+So, thank you, no.
+
+28
+00:04:09,750 --> 00:04:11,666
+The marriage,
+it is not for me, ah?
+
+29
+00:04:13,709 --> 00:04:15,333
+And now I think the light,
+it is green.
+
+30
+00:04:15,459 --> 00:04:17,041
+We can proceed -- gently.
+
+31
+00:04:18,209 --> 00:04:19,458
+Righto.
+
+32
+00:04:26,625 --> 00:04:27,916
+But I'm not
+going to have a crash.
+
+33
+00:04:28,042 --> 00:04:29,374
+Anyway, we saw a bride.
+
+34
+00:04:29,667 --> 00:04:31,458
+That's supposed to be good luck.
+
+35
+00:04:31,875 --> 00:04:33,458
+Mr. Poirot, you're back.
+
+36
+00:04:33,709 --> 00:04:35,749
+The chief inspector's
+waiting inside.
+
+37
+00:04:35,875 --> 00:04:37,749
+Chief Inspector Japp?
+Here?
+
+38
+00:04:38,000 --> 00:04:40,874
+That must be the luck of which
+you speak, Hastings.
+
+39
+00:04:42,375 --> 00:04:44,458
+I think he's worried
+about something.
+
+40
+00:04:44,584 --> 00:04:46,958
+He hasn't said a word.
+
+41
+00:04:49,834 --> 00:04:51,124
+Chief Inspector.
+
+42
+00:04:52,834 --> 00:04:54,541
+Good afternoon, Poirot.
+
+43
+00:04:55,167 --> 00:04:56,249
+Captain Hastings.
+
+44
+00:04:56,375 --> 00:04:57,291
+Chief Inspector.
+
+45
+00:04:57,417 --> 00:04:59,249
+Please, seat yourself.
+
+46
+00:05:01,292 --> 00:05:03,833
+What matter is it
+that brings you here today?
+
+47
+00:05:05,667 --> 00:05:08,458
+The matter of my job,
+if you want the honest truth.
+
+48
+00:05:09,459 --> 00:05:11,874
+They'd never dismiss you,
+would they, Chief Inspector?
+
+49
+00:05:12,000 --> 00:05:14,499
+They will if I don't get results
+soon, Captain Hastings.
+
+50
+00:05:21,625 --> 00:05:23,541
+Three robberies
+in as many weeks.
+
+51
+00:05:24,042 --> 00:05:25,333
+Jewelry each time.
+
+52
+00:05:26,334 --> 00:05:28,791
+The Atterton diamonds
+were the first to go.
+
+53
+00:05:30,209 --> 00:05:31,458
+Lady Atterton?
+
+54
+00:05:31,584 --> 00:05:32,874
+In the West Country?
+
+55
+00:05:33,834 --> 00:05:35,541
+Happened during dinner.
+
+56
+00:05:35,917 --> 00:05:38,666
+Two dukes, a duchess,
+and some Russian countess
+
+57
+00:05:39,209 --> 00:05:40,374
+around the table.
+
+58
+00:05:40,500 --> 00:05:42,291
+Not your usual run of witnesses.
+
+59
+00:05:43,000 --> 00:05:44,083
+They're high society.
+
+60
+00:05:44,209 --> 00:05:45,291
+Can't get much higher.
+
+61
+00:05:45,417 --> 00:05:46,749
+That's the trouble.
+
+62
+00:05:47,542 --> 00:05:49,208
+The commissioner's
+come down on me.
+
+63
+00:05:49,334 --> 00:05:50,583
+He wants action.
+
+64
+00:05:51,167 --> 00:05:53,499
+If not, he's going to have to
+give them a scapegoat.
+
+65
+00:05:53,625 --> 00:05:54,874
+A goat?
+
+66
+00:05:55,542 --> 00:05:56,791
+Me.
+
+67
+00:05:58,917 --> 00:06:00,583
+When was this last robbery?
+
+68
+00:06:02,459 --> 00:06:03,624
+Three days ago.
+
+69
+00:06:03,750 --> 00:06:04,999
+Three days?
+
+70
+00:06:05,292 --> 00:06:06,541
+But it is too late.
+
+71
+00:06:07,125 --> 00:06:09,749
+It is better to strike
+while the metal is warm, yes?
+
+72
+00:06:12,542 --> 00:06:13,791
+So what can we do?
+
+73
+00:06:14,459 --> 00:06:15,708
+We wait.
+
+74
+00:06:17,959 --> 00:06:21,499
+Already the thief,
+he is planning his next crime.
+
+75
+00:06:23,500 --> 00:06:24,749
+The next crime,
+
+76
+00:06:26,084 --> 00:06:27,333
+it will be his last.
+
+77
+00:07:07,042 --> 00:07:10,416
+This way, Countess.
+
+78
+00:07:24,875 --> 00:07:26,124
+Lady Runcorn.
+
+79
+00:07:27,625 --> 00:07:28,874
+How good of you to come.
+
+80
+00:07:29,042 --> 00:07:30,708
+And how exquisite you look.
+
+81
+00:07:31,209 --> 00:07:33,958
+Your parties are always
+an experience, Marcus.
+
+82
+00:07:34,250 --> 00:07:36,458
+And tonight is no exception.
+
+83
+00:07:36,584 --> 00:07:38,999
+We have Nacora the pianist
+playing for us.
+
+84
+00:07:39,500 --> 00:07:41,208
+And you know Katherine Bird.
+
+85
+00:07:41,459 --> 00:07:42,708
+The contralto?
+
+86
+00:07:42,917 --> 00:07:45,666
+My dear Marcus, one can't get
+tickets to hear her
+
+87
+00:07:45,917 --> 00:07:47,166
+for love or money.
+
+88
+00:07:47,500 --> 00:07:48,749
+No need for either.
+
+89
+00:07:49,417 --> 00:07:51,249
+Oh, let me introduce you
+to a colleague of mine
+
+90
+00:07:51,375 --> 00:07:52,458
+from South Africa.
+
+91
+00:07:52,584 --> 00:07:54,708
+Martin Johnstone, Lady Runcorn.
+
+92
+00:07:55,459 --> 00:07:56,458
+How do you do?
+
+93
+00:07:56,584 --> 00:07:57,833
+Excuse me.
+
+94
+00:07:58,334 --> 00:08:00,666
+Are you also a collector,
+Mr. Johnstone?
+
+95
+00:08:01,584 --> 00:08:02,791
+What?
+
+96
+00:08:02,917 --> 00:08:04,124
+Jewelry.
+
+97
+00:08:04,250 --> 00:08:07,999
+Mr. Hardman has one of the
+finest collections in England.
+
+98
+00:08:10,542 --> 00:08:11,916
+Is Lady Runcorn here?
+
+99
+00:08:12,209 --> 00:08:13,541
+Yes, I was just talking to her.
+
+100
+00:08:13,667 --> 00:08:14,916
+Oh, good!
+
+101
+00:08:15,167 --> 00:08:17,041
+She's quite attractive, really.
+
+102
+00:08:17,167 --> 00:08:19,708
+I wonder if she misses
+the late Lord Runcorn.
+
+103
+00:08:21,167 --> 00:08:23,499
+For heaven's sake,
+do try to be discreet.
+
+104
+00:08:24,834 --> 00:08:26,124
+You know me, Marcus.
+
+105
+00:08:26,834 --> 00:08:28,499
+Yes.
+
+106
+00:08:31,750 --> 00:08:32,999
+Who's that?
+
+107
+00:08:34,167 --> 00:08:36,416
+Countess Vera Rossakoff.
+
+108
+00:08:37,000 --> 00:08:39,416
+She came over from Russia
+quite recently.
+
+109
+00:08:41,250 --> 00:08:42,499
+Yes.
+
+110
+00:08:42,792 --> 00:08:45,708
+I suggest you keep your hands
+off of her, my dear boy.
+
+111
+00:08:46,959 --> 00:08:48,208
+Why?
+
+112
+00:08:48,542 --> 00:08:50,041
+You're not in her league.
+
+113
+00:08:53,792 --> 00:08:57,499
+I wonder.
+
+114
+00:12:22,042 --> 00:12:23,458
+And where have you been?
+
+115
+00:12:24,875 --> 00:12:27,208
+Busy.
+
+116
+00:12:33,000 --> 00:12:35,208
+Have you seen my gloves?
+
+117
+00:12:35,625 --> 00:12:37,999
+No, I haven't.
+
+118
+00:12:51,459 --> 00:12:52,999
+You couldn't ask
+for the trail
+
+119
+00:12:53,125 --> 00:12:54,749
+to be much fresher
+this time, Poirot.
+
+120
+00:12:54,875 --> 00:12:56,791
+I only heard myself
+this morning.
+
+121
+00:12:57,625 --> 00:12:58,958
+I've been chasing
+all over the country
+
+122
+00:12:59,084 --> 00:13:00,666
+on the other three robberies.
+
+123
+00:13:00,792 --> 00:13:03,583
+This is the first one
+that's been close to London.
+
+124
+00:13:03,875 --> 00:13:05,999
+Tell me about
+this M. Marcus Hardman.
+
+125
+00:13:06,542 --> 00:13:08,208
+He's a jewelry collector.
+
+126
+00:13:09,500 --> 00:13:11,749
+Something of a celebrity
+in his own way.
+
+127
+00:13:11,917 --> 00:13:13,916
+Throws a lot of parties,
+that sort of thing.
+
+128
+00:13:14,042 --> 00:13:15,458
+A collector, do you say?
+
+129
+00:13:16,542 --> 00:13:18,749
+Yes.
+Natural target, I suppose.
+
+130
+00:13:19,834 --> 00:13:21,624
+And yet, in other circumstances,
+
+131
+00:13:21,750 --> 00:13:24,166
+perhaps also
+the natural suspect.
+
+132
+00:13:41,959 --> 00:13:43,833
+They were in the garden
+when it happened.
+
+133
+00:13:43,959 --> 00:13:45,333
+Some sort of concert.
+
+134
+00:13:45,750 --> 00:13:46,833
+In the garden?
+
+135
+00:13:46,959 --> 00:13:48,374
+There's a marquee.
+
+136
+00:13:48,500 --> 00:13:49,749
+Sir.
+
+137
+00:13:50,334 --> 00:13:52,249
+You were the constable
+on duty last night?
+
+138
+00:13:52,375 --> 00:13:53,291
+Yes, sir.
+
+139
+00:13:53,417 --> 00:13:54,958
+Tell us what happened, then.
+
+140
+00:13:55,084 --> 00:13:56,333
+I was on my beat, sir.
+
+141
+00:13:56,500 --> 00:13:59,708
+I walked past Mr. Hardman's
+house about half past 10:00.
+
+142
+00:13:59,875 --> 00:14:01,124
+And?
+
+143
+00:14:03,000 --> 00:14:04,749
+Well, sir, I did see something.
+
+144
+00:14:05,875 --> 00:14:07,124
+A vagrant.
+
+145
+00:14:07,417 --> 00:14:09,624
+He was going the other way.
+Down there.
+
+146
+00:14:09,792 --> 00:14:13,249
+That vagrant could have had a
+£10,000 necklace in his pocket.
+
+147
+00:14:14,709 --> 00:14:15,999
+I wasn't to know, sir.
+
+148
+00:14:17,959 --> 00:14:19,208
+Indeed not.
+
+149
+00:14:20,042 --> 00:14:21,249
+Thank you, Officer.
+
+150
+00:14:21,375 --> 00:14:24,499
+You've been most assiduous
+in your duties.
+
+151
+00:14:28,834 --> 00:14:30,916
+It's a ghastly thing.
+Just ghastly.
+
+152
+00:14:31,542 --> 00:14:33,291
+I mean, the publicity
+will destroy me.
+
+153
+00:14:33,417 --> 00:14:34,499
+When did you notice
+
+154
+00:14:34,625 --> 00:14:36,166
+that the jewelry was absent,
+M. Hardman?
+
+155
+00:14:36,292 --> 00:14:37,458
+It was this morning.
+
+156
+00:14:37,584 --> 00:14:39,124
+I got up late
+after last night's concert.
+
+157
+00:14:39,250 --> 00:14:41,499
+We had Nacora play,
+and Katherine Bird.
+
+158
+00:14:42,792 --> 00:14:44,083
+I came into the room --
+
+159
+00:14:44,667 --> 00:14:46,708
+my beautiful emerald necklace.
+
+160
+00:14:47,000 --> 00:14:48,749
+But it is insured, Mr. Hardman?
+
+161
+00:14:49,000 --> 00:14:50,166
+-Insured?
+-Is it?
+
+162
+00:14:50,292 --> 00:14:51,708
+Well, of course it's insured!
+
+163
+00:14:51,834 --> 00:14:52,874
+That's not the point.
+
+164
+00:14:53,000 --> 00:14:54,499
+It's irreplaceable.
+
+165
+00:14:54,625 --> 00:14:57,499
+It used to belong to
+Catherine de Medici, you know.
+
+166
+00:14:59,000 --> 00:15:02,458
+It's through here.
+
+167
+00:15:06,709 --> 00:15:07,958
+M. Hardman?
+
+168
+00:15:09,625 --> 00:15:11,708
+This window,
+it is kept locked, yes?
+
+169
+00:15:14,084 --> 00:15:15,333
+Of course.
+
+170
+00:15:15,917 --> 00:15:17,583
+I'll show you the safe.
+
+171
+00:15:21,834 --> 00:15:23,916
+What's different
+about this window?
+
+172
+00:15:24,042 --> 00:15:25,958
+It looks just like
+all the others.
+
+173
+00:15:26,125 --> 00:15:28,499
+But there is one significant
+difference, mon ami.
+
+174
+00:15:28,625 --> 00:15:30,958
+It is at this point
+the climbing plant outside
+
+175
+00:15:31,084 --> 00:15:32,333
+almost reaches the sill.
+
+176
+00:15:32,459 --> 00:15:33,916
+And M. Hardman is, I think,
+
+177
+00:15:34,334 --> 00:15:36,583
+a little overconfident
+about the latches.
+
+178
+00:15:42,500 --> 00:15:44,541
+Has anything been touched?
+
+179
+00:15:45,250 --> 00:15:46,458
+No, Chief Inspector.
+
+180
+00:15:46,584 --> 00:15:48,416
+This is just how it was
+when I came in.
+
+181
+00:15:48,542 --> 00:15:51,124
+The safe was open,
+and the emeralds were gone.
+
+182
+00:15:53,917 --> 00:15:55,291
+So what's this, then?
+
+183
+00:15:56,000 --> 00:15:57,666
+Is this yours, Mr. Hardman?
+
+184
+00:15:58,834 --> 00:16:00,083
+No.
+
+185
+00:16:00,667 --> 00:16:03,749
+What do you make of this,
+Poirot?
+
+186
+00:16:10,417 --> 00:16:11,666
+It is a glove of a man --
+
+187
+00:16:13,000 --> 00:16:16,958
+a man with small hands.
+
+188
+00:16:21,334 --> 00:16:24,166
+What have we here?
+
+189
+00:16:35,250 --> 00:16:36,499
+Cigarette case.
+
+190
+00:16:38,875 --> 00:16:41,874
+Empty.
+
+191
+00:16:44,834 --> 00:16:46,249
+With the initials B.P.
+
+192
+00:16:46,959 --> 00:16:48,208
+B.P.
+
+193
+00:16:48,459 --> 00:16:50,541
+Is that of any significance
+to you, M. Hardman?
+
+194
+00:16:50,667 --> 00:16:53,791
+Well, yes, I suppose it could
+belong to Bernard Parker.
+
+195
+00:16:55,000 --> 00:16:56,208
+And who is he, sir?
+
+196
+00:16:56,334 --> 00:16:57,249
+Young friend of mine.
+
+197
+00:16:57,375 --> 00:16:59,041
+Uh, a business associate.
+
+198
+00:16:59,792 --> 00:17:01,333
+The glove could be his, too.
+
+199
+00:17:01,750 --> 00:17:02,666
+What makes you say that?
+
+200
+00:17:02,792 --> 00:17:04,749
+Well, he'd lost it.
+He'd lost both his gloves.
+
+201
+00:17:04,875 --> 00:17:06,541
+At least, that's what he said.
+
+202
+00:17:09,084 --> 00:17:10,166
+Excuse me.
+
+203
+00:17:10,292 --> 00:17:11,874
+So what do you think, Poirot?
+
+204
+00:17:13,417 --> 00:17:14,874
+I think that it is strange.
+
+205
+00:17:17,209 --> 00:17:19,166
+The glove and the cigarette
+case, it is,
+
+206
+00:17:19,292 --> 00:17:21,166
+as you might say,
+the double clue.
+
+207
+00:17:21,292 --> 00:17:22,958
+Twice as much for us to work on.
+
+208
+00:17:23,917 --> 00:17:25,916
+It is too much, Hastings,
+too much.
+
+209
+00:17:27,459 --> 00:17:29,374
+To leave the glove
+inside the safe...
+
+210
+00:17:29,500 --> 00:17:31,291
+Perhaps he was in a hurry.
+
+211
+00:17:31,834 --> 00:17:33,958
+Someone could have
+disturbed him.
+
+212
+00:17:36,750 --> 00:17:37,999
+Poirot?
+
+213
+00:17:39,292 --> 00:17:40,874
+May I introduce you?
+
+214
+00:17:41,000 --> 00:17:43,124
+This is
+the Countess Vera Rossakoff.
+
+215
+00:17:44,334 --> 00:17:46,541
+She was here at the party
+last night.
+
+216
+00:17:52,250 --> 00:17:53,666
+Enchanté, madame.
+
+217
+00:17:55,459 --> 00:17:58,041
+Et moi aussi, monsieur.
+
+218
+00:18:00,834 --> 00:18:05,999
+Hercule Poirot at your service,
+madame.
+
+219
+00:18:13,875 --> 00:18:16,124
+What beautiful gardens,
+M. Poirot.
+
+220
+00:18:17,625 --> 00:18:19,416
+It is so good of you
+to escort me.
+
+221
+00:18:20,709 --> 00:18:23,124
+I wanted to bring you somewhere
+that was worthy of you.
+
+222
+00:18:23,250 --> 00:18:25,249
+You mustn't flatter me,
+M. Poirot.
+
+223
+00:18:25,459 --> 00:18:26,624
+You will make me cry.
+
+224
+00:18:26,750 --> 00:18:28,874
+I have been so lonely
+since I arrived,
+
+225
+00:18:29,500 --> 00:18:30,958
+and it's been a lovely day.
+
+226
+00:18:32,084 --> 00:18:33,499
+Yes. I also know what it is
+
+227
+00:18:33,875 --> 00:18:36,208
+to come to a new country
+and to know no one.
+
+228
+00:18:37,750 --> 00:18:39,958
+Of course.
+You yourself are a refugee.
+
+229
+00:18:41,209 --> 00:18:42,458
+Yes.
+
+230
+00:18:44,000 --> 00:18:45,999
+I was head of the police
+in Belgium.
+
+231
+00:18:46,250 --> 00:18:47,791
+But then came the Great War.
+
+232
+00:18:48,875 --> 00:18:50,166
+I was forced to leave.
+
+233
+00:18:50,417 --> 00:18:53,416
+I came to England -- to
+the village of Styles St. Mary.
+
+234
+00:18:56,250 --> 00:18:58,499
+But it was a sad and painful
+time for me --
+
+235
+00:18:58,917 --> 00:19:00,791
+so far from my family
+and my home.
+
+236
+00:19:01,125 --> 00:19:02,374
+Poor M. Poirot.
+
+237
+00:19:03,375 --> 00:19:05,041
+Oh, no, I have had
+a good fortune.
+
+238
+00:19:05,167 --> 00:19:07,166
+My talent,
+it has been recognized.
+
+239
+00:19:07,792 --> 00:19:09,041
+It is reported that I am
+
+240
+00:19:09,292 --> 00:19:11,583
+the most famous detective
+in England.
+
+241
+00:19:15,084 --> 00:19:16,333
+Is Poirot here?
+
+242
+00:19:16,709 --> 00:19:17,708
+No, actually not.
+
+243
+00:19:17,834 --> 00:19:18,916
+-Hastings?
+-Yes.
+
+244
+00:19:19,042 --> 00:19:20,624
+Excuse me.
+
+245
+00:19:24,042 --> 00:19:25,291
+Where is he?
+
+246
+00:19:26,125 --> 00:19:27,458
+You all right, Chief Inspector?
+
+247
+00:19:27,584 --> 00:19:28,708
+No.
+I'm not all right.
+
+248
+00:19:28,834 --> 00:19:30,458
+I'll be lucky
+to be chief inspector
+
+249
+00:19:30,584 --> 00:19:31,833
+by the end of the week.
+
+250
+00:19:32,084 --> 00:19:33,083
+As bad as that, eh?
+
+251
+00:19:33,209 --> 00:19:34,833
+It's been three days,
+Captain Hastings.
+
+252
+00:19:34,959 --> 00:19:36,416
+Three days, and nothing!
+
+253
+00:19:36,542 --> 00:19:38,666
+Well, Poirot is on the case,
+you know.
+
+254
+00:19:39,375 --> 00:19:40,958
+Then why aren't you with him?
+
+255
+00:19:41,209 --> 00:19:42,458
+I don't know.
+
+256
+00:19:42,584 --> 00:19:45,083
+I suppose he wanted to pursue
+his own line of inquiry.
+
+257
+00:19:47,917 --> 00:19:50,208
+This jewelry business
+is going to be the end of me.
+
+258
+00:19:50,334 --> 00:19:51,749
+Don't worry, old chap.
+
+259
+00:19:51,959 --> 00:19:53,208
+You know Poirot.
+
+260
+00:19:55,250 --> 00:19:56,791
+He really is getting somewhere?
+
+261
+00:19:56,917 --> 00:20:01,708
+Oh, yes, I'm sure he's
+on the right track.
+
+262
+00:20:05,875 --> 00:20:09,291
+And so you are investigating
+the case of the stolen jewelry?
+
+263
+00:20:10,125 --> 00:20:12,041
+It seems a simple matter,
+madame.
+
+264
+00:20:12,584 --> 00:20:15,333
+To England's most famous
+detective, of course.
+
+265
+00:20:16,375 --> 00:20:17,624
+Do you suspect me?
+
+266
+00:20:18,625 --> 00:20:19,874
+Ha!
+Should I?
+
+267
+00:20:20,167 --> 00:20:21,374
+I was there.
+
+268
+00:20:21,500 --> 00:20:23,166
+That is true.
+
+269
+00:20:24,209 --> 00:20:27,458
+So, tell me, madame, why did you
+return the following day?
+
+270
+00:20:28,459 --> 00:20:30,666
+I had an appointment
+with Mr. Hardman.
+
+271
+00:20:33,625 --> 00:20:37,916
+I was considering selling
+some of my own jewelry.
+
+272
+00:20:46,125 --> 00:20:50,416
+I had a house like this
+once in Petrograd.
+
+273
+00:20:52,792 --> 00:20:54,041
+First the house.
+
+274
+00:20:57,167 --> 00:20:58,499
+Then a wing in the house.
+
+275
+00:21:00,667 --> 00:21:01,916
+Then a room in the wing.
+
+276
+00:21:03,209 --> 00:21:04,458
+And now nothing.
+
+277
+00:21:05,334 --> 00:21:07,874
+But that does not make you
+the thief, madame.
+
+278
+00:21:08,042 --> 00:21:10,166
+No.
+
+279
+00:21:13,375 --> 00:21:14,874
+Life itself is the thief.
+
+280
+00:21:17,125 --> 00:21:21,624
+It has taken everything I had.
+
+281
+00:21:41,709 --> 00:21:43,958
+Well, I suppose it had to happen
+one day.
+
+282
+00:21:45,459 --> 00:21:47,458
+He's really quite taken,
+you know.
+
+283
+00:21:49,000 --> 00:21:50,916
+Are you sure, Captain Hastings?
+
+284
+00:21:52,042 --> 00:21:53,541
+You should have seen him.
+
+285
+00:21:54,167 --> 00:21:57,249
+Well, anyway, we haven't seen
+him, not for three days.
+
+286
+00:21:57,500 --> 00:21:58,791
+That's not like him.
+
+287
+00:22:00,125 --> 00:22:01,624
+What about poor old Japp?
+
+288
+00:22:02,417 --> 00:22:04,416
+Looks like he could be
+for the chop.
+
+289
+00:22:04,667 --> 00:22:05,958
+If only we could help.
+
+290
+00:22:06,959 --> 00:22:08,208
+Maybe we can.
+
+291
+00:22:09,459 --> 00:22:10,583
+How?
+
+292
+00:22:10,709 --> 00:22:12,708
+Look, according
+to Marcus Hardman,
+
+293
+00:22:12,834 --> 00:22:15,499
+only four people went into
+the house during the concert.
+
+294
+00:22:15,625 --> 00:22:17,458
+That's when the jewels
+were taken.
+
+295
+00:22:17,584 --> 00:22:19,499
+Bernard Parker,
+Martin Johnstone,
+
+296
+00:22:19,625 --> 00:22:21,624
+Lady Runcorn,
+and the countess.
+
+297
+00:22:22,167 --> 00:22:23,416
+Suppose it was her!
+
+298
+00:22:24,584 --> 00:22:25,999
+No, it can't have been her.
+
+299
+00:22:26,125 --> 00:22:27,791
+I mean, I hope to God it wasn't.
+
+300
+00:22:28,500 --> 00:22:29,749
+So what can we do?
+
+301
+00:22:30,000 --> 00:22:31,458
+Well, we can talk
+to the other three
+
+302
+00:22:31,584 --> 00:22:32,999
+and solve the case ourselves.
+
+303
+00:22:36,625 --> 00:22:39,499
+I know old Japp suspects that
+tramp the constable spotted,
+
+304
+00:22:39,625 --> 00:22:41,208
+but I think we should speak
+to them all,
+
+305
+00:22:41,334 --> 00:22:44,041
+starting with Mr. Johnstone.
+
+306
+00:22:48,375 --> 00:22:49,624
+How dare you, sir?
+
+307
+00:22:52,084 --> 00:22:53,541
+If I want a jewel necklace,
+
+308
+00:22:54,875 --> 00:22:57,124
+I can afford to go into a shop
+and buy one!
+
+309
+00:22:58,792 --> 00:23:00,874
+In fact, I can afford
+to buy the shop.
+
+310
+00:23:02,875 --> 00:23:05,541
+So why did you go back
+into the house, Mr. Johnstone?
+
+311
+00:23:05,667 --> 00:23:07,749
+The call of nature,
+if you must know.
+
+312
+00:23:11,209 --> 00:23:13,333
+Were there any witnesses?
+
+313
+00:23:23,959 --> 00:23:25,208
+So, Lady Runcorn,
+
+314
+00:23:26,625 --> 00:23:28,833
+you don't deny that you went
+back into the house.
+
+315
+00:23:28,959 --> 00:23:31,416
+But I just told you that,
+Captain Hastings.
+
+316
+00:23:32,375 --> 00:23:33,624
+Hmm.
+
+317
+00:23:33,917 --> 00:23:35,666
+Did you see anyone else inside?
+
+318
+00:23:35,875 --> 00:23:39,166
+Yes, there was someone coming
+out of the downstairs bathroom.
+
+319
+00:23:39,292 --> 00:23:40,749
+But I didn't see who it was.
+
+320
+00:23:41,875 --> 00:23:44,124
+Why were you in the house,
+Lady Runcorn?
+
+321
+00:23:46,084 --> 00:23:47,541
+I went to fetch my handbag.
+
+322
+00:23:49,042 --> 00:23:53,166
+I'd left it inside.
+
+323
+00:23:58,709 --> 00:24:00,499
+Eh bien, Countess.
+
+324
+00:24:00,709 --> 00:24:02,749
+Tomorrow I will take you
+to the Tate Gallery
+
+325
+00:24:02,875 --> 00:24:05,124
+to see their collection
+of the Turners.
+
+326
+00:24:05,500 --> 00:24:08,583
+But I find these expressionist
+painters so exciting.
+
+327
+00:24:09,000 --> 00:24:10,333
+Don't you, Hercule?
+
+328
+00:24:11,334 --> 00:24:12,583
+In part, yes.
+
+329
+00:24:14,834 --> 00:24:16,374
+Do you know, I do not believe
+
+330
+00:24:16,500 --> 00:24:18,708
+that there is anyone
+of my acquaintance
+
+331
+00:24:18,834 --> 00:24:20,249
+who calls me by that name.
+
+332
+00:24:21,000 --> 00:24:22,208
+Oh.
+
+333
+00:24:22,334 --> 00:24:23,583
+I am so sorry.
+
+334
+00:24:23,959 --> 00:24:25,208
+Excuse me.
+
+335
+00:24:25,875 --> 00:24:27,124
+Madame.
+
+336
+00:24:29,709 --> 00:24:31,458
+Now, this I find most pleasing.
+
+337
+00:24:33,125 --> 00:24:34,291
+Marc Chagall.
+
+338
+00:24:34,417 --> 00:24:36,083
+Another Russian in exile.
+
+339
+00:24:36,917 --> 00:24:38,499
+He lives in Paris, I believe.
+
+340
+00:24:39,667 --> 00:24:41,666
+A constructivist, they call him.
+
+341
+00:24:42,792 --> 00:24:45,208
+But one only has to look
+at his work to see --
+
+342
+00:24:46,959 --> 00:24:48,208
+Yes?
+
+343
+00:24:49,084 --> 00:24:50,374
+He is still in Russia.
+
+344
+00:24:50,917 --> 00:24:52,166
+He never left.
+
+345
+00:24:53,000 --> 00:24:54,333
+Like you, Countess.
+
+346
+00:24:54,875 --> 00:24:56,124
+Oh, no.
+
+347
+00:24:56,625 --> 00:24:58,124
+It's another world now.
+
+348
+00:24:59,959 --> 00:25:01,208
+Stalin, Hitler.
+
+349
+00:25:01,959 --> 00:25:05,333
+Everywhere you look,
+it's all changing.
+
+350
+00:25:12,917 --> 00:25:15,166
+Goodbye, Lady Runcorn.
+
+351
+00:25:15,334 --> 00:25:19,374
+Goodbye, Captain Hastings.
+
+352
+00:25:23,459 --> 00:25:25,166
+Captain Hastings, look.
+
+353
+00:25:26,917 --> 00:25:28,166
+"B.P."
+
+354
+00:25:29,375 --> 00:25:30,624
+Bernard Parker!
+
+355
+00:25:32,084 --> 00:25:33,874
+Yes, I do some work
+for Marcus --
+
+356
+00:25:36,542 --> 00:25:37,791
+Mr. Hardman.
+
+357
+00:25:38,750 --> 00:25:40,999
+I arrange his more
+insalubrious deals.
+
+358
+00:25:43,750 --> 00:25:45,083
+What do you mean by that?
+
+359
+00:25:45,709 --> 00:25:48,166
+When the client doesn't
+want his or her name
+
+360
+00:25:48,625 --> 00:25:51,166
+dragged through the mud,
+I act as a sort of...
+
+361
+00:25:51,667 --> 00:25:52,916
+go-between.
+
+362
+00:25:53,042 --> 00:25:54,208
+I don't --
+
+363
+00:25:54,334 --> 00:25:57,124
+In high society, Captain,
+nobody is ever hard up.
+
+364
+00:25:58,167 --> 00:26:00,041
+At least,
+they don't admit to it.
+
+365
+00:26:00,667 --> 00:26:02,916
+So when they are hard up,
+they come to me.
+
+366
+00:26:03,834 --> 00:26:05,083
+And I go to Marcus.
+
+367
+00:26:06,917 --> 00:26:08,499
+Have you lost a glove,
+Mr. Parker?
+
+368
+00:26:08,625 --> 00:26:09,874
+Oh, the glove.
+
+369
+00:26:11,167 --> 00:26:13,208
+That simply loathsome
+Inspector Snapp
+
+370
+00:26:13,334 --> 00:26:15,666
+has already been on to me
+about the glove.
+
+371
+00:26:15,792 --> 00:26:17,708
+Do you know
+he wanted to arrest me?
+
+372
+00:26:19,000 --> 00:26:20,249
+Was it yours?
+
+373
+00:26:20,709 --> 00:26:21,791
+Yes,
+
+374
+00:26:21,917 --> 00:26:24,708
+but I've told him, I had both my
+gloves when the concert began,
+
+375
+00:26:24,834 --> 00:26:26,916
+and that was the last time
+I saw them.
+
+376
+00:26:27,417 --> 00:26:29,083
+And as for the cigarette case,
+
+377
+00:26:29,292 --> 00:26:31,374
+I've never seen it before
+in my life.
+
+378
+00:26:32,167 --> 00:26:33,458
+It had your initials.
+
+379
+00:26:33,584 --> 00:26:36,416
+Oh, my dear, I'm sure you'll
+find plenty of people in London
+
+380
+00:26:36,542 --> 00:26:37,958
+with the initials B.P.
+
+381
+00:26:40,084 --> 00:26:41,333
+By the way,
+
+382
+00:26:41,625 --> 00:26:43,624
+have you ever done
+any embroidery?
+
+383
+00:26:44,250 --> 00:26:45,499
+Embroidery?
+
+384
+00:26:47,375 --> 00:26:48,833
+You know -- needlework.
+
+385
+00:26:48,959 --> 00:26:50,166
+That sort of thing.
+
+386
+00:26:50,292 --> 00:26:51,541
+No.
+
+387
+00:26:55,292 --> 00:26:58,291
+No.
+
+388
+00:27:00,875 --> 00:27:02,541
+And what of the perfect crime?
+
+389
+00:27:05,292 --> 00:27:06,999
+It is an illusion, Countess.
+
+390
+00:27:08,000 --> 00:27:09,249
+Maybe.
+
+391
+00:27:10,334 --> 00:27:12,458
+But let me tell you
+something I heard.
+
+392
+00:27:13,709 --> 00:27:16,291
+It was a robbery
+like the one at Mr. Hardman's,
+
+393
+00:27:17,042 --> 00:27:18,791
+but this time, it was diamonds.
+
+394
+00:27:20,292 --> 00:27:21,541
+Please go on.
+
+395
+00:27:21,959 --> 00:27:23,874
+Twelve people sat down
+to dinner.
+
+396
+00:27:24,959 --> 00:27:26,541
+The safe was in the next room.
+
+397
+00:27:27,500 --> 00:27:30,166
+The hostess herself had checked
+that the diamonds were in place
+
+398
+00:27:30,292 --> 00:27:31,833
+before the meal had begun.
+
+399
+00:27:32,084 --> 00:27:33,333
+And after?
+
+400
+00:27:33,459 --> 00:27:34,708
+The safe was open
+
+401
+00:27:36,292 --> 00:27:37,541
+and empty.
+
+402
+00:27:38,125 --> 00:27:39,541
+And there were no clues?
+
+403
+00:27:39,709 --> 00:27:40,833
+None.
+
+404
+00:27:40,959 --> 00:27:42,583
+It is strange
+that you should choose
+
+405
+00:27:42,709 --> 00:27:43,749
+to relate this to me, Countess.
+
+406
+00:27:43,875 --> 00:27:44,833
+I also have read of it.
+
+407
+00:27:44,959 --> 00:27:45,874
+Yes?
+
+408
+00:27:46,000 --> 00:27:47,499
+Oh, yes.
+The Atterton diamonds.
+
+409
+00:27:47,625 --> 00:27:49,499
+And it is true that the police,
+they were confounded,
+
+410
+00:27:49,625 --> 00:27:52,499
+but that is because they look
+with the eyes that is too...
+
+411
+00:27:52,625 --> 00:27:53,874
+English.
+
+412
+00:27:54,375 --> 00:27:55,708
+I don't understand.
+
+413
+00:27:56,125 --> 00:27:58,416
+Well, they see the dukes
+and the duchesses,
+
+414
+00:27:58,542 --> 00:28:00,374
+the lords and the ladies,
+but they fail to ask themselves
+
+415
+00:28:00,500 --> 00:28:02,083
+the one simple question.
+
+416
+00:28:02,584 --> 00:28:03,833
+Which is?
+
+417
+00:28:03,959 --> 00:28:05,624
+What person was at that dinner
+
+418
+00:28:06,667 --> 00:28:08,874
+who was also at the soiree
+of M. Hardman
+
+419
+00:28:09,042 --> 00:28:12,249
+and on two other occasions
+when some jewels were stolen?
+
+420
+00:28:13,125 --> 00:28:15,583
+So you are saying
+the police cannot solve it
+
+421
+00:28:17,250 --> 00:28:19,958
+because they are too English?
+
+422
+00:28:21,667 --> 00:28:25,708
+Or because the culprit,
+he is not English enough.
+
+423
+00:28:37,209 --> 00:28:39,124
+Thank you for
+a really lovely day.
+
+424
+00:28:39,959 --> 00:28:41,749
+Countess.
+
+425
+00:28:56,459 --> 00:28:57,874
+Will I see you tomorrow?
+
+426
+00:28:58,834 --> 00:28:59,791
+For a déjeuner?
+
+427
+00:28:59,917 --> 00:29:01,166
+Oui.
+
+428
+00:29:01,667 --> 00:29:05,208
+The Carlton Hotel.
+
+429
+00:29:21,292 --> 00:29:24,124
+Bernard Parker must have been
+in love with Lady Runcorn.
+
+430
+00:29:24,250 --> 00:29:26,958
+He gave her the embroidery,
+but lied about it to us.
+
+431
+00:29:27,084 --> 00:29:29,083
+I think Johnstone
+was lying, as well.
+
+432
+00:29:29,209 --> 00:29:30,458
+I'm sure it's him.
+
+433
+00:29:33,834 --> 00:29:35,083
+I say, Poirot.
+
+434
+00:29:35,584 --> 00:29:36,999
+Learning Russian?
+
+435
+00:29:37,959 --> 00:29:39,208
+I wonder why.
+
+436
+00:29:40,084 --> 00:29:42,291
+It has been an invaluable aid,
+mon ami.
+
+437
+00:29:42,750 --> 00:29:45,416
+Yes, I couldn't get past
+the alphabet, myself.
+
+438
+00:29:45,875 --> 00:29:47,666
+No, it is indeed complicated.
+
+439
+00:29:48,375 --> 00:29:49,666
+Yes, like this case.
+
+440
+00:29:50,250 --> 00:29:51,458
+The stolen jewels?
+
+441
+00:29:51,584 --> 00:29:53,999
+We've been investigating,
+Mr. Poirot.
+
+442
+00:29:54,334 --> 00:29:56,124
+You're not the only private
+detective in London, you know.
+
+443
+00:29:56,250 --> 00:29:57,541
+This is true, mon ami.
+
+444
+00:30:02,084 --> 00:30:07,624
+Eh bien, tell me all
+that you have discovered.
+
+445
+00:30:12,084 --> 00:30:15,333
+So we think Bernard Parker
+is blackmailing Lady Runcorn.
+
+446
+00:30:15,792 --> 00:30:17,874
+We've discovered
+she has huge debts,
+
+447
+00:30:18,000 --> 00:30:20,708
+and she's recently sent
+four paintings to auction.
+
+448
+00:30:20,834 --> 00:30:22,958
+She must have sold them
+to pay him off.
+
+449
+00:30:23,209 --> 00:30:25,208
+So you say Lady Runcorn
+requires money?
+
+450
+00:30:25,334 --> 00:30:26,416
+Yes.
+
+451
+00:30:26,542 --> 00:30:28,874
+So is it not more likely
+that Lady Runcorn
+
+452
+00:30:29,542 --> 00:30:31,458
+would meet with
+M. Bernard Parker
+
+453
+00:30:32,375 --> 00:30:34,499
+to discuss the selling
+of her jewels?
+
+454
+00:30:35,042 --> 00:30:36,958
+That is his occupation,
+is it not?
+
+455
+00:30:37,334 --> 00:30:39,208
+Ah, but what about
+the embroidery?
+
+456
+00:30:39,334 --> 00:30:40,374
+He signed it "B.P."
+
+457
+00:30:40,500 --> 00:30:43,083
+But then I wonder
+what Lady Runcorn was called
+
+458
+00:30:44,042 --> 00:30:45,958
+before she became Lady Runcorn.
+
+459
+00:30:46,417 --> 00:30:47,666
+Oh.
+
+460
+00:30:48,042 --> 00:30:49,624
+Oh, I hadn't thought of that.
+
+461
+00:30:49,875 --> 00:30:52,791
+If you are to be Hercule Poirot,
+you must think of everything.
+
+462
+00:31:01,542 --> 00:31:02,791
+Lady Runcorn.
+
+463
+00:31:04,250 --> 00:31:06,083
+Born Beatrice Palmerston.
+
+464
+00:31:08,417 --> 00:31:09,666
+B.P.
+
+465
+00:31:10,084 --> 00:31:12,333
+He's right.
+
+466
+00:31:17,292 --> 00:31:18,999
+So, all right, then, Poirot.
+
+467
+00:31:19,334 --> 00:31:20,583
+What do you think?
+
+468
+00:31:21,084 --> 00:31:23,916
+I think, Hastings, you must ask
+yourself one question.
+
+469
+00:31:24,042 --> 00:31:25,291
+Yes?
+
+470
+00:31:25,500 --> 00:31:26,416
+The tramp.
+
+471
+00:31:26,542 --> 00:31:27,958
+What was he doing there?
+
+472
+00:31:28,209 --> 00:31:29,374
+And the answer?
+
+473
+00:31:29,500 --> 00:31:31,916
+You will find only by returning
+to the home
+
+474
+00:31:32,084 --> 00:31:33,458
+of M. Marcus Hardman.
+
+475
+00:31:34,042 --> 00:31:35,666
+I suggest that you go tomorrow.
+
+476
+00:31:35,792 --> 00:31:36,791
+Well, what about you?
+
+477
+00:31:36,917 --> 00:31:38,833
+This case does not
+interest Poirot.
+
+478
+00:31:38,959 --> 00:31:40,374
+I have no enthusiasm for it.
+
+479
+00:31:40,500 --> 00:31:42,749
+And it is as you yourself say,
+Hastings.
+
+480
+00:31:44,292 --> 00:31:46,583
+There are other
+private detectives.
+
+481
+00:31:47,334 --> 00:31:48,583
+Yes, I'm sure.
+
+482
+00:31:49,459 --> 00:31:50,958
+What about poor old Japp?
+
+483
+00:31:51,959 --> 00:31:55,333
+Hmm.
+
+484
+00:31:58,292 --> 00:31:59,916
+No, sir, nothing as yet, sir.
+
+485
+00:32:00,042 --> 00:32:01,916
+But I am following up
+a few leads.
+
+486
+00:32:03,375 --> 00:32:06,708
+Uh, well, no, sir, they haven't
+actually led anywhere yet.
+
+487
+00:32:06,875 --> 00:32:10,541
+Well, if you could just give me
+a little bit more time --
+
+488
+00:32:13,417 --> 00:32:14,666
+48 hours?
+
+489
+00:32:15,209 --> 00:32:19,166
+Well, I was hoping for a little
+bit more time than that, sir.
+
+490
+00:32:21,917 --> 00:32:24,791
+I can assure you, sir,
+your wife is perfectly safe.
+
+491
+00:32:24,917 --> 00:32:29,291
+If you'd like to put her on,
+I can assure her myself, sir.
+
+492
+00:32:31,750 --> 00:32:33,624
+No, sir, I didn't mean that,
+sir.
+
+493
+00:32:34,875 --> 00:32:37,458
+Right, sir.
+
+494
+00:32:39,875 --> 00:32:41,124
+Yes, sir.
+
+495
+00:32:41,417 --> 00:32:42,666
+I am working on it, sir.
+
+496
+00:32:43,500 --> 00:32:46,749
+I'll do that, sir.
+
+497
+00:32:59,042 --> 00:33:01,249
+Thank you.
+
+498
+00:33:04,584 --> 00:33:05,833
+Good evening.
+
+499
+00:33:06,792 --> 00:33:10,083
+Please allow me
+to introduce myself.
+
+500
+00:33:16,542 --> 00:33:17,791
+Poirot?
+
+501
+00:33:18,625 --> 00:33:20,124
+Not the Hercule Poirot?
+
+502
+00:33:21,292 --> 00:33:22,541
+The very same.
+
+503
+00:33:22,709 --> 00:33:23,833
+Please, sit down, sir.
+
+504
+00:33:23,959 --> 00:33:25,124
+No, thank you.
+
+505
+00:33:25,250 --> 00:33:26,499
+What can we do for you?
+
+506
+00:33:27,167 --> 00:33:29,541
+I have a friend who requires
+my immediate help.
+
+507
+00:33:29,667 --> 00:33:31,791
+But I cannot help,
+and so I turn to you.
+
+508
+00:33:32,875 --> 00:33:35,541
+You mean you want us to sort of
+deputize for you?
+
+509
+00:33:37,250 --> 00:33:38,499
+Oui, c'est ça.
+
+510
+00:33:39,250 --> 00:33:40,666
+You must act on my behalf.
+
+511
+00:33:41,500 --> 00:33:42,958
+It must be something important
+
+512
+00:33:43,084 --> 00:33:45,208
+for you to ask for our help,
+M. Poirot.
+
+513
+00:33:45,500 --> 00:33:48,291
+It is a matter of the utmost
+importance, monsieur.
+
+514
+00:33:48,417 --> 00:33:49,916
+There is a reputation --
+
+515
+00:33:50,709 --> 00:33:52,708
+No, there is a life
+that is at stake.
+
+516
+00:33:56,042 --> 00:33:59,041
+But Hercule Poirot
+is not involved.
+
+517
+00:34:03,584 --> 00:34:05,083
+The tramp.
+
+518
+00:34:06,084 --> 00:34:07,749
+What was the tramp doing here?
+
+519
+00:34:08,250 --> 00:34:10,249
+I can't see how wandering around
+the grounds
+
+520
+00:34:10,375 --> 00:34:12,041
+is going to give us the answer.
+
+521
+00:34:12,167 --> 00:34:14,333
+Let's be methodical,
+Captain Hastings.
+
+522
+00:34:14,459 --> 00:34:17,249
+Mr. Poirot must have a reason
+for sending us here.
+
+523
+00:34:17,542 --> 00:34:19,458
+Four people went
+into that house.
+
+524
+00:34:20,084 --> 00:34:22,416
+You'd have thought one of them
+must have done it.
+
+525
+00:34:22,542 --> 00:34:24,041
+How about Lady Runcorn?
+
+526
+00:34:24,709 --> 00:34:26,499
+If her name was
+Beatrice Palmerston once,
+
+527
+00:34:26,625 --> 00:34:29,041
+the cigarette case
+could have belonged to her.
+
+528
+00:34:29,167 --> 00:34:30,416
+B.P.
+
+529
+00:34:31,042 --> 00:34:33,499
+Maybe she was working
+with Bernard Parker.
+
+530
+00:34:33,917 --> 00:34:35,958
+They were in the house
+at the same time.
+
+531
+00:34:36,084 --> 00:34:37,916
+What about that wretched tramp?
+
+532
+00:34:38,042 --> 00:34:39,916
+I just don't see
+where he fits in.
+
+533
+00:34:40,500 --> 00:34:42,374
+Miss Lemon, look!
+Over there.
+
+534
+00:34:43,334 --> 00:34:44,583
+It's him.
+
+535
+00:34:45,709 --> 00:34:46,791
+Wait here.
+
+536
+00:34:46,917 --> 00:34:48,166
+Hey, you!
+Stop!
+
+537
+00:34:50,167 --> 00:34:51,749
+Captain Hastings!
+He's got a gun!
+
+538
+00:35:00,292 --> 00:35:01,541
+Are you all right?
+
+539
+00:35:02,584 --> 00:35:03,833
+I think so.
+
+540
+00:35:04,584 --> 00:35:06,749
+Listen.
+
+541
+00:35:09,709 --> 00:35:11,916
+Well, that's the first tramp
+I've seen
+
+542
+00:35:12,542 --> 00:35:14,374
+behind the wheel of an MG.
+
+543
+00:35:17,417 --> 00:35:18,374
+Ow!
+
+544
+00:35:18,500 --> 00:35:20,541
+It's iodine, Captain Hastings.
+
+545
+00:35:21,084 --> 00:35:22,333
+I said it'd sting.
+
+546
+00:35:22,750 --> 00:35:24,333
+It is me who suffers, my friend,
+
+547
+00:35:24,459 --> 00:35:25,791
+to think that I sent you.
+
+548
+00:35:26,584 --> 00:35:27,916
+Oh, it's not your fault, Poirot.
+
+549
+00:35:28,042 --> 00:35:29,374
+But, yes, Hastings.
+
+550
+00:35:29,959 --> 00:35:31,791
+It was me who sent you
+to the house,
+
+551
+00:35:31,917 --> 00:35:33,499
+and but for your speed
+and agility --
+
+552
+00:35:33,625 --> 00:35:35,416
+He fired four times, Mr. Poirot!
+
+553
+00:35:36,959 --> 00:35:37,999
+I know, Miss Lemon.
+
+554
+00:35:38,125 --> 00:35:40,249
+Did you know the tramp
+would come back?
+
+555
+00:35:40,375 --> 00:35:41,708
+No, but I am an imbecile.
+
+556
+00:35:42,042 --> 00:35:43,708
+I see only half of the picture.
+
+557
+00:35:43,834 --> 00:35:45,124
+I don't even see that.
+
+558
+00:35:46,125 --> 00:35:47,874
+Miss Lemon, would you be so good
+
+559
+00:35:48,334 --> 00:35:50,749
+as to telephone
+the Chief Inspector Japp?
+
+560
+00:35:51,334 --> 00:35:53,708
+Ask him to meet us at the home
+of Marcus Hardman.
+
+561
+00:35:53,834 --> 00:35:56,166
+What about your lunch
+with the countess?
+
+562
+00:35:56,292 --> 00:35:57,541
+Ah! Well...
+
+563
+00:35:59,334 --> 00:36:00,833
+we will meet after lunch.
+
+564
+00:36:01,125 --> 00:36:02,249
+At 3:00.
+
+565
+00:36:02,375 --> 00:36:03,833
+Where are you taking her?
+
+566
+00:36:03,959 --> 00:36:07,833
+It is the countess who takes me.
+
+567
+00:36:17,375 --> 00:36:18,958
+You astonish me, madame.
+
+568
+00:36:20,084 --> 00:36:21,499
+I am lost in admiration.
+
+569
+00:36:22,959 --> 00:36:24,208
+It's just a picnic.
+
+570
+00:36:26,792 --> 00:36:29,416
+We used to have such picnics.
+
+571
+00:36:38,042 --> 00:36:39,291
+Suppose he --
+
+572
+00:36:42,042 --> 00:36:44,916
+Poirot and the countess...
+
+573
+00:36:46,250 --> 00:36:47,583
+He wouldn't.
+
+574
+00:36:51,584 --> 00:36:52,833
+Would he?
+
+575
+00:36:53,084 --> 00:36:54,333
+I don't know.
+
+576
+00:36:54,459 --> 00:36:56,624
+I've never seen him
+like this before.
+
+577
+00:37:03,209 --> 00:37:04,458
+And now a toast.
+
+578
+00:37:05,709 --> 00:37:07,291
+I shall propose one, if I may.
+
+579
+00:37:08,125 --> 00:37:09,374
+To crime.
+
+580
+00:37:10,167 --> 00:37:11,583
+That is a strange toast,
+
+581
+00:37:13,917 --> 00:37:15,499
+coming from a detective.
+
+582
+00:37:15,709 --> 00:37:17,374
+And yet it is my raison d'être.
+
+583
+00:37:18,625 --> 00:37:19,874
+My life is ruled by it.
+
+584
+00:37:20,917 --> 00:37:25,124
+And it is crime
+that has brought us together.
+
+585
+00:37:26,584 --> 00:37:31,541
+Then, to crime.
+
+586
+00:37:32,959 --> 00:37:34,416
+He couldn't.
+
+587
+00:37:35,709 --> 00:37:38,208
+He just couldn't.
+
+588
+00:37:41,792 --> 00:37:44,249
+You'd be out of a situation.
+
+589
+00:37:48,000 --> 00:37:49,666
+And what about you?
+
+590
+00:37:51,000 --> 00:37:52,249
+Oh, I could travel.
+
+591
+00:37:53,334 --> 00:37:56,333
+I've always had a dream about
+South America, you know.
+
+592
+00:37:56,459 --> 00:37:57,583
+Farming.
+
+593
+00:37:57,709 --> 00:37:59,916
+You'd miss him, though,
+wouldn't you?
+
+594
+00:38:01,084 --> 00:38:02,333
+Of course I would.
+
+595
+00:38:04,709 --> 00:38:08,291
+What about you?
+
+596
+00:38:15,292 --> 00:38:20,083
+I don't want to talk about it.
+
+597
+00:38:22,584 --> 00:38:23,833
+And now, I think --
+
+598
+00:38:25,959 --> 00:38:27,208
+Yes.
+
+599
+00:38:27,750 --> 00:38:30,874
+I have an investigation
+with the Chief Inspector Japp.
+
+600
+00:38:32,334 --> 00:38:33,749
+And it must be resolved.
+
+601
+00:38:36,334 --> 00:38:37,791
+Is there anything I can do?
+
+602
+00:38:39,667 --> 00:38:41,916
+This time I fear
+the culprit may escape,
+
+603
+00:38:44,084 --> 00:38:45,333
+or this time,
+
+604
+00:38:46,500 --> 00:38:48,249
+the culprit may never be named.
+
+605
+00:38:50,375 --> 00:38:52,291
+That depends entirely upon you.
+
+606
+00:38:54,250 --> 00:38:55,499
+Me?
+
+607
+00:38:56,750 --> 00:38:58,916
+I think so.
+
+608
+00:39:10,375 --> 00:39:15,124
+Could this help?
+
+609
+00:39:34,292 --> 00:39:37,499
+Only four people came into
+the house during the concert.
+
+610
+00:39:39,625 --> 00:39:41,416
+The countess, M. Johnstone,
+
+611
+00:39:42,167 --> 00:39:44,291
+Lady Runcorn,
+and M. Bernard Parker.
+
+612
+00:39:44,959 --> 00:39:46,833
+The thorough investigation
+of my colleagues
+
+613
+00:39:46,959 --> 00:39:48,999
+eliminated M. Johnstone
+and Lady Runcorn.
+
+614
+00:39:49,125 --> 00:39:51,499
+M. Johnstone,
+because he's a very wealthy man.
+
+615
+00:39:51,625 --> 00:39:52,708
+And Lady Runcorn?
+
+616
+00:39:52,834 --> 00:39:54,291
+Lady Runcorn because
+
+617
+00:39:55,167 --> 00:39:57,249
+she came to the house
+in order to meet
+
+618
+00:39:58,500 --> 00:39:59,999
+with M. Bernard Parker.
+
+619
+00:40:00,917 --> 00:40:02,374
+Is that not so, M. Hardman?
+
+620
+00:40:03,917 --> 00:40:05,166
+Yes.
+
+621
+00:40:05,709 --> 00:40:06,958
+But no one must know.
+
+622
+00:40:08,042 --> 00:40:09,374
+My whole business --
+
+623
+00:40:10,167 --> 00:40:11,958
+it thrives on nobody knowing.
+
+624
+00:40:13,584 --> 00:40:15,041
+D'accord.
+
+625
+00:40:15,417 --> 00:40:17,249
+And finally,
+there is the countess,
+
+626
+00:40:17,375 --> 00:40:19,958
+who entered the house
+in order to get her coat.
+
+627
+00:40:21,542 --> 00:40:22,708
+Her coat?
+
+628
+00:40:22,834 --> 00:40:24,583
+I thought it was a warm evening.
+
+629
+00:40:25,084 --> 00:40:26,874
+Yes, it was, Chief Inspector.
+
+630
+00:40:28,084 --> 00:40:30,541
+But I had been outside
+for more than an hour.
+
+631
+00:40:31,042 --> 00:40:32,083
+Well, yes, but --
+
+632
+00:40:32,209 --> 00:40:33,624
+And forgive me,
+
+633
+00:40:33,750 --> 00:40:36,874
+but if that Japanese contralto
+had sung one more high note,
+
+634
+00:40:37,000 --> 00:40:38,791
+my head would have shattered.
+
+635
+00:40:39,084 --> 00:40:41,374
+And while you were
+inside, Countess,
+
+636
+00:40:41,500 --> 00:40:42,874
+you caught sight of a figure,
+non?
+
+637
+00:40:43,000 --> 00:40:44,958
+And you disturbed him,
+n'est-ce pas?
+
+638
+00:40:45,084 --> 00:40:46,666
+Yes, but I only glimpsed him.
+
+639
+00:40:47,792 --> 00:40:49,291
+Going where?
+
+640
+00:40:49,667 --> 00:40:51,249
+From this room to the window.
+
+641
+00:40:52,250 --> 00:40:53,499
+Ah, yes.
+
+642
+00:40:53,667 --> 00:40:55,583
+The window
+with a climbing plant.
+
+643
+00:40:56,959 --> 00:40:58,416
+That brings us to the tramp
+
+644
+00:40:59,459 --> 00:41:01,583
+and one very important
+question --
+
+645
+00:41:02,750 --> 00:41:03,999
+why did he come back?
+
+646
+00:41:05,625 --> 00:41:08,499
+Yes, and how could he afford
+an MG, for that matter?
+
+647
+00:41:08,625 --> 00:41:10,041
+The tramp who was no tramp
+
+648
+00:41:11,084 --> 00:41:12,583
+used the climbing plant
+
+649
+00:41:12,875 --> 00:41:14,416
+in order to enter the house.
+
+650
+00:41:15,542 --> 00:41:17,874
+Now, for him,
+the window was no obstacle.
+
+651
+00:41:18,209 --> 00:41:20,291
+The safe, also,
+he opened with ease.
+
+652
+00:41:21,125 --> 00:41:22,458
+So what about the clues?
+
+653
+00:41:22,584 --> 00:41:24,291
+The glove belonged
+to M. Bernard Parker.
+
+654
+00:41:24,417 --> 00:41:26,499
+It was put there
+to incriminate him.
+
+655
+00:41:27,375 --> 00:41:29,208
+The case belonged
+to Lady Runcorn --
+
+656
+00:41:29,334 --> 00:41:32,083
+or Beatrice Palmerston,
+as once she was called.
+
+657
+00:41:32,792 --> 00:41:34,541
+But always, I think,
+she will deny it.
+
+658
+00:41:34,667 --> 00:41:35,624
+Why?
+
+659
+00:41:35,750 --> 00:41:37,958
+Because she brought it here
+in order to sell it.
+
+660
+00:41:38,084 --> 00:41:39,666
+She'll never admit that.
+
+661
+00:41:39,917 --> 00:41:41,124
+She's too proud.
+
+662
+00:41:41,250 --> 00:41:43,749
+That is quite true, Miss Lemon.
+
+663
+00:41:46,459 --> 00:41:48,041
+So the tramp took the jewels?
+
+664
+00:41:49,292 --> 00:41:50,541
+What did he do then?
+
+665
+00:41:51,084 --> 00:41:52,249
+He returned to the window,
+
+666
+00:41:52,375 --> 00:41:54,624
+where he was disturbed
+by the countess.
+
+667
+00:41:55,250 --> 00:41:56,666
+He slipped, and he fell.
+
+668
+00:41:57,917 --> 00:41:59,166
+And the necklace?
+
+669
+00:42:01,125 --> 00:42:02,791
+The necklace, he dropped,
+
+670
+00:42:04,500 --> 00:42:07,166
+which is why
+he had to come back.
+
+671
+00:42:11,125 --> 00:42:12,666
+Wait a minute.
+
+672
+00:42:40,709 --> 00:42:43,708
+I've got it.
+
+673
+00:42:50,500 --> 00:42:51,749
+Voilà.
+
+674
+00:42:52,584 --> 00:42:54,041
+Green against green.
+
+675
+00:42:54,292 --> 00:42:57,291
+My necklace.
+
+676
+00:43:00,917 --> 00:43:02,583
+What about the tramp?
+
+677
+00:43:02,709 --> 00:43:05,374
+I'd still like to collar him,
+you know, Poirot.
+
+678
+00:43:05,584 --> 00:43:09,749
+Oui, d'accord, but I fear
+it is too late.
+
+679
+00:43:47,792 --> 00:43:49,083
+What's the matter?
+
+680
+00:43:50,792 --> 00:43:52,374
+Just something she said.
+
+681
+00:43:53,042 --> 00:43:53,958
+Who?
+
+682
+00:43:54,084 --> 00:43:55,291
+The countess.
+
+683
+00:43:55,417 --> 00:43:57,333
+She said the singer
+was Japanese.
+
+684
+00:43:58,000 --> 00:44:00,083
+It was the pianist
+who was Japanese.
+
+685
+00:44:00,959 --> 00:44:02,208
+What of it?
+
+686
+00:44:02,792 --> 00:44:05,749
+Well, if she really had been
+in the garden for an hour,
+
+687
+00:44:05,875 --> 00:44:08,624
+surely she would have known.
+
+688
+00:44:21,667 --> 00:44:22,916
+Good night.
+
+689
+00:44:24,084 --> 00:44:26,541
+Miss Lemon, I thought
+you had already gone.
+
+690
+00:44:27,000 --> 00:44:30,333
+No, I had some letters
+to finish.
+
+691
+00:44:36,042 --> 00:44:38,041
+You're working late, Mr. Poirot?
+
+692
+00:44:38,792 --> 00:44:41,124
+Yes, I have from
+the Chief Inspector Japp
+
+693
+00:44:42,375 --> 00:44:44,333
+the reports
+of the jewelry thefts.
+
+694
+00:44:44,459 --> 00:44:45,958
+This work, Miss Lemon --
+
+695
+00:44:46,209 --> 00:44:49,124
+sometimes it is not
+so straightforward.
+
+696
+00:44:51,875 --> 00:44:54,083
+You do work so hard,
+Mr. Poirot.
+
+697
+00:44:54,875 --> 00:44:57,124
+Sometimes I think,
+really, you ought --
+
+698
+00:44:57,375 --> 00:44:58,624
+Yes, Miss Lemon?
+
+699
+00:44:59,084 --> 00:45:00,541
+Nothing, Mr. Poirot.
+
+700
+00:45:01,959 --> 00:45:03,458
+Good night, Miss Lemon.
+
+701
+00:45:04,375 --> 00:45:05,958
+Good night.
+
+702
+00:45:39,917 --> 00:45:42,124
+Ten minutes until your train.
+
+703
+00:45:42,500 --> 00:45:43,749
+Yes.
+
+704
+00:45:44,334 --> 00:45:46,541
+And then your ship to America.
+
+705
+00:45:46,875 --> 00:45:49,666
+Yes.
+
+706
+00:45:51,750 --> 00:45:54,041
+Thank you.
+
+707
+00:46:03,834 --> 00:46:05,958
+Madame, you are
+the most remarkable,
+
+708
+00:46:08,625 --> 00:46:11,041
+the most unique woman
+that I have ever met.
+
+709
+00:46:11,750 --> 00:46:12,999
+But also --
+
+710
+00:46:13,959 --> 00:46:15,208
+Opposites.
+
+711
+00:46:16,084 --> 00:46:17,333
+C'est ça.
+
+712
+00:46:18,500 --> 00:46:21,583
+You must continue your work,
+and I must continue mine.
+
+713
+00:46:24,667 --> 00:46:29,041
+But not in the same country.
+
+714
+00:46:40,125 --> 00:46:42,374
+Countess, please allow me
+to introduce
+
+715
+00:46:42,584 --> 00:46:44,041
+two colleagues of mine --
+
+716
+00:46:44,167 --> 00:46:46,041
+Messieurs Redfern and Blake.
+
+717
+00:46:47,042 --> 00:46:48,499
+Good evening, ma'am.
+
+718
+00:46:48,625 --> 00:46:51,166
+They are, like myself,
+private detectives.
+
+719
+00:46:53,834 --> 00:46:55,916
+Do you really think
+I need an escort?
+
+720
+00:46:56,584 --> 00:46:57,791
+No, no, no, no.
+
+721
+00:46:57,917 --> 00:46:59,708
+They are for your protection.
+
+722
+00:47:00,042 --> 00:47:01,541
+During your short visit
+in England,
+
+723
+00:47:01,667 --> 00:47:03,791
+there have been four
+very clever robberies.
+
+724
+00:47:03,917 --> 00:47:06,458
+I would not wish you to be
+involved in a fifth.
+
+725
+00:47:07,084 --> 00:47:08,333
+Of course.
+
+726
+00:47:17,834 --> 00:47:19,083
+Are they armed?
+
+727
+00:47:20,500 --> 00:47:22,916
+I believe that M. Redfern
+does carry a gun.
+
+728
+00:47:23,834 --> 00:47:25,916
+Yes, loaded with blanks,
+of course.
+
+729
+00:47:26,625 --> 00:47:27,874
+Ah, yes.
+
+730
+00:47:28,000 --> 00:47:29,124
+M. Redfern played the tramp
+
+731
+00:47:29,250 --> 00:47:31,499
+more convincingly
+than I had expected.
+
+732
+00:47:32,167 --> 00:47:33,624
+But pauvre Hastings.
+
+733
+00:47:34,709 --> 00:47:36,583
+I am afraid
+that it was necessary
+
+734
+00:47:36,709 --> 00:47:39,041
+to lead him off the scent.
+
+735
+00:48:07,000 --> 00:48:08,249
+But I forget.
+
+736
+00:48:10,125 --> 00:48:11,624
+I have something for you.
+
+737
+00:48:12,792 --> 00:48:14,083
+A parting present?
+
+738
+00:48:15,750 --> 00:48:16,999
+A souvenir.
+
+739
+00:48:19,459 --> 00:48:20,791
+The cigarette case?
+
+740
+00:48:22,167 --> 00:48:23,833
+The double clue.
+
+741
+00:48:26,250 --> 00:48:27,499
+It's of no use to me.
+
+742
+00:48:29,542 --> 00:48:31,041
+It's inscribed "B.P."
+
+743
+00:48:33,167 --> 00:48:34,416
+Yes.
+
+744
+00:48:35,459 --> 00:48:37,374
+And yet,
+in the Russian alphabet,
+
+745
+00:48:37,792 --> 00:48:40,124
+a "B" is a "V,"
+and a "P" is an "R," is it not?
+
+746
+00:48:42,542 --> 00:48:44,916
+Vera Rossakoff?
+
+747
+00:48:51,334 --> 00:48:52,833
+You've been studying.
+
+748
+00:48:54,209 --> 00:48:55,541
+You will keep it, I hope?
+
+749
+00:48:57,792 --> 00:48:59,499
+Something to remember me by.
+
+750
+00:49:00,792 --> 00:49:02,041
+Oh.
+
+751
+00:49:03,500 --> 00:49:06,333
+I won't forget you.
+
+752
+00:49:10,625 --> 00:49:11,874
+Hercule.
+
+753
+00:49:14,417 --> 00:49:15,666
+Nor I you,
+
+754
+00:49:17,459 --> 00:49:20,916
+Countess.
+
+755
+00:49:33,750 --> 00:49:37,208
+Au revoir.
+
+

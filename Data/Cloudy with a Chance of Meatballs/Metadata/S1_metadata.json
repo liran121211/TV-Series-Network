@@ -1,0 +1,106 @@
+{
+    "2": {
+        "title": "Princess Kittymittens",
+        "released": "2017-03-06",
+        "rating": "3.5",
+        "imdb_id": "tt6621722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Who You Calling Garbage?",
+        "released": "2017-03-07",
+        "rating": "N/A",
+        "imdb_id": "tt6508118",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Cloudy with a Chance of Meatballs\\Subtitles\\S1\\cloudy.with.a.chance.of.meatballs.s01e05.480p.hdtv.x264.rmteam.zip"
+    },
+    "6": {
+        "title": "The Ballad of Johnny Sardine",
+        "released": "2017-03-08",
+        "rating": "N/A",
+        "imdb_id": "tt6755312",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Cloudy with a Chance of Meatballs\\Subtitles\\S1\\cloudy.with.a.chance.of.meatballs.s01e06.480p.hdtv.x264.rmteam.zip"
+    },
+    "10": {
+        "title": "The Pandas Are Coming",
+        "released": "2017-03-15",
+        "rating": "N/A",
+        "imdb_id": "tt6778276",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Inventors Only",
+        "released": "2017-03-16",
+        "rating": "N/A",
+        "imdb_id": "tt5562308",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Sardemon",
+        "released": "2017-03-21",
+        "rating": "N/A",
+        "imdb_id": "tt6779860",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Earl or Pearl?",
+        "released": "2017-03-22",
+        "rating": "N/A",
+        "imdb_id": "tt6779886",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Total Samesies",
+        "released": "2017-03-27",
+        "rating": "N/A",
+        "imdb_id": "tt6779800",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Monkey Me, Monkey You",
+        "released": "2017-03-28",
+        "rating": "N/A",
+        "imdb_id": "tt6779928",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Cloudy with a Chance of Clouds",
+        "released": "2017-04-03",
+        "rating": "2.7",
+        "imdb_id": "tt6780572",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Self-Helpie",
+        "released": "2017-04-26",
+        "rating": "N/A",
+        "imdb_id": "tt8141396",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "36": {
+        "title": "Flintenstein",
+        "released": "2017-10-29",
+        "rating": "4.4",
+        "imdb_id": "tt5571166",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "50": {
+        "title": "Lobster Claus is Coming to Town - Part Two",
+        "released": "2017-09-21",
+        "rating": "N/A",
+        "imdb_id": "tt7727958",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

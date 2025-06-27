@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Member Berries",
+        "released": "2016-09-14",
+        "rating": "7.8",
+        "imdb_id": "tt4197088",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Skank Hunt",
+        "released": "2016-09-21",
+        "rating": "8.1",
+        "imdb_id": "tt5218394",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Damned",
+        "released": "2016-09-28",
+        "rating": "8.1",
+        "imdb_id": "tt5218396",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Wieners Out",
+        "released": "2016-10-12",
+        "rating": "7.8",
+        "imdb_id": "tt5218412",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Douche and a Danish",
+        "released": "2016-10-19",
+        "rating": "7.3",
+        "imdb_id": "tt5218420",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Fort Collins",
+        "released": "2016-10-26",
+        "rating": "7.3",
+        "imdb_id": "tt5218492",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Oh, Jeez",
+        "released": "2016-11-09",
+        "rating": "7.1",
+        "imdb_id": "tt5218500",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Members Only",
+        "released": "2016-11-16",
+        "rating": "7.3",
+        "imdb_id": "tt5218504",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Not Funny",
+        "released": "2016-11-30",
+        "rating": "7.3",
+        "imdb_id": "tt5218506",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The End of Serialization as We Know It",
+        "released": "2016-12-07",
+        "rating": "7.1",
+        "imdb_id": "tt5218508",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

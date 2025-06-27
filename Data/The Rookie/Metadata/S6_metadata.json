@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Strike Back",
+        "released": "2024-02-20",
+        "rating": "7.7",
+        "imdb_id": "tt27536180",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S6\\The.Rookie.S06E01.720p.HDTV.x264-SYNCOPYS6E1.zip"
+    },
+    "2": {
+        "title": "The Hammer",
+        "released": "2024-02-27",
+        "rating": "7.1",
+        "imdb_id": "tt30505429",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S6\\The.Rookie.S06E02.720p.HDTV.x264-SYNCOPYS6E2.zip"
+    },
+    "3": {
+        "title": "Trouble in Paradise",
+        "released": "2024-03-05",
+        "rating": "6.3",
+        "imdb_id": "tt31436420",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S6\\The.Rookie.S06E03.XviD-AFGS6E3.zip"
+    },
+    "4": {
+        "title": "Training Day",
+        "released": "2024-03-26",
+        "rating": "7.7",
+        "imdb_id": "tt31458210",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S6\\The.Rookie.S06E04.1080p.HEVC.x265-MeGustaS6E4.zip"
+    },
+    "5": {
+        "title": "The Vow",
+        "released": "2024-04-02",
+        "rating": "7.6",
+        "imdb_id": "tt31631160",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S6\\The.Rookie.S06E05.XviD-AFGS6E5.zip"
+    },
+    "6": {
+        "title": "Secrets and Lies",
+        "released": "2024-04-09",
+        "rating": "7.5",
+        "imdb_id": "tt31631162",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S6\\TheRookieS06E06SecretsandLies1080pAMZNWEB-DLDDP51H264-FLUXS6E6.zip"
+    },
+    "7": {
+        "title": "Crushed",
+        "released": "2024-04-30",
+        "rating": "7.3",
+        "imdb_id": "tt31955725",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Rookie\\Subtitles\\S6\\The.Rookie.S06E07.1080p.HEVC.x265-MeGusta[EZTVx.to]S6E7.zip"
+    },
+    "8": {
+        "title": "Punch Card",
+        "released": "2024-05-07",
+        "rating": "7.9",
+        "imdb_id": "tt32214909",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Squeeze",
+        "released": "2024-05-14",
+        "rating": "8.3",
+        "imdb_id": "tt32221617",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Escape Plan",
+        "released": "2024-05-21",
+        "rating": "7.6",
+        "imdb_id": "tt32321633",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "1": {
+        "title": "Episode #14.1",
+        "released": "2018-05-28",
+        "rating": "N/A",
+        "imdb_id": "tt8102302",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #14.2",
+        "released": "2018-06-04",
+        "rating": "6.6",
+        "imdb_id": "tt8457860",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #14.7",
+        "released": "2018-07-09",
+        "rating": "N/A",
+        "imdb_id": "tt8579414",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Three-Hour Live Finale",
+        "released": "2018-08-06",
+        "rating": "8.7",
+        "imdb_id": "tt8708850",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

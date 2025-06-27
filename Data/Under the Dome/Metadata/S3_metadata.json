@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Move On",
+        "released": "2015-06-25",
+        "rating": "6.2",
+        "imdb_id": "tt4106874",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "But I'm Not",
+        "released": "2015-06-25",
+        "rating": "6.5",
+        "imdb_id": "tt4484430",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Redux",
+        "released": "2015-07-02",
+        "rating": "6.4",
+        "imdb_id": "tt4520746",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Kinship",
+        "released": "2015-07-09",
+        "rating": "6.4",
+        "imdb_id": "tt4520748",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Alaska",
+        "released": "2015-07-16",
+        "rating": "6.5",
+        "imdb_id": "tt4520750",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Caged",
+        "released": "2015-07-23",
+        "rating": "N/A",
+        "imdb_id": "tt4520752",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Ejecta",
+        "released": "2015-07-30",
+        "rating": "N/A",
+        "imdb_id": "tt4520754",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Breaking Point",
+        "released": "2015-08-06",
+        "rating": "6.6",
+        "imdb_id": "tt4520756",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Plan B",
+        "released": "2015-08-13",
+        "rating": "6.8",
+        "imdb_id": "tt4520758",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Legacy",
+        "released": "2015-08-20",
+        "rating": "6.5",
+        "imdb_id": "tt4520760",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Love Is a Battlefield",
+        "released": "2015-08-27",
+        "rating": "N/A",
+        "imdb_id": "tt4520766",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Incandescence",
+        "released": "2015-09-03",
+        "rating": "6.2",
+        "imdb_id": "tt4520770",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Enemy Within",
+        "released": "2015-09-10",
+        "rating": "6.1",
+        "imdb_id": "tt4484432",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

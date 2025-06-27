@@ -1,0 +1,18 @@
+{
+    "1": {
+        "title": "Episode #1.1",
+        "released": "1999-05-02",
+        "rating": "N/A",
+        "imdb_id": "tt5819858",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #1.2",
+        "released": "1999-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt5819880",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

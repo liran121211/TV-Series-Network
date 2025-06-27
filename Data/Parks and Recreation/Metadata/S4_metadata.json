@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "I'm Leslie Knope",
+        "released": "2011-09-22",
+        "rating": "8.0",
+        "imdb_id": "tt1986601",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S4\\Parks.and.Recreation.S04E01.Im.Leslie.Knope.1080p.AMZN.WEBRip.DD5.1.x264-NTbS4E1.zip"
+    },
+    "2": {
+        "title": "Ron and Tammys",
+        "released": "2011-09-29",
+        "rating": "8.6",
+        "imdb_id": "tt2015058",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S4\\Parks.and.Recreation.S04E02.Ron.And.Tammys.1080p.AMZN.WEBRip.DD5.1.x264-NTbS4E2.zip"
+    },
+    "3": {
+        "title": "Born and Raised",
+        "released": "2011-10-06",
+        "rating": "8.0",
+        "imdb_id": "tt2040001",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S4\\Parks.and.Recreation.S04E03.Born.And.Raised.1080p.AMZN.WEBRip.DD5.1.x264-NTbS4E3.zip"
+    },
+    "4": {
+        "title": "Pawnee Rangers",
+        "released": "2011-10-13",
+        "rating": "8.2",
+        "imdb_id": "tt2041051",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S4\\Parks.and.Recreation.S04E04.Pawnee.Rangers.1080p.AMZN.WEBRip.DD5.1.x264-NTbS4E4.zip"
+    },
+    "5": {
+        "title": "Meet 'N' Greet",
+        "released": "2011-10-27",
+        "rating": "7.7",
+        "imdb_id": "tt2087381",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S4\\Parks.and.Recreation.S04E05.Meet.n.Greet.1080p.AMZN.WEBRip.DD5.1.x264-NTbS4E5.zip"
+    },
+    "6": {
+        "title": "End of the World",
+        "released": "2011-11-03",
+        "rating": "8.4",
+        "imdb_id": "tt2088449",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S4\\Parks.and.Recreation.S04E06.End.Of.The.World.1080p.AMZN.WEBRip.DD5.1.x264-NTbS4E6.zip"
+    },
+    "7": {
+        "title": "The Treaty",
+        "released": "2011-11-10",
+        "rating": "N/A",
+        "imdb_id": "tt2089306",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S4\\Parks.and.Recreation.S04E07.The.Treaty.1080p.AMZN.WEBRip.DD5.1.x264-NTbS4E7.zip"
+    },
+    "8": {
+        "title": "Smallest Park",
+        "released": "2011-11-17",
+        "rating": "7.9",
+        "imdb_id": "tt2095350",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S4\\Parks.and.Recreation.S04E08.Smallest.Park.1080p.AMZN.WEBRip.DD5.1.x264-NTbS4E8.zip"
+    },
+    "9": {
+        "title": "The Trial of Leslie Knope",
+        "released": "2011-12-01",
+        "rating": "8.4",
+        "imdb_id": "tt2108220",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Parks and Recreation\\Subtitles\\S4\\Parks.and.Recreation.S04E09.The.Trial.Of.Leslie.Knope.1080p.AMZN.WEBRip.DD5.1.x264-NTbS4E9.zip"
+    },
+    "10": {
+        "title": "Citizen Knope",
+        "released": "2011-12-08",
+        "rating": "N/A",
+        "imdb_id": "tt2113422",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Comeback Kid",
+        "released": "2012-01-12",
+        "rating": "8.5",
+        "imdb_id": "tt2143605",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Campaign Ad",
+        "released": "2012-01-19",
+        "rating": "8.3",
+        "imdb_id": "tt2156103",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Bowling for Votes",
+        "released": "2012-01-26",
+        "rating": "8.5",
+        "imdb_id": "tt2164475",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Operation Ann",
+        "released": "2012-02-02",
+        "rating": "N/A",
+        "imdb_id": "tt2183551",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Dave Returns",
+        "released": "2012-02-16",
+        "rating": "7.8",
+        "imdb_id": "tt2201899",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Sweet Sixteen",
+        "released": "2012-02-23",
+        "rating": "N/A",
+        "imdb_id": "tt2213145",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Campaign Shake-Up",
+        "released": "2012-03-01",
+        "rating": "N/A",
+        "imdb_id": "tt2230337",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Lucky",
+        "released": "2012-03-08",
+        "rating": "7.8",
+        "imdb_id": "tt2235069",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Live Ammo",
+        "released": "2012-04-19",
+        "rating": "N/A",
+        "imdb_id": "tt2235067",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Debate",
+        "released": "2012-04-26",
+        "rating": "8.7",
+        "imdb_id": "tt2235071",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Bus Tour",
+        "released": "2012-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt2235065",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Win, Lose or Draw",
+        "released": "2012-05-10",
+        "rating": "9.0",
+        "imdb_id": "tt2235063",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

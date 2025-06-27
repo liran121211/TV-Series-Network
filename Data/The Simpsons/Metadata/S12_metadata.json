@@ -1,0 +1,170 @@
+{
+    "1": {
+        "title": "Treehouse of Horror XI",
+        "released": "2000-11-01",
+        "rating": "7.6",
+        "imdb_id": "tt0763040",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E01.WEB-DL.DSNPS12E1.zip"
+    },
+    "2": {
+        "title": "A Tale of Two Springfields",
+        "released": "2000-11-05",
+        "rating": "7.4",
+        "imdb_id": "tt0701049",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E02.WEB-DL.DSNPS12E2.zip"
+    },
+    "3": {
+        "title": "Insane Clown Poppy",
+        "released": "2000-11-12",
+        "rating": "6.9",
+        "imdb_id": "tt0701137",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E03.WEB-DL.DSNPS12E3.zip"
+    },
+    "4": {
+        "title": "Lisa the Treehugger",
+        "released": "2000-11-19",
+        "rating": "7.1",
+        "imdb_id": "tt0701157",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E04.WEB-DL.DSNPS12E4.zip"
+    },
+    "5": {
+        "title": "Homer vs. Dignity",
+        "released": "2000-11-26",
+        "rating": "7.0",
+        "imdb_id": "tt0763031",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E05.WEB-DL.DSNPS12E5.zip"
+    },
+    "6": {
+        "title": "The Computer Wore Menace Shoes",
+        "released": "2000-12-03",
+        "rating": "7.7",
+        "imdb_id": "tt0701231",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E06.WEB-DL.DSNPS12E6.zip"
+    },
+    "7": {
+        "title": "The Great Money Caper",
+        "released": "2000-12-10",
+        "rating": "7.2",
+        "imdb_id": "tt0701241",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E07.WEB-DL.DSNPS12E7.zip"
+    },
+    "8": {
+        "title": "Skinner's Sense of Snow",
+        "released": "2000-12-17",
+        "rating": "7.9",
+        "imdb_id": "tt0762498",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E08.WEB-DL.DSNPS12E8.zip"
+    },
+    "9": {
+        "title": "HOMR",
+        "released": "2001-01-07",
+        "rating": "8.1",
+        "imdb_id": "tt0762497",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S12\\The.Simpsons.S12E09.WEB-DL.DSNPS12E9.zip"
+    },
+    "10": {
+        "title": "Pokey Mom",
+        "released": "2001-01-14",
+        "rating": "7.1",
+        "imdb_id": "tt0701197",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Worst Episode Ever",
+        "released": "2001-02-04",
+        "rating": "7.4",
+        "imdb_id": "tt0701297",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Tennis the Menace",
+        "released": "2001-02-11",
+        "rating": "6.8",
+        "imdb_id": "tt0701223",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Day of the Jackanapes",
+        "released": "2001-02-18",
+        "rating": "7.1",
+        "imdb_id": "tt0701086",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "New Kids on the Blecch",
+        "released": "2001-02-25",
+        "rating": "7.2",
+        "imdb_id": "tt0701190",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Hungry Hungry Homer",
+        "released": "2001-03-04",
+        "rating": "7.5",
+        "imdb_id": "tt0701130",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Bye Bye Nerdy",
+        "released": "2001-03-11",
+        "rating": "6.6",
+        "imdb_id": "tt0701079",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Simpson Safari",
+        "released": "2001-04-01",
+        "rating": "6.8",
+        "imdb_id": "tt0701213",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Trilogy of Error",
+        "released": "2001-04-29",
+        "rating": "8.6",
+        "imdb_id": "tt0701288",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "I'm Goin' to Praiseland",
+        "released": "2001-05-06",
+        "rating": "7.2",
+        "imdb_id": "tt0701133",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Children of a Lesser Clod",
+        "released": "2001-05-13",
+        "rating": "7.2",
+        "imdb_id": "tt0765966",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Simpsons Tall Tales",
+        "released": "2001-05-20",
+        "rating": "6.9",
+        "imdb_id": "tt0766139",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

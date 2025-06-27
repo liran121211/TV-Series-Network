@@ -1,0 +1,218 @@
+{
+    "1": {
+        "title": "Hey Apple!",
+        "released": "2009-10-09",
+        "rating": "7.1",
+        "imdb_id": "tt1829838",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Plumpkin",
+        "released": "2009-10-29",
+        "rating": "6.6",
+        "imdb_id": "tt1841975",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Annoying Orange\\Subtitles\\S1\\Annoying.Orange.S01E02.1080p.WEB-DL.PMTP.DDP5.1.H.264-H0RT0NS1E2.zip"
+    },
+    "3": {
+        "title": "Hey YouTube!!!",
+        "released": "2010-01-15",
+        "rating": "N/A",
+        "imdb_id": "tt1852206",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Passion of the Fruit",
+        "released": "2010-02-19",
+        "rating": "6.4",
+        "imdb_id": "tt1852211",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "A Cheesy Episode",
+        "released": "2010-03-05",
+        "rating": "N/A",
+        "imdb_id": "tt1852200",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Wazzup 2: Wassabi",
+        "released": "2010-04-30",
+        "rating": "N/A",
+        "imdb_id": "tt1852219",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Pacmania",
+        "released": "2010-05-14",
+        "rating": "N/A",
+        "imdb_id": "tt1852209",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Grapfruit's Revenge",
+        "released": "2010-05-28",
+        "rating": "N/A",
+        "imdb_id": "tt1853026",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Grandpa Lemon",
+        "released": "2010-06-04",
+        "rating": "N/A",
+        "imdb_id": "tt1853025",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "25": {
+        "title": "Back to the Future",
+        "released": "2010-06-11",
+        "rating": "N/A",
+        "imdb_id": "tt1853016",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Orange vs FRED!!!",
+        "released": "2010-06-24",
+        "rating": "7.3",
+        "imdb_id": "tt1853034",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "The Orange Cup",
+        "released": "2010-07-08",
+        "rating": "N/A",
+        "imdb_id": "tt1853040",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Teenage Mutant Ninja Apples",
+        "released": "2010-07-16",
+        "rating": "N/A",
+        "imdb_id": "tt1853037",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "32": {
+        "title": "Crabapple",
+        "released": "2010-08-06",
+        "rating": "N/A",
+        "imdb_id": "tt1853019",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Close Encounters of the Annoying Kind",
+        "released": "2010-08-20",
+        "rating": "N/A",
+        "imdb_id": "tt1853018",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "The Sitcom",
+        "released": "2010-08-27",
+        "rating": "N/A",
+        "imdb_id": "tt1853041",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Going Walnuts",
+        "released": "2010-09-03",
+        "rating": "N/A",
+        "imdb_id": "tt1853024",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Saw 2: The Annoying Death Trap",
+        "released": "2010-09-24",
+        "rating": "N/A",
+        "imdb_id": "tt1853748",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "39": {
+        "title": "Happy Birthday!",
+        "released": "2010-10-08",
+        "rating": "N/A",
+        "imdb_id": "tt1853027",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Frankenfruit",
+        "released": "2010-10-29",
+        "rating": "N/A",
+        "imdb_id": "tt1853023",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Theme Song Attack!",
+        "released": "2010-11-05",
+        "rating": "N/A",
+        "imdb_id": "tt1853042",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Annoying Pear",
+        "released": "2010-11-12",
+        "rating": "N/A",
+        "imdb_id": "tt1853014",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "Kitchen Intruder",
+        "released": "2010-11-23",
+        "rating": "N/A",
+        "imdb_id": "tt1853030",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "46": {
+        "title": "Sneezing Marshmallow",
+        "released": "2010-11-24",
+        "rating": "N/A",
+        "imdb_id": "tt1853036",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Annoying Orange Meets Charlie",
+        "released": "2010-11-25",
+        "rating": "N/A",
+        "imdb_id": "tt1853012",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "Mystery of the Mustachios",
+        "released": "2010-12-10",
+        "rating": "N/A",
+        "imdb_id": "tt1853032",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "Wishful Thinking",
+        "released": "2010-12-24",
+        "rating": "N/A",
+        "imdb_id": "tt1853043",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

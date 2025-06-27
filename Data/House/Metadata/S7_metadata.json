@@ -1,0 +1,186 @@
+{
+    "1": {
+        "title": "Now What?",
+        "released": "2010-09-20",
+        "rating": "8.2",
+        "imdb_id": "tt1697219",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S7\\House.S07E01.HDTV.XviD-LOL.HIS7E1.zip"
+    },
+    "2": {
+        "title": "Selfish",
+        "released": "2010-09-27",
+        "rating": "8.5",
+        "imdb_id": "tt1685104",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S7\\House.S07E02.HDTV.XviD-LOL.HIS7E2.zip"
+    },
+    "3": {
+        "title": "Unwritten",
+        "released": "2010-10-04",
+        "rating": "8.1",
+        "imdb_id": "tt1726377",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S7\\House.S07E03.HDTV.XviD-LOL.HI.S7E3.zip"
+    },
+    "4": {
+        "title": "Massage Therapy",
+        "released": "2010-10-11",
+        "rating": "7.8",
+        "imdb_id": "tt1726378",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S7\\House.S07E04.HDTV.XviD-LOL.HIS7E4.zip"
+    },
+    "5": {
+        "title": "Unplanned Parenthood",
+        "released": "2010-10-18",
+        "rating": "8.1",
+        "imdb_id": "tt1726379",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S7\\House.S07E05.HDTV.XviD-LOL.HIS7E5.zip"
+    },
+    "6": {
+        "title": "Office Politics",
+        "released": "2010-11-08",
+        "rating": "8.0",
+        "imdb_id": "tt1708695",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S7\\House.S07E06.HDTV.XviD-LOLS7E6.zip"
+    },
+    "7": {
+        "title": "A Pox on Our House",
+        "released": "2010-11-15",
+        "rating": "8.6",
+        "imdb_id": "tt1726380",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S7\\House.S07E07.HDTV.XviD-LOL.HIS7E7.zip"
+    },
+    "8": {
+        "title": "Small Sacrifices",
+        "released": "2010-11-22",
+        "rating": "7.7",
+        "imdb_id": "tt1726381",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S7\\House.S07E08.Small_Sacrifices.HDTV.XviD-LOLS7E8.zip"
+    },
+    "9": {
+        "title": "Larger Than Life",
+        "released": "2011-01-17",
+        "rating": "N/A",
+        "imdb_id": "tt1726382",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\House\\Subtitles\\S7\\House.S07E09.HDTV.XviD-LOL.HIS7E9.zip"
+    },
+    "10": {
+        "title": "Carrot or Stick",
+        "released": "2011-01-24",
+        "rating": "7.9",
+        "imdb_id": "tt1726371",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Family Practice",
+        "released": "2011-02-07",
+        "rating": "8.5",
+        "imdb_id": "tt1726372",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "You Must Remember This",
+        "released": "2011-02-14",
+        "rating": "7.7",
+        "imdb_id": "tt1726373",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Two Stories",
+        "released": "2011-02-21",
+        "rating": "8.8",
+        "imdb_id": "tt1726374",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Recession Proof",
+        "released": "2011-02-28",
+        "rating": "7.8",
+        "imdb_id": "tt1726375",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Bombshells",
+        "released": "2011-03-07",
+        "rating": "8.5",
+        "imdb_id": "tt1726376",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Out of the Chute",
+        "released": "2011-03-14",
+        "rating": "8.7",
+        "imdb_id": "tt1842688",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Fall from Grace",
+        "released": "2011-03-21",
+        "rating": "8.3",
+        "imdb_id": "tt1842081",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Dig",
+        "released": "2011-04-11",
+        "rating": "8.8",
+        "imdb_id": "tt1878391",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Last Temptation",
+        "released": "2011-04-18",
+        "rating": "8.4",
+        "imdb_id": "tt1880571",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Changes",
+        "released": "2011-05-02",
+        "rating": "N/A",
+        "imdb_id": "tt1883788",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Fix",
+        "released": "2011-05-09",
+        "rating": "N/A",
+        "imdb_id": "tt1902562",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "After Hours",
+        "released": "2011-05-16",
+        "rating": "9.1",
+        "imdb_id": "tt1900094",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Moving On",
+        "released": "2011-05-23",
+        "rating": "8.4",
+        "imdb_id": "tt1919895",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

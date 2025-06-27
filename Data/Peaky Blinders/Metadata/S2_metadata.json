@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Episode #2.1",
+        "released": "2014-10-02",
+        "rating": "8.4",
+        "imdb_id": "tt3655782",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S2\\Peaky.Blinders.S02E01.PROPER.HDTV.XviD-AFGS2E1.zip"
+    },
+    "2": {
+        "title": "Episode #2.2",
+        "released": "2014-10-09",
+        "rating": "8.2",
+        "imdb_id": "tt3683570",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #2.3",
+        "released": "2014-10-16",
+        "rating": "8.5",
+        "imdb_id": "tt3683572",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S2\\Peaky_Blinders_S02E03_Episode_3S2E3.zip"
+    },
+    "4": {
+        "title": "Episode #2.4",
+        "released": "2014-10-23",
+        "rating": "8.4",
+        "imdb_id": "tt3683574",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S2\\Peaky.Blinders.S02E04.HDTV.XviD-AFGS2E4.zip"
+    },
+    "5": {
+        "title": "Episode #2.5",
+        "released": "2014-10-30",
+        "rating": "N/A",
+        "imdb_id": "tt3683578",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Peaky Blinders\\Subtitles\\S2\\Peaky_Blinders_S02E05_Episode_5S2E5.zip"
+    },
+    "6": {
+        "title": "Episode #2.6",
+        "released": "2014-11-06",
+        "rating": "9.5",
+        "imdb_id": "tt3683576",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

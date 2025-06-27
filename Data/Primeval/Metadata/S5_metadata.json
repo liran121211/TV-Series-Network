@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Matt's Secret",
+        "released": "2011-05-24",
+        "rating": "N/A",
+        "imdb_id": "tt1734897",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Submarine",
+        "released": "2011-05-31",
+        "rating": "N/A",
+        "imdb_id": "tt1734898",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "In the Good Old Days",
+        "released": "2011-06-07",
+        "rating": "N/A",
+        "imdb_id": "tt1734899",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Prototype",
+        "released": "2011-06-14",
+        "rating": "N/A",
+        "imdb_id": "tt1734900",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The End of the Future: Part 1",
+        "released": "2011-06-21",
+        "rating": "N/A",
+        "imdb_id": "tt1734901",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The End of the Future: Part 2",
+        "released": "2011-06-28",
+        "rating": "N/A",
+        "imdb_id": "tt1734902",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

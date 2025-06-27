@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Jones to the Future",
+        "released": "2023-03-06",
+        "rating": "N/A",
+        "imdb_id": "tt27156484",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ridley Jones\\Subtitles\\S5\\Ridley.Jones.S05E01.NF.WEBRip.DDP5.1.x264-DOLORES.en.zip"
+    },
+    "2": {
+        "title": "Ms. Peabody, I Presume?",
+        "released": "2023-03-06",
+        "rating": "N/A",
+        "imdb_id": "tt27156495",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ridley Jones\\Subtitles\\S5\\Ridley.Jones.S05E02.NF.WEBRip.DDP5.1.x264-DOLORES.en.zip"
+    },
+    "3": {
+        "title": "Flight School Dropout",
+        "released": "2023-03-06",
+        "rating": "N/A",
+        "imdb_id": "tt27156508",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ridley Jones\\Subtitles\\S5\\Ridley.Jones.S05E03.NF.WEBRip.DDP5.1.x264-DOLORES.en.zip"
+    },
+    "4": {
+        "title": "Dante's Jurassic Rescue",
+        "released": "2023-03-06",
+        "rating": "N/A",
+        "imdb_id": "tt27156521",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ridley Jones\\Subtitles\\S5\\Ridley.Jones.S05E04.NF.WEBRip.DDP5.1.x264-DOLORES.en.zip"
+    },
+    "8": {
+        "title": "Happy Herd Day",
+        "released": "2023-03-06",
+        "rating": "N/A",
+        "imdb_id": "tt27164156",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Ridley Jones\\Subtitles\\S5\\Ridley.Jones.S05E08.NF.WEBRip.DDP5.1.x264-DOLORES.en.zip"
+    },
+    "9": {
+        "title": "Dino Versus Dodo",
+        "released": "2023-03-06",
+        "rating": "N/A",
+        "imdb_id": "tt27164172",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Peaches' Space Race",
+        "released": "2023-03-06",
+        "rating": "N/A",
+        "imdb_id": "tt27164237",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Pedro Busts a Move",
+        "released": "2023-02-06",
+        "rating": "N/A",
+        "imdb_id": "tt27164242",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

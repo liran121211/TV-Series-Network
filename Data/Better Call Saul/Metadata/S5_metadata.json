@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Magic Man",
+        "released": "2020-02-23",
+        "rating": "8.7",
+        "imdb_id": "tt8772146",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S5\\S05E01_-_NF.WEB-DL_-_AMRAP___PALEALE_-_FORCEDS5E1.zip"
+    },
+    "2": {
+        "title": "50% Off",
+        "released": "2020-02-24",
+        "rating": "8.7",
+        "imdb_id": "tt8772148",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S5\\Better.Call.Saul.S05E02.WEB.H264-XLF.HIS5E2.zip"
+    },
+    "3": {
+        "title": "The Guy for This",
+        "released": "2020-03-02",
+        "rating": "9.0",
+        "imdb_id": "tt8772190",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S5\\S05E03_-_NF.WEB-DL_-_AMRAP___PALEALE___AJP69_-_FORCEDS5E3.zip"
+    },
+    "4": {
+        "title": "Namaste",
+        "released": "2020-03-09",
+        "rating": "8.5",
+        "imdb_id": "tt8772192",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S5\\S05E04_-_NF.WEB-DL_-_AMRAP___PALEALE___AJP69_-_FORCEDS5E4.zip"
+    },
+    "5": {
+        "title": "Dedicado a Max",
+        "released": "2020-03-16",
+        "rating": "8.5",
+        "imdb_id": "tt8772194",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S5\\S05E05_-_NF.WEB-DL_-_AMRAP___PALEALE___AJP69_-_FORCEDS5E5.zip"
+    },
+    "6": {
+        "title": "Wexler v. Goodman",
+        "released": "2020-03-23",
+        "rating": "9.3",
+        "imdb_id": "tt8772196",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S5\\S05E06_-_NF.WEB-DL_-_AMRAP___PALEALE___AJP69S5E6.zip"
+    },
+    "7": {
+        "title": "JMM",
+        "released": "2020-03-30",
+        "rating": "9.0",
+        "imdb_id": "tt8772216",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S5\\S05E07_-_NF.WEB-DL_-_AMRAP___PALEALE___AJP69S5E7.zip"
+    },
+    "8": {
+        "title": "Bagman",
+        "released": "2020-04-06",
+        "rating": "9.7",
+        "imdb_id": "tt8772218",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S5\\S05E08_-_NF.WEB-DL_-_AMRAP___PALEALE___AJP69S5E8.zip"
+    },
+    "9": {
+        "title": "Bad Choice Road",
+        "released": "2020-04-13",
+        "rating": "9.7",
+        "imdb_id": "tt8772220",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S5\\S05E09_-_NF.WEB-DL_-_AMRAP___PALEALE___AJP69_-_FORCEDS5E9.zip"
+    },
+    "10": {
+        "title": "Something Unforgivable",
+        "released": "2020-04-20",
+        "rating": "9.4",
+        "imdb_id": "tt8772224",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

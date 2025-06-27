@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Good News, Bad News",
+        "released": "1989-07-05",
+        "rating": "7.3",
+        "imdb_id": "tt0098286",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Stakeout",
+        "released": "1990-05-31",
+        "rating": "7.5",
+        "imdb_id": "tt0697784",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Robbery",
+        "released": "1990-06-07",
+        "rating": "7.5",
+        "imdb_id": "tt0697768",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Male Unbonding",
+        "released": "1990-06-14",
+        "rating": "7.3",
+        "imdb_id": "tt0697645",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S1\\Seinfeld.S01E04.Male-Unbonding.720p.HULU.WEBRip.AAC2.0.H.264-NTbS1E4.zip"
+    },
+    "5": {
+        "title": "The Stock Tip",
+        "released": "1990-06-21",
+        "rating": "7.4",
+        "imdb_id": "tt0697788",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

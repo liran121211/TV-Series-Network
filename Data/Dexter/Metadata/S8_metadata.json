@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "A Beautiful Day",
+        "released": "2013-06-30",
+        "rating": "8.4",
+        "imdb_id": "tt2577702",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S8\\Dexter.S08E01.HDTV.XviD-AFGS8E1.zip"
+    },
+    "2": {
+        "title": "Every Silver Lining...",
+        "released": "2013-07-07",
+        "rating": "7.9",
+        "imdb_id": "tt2578758",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S8\\Dexter.S08E02.HDTV.XviD-AFGS8E2.zip"
+    },
+    "3": {
+        "title": "What's Eating Dexter Morgan?",
+        "released": "2013-07-14",
+        "rating": "8.0",
+        "imdb_id": "tt2578760",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S8\\Dexter.S08E03.HDTV.XviD-AFGS8E3.zip"
+    },
+    "4": {
+        "title": "Scar Tissue",
+        "released": "2013-07-21",
+        "rating": "7.9",
+        "imdb_id": "tt2578762",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S8\\Dexter.S08E04.HDTV.XviD-AFGS8E4.zip"
+    },
+    "5": {
+        "title": "This Little Piggy",
+        "released": "2013-07-28",
+        "rating": "7.8",
+        "imdb_id": "tt2578764",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S8\\Dexter.S08E05.HDTV.XviD-AFGS8E5.zip"
+    },
+    "6": {
+        "title": "A Little Reflection",
+        "released": "2013-08-04",
+        "rating": "7.6",
+        "imdb_id": "tt2578770",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S8\\Dexter.S08E06.PROPER.HDTV.XviD-AFGS8E6.zip"
+    },
+    "7": {
+        "title": "Dress Code",
+        "released": "2013-08-11",
+        "rating": "7.5",
+        "imdb_id": "tt2578776",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S8\\Dexter.S08E07.HDTV.XviD-AFGS8E7.zip"
+    },
+    "8": {
+        "title": "Are We There Yet?",
+        "released": "2013-08-18",
+        "rating": "8.0",
+        "imdb_id": "tt2578778",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S8\\Dexter.S08E08.HDTV.XviD-AFGS8E8.zip"
+    },
+    "9": {
+        "title": "Make Your Own Kind of Music",
+        "released": "2013-08-25",
+        "rating": "7.3",
+        "imdb_id": "tt2578782",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Dexter\\Subtitles\\S8\\Dexter.S08E09.HDTV.XviD-AFGS8E9.zip"
+    },
+    "10": {
+        "title": "Goodbye Miami",
+        "released": "2013-09-08",
+        "rating": "6.9",
+        "imdb_id": "tt2578788",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Monkey in a Box",
+        "released": "2013-09-15",
+        "rating": "7.2",
+        "imdb_id": "tt2578790",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Remember the Monsters?",
+        "released": "2013-09-22",
+        "rating": "4.7",
+        "imdb_id": "tt2578802",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

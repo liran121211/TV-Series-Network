@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "The William Morris Years",
+        "released": "2015-11-11",
+        "rating": "8.0",
+        "imdb_id": "tt2128662",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Gregory's Beard",
+        "released": "2015-11-18",
+        "rating": "8.0",
+        "imdb_id": "tt2128663",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Threeism",
+        "released": "2015-11-25",
+        "rating": "9.0",
+        "imdb_id": "tt2128664",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Mole-Mapping",
+        "released": "2015-12-02",
+        "rating": "7.8",
+        "imdb_id": "tt2128665",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Kid Farm",
+        "released": "2015-12-09",
+        "rating": "8.1",
+        "imdb_id": "tt2128666",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Are We Going to Be Alright?",
+        "released": "2015-12-16",
+        "rating": "8.3",
+        "imdb_id": "tt2128667",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

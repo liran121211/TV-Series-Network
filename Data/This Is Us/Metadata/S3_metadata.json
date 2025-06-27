@@ -1,0 +1,146 @@
+{
+    "1": {
+        "title": "Nine Bucks",
+        "released": "2018-09-25",
+        "rating": "8.6",
+        "imdb_id": "tt6439874",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S3\\This.is.Us.S03E01.Nine_Bucks.WEB-TBS.HIS3E1.zip"
+    },
+    "2": {
+        "title": "A Philadelphia Story",
+        "released": "2018-10-02",
+        "rating": "8.1",
+        "imdb_id": "tt6439878",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S3\\This.Is.Us.S03E02.XviD-AFGS3E2.zip"
+    },
+    "3": {
+        "title": "Katie Girls",
+        "released": "2018-10-09",
+        "rating": "8.5",
+        "imdb_id": "tt6439890",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S3\\This.Is.Us.S03E03.XviD-AFGS3E3.zip"
+    },
+    "4": {
+        "title": "Vietnam",
+        "released": "2018-10-16",
+        "rating": "8.0",
+        "imdb_id": "tt6439900",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S3\\This.Is.Us.S03E04.XviD-AFGS3E4.zip"
+    },
+    "5": {
+        "title": "Toby",
+        "released": "2018-10-23",
+        "rating": "8.2",
+        "imdb_id": "tt6439894",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S3\\This.Is.Us.S03E05.HDTV.x264-SVAS3E5.zip"
+    },
+    "6": {
+        "title": "Kamsahamnida",
+        "released": "2018-10-30",
+        "rating": "8.3",
+        "imdb_id": "tt6439896",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S3\\This.Is.Us.S03E06.HDTV.x264-SVAS3E6.zip"
+    },
+    "7": {
+        "title": "Sometimes",
+        "released": "2018-11-13",
+        "rating": "8.3",
+        "imdb_id": "tt6439898",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S3\\This.Is.Us.S03E07.WEB.x264-TBSS3E7.zip"
+    },
+    "8": {
+        "title": "Six Thanksgivings",
+        "released": "2018-11-20",
+        "rating": "8.1",
+        "imdb_id": "tt6439886",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S3\\This.Is.Us.S03E08.1080p.AMZN.WEBRip.DDP5.1.x264-KiNGSS3E8.zip"
+    },
+    "9": {
+        "title": "The Beginning Is the End Is the Beginning",
+        "released": "2018-11-27",
+        "rating": "8.8",
+        "imdb_id": "tt6439888",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\This Is Us\\Subtitles\\S3\\This.Is.Us.S03E09.XviD-AFGS3E9.zip"
+    },
+    "10": {
+        "title": "The Last Seven Weeks",
+        "released": "2019-01-15",
+        "rating": "8.4",
+        "imdb_id": "tt6439892",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Songbird Road: Part One",
+        "released": "2019-01-22",
+        "rating": "9.1",
+        "imdb_id": "tt6439906",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Songbird Road: Part Two",
+        "released": "2019-02-12",
+        "rating": "N/A",
+        "imdb_id": "tt6439902",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Our Little Island Girl",
+        "released": "2019-02-19",
+        "rating": "8.6",
+        "imdb_id": "tt6439910",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Graduates",
+        "released": "2019-03-05",
+        "rating": "8.4",
+        "imdb_id": "tt6439908",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Waiting Room",
+        "released": "2019-03-12",
+        "rating": "8.2",
+        "imdb_id": "tt6439916",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Don't Take My Sunshine Away",
+        "released": "2019-03-19",
+        "rating": "8.1",
+        "imdb_id": "tt6439912",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "R & B",
+        "released": "2019-03-26",
+        "rating": "8.7",
+        "imdb_id": "tt6439904",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Her",
+        "released": "2019-04-02",
+        "rating": "9.1",
+        "imdb_id": "tt6439914",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

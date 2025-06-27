@@ -1,0 +1,162 @@
+{
+    "1": {
+        "title": "Tourist Trapped",
+        "released": "2012-06-15",
+        "rating": "N/A",
+        "imdb_id": "tt2152239",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Gravity Falls\\Subtitles\\S1\\Gravity.Falls.S01E01.Tourist.Trapped.1080p.BluRay.FLAC2.0.x264-SA89S1E1.zip"
+    },
+    "2": {
+        "title": "The Legend of the Gobblewonker",
+        "released": "2012-06-29",
+        "rating": "7.7",
+        "imdb_id": "tt2168670",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Gravity Falls\\Subtitles\\S1\\Gravity.Falls.S01E02.480p.WEB-DL.x264-mSDS1E2.zip"
+    },
+    "3": {
+        "title": "Headhunters",
+        "released": "2012-06-30",
+        "rating": "7.9",
+        "imdb_id": "tt2168676",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Gravity Falls\\Subtitles\\S1\\Gravity.Falls.S01E03.480p.WEB-DL.x264-mSDS1E3.zip"
+    },
+    "4": {
+        "title": "The Hand That Rocks the Mabel",
+        "released": "2012-07-06",
+        "rating": "7.6",
+        "imdb_id": "tt2229194",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Inconveniencing",
+        "released": "2012-07-13",
+        "rating": "8.5",
+        "imdb_id": "tt2229196",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Dipper vs. Manliness",
+        "released": "2012-07-20",
+        "rating": "7.7",
+        "imdb_id": "tt2229192",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Double Dipper",
+        "released": "2012-08-10",
+        "rating": "8.6",
+        "imdb_id": "tt2267658",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Irrational Treasure",
+        "released": "2012-08-17",
+        "rating": "8.1",
+        "imdb_id": "tt2267660",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Time Traveler's Pig",
+        "released": "2012-08-24",
+        "rating": "9.0",
+        "imdb_id": "tt2310928",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Fight Fighters",
+        "released": "2012-09-14",
+        "rating": "8.5",
+        "imdb_id": "tt2340344",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Little Dipper",
+        "released": "2012-09-28",
+        "rating": "7.8",
+        "imdb_id": "tt2340350",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Summerween",
+        "released": "2012-10-05",
+        "rating": "8.6",
+        "imdb_id": "tt2439428",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Boss Mabel",
+        "released": "2013-02-15",
+        "rating": "7.8",
+        "imdb_id": "tt2468818",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Bottomless Pit!",
+        "released": "2013-03-01",
+        "rating": "8.0",
+        "imdb_id": "tt2717560",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Deep End",
+        "released": "2013-03-15",
+        "rating": "7.6",
+        "imdb_id": "tt2717562",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Carpet Diem",
+        "released": "2013-04-05",
+        "rating": "8.5",
+        "imdb_id": "tt2717564",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Boyz Crazy",
+        "released": "2013-04-19",
+        "rating": "7.2",
+        "imdb_id": "tt2813658",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Land Before Swine",
+        "released": "2013-06-28",
+        "rating": "8.3",
+        "imdb_id": "tt2973488",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Dreamscaperers",
+        "released": "2013-07-12",
+        "rating": "N/A",
+        "imdb_id": "tt3031772",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Gideon Rises",
+        "released": "2013-08-02",
+        "rating": "9.2",
+        "imdb_id": "tt3054596",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

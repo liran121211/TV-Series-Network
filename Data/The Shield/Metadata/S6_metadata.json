@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "On the Jones",
+        "released": "2007-04-03",
+        "rating": "8.4",
+        "imdb_id": "tt0836472",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S6\\The.Shield.S06E01.DSR.XviD-NoTVS6E1.zip"
+    },
+    "2": {
+        "title": "Baptism by Fire",
+        "released": "2007-04-10",
+        "rating": "8.5",
+        "imdb_id": "tt0795277",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S6\\The.Shield.S06E02.DSR.XviD-NoTVS6E2.zip"
+    },
+    "3": {
+        "title": "Back to One",
+        "released": "2007-04-17",
+        "rating": "N/A",
+        "imdb_id": "tt0844622",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S6\\The.Shield.S06E03.PDTV.XviD-JMTS6E3.zip"
+    },
+    "4": {
+        "title": "The New Guy",
+        "released": "2007-04-24",
+        "rating": "8.0",
+        "imdb_id": "tt0979129",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Haunts",
+        "released": "2007-05-01",
+        "rating": "8.1",
+        "imdb_id": "tt0902870",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S6\\The.Shield.S06E05.PDTV.XviD-JMTS6E5.zip"
+    },
+    "6": {
+        "title": "Chasing Ghosts",
+        "released": "2007-05-08",
+        "rating": "N/A",
+        "imdb_id": "tt1026198",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S6\\The.Shield.S06E06.PDTV.XviD-JMTS6E6.zip"
+    },
+    "7": {
+        "title": "Exiled",
+        "released": "2007-05-15",
+        "rating": "N/A",
+        "imdb_id": "tt1033349",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S6\\The.Shield.S06E07.PDTV.XviD-JMTS6E7.zip"
+    },
+    "8": {
+        "title": "The Math of the Wrath",
+        "released": "2007-05-22",
+        "rating": "N/A",
+        "imdb_id": "tt0865248",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S6\\The.Shield.S06E08.PROPER.PDTV.XviD-JMTS6E8.zip"
+    },
+    "9": {
+        "title": "Recoil",
+        "released": "2007-05-29",
+        "rating": "N/A",
+        "imdb_id": "tt1038578",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Shield\\Subtitles\\S6\\The.Shield.S06E09.PDTV.XviD-JMTS6E9.zip"
+    },
+    "10": {
+        "title": "Spanish Practices",
+        "released": "2007-06-05",
+        "rating": "8.7",
+        "imdb_id": "tt1019218",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

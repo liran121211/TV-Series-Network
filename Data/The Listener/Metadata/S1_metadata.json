@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "I'm an Adult Now",
+        "released": "2009-06-04",
+        "rating": "N/A",
+        "imdb_id": "tt1186500",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Emotional Rescue",
+        "released": "2009-06-04",
+        "rating": "6.9",
+        "imdb_id": "tt1186505",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "A Voice in the Dark",
+        "released": "2009-06-11",
+        "rating": "7.7",
+        "imdb_id": "tt1186506",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Some Kinda Love",
+        "released": "2009-06-18",
+        "rating": "N/A",
+        "imdb_id": "tt1186507",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Lisa Says",
+        "released": "2009-07-02",
+        "rating": "7.5",
+        "imdb_id": "tt1186508",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Foggy Notion",
+        "released": "2009-07-09",
+        "rating": "N/A",
+        "imdb_id": "tt1186509",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Iris",
+        "released": "2009-07-16",
+        "rating": "N/A",
+        "imdb_id": "tt1186510",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "One Way or Another",
+        "released": "2009-07-23",
+        "rating": "N/A",
+        "imdb_id": "tt1186511",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Inside the Man",
+        "released": "2009-07-24",
+        "rating": "N/A",
+        "imdb_id": "tt1186512",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Missing",
+        "released": "2009-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt1186501",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Beginning to See the Light",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt1186502",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "My Sister's Keeper",
+        "released": "2009-05-17",
+        "rating": "N/A",
+        "imdb_id": "tt1186503",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Journey",
+        "released": "2009-05-24",
+        "rating": "8.4",
+        "imdb_id": "tt1186504",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

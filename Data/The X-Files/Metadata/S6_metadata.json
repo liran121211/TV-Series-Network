@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "The Beginning",
+        "released": "1998-11-08",
+        "rating": "8.1",
+        "imdb_id": "tt0751220",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S6\\The_X-Files_S06E01_The_Beginning_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S6E1.zip"
+    },
+    "2": {
+        "title": "Drive",
+        "released": "1998-11-15",
+        "rating": "8.5",
+        "imdb_id": "tt0751106",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S6\\The_X-Files_S06E02_Drive_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S6E2.zip"
+    },
+    "3": {
+        "title": "Triangle",
+        "released": "1998-11-22",
+        "rating": "8.6",
+        "imdb_id": "tt0751249",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S6\\The_X-Files_S06E03_Triangle_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S6E3.zip"
+    },
+    "4": {
+        "title": "Dreamland",
+        "released": "1998-11-29",
+        "rating": "8.9",
+        "imdb_id": "tt0751104",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S6\\The_X-Files_S06E04_Dreamland_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S6E4.zip"
+    },
+    "5": {
+        "title": "Dreamland II",
+        "released": "1998-12-06",
+        "rating": "8.8",
+        "imdb_id": "tt0751105",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S6\\The_X-Files_S06E05_Dreamland_II_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S6E5.zip"
+    },
+    "6": {
+        "title": "How the Ghosts Stole Christmas",
+        "released": "1998-12-13",
+        "rating": "8.2",
+        "imdb_id": "tt0751138",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S6\\The_X-Files_S06E06_How_the_Ghosts_Stole_Christmas_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S6E6.zip"
+    },
+    "7": {
+        "title": "Terms of Endearment",
+        "released": "1999-01-03",
+        "rating": "7.7",
+        "imdb_id": "tt0751217",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S6\\The_X-Files_S06E07_Terms_of_Endearment_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S6E7.zip"
+    },
+    "8": {
+        "title": "The Rain King",
+        "released": "1999-01-10",
+        "rating": "7.3",
+        "imdb_id": "tt0751233",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S6\\The_X-Files_S06E08_The_Rain_King_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S6E8.zip"
+    },
+    "9": {
+        "title": "S.R. 819",
+        "released": "1999-01-17",
+        "rating": "7.8",
+        "imdb_id": "tt0751195",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S6\\The_X-Files_S06E09_S.R._819_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S6E9.zip"
+    },
+    "10": {
+        "title": "Tithonus",
+        "released": "1999-01-24",
+        "rating": "8.2",
+        "imdb_id": "tt0751245",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Two Fathers",
+        "released": "1999-02-07",
+        "rating": "8.6",
+        "imdb_id": "tt0751252",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "One Son",
+        "released": "1999-02-14",
+        "rating": "8.8",
+        "imdb_id": "tt0751170",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Agua Mala",
+        "released": "1999-02-21",
+        "rating": "7.3",
+        "imdb_id": "tt0751069",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Monday",
+        "released": "1999-02-28",
+        "rating": "8.8",
+        "imdb_id": "tt0751163",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Arcadia",
+        "released": "1999-03-07",
+        "rating": "8.4",
+        "imdb_id": "tt0751076",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Alpha",
+        "released": "1999-03-28",
+        "rating": "6.4",
+        "imdb_id": "tt0751073",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Trevor",
+        "released": "1999-04-11",
+        "rating": "7.2",
+        "imdb_id": "tt0751248",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Milagro",
+        "released": "1999-04-18",
+        "rating": "7.5",
+        "imdb_id": "tt0751159",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Unnatural",
+        "released": "1999-04-25",
+        "rating": "8.4",
+        "imdb_id": "tt0751239",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Three of a Kind",
+        "released": "1999-05-02",
+        "rating": "7.9",
+        "imdb_id": "tt0751244",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Field Trip",
+        "released": "1999-05-09",
+        "rating": "8.5",
+        "imdb_id": "tt0751122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Biogenesis",
+        "released": "1999-05-16",
+        "rating": "8.1",
+        "imdb_id": "tt0419384",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

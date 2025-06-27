@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The North Remembers",
+        "released": "2012-04-01",
+        "rating": "8.6",
+        "imdb_id": "tt1971833",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S2\\Game.of.Thrones.S02E01.HDTV.XviD-FQM.HIS2E1.zip"
+    },
+    "2": {
+        "title": "The Night Lands",
+        "released": "2012-04-08",
+        "rating": "8.3",
+        "imdb_id": "tt2069318",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S2\\Game.of.Thrones.S02E02.720p.WEBRIP.x264-P2PS2E2.zip"
+    },
+    "3": {
+        "title": "What Is Dead May Never Die",
+        "released": "2012-04-15",
+        "rating": "8.7",
+        "imdb_id": "tt2070135",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S2\\Game.of.Thrones.S02E03.HDTV.XviD-FQM.HIS2E3.zip"
+    },
+    "4": {
+        "title": "Garden of Bones",
+        "released": "2012-04-22",
+        "rating": "N/A",
+        "imdb_id": "tt2069319",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S2\\Game.of.Thrones.S02E04.REPACK.720p.HDTV.x264-AVSS2E4.zip"
+    },
+    "5": {
+        "title": "The Ghost of Harrenhal",
+        "released": "2012-04-29",
+        "rating": "8.6",
+        "imdb_id": "tt2074658",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S2\\Game.of.Thrones.S02E05.HDTV.XviD-FQMS2E5.zip"
+    },
+    "6": {
+        "title": "The Old Gods and the New",
+        "released": "2012-05-06",
+        "rating": "8.9",
+        "imdb_id": "tt2085238",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S2\\Game.of.Thrones.S02E06.REPACK.720p.HDTV.x264-2HD.HIS2E6.zip"
+    },
+    "7": {
+        "title": "A Man Without Honor",
+        "released": "2012-05-13",
+        "rating": "8.8",
+        "imdb_id": "tt2085239",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S2\\Game.of.Thrones.S02E07.HDTV.XviD-FQMS2E7.zip"
+    },
+    "8": {
+        "title": "The Prince of Winterfell",
+        "released": "2012-05-20",
+        "rating": "8.6",
+        "imdb_id": "tt2085240",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S2\\Game.of.Thrones.S02E08.HDTV.x264-ASAP.HIS2E8.zip"
+    },
+    "9": {
+        "title": "Blackwater",
+        "released": "2012-05-27",
+        "rating": "9.7",
+        "imdb_id": "tt2084342",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Game of Thrones\\Subtitles\\S2\\Game.of.Thrones.S02E09.HDTV.x264-ASAP.HIS2E9.zip"
+    },
+    "10": {
+        "title": "Valar Morghulis",
+        "released": "2012-06-03",
+        "rating": "9.3",
+        "imdb_id": "tt2112510",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

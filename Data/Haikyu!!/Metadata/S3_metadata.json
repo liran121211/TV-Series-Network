@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Greetings",
+        "released": "2016-10-08",
+        "rating": "8.5",
+        "imdb_id": "tt6218102",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Threat of 'Left'",
+        "released": "2016-10-15",
+        "rating": "N/A",
+        "imdb_id": "tt6218104",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Guess-Monster",
+        "released": "2016-10-22",
+        "rating": "9.1",
+        "imdb_id": "tt6218108",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Halo Around the Moon",
+        "released": "2016-10-29",
+        "rating": "9.7",
+        "imdb_id": "tt6218112",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Individual VS Numbers",
+        "released": "2016-11-05",
+        "rating": "N/A",
+        "imdb_id": "tt6218114",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Chemical Change of Encounters",
+        "released": "2016-11-12",
+        "rating": "9.1",
+        "imdb_id": "tt6297526",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Obsession",
+        "released": "2016-11-19",
+        "rating": "8.7",
+        "imdb_id": "tt6297624",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "An Annoying Guy",
+        "released": "2016-11-26",
+        "rating": "9.2",
+        "imdb_id": "tt6402798",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Volleyball Idiots",
+        "released": "2016-12-03",
+        "rating": "9.6",
+        "imdb_id": "tt6402800",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Battle of Concepts",
+        "released": "2016-12-10",
+        "rating": "9.7",
+        "imdb_id": "tt6402802",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

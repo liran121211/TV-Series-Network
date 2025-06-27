@@ -1,0 +1,34 @@
+{
+    "3": {
+        "title": "Ava",
+        "released": "2005-02-01",
+        "rating": "N/A",
+        "imdb_id": "tt1073997",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Natalie",
+        "released": "2005-02-15",
+        "rating": "N/A",
+        "imdb_id": "tt1286419",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Sierra",
+        "released": "2005-02-22",
+        "rating": "4.5",
+        "imdb_id": "tt0654969",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "42": {
+        "title": "Charlie",
+        "released": "2009-10-09",
+        "rating": "N/A",
+        "imdb_id": "tt2003684",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

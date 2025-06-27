@@ -1,0 +1,74 @@
+{
+    "0": {
+        "title": "Middle East Special",
+        "released": "2011-02-14",
+        "rating": "N/A",
+        "imdb_id": "tt1802727",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "1": {
+        "title": "Yeti Road Test",
+        "released": "2011-02-07",
+        "rating": "N/A",
+        "imdb_id": "tt1822119",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S16\\Top.Gear.S16E01.720p.HDTV.x264-FoVS16E1.zip"
+    },
+    "2": {
+        "title": "Top Gear Ashes - British Hosts Vs Top Gear Australia Hosts",
+        "released": "2011-02-14",
+        "rating": "N/A",
+        "imdb_id": "tt1830380",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S16\\Top.Gear.S16E02.720p.HDTV.x264-FoVS16E2.zip"
+    },
+    "3": {
+        "title": "Albania Road Trip",
+        "released": "2011-02-21",
+        "rating": "N/A",
+        "imdb_id": "tt1835806",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S16\\Top.Gear.S16E03.720p.HDTV.x264-BiAS16E3.zip"
+    },
+    "4": {
+        "title": "Second-Hand Four Seater Convertibles For £2,000",
+        "released": "2011-02-28",
+        "rating": "N/A",
+        "imdb_id": "tt1843033",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S16\\Top.Gear.S16E04.HDTV.XviD-FoVS16E4.zip"
+    },
+    "5": {
+        "title": "Convert A Combine Harvester Into A Snow Plough",
+        "released": "2011-03-07",
+        "rating": "N/A",
+        "imdb_id": "tt1844599",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S16\\Top.Gear.S16E05.720p.HDTV.x264-FoVS16E5.zip"
+    },
+    "6": {
+        "title": "Episode #16.6",
+        "released": "2011-03-14",
+        "rating": "N/A",
+        "imdb_id": "tt1851760",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Top Gear\\Subtitles\\S16\\Top.Gear.S16E06.REPACK.HDTV.XviD-BiAS16E6.zip"
+    },
+    "7": {
+        "title": "Episode #16.7",
+        "released": "2011-03-06",
+        "rating": "N/A",
+        "imdb_id": "tt1925377",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #16.8",
+        "released": "2011-03-13",
+        "rating": "N/A",
+        "imdb_id": "tt1925378",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

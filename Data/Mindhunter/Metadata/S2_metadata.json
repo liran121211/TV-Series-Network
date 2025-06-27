@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Episode #2.1",
+        "released": "2019-08-16",
+        "rating": "8.1",
+        "imdb_id": "tt6885982",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Episode #2.2",
+        "released": "2019-08-16",
+        "rating": "8.6",
+        "imdb_id": "tt7740610",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Episode #2.3",
+        "released": "2019-08-16",
+        "rating": "8.2",
+        "imdb_id": "tt7995808",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Episode #2.4",
+        "released": "2019-08-16",
+        "rating": "8.5",
+        "imdb_id": "tt7995810",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Episode #2.5",
+        "released": "2019-08-16",
+        "rating": "8.9",
+        "imdb_id": "tt7995814",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Episode #2.6",
+        "released": "2019-08-16",
+        "rating": "8.1",
+        "imdb_id": "tt7996258",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #2.7",
+        "released": "2019-08-16",
+        "rating": "8.1",
+        "imdb_id": "tt7996262",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #2.8",
+        "released": "2019-08-16",
+        "rating": "8.5",
+        "imdb_id": "tt7802830",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Episode #2.9",
+        "released": "2019-08-16",
+        "rating": "8.7",
+        "imdb_id": "tt10731012",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

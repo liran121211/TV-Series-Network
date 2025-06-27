@@ -1,0 +1,586 @@
+{
+    "1": {
+        "title": "Kto tu rzadzi?",
+        "released": "2023-01-02",
+        "rating": "N/A",
+        "imdb_id": "tt12719974",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Na rozstaju dróg",
+        "released": "2023-01-03",
+        "rating": "N/A",
+        "imdb_id": "tt12719976",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Czas na zmiany",
+        "released": "2023-01-04",
+        "rating": "N/A",
+        "imdb_id": "tt12719978",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Anna z Cylii",
+        "released": "2023-01-09",
+        "rating": "N/A",
+        "imdb_id": "tt12719982",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Robaczywe jablko",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt12719986",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Mój brat Kain",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt12719984",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Pierwsza noc",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt12719990",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Tajemnice malzenstwa",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt12719992",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Tajemniczy przybysz",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt12719994",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Zdrada i kara",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt17550736",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Korona królowej",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt17550740",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Porzadki i intrygi",
+        "released": "2022-12-26",
+        "rating": "N/A",
+        "imdb_id": "tt24132994",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Wspierac i dbac",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt17550744",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Episode #4.19",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt17550756",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Dyskretny urok mandragory",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt12720076",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Zapisane w gwiazdach",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt12720074",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Czas strzelistych metafor",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt12720078",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Silny jak nigdy dotad",
+        "released": "2023-02-22",
+        "rating": "N/A",
+        "imdb_id": "tt12720084",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "26": {
+        "title": "Ja wam jeszcze pokaze",
+        "released": "2023-02-28",
+        "rating": "N/A",
+        "imdb_id": "tt12720086",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "27": {
+        "title": "Nieudane intrygi",
+        "released": "2023-03-01",
+        "rating": "N/A",
+        "imdb_id": "tt12720088",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "28": {
+        "title": "Tesknilam za Toba",
+        "released": "2023-03-06",
+        "rating": "N/A",
+        "imdb_id": "tt12720092",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "29": {
+        "title": "Król tez bywa zazdrosny",
+        "released": "2023-03-07",
+        "rating": "N/A",
+        "imdb_id": "tt12720090",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "30": {
+        "title": "Na krawedzi",
+        "released": "2023-03-08",
+        "rating": "N/A",
+        "imdb_id": "tt12720094",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "33": {
+        "title": "Zaraza zabija",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt12720102",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "34": {
+        "title": "Pojednanie",
+        "released": "2023-03-20",
+        "rating": "N/A",
+        "imdb_id": "tt12720106",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "35": {
+        "title": "Zimna wojna",
+        "released": "2023-03-21",
+        "rating": "N/A",
+        "imdb_id": "tt12720108",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "37": {
+        "title": "Branka",
+        "released": "2023-03-28",
+        "rating": "N/A",
+        "imdb_id": "tt12720114",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "38": {
+        "title": "Episode #4.38",
+        "released": "2023-03-29",
+        "rating": "N/A",
+        "imdb_id": "tt12720112",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "41": {
+        "title": "Pojedynki",
+        "released": "2023-04-05",
+        "rating": "N/A",
+        "imdb_id": "tt12720120",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "43": {
+        "title": "Zmudz sie budzi",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25041554",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "44": {
+        "title": "Rycerz i wiedzma",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25041556",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "45": {
+        "title": "Goscie",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25041558",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "47": {
+        "title": "Katastrofa",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25041566",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "48": {
+        "title": "Próba wody, próba milosci",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25041570",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "49": {
+        "title": "Oskarzona",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25041578",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "51": {
+        "title": "Niewinna",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25041584",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "52": {
+        "title": "Co mówia gwiazy",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25041592",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "55": {
+        "title": "A jednak córka",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25041598",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "56": {
+        "title": "Imie dla królewny",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25041602",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "63": {
+        "title": "Episode #4.63",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25041938",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "66": {
+        "title": "Episode #4.66",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25041946",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "70": {
+        "title": "Episode #4.70",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25041954",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "71": {
+        "title": "Episode #4.71",
+        "released": "2023-09-11",
+        "rating": "N/A",
+        "imdb_id": "tt25041962",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "73": {
+        "title": "Episode #4.73",
+        "released": "2023-09-13",
+        "rating": "N/A",
+        "imdb_id": "tt25041966",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "75": {
+        "title": "Episode #4.75",
+        "released": "2023-07-09",
+        "rating": "N/A",
+        "imdb_id": "tt25041968",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "76": {
+        "title": "Episode #4.76",
+        "released": "2023-07-09",
+        "rating": "N/A",
+        "imdb_id": "tt25041970",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "77": {
+        "title": "Episode #4.77",
+        "released": "2023-07-16",
+        "rating": "N/A",
+        "imdb_id": "tt25041972",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "81": {
+        "title": "Episode #4.81",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25041980",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "82": {
+        "title": "Episode #4.82",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25041984",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "83": {
+        "title": "Episode #4.83",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25041990",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "88": {
+        "title": "Episode #4.88",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25041998",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "91": {
+        "title": "Episode #4.91",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042004",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "94": {
+        "title": "Episode #4.94",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042012",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "96": {
+        "title": "Episode #4.96",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042018",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "101": {
+        "title": "Episode #4.101",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042046",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "102": {
+        "title": "Episode #4.102",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042048",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "103": {
+        "title": "Episode #4.103",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "104": {
+        "title": "Episode #4.104",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042052",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "105": {
+        "title": "Episode #4.105",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042054",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "107": {
+        "title": "Episode #4.107",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042058",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "108": {
+        "title": "Episode #4.108",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042060",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "109": {
+        "title": "Episode #4.109",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042062",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "111": {
+        "title": "Episode #4.111",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042072",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "112": {
+        "title": "Episode #4.112",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042076",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "113": {
+        "title": "Episode #4.113",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042080",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "114": {
+        "title": "Episode #4.114",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042084",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "115": {
+        "title": "Episode #4.115",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042082",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "117": {
+        "title": "Episode #4.117",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042088",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "118": {
+        "title": "Episode #4.118",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042090",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "119": {
+        "title": "Episode #4.119",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042094",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "121": {
+        "title": "Episode #4.121",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042096",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "122": {
+        "title": "Episode #4.122",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042102",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "123": {
+        "title": "Episode #4.123",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt25042104",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

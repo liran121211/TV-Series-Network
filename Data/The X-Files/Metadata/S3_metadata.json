@@ -1,0 +1,194 @@
+{
+    "1": {
+        "title": "The Blessing Way",
+        "released": "1995-09-22",
+        "rating": "8.6",
+        "imdb_id": "tt0751221",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S3\\The_X-Files_S03E01_The_Blessing_Way_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S3E1.zip"
+    },
+    "2": {
+        "title": "Paper Clip",
+        "released": "1995-09-29",
+        "rating": "N/A",
+        "imdb_id": "tt0751174",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S3\\The_X-Files_S03E02_Paper_Clip_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S3E2.zip"
+    },
+    "3": {
+        "title": "D.P.O.",
+        "released": "1995-10-06",
+        "rating": "7.8",
+        "imdb_id": "tt0751095",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S3\\The_X-Files_S03E03_D.P.O._1080p_Blu-ray_AVC_DTS-HD_MA_5.1S3E3.zip"
+    },
+    "4": {
+        "title": "Clyde Bruckman's Final Repose",
+        "released": "1995-10-13",
+        "rating": "9.2",
+        "imdb_id": "tt0751092",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S3\\The_X-Files_S03E04_Clyde_Bruckman's_Final_Repose_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S3E4.zip"
+    },
+    "5": {
+        "title": "The List",
+        "released": "1995-10-20",
+        "rating": "7.1",
+        "imdb_id": "tt0751230",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S3\\The_X-Files_S03E05_The_List_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S3E5.zip"
+    },
+    "6": {
+        "title": "2Shy",
+        "released": "1995-11-03",
+        "rating": "7.4",
+        "imdb_id": "tt0751065",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S3\\The_X-Files_S03E06_2Shy_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S3E6.zip"
+    },
+    "7": {
+        "title": "The Walk",
+        "released": "1995-11-10",
+        "rating": "7.1",
+        "imdb_id": "tt0751240",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S3\\The_X-Files_S03E07_The_Walk_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S3E7.zip"
+    },
+    "8": {
+        "title": "Oubliette",
+        "released": "1995-11-17",
+        "rating": "7.6",
+        "imdb_id": "tt0751172",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S3\\The_X-Files_S03E08_Oubliette_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S3E8.zip"
+    },
+    "9": {
+        "title": "Nisei",
+        "released": "1995-11-24",
+        "rating": "8.5",
+        "imdb_id": "tt0751166",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The X-Files\\Subtitles\\S3\\The_X-Files_S03E09_Nisei_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S3E9.zip"
+    },
+    "10": {
+        "title": "731",
+        "released": "1995-12-01",
+        "rating": "8.7",
+        "imdb_id": "tt0751068",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Revelations",
+        "released": "1995-12-15",
+        "rating": "7.1",
+        "imdb_id": "tt0751191",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "War of the Coprophages",
+        "released": "1996-01-05",
+        "rating": "8.6",
+        "imdb_id": "tt0751259",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Syzygy",
+        "released": "1996-01-26",
+        "rating": "7.6",
+        "imdb_id": "tt0751212",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Grotesque",
+        "released": "1996-02-02",
+        "rating": "7.3",
+        "imdb_id": "tt0751132",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Piper Maru",
+        "released": "1996-02-09",
+        "rating": "8.4",
+        "imdb_id": "tt0751180",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Apocrypha",
+        "released": "1996-02-16",
+        "rating": "8.6",
+        "imdb_id": "tt0751075",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Pusher",
+        "released": "1996-02-23",
+        "rating": "8.4",
+        "imdb_id": "tt0751183",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Teso dos Bichos",
+        "released": "1996-03-08",
+        "rating": "5.9",
+        "imdb_id": "tt0751218",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Hell Money",
+        "released": "1996-03-29",
+        "rating": "7.0",
+        "imdb_id": "tt0751133",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Jose Chung's 'From Outer Space'",
+        "released": "1996-04-12",
+        "rating": "8.9",
+        "imdb_id": "tt0751147",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Avatar",
+        "released": "1996-04-26",
+        "rating": "7.6",
+        "imdb_id": "tt0751080",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Quagmire",
+        "released": "1996-05-03",
+        "rating": "8.0",
+        "imdb_id": "tt0751184",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Wetwired",
+        "released": "1996-05-10",
+        "rating": "8.3",
+        "imdb_id": "tt0751260",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "24": {
+        "title": "Talitha Cumi",
+        "released": "1996-05-17",
+        "rating": "8.5",
+        "imdb_id": "tt0751213",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

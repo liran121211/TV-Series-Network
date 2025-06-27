@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Communication Problems",
+        "released": "1979-02-19",
+        "rating": "9.2",
+        "imdb_id": "tt0578586",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Psychiatrist",
+        "released": "1979-02-26",
+        "rating": "9.1",
+        "imdb_id": "tt0578593",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Waldorf Salad",
+        "released": "1979-03-05",
+        "rating": "N/A",
+        "imdb_id": "tt0578595",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Kipper and the Corpse",
+        "released": "1979-03-12",
+        "rating": "9.0",
+        "imdb_id": "tt0578592",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Anniversary",
+        "released": "1979-03-26",
+        "rating": "N/A",
+        "imdb_id": "tt0578588",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Basil the Rat",
+        "released": "1979-10-25",
+        "rating": "N/A",
+        "imdb_id": "tt0578585",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

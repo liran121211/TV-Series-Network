@@ -1,0 +1,186 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2019-10-06",
+        "rating": "5.2",
+        "imdb_id": "tt8815944",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S1\\Batwoman.S01E01.HDTV.x264-PHOENiX[TGx]S1E1.zip"
+    },
+    "2": {
+        "title": "Episode #1.2",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt9208898",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S1\\Batwoman.S01E02.HDTV.x264-SVA.updatedS1E2.zip"
+    },
+    "3": {
+        "title": "Down Down Down",
+        "released": "2019-10-20",
+        "rating": "5.8",
+        "imdb_id": "tt10750080",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S1\\Batwoman.S01E03.HDTV.x264-SVAS1E3.zip"
+    },
+    "4": {
+        "title": "Episode #1.4",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt9208904",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S1\\Batwoman.S01E04.HDTV.x264-SVA.updatedS1E4.zip"
+    },
+    "5": {
+        "title": "Mine Is a Long and a Sad Tale",
+        "released": "2019-11-03",
+        "rating": "6.2",
+        "imdb_id": "tt10750088",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S1\\Batwoman.S01E05.HDTV.x264-KILLERS.updatedS1E5.zip"
+    },
+    "6": {
+        "title": "Episode #1.6",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt9208910",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S1\\Batwoman.S01E06.HDTV.x264-KILLERSS1E6.zip"
+    },
+    "7": {
+        "title": "Tell Me the Truth",
+        "released": "2019-11-17",
+        "rating": "5.8",
+        "imdb_id": "tt10990554",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S1\\Batwoman.S01E07.HDTV.x264-SVA.updatedS1E7.zip"
+    },
+    "8": {
+        "title": "Episode #1.8",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt9208916",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S1\\Batwoman.S01E08.WEBRip.x264-ION10S1E8.zip"
+    },
+    "9": {
+        "title": "Crisis on Infinite Earths: Part Two",
+        "released": "2019-12-09",
+        "rating": "7.8",
+        "imdb_id": "tt11199024",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S1\\Batwoman.S01E09.HDTV.x264-AVSS1E9.zip"
+    },
+    "10": {
+        "title": "Episode #1.10",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt9208922",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "An Un-Birthday Present",
+        "released": "2020-01-26",
+        "rating": "6.5",
+        "imdb_id": "tt11204020",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Episode #1.12",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt9208928",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Drink Me",
+        "released": "2020-02-23",
+        "rating": "N/A",
+        "imdb_id": "tt11204026",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Episode #1.14",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt9208934",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Off with Her Head",
+        "released": "2020-03-15",
+        "rating": "7.1",
+        "imdb_id": "tt11204032",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Episode #1.16",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt9208936",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "A Narrow Escape",
+        "released": "2020-04-26",
+        "rating": "6.4",
+        "imdb_id": "tt11204038",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Episode #1.18",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt9208940",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "A Secret Kept from All the Rest",
+        "released": "2020-05-10",
+        "rating": "6.4",
+        "imdb_id": "tt11204044",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Episode #1.20",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt9208950",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Episode #1.21",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt9208952",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Episode #1.22",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt9208954",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Episode #1.23",
+        "released": "N/A",
+        "rating": "N/A",
+        "imdb_id": "tt9208958",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Batwoman\\Subtitles\\S1\\SUBDL::batwoman-first-season-2822545.zip"
+    }
+}

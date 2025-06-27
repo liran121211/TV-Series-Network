@@ -1,0 +1,74 @@
+{
+    "1": {
+        "title": "Secession",
+        "released": "2021-10-17",
+        "rating": "N/A",
+        "imdb_id": "tt11099454",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S3\\Succession.S03E01.WEBRip.x264-ION10S3E1.zip"
+    },
+    "2": {
+        "title": "Mass in Time of War",
+        "released": "2021-10-24",
+        "rating": "8.6",
+        "imdb_id": "tt14074458",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S3\\Succession.S03E02.WEBRip.x264-ION10S3E2.zip"
+    },
+    "3": {
+        "title": "The Disruption",
+        "released": "2021-10-31",
+        "rating": "9.0",
+        "imdb_id": "tt14577732",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S3\\Succession.S03E03.WEBRip.x264-ION10S3E3.zip"
+    },
+    "4": {
+        "title": "Lion in the Meadow",
+        "released": "2021-11-07",
+        "rating": "8.2",
+        "imdb_id": "tt14577736",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S3\\Succession.S03E04.WEBRip.x264-ION10S3E4.zip"
+    },
+    "5": {
+        "title": "Retired Janitors of Idaho",
+        "released": "2021-11-14",
+        "rating": "9.0",
+        "imdb_id": "tt14163702",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S3\\Succession.S03E05.WEBRip.x264-ION10S3E5.zip"
+    },
+    "6": {
+        "title": "What It Takes",
+        "released": "2021-11-21",
+        "rating": "8.1",
+        "imdb_id": "tt14577734",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S3\\Succession.S03E06.What.It.Takes.720p.HMAX.WEB-DL.DD5.1.x264-NTbS3E6.zip"
+    },
+    "7": {
+        "title": "Too Much Birthday",
+        "released": "2021-11-28",
+        "rating": "8.8",
+        "imdb_id": "tt14497926",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S3\\Succession.S03E07.WEBRip.x264-ION10S3E7.zip"
+    },
+    "8": {
+        "title": "Chiantishire",
+        "released": "2021-12-05",
+        "rating": "9.1",
+        "imdb_id": "tt15423194",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Succession\\Subtitles\\S3\\Succession.S03E08.WEBRip.x264-ION10S3E8.zip"
+    },
+    "9": {
+        "title": "All the Bells Say",
+        "released": "2021-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt15423196",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

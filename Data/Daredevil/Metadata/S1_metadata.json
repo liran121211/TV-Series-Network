@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Into the Ring",
+        "released": "2015-04-10",
+        "rating": "8.4",
+        "imdb_id": "tt3330796",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S1\\Marvels.Daredevil.S01E01.WEBRip.x264-2HDS1E1.zip"
+    },
+    "2": {
+        "title": "Cut Man",
+        "released": "2015-04-10",
+        "rating": "8.9",
+        "imdb_id": "tt3915096",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S1\\Marvels.Daredevil.S01E02.WEBRip.x264-2HDS1E2.zip"
+    },
+    "3": {
+        "title": "Rabbit in a Snowstorm",
+        "released": "2015-04-10",
+        "rating": "8.3",
+        "imdb_id": "tt4000782",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S1\\Marvels.Daredevil.S01E03.WEBRip.x264-2HDS1E3.zip"
+    },
+    "4": {
+        "title": "In the Blood",
+        "released": "2015-04-10",
+        "rating": "8.6",
+        "imdb_id": "tt4061068",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S1\\Marvels.Daredevil.S01E04.WEBRip.x264-2HDS1E4.zip"
+    },
+    "5": {
+        "title": "World on Fire",
+        "released": "2015-04-10",
+        "rating": "8.7",
+        "imdb_id": "tt4061074",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S1\\Marvels.Daredevil.S01E05.WEBRip.x264-2HDS1E5.zip"
+    },
+    "6": {
+        "title": "Condemned",
+        "released": "2015-04-10",
+        "rating": "8.9",
+        "imdb_id": "tt4065594",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S1\\Marvels.Daredevil.S01E06.WEBRip.x264-2HDS1E6.zip"
+    },
+    "7": {
+        "title": "Stick",
+        "released": "2015-04-10",
+        "rating": "8.5",
+        "imdb_id": "tt4125416",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S1\\Marvels.Daredevil.S01E07.WEBRiP.x264-QCFS1E7.zip"
+    },
+    "8": {
+        "title": "Shadows in the Glass",
+        "released": "2015-04-10",
+        "rating": "8.9",
+        "imdb_id": "tt4125418",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S1\\Marvels.Daredevil.S01E08.WEBRiP.x264-QCFS1E8.zip"
+    },
+    "9": {
+        "title": "Speak of the Devil",
+        "released": "2015-04-10",
+        "rating": "9.1",
+        "imdb_id": "tt4125420",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Daredevil\\Subtitles\\S1\\Marvels.Daredevil.S01E09.WEBRiP.x264-QCFS1E9.zip"
+    },
+    "10": {
+        "title": "Nelson v. Murdock",
+        "released": "2015-04-10",
+        "rating": "8.4",
+        "imdb_id": "tt4125422",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Path of the Righteous",
+        "released": "2015-04-10",
+        "rating": "8.7",
+        "imdb_id": "tt4125426",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Ones We Leave Behind",
+        "released": "2015-04-10",
+        "rating": "8.6",
+        "imdb_id": "tt4125424",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Daredevil",
+        "released": "2015-04-10",
+        "rating": "9.3",
+        "imdb_id": "tt4125428",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

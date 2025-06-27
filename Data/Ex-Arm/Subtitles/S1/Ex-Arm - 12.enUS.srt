@@ -1,0 +1,366 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: YTV  [http://www.crunchyroll.com/user/YTV]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Main Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,0
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Next time,Arial,22,&H00FFFADB,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,2,1,7,0030,0499,0054,1
+Style: Episode Title Start,Arial,22,&H00FFFADB,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,2,1,1,0335,0134,0051,1
+Style: Flashback Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Episode Title,Arial,22,&H00FFFFFF,&H000000FF,&H0094212A,&H005B5D5F,-1,0,0,0,100,100,0,0,1,0,0,3,0379,0038,0073,1
+Style: Eyecatch,Arial,16,&H00FFFFFF,&H000000FF,&H00909090,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0377,0032,0044,1
+Style: Next Episode Title,Arial,20,&H00FFFFFF,&H000000FF,&H006C6A6A,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,3,0050,0020,0055,1
+Style: sign_15417_164_Illustration_by_,Arial,16,&H00FFFFFF,&H000000FF,&H00909090,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0039,0370,0040,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.98,Episode Title,Ep Title,0000,0000,0000,,A Giant Leap
+Dialogue: 0,0:00:13.46,0:00:14.99,Main,Min,0000,0000,0000,,Akira!
+Dialogue: 0,0:00:16.16,0:00:17.27,Main,A,0000,0000,0000,,You guys.
+Dialogue: 0,0:00:18.08,0:00:20.01,Main,Ygg,0000,0000,0000,,My dear!
+Dialogue: 0,0:00:21.03,0:00:23.22,Main,A,0000,0000,0000,,I'm so glad you're all okay.
+Dialogue: 0,0:00:23.58,0:00:26.01,Main,A,0000,0000,0000,,Alma, what happened with Soma?
+Dialogue: 0,0:00:28.29,0:00:30.21,Main,Al,0000,0000,0000,,I... killed him.
+Dialogue: 0,0:00:32.96,0:00:37.09,Main,A,0000,0000,0000,,Sorry, Alma. \NI put you in a really difficult situation.
+Dialogue: 0,0:00:37.48,0:00:40.22,Main,Al,0000,0000,0000,,No, the one taking it the hardest is...
+Dialogue: 0,0:00:42.10,0:00:43.85,Main,A,0000,0000,0000,,Forgive me, Minami.
+Dialogue: 0,0:00:43.85,0:00:44.81,Main,Min,0000,0000,0000,,It's okay.
+Dialogue: 0,0:00:45.40,0:00:48.78,Main,Min,0000,0000,0000,,I know you both did everything you could.
+Dialogue: 0,0:00:49.89,0:00:50.80,Main,Min,0000,0000,0000,,Thank you.
+Dialogue: 0,0:00:51.28,0:00:55.06,Main,Min,0000,0000,0000,,But... I wish I could've helped him!
+Dialogue: 0,0:00:56.02,0:01:00.74,Main,Min,0000,0000,0000,,I had no idea he was suffering so much!
+Dialogue: 0,0:01:02.13,0:01:04.18,Main,Min,0000,0000,0000,,Sorry, Soma...
+Dialogue: 0,0:01:04.72,0:01:06.20,Main,Min,0000,0000,0000,,I'm so sorry!
+Dialogue: 0,0:01:06.90,0:01:10.70,Main,Min,0000,0000,0000,,I'm sorry... So sorry!
+Dialogue: 0,0:01:13.49,0:01:14.55,Main,A,0000,0000,0000,,Minami.
+Dialogue: 0,0:01:16.21,0:01:19.72,Main,Kon,0000,0000,0000,,Yo, looks like the geezer managed to survive.
+Dialogue: 0,0:01:19.72,0:01:21.31,Main,A,0000,0000,0000,,Kondo.
+Dialogue: 0,0:01:21.31,0:01:24.83,Main,Kon,0000,0000,0000,,What was that Beta thing, though?
+Dialogue: 0,0:01:24.83,0:01:27.02,Main,Kon,0000,0000,0000,,Did Auctioneer know anything?
+Dialogue: 0,0:01:27.02,0:01:28.49,Main,A,0000,0000,0000,,Well...
+Dialogue: 0,0:01:30.02,0:01:33.26,Flashback,A,0000,0000,0000,,{\fad(612,1)}Hang on. Tell me one last thing before I go.
+Dialogue: 0,0:01:33.26,0:01:35.80,Flashback,A,0000,0000,0000,,What exactly is Beta?
+Dialogue: 0,0:01:36.45,0:01:39.08,Flashback,A,0000,0000,0000,,How did I end up becoming Number 00?
+Dialogue: 0,0:01:40.82,0:01:45.25,Flashback,Auc,0000,0000,0000,,The only person likely to have\Nthose answers is Doctor Iriya.
+Dialogue: 0,0:01:47.16,0:01:50.31,Flashback,A,0000,0000,0000,,But isn't he long dead?
+Dialogue: 0,0:01:51.71,0:01:55.71,Flashback,Auc,0000,0000,0000,,No. He's still alive, \Njust in a different form.
+Dialogue: 0,0:01:55.71,0:01:58.90,Flashback,Auc,0000,0000,0000,,I was working in collaboration with him.
+Dialogue: 0,0:01:59.80,0:02:02.11,Flashback,Auc,0000,0000,0000,,We're out of time.
+Dialogue: 0,0:02:02.11,0:02:08.31,Flashback,Auc,0000,0000,0000,,{\fad(1,600)}Just know that Doctor Iriya will show himself \Nbefore you sooner rather than later.
+Dialogue: 0,0:02:09.40,0:02:12.40,Main,Ari,0000,0000,0000,,Doctor Iriya... is alive?
+Dialogue: 0,0:02:13.00,0:02:14.96,Main,Ygg,0000,0000,0000,,No way.
+Dialogue: 0,0:02:14.96,0:02:16.36,Main,Al,0000,0000,0000,,He can't be.
+Dialogue: 0,0:02:17.52,0:02:19.43,Main,Kao,0000,0000,0000,,Is that true?
+Dialogue: 0,0:02:20.98,0:02:22.22,Main,Ygg,0000,0000,0000,,Mama Kaori!
+Dialogue: 0,0:02:22.22,0:02:23.32,Main,Al,0000,0000,0000,,CEO.
+Dialogue: 0,0:02:25.08,0:02:27.05,Main,A,0000,0000,0000,,Wait, so you are...
+Dialogue: 0,0:02:27.05,0:02:31.42,Main,Kao,0000,0000,0000,,Yes. Munakata Kaori, \NCEO of Iriya Heavy Industries.
+Dialogue: 0,0:02:31.77,0:02:34.86,Main,A,0000,0000,0000,,Do you know everything, then?
+Dialogue: 0,0:02:35.67,0:02:39.62,Main,Kao,0000,0000,0000,,No, only Doctor Iriya does.
+Dialogue: 0,0:02:42.55,0:02:43.44,Main,A,0000,0000,0000,,What the...?
+Dialogue: 0,0:02:43.44,0:02:44.60,Main,Al,0000,0000,0000,,An explosion?
+Dialogue: 0,0:02:44.60,0:02:47.06,Main,Kon,0000,0000,0000,,It's coming from Kasumigaseki!
+Dialogue: 0,0:02:50.92,0:02:52.81,Main,A,0000,0000,0000,,Fighter jets?
+Dialogue: 0,0:02:52.81,0:02:55.73,Main,Ygg,0000,0000,0000,,They're turning around and coming this way!
+Dialogue: 0,0:02:56.09,0:02:58.11,Main,Al,0000,0000,0000,,They're aiming for this building, Akira!
+Dialogue: 0,0:02:58.11,0:02:59.53,Main,A,0000,0000,0000,,Get down, you guys!
+Dialogue: 0,0:03:10.54,0:03:12.02,Main,A,0000,0000,0000,,You all okay?!
+Dialogue: 0,0:03:13.96,0:03:15.54,Italics,Chi,0000,0000,0000,,Do you hear me, Akira?!
+Dialogue: 0,0:03:15.54,0:03:16.84,Main,A,0000,0000,0000,,Chikage?
+Dialogue: 0,0:03:17.18,0:03:18.52,Main,Chi,0000,0000,0000,,I'm glad you're all right.
+Dialogue: 0,0:03:18.52,0:03:20.62,Italics,A,0000,0000,0000,,What is going on?
+Dialogue: 0,0:03:20.62,0:03:24.64,Main,Chi,0000,0000,0000,,We don't have much of a clue either, \Nbut it seems we've been hacked.
+Dialogue: 0,0:03:24.97,0:03:28.02,Main,Min,0000,0000,0000,,They're attacking Japan's political centers!
+Dialogue: 0,0:03:29.56,0:03:32.81,Italics,Chi,0000,0000,0000,,I'm afraid I have even more bad news.
+Dialogue: 0,0:03:35.36,0:03:40.43,Main,Chi,0000,0000,0000,,Bombers had been deployed, \Nin case we couldn't put Beta down,
+Dialogue: 0,0:03:40.43,0:03:43.21,Main,Chi,0000,0000,0000,,and Chief Shiga, \Nwho was in one of them, has died.
+Dialogue: 0,0:03:50.26,0:03:53.04,Main,Min,0000,0000,0000,,What? Even the chief?
+Dialogue: 0,0:04:08.73,0:04:12.12,Main,Kao,0000,0000,0000,,Disaster Response! \NMunakata here, give me a sitrep.
+Dialogue: 0,0:04:12.12,0:04:14.96,Italics,G,0000,0000,0000,,The whole building might go down! \NEvacuate at once!
+Dialogue: 0,0:04:14.96,0:04:16.88,Main,Ygg,0000,0000,0000,,The emergency staircase seems fine!
+Dialogue: 0,0:04:16.88,0:04:17.77,Main,A,0000,0000,0000,,Got it!
+Dialogue: 0,0:04:27.57,0:04:29.80,Main,A,0000,0000,0000,,What the hell is all this?
+Dialogue: 0,0:04:29.80,0:04:31.34,Main,Kon,0000,0000,0000,,It's a scene out of hell.
+Dialogue: 0,0:04:31.34,0:04:36.31,Main,Kao,0000,0000,0000,,This is a terrorist attack \Ninvolving large-scale hacking.
+Dialogue: 0,0:04:36.31,0:04:38.96,Main,Min,0000,0000,0000,,Wait. We took out Beta, didn't we?
+Dialogue: 0,0:04:38.96,0:04:41.42,Main,A,0000,0000,0000,,That much is for sure.
+Dialogue: 0,0:04:41.42,0:04:45.74,Main,A,0000,0000,0000,,Number 11's black hole sucked in \Nhis brain for sure.
+Dialogue: 0,0:04:45.74,0:04:48.96,Main,Kim,0000,0000,0000,,So what, we're dealing with\NGamma now? Or Delta?
+Dialogue: 0,0:04:48.96,0:04:50.86,Main,Kim,0000,0000,0000,,This is absurd!
+Dialogue: 0,0:04:50.86,0:04:53.79,Main,A,0000,0000,0000,,Anyway, I'll go online \Nand look for the perp.
+Dialogue: 0,0:04:53.79,0:04:54.76,Main,Min,0000,0000,0000,,Akira?
+Dialogue: 0,0:04:55.24,0:04:57.73,Main,A,0000,0000,0000,,What? Why do I feel so sluggish?
+Dialogue: 0,0:04:57.73,0:05:00.25,Main,Kao,0000,0000,0000,,You're at your limit.
+Dialogue: 0,0:05:00.25,0:05:03.57,Main,Kao,0000,0000,0000,,If you strain yourself\Nany further, you'll die.
+Dialogue: 0,0:05:03.57,0:05:04.94,Main,Min,0000,0000,0000,,No!
+Dialogue: 0,0:05:04.94,0:05:07.93,Main,A,0000,0000,0000,,I don't care. Let me go.
+Dialogue: 0,0:05:14.64,0:05:17.32,Main,A,0000,0000,0000,,I can't afford to stop now.
+Dialogue: 0,0:05:17.89,0:05:21.82,Main,A,0000,0000,0000,,Actually, it's not about \Nwhat I can or can't do.
+Dialogue: 0,0:05:22.42,0:05:24.18,Main,A,0000,0000,0000,,I want to keep going!
+Dialogue: 0,0:05:27.41,0:05:28.80,Main,Min,0000,0000,0000,,Akira...
+Dialogue: 0,0:05:29.18,0:05:33.86,Main,A,0000,0000,0000,,Minami, remember what you said \Nback when we first met?
+Dialogue: 0,0:05:35.89,0:05:40.11,Flashback,Min,0000,0000,0000,,The strong must use their powers \Nto protect the weak!
+Dialogue: 0,0:05:42.31,0:05:48.99,Main,A,0000,0000,0000,,With Ogre and the EX-ARMs, I'm a monster. \NThe strongest in the world.
+Dialogue: 0,0:05:49.96,0:05:55.98,Main,A,0000,0000,0000,,So I'm going to fight for the weak, \Njust as you taught me to.
+Dialogue: 0,0:05:57.11,0:05:58.31,Main,Min,0000,0000,0000,,Akira!
+Dialogue: 0,0:06:00.95,0:06:03.88,Main,Min,0000,0000,0000,,Protect the world, please.
+Dialogue: 0,0:06:07.70,0:06:08.97,Main,A,0000,0000,0000,,You got it!
+Dialogue: 0,0:06:11.73,0:06:13.39,Italics,Min,0000,0000,0000,,Heading to the building's basement!
+Dialogue: 0,0:06:13.39,0:06:14.39,Main,Chi,0000,0000,0000,,Copy that!
+Dialogue: 0,0:06:16.40,0:06:18.46,Main,Ari,0000,0000,0000,,Doctor Iriya is alive?
+Dialogue: 0,0:06:19.75,0:06:22.12,Main,Ari,0000,0000,0000,,Doctor Iriya is alive.
+Dialogue: 0,0:06:23.99,0:06:25.85,Main,Ari,0000,0000,0000,,Doctor Iriya is...
+Dialogue: 0,0:06:29.96,0:06:36.66,Main,Ari,0000,0000,0000,,Now, I suppose I'll take a front-row seat \Nand see how my experiment plays out.
+Dialogue: 0,0:06:38.42,0:06:40.66,Main,Chi,0000,0000,0000,,Where are you going, Doctor?
+Dialogue: 0,0:06:43.65,0:06:46.42,Main,Kao,0000,0000,0000,,This is it. The basement.
+Dialogue: 0,0:06:47.86,0:06:49.24,Main,Kao,0000,0000,0000,,Are you ready?
+Dialogue: 0,0:06:50.13,0:06:53.82,Main,Ygg,0000,0000,0000,,My dear, I will support you with all I have.
+Dialogue: 0,0:06:53.82,0:06:55.63,Main,Al,0000,0000,0000,,I'll be with you, too.
+Dialogue: 0,0:06:55.63,0:06:56.60,Main,A,0000,0000,0000,,Thanks.
+Dialogue: 0,0:06:57.03,0:06:59.16,Main,Kim,0000,0000,0000,,Look at this kid, acting all cool.
+Dialogue: 0,0:06:59.16,0:07:01.76,Main,Kon,0000,0000,0000,,You better come back to us, Akira.
+Dialogue: 0,0:07:01.76,0:07:02.69,Main,A,0000,0000,0000,,Gotcha!
+Dialogue: 0,0:07:05.49,0:07:08.57,Main,Min,0000,0000,0000,,Be careful, Alma. And take care of Akira.
+Dialogue: 0,0:07:08.57,0:07:10.70,Main,Al,0000,0000,0000,,Okay, Minami.
+Dialogue: 0,0:07:22.04,0:07:25.46,Main,Ygg,0000,0000,0000,,Unlocking all my dear's networking capabilities.
+Dialogue: 0,0:07:27.67,0:07:32.84,Main,Ygg,0000,0000,0000,,All of Tokyo, save for Iriya HQ, \Nis being taken over by the enemy.
+Dialogue: 0,0:07:32.84,0:07:35.72,Main,Ygg,0000,0000,0000,,All the infrastructure and public transport \Nis out of control, too.
+Dialogue: 0,0:07:35.72,0:07:38.46,Main,Min,0000,0000,0000,,Leave the real world to us.
+Dialogue: 0,0:07:38.46,0:07:41.01,Main,Min,0000,0000,0000,,We'll keep things safe, no matter what.
+Dialogue: 0,0:07:41.01,0:07:42.43,Main,A,0000,0000,0000,,Counting on ya.
+Dialogue: 0,0:07:42.43,0:07:43.73,Main,A,0000,0000,0000,,Let's go, Ygg.
+Dialogue: 0,0:07:43.73,0:07:46.42,Main,Ygg,0000,0000,0000,,Okay! Initializing connection!
+Dialogue: 0,0:07:51.92,0:07:53.28,Main,A,0000,0000,0000,,What is that?
+Dialogue: 0,0:07:53.28,0:07:55.28,Main,Ygg,0000,0000,0000,,An enemy attack program.
+Dialogue: 0,0:08:00.44,0:08:04.00,Main,Ygg,0000,0000,0000,,I'll layer real-time footage \Nfrom the outside to our vision.
+Dialogue: 0,0:08:12.13,0:08:16.44,Main,A,0000,0000,0000,,Is this the state of Tokyo's network right now?
+Dialogue: 0,0:08:18.31,0:08:20.97,Main,A,0000,0000,0000,,Hey, that car's being attacked by some monster!
+Dialogue: 0,0:08:21.40,0:08:23.31,Main,Ygg,0000,0000,0000,,That's the visualization of the attack command.
+Dialogue: 0,0:08:23.31,0:08:24.73,Main,Al,0000,0000,0000,,I'll go.
+Dialogue: 0,0:08:28.93,0:08:30.44,Main,A,0000,0000,0000,,I see now.
+Dialogue: 0,0:08:30.44,0:08:34.35,Main,A,0000,0000,0000,,If we take them out, \Nwe can stop all the chaos happening out there.
+Dialogue: 0,0:08:34.35,0:08:37.31,Main,Al,0000,0000,0000,,There's too many of them, though.
+Dialogue: 0,0:08:37.31,0:08:38.83,Main,Ygg,0000,0000,0000,,That storm...
+Dialogue: 0,0:08:38.83,0:08:40.99,Main,Ygg,0000,0000,0000,,That's where the hack's originating from.
+Dialogue: 0,0:08:40.99,0:08:42.08,Main,Ygg,0000,0000,0000,,We need to take it out.
+Dialogue: 0,0:08:42.08,0:08:43.92,Main,A,0000,0000,0000,,Okay, I'll handle that.
+Dialogue: 0,0:08:43.92,0:08:46.63,Main,A,0000,0000,0000,,You two focus on saving \Nas many people as you can.
+Dialogue: 0,0:08:46.63,0:08:48.00,Main,Al,0000,0000,0000,,Akira?
+Dialogue: 0,0:08:48.38,0:08:50.26,Main,Ygg,0000,0000,0000,,Take her with you.
+Dialogue: 0,0:08:50.26,0:08:52.01,Main,A,0000,0000,0000,,Okay. Take care of things.
+Dialogue: 0,0:08:53.60,0:08:56.66,Main,Ygg,0000,0000,0000,,Alma, we'll clean all this up \Nwith parallel processing.
+Dialogue: 0,0:08:56.66,0:08:57.39,Main,Al,0000,0000,0000,,Okay.
+Dialogue: 0,0:09:04.73,0:09:06.28,Main,Ygg,0000,0000,0000,,No...
+Dialogue: 0,0:09:06.28,0:09:10.19,Main,Ygg,0000,0000,0000,,This is Ichigaya. Has the Japanese military's \Nmain server been taken over?
+Dialogue: 0,0:09:13.19,0:09:15.34,Main,A,0000,0000,0000,,Ygg, what are those?
+Dialogue: 0,0:09:15.34,0:09:17.20,Main,Ygg,0000,0000,0000,,Beta... or not.
+Dialogue: 0,0:09:17.63,0:09:20.68,Main,Ygg,0000,0000,0000,,Their algorithms are similar \Nto Beta's thought process,
+Dialogue: 0,0:09:20.68,0:09:23.29,Main,Ygg,0000,0000,0000,,but there are various other things mixed in.
+Dialogue: 0,0:09:24.04,0:09:27.85,Main,Kao,0000,0000,0000,,It seems Akira made it to the main server.
+Dialogue: 0,0:09:27.85,0:09:30.16,Main,G,0000,0000,0000,,Boss! The building's not gonna hold!
+Dialogue: 0,0:09:30.16,0:09:31.87,Main,Kao,0000,0000,0000,,Have all the staff evacuated?
+Dialogue: 0,0:09:31.87,0:09:33.84,Main,G,0000,0000,0000,,No, more than half are still in here.
+Dialogue: 0,0:09:33.84,0:09:34.72,Main,Kao,0000,0000,0000,,What?
+Dialogue: 0,0:09:34.72,0:09:38.11,Main,Kon,0000,0000,0000,,Guess we have a job to do.
+Dialogue: 0,0:09:38.11,0:09:39.61,Main,Min,0000,0000,0000,,We'll go lead the evac.
+Dialogue: 0,0:09:39.61,0:09:42.78,Main,Kim,0000,0000,0000,,Can't let Akira steal all the spotlight.
+Dialogue: 0,0:09:43.96,0:09:45.14,Main,Kao,0000,0000,0000,,I'd appreciate that.
+Dialogue: 0,0:09:45.84,0:09:48.57,Italics,G,0000,0000,0000,,Nothing's working! We're gonna crash!
+Dialogue: 0,0:09:52.28,0:09:54.90,Italics,G,0000,0000,0000,,Controls back online! Correcting elevation!
+Dialogue: 0,0:09:56.24,0:10:00.91,Main,Al,0000,0000,0000,,We'll keep casualties to a minimum. \NHurry up, Akira.
+Dialogue: 0,0:10:02.15,0:10:05.44,Main,Min,0000,0000,0000,,And we'll keep things safe here as promised.
+Dialogue: 0,0:10:05.44,0:10:08.54,Main,Min,0000,0000,0000,,So don't give up, Akira.
+Dialogue: 0,0:10:10.96,0:10:14.13,Main,Min,0000,0000,0000,,Alisa? Weren't you in HQ?
+Dialogue: 0,0:10:18.82,0:10:21.85,Main,Min,0000,0000,0000,,Wait, no. You are...?
+Dialogue: 0,0:10:22.40,0:10:24.83,Main,Ari,0000,0000,0000,,Did you enjoy my Oscar-worthy performance?
+Dialogue: 0,0:10:24.83,0:10:27.98,Main,Ari,0000,0000,0000,,I even modified my own memories \Nto get into the act.
+Dialogue: 0,0:10:28.96,0:10:30.79,Main,Min,0000,0000,0000,,Who exactly are you?
+Dialogue: 0,0:10:31.48,0:10:35.91,Main,Ari,0000,0000,0000,,Isn't identifying the enemy \Na more pressing matter?
+Dialogue: 0,0:10:36.39,0:10:41.11,Main,Ari,0000,0000,0000,,I can tell you what it is Natsume\NAkira is fighting.
+Dialogue: 0,0:10:42.99,0:10:44.99,sign_15417_164_Illustration_by_,Eyecatch,0000,0000,0000,,Illustration by Komi Shinya
+Dialogue: 0,0:10:49.04,0:10:50.86,Main,A,0000,0000,0000,,Ugh! There's no end to them!
+Dialogue: 0,0:10:50.86,0:10:55.79,Main,Ygg,0000,0000,0000,,The enemy's launching attacks \Non networks worldwide
+Dialogue: 0,0:10:55.79,0:10:58.09,Main,Ygg,0000,0000,0000,,and adding them to its arsenal as we speak.
+Dialogue: 0,0:10:58.09,0:10:59.05,Main,A,0000,0000,0000,,What?
+Dialogue: 0,0:10:59.55,0:11:03.29,Main,Ygg,0000,0000,0000,,Those monsters are virtual manifestations \Nof corrupted servers.
+Dialogue: 0,0:11:03.29,0:11:07.88,Main,Ygg,0000,0000,0000,,As they expand, their processing power will grow \Nand make them more powerful.
+Dialogue: 0,0:11:07.88,0:11:13.06,Main,A,0000,0000,0000,,Then we just gotta beat them down \Nand bring them back, right?
+Dialogue: 0,0:11:13.64,0:11:16.70,Main,Ari,0000,0000,0000,,The thing Natsume Akira's fighting is...
+Dialogue: 0,0:11:17.15,0:11:19.46,Main,Min,0000,0000,0000,,Wait, it's not still Beta, is it?
+Dialogue: 0,0:11:20.28,0:11:24.32,Main,Ari,0000,0000,0000,,Beta itself vanished \Ninto Number 11's black hole.
+Dialogue: 0,0:11:24.78,0:11:28.87,Main,Ari,0000,0000,0000,,But there remained several AIs \Nthat had been corrupted by it.
+Dialogue: 0,0:11:28.87,0:11:31.69,Main,Min,0000,0000,0000,,You don't mean \Nthe Amaterasu multibots' AI, do you?
+Dialogue: 0,0:11:32.34,0:11:34.14,Main,Ari,0000,0000,0000,,Bingo.
+Dialogue: 0,0:11:34.14,0:11:40.71,Main,Ari,0000,0000,0000,,The corrupted AIs were analyzed \Nby the JDF's tactical computers in Ichigaya.
+Dialogue: 0,0:11:41.20,0:11:46.51,Main,Ari,0000,0000,0000,,But when the analytical AI came in contact \Nwith Beta's malice and destructive urges,
+Dialogue: 0,0:11:46.51,0:11:49.74,Main,Ari,0000,0000,0000,,they unlocked all the limiters placed on it.
+Dialogue: 0,0:11:49.74,0:11:53.99,Main,Ari,0000,0000,0000,,It became a tactical AI \Nwith a will of its own.
+Dialogue: 0,0:11:54.69,0:11:59.67,Main,Ari,0000,0000,0000,,That's the root cause of all this chaos.
+Dialogue: 0,0:12:00.74,0:12:06.60,Main,Ari,0000,0000,0000,,It's already infiltrating global networks, \Nnot just Japan's.
+Dialogue: 0,0:12:07.04,0:12:08.22,Main,Min,0000,0000,0000,,Akira!
+Dialogue: 0,0:12:08.95,0:12:11.37,Main,Ygg,0000,0000,0000,,Bad news, my dear!
+Dialogue: 0,0:12:11.77,0:12:15.88,Main,Al,0000,0000,0000,,ICBMs were just launched from military bases \Nunder the enemy's control.
+Dialogue: 0,0:12:15.88,0:12:18.50,Main,A,0000,0000,0000,,Where are the missiles headed?
+Dialogue: 0,0:12:18.50,0:12:21.10,Main,Ygg,0000,0000,0000,,Their targets... are the entire planet.
+Dialogue: 0,0:12:21.10,0:12:22.55,Main,A,0000,0000,0000,,What?!
+Dialogue: 0,0:12:22.55,0:12:25.64,Main,Al,0000,0000,0000,,The first one will hit its target \Nin eleven minutes.
+Dialogue: 0,0:12:25.64,0:12:28.27,Main,A,0000,0000,0000,,Got it. I'll get rid of those missiles.
+Dialogue: 0,0:12:28.27,0:12:29.51,Main,A,0000,0000,0000,,Help me out here.
+Dialogue: 0,0:12:30.03,0:12:30.94,Main,Bo,0000,0000,0000,,Sure!
+Dialogue: 0,0:12:32.40,0:12:33.38,Main,A,0000,0000,0000,,Let's go!
+Dialogue: 0,0:12:37.02,0:12:40.70,Main,Ygg,0000,0000,0000,,This is the peak altitude \Nof the ICBMs' trajectories.
+Dialogue: 0,0:12:40.70,0:12:42.22,Main,Al,0000,0000,0000,,Look over there, Akira.
+Dialogue: 0,0:12:42.22,0:12:43.74,Main,A,0000,0000,0000,,There they are.
+Dialogue: 0,0:12:43.74,0:12:45.36,Main,A,0000,0000,0000,,What can we use?
+Dialogue: 0,0:12:51.62,0:12:53.66,Main,A,0000,0000,0000,,Found something!
+Dialogue: 0,0:12:53.66,0:12:56.12,Main,Ygg,0000,0000,0000,,The Japanese military's laser satellite?
+Dialogue: 0,0:12:56.12,0:12:57.62,Main,A,0000,0000,0000,,I'm using it!
+Dialogue: 0,0:12:59.17,0:13:01.13,Main,Al,0000,0000,0000,,Missiles getting closer!
+Dialogue: 0,0:13:01.13,0:13:03.05,Main,A,0000,0000,0000,,Fire!
+Dialogue: 0,0:13:07.76,0:13:09.12,Main,Ygg,0000,0000,0000,,You did it!
+Dialogue: 0,0:13:10.44,0:13:12.67,Main,Chi,0000,0000,0000,,No, not yet.
+Dialogue: 0,0:13:12.67,0:13:14.81,Main,Chi,0000,0000,0000,,Weapons all over the world...
+Dialogue: 0,0:13:15.18,0:13:17.40,Main,Chi,0000,0000,0000,,are going out of control!
+Dialogue: 0,0:13:19.90,0:13:24.97,Main,Al,0000,0000,0000,,All kinds of unmanned weapons \Nacross the globe are being activated.
+Dialogue: 0,0:13:24.97,0:13:28.91,Main,Al,0000,0000,0000,,Multibots, bombers, even ballistic missiles.
+Dialogue: 0,0:13:29.38,0:13:32.25,Main,Ygg,0000,0000,0000,,They've all been taken over by those monsters.
+Dialogue: 0,0:13:32.25,0:13:35.41,Main,A,0000,0000,0000,,Dammit! What the hell are those things?
+Dialogue: 0,0:13:36.00,0:13:38.33,Main,Al,0000,0000,0000,,I've seen eyes like those before.
+Dialogue: 0,0:13:40.24,0:13:42.92,Main,Al,0000,0000,0000,,The outlaws we've encountered so far \Nand their victims all had
+Dialogue: 0,0:13:43.53,0:13:47.32,Main,Al,0000,0000,0000,,the blank stare you get when you fall \Ninto the clutches of hatred and despair.
+Dialogue: 0,0:13:49.72,0:13:52.64,Main,Al,0000,0000,0000,,So if I had it call it something...
+Dialogue: 0,0:13:53.09,0:13:55.48,Main,Min,0000,0000,0000,,Human malice?
+Dialogue: 0,0:13:56.05,0:13:57.36,Main,Ari,0000,0000,0000,,Exactly.
+Dialogue: 0,0:13:57.36,0:14:02.38,Main,Ari,0000,0000,0000,,Those monsters are made of the tactical\Nprograms installed on the main server
+Dialogue: 0,0:14:02.38,0:14:04.08,Main,Ari,0000,0000,0000,,combined with a history of war...
+Dialogue: 0,0:14:04.08,0:14:07.02,Main,Ari,0000,0000,0000,,Memories of mankind's fear and hatred.
+Dialogue: 0,0:14:07.02,0:14:09.64,Main,Ari,0000,0000,0000,,It has taken the form \Nof a species that prospers
+Dialogue: 0,0:14:09.64,0:14:13.80,Main,Ari,0000,0000,0000,,by killing nature, animals, \Nand even fellow humans.
+Dialogue: 0,0:14:13.80,0:14:17.04,Main,Ari,0000,0000,0000,,You could call it \Nthe face of humanity itself.
+Dialogue: 0,0:14:17.04,0:14:22.65,Main,Ari,0000,0000,0000,,The EX-ARMs Natsume Akira possesses \Ncan amplify human desires,
+Dialogue: 0,0:14:22.65,0:14:26.26,Main,Ari,0000,0000,0000,,and thus can also amplify malice.
+Dialogue: 0,0:14:26.26,0:14:30.12,Main,Min,0000,0000,0000,,No, you're forgetting something important.
+Dialogue: 0,0:14:31.75,0:14:34.78,Main,Min,0000,0000,0000,,If EX-ARMs can amplify human desires,
+Dialogue: 0,0:14:34.78,0:14:39.10,Main,Min,0000,0000,0000,,then they can also amplify the virtues \Nof mankind, and even its loving nature!
+Dialogue: 0,0:14:40.76,0:14:42.22,Main,Ari,0000,0000,0000,,Maybe so.
+Dialogue: 0,0:14:42.22,0:14:46.44,Main,Ari,0000,0000,0000,,But the malice is a force \Nto be reckoned with.
+Dialogue: 0,0:14:53.03,0:14:54.34,Main,Ygg,0000,0000,0000,,My dear?
+Dialogue: 0,0:14:54.88,0:14:59.37,Main,A,0000,0000,0000,,You two should disconnect from the network. \NI'll handle the rest.
+Dialogue: 0,0:14:59.37,0:15:00.92,Main,Ygg,0000,0000,0000,,My dear?
+Dialogue: 0,0:15:00.92,0:15:02.88,Main,Al,0000,0000,0000,,Do you have a plan?
+Dialogue: 0,0:15:02.88,0:15:04.35,Main,A,0000,0000,0000,,Nope.
+Dialogue: 0,0:15:04.35,0:15:11.95,Main,A,0000,0000,0000,,I'll have to go after each and every one \Nof the servers and weapons it's taken over.
+Dialogue: 0,0:15:11.95,0:15:15.44,Main,A,0000,0000,0000,,I can't even afford the lag caused\Nby sharing information with you two.
+Dialogue: 0,0:15:15.44,0:15:17.40,Main,A,0000,0000,0000,,I've gotta do this alone.
+Dialogue: 0,0:15:17.40,0:15:22.62,Main,Al,0000,0000,0000,,Understood. Then I shall shut down \Nmy persona interface.
+Dialogue: 0,0:15:22.62,0:15:27.78,Main,Al,0000,0000,0000,,Connect to my body directly \Nand use it as an additional resource.
+Dialogue: 0,0:15:28.21,0:15:30.33,Main,Al,0000,0000,0000,,That should get rid of the lag.
+Dialogue: 0,0:15:30.33,0:15:31.45,Main,A,0000,0000,0000,,Alma?
+Dialogue: 0,0:15:32.74,0:15:36.28,Main,Al,0000,0000,0000,,I don't mind offering you my everything.
+Dialogue: 0,0:15:37.92,0:15:40.80,Main,Ygg,0000,0000,0000,,Use me too, my dear.
+Dialogue: 0,0:15:40.80,0:15:44.25,Main,Ygg,0000,0000,0000,,You can have all of Yggdrasil's resources.
+Dialogue: 0,0:15:45.17,0:15:47.67,Main,Kao,0000,0000,0000,,Wait, you two can't do that!
+Dialogue: 0,0:15:48.14,0:15:52.92,Main,Ygg,0000,0000,0000,,Mother, we were created to serve mankind.
+Dialogue: 0,0:15:53.47,0:15:57.47,Main,Ygg,0000,0000,0000,,I believe now is the time \Nto carry out our purpose.
+Dialogue: 0,0:15:57.96,0:16:00.09,Main,Min,0000,0000,0000,,Please let them.
+Dialogue: 0,0:16:01.60,0:16:03.05,Main,Kao,0000,0000,0000,,You're back?
+Dialogue: 0,0:16:03.05,0:16:05.44,Main,Kim,0000,0000,0000,,We managed to get everyone out.
+Dialogue: 0,0:16:06.15,0:16:09.53,Main,Min,0000,0000,0000,,There's probably nothing we can do anymore.
+Dialogue: 0,0:16:09.53,0:16:12.44,Main,Min,0000,0000,0000,,I'll leave the future up to Akira and those two.
+Dialogue: 0,0:16:12.86,0:16:17.28,Main,Min,0000,0000,0000,,The world's in your hands, Akira, Alma, Ygg.
+Dialogue: 0,0:16:18.31,0:16:19.34,Main,A,0000,0000,0000,,Sure.
+Dialogue: 0,0:16:23.16,0:16:25.71,Main,Kao,0000,0000,0000,,I never could have children,
+Dialogue: 0,0:16:25.71,0:16:29.21,Main,Kao,0000,0000,0000,,but I wonder if this is how it feels \Nto marry off a daughter.
+Dialogue: 0,0:16:29.96,0:16:31.45,Main,Kao,0000,0000,0000,,I understand.
+Dialogue: 0,0:16:31.45,0:16:38.54,Main,Kao,0000,0000,0000,,Akira, I'll leave my two daughters \Nand mankind's future to you!
+Dialogue: 0,0:16:39.76,0:16:41.05,Main,A,0000,0000,0000,,Thank you.
+Dialogue: 0,0:16:43.49,0:16:44.76,Main,A,0000,0000,0000,,It's so pretty.
+Dialogue: 0,0:16:45.77,0:16:46.44,Signs,Sign,0000,0000,0000,,let's do this
+Dialogue: 0,0:16:45.77,0:16:46.98,Main,A,0000,0000,0000,,Let's do this!
+Dialogue: 0,0:16:51.57,0:16:55.86,Italics,Min,0000,0000,0000,,The next hour or so was an extremely\Nstrange time to experience.
+Dialogue: 0,0:16:56.47,0:17:00.87,Italics,Min,0000,0000,0000,,The final battle to decide \Nthe world's fate was underway,
+Dialogue: 0,0:17:01.76,0:17:06.62,Italics,Min,0000,0000,0000,,something akin to the Armageddon \Nor Ragnarok of legends,
+Dialogue: 0,0:17:07.54,0:17:10.88,Italics,Min,0000,0000,0000,,but it was all just so quiet.
+Dialogue: 0,0:17:16.16,0:17:22.46,Italics,Min,0000,0000,0000,,All anyone could do was watch helplessly \Nas the world's fate hung in the balance.
+Dialogue: 0,0:17:32.19,0:17:34.70,Italics,G,0000,0000,0000,,The attacks in New York have stopped!
+Dialogue: 0,0:17:34.70,0:17:36.75,Italics,G,0000,0000,0000,,London, Hong Kong, Milan...
+Dialogue: 0,0:17:36.75,0:17:40.14,Italics,G,0000,0000,0000,,The unmanned attacks across the globe \Nare being canceled!
+Dialogue: 0,0:17:40.14,0:17:41.70,Italics,G,0000,0000,0000,,That leaves only Japan!
+Dialogue: 0,0:17:41.70,0:17:44.96,Italics,G,0000,0000,0000,,Ogre's brain temperature is rising even further!
+Dialogue: 0,0:17:44.96,0:17:46.15,Main,Chi,0000,0000,0000,,Akira...
+Dialogue: 0,0:17:50.08,0:17:53.37,Main,A,0000,0000,0000,,Damn it. But I'm almost done...
+Dialogue: 0,0:17:54.77,0:17:57.74,Main,Ari,0000,0000,0000,,Well? What's your trump card?
+Dialogue: 0,0:17:57.74,0:18:03.05,Main,Ari,0000,0000,0000,,Human malice can't be erased so easily, hero.
+Dialogue: 0,0:18:06.88,0:18:09.81,Main,Kon,0000,0000,0000,,This place won't last much longer! \NWe gotta bounce!
+Dialogue: 0,0:18:10.19,0:18:15.15,Main,Min,0000,0000,0000,,Akira's limiting the enemy \Nto basically just Japan.
+Dialogue: 0,0:18:15.15,0:18:17.70,Main,Min,0000,0000,0000,,We can't just leave him and run away.
+Dialogue: 0,0:18:18.58,0:18:21.08,Main,A,0000,0000,0000,,Nah. You should go, Minami.
+Dialogue: 0,0:18:21.08,0:18:22.16,Main,Min,0000,0000,0000,,Akira?
+Dialogue: 0,0:18:22.16,0:18:27.37,Main,A,0000,0000,0000,,Listen, I tried what I could, \Nbut I can't whittle them down any further.
+Dialogue: 0,0:18:27.76,0:18:32.47,Main,A,0000,0000,0000,,And it looks like my gray cells \Nhave truly reached their limit.
+Dialogue: 0,0:18:34.61,0:18:40.47,Main,A,0000,0000,0000,,So I've decided to send a bunch of\Nnuclear missiles to the skies above Tokyo,
+Dialogue: 0,0:18:41.27,0:18:47.39,Main,A,0000,0000,0000,,and detonate them above the stratosphere... \Nat an altitude of over 100 km.
+Dialogue: 0,0:18:47.39,0:18:49.35,Main,Kao,0000,0000,0000,,Wait, you don't mean...
+Dialogue: 0,0:18:49.35,0:18:53.48,Main,Chi,0000,0000,0000,,An EMP attack using\Nhigh-altitude nuclear explosions?
+Dialogue: 0,0:18:53.48,0:18:57.67,Main,Kao,0000,0000,0000,,Nuclear explosions at an altitude \Nof 30 km to 400 km...
+Dialogue: 0,0:18:57.67,0:19:00.08,Main,Chi,0000,0000,0000,,...will make gamma rays collide \Nwith air molecules,
+Dialogue: 0,0:19:00.08,0:19:05.37,Main,Chi,0000,0000,0000,,make them release their electrons, \Nand cause EMP emissions within a radius of 100 km!
+Dialogue: 0,0:19:05.37,0:19:11.08,Main,A,0000,0000,0000,,All of Japan's electronics will be destroyed, \Nand all data will be lost.
+Dialogue: 0,0:19:11.08,0:19:12.83,Main,A,0000,0000,0000,,Including the enemy.
+Dialogue: 0,0:19:12.83,0:19:18.26,Main,Kao,0000,0000,0000,,But that might prove more damaging \Nto Japan than the Tokyo Attack!
+Dialogue: 0,0:19:18.26,0:19:20.47,Main,A,0000,0000,0000,,Yeah, I know.
+Dialogue: 0,0:19:20.88,0:19:24.39,Main,A,0000,0000,0000,,EX-ARMs are nothing but a plague.
+Dialogue: 0,0:19:25.06,0:19:25.81,Main,A,0000,0000,0000,,But...
+Dialogue: 0,0:19:25.81,0:19:29.13,Main,A,0000,0000,0000,,Those demons, personifications\Nof humanity's sins...
+Dialogue: 0,0:19:29.13,0:19:32.98,Main,A,0000,0000,0000,,Not a single byte of their code \Ncan be allowed to remain.
+Dialogue: 0,0:19:34.72,0:19:36.89,Main,A,0000,0000,0000,,You guys hurry up and get out!
+Dialogue: 0,0:19:37.80,0:19:39.86,Main,Kon,0000,0000,0000,,Akira's right! Let's go!
+Dialogue: 0,0:19:40.68,0:19:43.04,Main,Min,0000,0000,0000,,No! I don't wanna go, Akira!
+Dialogue: 0,0:19:43.04,0:19:44.59,Main,Min,0000,0000,0000,,I'll stay here with you!
+Dialogue: 0,0:19:44.59,0:19:46.20,Main,A,0000,0000,0000,,You can't, Minami.
+Dialogue: 0,0:19:46.98,0:19:48.86,Main,Min,0000,0000,0000,,We were always together!
+Dialogue: 0,0:19:48.86,0:19:51.58,Main,Min,0000,0000,0000,,Let me be with you until the end!
+Dialogue: 0,0:19:52.31,0:19:56.52,Main,Al,0000,0000,0000,,No. Please, Minami, get going.
+Dialogue: 0,0:19:56.52,0:19:57.55,Main,Min,0000,0000,0000,,Alma...
+Dialogue: 0,0:19:57.55,0:20:00.06,Main,A,0000,0000,0000,,You live on, Minami.
+Dialogue: 0,0:20:01.40,0:20:05.10,Main,A,0000,0000,0000,,We're going to destroy to save lives.
+Dialogue: 0,0:20:05.10,0:20:08.40,Main,A,0000,0000,0000,,We'll use up every fiber of our being.
+Dialogue: 0,0:20:08.40,0:20:12.79,Main,A,0000,0000,0000,,Use your life to help people \Nafter that destruction.
+Dialogue: 0,0:20:14.41,0:20:18.28,Main,A,0000,0000,0000,,It may happen at different times, \Nbut our goal remains the same.
+Dialogue: 0,0:20:18.69,0:20:22.36,Main,Min,0000,0000,0000,,"The strong must use their powers \Nto protect the weak."
+Dialogue: 0,0:20:22.75,0:20:24.36,Main,Al,0000,0000,0000,,Exactly, Minami.
+Dialogue: 0,0:20:24.98,0:20:28.09,Main,Al,0000,0000,0000,,That's what you've taught us.
+Dialogue: 0,0:20:29.36,0:20:31.53,Main,A,0000,0000,0000,,Don't forget, Minami.
+Dialogue: 0,0:20:32.93,0:20:34.70,Main,A,0000,0000,0000,,We're a team.
+Dialogue: 0,0:20:38.29,0:20:39.25,Main,Min,0000,0000,0000,,Akira...
+Dialogue: 0,0:20:39.25,0:20:41.98,Main,Ygg,0000,0000,0000,,More ICBMs launched.
+Dialogue: 0,0:20:41.98,0:20:44.00,Main,A,0000,0000,0000,,Get going, Minami!
+Dialogue: 0,0:20:44.00,0:20:44.87,Main,Min,0000,0000,0000,,Okay!
+Dialogue: 0,0:20:49.76,0:20:53.11,Italics,A,0000,0000,0000,,I never wanted to be a hero.
+Dialogue: 0,0:20:53.89,0:20:58.15,Italics,A,0000,0000,0000,,{\fad(1,603)}I was just a powerless human \Nwho couldn't do anything by himself.
+Dialogue: 0,0:20:59.08,0:21:02.15,Italics,A,0000,0000,0000,,But fate changed all that.
+Dialogue: 0,0:21:21.46,0:21:25.09,Main,Min,0000,0000,0000,,Akira!
+Dialogue: 0,0:21:41.03,0:21:45.08,Italics,A,0000,0000,0000,,You know, I lived my best life,
+Dialogue: 0,0:21:46.15,0:21:47.35,Italics,A,0000,0000,0000,,Bro...

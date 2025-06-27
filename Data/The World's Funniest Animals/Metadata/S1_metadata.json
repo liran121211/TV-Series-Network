@@ -1,0 +1,42 @@
+{
+    "3": {
+        "title": "Episode #1.3",
+        "released": "2020-09-25",
+        "rating": "N/A",
+        "imdb_id": "tt13225626",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The World's Funniest Animals\\Subtitles\\S1\\Worlds.Funniest.Animals.S01E03.zip"
+    },
+    "5": {
+        "title": "Episode #1.5",
+        "released": "2020-10-09",
+        "rating": "N/A",
+        "imdb_id": "tt13225670",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The World's Funniest Animals\\Subtitles\\S1\\Worlds.Funniest.Animals.S01E05.zip"
+    },
+    "6": {
+        "title": "Episode #1.6",
+        "released": "2020-10-16",
+        "rating": "N/A",
+        "imdb_id": "tt13225676",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Episode #1.7",
+        "released": "2020-10-23",
+        "rating": "N/A",
+        "imdb_id": "tt13341228",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Episode #1.8",
+        "released": "2020-10-30",
+        "rating": "N/A",
+        "imdb_id": "tt13341236",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

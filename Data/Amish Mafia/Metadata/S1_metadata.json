@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "No Peace for the Wicked",
+        "released": "2012-12-11",
+        "rating": "4.6",
+        "imdb_id": "tt2560576",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Fire from the Lord",
+        "released": "2012-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt2560578",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Holy War",
+        "released": "2013-01-09",
+        "rating": "6.6",
+        "imdb_id": "tt2561050",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Reckoning",
+        "released": "2013-01-16",
+        "rating": "6.0",
+        "imdb_id": "tt2561056",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Book of Merlin",
+        "released": "2013-01-20",
+        "rating": "N/A",
+        "imdb_id": "tt3565766",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Amish Exorcism",
+        "released": "2013-03-03",
+        "rating": "N/A",
+        "imdb_id": "tt2734574",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

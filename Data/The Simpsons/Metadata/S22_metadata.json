@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Elementary School Musical",
+        "released": "2010-09-26",
+        "rating": "6.1",
+        "imdb_id": "tt1628648",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S22\\The.Simpsons.S22E01.HDTV.XviD-LOL.HIS22E1.zip"
+    },
+    "2": {
+        "title": "Loan-a Lisa",
+        "released": "2010-10-03",
+        "rating": "6.7",
+        "imdb_id": "tt1628659",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S22\\The.Simpsons.S22E02.HDTV.XviD-LOL.HIS22E2.zip"
+    },
+    "3": {
+        "title": "MoneyBart",
+        "released": "2010-10-10",
+        "rating": "6.7",
+        "imdb_id": "tt1628662",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S22\\The.Simpsons.S22E03.HDTV.XviD-LOL.HIS22E3.zip"
+    },
+    "4": {
+        "title": "Treehouse of Horror XXI",
+        "released": "2010-11-07",
+        "rating": "7.1",
+        "imdb_id": "tt1628663",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S22\\The.Simpsons.S22E04.HDTV.XviD-LOL.HIS22E4.zip"
+    },
+    "5": {
+        "title": "Lisa Simpson, This Isn't Your Life",
+        "released": "2010-11-14",
+        "rating": "7.2",
+        "imdb_id": "tt1628664",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S22\\The.Simpsons.S22E05.HDTV.XviD-LOL.HIS22E5.zip"
+    },
+    "6": {
+        "title": "The Fool Monty",
+        "released": "2010-11-21",
+        "rating": "6.5",
+        "imdb_id": "tt1628665",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S22\\The.Simpsons.S22E06.HDTV.XviD-LOL.HIS22E6.zip"
+    },
+    "7": {
+        "title": "How Munched Is That Birdie in the Window?",
+        "released": "2010-11-28",
+        "rating": "6.3",
+        "imdb_id": "tt1628666",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S22\\The.Simpsons.S22E07.HDTV.XviD-LOL.HIS22E7.zip"
+    },
+    "8": {
+        "title": "The Fight Before Christmas",
+        "released": "2010-12-05",
+        "rating": "6.7",
+        "imdb_id": "tt1628667",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S22\\The.Simpsons.S22E08.HDTV.XviD-LOL.HIS22E8.zip"
+    },
+    "9": {
+        "title": "Donnie Fatso",
+        "released": "2010-12-12",
+        "rating": "N/A",
+        "imdb_id": "tt1628668",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S22\\The.Simpsons.S22E09.HDTV.XviD-LOL.HIS22E9.zip"
+    },
+    "10": {
+        "title": "Moms I'd Like to Forget",
+        "released": "2011-01-09",
+        "rating": "N/A",
+        "imdb_id": "tt1628649",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Flaming Moe",
+        "released": "2011-01-16",
+        "rating": "6.7",
+        "imdb_id": "tt1628650",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Homer the Father",
+        "released": "2011-01-23",
+        "rating": "6.9",
+        "imdb_id": "tt1628651",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Blue and the Gray",
+        "released": "2011-02-13",
+        "rating": "6.7",
+        "imdb_id": "tt1628652",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Angry Dad: The Movie",
+        "released": "2011-02-20",
+        "rating": "7.2",
+        "imdb_id": "tt1628653",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Scorpion's Tale",
+        "released": "2011-03-06",
+        "rating": "6.6",
+        "imdb_id": "tt1628654",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "A Midsummer's Nice Dreams",
+        "released": "2011-03-13",
+        "rating": "6.0",
+        "imdb_id": "tt1628655",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Love Is a Many Strangled Thing",
+        "released": "2011-03-27",
+        "rating": "N/A",
+        "imdb_id": "tt1628656",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Great Simpsina",
+        "released": "2011-04-10",
+        "rating": "6.8",
+        "imdb_id": "tt1628657",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Real Housewives of Fat Tony",
+        "released": "2011-05-01",
+        "rating": "6.5",
+        "imdb_id": "tt1628658",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Homer Scissorhands",
+        "released": "2011-05-08",
+        "rating": "7.1",
+        "imdb_id": "tt1628660",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "500 Keys",
+        "released": "2011-05-15",
+        "rating": "7.3",
+        "imdb_id": "tt1628661",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Ned-Liest Catch",
+        "released": "2011-05-22",
+        "rating": "7.0",
+        "imdb_id": "tt1927865",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

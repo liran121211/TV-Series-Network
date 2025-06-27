@@ -1,0 +1,42 @@
+{
+    "1": {
+        "title": "Pilot: Part 2",
+        "released": "2004-07-11",
+        "rating": "7.7",
+        "imdb_id": "tt0502803",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The New and Improved Carl Morrissey",
+        "released": "2004-07-18",
+        "rating": "N/A",
+        "imdb_id": "tt0502807",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Becoming",
+        "released": "2004-07-25",
+        "rating": "N/A",
+        "imdb_id": "tt0502797",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Trial by Fire",
+        "released": "2004-08-01",
+        "rating": "N/A",
+        "imdb_id": "tt0502808",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "White Light",
+        "released": "2004-08-08",
+        "rating": "N/A",
+        "imdb_id": "tt0502812",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

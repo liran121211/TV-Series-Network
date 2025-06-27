@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Thomas",
+        "released": "2010-01-28",
+        "rating": "N/A",
+        "imdb_id": "tt1593577",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Emily",
+        "released": "2010-02-03",
+        "rating": "N/A",
+        "imdb_id": "tt1596294",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Cook",
+        "released": "2010-02-10",
+        "rating": "N/A",
+        "imdb_id": "tt1597462",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Katie",
+        "released": "2010-02-17",
+        "rating": "N/A",
+        "imdb_id": "tt1597467",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Freddie",
+        "released": "2010-02-24",
+        "rating": "7.8",
+        "imdb_id": "tt1597465",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "JJ",
+        "released": "2010-03-04",
+        "rating": "N/A",
+        "imdb_id": "tt1597466",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Effy",
+        "released": "2010-03-11",
+        "rating": "8.0",
+        "imdb_id": "tt1597463",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Everyone",
+        "released": "2010-03-18",
+        "rating": "7.8",
+        "imdb_id": "tt1597464",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

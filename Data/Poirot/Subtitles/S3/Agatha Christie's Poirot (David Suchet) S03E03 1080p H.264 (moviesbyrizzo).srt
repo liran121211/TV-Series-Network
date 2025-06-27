@@ -1,0 +1,3673 @@
+1
+00:02:14,584 --> 00:02:17,916
+-Morning, Mr. Shaw.
+-Good morning, Mr. Vavasour.
+
+2
+00:02:28,334 --> 00:02:30,083
+Terrible weather, Mr. Shaw.
+
+3
+00:02:30,209 --> 00:02:32,333
+Yes. Shocking.
+
+4
+00:02:47,625 --> 00:02:49,333
+I'll see you at the bank,
+Mr. Shaw.
+
+5
+00:02:49,459 --> 00:02:50,916
+Right, Mr. Vavasour.
+
+6
+00:02:51,209 --> 00:02:53,499
+-Morning, gov.
+-Morning.
+
+7
+00:03:09,667 --> 00:03:11,249
+Here!
+Look out, gov!
+
+8
+00:03:12,042 --> 00:03:13,291
+Oh!
+
+9
+00:03:18,250 --> 00:03:20,249
+My dear Mr. Shaw!
+Are you all right?
+
+10
+00:03:21,625 --> 00:03:22,541
+Yes.
+
+11
+00:03:22,667 --> 00:03:23,958
+Yes.
+Yes, I think so.
+
+12
+00:03:24,459 --> 00:03:26,124
+Here, he done that on purpose.
+
+13
+00:03:26,834 --> 00:03:29,333
+He was trying to kill ya!
+
+14
+00:03:36,709 --> 00:03:39,874
+It weighs 80,000 tons, you know?
+
+15
+00:03:41,209 --> 00:03:42,791
+That is heavy, Hastings.
+
+16
+00:03:43,959 --> 00:03:45,499
+It's over 1,000 feet long.
+
+17
+00:03:47,459 --> 00:03:49,583
+Yes, Hastings.
+
+18
+00:03:50,750 --> 00:03:52,833
+Its siren can be heard
+10 miles away.
+
+19
+00:03:53,584 --> 00:03:54,833
+10 miles, Poirot.
+
+20
+00:03:56,000 --> 00:03:57,249
+Oh, mon Dieu.
+
+21
+00:03:58,459 --> 00:04:01,166
+I'd give my eyeteeth
+to be on this maiden voyage.
+
+22
+00:04:01,292 --> 00:04:02,874
+I mean,
+it's an engineering marvel.
+
+23
+00:04:03,000 --> 00:04:04,416
+It is a marvel to me, Hastings,
+
+24
+00:04:04,542 --> 00:04:06,666
+how anyone wishes to travel
+on such a contraption.
+
+25
+00:04:06,792 --> 00:04:08,749
+Contraption?
+The Queen Mary?
+
+26
+00:04:09,750 --> 00:04:11,499
+Poirot, you're going too far.
+
+27
+00:04:11,625 --> 00:04:13,666
+No, Hastings.
+I'm going nowhere.
+
+28
+00:04:14,334 --> 00:04:17,124
+Even to contemplate such a
+matter gives me the mal de mer.
+
+29
+00:04:17,250 --> 00:04:18,749
+I can assure you, Poirot,
+
+30
+00:04:19,334 --> 00:04:21,499
+you wouldn't be seasick
+on the Queen Mary.
+
+31
+00:04:21,625 --> 00:04:22,666
+Steady as a rock.
+
+32
+00:04:22,792 --> 00:04:24,333
+Hastings, it is 20 years ago
+
+33
+00:04:25,000 --> 00:04:28,124
+that I came to this country
+in a boat across the channel,
+
+34
+00:04:28,667 --> 00:04:30,249
+and still I am not recovered.
+
+35
+00:04:31,000 --> 00:04:32,333
+Mr. Poirot.
+
+36
+00:04:32,542 --> 00:04:35,124
+This just came for you
+by personal messenger.
+
+37
+00:04:36,209 --> 00:04:37,374
+Thank you, Miss Lemon.
+
+38
+00:04:39,667 --> 00:04:41,458
+The London and Scottish Bank.
+
+39
+00:04:41,917 --> 00:04:43,583
+We don't have an account there,
+do we?
+
+40
+00:04:43,709 --> 00:04:44,958
+No.
+
+41
+00:04:45,125 --> 00:04:46,708
+Mr. Poirot
+did have some problems
+
+42
+00:04:46,834 --> 00:04:48,124
+with his bank last year.
+
+43
+00:04:48,250 --> 00:04:50,458
+The chairman was arrested.
+
+44
+00:04:50,584 --> 00:04:51,624
+Yes, I remember.
+
+45
+00:04:51,750 --> 00:04:53,333
+It was Poirot who put the man
+behind bars.
+
+46
+00:04:53,459 --> 00:04:54,833
+This is most unusual.
+
+47
+00:04:55,917 --> 00:04:57,874
+Indeed a circumstance unique.
+
+48
+00:04:58,292 --> 00:04:59,749
+An attempted murder.
+
+49
+00:05:01,250 --> 00:05:02,958
+American Liberty Bonds.
+
+50
+00:05:04,000 --> 00:05:05,416
+Have they been robbed?
+
+51
+00:05:05,834 --> 00:05:07,124
+Not yet, Miss Lemon.
+
+52
+00:05:08,209 --> 00:05:09,916
+But they think
+that they are going to be.
+
+53
+00:05:10,042 --> 00:05:11,291
+And when they are,
+
+54
+00:05:12,750 --> 00:05:16,583
+there is at stake
+the sum of $1 million.
+
+55
+00:05:38,084 --> 00:05:41,291
+Mr. Poirot, are you aware
+of the nature of Liberty Bonds?
+
+56
+00:05:42,375 --> 00:05:44,249
+I have no personal experience.
+
+57
+00:05:44,584 --> 00:05:46,416
+They're the equivalent
+of blank checks,
+
+58
+00:05:46,542 --> 00:05:48,541
+payable to whosoever holds them.
+
+59
+00:05:48,834 --> 00:05:50,708
+And so if they were
+to be mislaid?
+
+60
+00:05:51,750 --> 00:05:54,541
+Same as losing cash.
+It would ruin us.
+
+61
+00:05:59,084 --> 00:06:00,249
+Tell me, M. Shaw,
+
+62
+00:06:00,375 --> 00:06:02,791
+why is it necessary
+to transport these bonds?
+
+63
+00:06:02,917 --> 00:06:04,749
+The bank is currently
+extending its credit
+
+64
+00:06:04,875 --> 00:06:05,791
+in America, Mr. Poirot.
+
+65
+00:06:05,917 --> 00:06:08,124
+We must have funds in place
+in New York.
+
+66
+00:06:08,542 --> 00:06:11,166
+-Please.
+-Thank you.
+
+67
+00:06:16,375 --> 00:06:18,374
+And it is M. Shaw
+who will take them?
+
+68
+00:06:19,292 --> 00:06:20,708
+Yes.
+In two days' time.
+
+69
+00:06:21,125 --> 00:06:22,749
+He'll be traveling
+on the Queen Mary.
+
+70
+00:06:22,875 --> 00:06:24,124
+I say!
+
+71
+00:06:25,125 --> 00:06:27,666
+Oh. Sorry.
+
+72
+00:06:28,834 --> 00:06:31,583
+Now, if M. Shaw were unable
+to make this journey,
+
+73
+00:06:32,000 --> 00:06:33,666
+who would travel in his place?
+
+74
+00:06:34,084 --> 00:06:36,749
+The assistant general manager.
+Mr. Ridgeway.
+
+75
+00:06:36,959 --> 00:06:38,958
+Mr. Ridgeway is above suspicion.
+
+76
+00:06:39,375 --> 00:06:41,083
+I would certainly
+like to think so.
+
+77
+00:06:41,209 --> 00:06:42,999
+Why is that, M. Vavasour?
+
+78
+00:06:43,125 --> 00:06:45,458
+He has been with the bank
+for seven years.
+
+79
+00:06:45,667 --> 00:06:48,708
+He's also engaged
+to my secretary.
+
+80
+00:06:55,167 --> 00:06:56,416
+Yes, gentlemen.
+
+81
+00:06:56,792 --> 00:06:58,791
+I will examine this matter
+for you.
+
+82
+00:06:58,917 --> 00:07:00,291
+Really, Mr. Vavasour.
+
+83
+00:07:00,417 --> 00:07:02,666
+No, Mr. Shaw.
+That car tried to kill you.
+
+84
+00:07:03,125 --> 00:07:04,458
+I saw it with my own eyes.
+
+85
+00:07:05,250 --> 00:07:06,958
+The red sports car?
+
+86
+00:07:07,125 --> 00:07:08,416
+A Singer, you think?
+
+87
+00:07:08,709 --> 00:07:09,958
+Uh, yes.
+
+88
+00:07:11,042 --> 00:07:12,833
+But you were unable
+to make out
+
+89
+00:07:12,959 --> 00:07:14,166
+the number of the registration?
+
+90
+00:07:14,292 --> 00:07:15,874
+It happened too quickly.
+
+91
+00:07:16,959 --> 00:07:19,416
+And to be truthful,
+my eyesight is not good.
+
+92
+00:07:19,542 --> 00:07:20,666
+I'm sorry, Mr. Vavasour.
+
+93
+00:07:20,792 --> 00:07:22,333
+I still think you're
+blowing this whole thing
+
+94
+00:07:22,459 --> 00:07:23,374
+out of proportion.
+
+95
+00:07:23,500 --> 00:07:25,833
+We'll let Mr. Poirot
+be the judge of that.
+
+96
+00:07:27,375 --> 00:07:29,916
+You'd better have a word
+with our Mr. McNeil.
+
+97
+00:07:30,125 --> 00:07:31,624
+He's the head of security.
+
+98
+00:07:31,750 --> 00:07:34,374
+I'm sure you'll find him
+more than helpful.
+
+99
+00:07:38,167 --> 00:07:40,666
+I have to tell you, Mr. Poirot,
+I consider your presence here
+
+100
+00:07:40,792 --> 00:07:42,624
+to be a gross intrusion
+in my affairs.
+
+101
+00:07:42,750 --> 00:07:45,374
+That, I would say,
+is for M. Vavasour to decide.
+
+102
+00:07:45,500 --> 00:07:47,291
+I'll have you know
+that in the five years
+
+103
+00:07:47,417 --> 00:07:48,874
+that I have been
+head of security here,
+
+104
+00:07:49,000 --> 00:07:51,416
+not so much as a paper clip
+has gone astray.
+
+105
+00:07:51,625 --> 00:07:54,166
+M. McNeil, I'm sure
+if such a thing were to happen,
+
+106
+00:07:54,292 --> 00:07:56,916
+you would be the man
+ideal for the case.
+
+107
+00:08:18,125 --> 00:08:19,416
+Here it is, Mr. Poirot.
+
+108
+00:08:19,542 --> 00:08:22,291
+The portmanteau in which
+the bonds will travel.
+
+109
+00:08:23,292 --> 00:08:24,958
+I had it built to my own design.
+
+110
+00:08:25,375 --> 00:08:26,708
+Steel plate inside.
+
+111
+00:08:26,917 --> 00:08:29,166
+Five-lever lock.
+Hardened steel.
+
+112
+00:08:29,584 --> 00:08:31,666
+Clutch screws here and here.
+
+113
+00:08:34,125 --> 00:08:35,666
+There are just three keys.
+
+114
+00:08:36,042 --> 00:08:39,166
+One for Mr. Shaw
+and one for Mr. Vavasour.
+
+115
+00:08:43,792 --> 00:08:45,458
+And the third?
+
+116
+00:08:46,709 --> 00:08:48,833
+For me, of course.
+
+117
+00:08:50,834 --> 00:08:53,499
+And what if M. Ridgeway
+had to make the journey?
+
+118
+00:08:53,667 --> 00:08:54,916
+Mr. Ridgeway?
+
+119
+00:08:56,209 --> 00:08:57,749
+Well, that's the bank's lookout,
+
+120
+00:08:57,875 --> 00:09:00,666
+but I'd have to say he would not
+be my first choice as courier.
+
+121
+00:09:00,792 --> 00:09:04,124
+And why is that, M. McNeil?
+
+122
+00:09:05,167 --> 00:09:07,291
+You're the detective,
+Mr. Poirot.
+
+123
+00:09:08,000 --> 00:09:09,999
+You work it out.
+
+124
+00:09:27,584 --> 00:09:28,833
+Goodbye.
+
+125
+00:09:30,042 --> 00:09:31,333
+Thank you, Sandra.
+
+126
+00:09:32,209 --> 00:09:33,583
+Mr. Poirot, isn't it?
+
+127
+00:09:33,917 --> 00:09:36,583
+M. Ridgeway.
+My associate, Captain Hastings.
+
+128
+00:09:36,959 --> 00:09:38,083
+-How do you do?
+-How do you do?
+
+129
+00:09:38,209 --> 00:09:40,791
+-Please sit down, gentlemen.
+-Thank you.
+
+130
+00:09:44,750 --> 00:09:46,874
+I suppose you've come
+about Mr. Shaw.
+
+131
+00:09:47,167 --> 00:09:48,708
+You heard what took place?
+
+132
+00:09:49,417 --> 00:09:51,499
+Yes.
+But I'm sure it was an accident.
+
+133
+00:09:52,334 --> 00:09:53,583
+Why?
+
+134
+00:09:53,875 --> 00:09:56,416
+Well, I mean,
+who's gonna knock off old Shaw?
+
+135
+00:09:57,500 --> 00:10:00,249
+He's utterly harmless
+and dry as old bones.
+
+136
+00:10:01,209 --> 00:10:02,458
+Mm.
+
+137
+00:10:03,292 --> 00:10:05,999
+I understand that you yourself
+would travel to America
+
+138
+00:10:06,125 --> 00:10:07,416
+if M. Shaw were indisposed.
+
+139
+00:10:07,542 --> 00:10:08,791
+Yes.
+A bit of fun, eh?
+
+140
+00:10:10,209 --> 00:10:11,666
+And on the Queen Mary, too.
+
+141
+00:10:11,959 --> 00:10:13,208
+I'll say.
+
+142
+00:10:13,334 --> 00:10:14,833
+You would like to go?
+
+143
+00:10:14,959 --> 00:10:16,208
+Of course I would.
+
+144
+00:10:17,084 --> 00:10:18,499
+Oh, but not enough to...
+
+145
+00:10:19,750 --> 00:10:21,791
+You don't think...
+
+146
+00:10:22,917 --> 00:10:24,666
+What car do you drive,
+M. Ridgeway?
+
+147
+00:10:24,792 --> 00:10:25,874
+I don't.
+
+148
+00:10:26,000 --> 00:10:28,958
+I did have a car.
+It was a Singer.
+
+149
+00:10:30,417 --> 00:10:31,666
+The color?
+
+150
+00:10:31,875 --> 00:10:33,874
+Red.
+But I haven't had it for weeks.
+
+151
+00:10:34,750 --> 00:10:35,999
+You see, I sold it.
+
+152
+00:10:37,459 --> 00:10:38,708
+I didn't like it.
+
+153
+00:10:39,417 --> 00:10:40,583
+It was the ignition.
+
+154
+00:10:40,709 --> 00:10:43,333
+I could never get
+the damn thing to start.
+
+155
+00:10:51,917 --> 00:10:53,166
+He was lying.
+
+156
+00:10:53,625 --> 00:10:56,333
+He was not, perhaps,
+telling the truth in entirety.
+
+157
+00:10:56,459 --> 00:10:58,499
+The Singer's got
+a brand-new ignition system.
+
+158
+00:10:58,625 --> 00:11:00,041
+Racing start.
+It's the best on the road.
+
+159
+00:11:00,167 --> 00:11:02,541
+Ah, Hastings.
+Always the enthusiast.
+
+160
+00:11:02,875 --> 00:11:03,999
+Mr. Poirot?
+
+161
+00:11:06,042 --> 00:11:07,291
+Might I...
+
+162
+00:11:07,917 --> 00:11:09,166
+Can I talk to you?
+
+163
+00:11:10,167 --> 00:11:11,833
+My name is Esmee Dalgleish.
+
+164
+00:11:12,459 --> 00:11:14,416
+I'm engaged to be married
+to Philip Ridgeway.
+
+165
+00:11:14,542 --> 00:11:16,416
+Ah, I'd say
+he's a very lucky man.
+
+166
+00:11:16,584 --> 00:11:18,458
+Thank you.
+
+167
+00:11:20,250 --> 00:11:22,624
+And you're also
+the secretary of M. Vavasour?
+
+168
+00:11:22,750 --> 00:11:25,249
+Yes, that's right.
+
+169
+00:11:26,917 --> 00:11:28,833
+How can I help you,
+mademoiselle?
+
+170
+00:11:28,959 --> 00:11:31,458
+Mr. Poirot, may I speak to you
+in confidence?
+
+171
+00:11:32,500 --> 00:11:34,583
+You have my assurance,
+mademoiselle.
+
+172
+00:11:35,542 --> 00:11:36,958
+I love Philip very much.
+
+173
+00:11:37,750 --> 00:11:39,499
+We hope to be married
+in the autumn.
+
+174
+00:11:39,625 --> 00:11:41,833
+But it's just these bonds,
+Mr. Poirot.
+
+175
+00:11:43,375 --> 00:11:44,416
+The money.
+
+176
+00:11:44,542 --> 00:11:45,791
+It concerns you?
+
+177
+00:11:46,334 --> 00:11:47,333
+Yes.
+
+178
+00:11:47,459 --> 00:11:50,041
+Because if Mr. Shaw were unable
+to go to America,
+
+179
+00:11:50,167 --> 00:11:51,874
+Philip would take his place.
+
+180
+00:11:52,417 --> 00:11:54,416
+And I'm afraid for him,
+Mr. Poirot.
+
+181
+00:11:55,334 --> 00:11:57,499
+You're afraid
+someone might attack him?
+
+182
+00:11:58,750 --> 00:11:59,999
+Well... yes.
+
+183
+00:12:00,959 --> 00:12:02,874
+There's no saying
+what some people might do
+
+184
+00:12:03,000 --> 00:12:04,249
+for such a sum of money.
+
+185
+00:12:05,375 --> 00:12:07,958
+Mr. Poirot, I know you will do
+everything you can,
+
+186
+00:12:08,084 --> 00:12:10,666
+but, please, I beg of you,
+keep an eye on Philip.
+
+187
+00:12:10,792 --> 00:12:12,458
+Whatever happens.
+
+188
+00:12:13,875 --> 00:12:16,499
+I'm frightened
+he's going to come to harm.
+
+189
+00:12:31,500 --> 00:12:33,791
+You're very punctual,
+Mr. Ridgeway.
+
+190
+00:12:35,292 --> 00:12:36,541
+Time for a pint?
+
+191
+00:12:37,500 --> 00:12:38,749
+No.
+
+192
+00:12:39,334 --> 00:12:41,083
+No.
+I have to get back to the bank.
+
+193
+00:12:41,209 --> 00:12:42,458
+Ah, yes.
+
+194
+00:12:43,709 --> 00:12:44,833
+And the money?
+
+195
+00:12:44,959 --> 00:12:46,208
+It's on its way.
+
+196
+00:12:47,750 --> 00:12:48,999
+Another week, that's all.
+
+197
+00:12:49,125 --> 00:12:50,374
+Another week?
+
+198
+00:12:50,625 --> 00:12:51,874
+10 days.
+
+199
+00:12:52,917 --> 00:12:54,499
+No more.
+
+200
+00:12:56,000 --> 00:12:57,249
+I promise you.
+
+201
+00:12:58,459 --> 00:12:59,958
+It's all arranged.
+
+202
+00:13:26,709 --> 00:13:29,708
+Ah.
+Thank you, Mrs. Winter.
+
+203
+00:13:51,709 --> 00:13:53,416
+Mr. Poirot.
+Thank goodness you're back.
+
+204
+00:13:53,542 --> 00:13:54,458
+What is it, Miss Lemon?
+
+205
+00:13:54,584 --> 00:13:55,916
+It's the bank.
+They telephoned.
+
+206
+00:13:56,042 --> 00:13:58,833
+Their Mr. Shaw --
+He's been poisoned!
+
+207
+00:14:05,542 --> 00:14:07,666
+Good evening.
+We wish to see a M. Shaw.
+
+208
+00:14:08,667 --> 00:14:09,999
+And you are?
+
+209
+00:14:12,750 --> 00:14:14,624
+Hercule Poirot.
+
+210
+00:14:15,792 --> 00:14:17,041
+Oh, yes.
+Come in.
+
+211
+00:14:17,167 --> 00:14:18,583
+Thank you.
+
+212
+00:14:26,375 --> 00:14:28,624
+-How is he?
+-Still very weak.
+
+213
+00:14:28,959 --> 00:14:30,958
+-It was strychnine, you know?
+-Strychnine?
+
+214
+00:14:31,084 --> 00:14:32,333
+In his coffee.
+
+215
+00:14:32,875 --> 00:14:34,291
+More guests, Mr. Shaw.
+
+216
+00:14:34,875 --> 00:14:36,749
+Just five minutes, then sleep.
+
+217
+00:14:36,917 --> 00:14:38,833
+Thank you.
+Thank you, Nurse Long.
+
+218
+00:14:39,334 --> 00:14:40,624
+Mr. -- Mr. Poirot --
+
+219
+00:14:41,000 --> 00:14:45,249
+No, no, no, M. Shaw. Please.
+You must not tire yourself.
+
+220
+00:14:48,084 --> 00:14:49,958
+It was a close thing,
+Mr. Poirot.
+
+221
+00:14:50,375 --> 00:14:52,374
+One more mouthful --
+
+222
+00:14:52,500 --> 00:14:54,374
+I have begun an investigation.
+
+223
+00:14:54,500 --> 00:14:56,041
+It could have been anyone.
+
+224
+00:14:57,417 --> 00:14:59,124
+-Anyone.
+-Yes.
+
+225
+00:14:59,334 --> 00:15:00,666
+But at least we have ascertained
+
+226
+00:15:00,792 --> 00:15:02,749
+who was the last person
+in Mr. Shaw's office
+
+227
+00:15:02,875 --> 00:15:04,583
+before the coffee was drunk.
+
+228
+00:15:05,959 --> 00:15:07,499
+And who was that, M. McNeil?
+
+229
+00:15:08,084 --> 00:15:10,833
+The same person who will
+now be taking the bonds.
+
+230
+00:15:12,542 --> 00:15:14,416
+Mr. Ridgeway.
+
+231
+00:15:17,125 --> 00:15:19,333
+I thought you were going to
+take me out this evening.
+
+232
+00:15:19,459 --> 00:15:21,249
+I was. And I want to.
+But I can't.
+
+233
+00:15:22,792 --> 00:15:24,874
+I'm sorry, old girl.
+It's business.
+
+234
+00:15:25,584 --> 00:15:26,666
+It's always business.
+
+235
+00:15:26,792 --> 00:15:28,916
+Well, you should talk to
+old Vavasour.
+
+236
+00:15:29,042 --> 00:15:30,333
+He's the one to blame.
+
+237
+00:15:30,667 --> 00:15:31,916
+Philip...
+
+238
+00:15:32,459 --> 00:15:34,124
+-Do you still love me?
+-What?
+
+239
+00:15:35,042 --> 00:15:36,291
+Of course I do.
+
+240
+00:15:37,334 --> 00:15:38,583
+I'm wild about you.
+
+241
+00:15:39,209 --> 00:15:40,624
+I never see you anymore.
+
+242
+00:15:40,792 --> 00:15:42,041
+Oh.
+
+243
+00:15:42,709 --> 00:15:44,124
+Things will get better
+
+244
+00:15:44,792 --> 00:15:49,041
+once I just... turn the corner.
+
+245
+00:15:50,167 --> 00:15:51,458
+Look...
+
+246
+00:15:53,500 --> 00:15:55,166
+I got to fly.
+
+247
+00:15:59,042 --> 00:16:00,041
+Oh!
+
+248
+00:16:00,167 --> 00:16:01,708
+Darling, look,
+damn silly of me --
+
+249
+00:16:01,834 --> 00:16:03,833
+I, uh, left my wallet
+at the office.
+
+250
+00:16:04,542 --> 00:16:06,874
+Oh, Philip.
+
+251
+00:16:10,084 --> 00:16:12,499
+I seem to keep doing this,
+don't I?
+
+252
+00:16:13,584 --> 00:16:15,124
+I've got a couple of pounds.
+
+253
+00:16:15,875 --> 00:16:17,208
+I'm sorry, darling.
+
+254
+00:16:18,334 --> 00:16:20,208
+Philip, look,
+if you're in trouble...
+
+255
+00:16:20,334 --> 00:16:21,624
+Of course I'm not in trouble.
+
+256
+00:16:21,750 --> 00:16:22,958
+You can tell me.
+
+257
+00:16:23,084 --> 00:16:24,958
+Everything's going to be fine.
+
+258
+00:16:25,834 --> 00:16:27,374
+See you tomorrow.
+
+259
+00:16:37,250 --> 00:16:38,624
+The keys, Mr. McNeil.
+
+260
+00:16:39,125 --> 00:16:42,333
+You know what to do when you
+reach New York, Mr. Ridgeway?
+
+261
+00:16:42,459 --> 00:16:43,749
+-Yes, sir.
+-Good.
+
+262
+00:16:44,959 --> 00:16:46,499
+One for you, Mr. Ridgeway.
+
+263
+00:16:48,167 --> 00:16:49,999
+Mr. McNeil, you are responsible
+
+264
+00:16:50,125 --> 00:16:52,291
+for delivering that to Mr. Shaw
+at his home.
+
+265
+00:16:52,417 --> 00:16:53,666
+Very good, sir.
+
+266
+00:16:54,834 --> 00:16:56,083
+And one for me.
+
+267
+00:16:58,584 --> 00:17:00,499
+Is Mr. Shaw
+still not better, sir?
+
+268
+00:17:01,334 --> 00:17:02,541
+I'm afraid not, Miss Dalgleish.
+
+269
+00:17:02,667 --> 00:17:04,541
+He's going to be in bed
+for at least two weeks.
+
+270
+00:17:04,667 --> 00:17:06,749
+I'd be glad
+to make the journey, sir.
+
+271
+00:17:07,709 --> 00:17:09,124
+Thank you, Mr. McNeil.
+
+272
+00:17:09,792 --> 00:17:11,958
+But there's business to be done
+in New York
+
+273
+00:17:12,084 --> 00:17:16,166
+which in Mr. Shaw's absence
+only Mr. Ridgeway can handle.
+
+274
+00:17:17,875 --> 00:17:19,416
+It's only 10 days, old girl.
+
+275
+00:17:19,917 --> 00:17:21,916
+They say it's going to be
+the fastest crossing ever.
+
+276
+00:17:22,042 --> 00:17:23,999
+You may be sure
+I'm taking no chances
+
+277
+00:17:24,125 --> 00:17:26,499
+with your fiancé's safety,
+Miss Dalgleish.
+
+278
+00:17:26,625 --> 00:17:28,708
+After what has happened
+to Mr. Shaw.
+
+279
+00:17:29,042 --> 00:17:31,708
+I have asked Mr. Poirot
+to accompany the bonds.
+
+280
+00:17:32,209 --> 00:17:34,124
+He's letting me know
+later today.
+
+281
+00:17:34,334 --> 00:17:37,166
+With due respect, I can't
+quite see what's to be gained
+
+282
+00:17:37,292 --> 00:17:39,583
+by employing a Belgian.
+
+283
+00:17:46,334 --> 00:17:48,374
+It's just
+these bonds, Mr. Poirot.
+
+284
+00:17:48,500 --> 00:17:49,708
+The money.
+
+285
+00:17:51,125 --> 00:17:52,541
+I love Philip very much.
+
+286
+00:17:55,167 --> 00:17:56,958
+I know you will do
+everything you can,
+
+287
+00:17:57,084 --> 00:18:01,416
+but, please, I beg of you,
+keep an eye on Philip.
+
+288
+00:18:02,625 --> 00:18:05,833
+Come on, Johnathan.
+It's time we were home.
+
+289
+00:18:16,917 --> 00:18:20,374
+I've put in your blue tie
+and the mauve silk waistcoat.
+
+290
+00:18:21,500 --> 00:18:23,958
+And I shall take also
+the brown suit
+
+291
+00:18:24,292 --> 00:18:26,624
+and the two waistcoats
+that coordinate.
+
+292
+00:18:26,834 --> 00:18:31,249
+You can't take your
+entire wardrobe, Mr. Poirot.
+
+293
+00:18:32,667 --> 00:18:34,791
+-Poirot.
+-Ah, Hastings. Enfin.
+
+294
+00:18:35,542 --> 00:18:37,541
+You must begin at once
+the packing.
+
+295
+00:18:37,750 --> 00:18:39,666
+-We're going?
+-On the Queen Mary.
+
+296
+00:18:39,792 --> 00:18:40,791
+What, you and me?
+
+297
+00:18:40,917 --> 00:18:42,958
+Yes, Hastings,
+we travel with the bonds.
+
+298
+00:18:43,084 --> 00:18:45,416
+I have this confirmed
+with M. Vavasour this afternoon.
+
+299
+00:18:45,542 --> 00:18:47,291
+That's wonderful, Poirot!
+
+300
+00:18:47,417 --> 00:18:49,666
+What on earth
+made you change your mind?
+
+301
+00:18:50,334 --> 00:18:51,666
+I cannot refuse a lady.
+
+302
+00:18:52,250 --> 00:18:53,958
+Especially if she's a queen.
+
+303
+00:18:54,125 --> 00:18:56,291
+I promise you, Poirot, you won't
+have a twinge of seasickness.
+
+304
+00:18:56,417 --> 00:18:57,666
+So you say, mon ami.
+
+305
+00:18:57,917 --> 00:19:00,749
+But I take the precautions
+all the same.
+
+306
+00:19:57,209 --> 00:20:00,624
+$1 million in Liberty Bonds.
+
+307
+00:20:21,209 --> 00:20:23,124
+New York bound at last,
+
+308
+00:20:23,250 --> 00:20:25,333
+the Queen Mary
+on her maiden voyage.
+
+309
+00:20:25,709 --> 00:20:27,124
+Tens of thousands of people
+
+310
+00:20:27,250 --> 00:20:29,249
+have poured into Southampton
+to catch a glimpse
+
+311
+00:20:29,375 --> 00:20:31,791
+of the world's newest
+and greatest liner.
+
+312
+00:20:32,667 --> 00:20:35,791
+But what of the privileged few
+who will sail aboard her?
+
+313
+00:20:36,917 --> 00:20:39,499
+One or two will
+hardly remember the occasion,
+
+314
+00:20:39,750 --> 00:20:42,166
+whilst others are determined
+that this will be one trip
+
+315
+00:20:42,292 --> 00:20:43,874
+that they won't forget.
+
+316
+00:20:45,667 --> 00:20:47,374
+And here's a familiar face --
+
+317
+00:20:47,625 --> 00:20:50,499
+Europe's most famous detective,
+Hercule Poirot,
+
+318
+00:20:50,667 --> 00:20:52,999
+hot on the track
+of a well-deserved break
+
+319
+00:20:53,125 --> 00:20:55,708
+and looking forward
+to a life on the ocean way.
+
+320
+00:20:56,834 --> 00:20:58,624
+Another "case" for M. Poirot.
+
+321
+00:20:59,334 --> 00:21:02,541
+There are over 2,000 cases
+being loaded safely onboard.
+
+322
+00:21:02,750 --> 00:21:04,958
+And it's certainly
+an arresting sight
+
+323
+00:21:05,250 --> 00:21:09,624
+as the sailing hour arrives
+and the Queen Mary puts to sea.
+
+324
+00:21:12,959 --> 00:21:14,874
+And now our camera
+takes to the air
+
+325
+00:21:15,250 --> 00:21:18,791
+as Britain's newest liner leaves
+the sanctuary of home waters
+
+326
+00:21:19,084 --> 00:21:22,083
+and heads into the Atlantic
+Ocean for the first time.
+
+327
+00:21:22,542 --> 00:21:24,624
+But will she steal
+that blue ribbon?
+
+328
+00:21:25,584 --> 00:21:27,791
+It's currently held
+by the Normandie,
+
+329
+00:21:27,917 --> 00:21:30,124
+with a crossing time
+of just four days.
+
+330
+00:21:44,750 --> 00:21:46,541
+-Bonjour.
+-Morning.
+
+331
+00:21:52,334 --> 00:21:53,833
+Madame.
+
+332
+00:21:58,084 --> 00:22:00,666
+Good morning, Mr. Poirot.
+
+333
+00:22:00,917 --> 00:22:03,291
+Bonjour, mademoiselle.
+
+334
+00:22:29,750 --> 00:22:31,208
+Bonjour, Hastings.
+
+335
+00:22:32,334 --> 00:22:33,583
+Comment ça va?
+
+336
+00:22:33,792 --> 00:22:35,833
+Oh, I'm terrible.
+
+337
+00:22:37,042 --> 00:22:39,458
+I tell you, Poirot,
+it's not seasickness.
+
+338
+00:22:40,167 --> 00:22:42,083
+I'm never seasick.
+
+339
+00:22:43,292 --> 00:22:45,499
+Must have been
+that oyster last night.
+
+340
+00:22:45,709 --> 00:22:47,374
+If you wish, I have some pills.
+
+341
+00:22:48,209 --> 00:22:51,624
+Thank you, Poirot.
+I'll be perfectly all right.
+
+342
+00:22:56,250 --> 00:22:57,333
+Oh, I say, Poirot...
+
+343
+00:22:57,459 --> 00:22:58,374
+Oui?
+
+344
+00:22:58,500 --> 00:23:00,958
+There's a young lady
+in the cabin next door.
+
+345
+00:23:01,125 --> 00:23:02,749
+Yes, it is just now
+that we have met.
+
+346
+00:23:02,875 --> 00:23:04,124
+Miss Brooks.
+
+347
+00:23:04,750 --> 00:23:05,999
+Miranda.
+
+348
+00:23:06,459 --> 00:23:08,791
+We were supposed to
+go swimming together.
+
+349
+00:23:08,917 --> 00:23:11,499
+If you see her again,
+could you tell her I'm...
+
+350
+00:23:13,334 --> 00:23:14,958
+The bad oyster, no?
+
+351
+00:23:19,709 --> 00:23:21,333
+Oui.
+
+352
+00:23:41,500 --> 00:23:42,749
+Yes?
+
+353
+00:23:43,292 --> 00:23:44,958
+Bring it in.
+
+354
+00:23:53,500 --> 00:23:54,749
+Oh. Good morning.
+
+355
+00:23:56,209 --> 00:23:57,708
+Bonjour, M. Ridgeway.
+
+356
+00:23:58,709 --> 00:24:00,166
+I thought you were the steward.
+
+357
+00:24:01,292 --> 00:24:02,708
+No.
+
+358
+00:24:03,792 --> 00:24:05,249
+You have not yet had
+a breakfast.
+
+359
+00:24:05,375 --> 00:24:06,624
+No.
+
+360
+00:24:07,875 --> 00:24:10,999
+Actually, I had
+a bit of a night of it.
+
+361
+00:24:12,792 --> 00:24:14,499
+Oui.
+
+362
+00:24:16,042 --> 00:24:17,124
+And the portmanteau?
+
+363
+00:24:17,250 --> 00:24:18,499
+Oh.
+
+364
+00:24:20,250 --> 00:24:22,458
+The key's perfectly safe,
+Mr. Poirot.
+
+365
+00:24:23,500 --> 00:24:24,708
+You don't have to worry.
+
+366
+00:24:24,834 --> 00:24:26,291
+I'll keep the key in my pocket
+
+367
+00:24:26,417 --> 00:24:28,749
+and lock the cabin door
+each time I go out.
+
+368
+00:24:30,125 --> 00:24:32,583
+If you see the steward, could
+you ask him to get a move on?
+
+369
+00:24:32,709 --> 00:24:34,541
+I'm famished.
+
+370
+00:24:43,125 --> 00:24:44,416
+Well, hello again.
+
+371
+00:24:44,709 --> 00:24:46,124
+Ah, mademoiselle.
+
+372
+00:24:46,917 --> 00:24:49,291
+My friend, Captain Hastings,
+regrets that he is unable
+
+373
+00:24:49,417 --> 00:24:50,624
+to swim with you today.
+
+374
+00:24:50,750 --> 00:24:51,999
+Oh, that's okay.
+
+375
+00:24:52,209 --> 00:24:54,416
+I was feeling
+pretty terrible myself.
+
+376
+00:24:54,750 --> 00:24:56,249
+I was dancin' until 3:00.
+
+377
+00:24:56,667 --> 00:24:57,458
+Oh.
+
+378
+00:24:57,584 --> 00:24:59,833
+And yet you are traveling alone,
+Mlle. Brooks?
+
+379
+00:24:59,959 --> 00:25:02,291
+You're never alone
+on a ship, Mr. Poirot.
+
+380
+00:25:02,709 --> 00:25:03,583
+I'll see ya.
+
+381
+00:25:07,042 --> 00:25:10,541
+Mademoiselle, pardon, but...
+
+382
+00:25:12,042 --> 00:25:13,541
+What is the time?
+
+383
+00:25:17,875 --> 00:25:19,666
+It's just 9:30.
+
+384
+00:25:21,250 --> 00:25:23,166
+Thank you.
+
+385
+00:26:21,834 --> 00:26:23,083
+Ah, Mr. Poirot.
+
+386
+00:26:23,417 --> 00:26:25,083
+-Good morning.
+-Bonjour.
+
+387
+00:26:25,209 --> 00:26:26,499
+The captain
+sends his compliments,
+
+388
+00:26:26,625 --> 00:26:28,708
+but I'm afraid he won't be
+at his table tonight.
+
+389
+00:26:28,834 --> 00:26:29,749
+Oh, there is a problem?
+
+390
+00:26:29,875 --> 00:26:32,291
+There's been
+a patch of fog forecast, sir.
+
+391
+00:26:33,292 --> 00:26:34,791
+Nothing to concern you,
+
+392
+00:26:34,917 --> 00:26:37,333
+but the captain will have to
+remain on the bridge.
+
+393
+00:26:37,459 --> 00:26:40,083
+Ah, well. Please to convey
+my regrets to the captain.
+
+394
+00:26:40,209 --> 00:26:42,958
+Yes, sir. Looks as if this may
+lose us the blue ribbon.
+
+395
+00:26:43,084 --> 00:26:44,624
+I suppose
+there's always next time.
+
+396
+00:26:44,750 --> 00:26:45,499
+Oui.
+
+397
+00:26:45,625 --> 00:26:46,791
+Morning, sir.
+
+398
+00:26:46,917 --> 00:26:48,458
+Good morning.
+
+399
+00:27:21,667 --> 00:27:23,583
+Just a little fish for me,
+please.
+
+400
+00:27:23,792 --> 00:27:25,874
+Poached.
+With dry toast.
+
+401
+00:27:29,959 --> 00:27:31,208
+Merci beaucoup.
+
+402
+00:27:31,750 --> 00:27:34,416
+Mais c'est incroyable, eh?
+This ship that is not a ship.
+
+403
+00:27:34,542 --> 00:27:36,083
+It is, how you say, a marvel.
+
+404
+00:27:38,042 --> 00:27:39,291
+Yes, Poirot.
+
+405
+00:27:39,709 --> 00:27:42,333
+Ah, but of course my poor
+Hastings, he still has the --
+
+406
+00:27:42,459 --> 00:27:43,833
+Food poisoning.
+
+407
+00:27:45,417 --> 00:27:48,166
+Evening, Ridgeway.
+Can we count you in tonight?
+
+408
+00:27:49,292 --> 00:27:50,374
+I'll be there.
+
+409
+00:27:50,500 --> 00:27:52,999
+See if you can win back
+some of that money, eh?
+
+410
+00:27:55,959 --> 00:27:57,208
+You play the cards?
+
+411
+00:27:57,500 --> 00:27:58,624
+Yes.
+
+412
+00:27:58,750 --> 00:27:59,999
+It passes the time.
+
+413
+00:28:00,334 --> 00:28:03,541
+And it's all very friendly.
+We just play for a few pounds.
+
+414
+00:28:04,000 --> 00:28:05,958
+Ah. Merci.
+
+415
+00:28:08,084 --> 00:28:09,874
+Ah!
+Les cervelles au beurre.
+
+416
+00:28:10,584 --> 00:28:11,916
+Oh, what's that?
+
+417
+00:28:13,084 --> 00:28:16,916
+It is the brains of the calf
+fried in butter.
+
+418
+00:28:19,292 --> 00:28:22,874
+I think perhaps I'll go
+and have another lie-down.
+
+419
+00:28:42,709 --> 00:28:45,333
+Bye! Bye.
+
+420
+00:28:52,959 --> 00:28:54,499
+Queens high, damn it.
+
+421
+00:28:56,375 --> 00:28:57,791
+Well...
+
+422
+00:29:00,375 --> 00:29:02,041
+I'm afraid you're blown,
+Ridgeway.
+
+423
+00:29:05,917 --> 00:29:07,416
+Yes.
+
+424
+00:29:09,792 --> 00:29:12,374
+I'm sure you'll accept an IOU.
+
+425
+00:30:09,959 --> 00:30:11,708
+Oh, Miss Brooks.
+Miranda.
+
+426
+00:30:12,209 --> 00:30:14,541
+Why, Captain Hastings.
+Can't you sleep?
+
+427
+00:30:15,917 --> 00:30:17,166
+No, no, I couldn't.
+
+428
+00:30:17,667 --> 00:30:18,958
+I thought I heard...
+
+429
+00:30:19,584 --> 00:30:21,666
+Someone didn't go overboard
+just now, did they?
+
+430
+00:30:21,792 --> 00:30:23,124
+Only the orchestra.
+
+431
+00:30:23,625 --> 00:30:25,583
+But they've been going overboard
+all night.
+
+432
+00:30:25,709 --> 00:30:28,249
+Yes.
+I'm sorry I couldn't join you.
+
+433
+00:30:29,042 --> 00:30:31,124
+Why, I'm sorry
+you couldn't make it.
+
+434
+00:30:31,334 --> 00:30:33,666
+Still, we'll be in New York
+in a few hours.
+
+435
+00:30:35,042 --> 00:30:36,291
+Perhaps we could, um...
+
+436
+00:30:36,417 --> 00:30:38,416
+Yes, well,
+maybe we'll meet again.
+
+437
+00:30:40,042 --> 00:30:41,124
+Well, then.
+
+438
+00:30:41,250 --> 00:30:42,499
+Yes.
+
+439
+00:30:43,667 --> 00:30:44,916
+Miss Brooks?
+
+440
+00:30:45,667 --> 00:30:47,916
+Good night, Captain Hastings.
+
+441
+00:31:04,250 --> 00:31:05,833
+Ridgeway?
+
+442
+00:31:25,500 --> 00:31:26,916
+Captain Hastings.
+
+443
+00:31:27,167 --> 00:31:28,416
+Ridgeway!
+
+444
+00:31:28,625 --> 00:31:29,833
+The bonds!
+
+445
+00:31:42,125 --> 00:31:43,749
+Wait here, please.
+
+446
+00:31:46,209 --> 00:31:48,083
+Is it really true?
+They've gone?
+
+447
+00:31:49,334 --> 00:31:50,833
+Yes, sir.
+I'm afraid so.
+
+448
+00:31:51,875 --> 00:31:54,124
+But they're an hour
+from New York, you said.
+
+449
+00:31:54,250 --> 00:31:55,749
+They must still be on the ship.
+
+450
+00:31:55,875 --> 00:31:58,666
+I've cabled them to start
+a person-to-person search, sir,
+
+451
+00:31:58,792 --> 00:32:02,249
+but, uh, it would be easier
+if I were there.
+
+452
+00:32:03,125 --> 00:32:04,374
+They must be found.
+
+453
+00:32:05,000 --> 00:32:07,666
+If the bonds are sold, it could
+bring down the entire bank.
+
+454
+00:32:07,792 --> 00:32:09,124
+I'm aware of that, sir.
+
+455
+00:32:09,584 --> 00:32:11,833
+Which is why I must ask you
+one question.
+
+456
+00:32:11,959 --> 00:32:13,541
+Of course. Anything.
+
+457
+00:32:14,417 --> 00:32:16,749
+Do you still have the key
+I gave you?
+
+458
+00:32:20,084 --> 00:32:21,833
+It hasn't left my sight.
+
+459
+00:32:24,084 --> 00:32:26,958
+Britain's greatest
+liner steams into New York
+
+460
+00:32:27,084 --> 00:32:29,208
+at the end
+of her first Atlantic crossing
+
+461
+00:32:29,334 --> 00:32:30,458
+without the blue ribbon
+
+462
+00:32:30,584 --> 00:32:32,791
+after fog delayed her
+for more than 11 hours.
+
+463
+00:32:32,917 --> 00:32:35,249
+Even so, New York gave
+a frenzied welcome
+
+464
+00:32:35,834 --> 00:32:37,499
+to Britain's queen of the sea.
+
+465
+00:32:38,375 --> 00:32:41,624
+The crossing was completed
+in 4 days, 12 hours, 24 minutes
+
+466
+00:32:41,792 --> 00:32:43,541
+at an average speed of 29 knots.
+
+467
+00:32:44,709 --> 00:32:46,958
+And just listen
+to that roar of welcome.
+
+468
+00:32:53,667 --> 00:32:55,999
+I swear to heaven, Mr. Poirot.
+
+469
+00:32:56,709 --> 00:32:58,124
+I had the key all the time.
+
+470
+00:32:59,334 --> 00:33:01,166
+And where were you all night,
+Mr. Ridgeway?
+
+471
+00:33:01,292 --> 00:33:02,583
+I was playing cards.
+
+472
+00:33:03,417 --> 00:33:05,541
+I know I should have been here,
+but...
+
+473
+00:33:06,084 --> 00:33:07,624
+I suppose
+it's a weakness of mine.
+
+474
+00:33:07,750 --> 00:33:08,999
+Gambling.
+
+475
+00:33:09,334 --> 00:33:10,624
+How much did you lose?
+
+476
+00:33:11,625 --> 00:33:12,874
+About £100.
+
+477
+00:33:14,125 --> 00:33:16,083
+And the same the night before.
+
+478
+00:33:16,667 --> 00:33:18,749
+This doesn't look too good
+for me, does it?
+
+479
+00:33:18,875 --> 00:33:20,291
+Leave us, M. Ridgeway.
+
+480
+00:33:20,667 --> 00:33:22,958
+We shall speak again later.
+
+481
+00:33:25,709 --> 00:33:28,166
+I'll go and make my report
+to the captain.
+
+482
+00:33:32,209 --> 00:33:33,791
+I say.
+Look at this, Poirot.
+
+483
+00:33:34,084 --> 00:33:36,124
+It's all cut and scratched
+at the back here.
+
+484
+00:33:36,250 --> 00:33:38,249
+Oui.
+This I have examined already.
+
+485
+00:33:38,667 --> 00:33:41,291
+Almost as if someone
+tried to force it but couldn't.
+
+486
+00:33:41,417 --> 00:33:42,999
+Précisément.
+
+487
+00:33:43,875 --> 00:33:46,083
+But then they managed
+to unlock it anyway.
+
+488
+00:33:46,209 --> 00:33:47,416
+Hmm.
+
+489
+00:33:47,542 --> 00:33:49,333
+Curious.
+It is very curious.
+
+490
+00:33:51,084 --> 00:33:53,833
+They waste much, much time
+trying to pry it open,
+
+491
+00:33:54,667 --> 00:33:57,958
+and then, sapristi, they find
+they have the key all the time.
+
+492
+00:33:58,084 --> 00:34:01,291
+Unless they wanted to make it
+look as if it'd been forced.
+
+493
+00:34:01,584 --> 00:34:03,041
+Oui. C'est possible.
+
+494
+00:34:03,584 --> 00:34:05,666
+But then
+it must have been Ridgeway.
+
+495
+00:34:06,209 --> 00:34:07,499
+Nobody else had a key.
+
+496
+00:34:07,709 --> 00:34:09,208
+You are disappointed?
+
+497
+00:34:09,500 --> 00:34:11,791
+Well, I mean, I think he's
+a bit of an ass in many ways,
+
+498
+00:34:11,917 --> 00:34:13,333
+but I didn't think
+he had it in him to --
+
+499
+00:34:13,459 --> 00:34:16,916
+No.
+Neither did I, mon ami.
+
+500
+00:34:18,584 --> 00:34:21,791
+-We have to find them, McNeil.
+-Yes, sir.
+
+501
+00:34:23,625 --> 00:34:25,541
+Or the person
+who stole them, sir.
+
+502
+00:34:25,709 --> 00:34:26,791
+Quite.
+
+503
+00:34:26,917 --> 00:34:28,791
+-Mr. Shaw had his key?
+-Yes, sir.
+
+504
+00:34:29,542 --> 00:34:31,916
+-Yes, of course he had.
+-Do you have yours, sir?
+
+505
+00:34:32,042 --> 00:34:33,333
+-What?
+-Your key.
+
+506
+00:34:33,625 --> 00:34:36,166
+-Of course I have.
+-May I see it, please, sir?
+
+507
+00:34:37,250 --> 00:34:38,999
+Really, McNeil!
+
+508
+00:34:43,334 --> 00:34:44,583
+So I came out here,
+
+509
+00:34:46,250 --> 00:34:48,666
+went over to the rail here.
+
+510
+00:34:52,250 --> 00:34:57,041
+Then I heard a splash, which
+seemed to come from over there.
+
+511
+00:35:02,000 --> 00:35:03,749
+And this is where I met Miranda.
+
+512
+00:35:05,084 --> 00:35:06,166
+Mlle. Brooks?
+
+513
+00:35:06,292 --> 00:35:08,583
+Yes.
+She came from over there.
+
+514
+00:35:10,792 --> 00:35:12,291
+Now, the cabin of M. Ridgeway --
+
+515
+00:35:12,417 --> 00:35:14,458
+It looks out onto this deck,
+does it not?
+
+516
+00:35:14,584 --> 00:35:15,833
+Yes.
+Yes, it does.
+
+517
+00:35:16,542 --> 00:35:18,333
+But she was carrying nothing?
+
+518
+00:35:18,959 --> 00:35:20,208
+No.
+
+519
+00:35:21,042 --> 00:35:22,333
+If she had taken them,
+
+520
+00:35:23,042 --> 00:35:24,749
+she could have
+thrown them overboard,
+
+521
+00:35:24,875 --> 00:35:27,541
+and then they could have drifted
+into New York.
+
+522
+00:35:28,459 --> 00:35:29,708
+And then...
+
+523
+00:35:30,750 --> 00:35:33,791
+perhaps they grew
+the little fins and swam ashore.
+
+524
+00:35:35,125 --> 00:35:36,374
+Yes.
+
+525
+00:35:37,042 --> 00:35:38,999
+It is a stupid idea.
+
+526
+00:35:41,500 --> 00:35:43,416
+Au contraire, my dear Hastings.
+
+527
+00:35:44,500 --> 00:35:47,166
+You are as perceptive as ever.
+
+528
+00:35:57,459 --> 00:35:59,041
+Wait a minute.
+
+529
+00:36:01,167 --> 00:36:03,124
+It was here.
+
+530
+00:36:05,167 --> 00:36:08,374
+Mr. Vavasour, do you realize
+how serious this matter is?
+
+531
+00:36:08,959 --> 00:36:10,208
+Of course I do.
+
+532
+00:36:10,542 --> 00:36:12,416
+This is a matter
+for the police now.
+
+533
+00:36:12,542 --> 00:36:13,999
+-Police?
+-Yes, sir.
+
+534
+00:36:15,209 --> 00:36:17,458
+Your key,
+your secretary's fiancé,
+
+535
+00:36:18,084 --> 00:36:20,874
+and your idea to send the bonds
+in the first place.
+
+536
+00:36:21,000 --> 00:36:22,416
+McNeil, you work for me.
+
+537
+00:36:24,042 --> 00:36:26,124
+I think you better
+come with me, sir.
+
+538
+00:36:26,584 --> 00:36:28,958
+Down to the Yard.
+
+539
+00:36:30,959 --> 00:36:33,708
+Ah, Mr. Poirot.
+Have you made any progress, sir?
+
+540
+00:36:34,917 --> 00:36:36,083
+We make great steps.
+
+541
+00:36:36,209 --> 00:36:37,708
+Oh, I wish I could say the same.
+
+542
+00:36:37,834 --> 00:36:39,624
+This gentleman
+is a customs officer, sir.
+
+543
+00:36:39,750 --> 00:36:41,624
+The name's Franklin, sir.
+Tom Franklin.
+
+544
+00:36:41,750 --> 00:36:43,374
+And may I say
+what an honor it is
+
+545
+00:36:43,500 --> 00:36:46,166
+to shake the hand
+of the famous Hercule Poirot.
+
+546
+00:36:46,292 --> 00:36:47,541
+Thank you.
+
+547
+00:36:48,000 --> 00:36:49,541
+You have begun the search,
+M. Franklin?
+
+548
+00:36:49,667 --> 00:36:50,874
+Yes, sir,
+and I have to tell you,
+
+549
+00:36:51,000 --> 00:36:52,958
+a bent dime
+couldn't get past my men.
+
+550
+00:36:53,084 --> 00:36:54,374
+But so far, nothing.
+
+551
+00:36:55,167 --> 00:36:56,958
+Has Miss Brooks gone ashore yet?
+
+552
+00:36:57,250 --> 00:36:59,624
+Blond American girl.
+Very beautiful.
+
+553
+00:36:59,750 --> 00:37:02,374
+Sir, there are
+over 1,000 passengers onboard.
+
+554
+00:37:02,500 --> 00:37:04,541
+In any case, officer,
+you are too late.
+
+555
+00:37:04,667 --> 00:37:05,583
+Too late?
+
+556
+00:37:05,709 --> 00:37:07,999
+The bonds will not be found
+on the passengers,
+
+557
+00:37:08,125 --> 00:37:09,624
+and they are not on this ship.
+
+558
+00:37:09,750 --> 00:37:11,041
+That's impossible, sir.
+
+559
+00:37:11,167 --> 00:37:13,041
+They can't have
+got off the ship.
+
+560
+00:37:13,167 --> 00:37:15,583
+I assure you, gentlemen,
+that is the case.
+
+561
+00:37:15,709 --> 00:37:16,999
+There is nothing more
+for us here.
+
+562
+00:37:17,125 --> 00:37:19,874
+Hastings, you and I must return
+to London at once.
+
+563
+00:37:20,000 --> 00:37:22,791
+-And Mr. Ridgeway?
+-He will be returning with us.
+
+564
+00:37:23,250 --> 00:37:25,458
+But what about the search,
+Mr. Poirot?
+
+565
+00:37:25,667 --> 00:37:27,958
+Your Mr. McNeil
+was pretty insistent.
+
+566
+00:37:29,125 --> 00:37:33,416
+I assure you, officer,
+M. McNeil does not belong to me.
+
+567
+00:37:35,459 --> 00:37:37,458
+Mr. McNeil,
+where is Mr. Vavasour?
+
+568
+00:37:38,125 --> 00:37:40,083
+He is at the police station,
+Miss Dalgleish.
+
+569
+00:37:40,209 --> 00:37:41,458
+The police? Why?
+
+570
+00:37:42,375 --> 00:37:45,916
+I'm afraid that is confidential
+information, Miss Dalgleish.
+
+571
+00:37:46,042 --> 00:37:48,249
+He is the general manager
+of this bank,
+
+572
+00:37:48,417 --> 00:37:49,749
+and I am his secretary.
+
+573
+00:37:50,000 --> 00:37:51,416
+That makes no difference.
+
+574
+00:37:51,542 --> 00:37:53,958
+I have a right to know.
+This is ridiculous.
+
+575
+00:37:54,542 --> 00:37:56,458
+But let me remind you,
+Mr. McNeil.
+
+576
+00:37:56,792 --> 00:37:58,916
+In a few days,
+Mr. Poirot will be back.
+
+577
+00:37:59,334 --> 00:38:00,958
+I don't see how he can help.
+
+578
+00:38:09,167 --> 00:38:10,708
+And home again!
+
+579
+00:38:10,834 --> 00:38:13,041
+The Queen Mary returns
+to home waters.
+
+580
+00:38:14,125 --> 00:38:15,541
+And as we circle 'round,
+
+581
+00:38:16,084 --> 00:38:17,916
+another member
+of the line passes --
+
+582
+00:38:18,042 --> 00:38:20,166
+the Berengaria, outward bound --
+
+583
+00:38:20,542 --> 00:38:22,458
+two great vessels
+passing at sea.
+
+584
+00:38:23,709 --> 00:38:26,624
+And now the Queen Mary
+heads into Southampton water
+
+585
+00:38:26,834 --> 00:38:28,249
+and prepares to berth.
+
+586
+00:38:28,959 --> 00:38:31,208
+Many happy returns
+to your home waters.
+
+587
+00:39:04,667 --> 00:39:07,041
+Good to be home, eh, Poirot?
+
+588
+00:39:11,000 --> 00:39:12,833
+Oh, look.
+There's your fiancée.
+
+589
+00:39:21,042 --> 00:39:22,291
+Officers.
+
+590
+00:39:22,417 --> 00:39:23,666
+Yes, sir?
+
+591
+00:39:24,084 --> 00:39:25,333
+Mr. Poirot.
+
+592
+00:39:26,417 --> 00:39:27,833
+I want you to arrest this man
+
+593
+00:39:27,959 --> 00:39:30,583
+for the theft of $1 million
+in the Liberty Bonds.
+
+594
+00:39:30,709 --> 00:39:31,833
+What?!
+
+595
+00:39:31,959 --> 00:39:33,208
+I say, Poirot.
+
+596
+00:39:33,375 --> 00:39:34,624
+If you say so, sir.
+
+597
+00:39:34,959 --> 00:39:36,291
+Come on, you.
+
+598
+00:39:39,584 --> 00:39:41,708
+How could you?!
+
+599
+00:39:49,667 --> 00:39:52,208
+It looked such a beautiful ship,
+Mr. Poirot.
+
+600
+00:39:52,875 --> 00:39:56,124
+It was indeed an experience
+most remarkable, Miss Lemon.
+
+601
+00:39:56,334 --> 00:39:58,916
+I'm only sorry it wasn't all
+more successful.
+
+602
+00:39:59,667 --> 00:40:01,124
+But it was a great success.
+
+603
+00:40:02,250 --> 00:40:04,458
+Not once did I succumb
+to the mal de mer.
+
+604
+00:40:05,167 --> 00:40:07,416
+-Poirot.
+-Ah, Hastings, you are ready.
+
+605
+00:40:08,417 --> 00:40:10,458
+We have played the games
+long enough, Hastings.
+
+606
+00:40:10,584 --> 00:40:13,499
+it is now time
+to settle the scores.
+
+607
+00:40:31,375 --> 00:40:32,874
+Mr. Poirot!
+
+608
+00:40:33,834 --> 00:40:35,124
+This is monstrous.
+
+609
+00:40:35,334 --> 00:40:37,416
+I do not know
+what happened to my key.
+
+610
+00:40:37,917 --> 00:40:39,916
+When did you notice it had gone,
+M. Vavasour?
+
+611
+00:40:40,042 --> 00:40:41,666
+Only when McNeil asked for it.
+
+612
+00:40:41,792 --> 00:40:44,124
+Eh bien. Who, then,
+had access to your office?
+
+613
+00:40:44,250 --> 00:40:45,749
+Myself, my secretary.
+
+614
+00:40:46,625 --> 00:40:48,458
+One more question,
+if you please, monsieur.
+
+615
+00:40:48,584 --> 00:40:50,749
+before the departure
+of the Queen Mary,
+
+616
+00:40:50,875 --> 00:40:53,583
+who was it that put the bonds
+into the portmanteau?
+
+617
+00:40:53,709 --> 00:40:54,958
+I did. Why?
+
+618
+00:40:55,375 --> 00:40:56,916
+It is just as I thought,
+monsieur.
+
+619
+00:40:57,042 --> 00:40:59,166
+And it tells me
+all that I need to know.
+
+620
+00:40:59,584 --> 00:41:01,166
+Thank you.
+
+621
+00:41:03,709 --> 00:41:05,583
+Mr. Poirot.
+
+622
+00:41:07,042 --> 00:41:08,624
+Where now?
+
+623
+00:41:25,417 --> 00:41:29,291
+I don't suppose you'd care
+to tell me what's going on.
+
+624
+00:41:33,334 --> 00:41:36,166
+You know, Poirot, you really are
+quite impossible.
+
+625
+00:41:37,459 --> 00:41:40,041
+-Why, Hastings?
+-You never tell me anything.
+
+626
+00:41:40,459 --> 00:41:43,499
+I have no idea where we are
+or where we're going.
+
+627
+00:41:47,375 --> 00:41:49,749
+Have patience, mon ami.
+
+628
+00:41:52,292 --> 00:41:54,833
+Soon all will be made clear.
+
+629
+00:41:58,000 --> 00:41:59,249
+You!
+
+630
+00:41:59,875 --> 00:42:01,291
+You must understand,
+mademoiselle,
+
+631
+00:42:01,417 --> 00:42:02,874
+that I am only trying
+to help you.
+
+632
+00:42:03,000 --> 00:42:05,916
+You arrest my fiancé.
+McNeil arrests Mr. Vavasour.
+
+633
+00:42:06,375 --> 00:42:07,833
+You're both as bad
+as each other!
+
+634
+00:42:07,959 --> 00:42:10,249
+Je vous en prie, mademoiselle.
+Have patience.
+
+635
+00:42:11,834 --> 00:42:13,208
+Well?
+
+636
+00:42:14,709 --> 00:42:15,958
+When you came to see me,
+
+637
+00:42:16,417 --> 00:42:19,208
+it was because you are afraid
+of Mr. Ridgeway, no?
+
+638
+00:42:19,500 --> 00:42:20,749
+I was afraid for him.
+
+639
+00:42:21,042 --> 00:42:22,666
+No, no, no, mademoiselle.
+
+640
+00:42:22,792 --> 00:42:24,458
+You knew he was a gambler
+most compulsive.
+
+641
+00:42:24,584 --> 00:42:25,833
+You knew of his debts.
+
+642
+00:42:25,959 --> 00:42:28,124
+And it was for this reason
+that he sold his car.
+
+643
+00:42:28,250 --> 00:42:29,499
+Yes?
+
+644
+00:42:30,084 --> 00:42:31,624
+I can't deny it, Mr. Poirot.
+
+645
+00:42:31,750 --> 00:42:32,999
+You seem to know.
+
+646
+00:42:33,167 --> 00:42:35,249
+And you were also afraid,
+were you not,
+
+647
+00:42:35,375 --> 00:42:38,708
+that if he were entrusted with
+the $1 million Liberty Bonds
+
+648
+00:42:39,125 --> 00:42:41,249
+that he would take them
+and disappear.
+
+649
+00:42:41,375 --> 00:42:43,916
+-I --
+-You wished to protect him, mademoiselle.
+
+650
+00:42:45,209 --> 00:42:46,541
+And it is for this reason
+
+651
+00:42:46,750 --> 00:42:48,541
+that you stole the key
+of your employer.
+
+652
+00:42:48,667 --> 00:42:50,124
+I don't know what you mean!
+
+653
+00:42:50,792 --> 00:42:52,999
+Please, mademoiselle,
+do not try to deceive me!
+
+654
+00:42:53,125 --> 00:42:54,249
+I know!
+
+655
+00:42:56,042 --> 00:42:58,083
+You took the key?
+
+656
+00:43:02,459 --> 00:43:04,583
+Because you wish to save
+M. Ridgeway,
+
+657
+00:43:05,125 --> 00:43:06,666
+you are willing
+to let us believe
+
+658
+00:43:06,792 --> 00:43:08,291
+that the key that opened
+the portmanteau
+
+659
+00:43:08,417 --> 00:43:10,583
+was the key of your employer,
+M. Vavasour.
+
+660
+00:43:10,709 --> 00:43:13,583
+But I'm afraid, mademoiselle,
+that will not work.
+
+661
+00:43:14,167 --> 00:43:17,749
+Because the keys
+have nothing to do with it.
+
+662
+00:43:28,417 --> 00:43:30,333
+Why have you dragged me here,
+Mr. Poirot?
+
+663
+00:43:30,459 --> 00:43:32,999
+I thought it might be
+instructive for you, M. McNeil.
+
+664
+00:43:47,584 --> 00:43:48,708
+Is it really true?
+
+665
+00:43:48,834 --> 00:43:51,249
+Both Mr. Vavasour
+and Ridgeway arrested?
+
+666
+00:43:51,417 --> 00:43:53,333
+Well, one of them
+stole the bonds.
+
+667
+00:43:53,750 --> 00:43:55,749
+Ah, no, no, no.
+They stole nothing.
+
+668
+00:43:57,250 --> 00:43:59,208
+Indeed, there was
+nothing to steal.
+
+669
+00:43:59,334 --> 00:44:00,583
+You see, M. McNeil,
+
+670
+00:44:03,167 --> 00:44:06,374
+the bonds were taken long before
+the Queen Mary set sail.
+
+671
+00:44:07,375 --> 00:44:08,916
+But that's impossible.
+
+672
+00:44:09,042 --> 00:44:10,999
+We were with the portmanteau
+all the time.
+
+673
+00:44:11,125 --> 00:44:13,124
+No. No, no, no.
+Pas du tout, mon ami.
+
+674
+00:44:13,292 --> 00:44:16,208
+M. Vavasour, he put the bonds
+into the portmanteau.
+
+675
+00:44:17,125 --> 00:44:19,374
+And the eyesight of M. Vavasour
+is poor.
+
+676
+00:44:19,750 --> 00:44:21,041
+He told us so himself.
+
+677
+00:44:22,417 --> 00:44:24,124
+$1 million in Liberty Bonds.
+
+678
+00:44:25,375 --> 00:44:26,624
+No.
+
+679
+00:44:26,834 --> 00:44:30,083
+He would not have noticed that
+the bonds that he was holding
+
+680
+00:44:30,209 --> 00:44:32,291
+were all forgeries.
+
+681
+00:44:33,709 --> 00:44:36,083
+-Forgeries?
+-Wait a minute.
+
+682
+00:44:36,209 --> 00:44:38,416
+You mean the bonds
+on the Queen Mary were fakes?
+
+683
+00:44:38,542 --> 00:44:39,958
+Exactly that, mon ami.
+
+684
+00:44:40,542 --> 00:44:42,791
+But why?
+What good would that do anyone?
+
+685
+00:44:43,292 --> 00:44:44,833
+Mr. Shaw has got to rest now.
+
+686
+00:44:45,375 --> 00:44:46,666
+Ah.
+Yes, of course.
+
+687
+00:44:47,792 --> 00:44:49,833
+Hastings.
+
+688
+00:44:51,250 --> 00:44:54,958
+Ah, Miss Long, pardon,
+but what is the time?
+
+689
+00:44:56,584 --> 00:44:58,583
+It's 10 past 4:00.
+
+690
+00:44:59,917 --> 00:45:01,124
+C'est ça.
+
+691
+00:45:02,667 --> 00:45:04,249
+Ah, mademoiselle...
+
+692
+00:45:04,750 --> 00:45:07,208
+Pardon, but...
+
+693
+00:45:08,459 --> 00:45:09,666
+What is the time?
+
+694
+00:45:12,709 --> 00:45:14,083
+It's just 9:30.
+
+695
+00:45:15,292 --> 00:45:18,916
+On the ship also
+I asked you the same question.
+
+696
+00:45:20,834 --> 00:45:22,749
+The disguise was to perfection.
+
+697
+00:45:22,917 --> 00:45:25,124
+But the movement
+was exactly the same.
+
+698
+00:45:27,250 --> 00:45:29,583
+It was the movement
+of an experienced nurse
+
+699
+00:45:29,709 --> 00:45:31,499
+who always wears the watch
+on her chest.
+
+700
+00:45:34,709 --> 00:45:35,958
+Miranda?
+
+701
+00:45:36,209 --> 00:45:37,458
+Mlle. Brooks.
+
+702
+00:45:38,584 --> 00:45:39,833
+Or Mlle. Long.
+
+703
+00:45:41,000 --> 00:45:43,166
+Who traveled with a copy
+of one of the keys,
+
+704
+00:45:43,292 --> 00:45:46,708
+who stole the bonds that were
+fake, and who disposed of them.
+
+705
+00:45:47,667 --> 00:45:49,166
+I don't know
+what you're talking about.
+
+706
+00:45:49,292 --> 00:45:50,458
+You're talking gibberish.
+
+707
+00:45:50,584 --> 00:45:51,833
+Well, she can't be.
+
+708
+00:45:52,250 --> 00:45:54,499
+Miranda Brooks
+was an absolute stunner.
+
+709
+00:45:54,625 --> 00:45:57,208
+M. Philip Ridgeway
+would take the blame, huh?
+
+710
+00:45:57,625 --> 00:45:59,583
+M. Ridgeway, with the problems
+of his gambling,
+
+711
+00:45:59,709 --> 00:46:01,124
+he would be the obvious suspect.
+
+712
+00:46:01,250 --> 00:46:04,333
+He would become the,
+how do you say, the... scapegoat.
+
+713
+00:46:05,000 --> 00:46:06,291
+But he did steal them.
+
+714
+00:46:06,417 --> 00:46:07,541
+He was the one
+traveling with them.
+
+715
+00:46:07,667 --> 00:46:10,041
+Precisely what you were intended
+to think, M. McNeil.
+
+716
+00:46:10,167 --> 00:46:11,666
+That was why it was essential
+
+717
+00:46:11,792 --> 00:46:13,791
+that M. Ridgeway
+should be on that boat.
+
+718
+00:46:13,917 --> 00:46:15,249
+No, it was Mlle. Brooks
+
+719
+00:46:16,334 --> 00:46:18,708
+who tried to kill M. Shaw
+with the motorcar.
+
+720
+00:46:18,834 --> 00:46:21,416
+Oh!
+
+721
+00:46:23,584 --> 00:46:26,791
+It was Mlle. Brooks
+who arranged the poisoning.
+
+722
+00:46:28,167 --> 00:46:30,833
+Miranda planned all that?
+
+723
+00:46:33,750 --> 00:46:35,958
+All right. Yes.
+
+724
+00:46:37,375 --> 00:46:39,041
+Here you are.
+
+725
+00:46:42,334 --> 00:46:43,916
+Good Lord.
+
+726
+00:46:46,167 --> 00:46:49,541
+What are you going to do?
+Call the police?
+
+727
+00:46:51,417 --> 00:46:52,791
+All right.
+Let's get on with it.
+
+728
+00:46:52,917 --> 00:46:53,999
+All this talk.
+
+729
+00:46:54,125 --> 00:46:55,916
+No, no, no, no, mademoiselle.
+
+730
+00:46:56,834 --> 00:46:59,333
+One step at a time.
+
+731
+00:47:01,209 --> 00:47:02,624
+You see, Mlle. Brooks,
+
+732
+00:47:03,584 --> 00:47:05,499
+she now makes
+the attempt gallant
+
+733
+00:47:05,875 --> 00:47:07,541
+to shield her accomplice.
+
+734
+00:47:08,000 --> 00:47:09,166
+Ridgeway.
+
+735
+00:47:11,084 --> 00:47:12,333
+No.
+
+736
+00:47:13,209 --> 00:47:14,791
+How simple it would have been
+
+737
+00:47:16,209 --> 00:47:18,083
+for M. Shaw
+to remove those bonds
+
+738
+00:47:18,709 --> 00:47:20,249
+that were entrusted to him
+
+739
+00:47:20,500 --> 00:47:22,291
+if he had taken them
+onboard the boat, eh?
+
+740
+00:47:22,417 --> 00:47:24,083
+Too simple.
+Too obvious.
+
+741
+00:47:25,375 --> 00:47:27,833
+The bank would have known
+precisely where to look.
+
+742
+00:47:28,917 --> 00:47:32,041
+Are you implying that I was
+in some way involved in this?
+
+743
+00:47:32,250 --> 00:47:33,499
+I was bedridden.
+
+744
+00:47:34,334 --> 00:47:36,208
+Yes, of course you were,
+M. Shaw.
+
+745
+00:47:36,834 --> 00:47:38,124
+With the poison...
+
+746
+00:47:39,459 --> 00:47:40,708
+that was fake.
+
+747
+00:47:41,625 --> 00:47:44,374
+As was the attempt to kill you
+with the motorcar.
+
+748
+00:47:45,125 --> 00:47:48,041
+It was all part of your plan
+to get M. Philip Ridgeway
+
+749
+00:47:48,250 --> 00:47:49,916
+to take your place on the boat.
+
+750
+00:47:50,042 --> 00:47:51,499
+But Mr. Shaw still had his key.
+
+751
+00:47:51,625 --> 00:47:53,041
+Oh, no, no, no, M. McNeil.
+
+752
+00:47:53,417 --> 00:47:54,666
+He had a copy of his key.
+
+753
+00:47:56,042 --> 00:48:00,624
+Mlle. Brooks,
+she had the real one.
+
+754
+00:48:03,167 --> 00:48:04,874
+Oh, God.
+
+755
+00:48:12,000 --> 00:48:14,541
+I'm sorry, Miranda.
+
+756
+00:48:15,917 --> 00:48:17,208
+You are husband and wife?
+
+757
+00:48:18,125 --> 00:48:19,374
+No.
+
+758
+00:48:20,292 --> 00:48:22,041
+But we intended to be.
+
+759
+00:48:23,750 --> 00:48:24,624
+I'm sorry.
+
+760
+00:48:26,000 --> 00:48:27,249
+Don't be.
+
+761
+00:48:28,250 --> 00:48:29,416
+Prison can't be much worse
+
+762
+00:48:29,542 --> 00:48:33,208
+than 25 years at the
+London and Scottish Bank.
+
+763
+00:48:39,792 --> 00:48:42,458
+All right, Ridgeway.
+You're done.
+
+764
+00:48:44,750 --> 00:48:46,916
+Where's McNeil?
+
+765
+00:48:53,417 --> 00:48:55,999
+I don't see why you had to
+have me arrested, though.
+
+766
+00:48:56,125 --> 00:48:57,791
+Because, M. Ridgeway, I saw
+
+767
+00:48:58,084 --> 00:49:00,333
+the loan sharks waiting for you
+at Southampton,
+
+768
+00:49:00,459 --> 00:49:02,791
+and I thought you'd be safer
+in the police cell.
+
+769
+00:49:02,917 --> 00:49:04,708
+Well, that's true, I suppose.
+
+770
+00:49:04,959 --> 00:49:07,291
+Yeah, and it also allowed
+the real culprits
+
+771
+00:49:07,417 --> 00:49:09,124
+to relax their guard
+a little, huh?
+
+772
+00:49:09,250 --> 00:49:11,916
+I can't tell you how much
+we owe you, Mr. Poirot.
+
+773
+00:49:12,209 --> 00:49:14,749
+I've been promoted
+to joint general manager.
+
+774
+00:49:14,875 --> 00:49:16,124
+I paid off all my debts.
+
+775
+00:49:16,417 --> 00:49:18,291
+And there aren't going to be
+any more.
+
+776
+00:49:18,417 --> 00:49:20,458
+Thank you for everything.
+
+777
+00:49:23,084 --> 00:49:24,999
+-And goodbye.
+-Goodbye.
+
+778
+00:49:31,250 --> 00:49:32,999
+Au revoir.
+
+779
+00:49:39,959 --> 00:49:42,708
+We deserve to celebrate
+a little, eh, Hastings?
+
+780
+00:49:44,000 --> 00:49:45,458
+A glass of crème de menthe?
+
+781
+00:49:47,792 --> 00:49:48,749
+Ah.
+
+782
+00:49:48,875 --> 00:49:51,208
+You scorn the liqueur, Hastings.
+Alors.
+
+783
+00:49:51,709 --> 00:49:53,958
+For you, my friend,
+a whiskey, perhaps?
+
+784
+00:49:55,292 --> 00:49:56,583
+Ah, no.
+No, thanks.
+
+785
+00:49:57,542 --> 00:49:58,791
+Hastings.
+
+786
+00:50:00,042 --> 00:50:01,958
+You are not elated
+by our success?
+
+787
+00:50:02,459 --> 00:50:03,958
+Oh, yes, yes.
+Very good.
+
+788
+00:50:04,334 --> 00:50:05,666
+Pas encore Ie mal de mer?
+
+789
+00:50:06,125 --> 00:50:07,374
+No, I'm fine.
+
+790
+00:50:08,875 --> 00:50:12,124
+Hastings, we have just completed
+a case most successful.
+
+791
+00:50:13,625 --> 00:50:16,958
+Two men have been released from
+the imprisonment most unjust.
+
+792
+00:50:17,084 --> 00:50:18,916
+You have been privileged
+to watch Hercule Poirot
+
+793
+00:50:19,042 --> 00:50:19,958
+at his most brilliant.
+
+794
+00:50:20,084 --> 00:50:24,041
+And on top of this, you have had
+the nice ride on the Queen Mary.
+
+795
+00:50:25,250 --> 00:50:26,749
+Well, I -- I know, Poirot.
+
+796
+00:50:27,167 --> 00:50:28,416
+I'm sorry.
+
+797
+00:50:29,042 --> 00:50:30,458
+It's Miranda Brooks.
+
+798
+00:50:30,584 --> 00:50:33,208
+Ah, Hastings.
+
+799
+00:50:35,750 --> 00:50:38,791
+You still have the hankering for
+the glamorous young woman, huh?
+
+800
+00:50:38,917 --> 00:50:40,583
+No, no, no, no.
+Not at all. No.
+
+801
+00:50:41,542 --> 00:50:43,249
+Quite the opposite, in fact.
+
+802
+00:50:43,709 --> 00:50:44,958
+It's just that...
+
+803
+00:50:45,417 --> 00:50:46,791
+Well, there she was --
+
+804
+00:50:47,209 --> 00:50:49,291
+as you say,
+a glamorous young woman.
+
+805
+00:50:50,042 --> 00:50:52,583
+But with a bit of a wig
+and a few bits of makeup,
+
+806
+00:50:53,042 --> 00:50:56,374
+she could transform herself
+into that dowdy hag of a nurse.
+
+807
+00:50:57,667 --> 00:51:00,208
+Yes, it was indeed
+very well done, Hastings.
+
+808
+00:51:00,625 --> 00:51:01,874
+But...
+
+809
+00:51:02,250 --> 00:51:03,499
+Well, I mean...
+
+810
+00:51:04,334 --> 00:51:07,249
+If a woman can do that one way,
+she can do it the other.
+
+811
+00:51:09,459 --> 00:51:10,708
+Oh, Hastings.
+
+812
+00:51:11,917 --> 00:51:13,166
+Well...
+
+813
+00:51:14,084 --> 00:51:16,291
+I mean, then where are you?
+
+814
+00:51:19,084 --> 00:51:22,583
+At the beginning of wisdom,
+mon ami.
+
+815
+00:51:26,917 --> 00:51:30,083
+Now, that also is something
+to celebrate, n'est-ce pas?
+
+816
+00:51:39,750 --> 00:51:41,499
+Ahh.
+
+

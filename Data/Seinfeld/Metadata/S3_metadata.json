@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "The Note",
+        "released": "1991-09-18",
+        "rating": "8.2",
+        "imdb_id": "tt0697741",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S3\\Seinfeld.S03E01.The.Note.DVDRip.x264-DiGGS3E1.zip"
+    },
+    "2": {
+        "title": "The Truth",
+        "released": "1991-09-25",
+        "rating": "7.7",
+        "imdb_id": "tt0697801",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S3\\Seinfeld.S03E02.The.Truth.DVDRip.x264-DiGGS3E2.zip"
+    },
+    "3": {
+        "title": "The Pen",
+        "released": "1991-10-02",
+        "rating": "8.2",
+        "imdb_id": "tt0697749",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S3\\Seinfeld.S03E03.The.Dog.DVDRip.x264-DiGGS3E3.zip"
+    },
+    "4": {
+        "title": "The Dog",
+        "released": "1991-10-09",
+        "rating": "N/A",
+        "imdb_id": "tt0697686",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S3\\Seinfeld.S03E04.The.Library.DVDRip.x264-DiGGS3E4.zip"
+    },
+    "5": {
+        "title": "The Library",
+        "released": "1991-10-16",
+        "rating": "8.5",
+        "imdb_id": "tt0697721",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S3\\Seinfeld.S03E05.The.Pen.DVDRip.x264-DiGGS3E5.zip"
+    },
+    "6": {
+        "title": "The Parking Garage",
+        "released": "1991-10-30",
+        "rating": "8.7",
+        "imdb_id": "tt0697747",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S3\\Seinfeld.S03E06.The.Parking.George.DVDRip.x264-DiGGS3E6.zip"
+    },
+    "7": {
+        "title": "The Cafe",
+        "released": "1991-11-06",
+        "rating": "8.3",
+        "imdb_id": "tt0697668",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S3\\Seinfeld.S03E07.The.Caf.DVDRip.x264-DiGGS3E7.zip"
+    },
+    "8": {
+        "title": "The Tape",
+        "released": "1991-11-13",
+        "rating": "8.7",
+        "imdb_id": "tt0697797",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S3\\Seinfeld.S03E08.The.Tape.DVDRip.x264-DiGGS3E8.zip"
+    },
+    "9": {
+        "title": "The Nose Job",
+        "released": "1991-11-20",
+        "rating": "7.9",
+        "imdb_id": "tt0697740",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Seinfeld\\Subtitles\\S3\\Seinfeld.S03E09.The.Nose.Job.DVDRip.x264-DiGGS3E9.zip"
+    },
+    "10": {
+        "title": "The Stranded",
+        "released": "1991-11-27",
+        "rating": "7.4",
+        "imdb_id": "tt0697789",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Alternate Side",
+        "released": "1991-12-04",
+        "rating": "8.2",
+        "imdb_id": "tt0697648",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Red Dot",
+        "released": "1991-12-11",
+        "rating": "8.3",
+        "imdb_id": "tt0697765",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Subway",
+        "released": "1992-01-08",
+        "rating": "8.7",
+        "imdb_id": "tt0697792",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "The Pez Dispenser",
+        "released": "1992-01-15",
+        "rating": "8.4",
+        "imdb_id": "tt0697750",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "The Suicide",
+        "released": "1992-01-29",
+        "rating": "7.5",
+        "imdb_id": "tt0697793",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "The Fix Up",
+        "released": "1992-02-05",
+        "rating": "8.4",
+        "imdb_id": "tt0697698",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "The Boyfriend",
+        "released": "1992-02-12",
+        "rating": "8.6",
+        "imdb_id": "tt0697738",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "The Limo",
+        "released": "1992-02-26",
+        "rating": "8.9",
+        "imdb_id": "tt0697722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Good Samaritan",
+        "released": "1992-03-04",
+        "rating": "7.9",
+        "imdb_id": "tt0697704",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "The Letter",
+        "released": "1992-03-25",
+        "rating": "7.8",
+        "imdb_id": "tt0697720",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Parking Space",
+        "released": "1992-04-22",
+        "rating": "8.2",
+        "imdb_id": "tt0697748",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "The Keys",
+        "released": "1992-05-06",
+        "rating": "8.3",
+        "imdb_id": "tt0697717",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

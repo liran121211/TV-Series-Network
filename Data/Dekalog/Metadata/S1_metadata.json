@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Dekalog, jeden",
+        "released": "1989-12-10",
+        "rating": "8.5",
+        "imdb_id": "tt0094982",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Dekalog, dwa",
+        "released": "1990-05-11",
+        "rating": "7.8",
+        "imdb_id": "tt0094984",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Dekalog, trzy",
+        "released": "1990-05-18",
+        "rating": "N/A",
+        "imdb_id": "tt0094985",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Dekalog, cztery",
+        "released": "1990-05-25",
+        "rating": "N/A",
+        "imdb_id": "tt0094986",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Dekalog, piec",
+        "released": "1990-06-01",
+        "rating": "8.5",
+        "imdb_id": "tt0094987",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Dekalog, szesc",
+        "released": "1990-06-08",
+        "rating": "N/A",
+        "imdb_id": "tt0094988",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Dekalog, siedem",
+        "released": "1990-06-15",
+        "rating": "7.8",
+        "imdb_id": "tt0094989",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Dekalog, osiem",
+        "released": "1990-06-22",
+        "rating": "7.5",
+        "imdb_id": "tt0094990",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Dekalog, dziewiec",
+        "released": "1990-06-29",
+        "rating": "8.0",
+        "imdb_id": "tt0094991",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Dekalog, dziesiec",
+        "released": "1989-06-24",
+        "rating": "8.3",
+        "imdb_id": "tt0094983",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

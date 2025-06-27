@@ -1,0 +1,90 @@
+{
+    "0": {
+        "title": "Pilot",
+        "released": "1999-10-17",
+        "rating": "8.2",
+        "imdb_id": "tt1041426",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "1": {
+        "title": "The Pants Tent",
+        "released": "2000-10-15",
+        "rating": "7.9",
+        "imdb_id": "tt0551416",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Curb Your Enthusiasm\\Subtitles\\S10\\Curb.Your.Enthusiasm.S10E01.WEB.h264-TBSS10E1.zip"
+    },
+    "2": {
+        "title": "Ted and Mary",
+        "released": "2000-10-22",
+        "rating": "7.6",
+        "imdb_id": "tt0551396",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Porno Gil",
+        "released": "2000-10-29",
+        "rating": "8.0",
+        "imdb_id": "tt0551394",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Bracelet",
+        "released": "2000-11-05",
+        "rating": "7.7",
+        "imdb_id": "tt0551403",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Interior Decorator",
+        "released": "2000-11-12",
+        "rating": "8.3",
+        "imdb_id": "tt0551387",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Wire",
+        "released": "2000-11-19",
+        "rating": "7.8",
+        "imdb_id": "tt0551427",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "AAMCO",
+        "released": "2000-11-26",
+        "rating": "N/A",
+        "imdb_id": "tt0551381",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Beloved Aunt",
+        "released": "2000-12-03",
+        "rating": "8.7",
+        "imdb_id": "tt0551383",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Affirmative Action",
+        "released": "2000-12-10",
+        "rating": "N/A",
+        "imdb_id": "tt0551382",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Group",
+        "released": "2000-12-17",
+        "rating": "8.6",
+        "imdb_id": "tt0551411",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "Happy Returns",
+        "released": "1985-02-21",
+        "rating": "8.3",
+        "imdb_id": "tt0666550",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Strained Relations",
+        "released": "1985-02-28",
+        "rating": "8.5",
+        "imdb_id": "tt0666570",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Hole in One",
+        "released": "1985-03-07",
+        "rating": "8.2",
+        "imdb_id": "tt0666554",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "It's Only Rock and Roll",
+        "released": "1985-03-14",
+        "rating": "7.9",
+        "imdb_id": "tt0666558",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Sleeping Dogs Lie",
+        "released": "1985-03-21",
+        "rating": "8.3",
+        "imdb_id": "tt0666568",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Watching the Girls Go By",
+        "released": "1985-03-28",
+        "rating": "7.8",
+        "imdb_id": "tt0666591",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "As One Door Closes",
+        "released": "1985-04-04",
+        "rating": "8.2",
+        "imdb_id": "tt0770627",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "To Hull and Back",
+        "released": "1985-12-25",
+        "rating": "9.0",
+        "imdb_id": "tt0666588",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

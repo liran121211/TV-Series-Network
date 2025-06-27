@@ -1,0 +1,40 @@
+{
+  "cast": {
+    "0000657": "David Strathairn",
+    "0142206": "Ryan Cartwright",
+    "1406239": "Warren Christie",
+    "1671257": "Azita Ghanizada",
+    "0579728": "Laura Mennell",
+    "0948272": "Malik Yoba",
+    "1984458": "Devon Graye",
+    "1137209": "Tatiana Maslany",
+    "0991810": "Mahershala Ali",
+    "0719678": "Callum Keith Rennie",
+    "0309670": "Kathleen Gati",
+    "0482126": "Bill Lake",
+    "0477530": "Tyler Kyte",
+    "2469358": "Jimmy Byron",
+    "3700329": "Scott Ryan Yamamura",
+    "0083025": "James Binkley",
+    "0703417": "Cheryl Quiacos",
+    "0595576": "Jane Moffat"
+  },
+  "geners": [
+    "Action",
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "runtimes": [
+    "45"
+  ],
+  
+  "plot": [
+    "The team moves to new offices following the attack on Rosen; violent riots break out on the east coast, which are linked to a runaway teen."
+  ],
+  "genres": "N/A",
+  "imdbID": "1185996",
+  "rating": 7.2,
+  "votes": 409,
+  "number_of_episodes": 24
+}

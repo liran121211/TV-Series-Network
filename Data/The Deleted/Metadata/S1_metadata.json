@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "The Arrivals",
+        "released": "2016-12-04",
+        "rating": "N/A",
+        "imdb_id": "tt6163928",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Deleted\\Subtitles\\S1\\The Deleted S01E01.zip"
+    },
+    "2": {
+        "title": "The Betrayal",
+        "released": "2016-12-05",
+        "rating": "N/A",
+        "imdb_id": "tt6163932",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "The Hook Up",
+        "released": "2016-12-06",
+        "rating": "N/A",
+        "imdb_id": "tt6163934",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Deleted\\Subtitles\\S1\\The Deleted S01E03.zip"
+    },
+    "4": {
+        "title": "Breeda",
+        "released": "2016-12-07",
+        "rating": "N/A",
+        "imdb_id": "tt6163936",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Deleted\\Subtitles\\S1\\The Deleted S01E04.zip"
+    },
+    "5": {
+        "title": "The Meeting",
+        "released": "2016-12-08",
+        "rating": "N/A",
+        "imdb_id": "tt6163942",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Deleted\\Subtitles\\S1\\The Deleted S01E05.zip"
+    },
+    "6": {
+        "title": "Parties",
+        "released": "2016-12-09",
+        "rating": "N/A",
+        "imdb_id": "tt6163944",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Deleted\\Subtitles\\S1\\The Deleted S01E06.zip"
+    },
+    "7": {
+        "title": "Malibu",
+        "released": "2016-12-10",
+        "rating": "N/A",
+        "imdb_id": "tt6163946",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Deleted\\Subtitles\\S1\\The Deleted S01E07.zip"
+    },
+    "8": {
+        "title": "The Interviews",
+        "released": "2016-12-11",
+        "rating": "N/A",
+        "imdb_id": "tt6163948",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Deleted\\Subtitles\\S1\\The Deleted S01E08.zip"
+    }
+}

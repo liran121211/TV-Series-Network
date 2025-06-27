@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Axis Mundi",
+        "released": "2015-10-04",
+        "rating": "8.4",
+        "imdb_id": "tt3955000",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "A Matter of Geography",
+        "released": "2015-10-11",
+        "rating": "8.7",
+        "imdb_id": "tt4547200",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Off Ramp",
+        "released": "2015-10-18",
+        "rating": "8.4",
+        "imdb_id": "tt4550136",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Orange Sticker",
+        "released": "2015-10-25",
+        "rating": "8.6",
+        "imdb_id": "tt4550146",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "No Room at the Inn",
+        "released": "2015-11-01",
+        "rating": "8.9",
+        "imdb_id": "tt4550148",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Lens",
+        "released": "2015-11-08",
+        "rating": "N/A",
+        "imdb_id": "tt4550864",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "A Most Powerful Adversary",
+        "released": "2015-11-15",
+        "rating": "9.3",
+        "imdb_id": "tt4550866",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "International Assassin",
+        "released": "2015-11-22",
+        "rating": "9.6",
+        "imdb_id": "tt4550868",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Ten Thirteen",
+        "released": "2015-11-29",
+        "rating": "8.5",
+        "imdb_id": "tt4550870",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "I Live Here Now",
+        "released": "2015-12-06",
+        "rating": "9.5",
+        "imdb_id": "tt4510954",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

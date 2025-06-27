@@ -1,0 +1,162 @@
+{
+    "1": {
+        "title": "Chapter One Hundred Eighteen: Don't Worry Darling",
+        "released": "2023-03-29",
+        "rating": "6.7",
+        "imdb_id": "tt18967158",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S7\\Riverdale.US.SE07E01.WEBRip.x264-ION10_ELANORS7E1.zip"
+    },
+    "2": {
+        "title": "Chapter One Hundred Nineteen: Skip, Hop and Thump!",
+        "released": "2023-04-05",
+        "rating": "6.6",
+        "imdb_id": "tt27078801",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S7\\Riverdale.S07E02.WEBS7E2.zip"
+    },
+    "3": {
+        "title": "Chapter One Hundred Twenty: Sex Education",
+        "released": "2023-04-12",
+        "rating": "N/A",
+        "imdb_id": "tt27054784",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S7\\Riverdale.S07E03.WEBS7E3.zip"
+    },
+    "4": {
+        "title": "Chapter One Hundred Twenty-One: Love & Marriage",
+        "released": "2023-04-19",
+        "rating": "6.4",
+        "imdb_id": "tt27054792",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S7\\Riverdale.S07E04.WEBS7E4.zip"
+    },
+    "5": {
+        "title": "Chapter One Hundred Twenty-Two: Tales in a Jugular Vein",
+        "released": "2023-04-26",
+        "rating": "N/A",
+        "imdb_id": "tt27232919",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S7\\Riverdale.S07E05.WEBS7E5.zip"
+    },
+    "6": {
+        "title": "Chapter One Hundred Twenty-Three: Peep Show",
+        "released": "2023-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt27232921",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S7\\Riverdale.S07E06.WEBS7E6.zip"
+    },
+    "7": {
+        "title": "Chapter One Hundred Twenty-Four: Dirty Dancing",
+        "released": "2023-05-10",
+        "rating": "N/A",
+        "imdb_id": "tt27232924",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S7\\Riverdale.US.SE07E01.WEBRip.x264-ION10_ELANORS7E7.zip"
+    },
+    "8": {
+        "title": "Chapter One Hundred Twenty-Five: Hoop Dreams",
+        "released": "2023-05-17",
+        "rating": "N/A",
+        "imdb_id": "tt27232925",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S7\\Riverdale.S07E08.WEBS7E8.zip"
+    },
+    "9": {
+        "title": "Chapter One Hundred Twenty-Six: Betty & Veronica Double Digest",
+        "released": "2023-05-24",
+        "rating": "N/A",
+        "imdb_id": "tt27232929",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Riverdale\\Subtitles\\S7\\Riverdale.S07E09.WEBS7E9.zip"
+    },
+    "10": {
+        "title": "Chapter One Hundred Twenty-Seven: American Graffiti",
+        "released": "2023-05-31",
+        "rating": "N/A",
+        "imdb_id": "tt27232931",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Chapter One Hundred Twenty-Eight: Halloween II",
+        "released": "2023-06-07",
+        "rating": "6.6",
+        "imdb_id": "tt27232932",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Chapter One Hundred Twenty-Nine: After the Fall",
+        "released": "2023-06-21",
+        "rating": "N/A",
+        "imdb_id": "tt27833237",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Chapter One Hundred Thirty: The Crucible",
+        "released": "2023-06-28",
+        "rating": "N/A",
+        "imdb_id": "tt27953418",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Chapter One Hundred Thirty-One: Archie the Musical",
+        "released": "2023-07-05",
+        "rating": "4.8",
+        "imdb_id": "tt27953419",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Chapter One Hundred Thirty-Two: Miss Teen Riverdale",
+        "released": "2023-07-19",
+        "rating": "6.2",
+        "imdb_id": "tt27953421",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Chapter One Hundred Thirty-Three: Stag",
+        "released": "2023-07-26",
+        "rating": "N/A",
+        "imdb_id": "tt27953422",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Chapter One Hundred Thirty-Four: A Different Kind of Cat",
+        "released": "2023-08-02",
+        "rating": "N/A",
+        "imdb_id": "tt27953423",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Chapter One Hundred Thirty-Five: For a Better Tomorrow",
+        "released": "2023-08-09",
+        "rating": "N/A",
+        "imdb_id": "tt27953424",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Chapter One Hundred Thirty-Six: The Golden Age of Television",
+        "released": "2023-08-16",
+        "rating": "N/A",
+        "imdb_id": "tt28279337",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Chapter One Hundred Thirty-Seven: Goodbye, Riverdale",
+        "released": "2023-08-23",
+        "rating": "7.6",
+        "imdb_id": "tt28279338",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

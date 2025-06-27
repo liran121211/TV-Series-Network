@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "The Adventure of the Egyptian Tomb",
+        "released": "1993-01-17",
+        "rating": "7.6",
+        "imdb_id": "tt0676164",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Underdog",
+        "released": "1993-01-24",
+        "rating": "7.3",
+        "imdb_id": "tt0676190",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S5\\Poirot_S05E02_-_The_UnderdogS5E2.zip"
+    },
+    "3": {
+        "title": "The Yellow Iris",
+        "released": "1993-01-31",
+        "rating": "7.8",
+        "imdb_id": "tt0676194",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S5\\Poirot_S05E03_-_Yellow_Iris_(1993)_-_NQKS5E3.zip"
+    },
+    "4": {
+        "title": "The Case of the Missing Will",
+        "released": "1993-02-07",
+        "rating": "7.6",
+        "imdb_id": "tt0676168",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Adventure of the Italian Nobleman",
+        "released": "1993-02-14",
+        "rating": "7.4",
+        "imdb_id": "tt0676165",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "The Chocolate Box",
+        "released": "1993-02-21",
+        "rating": "8.2",
+        "imdb_id": "tt0676169",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Dead Man's Mirror",
+        "released": "1993-02-28",
+        "rating": "7.7",
+        "imdb_id": "tt0676144",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S5\\Poirot_S05E07_-_Dead_Man's_Mirror_(1993).enS5E7.zip"
+    },
+    "8": {
+        "title": "Jewel Robbery at the Grand Metropolitan",
+        "released": "1993-03-07",
+        "rating": "7.5",
+        "imdb_id": "tt0245183",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Poirot\\Subtitles\\S5\\Agatha_Christie's_Poirot_(David_Suchet)_S05E08_1080p_H.264_(moviesbyrizzo)S5E8.zip"
+    }
+}

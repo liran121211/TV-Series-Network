@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "A Fat Bald White Man",
+        "released": "2017-04-25",
+        "rating": "8.2",
+        "imdb_id": "tt6396216",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Look at Me",
+        "released": "2017-05-02",
+        "rating": "8.2",
+        "imdb_id": "tt6397392",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Hollowing Out a Baguette",
+        "released": "2017-05-09",
+        "rating": "8.3",
+        "imdb_id": "tt6397394",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Friendship Is Truth",
+        "released": "2017-05-16",
+        "rating": "7.9",
+        "imdb_id": "tt6397398",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Meat",
+        "released": "2017-05-23",
+        "rating": "8.4",
+        "imdb_id": "tt6397390",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Spatchcock It",
+        "released": "2017-05-30",
+        "rating": "8.0",
+        "imdb_id": "tt6397396",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "No Stars for Naughty Boys",
+        "released": "2017-06-06",
+        "rating": "N/A",
+        "imdb_id": "tt6397402",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Tony Three Pies",
+        "released": "2017-06-13",
+        "rating": "N/A",
+        "imdb_id": "tt6397400",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

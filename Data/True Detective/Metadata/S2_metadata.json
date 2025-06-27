@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title": "The Western Book of the Dead",
+        "released": "2015-06-21",
+        "rating": "7.5",
+        "imdb_id": "tt3792838",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S2\\True.Detective.S02E01.1080p.WEBRip.x264.DD5.1-messafanS2E1.zip"
+    },
+    "2": {
+        "title": "Night Finds You",
+        "released": "2015-06-28",
+        "rating": "7.6",
+        "imdb_id": "tt4057166",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S2\\True_Detective_S02E02_Night_Finds_You_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S2E2.zip"
+    },
+    "3": {
+        "title": "Maybe Tomorrow",
+        "released": "2015-07-05",
+        "rating": "7.3",
+        "imdb_id": "tt4057164",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S2\\True_Detective_S02E03_Maybe_Tomorrow_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S2E3.zip"
+    },
+    "4": {
+        "title": "Down Will Come",
+        "released": "2015-07-12",
+        "rating": "N/A",
+        "imdb_id": "tt4057168",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S2\\True_Detective_S02E04_Down_Will_Come_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S2E4.zip"
+    },
+    "5": {
+        "title": "Other Lives",
+        "released": "2015-07-19",
+        "rating": "7.6",
+        "imdb_id": "tt4057170",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S2\\True_Detective_S02E05_Other_Lives_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S2E5.zip"
+    },
+    "6": {
+        "title": "Church in Ruins",
+        "released": "2015-07-26",
+        "rating": "8.2",
+        "imdb_id": "tt4057176",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S2\\True_Detective_S02E06_Church_in_Ruins_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S2E6.zip"
+    },
+    "7": {
+        "title": "Black Maps and Motel Rooms",
+        "released": "2015-08-02",
+        "rating": "N/A",
+        "imdb_id": "tt4057172",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\True Detective\\Subtitles\\S2\\True_Detective_S02E07_Black_Maps_and_Motel_Rooms_1080p_Blu-ray_AVC_DTS-HD_MA_5.1S2E7.zip"
+    },
+    "8": {
+        "title": "Omega Station",
+        "released": "2015-08-09",
+        "rating": "8.0",
+        "imdb_id": "tt4057174",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

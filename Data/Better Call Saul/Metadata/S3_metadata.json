@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Mabel",
+        "released": "2017-04-10",
+        "rating": "8.1",
+        "imdb_id": "tt5554490",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S3\\Better.Call.Saul.S03E01.WEB-DL.XviD-FUMS3E1.zip"
+    },
+    "2": {
+        "title": "Witness",
+        "released": "2017-04-17",
+        "rating": "9.0",
+        "imdb_id": "tt5579594",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S3\\Better.Call.Saul.S03E02.WEB-DL.XviD-FUM[ettv]S3E2.zip"
+    },
+    "3": {
+        "title": "Sunk Costs",
+        "released": "2017-04-24",
+        "rating": "8.4",
+        "imdb_id": "tt5719532",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S3\\Better.Call.Saul.S03E03.WEB-DL.x264-RARBGS3E3.zip"
+    },
+    "4": {
+        "title": "Sabrosito",
+        "released": "2017-05-01",
+        "rating": "8.9",
+        "imdb_id": "tt5719534",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S3\\Better.Call.Saul.S03E04.WEB-DL.XviD-FUM[ettv]S3E4.zip"
+    },
+    "5": {
+        "title": "Chicanery",
+        "released": "2017-05-08",
+        "rating": "9.7",
+        "imdb_id": "tt5719536",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S3\\Better.Call.Saul.S03E05.WEB-DL.XviD-FUMS3E5.zip"
+    },
+    "6": {
+        "title": "Off Brand",
+        "released": "2017-05-15",
+        "rating": "8.4",
+        "imdb_id": "tt5719540",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S3\\Better.Call.Saul.S03E06.WEB-DL.XviD-FUMS3E6.zip"
+    },
+    "7": {
+        "title": "Expenses",
+        "released": "2017-05-22",
+        "rating": "8.2",
+        "imdb_id": "tt5719542",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S3\\Better.Call.Saul.S03E07.1080p.WEB-DL.DD5.1.H264-RARBGS3E7.zip"
+    },
+    "8": {
+        "title": "Slip",
+        "released": "2017-06-05",
+        "rating": "8.5",
+        "imdb_id": "tt5719546",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S3\\Better.Call.Saul.S03E08.WEB-DL.x264-RARBGS3E8.zip"
+    },
+    "9": {
+        "title": "Fall",
+        "released": "2017-06-12",
+        "rating": "8.8",
+        "imdb_id": "tt5719544",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Better Call Saul\\Subtitles\\S3\\Better.Call.Saul.S03E09.WEB-DL.x264-RARBGS3E9.zip"
+    },
+    "10": {
+        "title": "Lantern",
+        "released": "2017-06-19",
+        "rating": "9.2",
+        "imdb_id": "tt5570804",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2012-02-16",
+        "rating": "N/A",
+        "imdb_id": "tt1942174",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Little Guy",
+        "released": "2012-03-08",
+        "rating": "N/A",
+        "imdb_id": "tt2239109",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Guilty",
+        "released": "2012-03-15",
+        "rating": "N/A",
+        "imdb_id": "tt2065099",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Kate Is Enough",
+        "released": "2012-03-22",
+        "rating": "7.5",
+        "imdb_id": "tt2256141",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Oregon",
+        "released": "2012-03-29",
+        "rating": "N/A",
+        "imdb_id": "tt2084211",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "That's Not My Penguin",
+        "released": "2012-04-05",
+        "rating": "N/A",
+        "imdb_id": "tt2079708",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Ricky's Tacos",
+        "released": "2012-04-12",
+        "rating": "N/A",
+        "imdb_id": "tt2090722",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Nightswimming",
+        "released": "2012-04-19",
+        "rating": "N/A",
+        "imdb_id": "tt2158999",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Game Day",
+        "released": "2012-04-26",
+        "rating": "N/A",
+        "imdb_id": "tt2137555",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Slack Water",
+        "released": "2012-05-03",
+        "rating": "N/A",
+        "imdb_id": "tt2199829",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Say Hello to My Little Friend",
+        "released": "2012-05-10",
+        "rating": "N/A",
+        "imdb_id": "tt2256143",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Two Birds",
+        "released": "2012-05-17",
+        "rating": "N/A",
+        "imdb_id": "tt2256147",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Turtles All the Way Down",
+        "released": "2012-05-24",
+        "rating": "N/A",
+        "imdb_id": "tt2256145",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

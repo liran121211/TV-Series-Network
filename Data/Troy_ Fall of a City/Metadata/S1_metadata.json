@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "Black Blood",
+        "released": "2018-02-16",
+        "rating": "5.2",
+        "imdb_id": "tt6644344",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Conditions",
+        "released": "2018-02-24",
+        "rating": "4.5",
+        "imdb_id": "tt6644352",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Siege",
+        "released": "2018-03-03",
+        "rating": "5.2",
+        "imdb_id": "tt6644356",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Spoils of War",
+        "released": "2018-03-10",
+        "rating": "4.8",
+        "imdb_id": "tt6644358",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Hunted",
+        "released": "2018-03-17",
+        "rating": "4.7",
+        "imdb_id": "tt6644362",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Battle on the Beach",
+        "released": "2018-03-24",
+        "rating": "N/A",
+        "imdb_id": "tt6644366",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Offering",
+        "released": "2018-04-07",
+        "rating": "N/A",
+        "imdb_id": "tt6966062",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

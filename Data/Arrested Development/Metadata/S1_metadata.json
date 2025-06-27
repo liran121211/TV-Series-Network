@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Pilot",
+        "released": "2003-11-02",
+        "rating": "8.1",
+        "imdb_id": "tt0515236",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Arrested Development\\Subtitles\\S1\\Arrested_Development_Season_1_2003_MovieFull-HD_BLURAY_720P_2189_E01-E22_COMPLETEDS1E1.zip"
+    },
+    "2": {
+        "title": "Top Banana",
+        "released": "2003-11-09",
+        "rating": "8.4",
+        "imdb_id": "tt0515256",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Bringing Up Buster",
+        "released": "2003-11-16",
+        "rating": "8.1",
+        "imdb_id": "tt0515212",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Key Decisions",
+        "released": "2003-11-23",
+        "rating": "8.3",
+        "imdb_id": "tt0515223",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Charity Drive",
+        "released": "2003-11-30",
+        "rating": "N/A",
+        "imdb_id": "tt0515214",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Visiting Ours",
+        "released": "2003-12-07",
+        "rating": "8.0",
+        "imdb_id": "tt0515257",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "In God We Trust",
+        "released": "2003-12-21",
+        "rating": "8.1",
+        "imdb_id": "tt0515221",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "My Mother the Car",
+        "released": "2003-12-14",
+        "rating": "8.0",
+        "imdb_id": "tt0515231",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Storming the Castle",
+        "released": "2004-01-04",
+        "rating": "8.3",
+        "imdb_id": "tt0515247",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Pier Pressure",
+        "released": "2004-01-11",
+        "rating": "9.0",
+        "imdb_id": "tt0515235",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Public Relations",
+        "released": "2004-01-25",
+        "rating": "8.2",
+        "imdb_id": "tt0515238",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Marta Complex",
+        "released": "2004-02-08",
+        "rating": "8.4",
+        "imdb_id": "tt0515226",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Beef Consomme",
+        "released": "2004-02-15",
+        "rating": "8.4",
+        "imdb_id": "tt0515210",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Shock and Aww",
+        "released": "2004-03-07",
+        "rating": "8.5",
+        "imdb_id": "tt0515244",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Staff Infection",
+        "released": "2004-03-14",
+        "rating": "8.1",
+        "imdb_id": "tt0515246",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Altar Egos",
+        "released": "2004-03-17",
+        "rating": "N/A",
+        "imdb_id": "tt0515208",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Justice Is Blind",
+        "released": "2004-03-21",
+        "rating": "8.7",
+        "imdb_id": "tt0515222",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Missing Kitty",
+        "released": "2004-03-28",
+        "rating": "8.2",
+        "imdb_id": "tt0515228",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Best Man for the Gob",
+        "released": "2004-04-04",
+        "rating": "8.0",
+        "imdb_id": "tt0515211",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Whistler's Mother",
+        "released": "2004-04-11",
+        "rating": "7.9",
+        "imdb_id": "tt0515258",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Not Without My Daughter",
+        "released": "2004-04-25",
+        "rating": "8.5",
+        "imdb_id": "tt0515232",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Let 'Em Eat Cake",
+        "released": "2004-06-06",
+        "rating": "8.6",
+        "imdb_id": "tt0515224",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

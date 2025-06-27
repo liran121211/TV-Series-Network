@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "The Most Atlanta",
+        "released": "2022-09-15",
+        "rating": "8.8",
+        "imdb_id": "tt10761004",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "The Homeliest Little Horse",
+        "released": "2022-09-15",
+        "rating": "8.9",
+        "imdb_id": "tt10761008",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Born 2 Die",
+        "released": "2022-09-22",
+        "rating": "N/A",
+        "imdb_id": "tt10761014",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Light Skinned-ed",
+        "released": "2022-09-29",
+        "rating": "8.0",
+        "imdb_id": "tt10761016",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Work Ethic!",
+        "released": "2022-10-06",
+        "rating": "8.3",
+        "imdb_id": "tt10761018",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Crank Dat Killer",
+        "released": "2022-10-13",
+        "rating": "9.1",
+        "imdb_id": "tt10761026",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Snipe Hunt",
+        "released": "2022-10-20",
+        "rating": "8.2",
+        "imdb_id": "tt10761030",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Goof Who Sat by the Door",
+        "released": "2022-10-27",
+        "rating": "8.5",
+        "imdb_id": "tt10761034",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Andrew Wyeth, Alfred's World",
+        "released": "2022-11-03",
+        "rating": "N/A",
+        "imdb_id": "tt21435086",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "It Was All a Dream",
+        "released": "2022-11-10",
+        "rating": "9.4",
+        "imdb_id": "tt17493244",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

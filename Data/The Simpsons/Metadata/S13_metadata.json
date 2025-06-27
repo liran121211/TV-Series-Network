@@ -1,0 +1,178 @@
+{
+    "1": {
+        "title": "Treehouse of Horror XII",
+        "released": "2001-11-06",
+        "rating": "7.6",
+        "imdb_id": "tt0701284",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S13\\The.Simpsons.S13E01.720p.BluRay.x264-SiNNERSS13E1.zip"
+    },
+    "2": {
+        "title": "The Parent Rap",
+        "released": "2001-11-11",
+        "rating": "7.1",
+        "imdb_id": "tt0701255",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S13\\The.Simpsons.S13E02.720p.BluRay.x264-SiNNERSS13E2.zip"
+    },
+    "3": {
+        "title": "Homer the Moe",
+        "released": "2001-11-18",
+        "rating": "7.1",
+        "imdb_id": "tt0701116",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S13\\The.Simpsons.S13E03.720p.BluRay.x264-SiNNERSS13E3.zip"
+    },
+    "4": {
+        "title": "A Hunka Hunka Burns in Love",
+        "released": "2001-12-02",
+        "rating": "7.1",
+        "imdb_id": "tt0701044",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S13\\The.Simpsons.S13E04.720p.BluRay.x264-SiNNERSS13E4.zip"
+    },
+    "5": {
+        "title": "The Blunder Years",
+        "released": "2001-12-09",
+        "rating": "7.6",
+        "imdb_id": "tt0701226",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S13\\The.Simpsons.S13E05.720p.BluRay.x264-SiNNERSS13E5.zip"
+    },
+    "6": {
+        "title": "She of Little Faith",
+        "released": "2001-12-16",
+        "rating": "7.1",
+        "imdb_id": "tt0701206",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S13\\The.Simpsons.S13E06.720p.BluRay.x264-SiNNERSS13E6.zip"
+    },
+    "7": {
+        "title": "Brawl in the Family",
+        "released": "2002-01-06",
+        "rating": "6.8",
+        "imdb_id": "tt0701074",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S13\\The.Simpsons.S13E07.720p.BluRay.x264-SiNNERSS13E7.zip"
+    },
+    "8": {
+        "title": "Sweets and Sour Marge",
+        "released": "2002-01-20",
+        "rating": "N/A",
+        "imdb_id": "tt0701221",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S13\\The.Simpsons.S13E08.720p.BluRay.x264-SiNNERSS13E8.zip"
+    },
+    "9": {
+        "title": "Jaws Wired Shut",
+        "released": "2002-01-27",
+        "rating": "7.3",
+        "imdb_id": "tt0701141",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Simpsons\\Subtitles\\S13\\The.Simpsons.S13E09.720p.BluRay.x264-SiNNERSS13E9.zip"
+    },
+    "10": {
+        "title": "Half-Decent Proposal",
+        "released": "2002-02-10",
+        "rating": "N/A",
+        "imdb_id": "tt0701104",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "The Bart Wants What It Wants",
+        "released": "2002-02-17",
+        "rating": "7.0",
+        "imdb_id": "tt0701225",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "The Lastest Gun in the West",
+        "released": "2002-02-24",
+        "rating": "6.5",
+        "imdb_id": "tt0701249",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "The Old Man and the Key",
+        "released": "2002-03-10",
+        "rating": "6.5",
+        "imdb_id": "tt0701252",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Tales from the Public Domain",
+        "released": "2002-03-17",
+        "rating": "7.1",
+        "imdb_id": "tt0763038",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Blame It on Lisa",
+        "released": "2002-03-31",
+        "rating": "7.0",
+        "imdb_id": "tt0763028",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "Weekend at Burnsie's",
+        "released": "2002-04-07",
+        "rating": "7.7",
+        "imdb_id": "tt0701291",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Gump Roast",
+        "released": "2002-04-21",
+        "rating": "5.4",
+        "imdb_id": "tt0701103",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "I Am Furious Yellow",
+        "released": "2002-04-28",
+        "rating": "7.7",
+        "imdb_id": "tt0701132",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "The Sweetest Apu",
+        "released": "2002-05-05",
+        "rating": "6.7",
+        "imdb_id": "tt0701264",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Little Girl in the Big Ten",
+        "released": "2002-05-12",
+        "rating": "7.1",
+        "imdb_id": "tt0701167",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "The Frying Game",
+        "released": "2002-05-19",
+        "rating": "7.0",
+        "imdb_id": "tt0701238",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Papa's Got a Brand New Badge",
+        "released": "2002-05-22",
+        "rating": "7.7",
+        "imdb_id": "tt0701196",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

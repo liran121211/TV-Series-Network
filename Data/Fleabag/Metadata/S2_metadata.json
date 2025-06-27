@@ -1,0 +1,50 @@
+{
+    "1": {
+        "title": "Episode #2.1",
+        "released": "2019-05-17",
+        "rating": "9.2",
+        "imdb_id": "tt6733136",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Fleabag\\Subtitles\\S2\\Fleabag.S02E01.720p.iP.WEBRip.AAC2.0.H264-RTNS2E1.zip"
+    },
+    "2": {
+        "title": "Episode #2.2",
+        "released": "2019-05-17",
+        "rating": "8.3",
+        "imdb_id": "tt9679520",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Fleabag\\Subtitles\\S2\\Fleabag.S02E02.HDTV.x264-PLUTONiUMS2E2.zip"
+    },
+    "3": {
+        "title": "Episode #2.3",
+        "released": "2019-05-17",
+        "rating": "8.9",
+        "imdb_id": "tt9679522",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Fleabag\\Subtitles\\S2\\Fleabag.S02E03.HDTV.x264-PLUTONiUMS2E3.zip"
+    },
+    "4": {
+        "title": "Episode #2.4",
+        "released": "2019-05-17",
+        "rating": "8.8",
+        "imdb_id": "tt9679524",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Fleabag\\Subtitles\\S2\\Fleabag.S02E04.1080p.HDTV.x264-PLUTONiUMS2E4.zip"
+    },
+    "5": {
+        "title": "Episode #2.5",
+        "released": "2019-05-17",
+        "rating": "8.6",
+        "imdb_id": "tt9679526",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\Fleabag\\Subtitles\\S2\\Fleabag.S02E05.720p.HDTV.x264-CREEDS2E5.zip"
+    },
+    "6": {
+        "title": "Episode #2.6",
+        "released": "2019-05-17",
+        "rating": "9.3",
+        "imdb_id": "tt6733140",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

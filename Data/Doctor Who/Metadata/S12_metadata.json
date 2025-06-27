@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Spyfall: Part One",
+        "released": "2020-01-01",
+        "rating": "6.7",
+        "imdb_id": "tt9354122",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Spyfall: Part Two",
+        "released": "2020-01-05",
+        "rating": "6.5",
+        "imdb_id": "tt9354166",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Orphan 55",
+        "released": "2020-01-12",
+        "rating": "4.2",
+        "imdb_id": "tt9354208",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Nikola Tesla's Night of Terror",
+        "released": "2020-01-19",
+        "rating": "6.5",
+        "imdb_id": "tt9354212",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Fugitive of the Judoon",
+        "released": "2020-01-26",
+        "rating": "7.5",
+        "imdb_id": "tt9354216",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Praxeus",
+        "released": "2020-02-02",
+        "rating": "5.2",
+        "imdb_id": "tt9354222",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Can You Hear Me?",
+        "released": "2020-02-09",
+        "rating": "5.7",
+        "imdb_id": "tt9361014",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Haunting of Villa Diodati",
+        "released": "2020-02-16",
+        "rating": "7.1",
+        "imdb_id": "tt9361038",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Ascension of the Cybermen",
+        "released": "2020-02-23",
+        "rating": "6.5",
+        "imdb_id": "tt9361042",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "The Timeless Children",
+        "released": "2020-03-01",
+        "rating": "5.1",
+        "imdb_id": "tt9361046",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

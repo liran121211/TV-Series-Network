@@ -1,0 +1,194 @@
+{
+    "1": {
+        "title": "The List",
+        "released": "2011-09-22",
+        "rating": "7.9",
+        "imdb_id": "tt2000321",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S8\\The.Office.US.S08E01.HDTV.XviD-LOLS8E1.zip"
+    },
+    "2": {
+        "title": "The Incentive",
+        "released": "2011-09-29",
+        "rating": "8.0",
+        "imdb_id": "tt2051718",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S8\\The.Office.US.S08E02.HDTV.XviD-LOLS8E2.zip"
+    },
+    "3": {
+        "title": "Lotto",
+        "released": "2011-10-06",
+        "rating": "7.1",
+        "imdb_id": "tt2061513",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S8\\The.Office.US.S08E03.HDTV.XviD-LOLS8E3.zip"
+    },
+    "4": {
+        "title": "Garden Party",
+        "released": "2011-10-13",
+        "rating": "8.0",
+        "imdb_id": "tt2072796",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S8\\The.Office.S08E04.HDTV.XviD-LOLS8E4.zip"
+    },
+    "5": {
+        "title": "Spooked",
+        "released": "2011-10-27",
+        "rating": "7.3",
+        "imdb_id": "tt2074990",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S8\\The.Office.US.S08E05.HDTV.XviD-LOLS8E5.zip"
+    },
+    "6": {
+        "title": "Doomsday",
+        "released": "2011-11-03",
+        "rating": "7.4",
+        "imdb_id": "tt2079359",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S8\\The.Office.US.S08E06.720p.HDTV.X264-DIMENSIONS8E6.zip"
+    },
+    "7": {
+        "title": "Pam's Replacement",
+        "released": "2011-11-10",
+        "rating": "7.5",
+        "imdb_id": "tt2077604",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S8\\The.Office.US.S08E07.720p.HDTV.X264-DIMENSIONS8E7.zip"
+    },
+    "8": {
+        "title": "Gettysburg",
+        "released": "2011-11-17",
+        "rating": "6.6",
+        "imdb_id": "tt2071306",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S8\\The.Office.US.S08E08.720p.HDTV.X264-DIMENSIONS8E8.zip"
+    },
+    "9": {
+        "title": "Mrs. California",
+        "released": "2011-12-01",
+        "rating": "7.5",
+        "imdb_id": "tt2107510",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S8\\The.Office.US.S08E09.720p.HDTV.X264-DIMENSIONS8E9.zip"
+    },
+    "10": {
+        "title": "Christmas Wishes",
+        "released": "2011-12-08",
+        "rating": "N/A",
+        "imdb_id": "tt2113519",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "11": {
+        "title": "Trivia",
+        "released": "2012-01-12",
+        "rating": "7.7",
+        "imdb_id": "tt2139249",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "Pool Party",
+        "released": "2012-01-19",
+        "rating": "N/A",
+        "imdb_id": "tt2156255",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "13": {
+        "title": "Jury Duty",
+        "released": "2012-02-02",
+        "rating": "N/A",
+        "imdb_id": "tt2181631",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "14": {
+        "title": "Special Project",
+        "released": "2012-02-09",
+        "rating": "7.5",
+        "imdb_id": "tt2190001",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "15": {
+        "title": "Tallahassee",
+        "released": "2012-02-16",
+        "rating": "7.6",
+        "imdb_id": "tt2202113",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "16": {
+        "title": "After Hours",
+        "released": "2012-02-23",
+        "rating": "7.9",
+        "imdb_id": "tt2213999",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "17": {
+        "title": "Test the Store",
+        "released": "2012-03-01",
+        "rating": "7.6",
+        "imdb_id": "tt2230719",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "18": {
+        "title": "Last Day in Florida",
+        "released": "2012-03-08",
+        "rating": "7.6",
+        "imdb_id": "tt2268001",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "19": {
+        "title": "Get the Girl",
+        "released": "2012-03-15",
+        "rating": "6.3",
+        "imdb_id": "tt2267999",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "20": {
+        "title": "Welcome Party",
+        "released": "2012-04-12",
+        "rating": "6.8",
+        "imdb_id": "tt2280881",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "21": {
+        "title": "Angry Andy",
+        "released": "2012-04-19",
+        "rating": "6.7",
+        "imdb_id": "tt2362659",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "22": {
+        "title": "Fundraiser",
+        "released": "2012-04-26",
+        "rating": "6.8",
+        "imdb_id": "tt2366113",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "23": {
+        "title": "Turf War",
+        "released": "2012-05-03",
+        "rating": "7.4",
+        "imdb_id": "tt2366115",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\The Office\\Subtitles\\S8\\The.Office.US.S08E23.720p.HDTV.X264-DIMENSIONS8E23.zip"
+    },
+    "24": {
+        "title": "Free Family Portrait Studio",
+        "released": "2012-05-10",
+        "rating": "N/A",
+        "imdb_id": "tt2374269",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "1": {
+        "title": "Start Spreading the News",
+        "released": "2016-07-22",
+        "rating": "7.8",
+        "imdb_id": "tt4896050",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\BoJack Horseman\\Subtitles\\S3\\Bojack.Horseman.S03E10.720p.WEBRip.X264-DEFLATE.engS3E10.zip"
+    },
+    "2": {
+        "title": "The BoJack Horseman Show",
+        "released": "2016-07-22",
+        "rating": "8.0",
+        "imdb_id": "tt5218276",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\BoJack Horseman\\Subtitles\\S3\\Bojack.Horseman.S03E02&E04.WEB.X264-DEFLATE[PRiME]S3E2.zip"
+    },
+    "3": {
+        "title": "BoJack Kills",
+        "released": "2016-07-22",
+        "rating": "7.4",
+        "imdb_id": "tt5218432",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "Fish Out of Water",
+        "released": "2016-07-22",
+        "rating": "9.6",
+        "imdb_id": "tt5218434",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "Love And/Or Marriage",
+        "released": "2016-07-22",
+        "rating": "8.1",
+        "imdb_id": "tt5218444",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Brrap Brrap Pew Pew",
+        "released": "2016-07-22",
+        "rating": "N/A",
+        "imdb_id": "tt5113952",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "Stop the Presses",
+        "released": "2016-07-22",
+        "rating": "8.3",
+        "imdb_id": "tt5218452",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "Old Acquaintance",
+        "released": "2016-07-22",
+        "rating": "7.8",
+        "imdb_id": "tt5218464",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "Best Thing That Ever Happened",
+        "released": "2016-07-22",
+        "rating": "8.5",
+        "imdb_id": "tt5218468",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "It's You",
+        "released": "2016-07-22",
+        "rating": "8.8",
+        "imdb_id": "tt5218478",
+        "subtitles_exists": true,
+        "subtitles_full_path": "C:\\Users\\mor21\\PycharmProjects\\BigData_TV_Series_Project\\Data\\BoJack Horseman\\Subtitles\\S3\\Bojack.Horseman.S03E10.720p.WEBRip.X264-DEFLATE.engS3E10.zip"
+    },
+    "11": {
+        "title": "That's Too Much, Man!",
+        "released": "2016-07-22",
+        "rating": "9.6",
+        "imdb_id": "tt5218488",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "12": {
+        "title": "That Went Well",
+        "released": "2016-07-22",
+        "rating": "N/A",
+        "imdb_id": "tt5218494",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

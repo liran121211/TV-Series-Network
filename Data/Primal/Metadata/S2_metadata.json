@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title": "Sea of Despair",
+        "released": "2022-07-22",
+        "rating": "8.5",
+        "imdb_id": "tt13458388",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "2": {
+        "title": "Shadow of Fate",
+        "released": "2022-07-22",
+        "rating": "9.1",
+        "imdb_id": "tt21302906",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "3": {
+        "title": "Dawn of Man",
+        "released": "2022-07-29",
+        "rating": "N/A",
+        "imdb_id": "tt21352344",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "4": {
+        "title": "The Red Mist",
+        "released": "2022-08-05",
+        "rating": "9.3",
+        "imdb_id": "tt21496902",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "5": {
+        "title": "The Primal Theory",
+        "released": "2022-08-12",
+        "rating": "8.0",
+        "imdb_id": "tt21605296",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "6": {
+        "title": "Vidarr",
+        "released": "2022-08-19",
+        "rating": "8.7",
+        "imdb_id": "tt21619802",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "7": {
+        "title": "The Colossaeus",
+        "released": "2022-08-26",
+        "rating": "N/A",
+        "imdb_id": "tt21849362",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "8": {
+        "title": "The Colossaeus: II",
+        "released": "2022-09-02",
+        "rating": "8.8",
+        "imdb_id": "tt21849374",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "9": {
+        "title": "The Colossaeus: III",
+        "released": "2022-09-09",
+        "rating": "N/A",
+        "imdb_id": "tt21967754",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    },
+    "10": {
+        "title": "Echoes of Eternity",
+        "released": "2022-09-16",
+        "rating": "8.0",
+        "imdb_id": "tt21970710",
+        "subtitles_exists": false,
+        "subtitles_full_path": ""
+    }
+}

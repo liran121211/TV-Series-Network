@@ -1,0 +1,2943 @@
+﻿1
+00:00:06,966 --> 00:00:08,968
+(THEME SONG PLAYING)
+
+2
+00:01:52,154 --> 00:01:54,156
+(SPOKE CARD CLICKING)
+
+3
+00:02:11,132 --> 00:02:12,383
+<i>WAYNE: Yeah, of course I remember.</i>
+
+4
+00:02:14,385 --> 00:02:15,594
+<i>JIM: Not too long ago?</i>
+
+5
+00:02:19,515 --> 00:02:21,600
+Ten years is nothing.
+I remember everything.
+
+6
+00:02:23,144 --> 00:02:24,895
+JIM: Well, we can't know.
+
+7
+00:02:26,939 --> 00:02:30,443
+I mean, what you don't remember,
+you don't know you don't remember.
+
+8
+00:02:31,777 --> 00:02:34,155
+That's some education
+in semantics you're giving me.
+
+9
+00:02:35,948 --> 00:02:38,576
+Hey, let's skip the deposition
+
+10
+00:02:38,659 --> 00:02:40,578
+and I can just take notes
+on your lecture.
+
+11
+00:02:43,789 --> 00:02:44,790
+I brought my case file.
+
+12
+00:02:45,082 --> 00:02:47,001
+Thanks for coming in, Wayne.
+It's good to see you.
+
+13
+00:02:47,084 --> 00:02:48,377
+- Alan.
+- How's the job?
+
+14
+00:02:50,796 --> 00:02:51,797
+Still there.
+
+15
+00:02:55,051 --> 00:02:56,510
+No major cases, but...
+
+16
+00:02:57,887 --> 00:02:59,680
+Get more time with the wife and kids.
+
+17
+00:03:00,806 --> 00:03:01,974
+That's good, I guess.
+
+18
+00:03:02,266 --> 00:03:05,519
+I take time off, inside three days,
+my wife tells me, "Get back to work."
+
+19
+00:03:06,228 --> 00:03:07,229
+(CHUCKLES)
+
+20
+00:03:07,938 --> 00:03:09,065
+JIM: Well, Detective Hays,
+
+21
+00:03:09,231 --> 00:03:12,526
+we need you to go back over
+the Purcell case. Cases.
+
+22
+00:03:13,194 --> 00:03:14,987
+Looking to overturn
+the conviction, right?
+
+23
+00:03:19,283 --> 00:03:20,326
+You good with that?
+
+24
+00:03:20,785 --> 00:03:22,244
+I wouldn't be here otherwise.
+
+25
+00:03:22,870 --> 00:03:25,623
+Why contest it now,
+10 years after the fact?
+
+26
+00:03:28,125 --> 00:03:30,169
+It's the family doing it,
+I know. But why?
+
+27
+00:03:32,713 --> 00:03:34,423
+JIM: You're having
+memory problems, right?
+
+28
+00:03:35,549 --> 00:03:36,550
+What?
+
+29
+00:03:37,093 --> 00:03:38,511
+<i>WAYNE: You're having memory problems.</i>
+
+30
+00:03:39,095 --> 00:03:40,346
+<i>Don't whine about it.</i>
+
+31
+00:03:41,806 --> 00:03:43,933
+<i>Today's May 20th, 2015.</i>
+
+32
+00:03:45,142 --> 00:03:47,228
+<i>Henry's coming with
+the people from the TV.</i>
+
+33
+00:03:49,105 --> 00:03:52,191
+<i>You don't like the questions,
+or you don't wanna do it,</i>
+
+34
+00:03:53,025 --> 00:03:54,693
+<i>Henry'll tell them to go screw.</i>
+
+35
+00:03:56,362 --> 00:03:57,655
+<i>But remember why
+you're talking to them.</i>
+
+36
+00:03:58,906 --> 00:04:00,366
+<i>Figure out how much they know.</i>
+
+37
+00:04:01,158 --> 00:04:03,244
+<i>You don't need no surprises
+this late in the game.</i>
+
+38
+00:04:04,954 --> 00:04:07,373
+<i>I'm recording this on the 19th.</i>
+
+39
+00:04:08,374 --> 00:04:11,669
+<i>Today's the 20th.
+Look at your pictures.</i>
+
+40
+00:04:12,086 --> 00:04:13,838
+<i>Take notes. Remember.</i>
+
+41
+00:04:15,172 --> 00:04:16,757
+<i>Remember the nightstand if you...</i>
+
+42
+00:04:17,883 --> 00:04:18,884
+<i>If you need it.</i>
+
+43
+00:04:26,684 --> 00:04:27,977
+(KNOCKING AT DOOR)
+
+44
+00:04:30,479 --> 00:04:31,647
+- HENRY: Hey, Dad.
+- Hi.
+
+45
+00:04:33,065 --> 00:04:34,483
+They're all set when you're ready.
+
+46
+00:04:37,778 --> 00:04:38,779
+Mmm-hmm.
+
+47
+00:04:46,162 --> 00:04:47,163
+(SIGHS)
+
+48
+00:04:47,246 --> 00:04:48,873
+ALAN: I think it's a strong case.
+
+49
+00:04:50,749 --> 00:04:52,251
+You're paid to think that, right?
+
+50
+00:04:56,213 --> 00:04:59,175
+My wife's publishing a book about it.
+Maybe she could help you.
+
+51
+00:05:00,176 --> 00:05:01,677
+Let's get through this first.
+
+52
+00:05:02,720 --> 00:05:05,264
+Could you tell us
+about November 7th, 1980?
+
+53
+00:05:05,556 --> 00:05:06,974
+<i>Your “meme of events.</i>
+
+54
+00:05:08,893 --> 00:05:09,894
+Sure.
+
+55
+00:05:17,985 --> 00:05:18,986
+(SIGHS)
+
+56
+00:05:21,155 --> 00:05:23,491
+November 7th, 1980.
+
+57
+00:05:25,910 --> 00:05:27,119
+<i>Friday.</i>
+
+58
+00:05:28,412 --> 00:05:30,706
+<i>I remember it was the day
+Steve McQueen died.</i>
+
+59
+00:05:37,421 --> 00:05:39,423
+(COUNTRY MUSIC PLAYING OVER RADIO)
+
+60
+00:05:42,801 --> 00:05:45,304
+Hey, Dad.
+Can we ride out to the playground?
+
+61
+00:05:46,138 --> 00:05:47,139
+What for?
+
+62
+00:05:47,640 --> 00:05:49,600
+Ronnie's got a new dog
+he's bringing out there.
+
+63
+00:05:52,645 --> 00:05:54,855
+- Home by 5:30.
+- WILL: Yes, sir.
+
+64
+00:06:01,612 --> 00:06:04,198
+Hey, Dad. When's Mom coming home?
+
+65
+00:06:05,866 --> 00:06:06,867
+I don't know.
+
+66
+00:06:07,952 --> 00:06:10,287
+- Hey, watch out for your sister.
+- Yes, sir.
+
+67
+00:06:11,622 --> 00:06:13,207
+Home by 5:30. I mean it!
+
+68
+00:06:13,666 --> 00:06:15,668
+Y'all be back before the sun
+goes down, you understand?
+
+69
+00:06:15,834 --> 00:06:17,002
+- Yes, sir!
+- Yes, sir!
+
+70
+00:06:21,090 --> 00:06:23,092
+(MUSIC CONTINUES PLAYING)
+
+71
+00:06:35,563 --> 00:06:37,565
+(SPOKE CARD CLICKING)
+
+72
+00:06:48,075 --> 00:06:50,077
+(DOGS BARKING)
+
+73
+00:07:00,504 --> 00:07:03,007
+Kids left their house
+approximately 4:00 pm.
+
+74
+00:07:04,300 --> 00:07:05,926
+This from multiple statements.
+
+75
+00:07:06,802 --> 00:07:08,804
+(PUNK ROCK MUSIC PLAYING OVER RADIO)
+
+76
+00:07:15,644 --> 00:07:16,812
+FREDDY: Come on, let's go!
+
+77
+00:07:24,320 --> 00:07:25,362
+Let's go.
+
+78
+00:07:26,614 --> 00:07:28,490
+- Dude, watch the leather, man.
+- JASON: Dude, all right.
+
+79
+00:07:38,125 --> 00:07:39,126
+(SPOKE CARD CLICKING)
+
+80
+00:08:39,895 --> 00:08:40,938
+-(ENGINE TURNS OFF)
+-(MUSIC STOPS)
+
+81
+00:08:44,900 --> 00:08:46,902
+(CLICKING CONTINUES)
+
+82
+00:09:02,126 --> 00:09:03,460
+ALAN: <i>And What were you doing
+that evening?</i>
+
+83
+00:09:05,879 --> 00:09:09,091
+I was with my partner at the time.
+Roland West.
+
+84
+00:09:11,385 --> 00:09:12,803
+We were doing our regular shift.
+
+85
+00:09:13,804 --> 00:09:16,974
+Following up on
+a series of thefts, I believe.
+
+86
+00:09:19,518 --> 00:09:20,644
+<i>Working cases.</i>
+
+87
+00:09:23,355 --> 00:09:24,732
+ROLAND: You'll get him next time.
+
+88
+00:09:26,483 --> 00:09:29,194
+Fate spared its shitty rat life,
+and it has no clue.
+
+89
+00:09:30,696 --> 00:09:32,781
+Another way of saying
+you're slow on the draw.
+
+90
+00:09:41,790 --> 00:09:43,417
+ROLAND: Steve McQueen died today.
+
+91
+00:09:58,849 --> 00:10:00,184
+We should do something.
+
+92
+00:10:02,144 --> 00:10:03,353
+We could go to Miss Minnie's.
+
+93
+00:10:04,480 --> 00:10:06,482
+Give me a break.
+I can't pay for it, man.
+
+94
+00:10:07,024 --> 00:10:09,151
+It's more honest
+than most relationships.
+
+95
+00:10:10,486 --> 00:10:12,988
+You never bought no Saigon trim
+while you was over there?
+
+96
+00:10:15,073 --> 00:10:16,575
+Guess I'm a romantic.
+
+97
+00:10:17,785 --> 00:10:19,077
+I'm a feminist.
+
+98
+00:10:20,120 --> 00:10:22,748
+They want to sell me a piece
+of ass, they got the right.
+
+99
+00:10:23,373 --> 00:10:24,374
+Shit.
+
+100
+00:10:24,666 --> 00:10:26,752
+You're gonna pay for it
+one way or another.
+
+101
+00:10:32,966 --> 00:10:34,968
+You see yourself
+getting married, Purple?
+
+102
+00:10:36,678 --> 00:10:37,679
+No, sir.
+
+103
+00:10:38,806 --> 00:10:40,098
+I'm not a big enough asshole
+
+104
+00:10:40,182 --> 00:10:41,934
+to put a woman
+and children through that.
+
+105
+00:10:43,227 --> 00:10:44,228
+(SIGHS)
+
+106
+00:10:50,275 --> 00:10:51,276
+Hey.
+
+107
+00:10:54,238 --> 00:10:55,239
+Don't.
+
+108
+00:10:56,573 --> 00:10:58,408
+Shh.
+
+109
+00:11:06,250 --> 00:11:07,251
+Dick!
+
+110
+00:11:08,794 --> 00:11:10,796
+Foxes are predatory vermin, son.
+
+111
+00:11:13,006 --> 00:11:16,301
+Farmers, I was little, they gave
+you a dollar, you kill a fox.
+
+112
+00:11:16,927 --> 00:11:18,387
+I'll give you a dollar
+for letting it go.
+
+113
+00:11:24,726 --> 00:11:25,978
+Let's go ride around.
+
+114
+00:11:27,479 --> 00:11:28,939
+Listen to some music.
+
+115
+00:11:30,148 --> 00:11:31,191
+All right.
+
+116
+00:11:32,150 --> 00:11:34,987
+Maybe we can find somebody
+to beat the shit out of.
+
+117
+00:11:35,445 --> 00:11:36,572
+Boy, that'd be nice.
+
+118
+00:11:37,823 --> 00:11:38,824
+<i>(ROLAND GRUNT S)</i>
+
+119
+00:12:11,565 --> 00:12:13,734
+(DOG BARKING)
+
+120
+00:12:27,706 --> 00:12:31,835
+I don't think so. Let me ask him.
+Hey, son? Ronnie?
+
+121
+00:12:33,086 --> 00:12:34,630
+You seen the Purcell kids?
+Will and his sister?
+
+122
+00:12:34,713 --> 00:12:36,089
+- Were they here?
+- No.
+
+123
+00:12:36,632 --> 00:12:38,216
+Ronnie says they haven't been by.
+
+124
+00:12:38,425 --> 00:12:40,218
+You heard from them at all?
+Were they supposed to come by?
+
+125
+00:12:40,636 --> 00:12:43,805
+No. I told him he could come by
+to see the new puppy sometime.
+
+126
+00:12:44,306 --> 00:12:45,891
+But he didn't say today.
+
+127
+00:12:46,475 --> 00:12:48,352
+No, Tom, I'm sorry.
+He hasn't heard from them.
+
+128
+00:12:49,227 --> 00:12:51,146
+Yeah, he's been here
+all afternoon, since school.
+
+129
+00:12:52,898 --> 00:12:55,150
+All right.
+I'll let you know if I hear anything.
+
+130
+00:13:27,099 --> 00:13:29,101
+(PEOPLE CHEERING, LAUGHING)
+
+131
+00:13:30,602 --> 00:13:32,729
+(PEOPLE CHATTERING INDISTINCTLY)
+
+132
+00:13:37,359 --> 00:13:39,027
+JEREMY: This fucking piece of shit.
+
+133
+00:13:41,196 --> 00:13:42,864
+(MAN LAUGHING)
+
+134
+00:13:49,621 --> 00:13:51,665
+(LAUGHING)
+
+135
+00:14:13,478 --> 00:14:15,480
+(COUNTRY MUSIC PLAYING OVER RADIO)
+
+136
+00:14:15,605 --> 00:14:17,774
+I don't wanna eat no boar meat, man.
+
+137
+00:14:19,568 --> 00:14:21,069
+Tracked it for two days.
+
+138
+00:14:23,280 --> 00:14:25,323
+Had to make my own muzzleloader
+for the season.
+
+139
+00:14:26,366 --> 00:14:28,618
+Why'd you kill a boar, but not a fox?
+
+140
+00:14:30,078 --> 00:14:32,289
+Well, you eat the boar.
+
+141
+00:14:35,542 --> 00:14:38,962
+I only had the one shot at him.
+If I missed, that was my ass.
+
+142
+00:14:40,839 --> 00:14:43,717
+Guess I like
+a more level playing field.
+
+143
+00:14:45,886 --> 00:14:47,220
+Except with rats.
+
+144
+00:14:48,638 --> 00:14:50,682
+You know how many times
+rats almost ended civilization?
+
+145
+00:14:51,933 --> 00:14:52,976
+How many?
+
+146
+00:14:53,935 --> 00:14:55,479
+I don't know. At least two.
+
+147
+00:14:57,606 --> 00:14:58,774
+<i>Mate rats.</i>
+
+148
+00:14:59,941 --> 00:15:02,486
+What about deer? You hunt deer?
+
+149
+00:15:02,819 --> 00:15:04,029
+Only with a bow.
+
+150
+00:15:05,197 --> 00:15:07,115
+Never in a stand and never with bait.
+
+151
+00:15:09,117 --> 00:15:11,411
+OFFICER: (OVER SCANNER)
+<i>D-12, over. D-12, do you copy?</i>
+
+152
+00:15:13,205 --> 00:15:14,247
+(GRUNTS)
+
+153
+00:15:16,041 --> 00:15:17,459
+D-12 here. Over.
+
+154
+00:15:18,043 --> 00:15:21,046
+<i>PD in West Finger called for assist.
+Missing persons.</i>
+
+155
+00:15:21,421 --> 00:15:23,715
+<i>That's 5009 Shoepick Lane.</i>
+
+156
+00:15:26,259 --> 00:15:28,929
+Copy. We got it. Be there in 10.
+
+157
+00:15:32,099 --> 00:15:33,100
+Fifteen.
+
+158
+00:15:34,810 --> 00:15:35,936
+Shoepick Lane?
+
+159
+00:15:36,770 --> 00:15:40,023
+Go towards Devil's Den.
+You know how to get to West Finger.
+
+160
+00:15:42,818 --> 00:15:44,653
+We almost had a clean night, man.
+
+161
+00:15:46,196 --> 00:15:47,614
+Turn on the light if you want.
+
+162
+00:16:04,256 --> 00:16:06,258
+(OFFICERS CHATTERING INDISTINCTLY)
+
+163
+00:16:16,643 --> 00:16:17,769
+It's Tom Purcell.
+
+164
+00:16:18,019 --> 00:16:20,730
+Two kids, William and Julie,
+12 and 10.
+
+165
+00:16:20,814 --> 00:16:22,858
+Supposed to be home by 5:30,
+never arrived.
+
+166
+00:16:22,941 --> 00:16:24,818
+TOM: They not been home
+before the sun goes down.
+
+167
+00:16:25,277 --> 00:16:26,570
+That part I know.
+
+168
+00:16:30,615 --> 00:16:31,992
+INTERVIEWER:
+<i>Is this setup okay for you?</i>
+
+169
+00:16:33,577 --> 00:16:36,413
+Uh, yes. This is fine.
+
+170
+00:16:46,756 --> 00:16:48,717
+So, you caught the case back in '80.
+
+171
+00:16:49,759 --> 00:16:51,178
+Uh, yes.
+
+172
+00:16:54,681 --> 00:16:56,016
+Big full moon that night...
+
+173
+00:16:57,559 --> 00:16:58,560
+And, uh...
+
+174
+00:17:03,190 --> 00:17:04,316
+I remember the moon.
+
+175
+00:17:04,983 --> 00:17:07,402
+And Steve McQueen had died.
+
+176
+00:17:09,404 --> 00:17:12,657
+Will and Julie.
+I can't find them anywhere.
+
+177
+00:17:13,241 --> 00:17:15,410
+Listen, we need a bunch of people
+out here right now.
+
+178
+00:17:15,493 --> 00:17:17,704
+Okay, you need to be on every street,
+down in the woods...
+
+179
+00:17:17,787 --> 00:17:19,581
+All right, Mr. Purcell,
+slow down, please.
+
+180
+00:17:20,415 --> 00:17:21,791
+Take us through what happened,
+you could,
+
+181
+00:17:21,875 --> 00:17:23,585
+so we can know the right thing
+to do next.
+
+182
+00:17:29,382 --> 00:17:33,261
+Went riding their bikes, around 4:00.
+Supposed to be home by 5:30.
+
+183
+00:17:34,596 --> 00:17:35,972
+They were supposed
+to go by a friend's house.
+
+184
+00:17:36,056 --> 00:17:37,557
+Kid says he never saw them.
+
+185
+00:17:38,516 --> 00:17:40,393
+<i>Never occurred to you
+he might be lying?</i>
+
+186
+00:17:41,102 --> 00:17:42,270
+Of course it did.
+
+187
+00:17:43,271 --> 00:17:46,316
+General rule is, everybody's lying.
+Peflod.
+
+188
+00:17:47,901 --> 00:17:49,653
+First impression, though, no.
+
+189
+00:17:50,820 --> 00:17:53,073
+I did not believe he was fabricating.
+Not about this.
+
+190
+00:17:54,115 --> 00:17:55,408
+"About this"?
+
+191
+00:17:55,659 --> 00:17:59,913
+Yeah. I mean, I checked around
+
+192
+00:17:59,996 --> 00:18:02,415
+if he was honest about
+his overtime or his height.
+
+193
+00:18:03,583 --> 00:18:04,584
+(SIGHS)
+
+194
+00:18:07,254 --> 00:18:08,546
+What is this, really?
+
+195
+00:18:09,673 --> 00:18:10,966
+Y'all know something I don't?
+
+196
+00:18:11,299 --> 00:18:13,802
+Well, we don't know what you know.
+
+197
+00:18:15,262 --> 00:18:17,097
+So we can't really answer that.
+
+198
+00:18:19,849 --> 00:18:21,685
+I was deposed when the man's family
+
+199
+00:18:21,768 --> 00:18:24,396
+tried getting the conviction
+overturned in '90.
+
+200
+00:18:26,106 --> 00:18:28,692
+Then worked the case again
+when it was reopened.
+
+201
+00:18:29,901 --> 00:18:31,653
+That's when my wife
+published the book.
+
+202
+00:18:33,321 --> 00:18:35,240
+Wish you could've
+talked to her. (CHUCKLES)
+
+203
+00:18:38,201 --> 00:18:42,956
+I used to think back then
+it was before 'Nam and after 'Nam.
+
+204
+00:18:44,332 --> 00:18:49,045
+But more it's
+before the Purcell case and after.
+
+205
+00:18:51,298 --> 00:18:52,966
+And it keeps coming back.
+
+206
+00:18:54,134 --> 00:18:55,510
+And here we are.
+
+207
+00:18:56,303 --> 00:18:58,305
+What is it, 2015?
+
+208
+00:19:00,223 --> 00:19:01,641
+Come back again.
+
+209
+00:19:03,351 --> 00:19:05,937
+And your wife's book,
+which is now, well,
+
+210
+00:19:06,021 --> 00:19:08,481
+it's considered a classic
+of literary nonfiction.
+
+211
+00:19:10,400 --> 00:19:13,153
+Yeah. Yeah.
+
+212
+00:19:16,406 --> 00:19:17,657
+She did a good job.
+
+213
+00:19:22,078 --> 00:19:23,204
+She was a good...
+
+214
+00:19:27,667 --> 00:19:28,835
+She was a good writer.
+
+215
+00:19:31,546 --> 00:19:32,714
+Good teacher...
+
+216
+00:19:33,631 --> 00:19:35,342
+Good investigator, really.
+
+217
+00:19:36,885 --> 00:19:38,303
+She was good at lots of things.
+
+218
+00:19:39,888 --> 00:19:42,432
+- I'm sorry for your loss.
+- Yeah.
+
+219
+00:19:43,641 --> 00:19:44,809
+A few years back...
+
+220
+00:19:49,439 --> 00:19:51,733
+We made plans. I retired and...
+
+221
+00:19:56,363 --> 00:19:57,864
+It just got me thinking.
+
+222
+00:19:58,323 --> 00:20:00,950
+(INHALES, EXHALES HEAVILY)
+
+223
+00:20:01,826 --> 00:20:04,496
+Those kids. My kids. My wife.
+
+224
+00:20:19,177 --> 00:20:20,387
+I'm sorry.
+
+225
+00:20:21,513 --> 00:20:23,181
+Guess I'm just missing her today.
+
+226
+00:20:27,102 --> 00:20:31,189
+Your wife, Mr. Purcell.
+She expected back tonight?
+
+227
+00:20:34,484 --> 00:20:35,485
+I think.
+
+228
+00:20:38,405 --> 00:20:39,614
+I don't know.
+
+229
+00:20:39,948 --> 00:20:41,699
+Any chance the kids could be with her?
+
+230
+00:20:41,783 --> 00:20:44,035
+No. No, no chance.
+
+231
+00:20:44,869 --> 00:20:45,870
+ROLAND: Have you talked to her?
+
+232
+00:20:46,788 --> 00:20:47,914
+TOM: Well, not since this morning.
+
+233
+00:20:49,040 --> 00:20:50,583
+She waitresses down at The Sawhorse.
+
+234
+00:20:51,584 --> 00:20:54,587
+She's out with her friends now,
+and I can't reach her.
+
+235
+00:20:56,131 --> 00:20:57,298
+Get the APB out right away.
+
+236
+00:20:57,799 --> 00:20:59,551
+I need as many troopers
+as Highway can spare.
+
+237
+00:20:59,634 --> 00:21:00,760
+<i>K-9 trackers.</i>
+
+238
+00:21:01,177 --> 00:21:02,804
+If State's isn't available,
+check with the sheriffs.
+
+239
+00:21:03,388 --> 00:21:04,681
+We're gonna search the fields,
+the woods,
+
+240
+00:21:05,265 --> 00:21:06,766
+put patrols on every street.
+
+241
+00:21:06,850 --> 00:21:08,852
+High beams out.
+I wanna light all this up.
+
+242
+00:21:08,935 --> 00:21:10,186
+TOM: Ain't you gonna call the FBI?
+
+243
+00:21:11,229 --> 00:21:12,897
+I mean, that's what they do on TV.
+
+244
+00:21:13,106 --> 00:21:16,317
+Takes 72 hours, sir.
+We don't know yet if...
+
+245
+00:21:18,653 --> 00:21:19,904
+We have to wait on that.
+
+246
+00:21:20,321 --> 00:21:22,657
+You two. Start canvassing neighbors.
+
+247
+00:21:22,740 --> 00:21:24,784
+Ask if they saw the kids,
+anything unusual.
+
+248
+00:21:25,493 --> 00:21:27,662
+ROLAND: Any other relatives
+the kids might be with?
+
+249
+00:21:27,745 --> 00:21:31,374
+TOM: No. No, my parents
+are in Shreveport, and Lucy's passed.
+
+250
+00:21:32,917 --> 00:21:35,587
+You know what? Talk to Ronnie Boyle.
+Will's friend.
+
+251
+00:21:36,254 --> 00:21:38,256
+You know, I could take y'all
+out to the playground.
+
+252
+00:21:38,548 --> 00:21:39,716
+Okay, sure.
+
+253
+00:21:41,301 --> 00:21:43,595
+Mind if we look around the house while
+we wait on the other officers?
+
+254
+00:21:43,761 --> 00:21:45,722
+They're not in the fucking house.
+
+255
+00:21:45,805 --> 00:21:48,016
+ROLAND: Yes, sir, but sometimes,
+
+256
+00:21:48,475 --> 00:21:50,351
+might be some kind of clue
+where they went,
+
+257
+00:21:50,727 --> 00:21:52,061
+if they had other plans.
+
+258
+00:21:52,687 --> 00:21:54,564
+- What? Why would they...
+- WAYNE: Just saying, sir.
+
+259
+00:21:54,647 --> 00:21:56,149
+It's been known to do some good.
+
+260
+00:21:56,357 --> 00:21:57,567
+We have to consider all possibilities.
+
+261
+00:21:57,650 --> 00:21:58,651
+TOM: Yeah.
+
+262
+00:21:59,986 --> 00:22:03,406
+- Whatever. You know, do what you want.
+- Mr. Purcell...
+
+263
+00:22:03,573 --> 00:22:06,242
+Take the house apart, you want.
+Flip on the TV. Grab yourself a beer.
+
+264
+00:22:06,326 --> 00:22:07,410
+I'm going out to find my kids.
+
+265
+00:22:08,953 --> 00:22:10,663
+I know you want to do that, sir,
+
+266
+00:22:11,581 --> 00:22:14,501
+but I promise,
+we're getting that handled.
+
+267
+00:22:14,584 --> 00:22:16,419
+We need you nearby,
+answering questions
+
+268
+00:22:16,503 --> 00:22:17,921
+or if somebody calls.
+
+269
+00:22:19,422 --> 00:22:20,423
+Oh.
+
+270
+00:22:21,216 --> 00:22:22,592
+You promise?
+
+271
+00:22:24,427 --> 00:22:25,428
+Huh?
+
+272
+00:22:27,680 --> 00:22:28,890
+Yes, sir.
+
+273
+00:22:31,434 --> 00:22:32,936
+Can you take us through the house?
+
+274
+00:22:34,979 --> 00:22:35,980
+Please?
+
+275
+00:23:09,472 --> 00:23:10,807
+That's Will's room.
+
+276
+00:23:12,475 --> 00:23:13,476
+That's Julie's.
+
+277
+00:23:19,065 --> 00:23:20,149
+That one you and your wife's?
+
+278
+00:23:22,860 --> 00:23:24,112
+My wife's.
+
+279
+00:23:27,073 --> 00:23:29,784
+Well, go on. Knock yourself out.
+
+280
+00:24:13,953 --> 00:24:16,289
+ROLAND: Think his wife left him,
+took the kids?
+
+281
+00:24:18,166 --> 00:24:20,335
+I mean, they ain't together.
+
+282
+00:24:21,294 --> 00:24:22,503
+Think you're right.
+
+283
+00:24:26,007 --> 00:24:27,383
+I hope you're right.
+
+284
+00:24:30,470 --> 00:24:32,889
+Expect she'll call by the morning
+if that's the case.
+
+285
+00:24:35,642 --> 00:24:38,269
+WAYNE: <i>In fact, our first thought was
+the Wife had taken off with the kids</i>
+
+286
+00:24:38,353 --> 00:24:39,604
+and hadn't told the guy.
+
+287
+00:24:40,897 --> 00:24:42,523
+The marriage wasn't in a good place.
+
+288
+00:24:43,900 --> 00:24:45,360
+JIM: When'd you drop that theory?
+
+289
+00:24:47,320 --> 00:24:48,863
+About two minutes later.
+
+290
+00:24:49,280 --> 00:24:51,199
+LUCY: What the fuck is going on, Tom?
+TOM: Let me talk to you.
+
+291
+00:24:51,282 --> 00:24:52,659
+Lucy! Come here, God damn it.
+
+292
+00:24:53,284 --> 00:24:54,702
+What happened?
+
+293
+00:24:56,663 --> 00:24:58,956
+What did you do? What did you do?
+
+294
+00:24:59,040 --> 00:25:01,542
+Me? Me? You're their fucking mother.
+Where were you?
+
+295
+00:25:01,626 --> 00:25:02,627
+Where were you?
+
+296
+00:25:02,710 --> 00:25:06,172
+I am entitled to a life!
+All you had to do was watch them!
+
+297
+00:25:06,422 --> 00:25:08,508
+I let them ride bikes
+like we done a million times.
+
+298
+00:25:08,591 --> 00:25:11,052
+All right? Maybe if you were home
+and not out looking for dick!
+
+299
+00:25:11,135 --> 00:25:12,261
+WAYNE: Mrs. Purcell.
+
+300
+00:25:13,513 --> 00:25:16,182
+I'm Wayne Hays. This is Roland West.
+
+301
+00:25:17,600 --> 00:25:18,976
+State Police detectives.
+
+302
+00:25:19,727 --> 00:25:22,230
+We put an APB on your kids.
+We got men coming to search now.
+
+303
+00:25:22,855 --> 00:25:24,565
+Can you think of anywhere
+they might have gone?
+
+304
+00:25:25,400 --> 00:25:27,193
+Friends or relations?
+
+305
+00:25:27,694 --> 00:25:30,279
+No. We don't have any...
+
+306
+00:25:31,531 --> 00:25:33,533
+Relatives close or nearby.
+
+307
+00:25:33,616 --> 00:25:37,787
+I don't understand. What happened?
+
+308
+00:25:38,746 --> 00:25:41,666
+You dumb-ass! You piece of shit!
+
+309
+00:25:41,833 --> 00:25:43,876
+- You slut! You slut!
+- You stupid piece of shit!
+
+310
+00:25:43,960 --> 00:25:44,961
+Hey!
+
+311
+00:25:46,087 --> 00:25:47,922
+You been drinking tonight,
+Mrs. Purcell?
+
+312
+00:25:48,381 --> 00:25:49,382
+What?
+
+313
+00:25:50,466 --> 00:25:52,635
+So? It's not against the law.
+
+314
+00:25:52,719 --> 00:25:54,929
+- I'm entitled to a life.
+- Of course you are.
+
+315
+00:25:55,596 --> 00:25:57,765
+But you two getting mad
+isn't helping anything right now.
+
+316
+00:25:58,349 --> 00:26:00,309
+You need to work together, with us.
+
+317
+00:26:00,893 --> 00:26:02,395
+Okay? For the kids.
+
+318
+00:26:04,564 --> 00:26:06,607
+God damn it, he's so stupid.
+
+319
+00:26:07,775 --> 00:26:10,111
+Everything you touch turns to shit.
+
+320
+00:26:10,194 --> 00:26:12,405
+You been running me down...
+You been running me down for 10 years.
+
+321
+00:26:12,488 --> 00:26:13,489
+Hey!
+
+322
+00:26:14,449 --> 00:26:16,409
+Why don't we get some coffee going,
+all right?
+
+323
+00:26:17,660 --> 00:26:19,245
+Everybody just calm down.
+
+324
+00:26:24,667 --> 00:26:26,127
+I'll make the coffee.
+
+325
+00:26:41,434 --> 00:26:44,353
+Kids headed west down the street,
+going to a playground near the school.
+
+326
+00:26:44,896 --> 00:26:47,482
+I want three two-man teams
+going through these fields
+
+327
+00:26:47,565 --> 00:26:48,983
+<i>between the main roads.</i>
+
+328
+00:26:49,317 --> 00:26:51,319
+(OFFICERS CHATTERING INDISTINCTLY)
+
+329
+00:27:09,212 --> 00:27:10,213
+<i>ROLAND: Everybody else,</i>
+
+330
+00:27:10,713 --> 00:27:13,216
+get spotlights up and down
+each one of these streets.
+
+331
+00:27:13,341 --> 00:27:15,343
+Here, here and here.
+
+332
+00:27:16,260 --> 00:27:17,637
+<i>Y'all start canvassing.</i>
+
+333
+00:27:29,941 --> 00:27:32,485
+We're waiting on dogs,
+but let's get going.
+
+334
+00:27:32,568 --> 00:27:33,778
+OFFICER: Yes, sir.
+
+335
+00:28:42,555 --> 00:28:43,723
+TOM: I ain't never seen these before.
+
+336
+00:28:44,807 --> 00:28:47,059
+You sure? No judgement.
+
+337
+00:28:47,977 --> 00:28:51,147
+- I mean, I read it myself.
+- Yeah. So do I.
+
+338
+00:28:51,981 --> 00:28:54,775
+But these are old,
+and I never seen them.
+
+339
+00:28:58,112 --> 00:28:59,280
+He had these?
+
+340
+00:29:00,156 --> 00:29:02,491
+- It's not unusual.
+- No.
+
+341
+00:29:05,411 --> 00:29:06,829
+Y'all find anything else?
+
+342
+00:29:08,539 --> 00:29:09,582
+No, sir.
+
+343
+00:29:11,167 --> 00:29:12,543
+If we could ask their mother,
+
+344
+00:29:13,586 --> 00:29:15,671
+maybe she could tell us
+they have any clothes missing or not.
+
+345
+00:29:16,714 --> 00:29:17,840
+Might point us if they run off.
+
+346
+00:29:17,924 --> 00:29:19,842
+No, I don't think
+she's in shape for that.
+
+347
+00:29:21,010 --> 00:29:23,346
+And they didn't run off.
+I'm telling you.
+
+348
+00:29:23,429 --> 00:29:25,765
+Yes, sir. But it needs doing.
+
+349
+00:29:26,724 --> 00:29:27,892
+Save us time.
+
+350
+00:29:57,546 --> 00:29:58,839
+NEIGHBOR: <i>I didn't see the children.</i>
+
+351
+00:29:59,715 --> 00:30:03,719
+But I saw some older boys, teenagers,
+in a purple Volkswagen Bug.
+
+352
+00:30:05,554 --> 00:30:07,098
+I wasn't home until after 7:00.
+
+353
+00:30:08,641 --> 00:30:11,852
+I saw the two kids
+riding out toward the park.
+
+354
+00:30:12,979 --> 00:30:14,563
+But I didn't see any teenagers.
+
+355
+00:30:15,690 --> 00:30:17,608
+But I know they hang around
+at Devil's Den.
+
+356
+00:30:18,985 --> 00:30:22,154
+I hear things,
+about what they do out there.
+
+357
+00:30:23,948 --> 00:30:25,408
+NEIGHBOR 2: Yeah, sometimes, like,
+
+358
+00:30:25,950 --> 00:30:28,160
+out by the ranger tower
+at the edge of the park,
+
+359
+00:30:28,869 --> 00:30:31,038
+people hang out, listen to music.
+
+360
+00:30:32,248 --> 00:30:35,084
+Um, that Volkswagen is
+Freddy Burns', I think.
+
+361
+00:30:35,751 --> 00:30:38,963
+I seen that "Trash Man" fella.
+I don't know his name.
+
+362
+00:30:39,797 --> 00:30:42,633
+Rides around town in a go-cart,
+picking through garbage. (CHUCKLES)
+
+363
+00:30:43,092 --> 00:30:44,385
+Everybody knows him.
+
+364
+00:30:44,802 --> 00:30:47,638
+Patty, what's that
+"Trash Man" guy's name?
+
+365
+00:30:48,681 --> 00:30:51,058
+His last name's Woodard, I think.
+
+366
+00:30:52,184 --> 00:30:56,188
+I saw him riding around
+when I was looking for the kids.
+
+367
+00:30:57,064 --> 00:31:01,068
+He drives a go-cart
+and tows this little trailer.
+
+368
+00:31:01,152 --> 00:31:04,572
+He picks up trash and sells it
+at the scrapyard, I guess.
+
+369
+00:31:04,655 --> 00:31:05,865
+Been around for years.
+
+370
+00:31:06,949 --> 00:31:07,992
+I never liked him.
+
+371
+00:31:08,784 --> 00:31:10,453
+Going through other people's trash.
+
+372
+00:31:11,078 --> 00:31:12,580
+Any idea where he lives?
+
+373
+00:31:14,957 --> 00:31:17,752
+We're sorry for the personal nature
+of these questions,
+
+374
+00:31:19,045 --> 00:31:20,546
+but we need to know everything we can.
+
+375
+00:31:23,049 --> 00:31:24,800
+How long you folks
+been sleeping separate?
+
+376
+00:31:26,427 --> 00:31:28,679
+- Few months.
+- About six months.
+
+377
+00:31:28,763 --> 00:31:30,973
+- Since beginning of summer.
+- LUCY: Hasn't been that long.
+
+378
+00:31:31,057 --> 00:31:34,101
+TOM: Yeah, it has. Dan left last May,
+then I took the couch.
+
+379
+00:31:34,602 --> 00:31:36,771
+- Dan?
+- He's my cousin.
+
+380
+00:31:37,313 --> 00:31:38,522
+Stayed with us a few weeks
+Iastspflng.
+
+381
+00:31:38,773 --> 00:31:40,191
+He's like an uncle to the kids.
+
+382
+00:31:40,983 --> 00:31:42,359
+And what's his last name?
+
+383
+00:31:42,443 --> 00:31:45,529
+O'Brien. Same as mine. Used to be.
+
+384
+00:31:46,530 --> 00:31:47,615
+Where's he live?
+
+385
+00:31:47,990 --> 00:31:49,992
+He's up in Springfield, Missouri.
+
+386
+00:31:51,285 --> 00:31:53,329
+But he hasn't seen the family
+in a long time.
+
+387
+00:31:53,829 --> 00:31:54,830
+He stayed there on the couch?
+
+388
+00:31:54,914 --> 00:31:58,084
+No, he stayed in Will's room.
+Will was on the couch.
+
+389
+00:32:05,216 --> 00:32:07,051
+Would you write down his contact info?
+
+390
+00:32:08,219 --> 00:32:09,386
+Phone number and address.
+
+391
+00:32:09,595 --> 00:32:11,931
+What for? Been gone since May.
+
+392
+00:32:12,515 --> 00:32:14,266
+Just have to check out
+anything we can.
+
+393
+00:32:14,975 --> 00:32:18,062
+Sometimes, there's tension
+between the parents,
+
+394
+00:32:19,105 --> 00:32:20,397
+or fighting and whatnot.
+
+395
+00:32:21,398 --> 00:32:23,025
+Kids'II make like to run away.
+
+396
+00:32:23,109 --> 00:32:24,902
+They didn't run away, God damn it.
+
+397
+00:32:26,070 --> 00:32:28,405
+Why don't you go find
+that "Trash Man" bastard
+
+398
+00:32:28,489 --> 00:32:29,990
+and ask him some questions?
+
+399
+00:32:30,324 --> 00:32:32,701
+- Did you talk to Ronnie Boyle?
+- ROLAND: We did.
+
+400
+00:32:33,369 --> 00:32:35,037
+Hadn't seen Will since school.
+
+401
+00:32:35,663 --> 00:32:37,498
+Parents said he'd been home
+since 3:00.
+
+402
+00:32:37,748 --> 00:32:39,416
+-(LUCY SOBS)
+- TOM: But they didn't run off.
+
+403
+00:32:42,086 --> 00:32:43,629
+(SOBBING)
+
+404
+00:32:51,762 --> 00:32:53,889
+WAYNE: <i>Everybody went home
+to wait for daylight.</i>
+
+405
+00:32:55,099 --> 00:32:56,976
+<i>I didn't go to sleep that first night.</i>
+
+406
+00:32:57,643 --> 00:33:00,354
+<i>I stayed out, trying to find a trail.</i>
+
+407
+00:33:03,983 --> 00:33:05,818
+<i>I was a tracker, you</i> see.
+
+408
+00:33:34,388 --> 00:33:35,556
+-(ELECTRICITY CRACKLES)
+-(BULB BURSTS)
+
+409
+00:33:39,894 --> 00:33:41,020
+I should stop.
+
+410
+00:33:42,813 --> 00:33:43,939
+Do I need to stop?
+
+411
+00:33:46,358 --> 00:33:48,527
+No, uh, we're okay.
+
+412
+00:33:49,945 --> 00:33:51,322
+Sorry about that.
+
+413
+00:33:52,281 --> 00:33:53,866
+Please, continue, Mr. Hays.
+
+414
+00:33:53,991 --> 00:33:54,992
+WAYNE: Uh...
+
+415
+00:33:56,577 --> 00:33:59,496
+Had maybe 15 guys
+out that first night.
+
+416
+00:34:00,539 --> 00:34:02,166
+They went home after a few hours.
+
+417
+00:34:02,833 --> 00:34:06,086
+Day would give us better odds.
+Get the news to help.
+
+418
+00:34:07,671 --> 00:34:10,382
+REPORTER: <i>Two children are missing
+from a West Finger neighborhood.</i>
+
+419
+00:34:10,925 --> 00:34:12,885
+<i>Will and Julie Purcell were last seen</i>
+
+420
+00:34:12,968 --> 00:34:15,638
+<i>riding their bicycles west
+on Turpin Road</i>
+
+421
+00:34:15,721 --> 00:34:19,934
+<i>not far from Devil's Den State Park,
+around 4:00 yesterday afternoon.</i>
+
+422
+00:34:20,309 --> 00:34:22,937
+<i>Police are calling on volunteers
+to aid in the search</i>
+
+423
+00:34:23,020 --> 00:34:25,981
+<i>and are asking all residents
+to keep an eye out</i>
+
+424
+00:34:26,065 --> 00:34:28,651
+<i>and report anything unusual
+they might have noticed,</i>
+
+425
+00:34:29,360 --> 00:34:31,820
+<i>or believe might be relevant
+to the case.</i>
+
+426
+00:34:31,904 --> 00:34:34,240
+<i>The brother and sister are 12 and 10,</i>
+
+427
+00:34:34,323 --> 00:34:36,700
+<i>and attend the West Finger
+school system.</i>
+
+428
+00:34:52,341 --> 00:34:54,009
+<i>AMELIA: "Tell me a story</i>
+
+429
+00:34:55,928 --> 00:34:59,515
+<i>"In this century, and moment, of mania</i>
+
+430
+00:35:01,308 --> 00:35:02,935
+<i>"Tell me a story</i>
+
+431
+00:35:05,187 --> 00:35:08,941
+"Make it a story of great distances
+and starlight
+
+432
+00:35:11,110 --> 00:35:14,029
+"The name of the story will be Time
+
+433
+00:35:14,905 --> 00:35:16,991
+"But you must not pronounce its name
+
+434
+00:35:18,450 --> 00:35:21,787
+"Tell me a story of deep delight"
+
+435
+00:35:24,290 --> 00:35:25,916
+What do you think
+Warren means by that?
+
+436
+00:35:27,251 --> 00:35:30,004
+Why mustn't you say
+the name of the story?
+
+437
+00:35:31,422 --> 00:35:32,464
+Anybody?
+
+438
+00:35:34,425 --> 00:35:35,426
+- Riley?
+-(KNOCK ON DOOR)
+
+439
+00:35:37,886 --> 00:35:40,681
+I teach English,
+eighth through 12th grade.
+
+440
+00:35:41,515 --> 00:35:42,808
+Will's a student of mine, too.
+
+441
+00:35:43,892 --> 00:35:47,771
+You got a boy in your class right now,
+a senior, named Freddy Burns?
+
+442
+00:35:51,358 --> 00:35:52,776
+Yes. He's here today.
+
+443
+00:35:53,527 --> 00:35:54,611
+We'd like to speak with him.
+
+444
+00:35:55,821 --> 00:35:56,822
+Okay.
+
+445
+00:35:57,823 --> 00:35:59,325
+What are you studying?
+
+446
+00:36:01,493 --> 00:36:02,494
+The quote.
+
+447
+00:36:03,996 --> 00:36:06,707
+Oh, uh, it's a poem we're discussing.
+
+448
+00:36:07,249 --> 00:36:08,250
+Huh.
+
+449
+00:36:18,761 --> 00:36:20,596
+- What?
+-"What?"
+
+450
+00:36:24,641 --> 00:36:26,268
+FREDDY: <i>We were just hanging out,
+you know?</i>
+
+451
+00:36:27,227 --> 00:36:29,480
+Go down to the ranger tower,
+mess around.
+
+452
+00:36:29,897 --> 00:36:31,273
+What time was that?
+
+453
+00:36:31,523 --> 00:36:32,608
+Um...
+
+454
+00:36:32,691 --> 00:36:35,194
+Maybe 4:30,
+4:45 we got there, I think.
+
+455
+00:36:35,277 --> 00:36:39,656
+And that was you,
+Ryan Peters and this Lampanella boy?
+
+456
+00:36:40,532 --> 00:36:42,576
+- Anybody drinking?
+- No, sir.
+
+457
+00:36:47,581 --> 00:36:50,793
+See on the news this morning,
+about those missing kids?
+
+458
+00:36:52,294 --> 00:36:55,047
+These two. You recognize them?
+
+459
+00:36:56,298 --> 00:36:57,508
+Yeah, I seen them around.
+
+460
+00:36:59,426 --> 00:37:00,761
+I think we saw them.
+
+461
+00:37:01,220 --> 00:37:02,513
+You saw them?
+
+462
+00:37:03,138 --> 00:37:04,348
+Riding their bikes.
+
+463
+00:37:05,307 --> 00:37:07,684
+Yesterday. We passed them
+when we were driving.
+
+464
+00:37:08,560 --> 00:37:09,728
+What time was that?
+
+465
+00:37:10,604 --> 00:37:13,774
+Maybe 4:15. Before we got to the park.
+
+466
+00:37:13,899 --> 00:37:15,943
+You saw them riding their bikes
+in the neighborhood?
+
+467
+00:37:16,735 --> 00:37:17,778
+Yes, sir.
+
+468
+00:37:18,237 --> 00:37:20,781
+Just the once?
+You didn't see them again?
+
+469
+00:37:21,323 --> 00:37:23,242
+- No, sir.
+- And they weren't out at the tower?
+
+470
+00:37:24,535 --> 00:37:25,786
+FREDDY: No. No, sir.
+
+471
+00:37:27,079 --> 00:37:28,664
+What time y'all leave the park?
+
+472
+00:37:29,081 --> 00:37:30,082
+RYAN: Uh...
+
+473
+00:37:30,165 --> 00:37:33,794
+It was about 9:00, I think.
+A little after.
+
+474
+00:37:34,545 --> 00:37:35,629
+Let me ask you.
+
+475
+00:37:38,006 --> 00:37:39,133
+What's up with this?
+
+476
+00:37:41,927 --> 00:37:45,681
+I mean, it's... It's just a band.
+
+477
+00:37:46,849 --> 00:37:48,100
+Black Sabbath, huh?
+
+478
+00:37:49,476 --> 00:37:50,519
+What's a Black Sabbath?
+
+479
+00:37:52,020 --> 00:37:53,272
+It's a satanic mass.
+
+480
+00:37:54,940 --> 00:37:57,568
+Is that true? It's satanic?
+
+481
+00:37:58,694 --> 00:37:59,945
+I think it's just their name.
+
+482
+00:38:11,665 --> 00:38:13,750
+You see either of
+these children yesterday?
+
+483
+00:38:18,046 --> 00:38:19,047
+What?
+
+484
+00:38:23,635 --> 00:38:24,720
+Yeah.
+
+485
+00:38:26,013 --> 00:38:27,347
+I mean, yes, sir. I...
+
+486
+00:38:28,348 --> 00:38:31,143
+They were out playing in the park.
+
+487
+00:38:31,768 --> 00:38:33,020
+You saw them in the park?
+
+488
+00:38:36,356 --> 00:38:38,484
+Were they up at the tower
+when y'all were hanging out?
+
+489
+00:38:39,318 --> 00:38:41,361
+No.
+
+490
+00:38:42,571 --> 00:38:44,198
+I mean, I don't think so.
+
+491
+00:38:44,281 --> 00:38:45,532
+But you don't know.
+
+492
+00:38:47,534 --> 00:38:49,661
+I don't know all the kids that
+were playing out there, you know?
+
+493
+00:38:49,870 --> 00:38:51,330
+There were other kids out there?
+
+494
+00:38:51,622 --> 00:38:53,832
+Yeah. They weren't with us.
+
+495
+00:38:55,292 --> 00:38:57,336
+There were a couple kids
+playing with firecrackers
+
+496
+00:38:57,419 --> 00:39:01,715
+and younger kids just running around,
+but we didn't talk to them.
+
+497
+00:39:02,257 --> 00:39:04,009
+You know any of their names?
+
+498
+00:39:06,220 --> 00:39:07,221
+No.
+
+499
+00:39:08,430 --> 00:39:10,557
+Anything you can tell me about Will?
+
+500
+00:39:11,934 --> 00:39:16,188
+His friends? Family?
+Any sense you might've had?
+
+501
+00:39:19,066 --> 00:39:20,192
+He's a good student.
+
+502
+00:39:21,818 --> 00:39:24,988
+Quiet, polite in homeroom.
+
+503
+00:39:25,906 --> 00:39:26,990
+He's very advanced in English.
+
+504
+00:39:30,077 --> 00:39:32,496
+As far as home, I don't really know.
+
+505
+00:39:33,163 --> 00:39:34,915
+I don't know either of his parents.
+
+506
+00:39:36,333 --> 00:39:37,626
+But he's a nice boy.
+
+507
+00:39:40,128 --> 00:39:41,672
+He has a sensitivity.
+
+508
+00:39:42,631 --> 00:39:45,676
+You always worry a bit
+about the sensitive ones.
+
+509
+00:39:46,093 --> 00:39:47,094
+Hmm.
+
+510
+00:39:47,636 --> 00:39:49,429
+There's a few of the older boys here,
+
+511
+00:39:49,513 --> 00:39:51,515
+you know, they make it hard
+on the others.
+
+512
+00:39:52,516 --> 00:39:54,768
+But I never saw Will
+getting any trouble.
+
+513
+00:39:55,644 --> 00:39:56,645
+I just...
+
+514
+00:39:57,187 --> 00:39:58,272
+(SIGHS)
+
+515
+00:39:58,355 --> 00:40:01,525
+Well, I don't think
+he got noticed much.
+
+516
+00:40:02,901 --> 00:40:04,111
+For how long you been teaching?
+
+517
+00:40:04,736 --> 00:40:07,239
+- About six years.
+- All at West Finger?
+
+518
+00:40:07,489 --> 00:40:08,574
+Yes, sir.
+
+519
+00:40:09,032 --> 00:40:10,951
+Hey, you say "sir,"
+I start looking for my boss.
+
+520
+00:40:11,285 --> 00:40:15,789
+No, I'm sorry. Just, you know. Police.
+
+521
+00:40:21,753 --> 00:40:22,838
+How is it here?
+
+522
+00:40:24,172 --> 00:40:25,215
+You know.
+
+523
+00:40:26,633 --> 00:40:27,634
+It's fine.
+
+524
+00:40:29,052 --> 00:40:31,013
+It's good, really, for what it is.
+
+525
+00:40:32,264 --> 00:40:34,224
+I hear something new and then.
+
+526
+00:40:36,018 --> 00:40:38,353
+They're all poor around here.
+That's the main thing.
+
+527
+00:40:39,563 --> 00:40:40,981
+What you hear now and then?
+
+528
+00:40:41,982 --> 00:40:45,694
+You know,
+a word in the hallway or something.
+
+529
+00:40:47,946 --> 00:40:49,489
+They're careful around me.
+
+530
+00:40:52,576 --> 00:40:53,577
+(CLEARS THROAT)
+
+531
+00:40:54,661 --> 00:40:56,371
+What about these boys,
+
+532
+00:40:57,289 --> 00:41:00,500
+Freddy Burns, Ryan Peters
+and Jason Lampanella?
+
+533
+00:41:01,501 --> 00:41:04,671
+I don't know.
+They're kinda their own little group.
+
+534
+00:41:05,839 --> 00:41:10,719
+They posture a lot,
+but I'd say they're mostly outcasts.
+
+535
+00:41:12,471 --> 00:41:16,058
+Tough attitudes, can't talk to girls,
+that kind of thing.
+
+536
+00:41:20,937 --> 00:41:22,314
+And Will's good in English?
+
+537
+00:41:22,648 --> 00:41:26,360
+Reads at a 12th-grade level,
+writes very well,
+
+538
+00:41:27,402 --> 00:41:28,904
+pays attention in class.
+
+539
+00:41:30,322 --> 00:41:32,282
+He's a bit shy about speaking up.
+
+540
+00:41:33,825 --> 00:41:34,826
+And, uh...
+
+541
+00:41:36,703 --> 00:41:37,913
+You from this area?
+
+542
+00:41:39,956 --> 00:41:41,083
+Fayetteville.
+
+543
+00:41:41,958 --> 00:41:43,251
+Still live there.
+
+544
+00:41:44,044 --> 00:41:45,295
+So do I.
+
+545
+00:41:46,046 --> 00:41:47,172
+Nice place.
+
+546
+00:41:47,839 --> 00:41:48,840
+Yep.
+
+547
+00:41:53,887 --> 00:41:55,555
+All right, um... (CLEARS THROAT)
+
+548
+00:41:56,848 --> 00:41:58,225
+Thanks very much, Miss Reardon.
+
+549
+00:41:59,017 --> 00:42:00,936
+Well, now you have me
+looking for my mother.
+
+550
+00:42:01,436 --> 00:42:02,729
+- Yeah, okay.
+-(AMELIA CHUCKLES)
+
+551
+00:42:03,772 --> 00:42:06,233
+- I'm Wayne.
+- Amelia.
+
+552
+00:42:07,567 --> 00:42:08,568
+Okay.
+
+553
+00:42:10,529 --> 00:42:12,114
+Think you'll find those children?
+
+554
+00:42:13,073 --> 00:42:14,157
+I've got hope.
+
+555
+00:42:18,161 --> 00:42:19,496
+I'll let you know
+if there's anything else.
+
+556
+00:42:19,996 --> 00:42:20,997
+Please do.
+
+557
+00:42:22,332 --> 00:42:23,583
+Anything at all.
+
+558
+00:42:27,504 --> 00:42:28,547
+Do you have a number?
+
+559
+00:42:42,352 --> 00:42:43,937
+- I'll be in touch.
+- Good.
+
+560
+00:42:53,113 --> 00:42:54,322
+Think they're lying?
+
+561
+00:42:55,407 --> 00:42:58,160
+I mean, they're lying.
+
+562
+00:42:59,828 --> 00:43:03,331
+Think it's just regular teenage lying,
+or something else?
+
+563
+00:43:04,958 --> 00:43:06,042
+I don't know.
+
+564
+00:43:07,961 --> 00:43:09,588
+The one, Burns, lied about the beer.
+
+565
+00:43:10,964 --> 00:43:12,966
+- There's lots of reasons to do that.
+- Mmm-hmm.
+
+566
+00:43:15,177 --> 00:43:17,095
+Put a couple guys
+tailing Burns and Peters.
+
+567
+00:43:17,596 --> 00:43:20,182
+Hit this address up
+for the trash can guy, Woodard.
+
+568
+00:43:21,600 --> 00:43:23,435
+Come back on the teenagers,
+we need to.
+
+569
+00:43:26,605 --> 00:43:30,108
+What about that teacher?
+You gonna come back on her?
+
+570
+00:43:35,655 --> 00:43:36,823
+Uh-huh.
+
+571
+00:43:39,701 --> 00:43:41,536
+<i>WAYNE: After the school, we, uh</i>
+
+572
+00:43:43,705 --> 00:43:45,957
+checked out that guy
+people called "Trash Man."
+
+573
+00:43:47,918 --> 00:43:48,919
+Brett Woodard.
+
+574
+00:43:54,090 --> 00:43:57,177
+<i>Used to ride around in his go-cart
+collecting garbage.</i>
+
+575
+00:43:59,387 --> 00:44:00,597
+<i>He wasn't home.</i>
+
+576
+00:44:02,182 --> 00:44:04,518
+<i>Checked around his place,
+the door was open.</i>
+
+577
+00:44:07,521 --> 00:44:10,774
+<i>Anyways,
+you know what happened with him.</i>
+
+578
+00:44:13,860 --> 00:44:15,278
+(DOG BARKING IN DISTANCE)
+
+579
+00:45:33,940 --> 00:45:35,609
+ROLAND: Think the backyard was neater.
+
+580
+00:45:43,825 --> 00:45:45,785
+A lot of guys have trouble,
+they come back.
+
+581
+00:45:46,995 --> 00:45:47,996
+Mmm-hmm.
+
+582
+00:45:49,998 --> 00:45:51,708
+ROLAND: I heard
+one of my old rodeo buddies
+
+583
+00:45:51,791 --> 00:45:53,543
+is on the street in Shreveport.
+
+584
+00:45:54,669 --> 00:45:57,172
+And another buddy
+went to prison in Oklahoma.
+
+585
+00:45:58,423 --> 00:46:00,133
+Killed a dude in a bar fight.
+
+586
+00:46:02,135 --> 00:46:03,470
+You know guys like that?
+
+587
+00:46:06,681 --> 00:46:07,682
+Couple.
+
+588
+00:46:11,353 --> 00:46:13,104
+Put an APB on this guy.
+
+589
+00:46:34,042 --> 00:46:35,251
+I'm ready to go now.
+
+590
+00:46:37,712 --> 00:46:39,089
+I don't want to be here.
+
+591
+00:46:40,215 --> 00:46:42,342
+- I need to stop for today.
+- INTERVIEWER: Oh.
+
+592
+00:46:42,634 --> 00:46:43,635
+Um...
+
+593
+00:46:43,718 --> 00:46:45,887
+Well, we didn't really
+get into the questions.
+
+594
+00:46:46,638 --> 00:46:48,932
+I understand if it's difficult
+to discuss Mr. Woodard...
+
+595
+00:46:49,015 --> 00:46:50,058
+Not today.
+
+596
+00:46:52,143 --> 00:46:53,353
+I'm sorry.
+
+597
+00:46:57,649 --> 00:47:00,568
+- You all right, Pop?
+- I think. I don't know.
+
+598
+00:47:00,735 --> 00:47:02,362
+- Can you get them out of here?
+- Yeah, sure.
+
+599
+00:47:02,696 --> 00:47:03,697
+(DOOR OPENS)
+
+600
+00:47:39,566 --> 00:47:41,192
+(DOGS GROWLING, WHINING)
+
+601
+00:47:41,276 --> 00:47:44,195
+ROLAND: Wanna thank the volunteers
+came out with us today.
+
+602
+00:47:45,113 --> 00:47:46,281
+It's a tough thing.
+
+603
+00:47:49,200 --> 00:47:50,201
+(DOGS BARKING)
+
+604
+00:47:50,285 --> 00:47:51,494
+MAN: Check this spot.
+
+605
+00:47:52,829 --> 00:47:54,789
+Get those fucking dogs away from me.
+
+606
+00:47:55,290 --> 00:47:56,291
+MAN 2: Yeah.
+
+607
+00:47:58,793 --> 00:48:00,795
+(VOLUNTEERS CHATTERING INDISTINCTLY)
+
+608
+00:48:18,271 --> 00:48:19,522
+What's your partner doing?
+
+609
+00:48:21,232 --> 00:48:22,442
+He's got his own thing.
+
+610
+00:48:23,693 --> 00:48:25,070
+Well, how's that help us?
+
+611
+00:48:26,196 --> 00:48:29,199
+Man was a LRRP in 'Nam.
+You know what that is?
+
+612
+00:48:30,658 --> 00:48:32,077
+Long range reconnaissance.
+
+613
+00:48:33,661 --> 00:48:35,497
+Drop them in the jungle alone,
+
+614
+00:48:36,664 --> 00:48:39,876
+come out two or three weeks later,
+with scalps.
+
+615
+00:48:42,587 --> 00:48:43,630
+He's like a pathfinder.
+
+616
+00:48:45,757 --> 00:48:47,550
+Tracks wild boar for fun.
+
+617
+00:48:50,386 --> 00:48:52,972
+He wanna look alone, I'm okay with it.
+
+618
+00:50:41,915 --> 00:50:42,916
+(BREATHING HEAVILY)
+
+619
+00:51:33,216 --> 00:51:35,051
+(WATER RUSHING IN DISTANCE)
+
+620
+00:51:43,893 --> 00:51:45,395
+(WATER RUSHING)
+
+621
+00:52:10,503 --> 00:52:12,130
+(BREATHING HEAVILY)
+
+622
+00:52:53,629 --> 00:52:54,630
+Shit.
+
+623
+00:53:16,277 --> 00:53:17,987
+(BREATHING HEAVILY)
+
+624
+00:53:42,804 --> 00:53:44,180
+(POLICE RADIO CRACKLES)
+
+625
+00:53:45,556 --> 00:53:46,557
+Roland?
+
+626
+00:53:47,517 --> 00:53:48,601
+ROLAND: (OVER RADIO) <i>Copy.</i>
+
+627
+00:53:49,268 --> 00:53:50,603
+I found the boy.
+
+628
+00:53:59,570 --> 00:54:00,780
+<i>AMELIA: "What is love?</i>
+
+629
+00:54:02,740 --> 00:54:05,660
+"One name for it is Knowledge."
+
+630
+00:54:16,754 --> 00:54:17,755
+- HENRY: Dad?
+-(KNOCKS AT DOOR)
+
+631
+00:54:20,133 --> 00:54:22,552
+Crew cleared out. They're gone.
+
+632
+00:54:28,933 --> 00:54:29,934
+Pop?
+
+633
+00:54:33,980 --> 00:54:35,982
+(POLICE TALKING INDISTINCTLY)
+
+634
+00:54:59,755 --> 00:55:01,090
+There's another one of them dolls.
+
+635
+00:55:02,425 --> 00:55:03,426
+Further back.
+
+636
+00:55:06,304 --> 00:55:07,930
+Right where the trail got sketchy.
+
+637
+00:55:10,558 --> 00:55:12,894
+- Bag them all.
+- Okay.
+
+638
+00:55:15,813 --> 00:55:16,814
+Leading me.
+
+639
+00:55:18,774 --> 00:55:20,359
+Like a marker or something.
+
+640
+00:55:25,490 --> 00:55:26,908
+Kid's head looked injured.
+
+641
+00:55:31,037 --> 00:55:33,080
+Did a little tunnel work
+over there, you know?
+
+642
+00:55:35,750 --> 00:55:37,293
+Almost couldn't go inside.
+
+643
+00:55:39,003 --> 00:55:40,004
+All right.
+
+644
+00:55:41,506 --> 00:55:42,840
+There's no sign of the girl.
+
+645
+00:55:43,591 --> 00:55:45,343
+We have to get back out there
+looking for her.
+
+646
+00:55:45,760 --> 00:55:48,179
+Okay, man. All right. We will.
+
+647
+00:55:53,059 --> 00:55:54,227
+<i>WAYNE“. You know what I found.</i>
+
+648
+00:55:55,811 --> 00:55:57,438
+I don't need to go back over it.
+
+649
+00:56:01,567 --> 00:56:02,568
+I think I'm done for the day,
+
+650
+00:56:02,652 --> 00:56:04,153
+unless y'all wanna tell me
+what's going on.
+
+651
+00:56:05,196 --> 00:56:07,114
+What's going on
+is the wrong man 10 years ago.
+
+652
+00:56:07,198 --> 00:56:09,367
+No shit. But tell me why.
+
+653
+00:56:13,287 --> 00:56:16,165
+Okay, I'll give y'all another
+20 minutes some other time,
+
+654
+00:56:16,749 --> 00:56:18,251
+and that's how we'll do this.
+
+655
+00:56:19,752 --> 00:56:21,379
+Maybe we'll finish up by next summer.
+
+656
+00:56:25,007 --> 00:56:27,677
+The girl, Julie.
+
+657
+00:56:27,885 --> 00:56:29,637
+- Alan, I don't...
+- What about her?
+
+658
+00:56:31,013 --> 00:56:34,308
+Her prints went into the system
+when they established the database.
+
+659
+00:56:39,146 --> 00:56:40,147
+Okay.
+
+660
+00:56:40,231 --> 00:56:43,192
+An after-hours burglary
+in Sallisaw, Oklahoma.
+
+661
+00:56:43,859 --> 00:56:44,860
+Two months ago.
+
+662
+00:56:45,695 --> 00:56:46,988
+A Walgreens.
+
+663
+00:56:47,905 --> 00:56:49,574
+Somebody broke into the pharmacy.
+
+664
+00:56:50,491 --> 00:56:52,493
+PD worked the store for fingerprints.
+
+665
+00:56:54,287 --> 00:56:55,997
+Only one set of prints hit.
+
+666
+00:56:57,957 --> 00:56:59,000
+Julie Purcell's.
+
+667
+00:57:00,918 --> 00:57:01,919
+Julie.
+
+668
+00:57:03,045 --> 00:57:04,880
+- She's alive?
+- Apparently.
+
+669
+00:57:06,549 --> 00:57:07,758
+Jesus Christ.
+
+670
+00:57:13,931 --> 00:57:15,266
+She's out there.
+
+671
+00:57:25,526 --> 00:57:26,611
+Where you going?
+
+672
+00:57:27,903 --> 00:57:28,946
+Back out.
+
+673
+00:57:30,865 --> 00:57:32,283
+We have to find her.
+
+674
+00:57:35,202 --> 00:57:36,621
+It's too dark, man.
+
+675
+00:57:37,705 --> 00:57:38,706
+I don't care.
+
