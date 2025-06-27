@@ -1,0 +1,16 @@
+feature,importance
+season,1038
+votes,885
+cast_character_name_length_avg,699
+runtime_minutes,551
+number_of_episodes,524
+cast_character_name_token_count_avg,501
+tense_future,449
+topic_2,443
+cast_size,441
+emotion_disgust,441
+avg_sentence_length,422
+episode_number,416
+pos_adjective,370
+intensity_score,360
+exclamation_rate,359
