@@ -127,16 +127,19 @@ class RatingPredictor:
             ("cat", categorical_transformer, cat_cols),
         ])
 
-        model = LGBMRegressor(
-            n_estimators=1500,
-            learning_rate=0.03,
-            num_leaves=31,
-            max_depth=-1,
-            subsample=0.8,
-            colsample_bytree=0.8,
-            random_state=self.random_state,
-            n_jobs=-1,
-        )
+        model = XGBRegressor(
+                n_estimators=82,
+                max_leaves=213,
+                min_child_weight=0.5069,
+                learning_rate=0.0529,
+                subsample=0.8682,
+                colsample_bylevel=1.0,
+                colsample_bytree=0.9380,
+                reg_alpha=0.0009766,
+                reg_lambda=0.03078,
+                tree_method="hist",  # for faster training on large datasets
+                random_state=42      # for reproducibility
+            )
 
         self.pipe = Pipeline([
             ("pre", pre),
