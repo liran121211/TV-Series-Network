@@ -3,9 +3,7 @@
 Predict IMDb ratings for individual **TV-show episodes** by fusing subtitle-level
 linguistic signals with structured metadata (cast, runtime, genre, votes, …).
 The project demonstrates an end-to-end, fully reproducible pipeline – from raw
-subtitle files and IMDb/OMDb dumps to an AutoML-tuned XGBoost regressor that
-achieves **RMSE ≈ 0.58** and **R² ≈ 0.80** (5-fold CV) on ~1 200 episodes
-spanning 150 series.
+subtitle files and IMDb/OMDb dumps to an AutoML-tuned XGBoost regressor.
 
 ---
 
@@ -24,18 +22,15 @@ spanning 150 series.
 ## 🗄️ Repository Layout
 ```
 subtitle-based-tv-prediction/
-├─ data/                    # small sample subset (full data via scripts)
-├─ notebooks/               # exploratory & evaluation notebooks
-├─ src/
-│  ├─ features/             # subtitle + metadata feature builders
-│  ├─ models/               # training / inference / SHAP
-│  └─ utils/                # IO, logging, config
-├─ scripts/
-│  ├─ download_subtitles.py
-│  ├─ fetch_imdb_metadata.py
-│  └─ train_pipeline.py
-├─ configs/                 # YAML experiment configs
-├─ requirements.txt
+├─ Data/                    # small sample subset (full data via scripts)
+  ├─ (All .srt/.json metadata)
+├─ Utils/
+  ├─NRC-Emotion-Lexicon-Wordlevel-v0.92.txt
+├─ Config.py
+├─IMDB_Analyzer.py
+├─RatingPredictor.py
+├─Subtitles_Analyzer.py
+├─Subtitles_Downloader.py
 └─ README.md
 ```
 
@@ -56,8 +51,6 @@ Create a free **OMDb** key and an **subdl.com** token, then:
 ```bash
 export OMDB_API_KEY=xxxxxxxx
 export SUBDL_API_TOKEN=yyyyyyyy
-python scripts/fetch_imdb_metadata.py   --out data/metadata.csv
-python scripts/download_subtitles.py    --metadata data/metadata.csv                                         --out data/subtitles/
 ```
 
 ### 3 . Train
