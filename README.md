@@ -37,7 +37,7 @@ Ever wondered if you could tell whether a new TV show will be a hit — just fro
     ```bash
     pip install -r requirements.txt
     ```
-3. Copy the `.env.template` file to a new file named `.env` and fill in your API keys (OMDb, SubDL, etc.).
+3. change the `.env` file and fill in your API keys (OMDb, SubDL, etc.).
 4. Download the SpaCy model:
     ```bash
     python -m spacy download en_core_web_lg
@@ -47,7 +47,7 @@ Ever wondered if you could tell whether a new TV show will be a hit — just fro
 
 ## Usage
 
-- To run a full demo, open the notebook at `notebooks/demo.ipynb` and execute all the cells.
+- To run a full demo, open the notebook at `colab_notebook.ipynb` and execute all the cells.
 - The notebook demonstrates:
   - Loading subtitles and extracting linguistic features with `SubtitlesAnalyzer`.
   - Analyzing metadata from IMDb with `CinemagoerClient`.
