@@ -1,11 +1,13 @@
-# 📺 TV Series Rating Predictor
+# TV Series Rating Predictor
+Ever wondered if you could tell whether a new TV show will be a hit — just from its first episode? This project lets you do exactly that. By analyzing the words and emotions in a show’s subtitles and combining them with IMDb metadata, you can get an early sense of how audiences might rate it. Whether you’re a producer looking to spot the next big thing, a researcher curious about what makes a show click, or just someone who loves diving deep into TV, this tool helps you peek into the future of a series before it even hits the screen.
 
-Welcome to the project for predicting IMDb ratings of TV series using subtitles analysis and IMDb metadata.  
-**Goal**: Provide a tool to analyze and estimate the potential success of TV shows from their earliest pilot episodes.
+## Google NotebookLM (Predicting TV Series Popularity through Subtitles Linguistic Features and IMDb Metrics)
 
+[Click Here To Play](https://notebooklm.google.com/notebook/034d687a-41bf-40b1-aa64-f70e198a5c6c/audio)
 ---
 
-## 📦 Project Structure
+```
+## Project Structure
 ├── src/
 │ ├── Config.py
 │ ├── IMDB_Analyzer.py
@@ -13,10 +15,10 @@ Welcome to the project for predicting IMDb ratings of TV series using subtitles 
 │ ├── Subtitles_Analyzer.py
 │ └── Subtitles_Downloader.py
 ├── notebooks/
-│ └── demo.ipynb
+│ └── colab_notebook.ipynb
 ├── Data/
-│ └── Subtitle Files
-│ ├── TV Shows Metadata Files
+│ └── Subtitle Files*.srt
+│ ├── TV Shows Metadata Files*.json
 │ ├── imdb_features_data.csv
 │ └── subtitles_features_data.csv
 ├── Logs/
@@ -24,11 +26,11 @@ Welcome to the project for predicting IMDb ratings of TV series using subtitles 
 ├── requirements.txt
 ├── .env.template
 └── README.md
-
+```
 
 ---
 
-## 🚀 Quick Installation
+## Quick Installation
 
 1. Make sure you have Python 3.10+ installed.
 2. Install dependencies:
@@ -38,12 +40,12 @@ Welcome to the project for predicting IMDb ratings of TV series using subtitles 
 3. Copy the `.env.template` file to a new file named `.env` and fill in your API keys (OMDb, SubDL, etc.).
 4. Download the SpaCy model:
     ```bash
-    python -m spacy download en_core_web_sm
+    python -m spacy download en_core_web_lg
     ```
 
 ---
 
-## 📝 Usage
+## Usage
 
 - To run a full demo, open the notebook at `notebooks/demo.ipynb` and execute all the cells.
 - The notebook demonstrates:
@@ -54,17 +56,17 @@ Welcome to the project for predicting IMDb ratings of TV series using subtitles 
 
 ---
 
-## 🗂️ Example Data
+## Example Data
 
-In the `data/example/` folder you’ll find example files:
-- A short sample subtitle file (`episode1.srt`).
-- Pre-extracted IMDb and subtitle features (`*.csv`).
+In the `Data/[TV_SHOW_NAME]/` folder you’ll find example files:
+- subtitles files (`TV_SHOW_NAME_SXX_EXX.srt`).
+- episodes and tv show metadata files (`*.json`).
 
-These examples allow you to run the full pipeline quickly without needing to download large datasets.
+These files allows you to run the full pipeline quickly without needing to download large datasets.
 
 ---
 
-## 🔑 API Keys
+## API Keys
 
 The project requires API keys for external data sources:
 - OMDb: to retrieve episode and series metadata.
@@ -75,14 +77,14 @@ Add your keys in the `.env` file using the format provided in `.env.template`.
 
 ---
 
-## 📂 Logs
+## Logs
 
 All modules generate logs automatically in the `Logs/` folder.  
 Log files help you track pipeline execution, warnings, and any errors.
 
 ---
 
-## ✅ Features
+## Features
 
 - Subtitle linguistic analysis: sentiment, repetition, stopwords ratio, lexical diversity, tense and POS distributions, emotion detection, topic modeling, coherence scores, and more.
 - IMDb metadata integration: cast features, genres, runtimes, episode/season info.
@@ -92,19 +94,19 @@ Log files help you track pipeline execution, warnings, and any errors.
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
 Feel free to open issues or submit pull requests for improvements, bug fixes, or new features.
 
 ---
 
-## 🛡️ License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 This project integrates ideas from recent research on text and network analysis of TV shows, inspired by works like:
 - Hunter et al. (2016): pilot script text networks for viewership prediction.
@@ -112,5 +114,3 @@ This project integrates ideas from recent research on text and network analysis 
 - Melody Yu (2023): character network metrics correlated with reviews.
 
 ---
-
-Enjoy exploring and predicting TV show ratings! 🚀
