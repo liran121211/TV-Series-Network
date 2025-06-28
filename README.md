@@ -47,7 +47,7 @@ Ever wondered if you could tell whether a new TV show will be a hit — just fro
 
 ## Usage
 
-- To run a full demo, open the notebook at `colab_notebook.ipynb` and execute all the cells.
+- To run a full script, open the notebook at `colab_notebook.ipynb` and execute all the cells.
 - The notebook demonstrates:
   - Loading subtitles and extracting linguistic features with `SubtitlesAnalyzer`.
   - Analyzing metadata from IMDb with `CinemagoerClient`.
